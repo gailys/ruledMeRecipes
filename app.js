@@ -26,15 +26,6 @@ const translations = {
   'almonds': 'migdolai', 'chia seeds': 'ispaninio šalavijo sėklos', 'flaxseed': 'linų sėmenys'
 };
 
-const gramsPerCup = {
-  'butter': 227, 'almond flour': 96, 'coconut flour': 112, 'erythritol': 200,
-  'peanut butter': 258, 'dark chocolate': 170, 'low-carb dark chocolate': 170,
-  'cocoa powder': 85, 'cream cheese': 225, 'parmesan cheese': 100,
-  'mozzarella cheese': 112, 'cheddar cheese': 113, 'mayonnaise': 230,
-  'sweetener': 200, 'pecans': 109, 'walnuts': 117, 'almonds': 143,
-  'chia seeds': 170, 'flaxseed': 168
-};
-
 let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
 let activeRecipeId = null;
@@ -92,16 +83,6 @@ function roundedMetric(value) {
   return Math.round(value).toLocaleString('lt-LT');
 }
 
-function findCupWeight(name) {
-  const key = name.toLowerCase();
-  const ingredient = Object.keys(gramsPerCup).sort((a,b) => b.length-a.length).find(item => key.includes(item));
-  return ingredient ? gramsPerCup[ingredient] : null;
-}
-
-function isLiquid(name) {
-  return /\b(water|cream|milk|oil|juice|broth|stock|sauce|vinegar|extract|syrup)\b/i.test(name);
-}
-
 function metricAmount(item) {
   if (item.quantity == null) return [item.quantityRaw, ''].filter(Boolean).join(' ');
   const unit = item.unit.toLowerCase().replace(/\.$/, '');
@@ -112,12 +93,9 @@ function metricAmount(item) {
   if (/^(milliliter|milliliters|ml)$/.test(unit)) return `${roundedMetric(quantity)} ml`;
   if (/^(liter|liters|l)$/.test(unit)) return `${roundedMetric(quantity * 1000)} ml`;
   if (/^(fluid ounce|fluid ounces|fl oz)$/.test(unit)) return `${roundedMetric(quantity * 29.5735)} ml`;
-  const cups = /^(cup|cups)$/.test(unit) ? quantity : /^(tablespoon|tablespoons|tbsp)$/.test(unit) ? quantity / 16 : /^(teaspoon|teaspoons|tsp)$/.test(unit) ? quantity / 48 : null;
-  if (cups != null) {
-    const weight = findCupWeight(item.name);
-    if (weight && !isLiquid(item.name)) return `${roundedMetric(cups * weight)} g`;
-    return `${roundedMetric(cups * 240)} ml`;
-  }
+  if (/^(cup|cups)$/.test(unit)) return `${formatNumber(quantity)} ${Math.abs(quantity - 1) < .001 ? 'puodelis' : 'puodelio'}`;
+  if (/^(tablespoon|tablespoons|tbsp)$/.test(unit)) return `${roundedMetric(quantity * 15)} ml`;
+  if (/^(teaspoon|teaspoons|tsp)$/.test(unit)) return `${roundedMetric(quantity * 5)} ml`;
   const unitLt = { large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skiltelė', cloves: 'skiltelės', slice: 'riekelė', slices: 'riekelės' }[unit] || item.unit;
   return `${formatNumber(quantity)}${unitLt ? ` ${unitLt}` : ''}`;
 }
