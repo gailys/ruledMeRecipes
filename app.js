@@ -326,7 +326,11 @@ function route() {
   else if (hash === '#add') {
     $('#recipes-view').hidden = false;
     renderRecipes();
-    if (!dialog.open) dialog.showModal();
+    if (!dialog.open) {
+      $('#recipe-url').value = '';
+      $('#import-status').textContent = '';
+      dialog.showModal();
+    }
     requestAnimationFrame(() => $('#recipe-url').focus());
   }
   else { $('#recipes-view').hidden = false; renderRecipes(); }
@@ -353,6 +357,9 @@ $('#import-form').addEventListener('submit', async event => {
 
 $('.dialog-close').addEventListener('click', () => { location.hash = '#recipes'; });
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') location.hash = '#recipes'; });
+$('#recipe-url').addEventListener('pointerdown', event => {
+  if (event.currentTarget.value) event.currentTarget.value = '';
+});
 
 document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
