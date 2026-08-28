@@ -10,7 +10,29 @@ const translations = {
   'onion': 'svogūnas', 'chicken breast': 'vištienos krūtinėlė', 'beef': 'jautiena', 'pork': 'kiauliena',
   'avocado': 'avokadas', 'spinach': 'špinatai', 'cheddar cheese': 'čederio sūris',
   'mozzarella cheese': 'mocarelos sūris', 'parmesan cheese': 'parmezano sūris', 'baking powder': 'kepimo milteliai',
-  'cocoa powder': 'kakavos milteliai', 'sweetener': 'saldiklis', 'mayonnaise': 'majonezas'
+  'cocoa powder': 'kakavos milteliai', 'sweetener': 'saldiklis', 'mayonnaise': 'majonezas',
+  'water': 'vanduo', 'milk': 'pienas', 'coconut milk': 'kokosų pienas', 'almond milk': 'migdolų pienas',
+  'heavy cream': 'riebi grietinėlė', 'sour cream': 'grietinė', 'greek yogurt': 'graikiškas jogurtas',
+  'coconut oil': 'kokosų aliejus', 'avocado oil': 'avokadų aliejus', 'vinegar': 'actas',
+  'apple cider vinegar': 'obuolių actas', 'lemon juice': 'citrinų sultys', 'lime juice': 'žaliųjų citrinų sultys',
+  'chicken broth': 'vištienos sultinys', 'beef broth': 'jautienos sultinys', 'tomato sauce': 'pomidorų padažas',
+  'soy sauce': 'sojų padažas', 'mustard': 'garstyčios', 'garlic powder': 'česnakų milteliai',
+  'onion powder': 'svogūnų milteliai', 'paprika': 'paprika', 'black pepper': 'juodieji pipirai',
+  'pepper': 'pipirai', 'chili powder': 'aitriųjų paprikų milteliai', 'oregano': 'raudonėlis',
+  'basil': 'bazilikas', 'parsley': 'petražolės', 'cauliflower': 'žiedinis kopūstas', 'broccoli': 'brokoliai',
+  'mushrooms': 'grybai', 'zucchini': 'cukinija', 'tomato': 'pomidoras', 'tomatoes': 'pomidorai',
+  'bacon': 'šoninė', 'ground beef': 'malta jautiena', 'chicken thighs': 'vištienos šlaunelės',
+  'salmon': 'lašiša', 'shrimp': 'krevetės', 'pecans': 'pekano riešutai', 'walnuts': 'graikiniai riešutai',
+  'almonds': 'migdolai', 'chia seeds': 'ispaninio šalavijo sėklos', 'flaxseed': 'linų sėmenys'
+};
+
+const gramsPerCup = {
+  'butter': 227, 'almond flour': 96, 'coconut flour': 112, 'erythritol': 200,
+  'peanut butter': 258, 'dark chocolate': 170, 'low-carb dark chocolate': 170,
+  'cocoa powder': 85, 'cream cheese': 225, 'parmesan cheese': 100,
+  'mozzarella cheese': 112, 'cheddar cheese': 113, 'mayonnaise': 230,
+  'sweetener': 200, 'pecans': 109, 'walnuts': 117, 'almonds': 143,
+  'chia seeds': 170, 'flaxseed': 168
 };
 
 let recipes = load(STORAGE.recipes, []);
@@ -65,6 +87,41 @@ function formatNumber(value) {
   return Number(value.toFixed(2)).toLocaleString('lt-LT');
 }
 
+function roundedMetric(value) {
+  if (value < 10) return Number(value.toFixed(1)).toLocaleString('lt-LT');
+  return Math.round(value).toLocaleString('lt-LT');
+}
+
+function findCupWeight(name) {
+  const key = name.toLowerCase();
+  const ingredient = Object.keys(gramsPerCup).sort((a,b) => b.length-a.length).find(item => key.includes(item));
+  return ingredient ? gramsPerCup[ingredient] : null;
+}
+
+function isLiquid(name) {
+  return /\b(water|cream|milk|oil|juice|broth|stock|sauce|vinegar|extract|syrup)\b/i.test(name);
+}
+
+function metricAmount(item) {
+  if (item.quantity == null) return [item.quantityRaw, ''].filter(Boolean).join(' ');
+  const unit = item.unit.toLowerCase().replace(/\.$/, '');
+  const quantity = item.quantity;
+  if (/^(ounce|ounces|oz)$/.test(unit)) return `${roundedMetric(quantity * 28.3495)} g`;
+  if (/^(pound|pounds|lb|lbs)$/.test(unit)) return `${roundedMetric(quantity * 453.592)} g`;
+  if (/^(gram|grams|g)$/.test(unit)) return `${roundedMetric(quantity)} g`;
+  if (/^(milliliter|milliliters|ml)$/.test(unit)) return `${roundedMetric(quantity)} ml`;
+  if (/^(liter|liters|l)$/.test(unit)) return `${roundedMetric(quantity * 1000)} ml`;
+  if (/^(fluid ounce|fluid ounces|fl oz)$/.test(unit)) return `${roundedMetric(quantity * 29.5735)} ml`;
+  const cups = /^(cup|cups)$/.test(unit) ? quantity : /^(tablespoon|tablespoons|tbsp)$/.test(unit) ? quantity / 16 : /^(teaspoon|teaspoons|tsp)$/.test(unit) ? quantity / 48 : null;
+  if (cups != null) {
+    const weight = findCupWeight(item.name);
+    if (weight && !isLiquid(item.name)) return `${roundedMetric(cups * weight)} g`;
+    return `${roundedMetric(cups * 240)} ml`;
+  }
+  const unitLt = { large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skiltelė', cloves: 'skiltelės', slice: 'riekelė', slices: 'riekelės' }[unit] || item.unit;
+  return `${formatNumber(quantity)}${unitLt ? ` ${unitLt}` : ''}`;
+}
+
 function translateIngredient(name) {
   const key = name.toLowerCase().replace(/,.*$/, '').replace(/\s+/g, ' ').trim();
   if (translations[key]) return translations[key];
@@ -88,7 +145,7 @@ function ingredientKey(name) {
 
 function parseIngredient(line, group = '') {
   let text = cleanMarkdown(line.replace(/^\s*[-*+]\s*/, ''));
-  const match = normalizeFraction(text).match(/^(?:(\d+(?:\.\d+)?(?:\s+\d+\/\d+)?|\d+\/\d+)\s+)?(cup|cups|tablespoon|tablespoons|tbsp|teaspoon|teaspoons|tsp|ounce|ounces|oz|pound|pounds|lb|gram|grams|g|ml|clove|cloves|slice|slices|large|medium|small)?\s*(.+)$/i);
+  const match = normalizeFraction(text).match(/^(?:(\d+(?:\.\d+)?(?:\s+\d+\/\d+)?|\d+\/\d+)\s+)?(fluid ounces|fluid ounce|fl oz|cups|cup|tablespoons|tablespoon|tbsp|teaspoons|teaspoon|tsp|ounces|ounce|oz|pounds|pound|lbs|lb|milliliters|milliliter|ml|liters|liter|grams|gram|g|cloves|clove|slices|slice|large|medium|small)?\s*(.+)$/i);
   if (!match) return null;
   const [, quantityRaw = '', unitRaw = '', rest = ''] = match;
   const quantity = parseNumber(quantityRaw);
@@ -257,8 +314,8 @@ function renderShopping() {
   else list.innerHTML = cart.map(item => `
     <div class="shopping-item ${item.done ? 'done' : ''}">
       <input type="checkbox" data-cart-check="${item.id}" ${item.done ? 'checked' : ''} aria-label="Pažymėti nupirktu" />
-      <span class="shop-qty">${escapeHtml(item.quantity == null ? item.quantityRaw : formatNumber(item.quantity))} ${escapeHtml(item.unit)}</span>
-      <span class="shop-name">${escapeHtml(item.translated)}<small>${escapeHtml(item.name)}</small></span>
+      <span class="shop-qty">${escapeHtml(metricAmount(item))}</span>
+      <span class="shop-name">${escapeHtml(translateIngredient(item.name))}<small>${escapeHtml(item.name)}</small></span>
       <button class="remove" data-cart-remove="${item.id}" aria-label="Pašalinti">×</button>
     </div>`).join('');
   updateCounts();
