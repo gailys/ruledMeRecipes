@@ -138,9 +138,11 @@ input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23,63,53,.1
   .recipe-meta .muted { font-size: 10px; }
   .pill { padding: 5px 6px; font-size: 9px; }
   .card-cart { width: 100%; justify-content: center; }
-  .install-banner { grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; padding: 14px; }
-  .install-banner .primary { grid-column: 1 / -1; width: 100%; }
-  .install-dismiss { grid-column: 3; grid-row: 1; align-self: start; }
+  .install-banner { left: 10px; right: 10px; bottom: max(10px, env(safe-area-inset-bottom)); grid-template-columns: minmax(0, 1fr) auto auto; gap: 8px; width: auto; padding: 9px 10px; transform: none; border-radius: 14px; }
+  .install-icon, .install-copy small { display: none; }
+  .install-copy strong { font-size: 13px; white-space: nowrap; }
+  .install-banner .primary { grid-column: auto; width: auto; padding: 8px 10px; font-size: 12px; }
+  .install-dismiss { grid-column: auto; grid-row: auto; align-self: center; width: 24px; height: 24px; }
   .shopping-item { grid-template-columns: auto 1fr auto; }
   .shop-qty { grid-column: 2; }
   .shop-name { grid-column: 2; }
