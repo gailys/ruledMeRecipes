@@ -45,6 +45,21 @@ function save() {
   updateCounts();
 }
 
+function migrateLegacyIngredientNames() {
+  let changed = false;
+  const fix = item => {
+    if (/^(cup|tablespoon|teaspoon|ounce|pound|gram|clove|slice)$/i.test(item.unit || '') && /^s\s+/i.test(item.name || '')) {
+      item.name = item.name.replace(/^s\s+/i, '');
+      item.unit = `${item.unit}s`;
+      item.translated = translateIngredient(item.name);
+      changed = true;
+    }
+  };
+  recipes.forEach(recipe => recipe.ingredients.forEach(fix));
+  cart.forEach(fix);
+  if (changed) save();
+}
+
 function escapeHtml(value = '') {
   return String(value).replace(/[&<>'"]/g, char => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;' }[char]));
 }
@@ -349,5 +364,6 @@ document.addEventListener('change', event => {
 
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js'));
+migrateLegacyIngredientNames();
 route();
 hydrateMissingImages();
