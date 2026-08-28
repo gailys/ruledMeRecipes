@@ -71,7 +71,10 @@ input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23,63,53,.1
 .card-cart { display: inline-flex; align-items: center; gap: 5px; padding: 8px 10px; border: 0; border-radius: 9px; background: var(--lime); color: var(--green); font-size: 11px; font-weight: 900; }
 .open-recipe, .text-button { border: 0; padding: 9px 0; background: transparent; color: var(--green); font-weight: 850; }
 .open-recipe::after { content: " →"; }
-.add-hero { max-width: 1000px; margin: 28px auto 0; }
+.add-dialog { width: min(560px, calc(100% - 28px)); padding: 0; overflow: visible; border: 0; border-radius: 20px; background: white; box-shadow: 0 24px 80px rgba(13,39,32,.28); }
+.add-dialog::backdrop { background: rgba(12,31,26,.55); backdrop-filter: blur(3px); }
+.add-dialog .import-form { max-width: none; padding: 24px; box-shadow: none; }
+.dialog-close { position: absolute; right: -10px; top: -10px; z-index: 2; display: grid; place-items: center; width: 34px; height: 34px; padding: 0; border: 0; border-radius: 50%; background: var(--green); color: white; font-size: 22px; line-height: 1; box-shadow: 0 5px 18px rgba(0,0,0,.2); }
 .empty { grid-column: 1 / -1; padding: 44px 20px; border: 1px dashed #bdc5bb; border-radius: 20px; text-align: center; color: var(--muted); }
 .back { display: inline-flex; margin-bottom: 24px; border: 0; background: transparent; color: var(--green); font-weight: 850; padding: 8px 0; }
 .detail-header { display: grid; grid-template-columns: 1fr auto; gap: 28px; align-items: end; padding-bottom: 28px; border-bottom: 1px solid var(--line); }

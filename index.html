@@ -45,23 +45,19 @@
         <div id="shopping-list" class="shopping-list"></div>
       </section>
 
-      <section id="add-view" class="view" hidden>
-        <div class="hero add-hero">
-          <p class="eyebrow">Naujas receptas</p>
-          <h1>Pridėkite receptą į savo lentyną.</h1>
-          <p>Įklijuokite Ruled.me nuorodą. Išsaugosime ingredientus, gaminimo žingsnius ir recepto nuotrauką.</p>
-          <form id="import-form" class="import-form">
-            <label for="recipe-url">Recepto nuoroda</label>
-            <div class="input-row">
-              <input id="recipe-url" name="url" type="url" inputmode="url" required
-                placeholder="https://www.ruled.me/..." value="https://www.ruled.me/keto-peanut-butter-fudge-bars/" />
-              <button type="submit" class="primary">Išsaugoti</button>
-            </div>
-            <p id="import-status" class="status" role="status"></p>
-          </form>
-        </div>
-      </section>
     </main>
+
+    <dialog id="add-dialog" class="add-dialog">
+      <button type="button" class="dialog-close" aria-label="Uždaryti">×</button>
+      <form id="import-form" class="import-form" method="dialog">
+        <div class="input-row">
+          <input id="recipe-url" name="url" type="url" inputmode="url" required aria-label="Ruled.me recepto nuoroda"
+            placeholder="Įklijuokite nuorodą, pvz. https://www.ruled.me/receptas/" />
+          <button type="submit" class="primary">Išsaugoti</button>
+        </div>
+        <p id="import-status" class="status" role="status"></p>
+      </form>
+    </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
     <script type="module" src="./app.js"></script>

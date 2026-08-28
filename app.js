@@ -317,11 +317,18 @@ function renderShopping() {
 function route() {
   const hash = location.hash || '#recipes';
   const detailMatch = hash.match(/^#recipe\/(.+)$/);
+  const dialog = $('#add-dialog');
+  if (hash !== '#add' && dialog.open) dialog.close();
   $$('.view').forEach(view => view.hidden = true);
   $$('[data-nav]').forEach(link => link.classList.toggle('active', link.getAttribute('href') === hash));
   if (detailMatch) { $('#detail-view').hidden = false; renderDetail(detailMatch[1]); }
   else if (hash === '#shopping') { $('#shopping-view').hidden = false; renderShopping(); }
-  else if (hash === '#add') { $('#add-view').hidden = false; }
+  else if (hash === '#add') {
+    $('#recipes-view').hidden = false;
+    renderRecipes();
+    if (!dialog.open) dialog.showModal();
+    requestAnimationFrame(() => $('#recipe-url').focus());
+  }
   else { $('#recipes-view').hidden = false; renderRecipes(); }
   scrollTo({ top: 0, behavior: 'instant' });
 }
@@ -343,6 +350,9 @@ $('#import-form').addEventListener('submit', async event => {
   } catch (error) { status.className = 'status error'; status.textContent = error.message || 'Nepavyko importuoti recepto.'; }
   finally { button.disabled = false; button.textContent = 'Išsaugoti'; }
 });
+
+$('.dialog-close').addEventListener('click', () => { location.hash = '#recipes'; });
+$('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') location.hash = '#recipes'; });
 
 document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
