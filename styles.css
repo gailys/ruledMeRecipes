@@ -112,8 +112,9 @@ input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23,63,53,.1
 .install-banner[hidden] { display: none; }
 .install-icon { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 12px; background: var(--lime); color: var(--green); font-family: Georgia, serif; font-size: 23px; font-weight: 800; }
 .install-copy { display: grid; gap: 2px; min-width: 0; }
-.install-copy strong { font-size: 14px; }
-.install-copy small { color: #cbd9d3; font-size: 11px; }
+.install-copy strong, .install-copy small { display: block; overflow: visible; white-space: normal; overflow-wrap: normal; }
+.install-copy strong { font-size: 14px; line-height: 1.25; }
+.install-copy small { color: #cbd9d3; font-size: 11px; line-height: 1.35; }
 .install-banner .primary { padding: 10px 14px; }
 .install-dismiss { display: grid; place-items: center; width: 28px; height: 28px; padding: 0; border: 0; background: transparent; color: #cbd9d3; font-size: 22px; }
 @media (max-width: 800px) {
@@ -137,9 +138,9 @@ input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23,63,53,.1
   .recipe-meta .muted { font-size: 10px; }
   .pill { padding: 5px 6px; font-size: 9px; }
   .card-cart { width: 100%; justify-content: center; }
-  .install-banner { grid-template-columns: auto 1fr auto; gap: 9px; }
-  .install-banner .primary { grid-column: 2; width: auto; justify-self: start; }
-  .install-dismiss { grid-column: 3; grid-row: 1; }
+  .install-banner { grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; padding: 14px; }
+  .install-banner .primary { grid-column: 1 / -1; width: 100%; }
+  .install-dismiss { grid-column: 3; grid-row: 1; align-self: start; }
   .shopping-item { grid-template-columns: auto 1fr auto; }
   .shop-qty { grid-column: 2; }
   .shop-name { grid-column: 2; }
