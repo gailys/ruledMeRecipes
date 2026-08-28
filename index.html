@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="lt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#173f35" />
+    <meta name="description" content="Išsisaugokite Ruled.me receptus, pakeiskite porcijas ir kurkite lietuvišką pirkinių sąrašą." />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Mano keto receptai</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#recipes" aria-label="Mano keto receptai">
+        <span class="brand-mark">K</span>
+        <span>Mano keto</span>
+      </a>
+      <nav aria-label="Pagrindinis meniu">
+        <a href="#recipes" data-nav="recipes">Receptai</a>
+        <a href="#shopping" data-nav="shopping">Pirkiniai <span id="cart-count" class="count">0</span></a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="recipes-view" class="view">
+        <div class="hero">
+          <p class="eyebrow">Asmeninė receptų lentyna</p>
+          <h1>Keto receptai, paruošti jūsų virtuvei.</h1>
+          <p>Įklijuokite Ruled.me nuorodą. Išsaugosime receptą, perskaičiuosime porcijas ir paruošime lietuvišką pirkinių sąrašą.</p>
+          <form id="import-form" class="import-form">
+            <label for="recipe-url">Recepto nuoroda</label>
+            <div class="input-row">
+              <input id="recipe-url" name="url" type="url" inputmode="url" required
+                placeholder="https://www.ruled.me/..." value="https://www.ruled.me/keto-peanut-butter-fudge-bars/" />
+              <button type="submit" class="primary">Išsaugoti</button>
+            </div>
+            <p id="import-status" class="status" role="status"></p>
+          </form>
+        </div>
+
+        <div class="section-heading">
+          <div><p class="eyebrow">Jūsų kolekcija</p><h2>Išsaugoti receptai</h2></div>
+          <span id="recipe-count" class="muted"></span>
+        </div>
+        <div id="recipe-grid" class="recipe-grid"></div>
+      </section>
+
+      <section id="detail-view" class="view" hidden></section>
+
+      <section id="shopping-view" class="view" hidden>
+        <div class="shopping-head">
+          <div><p class="eyebrow">Pirkinių krepšelis</p><h1>Ko reikės</h1></div>
+          <button id="clear-cart" class="text-button">Išvalyti sąrašą</button>
+        </div>
+        <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
+        <div id="shopping-list" class="shopping-list"></div>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
