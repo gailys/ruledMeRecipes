@@ -108,6 +108,14 @@ input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23,63,53,.1
 .remove { border: 0; background: transparent; color: #9c4e3a; font-size: 20px; }
 .toast { position: fixed; left: 50%; bottom: max(20px, env(safe-area-inset-bottom)); z-index: 20; transform: translate(-50%, 30px); padding: 12px 17px; border-radius: 12px; background: var(--ink); color: white; opacity: 0; pointer-events: none; transition: .2s ease; box-shadow: 0 10px 30px rgba(0,0,0,.18); }
 .toast.show { transform: translate(-50%, 0); opacity: 1; }
+.install-banner { position: fixed; left: 50%; bottom: max(16px, env(safe-area-inset-bottom)); z-index: 30; display: grid; grid-template-columns: auto 1fr auto auto; align-items: center; gap: 12px; width: min(560px, calc(100% - 28px)); padding: 12px; border: 1px solid rgba(255,255,255,.14); border-radius: 18px; background: var(--green); color: white; box-shadow: 0 18px 55px rgba(9,32,26,.32); }
+.install-banner[hidden] { display: none; }
+.install-icon { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 12px; background: var(--lime); color: var(--green); font-family: Georgia, serif; font-size: 23px; font-weight: 800; }
+.install-copy { display: grid; gap: 2px; min-width: 0; }
+.install-copy strong { font-size: 14px; }
+.install-copy small { color: #cbd9d3; font-size: 11px; }
+.install-banner .primary { padding: 10px 14px; }
+.install-dismiss { display: grid; place-items: center; width: 28px; height: 28px; padding: 0; border: 0; background: transparent; color: #cbd9d3; font-size: 22px; }
 @media (max-width: 800px) {
   main { width: min(100% - 28px, 680px); padding-top: 22px; }
   .hero { padding: 32px 22px; border-radius: 24px; }
@@ -129,6 +137,9 @@ input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23,63,53,.1
   .recipe-meta .muted { font-size: 10px; }
   .pill { padding: 5px 6px; font-size: 9px; }
   .card-cart { width: 100%; justify-content: center; }
+  .install-banner { grid-template-columns: auto 1fr auto; gap: 9px; }
+  .install-banner .primary { grid-column: 2; width: auto; justify-self: start; }
+  .install-dismiss { grid-column: 3; grid-row: 1; }
   .shopping-item { grid-template-columns: auto 1fr auto; }
   .shop-qty { grid-column: 2; }
   .shop-name { grid-column: 2; }

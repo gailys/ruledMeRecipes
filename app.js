@@ -31,6 +31,7 @@ let cart = load(STORAGE.cart, []);
 let activeRecipeId = null;
 let activeFilter = 'Visi';
 let toastTimer;
+let deferredInstallPrompt = null;
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -359,6 +360,32 @@ $('.dialog-close').addEventListener('click', () => { location.hash = '#recipes';
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') location.hash = '#recipes'; });
 $('#recipe-url').addEventListener('pointerdown', event => {
   if (event.currentTarget.value) event.currentTarget.value = '';
+});
+
+window.addEventListener('beforeinstallprompt', event => {
+  event.preventDefault();
+  deferredInstallPrompt = event;
+  if (!sessionStorage.getItem('install-dismissed')) $('#install-banner').hidden = false;
+});
+
+$('#install-app').addEventListener('click', async () => {
+  if (!deferredInstallPrompt) return;
+  deferredInstallPrompt.prompt();
+  const choice = await deferredInstallPrompt.userChoice;
+  deferredInstallPrompt = null;
+  $('#install-banner').hidden = true;
+  if (choice.outcome === 'accepted') showToast('Programėlė diegiama');
+});
+
+$('#dismiss-install').addEventListener('click', () => {
+  $('#install-banner').hidden = true;
+  sessionStorage.setItem('install-dismissed', '1');
+});
+
+window.addEventListener('appinstalled', () => {
+  deferredInstallPrompt = null;
+  $('#install-banner').hidden = true;
+  showToast('„Mano keto“ įdiegta');
 });
 
 document.addEventListener('click', event => {
