@@ -16,6 +16,7 @@ const translations = {
 let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
 let activeRecipeId = null;
+let activeFilter = 'Visi';
 let toastTimer;
 
 const $ = (selector, root = document) => root.querySelector(selector);
@@ -71,6 +72,16 @@ function translateIngredient(name) {
   return partial ? key.replace(partial, translations[partial]) : name;
 }
 
+function inferCategory(title, markdown = '') {
+  const text = `${title} ${markdown.slice(0, 1800)}`.toLowerCase();
+  if (/dessert|cake|cookie|brownie|fudge|sweet|chocolate|ice cream|pudding|cheesecake|cupcake|pie\b/.test(text)) return 'Desertai';
+  if (/breakfast|pancake|waffle|omelet|omelette|morning|cereal/.test(text)) return 'Pusryčiai';
+  if (/snack|bite|chips|cracker|dip\b|fat bomb/.test(text)) return 'Užkandžiai';
+  if (/lunch|salad|wrap|sandwich|soup/.test(text)) return 'Pietūs';
+  if (/dinner|chicken|beef|pork|salmon|casserole|steak|pizza|pasta|lasagna/.test(text)) return 'Vakarienė';
+  return 'Kita';
+}
+
 function ingredientKey(name) {
   return name.toLowerCase().replace(/\b(melted|chopped|ground|such as.*|to taste)\b/g, '').replace(/[^a-ząčęėįšųūž ]/gi, '').trim();
 }
@@ -121,7 +132,7 @@ function parseRecipe(markdown, url) {
   });
 
   if (ingredients.length < 2) throw new Error('Nepavyko atpažinti ingredientų. Patikrinkite, ar tai Ruled.me recepto nuoroda.');
-  return { id: crypto.randomUUID(), title, url, servings, ingredients, instructions, savedAt: new Date().toISOString() };
+  return { id: crypto.randomUUID(), title, url, servings, category: inferCategory(title, markdown), ingredients, instructions, savedAt: new Date().toISOString() };
 }
 
 async function fetchRecipe(url) {
@@ -130,7 +141,28 @@ async function fetchRecipe(url) {
   const endpoint = `https://r.jina.ai/${url}`;
   const response = await fetch(endpoint, { headers: { Accept: 'text/plain' } });
   if (!response.ok) throw new Error(`Recepto puslapis nepasiekiamas (${response.status}).`);
-  return parseRecipe(await response.text(), url);
+  const recipe = parseRecipe(await response.text(), url);
+  recipe.image = await fetchFeaturedImage(url).catch(() => '');
+  return recipe;
+}
+
+async function fetchFeaturedImage(url) {
+  const slug = new URL(url).pathname.split('/').filter(Boolean).pop();
+  const api = `https://www.ruled.me/wp-json/wp/v2/posts?slug=${encodeURIComponent(slug)}&_embed`;
+  const response = await fetch(`https://r.jina.ai/${api}`, { headers: { Accept: 'text/plain' } });
+  if (!response.ok) return '';
+  const text = await response.text();
+  const sources = [...text.matchAll(/"source_url"\s*:\s*"([^"]+)"/g)].map(match => match[1].replace(/\\\//g, '/'));
+  return sources.find(source => !/-\d+x\d+\.[a-z]+(?:\?|$)/i.test(source)) || sources.at(-1) || '';
+}
+
+async function hydrateMissingImages() {
+  const missing = recipes.filter(recipe => !recipe.image);
+  for (const recipe of missing) {
+    recipe.image = await fetchFeaturedImage(recipe.url).catch(() => '');
+    recipe.category ||= inferCategory(recipe.title);
+    save(); renderRecipes();
+  }
 }
 
 function updateCounts() {
@@ -140,15 +172,26 @@ function updateCounts() {
 
 function renderRecipes() {
   const grid = $('#recipe-grid');
+  const categories = ['Visi', ...new Set(recipes.map(recipe => recipe.category || 'Kita'))];
+  $('#category-filters').innerHTML = categories.map(category => `<button class="filter-chip ${category === activeFilter ? 'active' : ''}" data-filter="${escapeHtml(category)}">${escapeHtml(category)}</button>`).join('');
+  if (!categories.includes(activeFilter)) activeFilter = 'Visi';
+  const visible = activeFilter === 'Visi' ? recipes : recipes.filter(recipe => (recipe.category || 'Kita') === activeFilter);
   if (!recipes.length) {
-    grid.innerHTML = '<div class="empty"><strong>Jūsų receptų lentyna dar tuščia.</strong><br>Įklijuokite pirmąją nuorodą aukščiau.</div>';
+    grid.innerHTML = '<div class="empty"><strong>Jūsų receptų lentyna dar tuščia.</strong><br>Pasirinkite „Pridėti“ ir įklijuokite pirmąją Ruled.me nuorodą.</div>';
+  } else if (!visible.length) {
+    grid.innerHTML = '<div class="empty">Šioje kategorijoje receptų dar nėra.</div>';
   } else {
-    grid.innerHTML = recipes.map(recipe => `
+    grid.innerHTML = visible.map(recipe => `
       <article class="recipe-card">
-        <span class="pill">${recipe.servings} porc.</span>
-        <h3>${escapeHtml(recipe.title)}</h3>
-        <p>${recipe.ingredients.length} ingredientų · ${recipe.instructions.length} gaminimo žingsnių</p>
-        <footer><button class="open-recipe" data-id="${recipe.id}">Atidaryti</button><button class="remove" data-delete="${recipe.id}" aria-label="Ištrinti receptą">×</button></footer>
+        <button class="recipe-image-button" data-open-recipe="${recipe.id}" aria-label="Atidaryti ${escapeHtml(recipe.title)}">
+          ${recipe.image ? `<img class="recipe-image" src="${escapeHtml(recipe.image)}" alt="" loading="lazy" />` : '<span class="recipe-image-fallback">K</span>'}
+        </button>
+        <div class="recipe-body">
+          <div class="recipe-meta"><span class="pill">${escapeHtml(recipe.category || 'Kita')}</span><span class="muted">${recipe.servings} porc.</span></div>
+          <button class="recipe-title-button" data-open-recipe="${recipe.id}"><h3>${escapeHtml(recipe.title)}</h3></button>
+          <p>${recipe.ingredients.length} ingredientų · ${recipe.instructions.length} žingsnių</p>
+          <footer><button class="card-cart" data-quick-cart="${recipe.id}">＋ Į pirkinius</button><button class="remove" data-delete="${recipe.id}" aria-label="Ištrinti receptą">×</button></footer>
+        </div>
       </article>`).join('');
   }
   updateCounts();
@@ -197,6 +240,17 @@ function addSelectedToCart() {
   save(); showToast(`${selected.length} produktai pridėti`);
 }
 
+function addRecipeToCart(recipe, items = recipe.ingredients) {
+  const servings = recipe.currentServings || recipe.servings;
+  items.forEach(item => {
+    const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
+    const existing = cart.find(entry => entry.key === key && entry.unit.toLowerCase() === item.unit.toLowerCase());
+    if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
+    else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
+  });
+  save(); showToast(`${items.length} produktai pridėti`);
+}
+
 function renderShopping() {
   const list = $('#shopping-list');
   if (!cart.length) list.innerHTML = '<div class="empty"><strong>Pirkinių sąrašas tuščias.</strong><br>Atidarykite receptą ir pridėkite reikalingus ingredientus.</div>';
@@ -217,6 +271,7 @@ function route() {
   $$('[data-nav]').forEach(link => link.classList.toggle('active', link.getAttribute('href') === hash));
   if (detailMatch) { $('#detail-view').hidden = false; renderDetail(detailMatch[1]); }
   else if (hash === '#shopping') { $('#shopping-view').hidden = false; renderShopping(); }
+  else if (hash === '#add') { $('#add-view').hidden = false; }
   else { $('#recipes-view').hidden = false; renderRecipes(); }
   scrollTo({ top: 0, behavior: 'instant' });
 }
@@ -241,7 +296,9 @@ $('#import-form').addEventListener('submit', async event => {
 
 document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
-  if (target.matches('.open-recipe')) location.hash = `#recipe/${target.dataset.id}`;
+  if (target.matches('[data-open-recipe]')) location.hash = `#recipe/${target.dataset.openRecipe}`;
+  if (target.matches('[data-filter]')) { activeFilter = target.dataset.filter; renderRecipes(); }
+  if (target.matches('[data-quick-cart]')) { const recipe = recipes.find(item => item.id === target.dataset.quickCart); if (recipe) addRecipeToCart(recipe); }
   if (target.matches('[data-back]')) location.hash = '#recipes';
   if (target.matches('[data-delete]')) { if (confirm('Ištrinti šį receptą?')) { recipes = recipes.filter(item => item.id !== target.dataset.delete); save(); renderRecipes(); } }
   if (target.matches('[data-step]')) { const recipe = recipes.find(item => item.id === activeRecipeId); const next = Math.max(1, (recipe.currentServings || recipe.servings) + Number(target.dataset.step)); renderDetail(recipe.id, next); }
@@ -258,3 +315,4 @@ document.addEventListener('change', event => {
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js'));
 route();
+hydrateMissingImages();

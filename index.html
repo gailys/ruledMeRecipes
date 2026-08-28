@@ -20,30 +20,17 @@
       <nav aria-label="Pagrindinis meniu">
         <a href="#recipes" data-nav="recipes">Receptai</a>
         <a href="#shopping" data-nav="shopping">Pirkiniai <span id="cart-count" class="count">0</span></a>
+        <a href="#add" data-nav="add">Pridėti</a>
       </nav>
     </header>
 
     <main>
       <section id="recipes-view" class="view">
-        <div class="hero">
-          <p class="eyebrow">Asmeninė receptų lentyna</p>
-          <h1>Keto receptai, paruošti jūsų virtuvei.</h1>
-          <p>Įklijuokite Ruled.me nuorodą. Išsaugosime receptą, perskaičiuosime porcijas ir paruošime lietuvišką pirkinių sąrašą.</p>
-          <form id="import-form" class="import-form">
-            <label for="recipe-url">Recepto nuoroda</label>
-            <div class="input-row">
-              <input id="recipe-url" name="url" type="url" inputmode="url" required
-                placeholder="https://www.ruled.me/..." value="https://www.ruled.me/keto-peanut-butter-fudge-bars/" />
-              <button type="submit" class="primary">Išsaugoti</button>
-            </div>
-            <p id="import-status" class="status" role="status"></p>
-          </form>
-        </div>
-
-        <div class="section-heading">
-          <div><p class="eyebrow">Jūsų kolekcija</p><h2>Išsaugoti receptai</h2></div>
+        <div class="library-heading">
+          <div><p class="eyebrow">Jūsų kolekcija</p><h1>Mano receptai</h1></div>
           <span id="recipe-count" class="muted"></span>
         </div>
+        <div id="category-filters" class="filters" aria-label="Filtruoti receptus"></div>
         <div id="recipe-grid" class="recipe-grid"></div>
       </section>
 
@@ -56,6 +43,23 @@
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
         <div id="shopping-list" class="shopping-list"></div>
+      </section>
+
+      <section id="add-view" class="view" hidden>
+        <div class="hero add-hero">
+          <p class="eyebrow">Naujas receptas</p>
+          <h1>Pridėkite receptą į savo lentyną.</h1>
+          <p>Įklijuokite Ruled.me nuorodą. Išsaugosime ingredientus, gaminimo žingsnius ir recepto nuotrauką.</p>
+          <form id="import-form" class="import-form">
+            <label for="recipe-url">Recepto nuoroda</label>
+            <div class="input-row">
+              <input id="recipe-url" name="url" type="url" inputmode="url" required
+                placeholder="https://www.ruled.me/..." value="https://www.ruled.me/keto-peanut-butter-fudge-bars/" />
+              <button type="submit" class="primary">Išsaugoti</button>
+            </div>
+            <p id="import-status" class="status" role="status"></p>
+          </form>
+        </div>
       </section>
     </main>
 
