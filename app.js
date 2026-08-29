@@ -1,4 +1,5 @@
-const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1' };
+const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1' };
+const pantrySuggestions = ['garlic powder', 'black pepper', 'salt', 'olive oil', 'onion powder', 'paprika'];
 
 const translations = {
   'butter': 'sviestas', 'almond flour': 'migdolų miltai', 'erythritol': 'eritritolis',
@@ -76,6 +77,7 @@ const ingredientAliases = [
 
 let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
+let pantry = load(STORAGE.pantry, []);
 let activeRecipeId = null;
 let activeFilter = 'Visi';
 let toastTimer;
@@ -93,6 +95,7 @@ function load(key, fallback) {
 function save() {
   localStorage.setItem(STORAGE.recipes, JSON.stringify(recipes));
   localStorage.setItem(STORAGE.cart, JSON.stringify(cart));
+  localStorage.setItem(STORAGE.pantry, JSON.stringify(pantry));
   updateCounts();
 }
 
@@ -123,6 +126,8 @@ function migrateLegacyIngredientNames() {
     else consolidated.push(item);
   });
   if (consolidated.length !== cart.length) cart = consolidated;
+  const neededCart = cart.filter(item => !isInPantry(item.name));
+  if (neededCart.length !== cart.length) { cart = neededCart; changed = true; }
   if (changed) save();
 }
 
@@ -207,6 +212,26 @@ function inferCategory(title, markdown = '') {
 
 function ingredientKey(name) {
   return canonicalIngredientName(name).replace(/[^a-ząčęėįšųūž ]/gi, '').trim();
+}
+
+function pantryKeyFromInput(value) {
+  const normalized = value.toLowerCase().replace(/\s+/g, ' ').trim();
+  const translatedMatch = Object.entries(translations).find(([, lithuanian]) => lithuanian.toLowerCase() === normalized);
+  return ingredientKey(translatedMatch ? translatedMatch[0] : value);
+}
+
+function isInPantry(name) {
+  return pantry.some(item => item.key === ingredientKey(name));
+}
+
+function addToPantry(name, label = '') {
+  const key = pantryKeyFromInput(name);
+  if (!key || pantry.some(item => item.key === key)) return false;
+  const englishName = Object.keys(translations).find(item => ingredientKey(item) === key) || name;
+  pantry.push({ key, name: label || translateIngredient(englishName) || name });
+  cart = cart.filter(item => item.key !== key && ingredientKey(item.name) !== key);
+  save();
+  return true;
 }
 
 function parseIngredient(line, group = '') {
@@ -308,6 +333,7 @@ async function hydrateMissingImages() {
 
 function updateCounts() {
   $('#cart-count').textContent = cart.length;
+  $('#pantry-count').textContent = pantry.length;
   $('#recipe-count').textContent = recipes.length ? `${recipes.length} ${recipes.length === 1 ? 'receptas' : 'receptai'}` : '';
 }
 
@@ -376,24 +402,26 @@ function addSelectedToCart() {
   const recipe = recipes.find(item => item.id === activeRecipeId); if (!recipe) return;
   const servings = recipe.currentServings || recipe.servings;
   const selected = $$('[data-ingredient]:checked', $('#detail-view')).map(input => recipe.ingredients.find(item => item.id === input.dataset.ingredient)).filter(Boolean);
-  selected.forEach(item => {
+  const needed = selected.filter(item => !isInPantry(item.name));
+  needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
     const existing = cart.find(entry => entry.key === key && entry.unit.toLowerCase() === item.unit.toLowerCase());
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
-  save(); showToast(`${selected.length} produktai pridėti`);
+  save(); showToast(`${needed.length} produktai pridėti${selected.length !== needed.length ? ` · ${selected.length - needed.length} turite` : ''}`);
 }
 
 function addRecipeToCart(recipe, items = recipe.ingredients) {
   const servings = recipe.currentServings || recipe.servings;
-  items.forEach(item => {
+  const needed = items.filter(item => !isInPantry(item.name));
+  needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
     const existing = cart.find(entry => entry.key === key && entry.unit.toLowerCase() === item.unit.toLowerCase());
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
-  save(); showToast(`${items.length} produktai pridėti`);
+  save(); showToast(`${needed.length} produktai pridėti${items.length !== needed.length ? ` · ${items.length - needed.length} turite` : ''}`);
 }
 
 function renderShopping() {
@@ -404,8 +432,15 @@ function renderShopping() {
       <input type="checkbox" data-cart-check="${item.id}" ${item.done ? 'checked' : ''} aria-label="Pažymėti nupirktu" />
       <span class="shop-qty">${escapeHtml(metricAmount(item))}</span>
       <span class="shop-name">${escapeHtml(translateIngredient(item.name))}<small>${escapeHtml(item.name)}</small></span>
+      <button class="have-at-home" data-pantry-from="${item.id}">Visada turiu</button>
       <button class="remove" data-cart-remove="${item.id}" aria-label="Pašalinti">×</button>
     </div>`).join('');
+  updateCounts();
+}
+
+function renderPantry() {
+  $('#pantry-suggestions').innerHTML = pantrySuggestions.filter(name => !isInPantry(name)).map(name => `<button class="pantry-suggestion" data-pantry-suggestion="${escapeHtml(name)}">＋ ${escapeHtml(translateIngredient(name))}</button>`).join('');
+  $('#pantry-list').innerHTML = pantry.length ? pantry.map(item => `<span class="pantry-chip">${escapeHtml(item.name)}<button data-pantry-remove="${escapeHtml(item.key)}" aria-label="Pašalinti">×</button></span>`).join('') : '<span class="muted">Sąrašas kol kas tuščias.</span>';
   updateCounts();
 }
 
@@ -468,6 +503,14 @@ $('#import-form').addEventListener('submit', async event => {
 
 $('.dialog-close').addEventListener('click', () => { location.hash = '#recipes'; });
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') location.hash = '#recipes'; });
+$('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
+$('.pantry-close').addEventListener('click', () => $('#pantry-dialog').close());
+$('#pantry-form').addEventListener('submit', event => {
+  event.preventDefault();
+  const input = $('#pantry-input');
+  if (addToPantry(input.value.trim(), input.value.trim())) { input.value = ''; renderPantry(); renderShopping(); }
+  else showToast('Šis produktas jau įtrauktas');
+});
 
 window.addEventListener('beforeinstallprompt', event => {
   event.preventDefault();
@@ -500,6 +543,16 @@ document.addEventListener('click', event => {
   if (target.matches('[data-copy-url]')) {
     navigator.clipboard.writeText(target.dataset.copyUrl).then(() => showToast('Nuoroda nukopijuota')).catch(() => showToast('Nepavyko nukopijuoti'));
   }
+  if (target.matches('[data-pantry-from]')) {
+    const item = cart.find(entry => entry.id === target.dataset.pantryFrom);
+    if (item && addToPantry(item.name, translateIngredient(item.name))) { renderShopping(); showToast('Pridėta prie turimų namuose'); }
+  }
+  if (target.matches('[data-pantry-suggestion]')) {
+    if (addToPantry(target.dataset.pantrySuggestion, translateIngredient(target.dataset.pantrySuggestion))) { renderPantry(); renderShopping(); }
+  }
+  if (target.matches('[data-pantry-remove]')) {
+    pantry = pantry.filter(item => item.key !== target.dataset.pantryRemove); save(); renderPantry();
+  }
   if (target.matches('[data-open-recipe]')) location.hash = `#recipe/${target.dataset.openRecipe}`;
   if (target.matches('[data-filter]')) { activeFilter = target.dataset.filter; renderRecipes(); }
   if (target.matches('[data-quick-cart]')) { const recipe = recipes.find(item => item.id === target.dataset.quickCart); if (recipe) addRecipeToCart(recipe); }
@@ -519,7 +572,7 @@ document.addEventListener('change', event => {
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=13', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=14', { updateViaCache: 'none' });
     registration.update();
   });
 }

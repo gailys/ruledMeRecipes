@@ -8,7 +8,7 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=13" />
+    <link rel="stylesheet" href="./styles.css?v=14" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -39,7 +39,7 @@
       <section id="shopping-view" class="view" hidden>
         <div class="shopping-head">
           <div><p class="eyebrow">Pirkinių krepšelis</p><h1>Ko reikės</h1></div>
-          <button id="clear-cart" class="text-button">Išvalyti sąrašą</button>
+          <div class="shopping-actions"><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
         <div id="shopping-list" class="shopping-list"></div>
@@ -66,7 +66,21 @@
       </form>
     </dialog>
 
+    <dialog id="pantry-dialog" class="add-dialog pantry-dialog">
+      <button type="button" class="dialog-close pantry-close" aria-label="Uždaryti">×</button>
+      <div class="pantry-content">
+        <h2>Turimi namuose</h2>
+        <p>Šie produktai nebus pridedami į pirkinių sąrašą.</p>
+        <form id="pantry-form" class="pantry-form">
+          <input id="pantry-input" type="text" required placeholder="Pvz. česnakų milteliai" aria-label="Produkto pavadinimas" />
+          <button class="primary" type="submit">Pridėti</button>
+        </form>
+        <div id="pantry-suggestions" class="pantry-suggestions"></div>
+        <div id="pantry-list" class="pantry-list"></div>
+      </div>
+    </dialog>
+
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=13"></script>
+    <script type="module" src="./app.js?v=14"></script>
   </body>
 </html>

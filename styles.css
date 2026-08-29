@@ -101,9 +101,12 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .instruction { position: relative; padding: 0 0 18px 50px; border-bottom: 1px solid var(--line); color: #3e514c; line-height: 1.65; }
 .instruction::before { counter-increment: steps; content: counter(steps); position: absolute; left: 0; top: 0; display: grid; place-items: center; width: 32px; height: 32px; border-radius: 50%; background: var(--green); color: var(--lime); font-weight: 900; }
 .shopping-head { margin-top: 10px; }
+.shopping-actions { display: flex; align-items: center; gap: 12px; }
+.pantry-button { padding: 10px 13px; border: 1px solid var(--line); border-radius: 11px; background: var(--card); color: var(--green); font-size: 13px; font-weight: 850; }
+.pantry-button span { display: inline-grid; place-items: center; min-width: 20px; height: 20px; margin-left: 4px; padding: 0 5px; border-radius: 99px; background: var(--green); color: white; font-size: 10px; }
 .shopping-note { max-width: 650px; color: var(--muted); line-height: 1.55; }
 .shopping-list { display: grid; gap: 10px; margin-top: 30px; }
-.shopping-item { display: grid; grid-template-columns: auto minmax(80px,.35fr) 1fr auto; align-items: center; gap: 14px; padding: 15px 18px; border: 1px solid var(--line); border-radius: 16px; background: var(--card); }
+.shopping-item { display: grid; grid-template-columns: auto minmax(80px,.35fr) 1fr auto auto; align-items: center; gap: 12px; padding: 15px 18px; border: 1px solid var(--line); border-radius: 16px; background: var(--card); }
 .shopping-item input[type="checkbox"] { width: 21px; height: 21px; accent-color: var(--green); }
 .shopping-item.done { opacity: .52; }
 .shopping-item.done .shop-name { text-decoration: line-through; }
@@ -111,6 +114,16 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .shop-name { font-size: 17px; }
 .shop-name small { display: block; color: var(--muted); font-size: 12px; margin-top: 3px; }
 .remove { border: 0; background: transparent; color: #9c4e3a; font-size: 20px; }
+.have-at-home { padding: 7px 9px; border: 1px solid var(--line); border-radius: 9px; background: transparent; color: var(--muted); font-size: 11px; font-weight: 800; white-space: nowrap; }
+.pantry-content { padding: 25px; }
+.pantry-content h2 { margin-bottom: 7px; }
+.pantry-content > p { margin: 0 0 20px; color: var(--muted); font-size: 14px; }
+.pantry-form { display: grid; grid-template-columns: 1fr auto; gap: 9px; }
+.pantry-suggestions { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 15px; }
+.pantry-suggestion { padding: 7px 9px; border: 1px dashed #bdc5bb; border-radius: 99px; background: transparent; color: var(--green); font-size: 11px; font-weight: 750; }
+.pantry-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--line); }
+.pantry-chip { display: inline-flex; align-items: center; gap: 7px; padding: 8px 9px 8px 11px; border-radius: 99px; background: #edf0e5; color: var(--green); font-size: 13px; font-weight: 750; }
+.pantry-chip button { display: grid; place-items: center; width: 20px; height: 20px; padding: 0; border: 0; border-radius: 50%; background: white; color: #9c4e3a; }
 .toast { position: fixed; left: 50%; bottom: max(20px, env(safe-area-inset-bottom)); z-index: 20; transform: translate(-50%, 30px); padding: 12px 17px; border-radius: 12px; background: var(--ink); color: white; opacity: 0; pointer-events: none; transition: .2s ease; box-shadow: 0 10px 30px rgba(0,0,0,.18); }
 .toast.show { transform: translate(-50%, 0); opacity: 1; }
 .install-banner { position: fixed; left: 50%; bottom: max(16px, env(safe-area-inset-bottom)); z-index: 30; display: grid; grid-template-columns: auto 1fr auto auto; align-items: center; gap: 12px; width: min(560px, calc(100% - 28px)); padding: 12px; border: 1px solid rgba(255,255,255,.14); border-radius: 18px; background: var(--green); color: white; box-shadow: 0 18px 55px rgba(9,32,26,.32); }
@@ -151,5 +164,9 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
   .shopping-item { grid-template-columns: auto 1fr auto; }
   .shop-qty { grid-column: 2; }
   .shop-name { grid-column: 2; }
-  .remove { grid-column: 3; grid-row: 1 / span 2; }
+  .have-at-home { grid-column: 2; justify-self: start; }
+  .remove { grid-column: 3; grid-row: 1 / span 3; }
+  .shopping-head { align-items: start; }
+  .shopping-actions { align-items: flex-end; flex-direction: column; gap: 3px; }
+  .pantry-form { grid-template-columns: 1fr; }
 }
