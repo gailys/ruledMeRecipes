@@ -608,7 +608,10 @@ $('.dialog-close').addEventListener('click', () => { clearSharedRecipeQuery(); l
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') { clearSharedRecipeQuery(); location.hash = '#recipes'; } });
 $('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
 $('.pantry-close').addEventListener('click', () => $('#pantry-dialog').close());
-$('#manage-dictionary').addEventListener('click', async () => {
+$('#manage-dictionary').addEventListener('click', () => $('#settings-dialog').showModal());
+$('.settings-close').addEventListener('click', () => $('#settings-dialog').close());
+$('#open-dictionary').addEventListener('click', async () => {
+  $('#settings-dialog').close();
   if (!dictionaryData.entries.length) await loadDictionary();
   renderDictionary(); $('#dictionary-dialog').showModal();
 });
@@ -707,7 +710,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=21', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=22', { updateViaCache: 'none' });
     registration.update();
   });
 }

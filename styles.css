@@ -136,6 +136,15 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .pantry-chip { display: inline-flex; align-items: center; gap: 7px; padding: 8px 9px 8px 11px; border-radius: 99px; background: #edf0e5; color: var(--green); font-size: 13px; font-weight: 750; }
 .pantry-chip button { display: grid; place-items: center; width: 20px; height: 20px; padding: 0; border: 0; border-radius: 50%; background: white; color: #9c4e3a; }
 .dictionary-dialog { width: min(780px, calc(100% - 24px)); max-height: min(820px, calc(100dvh - 28px)); }
+.settings-dialog { width: min(440px, calc(100% - 24px)); }
+.settings-content { padding: 25px; }
+.settings-content > p { margin: 7px 0 20px; color: var(--muted); font-size: 14px; }
+.settings-option { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 13px; width: 100%; padding: 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); color: var(--green); text-align: left; }
+.settings-option:hover { background: #f1f3e9; }
+.settings-option-icon { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 12px; background: var(--green); color: var(--lime); font-family: Georgia, serif; font-size: 17px; font-weight: 800; }
+.settings-option strong, .settings-option small { display: block; }
+.settings-option small { margin-top: 3px; color: var(--muted); font-size: 11px; line-height: 1.35; }
+.settings-option-arrow { color: var(--muted); font-size: 28px; }
 .dictionary-content { padding: 25px; }
 .dictionary-content > p { margin: 7px 0 18px; color: var(--muted); font-size: 13px; }
 #dictionary-search { width: 100%; margin-bottom: 14px; }
@@ -193,7 +202,7 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
   .shopping-head { align-items: start; }
   .shopping-actions { align-items: flex-end; flex-direction: column; gap: 3px; }
   .pantry-form { grid-template-columns: 1fr; }
-  .dictionary-content { padding: 19px 14px 14px; }
+  .settings-content, .dictionary-content { padding: 19px 14px 14px; }
   .dictionary-row { grid-template-columns: 1fr auto; }
   .dictionary-row input { grid-column: 1; }
   .dictionary-reset { grid-column: 2; grid-row: 2; }
