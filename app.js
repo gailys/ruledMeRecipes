@@ -358,11 +358,6 @@ function renderRecipes() {
     grid.innerHTML = visible.map(recipe => `
       <article class="recipe-card ${recipe.pinned ? 'pinned' : ''}">
         <button class="card-pin ${recipe.pinned ? 'active' : ''}" data-pin-recipe="${recipe.id}" aria-label="${recipe.pinned ? 'Atsegti receptą' : 'Prisegti receptą viršuje'}" title="${recipe.pinned ? 'Atsegti' : 'Prisegti viršuje'}">★</button>
-        <div class="card-url-actions">
-          <button class="card-url-action" data-share-recipe="${recipe.id}" aria-label="Bendrinti receptą" title="Bendrinti">⌁</button>
-          <button class="card-url-action" data-copy-url="${escapeHtml(recipe.url)}" aria-label="Kopijuoti recepto nuorodą" title="Kopijuoti nuorodą">⧉</button>
-          <a class="card-url-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener" aria-label="Atidaryti originalų receptą" title="Atidaryti originalą">↗</a>
-        </div>
         <button class="recipe-image-button" data-open-recipe="${recipe.id}" aria-label="Atidaryti ${escapeHtml(recipe.title)}">
           ${recipe.image ? `<img class="recipe-image" src="${escapeHtml(recipe.image)}" alt="" loading="lazy" />` : '<span class="recipe-image-fallback">K</span>'}
         </button>
@@ -370,6 +365,7 @@ function renderRecipes() {
           <div class="recipe-meta"><span class="pill">${escapeHtml(recipe.category || 'Kita')}</span><span class="muted">${recipe.servings} porc.</span></div>
           <button class="recipe-title-button" data-open-recipe="${recipe.id}"><h3>${escapeHtml(recipe.title)}</h3></button>
           <p>${recipe.ingredients.length} ingredientų · ${recipe.instructions.length} žingsnių</p>
+          <div class="recipe-link-row"><a href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti</a><button data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti</button><button data-share-recipe="${recipe.id}">Bendrinti</button></div>
           <footer><button class="card-cart" data-quick-cart="${recipe.id}">＋ Į pirkinius</button><button class="remove" data-delete="${recipe.id}" aria-label="Ištrinti receptą">×</button></footer>
         </div>
       </article>`).join('');
@@ -398,7 +394,7 @@ function renderDetail(id, servingsOverride) {
   $('#detail-view').innerHTML = `
     <button class="back" data-back>← Visi receptai</button>
     <header class="detail-header">
-      <div><p class="eyebrow">Išsaugotas receptas</p><h1>${escapeHtml(recipe.title)}</h1><a class="source" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a> · <button class="text-button" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button> · <button class="text-button" data-share-recipe="${recipe.id}">Bendrinti</button></div>
+      <div><p class="eyebrow">Išsaugotas receptas</p><h1>${escapeHtml(recipe.title)}</h1><div class="detail-actions"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a><button class="detail-action" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button><button class="detail-action" data-share-recipe="${recipe.id}">Bendrinti</button></div></div>
       <div class="portion-box"><label>Porcijų skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau porcijų">−</button><strong>${servings}</strong><button data-step="1" aria-label="Daugiau porcijų">+</button></div></div>
     </header>
     <div class="detail-columns">
@@ -646,7 +642,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=17', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=18', { updateViaCache: 'none' });
     registration.update();
   });
 }

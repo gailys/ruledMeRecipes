@@ -62,8 +62,6 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .recipe-image { width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
 .recipe-card:hover .recipe-image { transform: scale(1.025); }
 .recipe-image-fallback { display: grid; place-items: center; height: 100%; color: #6e8179; font-family: Georgia, serif; font-size: 54px; background: linear-gradient(135deg, #dfe8d8, #f0e6cc); }
-.card-url-actions { position: absolute; right: 9px; top: 9px; z-index: 2; display: flex; gap: 6px; }
-.card-url-action { display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 10px; background: rgba(255,255,255,.93); color: var(--green); text-decoration: none; font-size: 16px; font-weight: 900; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
 .card-pin { position: absolute; left: 9px; top: 9px; z-index: 2; display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 10px; background: rgba(255,255,255,.93); color: #819087; font-size: 16px; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
 .card-pin.active { background: var(--lime); color: var(--green); }
 .recipe-card.pinned { border-color: #c9dc73; }
@@ -72,6 +70,11 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .recipe-card h3 { display: -webkit-box; margin: 9px 0 5px; overflow: hidden; font-family: Georgia, serif; font-size: 21px; line-height: 1.08; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
 .recipe-title-button { padding: 0; border: 0; background: transparent; color: var(--ink); text-align: left; }
 .recipe-card p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.5; }
+.recipe-link-row, .detail-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; }
+.recipe-link-row { margin-top: 8px; }
+.recipe-link-row a, .recipe-link-row button, .detail-action { padding: 5px 7px; border: 0; border-radius: 7px; background: #edf0e5; color: var(--green); font-size: 10px; font-weight: 850; text-decoration: none; }
+.detail-actions { margin-top: 15px; }
+.detail-action { padding: 9px 11px; font-size: 13px; }
 .recipe-card footer { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: auto; padding-top: 10px; }
 .pill { align-self: flex-start; padding: 6px 9px; border-radius: 8px; background: #edf0e5; color: var(--green); font-size: 11px; font-weight: 850; text-transform: uppercase; }
 .card-cart { display: inline-flex; align-items: center; gap: 5px; padding: 8px 10px; border: 0; border-radius: 9px; background: var(--lime); color: var(--green); font-size: 11px; font-weight: 900; }
