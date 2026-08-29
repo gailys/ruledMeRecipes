@@ -53,6 +53,7 @@ const ingredientAliases = [
   [/\bstevia\/erythritol blend\b|\berythritol\/stevia blend\b/i, 'sweetener'],
   [/\bunsweetened dark cocoa powder\b|\bcocoa powder\b/i, 'cocoa powder'],
   [/\bpowdered peanut butter\b/i, 'peanut butter powder'],
+  [/\bpeanut butter\b/i, 'peanut butter'], [/^(?:salted |unsalted )?butter\b/i, 'butter'],
   [/\bunsweetened shredded coconut\b|\bshredded coconut\b/i, 'shredded coconut'],
   [/\bunflavored gelatin\b/i, 'gelatin'], [/\bclear rum\b/i, 'rum'], [/\bfresh cilantro\b/i, 'cilantro'],
   [/\bwhole milk\b/i, 'whole milk'], [/\bgreen cabbage\b/i, 'green cabbage'],
@@ -127,7 +128,7 @@ function migrateLegacyIngredientNames() {
   });
   const consolidated = [];
   cart.forEach(item => {
-    const existing = consolidated.find(entry => entry.key === item.key && entry.unit.toLowerCase() === item.unit.toLowerCase() && entry.quantity != null && item.quantity != null);
+    const existing = consolidated.find(entry => entry.key === item.key && unitKey(entry.unit) === unitKey(item.unit) && entry.quantity != null && item.quantity != null);
     if (existing) { existing.quantity += item.quantity; changed = true; }
     else consolidated.push(item);
   });
@@ -190,6 +191,19 @@ function metricAmount(item) {
   if (/^(teaspoon|teaspoons|tsp)$/.test(unit)) return `${roundedMetric(quantity * 5)} ml`;
   const unitLt = { large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skiltelė', cloves: 'skiltelės', slice: 'riekelė', slices: 'riekelės' }[unit] || item.unit;
   return `${formatNumber(quantity)}${unitLt ? ` ${unitLt}` : ''}`;
+}
+
+function unitKey(unit = '') {
+  const value = unit.toLowerCase().replace(/\.$/, '').trim();
+  if (/^(cup|cups)$/.test(value)) return 'cup';
+  if (/^(tablespoon|tablespoons|tbsp)$/.test(value)) return 'tablespoon';
+  if (/^(teaspoon|teaspoons|tsp)$/.test(value)) return 'teaspoon';
+  if (/^(ounce|ounces|oz)$/.test(value)) return 'ounce';
+  if (/^(fluid ounce|fluid ounces|fl oz)$/.test(value)) return 'fluid ounce';
+  if (/^(pound|pounds|lb|lbs)$/.test(value)) return 'pound';
+  if (/^(gram|grams|g)$/.test(value)) return 'gram';
+  if (/^(milliliter|milliliters|ml)$/.test(value)) return 'milliliter';
+  return value;
 }
 
 function translateIngredient(name) {
@@ -410,7 +424,7 @@ function addSelectedToCart() {
   const needed = selected.filter(item => !isInPantry(item.name));
   needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
-    const existing = cart.find(entry => entry.key === key && entry.unit.toLowerCase() === item.unit.toLowerCase());
+    const existing = cart.find(entry => entry.key === key && unitKey(entry.unit) === unitKey(item.unit));
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
@@ -422,7 +436,7 @@ function addRecipeToCart(recipe, items = recipe.ingredients) {
   const needed = items.filter(item => !isInPantry(item.name));
   needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
-    const existing = cart.find(entry => entry.key === key && entry.unit.toLowerCase() === item.unit.toLowerCase());
+    const existing = cart.find(entry => entry.key === key && unitKey(entry.unit) === unitKey(item.unit));
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
@@ -642,7 +656,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=18', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=19', { updateViaCache: 'none' });
     registration.update();
   });
 }
