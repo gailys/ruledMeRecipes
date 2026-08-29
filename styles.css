@@ -132,6 +132,16 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .pantry-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; padding-top: 18px; border-top: 1px solid var(--line); }
 .pantry-chip { display: inline-flex; align-items: center; gap: 7px; padding: 8px 9px 8px 11px; border-radius: 99px; background: #edf0e5; color: var(--green); font-size: 13px; font-weight: 750; }
 .pantry-chip button { display: grid; place-items: center; width: 20px; height: 20px; padding: 0; border: 0; border-radius: 50%; background: white; color: #9c4e3a; }
+.dictionary-dialog { width: min(780px, calc(100% - 24px)); max-height: min(820px, calc(100dvh - 28px)); }
+.dictionary-content { padding: 25px; }
+.dictionary-content > p { margin: 7px 0 18px; color: var(--muted); font-size: 13px; }
+#dictionary-search { width: 100%; margin-bottom: 14px; }
+.dictionary-list { display: grid; gap: 8px; max-height: min(610px, calc(100dvh - 230px)); overflow-y: auto; padding-right: 3px; }
+.dictionary-row { display: grid; grid-template-columns: minmax(180px, 1fr) minmax(220px, 1fr) auto; gap: 10px; align-items: center; padding: 11px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
+.dictionary-row strong, .dictionary-row small { display: block; }
+.dictionary-row small { margin-top: 3px; color: var(--muted); font-size: 10px; line-height: 1.3; }
+.dictionary-row input { min-width: 0; }
+.dictionary-reset { width: 34px; height: 34px; padding: 0; border: 1px solid var(--line); border-radius: 9px; background: white; color: var(--green); font-size: 18px; }
 .toast { position: fixed; left: 50%; bottom: max(20px, env(safe-area-inset-bottom)); z-index: 20; transform: translate(-50%, 30px); padding: 12px 17px; border-radius: 12px; background: var(--ink); color: white; opacity: 0; pointer-events: none; transition: .2s ease; box-shadow: 0 10px 30px rgba(0,0,0,.18); }
 .toast.show { transform: translate(-50%, 0); opacity: 1; }
 .install-banner { position: fixed; left: 50%; bottom: max(16px, env(safe-area-inset-bottom)); z-index: 30; display: grid; grid-template-columns: auto 1fr auto auto; align-items: center; gap: 12px; width: min(560px, calc(100% - 28px)); padding: 12px; border: 1px solid rgba(255,255,255,.14); border-radius: 18px; background: var(--green); color: white; box-shadow: 0 18px 55px rgba(9,32,26,.32); }
@@ -177,4 +187,8 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
   .shopping-head { align-items: start; }
   .shopping-actions { align-items: flex-end; flex-direction: column; gap: 3px; }
   .pantry-form { grid-template-columns: 1fr; }
+  .dictionary-content { padding: 19px 14px 14px; }
+  .dictionary-row { grid-template-columns: 1fr auto; }
+  .dictionary-row input { grid-column: 1; }
+  .dictionary-reset { grid-column: 2; grid-row: 2; }
 }

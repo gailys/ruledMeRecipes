@@ -8,7 +8,7 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=19" />
+    <link rel="stylesheet" href="./styles.css?v=20" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -39,7 +39,7 @@
       <section id="shopping-view" class="view" hidden>
         <div class="shopping-head">
           <div><p class="eyebrow">Pirkinių krepšelis</p><h1>Ko reikės</h1></div>
-          <div class="shopping-actions"><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
+          <div class="shopping-actions"><button id="manage-dictionary" class="pantry-button">Vertimų žodynas</button><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
         <div id="shopping-list" class="shopping-list"></div>
@@ -80,7 +80,17 @@
       </div>
     </dialog>
 
+    <dialog id="dictionary-dialog" class="add-dialog dictionary-dialog">
+      <button type="button" class="dialog-close dictionary-close" aria-label="Uždaryti">×</button>
+      <div class="dictionary-content">
+        <h2>Ingredientų vertimų žodynas</h2>
+        <p id="dictionary-summary">Kraunamas žodynas…</p>
+        <input id="dictionary-search" type="search" placeholder="Ieškoti angliškai arba lietuviškai" aria-label="Ieškoti ingredientų žodyne" />
+        <div id="dictionary-list" class="dictionary-list"></div>
+      </div>
+    </dialog>
+
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=19"></script>
+    <script type="module" src="./app.js?v=20"></script>
   </body>
 </html>

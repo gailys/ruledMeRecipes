@@ -1,4 +1,4 @@
-const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1' };
+const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
 const pantrySuggestions = ['garlic powder', 'black pepper', 'salt', 'olive oil', 'onion powder', 'paprika'];
 
@@ -80,6 +80,8 @@ const ingredientAliases = [
 let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
 let pantry = load(STORAGE.pantry, []);
+let customTranslations = load(STORAGE.dictionary, {});
+let dictionaryData = { recipesAudited: 0, entries: [] };
 let activeRecipeId = null;
 let activeFilter = 'Visi';
 let toastTimer;
@@ -104,6 +106,10 @@ function save() {
   localStorage.setItem(STORAGE.cart, JSON.stringify(cart));
   localStorage.setItem(STORAGE.pantry, JSON.stringify(pantry));
   updateCounts();
+}
+
+function saveDictionary() {
+  localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations));
 }
 
 function migrateLegacyIngredientNames() {
@@ -208,6 +214,7 @@ function unitKey(unit = '') {
 
 function translateIngredient(name) {
   const key = canonicalIngredientName(name);
+  if (customTranslations[key]) return customTranslations[key];
   if (translations[key]) return translations[key];
   const partial = Object.keys(translations).sort((a,b) => b.length-a.length).find(item => key.includes(item));
   return partial ? key.replace(partial, translations[partial]) : name;
@@ -236,7 +243,7 @@ function ingredientKey(name) {
 
 function pantryKeyFromInput(value) {
   const normalized = value.toLowerCase().replace(/\s+/g, ' ').trim();
-  const translatedMatch = Object.entries(translations).find(([, lithuanian]) => lithuanian.toLowerCase() === normalized);
+  const translatedMatch = [...Object.entries(customTranslations), ...Object.entries(translations)].find(([, lithuanian]) => lithuanian.toLowerCase() === normalized);
   return ingredientKey(translatedMatch ? translatedMatch[0] : value);
 }
 
@@ -463,6 +470,35 @@ function renderPantry() {
   updateCounts();
 }
 
+function dictionaryValue(entry) {
+  return customTranslations[entry.key] ?? entry.defaultLt ?? translations[entry.key] ?? '';
+}
+
+function renderDictionary() {
+  const query = ($('#dictionary-search').value || '').toLowerCase().trim();
+  const entries = dictionaryData.entries.filter(entry => {
+    const text = [entry.english, dictionaryValue(entry), ...(entry.variants || [])].join(' ').toLowerCase();
+    return !query || text.includes(query);
+  });
+  $('#dictionary-summary').textContent = `${dictionaryData.recipesAudited} patikrintų receptų · ${dictionaryData.entries.length} ingredientų${query ? ` · rasta ${entries.length}` : ''}`;
+  $('#dictionary-list').innerHTML = entries.length ? entries.map(entry => `
+    <label class="dictionary-row">
+      <span><strong>${escapeHtml(entry.english)}</strong><small>${entry.count} receptuose${entry.variants?.length ? ` · ${escapeHtml(entry.variants.slice(0, 2).join(' / '))}` : ''}</small></span>
+      <input data-dictionary-input="${escapeHtml(entry.key)}" value="${escapeHtml(dictionaryValue(entry))}" placeholder="Įrašykite lietuvišką vertimą" />
+      <button type="button" class="dictionary-reset" data-dictionary-reset="${escapeHtml(entry.key)}" aria-label="Atstatyti vertimą">↺</button>
+    </label>`).join('') : '<div class="empty">Nieko nerasta.</div>';
+}
+
+async function loadDictionary() {
+  try {
+    const response = await fetch('./ingredient-dictionary.json');
+    if (!response.ok) throw new Error('dictionary');
+    dictionaryData = await response.json();
+  } catch {
+    dictionaryData = { recipesAudited: 0, entries: Object.keys(translations).map(key => ({ key, english: key, defaultLt: translations[key], count: 0, variants: [] })) };
+  }
+}
+
 function route() {
   const hash = location.hash || '#recipes';
   const detailMatch = hash.match(/^#recipe\/(.+)$/);
@@ -572,6 +608,12 @@ $('.dialog-close').addEventListener('click', () => { clearSharedRecipeQuery(); l
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') { clearSharedRecipeQuery(); location.hash = '#recipes'; } });
 $('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
 $('.pantry-close').addEventListener('click', () => $('#pantry-dialog').close());
+$('#manage-dictionary').addEventListener('click', async () => {
+  if (!dictionaryData.entries.length) await loadDictionary();
+  renderDictionary(); $('#dictionary-dialog').showModal();
+});
+$('.dictionary-close').addEventListener('click', () => $('#dictionary-dialog').close());
+$('#dictionary-search').addEventListener('input', renderDictionary);
 $('#pantry-form').addEventListener('submit', event => {
   event.preventDefault();
   const input = $('#pantry-input');
@@ -620,6 +662,10 @@ document.addEventListener('click', event => {
   if (target.matches('[data-pantry-remove]')) {
     pantry = pantry.filter(item => item.key !== target.dataset.pantryRemove); save(); renderPantry();
   }
+  if (target.matches('[data-dictionary-reset]')) {
+    delete customTranslations[target.dataset.dictionaryReset]; saveDictionary(); renderDictionary(); renderShopping();
+    showToast('Grąžintas pradinis vertimas');
+  }
   if (target.matches('[data-open-recipe]')) location.hash = `#recipe/${target.dataset.openRecipe}`;
   if (target.matches('[data-filter]')) { activeFilter = target.dataset.filter; renderRecipes(); }
   if (target.matches('[data-pin-recipe]')) {
@@ -638,6 +684,11 @@ document.addEventListener('click', event => {
 
 document.addEventListener('change', event => {
   if (event.target.matches('[data-cart-check]')) { const item = cart.find(i => i.id === event.target.dataset.cartCheck); if (item) item.done = event.target.checked; save(); renderShopping(); }
+  if (event.target.matches('[data-dictionary-input]')) {
+    const key = event.target.dataset.dictionaryInput; const value = event.target.value.trim();
+    if (value) customTranslations[key] = value; else delete customTranslations[key];
+    saveDictionary(); renderShopping(); showToast(value ? 'Vertimas išsaugotas' : 'Grąžintas pradinis vertimas');
+  }
 });
 
 document.addEventListener('pointerdown', event => {
@@ -656,7 +707,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=19', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=20', { updateViaCache: 'none' });
     registration.update();
   });
 }

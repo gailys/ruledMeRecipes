@@ -1,0 +1,2713 @@
+{
+  "generatedAt": "2026-08-29T07:30:20.821Z",
+  "recipesAudited": 200,
+  "entries": [
+    {
+      "key": "5 minute keto raspberry vinaigrette",
+      "english": "5 minute keto raspberry vinaigrette",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "5 Minute Keto Raspberry Vinaigrette"
+      ]
+    },
+    {
+      "key": "all-purpose seasoning",
+      "english": "all-purpose seasoning",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "all-purpose seasoning (such as Mrs. Dash)",
+        "all-purpose seasoning (like mrs. dash)"
+      ]
+    },
+    {
+      "key": "allspice",
+      "english": "allspice",
+      "defaultLt": "kvapieji pipirai",
+      "count": 3,
+      "variants": [
+        "ground allspice"
+      ]
+    },
+    {
+      "key": "allulose",
+      "english": "allulose",
+      "defaultLt": "aliuliozė",
+      "count": 18,
+      "variants": [
+        "allulose",
+        "allulose (powdered)",
+        "allulose (or your preferred sweetener)",
+        "allulose (or preferred sweetener)"
+      ]
+    },
+    {
+      "key": "almond butter",
+      "english": "almond butter",
+      "defaultLt": "almond sviestas",
+      "count": 5,
+      "variants": [
+        "almond butter"
+      ]
+    },
+    {
+      "key": "almond extract",
+      "english": "almond extract",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "almond extract"
+      ]
+    },
+    {
+      "key": "almond flour",
+      "english": "almond flour",
+      "defaultLt": "migdolų miltai",
+      "count": 52,
+      "variants": [
+        "almond flour"
+      ]
+    },
+    {
+      "key": "almonds",
+      "english": "almonds",
+      "defaultLt": "migdolai",
+      "count": 4,
+      "variants": [
+        "almonds",
+        "almonds (chopped )",
+        "almonds (sliced)"
+      ]
+    },
+    {
+      "key": "ancho chile powder",
+      "english": "ancho chile powder",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ancho chile powder"
+      ]
+    },
+    {
+      "key": "apple cider vinegar",
+      "english": "apple cider vinegar",
+      "defaultLt": "obuolių actas",
+      "count": 7,
+      "variants": [
+        "apple cider vinegar"
+      ]
+    },
+    {
+      "key": "avocado",
+      "english": "avocado",
+      "defaultLt": "avokadas",
+      "count": 9,
+      "variants": [
+        "avocado",
+        "avocado (sliced)",
+        "avocado (cubed)"
+      ]
+    },
+    {
+      "key": "avocado meat",
+      "english": "avocado meat",
+      "defaultLt": "avokadas meat",
+      "count": 1,
+      "variants": [
+        "avocado meat (mashed)"
+      ]
+    },
+    {
+      "key": "avocado oil",
+      "english": "avocado oil",
+      "defaultLt": "avokadų aliejus",
+      "count": 6,
+      "variants": [
+        "avocado oil"
+      ]
+    },
+    {
+      "key": "baby kale",
+      "english": "baby kale",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "baby kale"
+      ]
+    },
+    {
+      "key": "bacon",
+      "english": "bacon",
+      "defaultLt": "šoninė",
+      "count": 33,
+      "variants": [
+        "bacon",
+        "cooked bacon",
+        "cooked bacon (chopped)",
+        "cooked bacon (crumbled)",
+        "cooked bacon (Chopped)",
+        "bacon (cooked and chopped)"
+      ]
+    },
+    {
+      "key": "baking powder",
+      "english": "baking powder",
+      "defaultLt": "kepimo milteliai",
+      "count": 34,
+      "variants": [
+        "baking powder"
+      ]
+    },
+    {
+      "key": "baking soda",
+      "english": "baking soda",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "baking soda"
+      ]
+    },
+    {
+      "key": "banana extract",
+      "english": "banana extract",
+      "defaultLt": "bananų ekstraktas",
+      "count": 2,
+      "variants": [
+        "banana extract"
+      ]
+    },
+    {
+      "key": "basil",
+      "english": "basil",
+      "defaultLt": "bazilikas",
+      "count": 1,
+      "variants": [
+        "basil"
+      ]
+    },
+    {
+      "key": "bbq sauce",
+      "english": "bbq sauce",
+      "defaultLt": "BBQ padažas",
+      "count": 1,
+      "variants": [
+        "low-carb bbq sauce"
+      ]
+    },
+    {
+      "key": "beef broth",
+      "english": "beef broth",
+      "defaultLt": "jautienos sultinys",
+      "count": 5,
+      "variants": [
+        "beef broth"
+      ]
+    },
+    {
+      "key": "beef stew meat",
+      "english": "beef stew meat",
+      "defaultLt": "jautiena stew meat",
+      "count": 1,
+      "variants": [
+        "beef stew meat"
+      ]
+    },
+    {
+      "key": "black olives",
+      "english": "black olives",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "black olives (de-seeded and chopped)",
+        "black olives (sliced)",
+        "black olives"
+      ]
+    },
+    {
+      "key": "black pepper",
+      "english": "black pepper",
+      "defaultLt": "juodieji pipirai",
+      "count": 27,
+      "variants": [
+        "black pepper"
+      ]
+    },
+    {
+      "key": "blackberries",
+      "english": "blackberries",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "blackberries"
+      ]
+    },
+    {
+      "key": "blue cheese",
+      "english": "blue cheese",
+      "defaultLt": "mėlynasis sūris",
+      "count": 3,
+      "variants": [
+        "blue cheese (crumbled)",
+        "blue cheese"
+      ]
+    },
+    {
+      "key": "blueberries",
+      "english": "blueberries",
+      "defaultLt": "mėlynės",
+      "count": 2,
+      "variants": [
+        "blueberries"
+      ]
+    },
+    {
+      "key": "blueberry extract",
+      "english": "blueberry extract",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "blueberry extract"
+      ]
+    },
+    {
+      "key": "bok choy",
+      "english": "bok choy",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "bok choy"
+      ]
+    },
+    {
+      "key": "bone-in oxtails",
+      "english": "bone-in oxtails",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "bone-in oxtails"
+      ]
+    },
+    {
+      "key": "bone-in, skin-on pork shoulder",
+      "english": "bone-in, skin-on pork shoulder",
+      "defaultLt": "bone-in, skin-on kiauliena shoulder",
+      "count": 1,
+      "variants": [
+        "bone-in, skin-on pork shoulder (room temperature)"
+      ]
+    },
+    {
+      "key": "boneless pork chops",
+      "english": "boneless pork chops",
+      "defaultLt": "boneless kiauliena chops",
+      "count": 1,
+      "variants": [
+        "boneless pork chops"
+      ]
+    },
+    {
+      "key": "bonito flakes",
+      "english": "bonito flakes",
+      "defaultLt": "bonito dribsniai",
+      "count": 1,
+      "variants": [
+        "bonito flakes"
+      ]
+    },
+    {
+      "key": "breakfast sausage",
+      "english": "breakfast sausage",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "breakfast sausage",
+        "breakfast sausage (shaped into patties and cooked)"
+      ]
+    },
+    {
+      "key": "brewed coffee",
+      "english": "brewed coffee",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "brewed coffee"
+      ]
+    },
+    {
+      "key": "brie cheese",
+      "english": "brie cheese",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "brie cheese"
+      ]
+    },
+    {
+      "key": "broccoli",
+      "english": "broccoli",
+      "defaultLt": "brokoliai",
+      "count": 7,
+      "variants": [
+        "broccoli (chopped into small pieces)",
+        "broccoli",
+        "broccoli (florets)"
+      ]
+    },
+    {
+      "key": "broccoli slaw",
+      "english": "broccoli slaw",
+      "defaultLt": "brokoliai slaw",
+      "count": 1,
+      "variants": [
+        "broccoli slaw"
+      ]
+    },
+    {
+      "key": "brussels sprouts",
+      "english": "brussels sprouts",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "brussels sprouts"
+      ]
+    },
+    {
+      "key": "butter",
+      "english": "butter",
+      "defaultLt": "sviestas",
+      "count": 77,
+      "variants": [
+        "butter",
+        "butter (salted)",
+        "butter (for greasing pan)",
+        "butter (room temperature)",
+        "butter (softened)",
+        "butter (for greasing the pan)",
+        "butter (melted)",
+        "butter lettuce (to serve)"
+      ]
+    },
+    {
+      "key": "button mushrooms",
+      "english": "button mushrooms",
+      "defaultLt": "button grybai",
+      "count": 2,
+      "variants": [
+        "button mushrooms",
+        "button mushrooms (sliced)"
+      ]
+    },
+    {
+      "key": "cacao nibs",
+      "english": "cacao nibs",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "cacao nibs"
+      ]
+    },
+    {
+      "key": "can hearts of palm",
+      "english": "can hearts of palm",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "can hearts of palm"
+      ]
+    },
+    {
+      "key": "canned pink salmon",
+      "english": "canned pink salmon",
+      "defaultLt": "canned pink lašiša",
+      "count": 1,
+      "variants": [
+        "canned pink salmon"
+      ]
+    },
+    {
+      "key": "canned sardines",
+      "english": "canned sardines",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "canned sardines (drained)"
+      ]
+    },
+    {
+      "key": "canned sardines )",
+      "english": "canned sardines )",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "canned sardines (drained (reserve the oil))"
+      ]
+    },
+    {
+      "key": "canned tuna",
+      "english": "canned tuna",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "canned tuna (drained)"
+      ]
+    },
+    {
+      "key": "canned whole tomatoes",
+      "english": "canned whole tomatoes",
+      "defaultLt": "canned whole pomidorai",
+      "count": 1,
+      "variants": [
+        "canned whole tomatoes"
+      ]
+    },
+    {
+      "key": "capers",
+      "english": "capers",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "capers"
+      ]
+    },
+    {
+      "key": "cardamom",
+      "english": "cardamom",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "cardamom"
+      ]
+    },
+    {
+      "key": "carrot",
+      "english": "carrot",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "carrot (shredded)"
+      ]
+    },
+    {
+      "key": "cauliflower",
+      "english": "cauliflower",
+      "defaultLt": "žiedinis kopūstas",
+      "count": 14,
+      "variants": [
+        "cauliflower",
+        "cauliflower (riced)",
+        "cauliflower (chopped or processed into rice)",
+        "cauliflower (riced or cut into small florets)",
+        "cauliflower (chopped)",
+        "cauliflower (florets)",
+        "cauliflower (cut into florets)"
+      ]
+    },
+    {
+      "key": "cauliflower rice",
+      "english": "cauliflower rice",
+      "defaultLt": "žiedinis kopūstas rice",
+      "count": 3,
+      "variants": [
+        "cauliflower rice"
+      ]
+    },
+    {
+      "key": "cayenne pepper",
+      "english": "cayenne pepper",
+      "defaultLt": "cayenne pipirai",
+      "count": 6,
+      "variants": [
+        "cayenne pepper"
+      ]
+    },
+    {
+      "key": "celery",
+      "english": "celery",
+      "defaultLt": "salieras",
+      "count": 3,
+      "variants": [
+        "celery",
+        "celery (chopped)"
+      ]
+    },
+    {
+      "key": "cheddar cheese",
+      "english": "cheddar cheese",
+      "defaultLt": "čederio sūris",
+      "count": 31,
+      "variants": [
+        "cheddar cheese (grated)",
+        "cheddar cheese",
+        "cheddar cheese (shredded)",
+        "white cheddar cheese (shredded)",
+        "sharp cheddar cheese (grated)",
+        "cheddar cheese (shredded and divided)"
+      ]
+    },
+    {
+      "key": "cherry tomatoes",
+      "english": "cherry tomatoes",
+      "defaultLt": "vyšniniai pomidorai",
+      "count": 8,
+      "variants": [
+        "cherry tomatoes",
+        "cherry tomatoes (sliced)",
+        "cherry tomatoes (halved)"
+      ]
+    },
+    {
+      "key": "chia seeds",
+      "english": "chia seeds",
+      "defaultLt": "ispaninio šalavijo sėklos",
+      "count": 4,
+      "variants": [
+        "chia seeds",
+        "chia seeds (ground)"
+      ]
+    },
+    {
+      "key": "chicken breast",
+      "english": "chicken breast",
+      "defaultLt": "vištienos krūtinėlė",
+      "count": 5,
+      "variants": [
+        "boneless, skinless chicken breast (sliced in half)",
+        "boneless, skinless chicken breast"
+      ]
+    },
+    {
+      "key": "chicken broth",
+      "english": "chicken broth",
+      "defaultLt": "vištienos sultinys",
+      "count": 10,
+      "variants": [
+        "chicken broth",
+        "chicken broth (boiling)"
+      ]
+    },
+    {
+      "key": "chicken thighs",
+      "english": "chicken thighs",
+      "defaultLt": "vištienos šlaunelės",
+      "count": 10,
+      "variants": [
+        "boneless, skinless chicken thighs",
+        "bone-in, skin-on chicken thighs",
+        "bone-in, skin-on chicken thighs (de-boned and diced)"
+      ]
+    },
+    {
+      "key": "chili paste",
+      "english": "chili paste",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "chili paste",
+        "chili paste (such as sambal oelek)"
+      ]
+    },
+    {
+      "key": "chili powder",
+      "english": "chili powder",
+      "defaultLt": "aitriųjų paprikų milteliai",
+      "count": 7,
+      "variants": [
+        "chili powder"
+      ]
+    },
+    {
+      "key": "chili-garlic paste",
+      "english": "chili-garlic paste",
+      "defaultLt": "chili-česnakas paste",
+      "count": 1,
+      "variants": [
+        "chili-garlic paste (such as sambal oelek with garlic)"
+      ]
+    },
+    {
+      "key": "chipotle seasoning",
+      "english": "chipotle seasoning",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "chipotle seasoning"
+      ]
+    },
+    {
+      "key": "cilantro",
+      "english": "cilantro",
+      "defaultLt": "kalendra",
+      "count": 5,
+      "variants": [
+        "fresh cilantro (chopped)",
+        "fresh cilantro",
+        "fresh cilantro (ripped)"
+      ]
+    },
+    {
+      "key": "cloves",
+      "english": "cloves",
+      "defaultLt": "gvazdikėliai",
+      "count": 3,
+      "variants": [
+        "ground cloves"
+      ]
+    },
+    {
+      "key": "cocoa powder",
+      "english": "cocoa powder",
+      "defaultLt": "kakavos milteliai",
+      "count": 14,
+      "variants": [
+        "unsweetened dark cocoa powder",
+        "unsweetened cocoa powder",
+        "cocoa powder"
+      ]
+    },
+    {
+      "key": "coconut aminos",
+      "english": "coconut aminos",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "coconut aminos"
+      ]
+    },
+    {
+      "key": "coconut flour",
+      "english": "coconut flour",
+      "defaultLt": "kokosų miltai",
+      "count": 12,
+      "variants": [
+        "coconut flour",
+        "coconut flour (for rolling)",
+        "coconut flour (sifted)"
+      ]
+    },
+    {
+      "key": "coconut milk",
+      "english": "coconut milk",
+      "defaultLt": "kokosų pienas",
+      "count": 12,
+      "variants": [
+        "unsweetened carton coconut milk",
+        "canned coconut milk"
+      ]
+    },
+    {
+      "key": "coconut oil",
+      "english": "coconut oil",
+      "defaultLt": "kokosų aliejus",
+      "count": 20,
+      "variants": [
+        "coconut oil",
+        "coconut oil (melted)"
+      ]
+    },
+    {
+      "key": "cooked chicken",
+      "english": "cooked chicken",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "cooked chicken"
+      ]
+    },
+    {
+      "key": "cooking spray",
+      "english": "cooking spray",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "cooking spray"
+      ]
+    },
+    {
+      "key": "cottage cheese",
+      "english": "cottage cheese",
+      "defaultLt": "",
+      "count": 5,
+      "variants": [
+        "cottage cheese"
+      ]
+    },
+    {
+      "key": "cream cheese",
+      "english": "cream cheese",
+      "defaultLt": "kreminis sūris",
+      "count": 36,
+      "variants": [
+        "cream cheese",
+        "cream cheese (softened)",
+        "cream cheese (cubed)"
+      ]
+    },
+    {
+      "key": "cream of tartar",
+      "english": "cream of tartar",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "cream of tartar"
+      ]
+    },
+    {
+      "key": "cremini mushrooms",
+      "english": "cremini mushrooms",
+      "defaultLt": "rudieji pievagrybiai",
+      "count": 8,
+      "variants": [
+        "cremini mushrooms",
+        "cremini mushrooms (sliced)",
+        "cremini mushrooms (diced)",
+        "cremini mushrooms (chopped and sauteed)"
+      ]
+    },
+    {
+      "key": "cucumber",
+      "english": "cucumber",
+      "defaultLt": "agurkas",
+      "count": 8,
+      "variants": [
+        "cucumber (diced)",
+        "cucumber",
+        "cucumber (thinly sliced)",
+        "cucumber (spiralized)"
+      ]
+    },
+    {
+      "key": "cumin",
+      "english": "cumin",
+      "defaultLt": "",
+      "count": 9,
+      "variants": [
+        "cumin"
+      ]
+    },
+    {
+      "key": "curry powder",
+      "english": "curry powder",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "curry powder"
+      ]
+    },
+    {
+      "key": "deli sliced turkey",
+      "english": "deli sliced turkey",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "deli sliced turkey"
+      ]
+    },
+    {
+      "key": "deli-sliced black forest ham",
+      "english": "deli-sliced black forest ham",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "deli-sliced black forest ham"
+      ]
+    },
+    {
+      "key": "dijon mustard",
+      "english": "dijon mustard",
+      "defaultLt": "Dižono garstyčios",
+      "count": 9,
+      "variants": [
+        "dijon mustard",
+        "dijon mustard (room temp)"
+      ]
+    },
+    {
+      "key": "dill pickle",
+      "english": "dill pickle",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "dill pickle (diced)",
+        "dill pickle"
+      ]
+    },
+    {
+      "key": "dried basil",
+      "english": "dried basil",
+      "defaultLt": "dried bazilikas",
+      "count": 1,
+      "variants": [
+        "dried basil"
+      ]
+    },
+    {
+      "key": "dried dill",
+      "english": "dried dill",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "dried dill"
+      ]
+    },
+    {
+      "key": "dried rosemary",
+      "english": "dried rosemary",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "dried rosemary"
+      ]
+    },
+    {
+      "key": "drop peppermint extract",
+      "english": "drop peppermint extract",
+      "defaultLt": "drop pipiraimint extract",
+      "count": 1,
+      "variants": [
+        "drop peppermint extract (or quality, food-grade essential oil)"
+      ]
+    },
+    {
+      "key": "dry red wine",
+      "english": "dry red wine",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "dry red wine"
+      ]
+    },
+    {
+      "key": "egg",
+      "english": "egg",
+      "defaultLt": "kiaušinis",
+      "count": 75,
+      "variants": [
+        "egg",
+        "egg (room temperature)",
+        "hard-boiled egg",
+        "egg yolk",
+        "egg (beaten)",
+        "egg (hard boiled)",
+        "hard-boiled egg (chopped)",
+        "egg (room temp)"
+      ]
+    },
+    {
+      "key": "egg white",
+      "english": "egg white",
+      "defaultLt": "kiaušinio baltymas",
+      "count": 4,
+      "variants": [
+        "egg white",
+        "egg white (room temperature)"
+      ]
+    },
+    {
+      "key": "eggplant",
+      "english": "eggplant",
+      "defaultLt": "kiaušinisplant",
+      "count": 1,
+      "variants": [
+        "eggplant"
+      ]
+    },
+    {
+      "key": "erythritol",
+      "english": "erythritol",
+      "defaultLt": "eritritolis",
+      "count": 30,
+      "variants": [
+        "erythritol",
+        "erythritol (powdered)",
+        "erythritol (optional)",
+        "erythritol (or xylitol)",
+        "erythritol (for caramel)",
+        "erythritol (for custard)"
+      ]
+    },
+    {
+      "key": "extra firm tofu",
+      "english": "extra firm tofu",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "extra firm tofu"
+      ]
+    },
+    {
+      "key": "feta cheese",
+      "english": "feta cheese",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "feta cheese (crumbled)",
+        "feta cheese",
+        "feta cheese (diced)"
+      ]
+    },
+    {
+      "key": "fish sauce",
+      "english": "fish sauce",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "fish sauce"
+      ]
+    },
+    {
+      "key": "flaxseed meal",
+      "english": "flaxseed meal",
+      "defaultLt": "malti linų sėmenys",
+      "count": 17,
+      "variants": [
+        "flaxseed meal",
+        "golden flaxseed meal"
+      ]
+    },
+    {
+      "key": "fresh basil",
+      "english": "fresh basil",
+      "defaultLt": "fresh bazilikas",
+      "count": 5,
+      "variants": [
+        "fresh basil (chopped)",
+        "fresh basil"
+      ]
+    },
+    {
+      "key": "fresh chives",
+      "english": "fresh chives",
+      "defaultLt": "",
+      "count": 7,
+      "variants": [
+        "fresh chives (diced)",
+        "fresh chives (chopped)",
+        "fresh chives"
+      ]
+    },
+    {
+      "key": "fresh dill",
+      "english": "fresh dill",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "fresh dill (chopped)"
+      ]
+    },
+    {
+      "key": "fresh mint",
+      "english": "fresh mint",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "fresh mint"
+      ]
+    },
+    {
+      "key": "fresh tomatoes",
+      "english": "fresh tomatoes",
+      "defaultLt": "fresh pomidorai",
+      "count": 8,
+      "variants": [
+        "fresh tomatoes (diced)",
+        "fresh tomatoes (sliced)",
+        "fresh tomatoes",
+        "fresh tomatoes (finely diced)"
+      ]
+    },
+    {
+      "key": "frozen berries",
+      "english": "frozen berries",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "frozen berries"
+      ]
+    },
+    {
+      "key": "frozen broccoli",
+      "english": "frozen broccoli",
+      "defaultLt": "frozen brokoliai",
+      "count": 1,
+      "variants": [
+        "frozen broccoli (steamed)"
+      ]
+    },
+    {
+      "key": "frozen cauliflower",
+      "english": "frozen cauliflower",
+      "defaultLt": "frozen žiedinis kopūstas",
+      "count": 1,
+      "variants": [
+        "frozen cauliflower (florets)"
+      ]
+    },
+    {
+      "key": "frozen spinach",
+      "english": "frozen spinach",
+      "defaultLt": "frozen špinatai",
+      "count": 4,
+      "variants": [
+        "frozen spinach",
+        "frozen spinach (water squeezed out)",
+        "frozen spinach (thawed)"
+      ]
+    },
+    {
+      "key": "full-fat plain greek yogurt",
+      "english": "full-fat plain greek yogurt",
+      "defaultLt": "full-fat plain graikiškas jogurtas",
+      "count": 5,
+      "variants": [
+        "full-fat plain greek yogurt"
+      ]
+    },
+    {
+      "key": "garlic",
+      "english": "garlic",
+      "defaultLt": "česnakas",
+      "count": 26,
+      "variants": [
+        "fresh garlic",
+        "fresh garlic (minced)",
+        "fresh garlic (crushed)"
+      ]
+    },
+    {
+      "key": "garlic and herb seasoning",
+      "english": "garlic and herb seasoning",
+      "defaultLt": "česnakas and herb seasoning",
+      "count": 1,
+      "variants": [
+        "garlic and herb seasoning"
+      ]
+    },
+    {
+      "key": "garlic powder",
+      "english": "garlic powder",
+      "defaultLt": "česnakų milteliai",
+      "count": 35,
+      "variants": [
+        "garlic powder"
+      ]
+    },
+    {
+      "key": "gelatin",
+      "english": "gelatin",
+      "defaultLt": "želatina",
+      "count": 2,
+      "variants": [
+        "unflavored gelatin"
+      ]
+    },
+    {
+      "key": "ginger",
+      "english": "ginger",
+      "defaultLt": "imbieras",
+      "count": 13,
+      "variants": [
+        "ground ginger",
+        "fresh ginger (minced)",
+        "fresh ginger (grated)",
+        "fresh ginger (peeled + grated)"
+      ]
+    },
+    {
+      "key": "goat cheese",
+      "english": "goat cheese",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "goat cheese"
+      ]
+    },
+    {
+      "key": "green beans",
+      "english": "green beans",
+      "defaultLt": "šparaginės pupelės",
+      "count": 1,
+      "variants": [
+        "green beans (washed and trimmed)"
+      ]
+    },
+    {
+      "key": "green bell pepper",
+      "english": "green bell pepper",
+      "defaultLt": "green bell pipirai",
+      "count": 4,
+      "variants": [
+        "green bell pepper",
+        "green bell pepper (diced)"
+      ]
+    },
+    {
+      "key": "green cabbage",
+      "english": "green cabbage",
+      "defaultLt": "žaliasis kopūstas",
+      "count": 5,
+      "variants": [
+        "green cabbage (shredded)",
+        "green cabbage"
+      ]
+    },
+    {
+      "key": "green onion",
+      "english": "green onion",
+      "defaultLt": "svogūnų laiškai",
+      "count": 9,
+      "variants": [
+        "green onion",
+        "green onion (sliced)",
+        "green onion (sliced thin)",
+        "green onion (optional)",
+        "green onion (chopped)",
+        "green onion (chopped for garnish)"
+      ]
+    },
+    {
+      "key": "ground beef",
+      "english": "ground beef",
+      "defaultLt": "malta jautiena",
+      "count": 7,
+      "variants": [
+        "ground beef",
+        "ground beef (80/20)",
+        "ground beef (85/15)"
+      ]
+    },
+    {
+      "key": "ground cinnamon",
+      "english": "ground cinnamon",
+      "defaultLt": "maltas cinamonas",
+      "count": 17,
+      "variants": [
+        "ground cinnamon"
+      ]
+    },
+    {
+      "key": "ground coriander",
+      "english": "ground coriander",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ground coriander"
+      ]
+    },
+    {
+      "key": "ground lamb",
+      "english": "ground lamb",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ground lamb"
+      ]
+    },
+    {
+      "key": "ground mild italian sausage",
+      "english": "ground mild italian sausage",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ground mild italian sausage"
+      ]
+    },
+    {
+      "key": "ground turkey",
+      "english": "ground turkey",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ground turkey"
+      ]
+    },
+    {
+      "key": "gruyere cheese",
+      "english": "gruyere cheese",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "gruyere cheese (shredded)"
+      ]
+    },
+    {
+      "key": "guar gum",
+      "english": "guar gum",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "guar gum"
+      ]
+    },
+    {
+      "key": "half-and-half",
+      "english": "half-and-half",
+      "defaultLt": "grietinėlės ir pieno mišinys",
+      "count": 3,
+      "variants": [
+        "half-and-half"
+      ]
+    },
+    {
+      "key": "ham",
+      "english": "ham",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ham (diced)"
+      ]
+    },
+    {
+      "key": "heavy cream",
+      "english": "heavy cream",
+      "defaultLt": "riebi grietinėlė",
+      "count": 44,
+      "variants": [
+        "heavy whipping cream",
+        "heavy cream",
+        "heavy cream (chilled well)"
+      ]
+    },
+    {
+      "key": "hemp hearts",
+      "english": "hemp hearts",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "hemp hearts"
+      ]
+    },
+    {
+      "key": "hemp seeds",
+      "english": "hemp seeds",
+      "defaultLt": "kanapių sėklos",
+      "count": 2,
+      "variants": [
+        "hemp seeds"
+      ]
+    },
+    {
+      "key": "hoisin sauce",
+      "english": "hoisin sauce",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "hoisin sauce"
+      ]
+    },
+    {
+      "key": "hot dogs",
+      "english": "hot dogs",
+      "defaultLt": "dešrainių dešrelės",
+      "count": 2,
+      "variants": [
+        "beef hot dogs"
+      ]
+    },
+    {
+      "key": "hot sauce",
+      "english": "hot sauce",
+      "defaultLt": "aštrus padažas",
+      "count": 3,
+      "variants": [
+        "hot sauce",
+        "hot sauce (such as Frank's)"
+      ]
+    },
+    {
+      "key": "ice cubes",
+      "english": "ice cubes",
+      "defaultLt": "ledo kubeliai",
+      "count": 7,
+      "variants": [
+        "ice cubes",
+        "ice cubes (crushed)"
+      ]
+    },
+    {
+      "key": "ice water",
+      "english": "ice water",
+      "defaultLt": "ice vanduo",
+      "count": 1,
+      "variants": [
+        "ice water"
+      ]
+    },
+    {
+      "key": "iceberg lettuce",
+      "english": "iceberg lettuce",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "iceberg lettuce"
+      ]
+    },
+    {
+      "key": "instant coffee",
+      "english": "instant coffee",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "instant coffee"
+      ]
+    },
+    {
+      "key": "italian dressing",
+      "english": "italian dressing",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "italian dressing"
+      ]
+    },
+    {
+      "key": "italian dry salami",
+      "english": "italian dry salami",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "italian dry salami"
+      ]
+    },
+    {
+      "key": "italian seasoning",
+      "english": "italian seasoning",
+      "defaultLt": "itališkų žolelių mišinys",
+      "count": 5,
+      "variants": [
+        "italian seasoning"
+      ]
+    },
+    {
+      "key": "jalapeno pepper",
+      "english": "jalapeno pepper",
+      "defaultLt": "jalapeno pipirai",
+      "count": 4,
+      "variants": [
+        "jalapeno pepper (sliced and optionally deseeded)",
+        "jalapeno pepper",
+        "jalapeno pepper (deseeded and diced)"
+      ]
+    },
+    {
+      "key": "kosher salt",
+      "english": "kosher salt",
+      "defaultLt": "kosher druska",
+      "count": 4,
+      "variants": [
+        "kosher salt (to taste)",
+        "kosher salt",
+        "kosher salt (sprinkle on top)"
+      ]
+    },
+    {
+      "key": "lard",
+      "english": "lard",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "lard (or oil with a high smoke point)",
+        "lard (or other high smoke point oil)",
+        "lard (or other oil with a high smoke point)"
+      ]
+    },
+    {
+      "key": "leafy greens",
+      "english": "leafy greens",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "leafy greens"
+      ]
+    },
+    {
+      "key": "leek",
+      "english": "leek",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "leek (sliced)"
+      ]
+    },
+    {
+      "key": "lemon",
+      "english": "lemon",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "lemon (juice and zest)",
+        "lemon (sliced to garnish)"
+      ]
+    },
+    {
+      "key": "lemon extract",
+      "english": "lemon extract",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "lemon extract"
+      ]
+    },
+    {
+      "key": "lemon juice",
+      "english": "lemon juice",
+      "defaultLt": "citrinų sultys",
+      "count": 16,
+      "variants": [
+        "lemon juice",
+        "lemon juice (room temp, fresh squeezed)"
+      ]
+    },
+    {
+      "key": "lemon zest",
+      "english": "lemon zest",
+      "defaultLt": "citrinos žievelė",
+      "count": 6,
+      "variants": [
+        "lemon zest",
+        "lemon zest (finely grated)"
+      ]
+    },
+    {
+      "key": "lime",
+      "english": "lime",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "lime",
+        "lime (thinly sliced)"
+      ]
+    },
+    {
+      "key": "lime juice",
+      "english": "lime juice",
+      "defaultLt": "žaliųjų citrinų sultys",
+      "count": 2,
+      "variants": [
+        "lime juice"
+      ]
+    },
+    {
+      "key": "lime zest",
+      "english": "lime zest",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "lime zest"
+      ]
+    },
+    {
+      "key": "liquid smoke",
+      "english": "liquid smoke",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "liquid smoke"
+      ]
+    },
+    {
+      "key": "liquid stevia",
+      "english": "liquid stevia",
+      "defaultLt": "skysta stevija",
+      "count": 17,
+      "variants": [
+        "liquid stevia",
+        "drop liquid stevia (or to taste)",
+        "drop liquid stevia",
+        "liquid stevia (~25 drops)",
+        "drop liquid stevia (to taste)"
+      ]
+    },
+    {
+      "key": "lit'l smokies",
+      "english": "lit'l smokies",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "Lit'l Smokies",
+        "lit'l smokies (or hot dogs cut into smaller pieces)"
+      ]
+    },
+    {
+      "key": "low-carb chocolate protein powder",
+      "english": "low-carb chocolate protein powder",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "low-carb chocolate protein powder (such as Isopure)",
+        "low-carb chocolate protein powder",
+        "low-carb chocolate protein powder (vegan)"
+      ]
+    },
+    {
+      "key": "low-carb dark chocolate",
+      "english": "low-carb dark chocolate",
+      "defaultLt": "mažai angliavandenių turintis juodasis šokoladas",
+      "count": 1,
+      "variants": [
+        "low-carb dark chocolate (In pieces)"
+      ]
+    },
+    {
+      "key": "low-carb dark chocolate chips",
+      "english": "low-carb dark chocolate chips",
+      "defaultLt": "mažai angliavandenių turintis juodasis šokoladas chips",
+      "count": 6,
+      "variants": [
+        "low-carb dark chocolate chips"
+      ]
+    },
+    {
+      "key": "low-carb ketchup",
+      "english": "low-carb ketchup",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "low-carb ketchup"
+      ]
+    },
+    {
+      "key": "low-carb maple syrup",
+      "english": "low-carb maple syrup",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "low-carb maple syrup",
+        "low-carb maple syrup (ruled.me recipe)"
+      ]
+    },
+    {
+      "key": "low-carb milk chocolate",
+      "english": "low-carb milk chocolate",
+      "defaultLt": "low-carb pienas chocolate",
+      "count": 1,
+      "variants": [
+        "low-carb milk chocolate"
+      ]
+    },
+    {
+      "key": "low-carb protein powder",
+      "english": "low-carb protein powder",
+      "defaultLt": "",
+      "count": 5,
+      "variants": [
+        "low-carb protein powder"
+      ]
+    },
+    {
+      "key": "low-carb tomato sauce",
+      "english": "low-carb tomato sauce",
+      "defaultLt": "low-carb pomidorų padažas",
+      "count": 6,
+      "variants": [
+        "low-carb tomato sauce (such as Rao's)",
+        "low-carb tomato sauce"
+      ]
+    },
+    {
+      "key": "macadamia nuts",
+      "english": "macadamia nuts",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "macadamia nuts"
+      ]
+    },
+    {
+      "key": "mango extract",
+      "english": "mango extract",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "mango extract"
+      ]
+    },
+    {
+      "key": "marinated artichoke hearts",
+      "english": "marinated artichoke hearts",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "marinated artichoke hearts (drained and chopped)"
+      ]
+    },
+    {
+      "key": "mayonnaise",
+      "english": "mayonnaise",
+      "defaultLt": "majonezas",
+      "count": 23,
+      "variants": [
+        "mayonnaise"
+      ]
+    },
+    {
+      "key": "mct oil",
+      "english": "mct oil",
+      "defaultLt": "MCT aliejus",
+      "count": 7,
+      "variants": [
+        "mct oil"
+      ]
+    },
+    {
+      "key": "mexican squash",
+      "english": "mexican squash",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "mexican squash"
+      ]
+    },
+    {
+      "key": "mixed greens",
+      "english": "mixed greens",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "mixed greens"
+      ]
+    },
+    {
+      "key": "monterey jack cheese",
+      "english": "monterey jack cheese",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "monterey jack cheese (shredded)"
+      ]
+    },
+    {
+      "key": "mozzarella cheese",
+      "english": "mozzarella cheese",
+      "defaultLt": "mocarelos sūris",
+      "count": 18,
+      "variants": [
+        "mozzarella cheese (shredded)",
+        "mozzarella cheese (shredded ~8oz)",
+        "mozzarella cheese (grated)",
+        "mozzarella cheese",
+        "fresh mozzarella cheese"
+      ]
+    },
+    {
+      "key": "mushrooms",
+      "english": "mushrooms",
+      "defaultLt": "grybai",
+      "count": 1,
+      "variants": [
+        "mushrooms (sliced)"
+      ]
+    },
+    {
+      "key": "nori flakes",
+      "english": "nori flakes",
+      "defaultLt": "nori dribsniai",
+      "count": 1,
+      "variants": [
+        "nori flakes"
+      ]
+    },
+    {
+      "key": "nutmeg",
+      "english": "nutmeg",
+      "defaultLt": "muskato riešutas",
+      "count": 5,
+      "variants": [
+        "ground nutmeg"
+      ]
+    },
+    {
+      "key": "old bay seasoning",
+      "english": "old bay seasoning",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "old bay seasoning"
+      ]
+    },
+    {
+      "key": "olive oil",
+      "english": "olive oil",
+      "defaultLt": "alyvuogių aliejus",
+      "count": 43,
+      "variants": [
+        "olive oil (plus extra if needed)",
+        "olive oil",
+        "olive oil (for frying)",
+        "olive oil (reserved from sardines)",
+        "olive oil (divided)"
+      ]
+    },
+    {
+      "key": "onion",
+      "english": "onion",
+      "defaultLt": "svogūnas",
+      "count": 14,
+      "variants": [
+        "onion (sliced)",
+        "onion (diced)",
+        "onion",
+        "onion (halved)",
+        "onion (chopped)"
+      ]
+    },
+    {
+      "key": "onion powder",
+      "english": "onion powder",
+      "defaultLt": "svogūnų milteliai",
+      "count": 23,
+      "variants": [
+        "onion powder"
+      ]
+    },
+    {
+      "key": "orange bell pepper",
+      "english": "orange bell pepper",
+      "defaultLt": "orange bell pipirai",
+      "count": 1,
+      "variants": [
+        "orange bell pepper (sliced in strips)"
+      ]
+    },
+    {
+      "key": "orange extract",
+      "english": "orange extract",
+      "defaultLt": "apelsinų ekstraktas",
+      "count": 1,
+      "variants": [
+        "orange extract"
+      ]
+    },
+    {
+      "key": "oregano",
+      "english": "oregano",
+      "defaultLt": "raudonėlis",
+      "count": 8,
+      "variants": [
+        "dried oregano",
+        "dried oregano (to taste)"
+      ]
+    },
+    {
+      "key": "paprika",
+      "english": "paprika",
+      "defaultLt": "",
+      "count": 7,
+      "variants": [
+        "paprika"
+      ]
+    },
+    {
+      "key": "parmesan cheese",
+      "english": "parmesan cheese",
+      "defaultLt": "parmezano sūris",
+      "count": 23,
+      "variants": [
+        "parmesan cheese",
+        "parmesan cheese (grated)",
+        "parmesan cheese (shredded)",
+        "grated parmesan cheese"
+      ]
+    },
+    {
+      "key": "parsley",
+      "english": "parsley",
+      "defaultLt": "petražolės",
+      "count": 11,
+      "variants": [
+        "dried parsley",
+        "fresh parsley (chopped)",
+        "fresh parsley"
+      ]
+    },
+    {
+      "key": "peanut butter",
+      "english": "peanut butter",
+      "defaultLt": "žemės riešutų sviestas",
+      "count": 9,
+      "variants": [
+        "peanut butter",
+        "peanut butter (creamy, no sugar added)"
+      ]
+    },
+    {
+      "key": "peanut butter powder",
+      "english": "peanut butter powder",
+      "defaultLt": "žemės riešutų sviestas",
+      "count": 1,
+      "variants": [
+        "powdered peanut butter (such as PBfit)"
+      ]
+    },
+    {
+      "key": "peanuts",
+      "english": "peanuts",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "peanuts (chopped and optionally toasted)"
+      ]
+    },
+    {
+      "key": "pecans",
+      "english": "pecans",
+      "defaultLt": "pekano riešutai",
+      "count": 7,
+      "variants": [
+        "pecans",
+        "pecans (chopped)",
+        "pecans (halves)",
+        "pecans (pieces)"
+      ]
+    },
+    {
+      "key": "pepper jack cheese",
+      "english": "pepper jack cheese",
+      "defaultLt": "pipirai jack cheese",
+      "count": 2,
+      "variants": [
+        "pepper jack cheese (shredded)",
+        "pepper jack cheese"
+      ]
+    },
+    {
+      "key": "pepperoni",
+      "english": "pepperoni",
+      "defaultLt": "pipiraioni",
+      "count": 3,
+      "variants": [
+        "pepperoni",
+        "pepperoni (sliced)"
+      ]
+    },
+    {
+      "key": "pesto",
+      "english": "pesto",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "pesto"
+      ]
+    },
+    {
+      "key": "pimento peppers",
+      "english": "pimento peppers",
+      "defaultLt": "pimento pipirais",
+      "count": 1,
+      "variants": [
+        "pimento peppers (diced)"
+      ]
+    },
+    {
+      "key": "poppy seeds",
+      "english": "poppy seeds",
+      "defaultLt": "aguonos",
+      "count": 1,
+      "variants": [
+        "poppy seeds"
+      ]
+    },
+    {
+      "key": "pork rinds",
+      "english": "pork rinds",
+      "defaultLt": "kiaulienos odelių traškučiai",
+      "count": 2,
+      "variants": [
+        "pork rinds (BBQ flavor, crushed)",
+        "pork rinds (crushed)"
+      ]
+    },
+    {
+      "key": "pork tenderloin",
+      "english": "pork tenderloin",
+      "defaultLt": "kiauliena tenderloin",
+      "count": 1,
+      "variants": [
+        "pork tenderloin"
+      ]
+    },
+    {
+      "key": "portobello mushrooms",
+      "english": "portobello mushrooms",
+      "defaultLt": "portobelo grybai",
+      "count": 1,
+      "variants": [
+        "portobello mushrooms (de-stemmed)"
+      ]
+    },
+    {
+      "key": "powdered erythritol",
+      "english": "powdered erythritol",
+      "defaultLt": "powdered eritritolis",
+      "count": 2,
+      "variants": [
+        "powdered erythritol"
+      ]
+    },
+    {
+      "key": "prosciutto",
+      "english": "prosciutto",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "prosciutto"
+      ]
+    },
+    {
+      "key": "provolone cheese",
+      "english": "provolone cheese",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "provolone cheese"
+      ]
+    },
+    {
+      "key": "psyllium husk powder",
+      "english": "psyllium husk powder",
+      "defaultLt": "gysločių luobelių milteliai",
+      "count": 14,
+      "variants": [
+        "psyllium husk powder"
+      ]
+    },
+    {
+      "key": "pumpkin pie spice",
+      "english": "pumpkin pie spice",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "pumpkin pie spice"
+      ]
+    },
+    {
+      "key": "pumpkin puree",
+      "english": "pumpkin puree",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "pumpkin puree"
+      ]
+    },
+    {
+      "key": "pumpkin seeds",
+      "english": "pumpkin seeds",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "pumpkin seeds"
+      ]
+    },
+    {
+      "key": "queso fresco",
+      "english": "queso fresco",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "queso fresco"
+      ]
+    },
+    {
+      "key": "radish",
+      "english": "radish",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "radish (spiralized)"
+      ]
+    },
+    {
+      "key": "ranch seasoning",
+      "english": "ranch seasoning",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ranch seasoning"
+      ]
+    },
+    {
+      "key": "raspberries",
+      "english": "raspberries",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "raspberries"
+      ]
+    },
+    {
+      "key": "red bell pepper",
+      "english": "red bell pepper",
+      "defaultLt": "raudonoji paprika",
+      "count": 4,
+      "variants": [
+        "red bell pepper (diced)",
+        "red bell pepper (sliced)",
+        "red bell pepper"
+      ]
+    },
+    {
+      "key": "red onion",
+      "english": "red onion",
+      "defaultLt": "raudonasis svogūnas",
+      "count": 10,
+      "variants": [
+        "red onion (sliced)",
+        "red onion (diced)",
+        "red onion (finely chopped)",
+        "red onion (finely diced)",
+        "red onion (thinly sliced)",
+        "red onion (chopped)"
+      ]
+    },
+    {
+      "key": "red pepper flakes",
+      "english": "red pepper flakes",
+      "defaultLt": "aitriųjų paprikų dribsniai",
+      "count": 9,
+      "variants": [
+        "crushed red pepper flakes",
+        "crushed red pepper flakes (to taste)"
+      ]
+    },
+    {
+      "key": "red wine vinegar",
+      "english": "red wine vinegar",
+      "defaultLt": "red wine actas",
+      "count": 1,
+      "variants": [
+        "red wine vinegar"
+      ]
+    },
+    {
+      "key": "ribeye steak",
+      "english": "ribeye steak",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ribeye steak (cut into 1 inch cubes)"
+      ]
+    },
+    {
+      "key": "rice vinegar",
+      "english": "rice vinegar",
+      "defaultLt": "ryžių actas",
+      "count": 8,
+      "variants": [
+        "unseasoned rice vinegar"
+      ]
+    },
+    {
+      "key": "ricotta cheese",
+      "english": "ricotta cheese",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "ricotta cheese"
+      ]
+    },
+    {
+      "key": "roasted pine nuts",
+      "english": "roasted pine nuts",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "roasted pine nuts"
+      ]
+    },
+    {
+      "key": "roasted red pepper",
+      "english": "roasted red pepper",
+      "defaultLt": "roasted red pipirai",
+      "count": 1,
+      "variants": [
+        "roasted red pepper"
+      ]
+    },
+    {
+      "key": "romaine lettuce",
+      "english": "romaine lettuce",
+      "defaultLt": "romaninių salotų lapai",
+      "count": 2,
+      "variants": [
+        "romaine lettuce"
+      ]
+    },
+    {
+      "key": "rotisserie chicken",
+      "english": "rotisserie chicken",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "rotisserie chicken (shredded)"
+      ]
+    },
+    {
+      "key": "round cinnamon",
+      "english": "round cinnamon",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "round cinnamon (to taste)"
+      ]
+    },
+    {
+      "key": "ruled.me bbq sauce",
+      "english": "ruled.me bbq sauce",
+      "defaultLt": "ruled.me BBQ padažas",
+      "count": 1,
+      "variants": [
+        "Ruled.me BBQ Sauce"
+      ]
+    },
+    {
+      "key": "rum",
+      "english": "rum",
+      "defaultLt": "romas",
+      "count": 1,
+      "variants": [
+        "clear rum"
+      ]
+    },
+    {
+      "key": "salmon",
+      "english": "salmon",
+      "defaultLt": "lašiša",
+      "count": 1,
+      "variants": [
+        "salmon"
+      ]
+    },
+    {
+      "key": "salsa",
+      "english": "salsa",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "salsa"
+      ]
+    },
+    {
+      "key": "salt",
+      "english": "salt",
+      "defaultLt": "druska",
+      "count": 63,
+      "variants": [
+        "salt",
+        "salt (to taste)",
+        "salt (dash)"
+      ]
+    },
+    {
+      "key": "salt and pepper",
+      "english": "salt and pepper",
+      "defaultLt": "druska ir pipirai",
+      "count": 57,
+      "variants": [
+        "salt and pepper (to taste)",
+        "Salt and pepper to taste",
+        "salt and pepper (To taste)",
+        "salt and pepper"
+      ]
+    },
+    {
+      "key": "sesame oil",
+      "english": "sesame oil",
+      "defaultLt": "sezamų aliejus",
+      "count": 6,
+      "variants": [
+        "sesame oil"
+      ]
+    },
+    {
+      "key": "sesame seeds",
+      "english": "sesame seeds",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "sesame seeds",
+        "sesame seeds (for garnish)"
+      ]
+    },
+    {
+      "key": "shaved parmesan",
+      "english": "shaved parmesan",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "shaved Parmesan"
+      ]
+    },
+    {
+      "key": "shiitake mushrooms",
+      "english": "shiitake mushrooms",
+      "defaultLt": "shiitake grybai",
+      "count": 1,
+      "variants": [
+        "shiitake mushrooms (halved)"
+      ]
+    },
+    {
+      "key": "shredded coconut",
+      "english": "shredded coconut",
+      "defaultLt": "kokosų drožlės",
+      "count": 8,
+      "variants": [
+        "unsweetened shredded coconut",
+        "unsweetened shredded coconut (to garnish)"
+      ]
+    },
+    {
+      "key": "shredded mozzarella",
+      "english": "shredded mozzarella",
+      "defaultLt": "",
+      "count": 3,
+      "variants": [
+        "shredded mozzarella"
+      ]
+    },
+    {
+      "key": "shrimp",
+      "english": "shrimp",
+      "defaultLt": "krevetės",
+      "count": 1,
+      "variants": [
+        "shrimp (raw, peeled and deveined)"
+      ]
+    },
+    {
+      "key": "slivered almonds",
+      "english": "slivered almonds",
+      "defaultLt": "slivered migdolai",
+      "count": 1,
+      "variants": [
+        "slivered almonds"
+      ]
+    },
+    {
+      "key": "smoked paprika",
+      "english": "smoked paprika",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "smoked paprika",
+        "smoked paprika (to taste)"
+      ]
+    },
+    {
+      "key": "smoked salmon",
+      "english": "smoked salmon",
+      "defaultLt": "smoked lašiša",
+      "count": 3,
+      "variants": [
+        "smoked salmon (or seafood of choice)",
+        "smoked salmon",
+        "smoked salmon (sliced)"
+      ]
+    },
+    {
+      "key": "sour cream",
+      "english": "sour cream",
+      "defaultLt": "grietinė",
+      "count": 21,
+      "variants": [
+        "sour cream"
+      ]
+    },
+    {
+      "key": "soy sauce",
+      "english": "soy sauce",
+      "defaultLt": "sojų padažas",
+      "count": 10,
+      "variants": [
+        "soy sauce (or coconut aminos)",
+        "soy sauce"
+      ]
+    },
+    {
+      "key": "spaghetti squash",
+      "english": "spaghetti squash",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "spaghetti squash (roasted)"
+      ]
+    },
+    {
+      "key": "spinach",
+      "english": "spinach",
+      "defaultLt": "špinatai",
+      "count": 8,
+      "variants": [
+        "spinach"
+      ]
+    },
+    {
+      "key": "sriracha",
+      "english": "sriracha",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "sriracha"
+      ]
+    },
+    {
+      "key": "strawberries",
+      "english": "strawberries",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "strawberries"
+      ]
+    },
+    {
+      "key": "sugar-free drink mix",
+      "english": "sugar-free drink mix",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "sugar-free drink mix"
+      ]
+    },
+    {
+      "key": "sugar-free salted caramel syrup",
+      "english": "sugar-free salted caramel syrup",
+      "defaultLt": "sugar-free druskaed caramel syrup",
+      "count": 1,
+      "variants": [
+        "sugar-free salted caramel syrup (such as Torani)"
+      ]
+    },
+    {
+      "key": "sugar-free strawberry syrup",
+      "english": "sugar-free strawberry syrup",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "sugar-free strawberry syrup (such as Torani)"
+      ]
+    },
+    {
+      "key": "sun-dried tomato pesto",
+      "english": "sun-dried tomato pesto",
+      "defaultLt": "sun-dried pomidoras pesto",
+      "count": 2,
+      "variants": [
+        "sun-dried tomato pesto"
+      ]
+    },
+    {
+      "key": "sun-dried tomatoes",
+      "english": "sun-dried tomatoes",
+      "defaultLt": "saulėje džiovinti pomidorai",
+      "count": 3,
+      "variants": [
+        "sun-dried tomatoes",
+        "sun-dried tomatoes (chopped)",
+        "whole sun-dried tomatoes (cut into strips)"
+      ]
+    },
+    {
+      "key": "sunflower seeds",
+      "english": "sunflower seeds",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "sunflower seeds",
+        "sunflower seeds (shelled)"
+      ]
+    },
+    {
+      "key": "sweetener",
+      "english": "sweetener",
+      "defaultLt": "saldiklis",
+      "count": 22,
+      "variants": [
+        "stevia/erythritol blend (such as Swerve)",
+        "stevia/erythritol blend (like swerve)",
+        "powdered stevia/erythritol blend",
+        "stevia/erythritol blend"
+      ]
+    },
+    {
+      "key": "swiss cheese",
+      "english": "swiss cheese",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "swiss cheese (shredded)",
+        "swiss cheese"
+      ]
+    },
+    {
+      "key": "tahini",
+      "english": "tahini",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "tahini"
+      ]
+    },
+    {
+      "key": "tequila",
+      "english": "tequila",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "tequila"
+      ]
+    },
+    {
+      "key": "thyme",
+      "english": "thyme",
+      "defaultLt": "čiobreliai",
+      "count": 3,
+      "variants": [
+        "dried thyme"
+      ]
+    },
+    {
+      "key": "tomato paste",
+      "english": "tomato paste",
+      "defaultLt": "pomidoras paste",
+      "count": 3,
+      "variants": [
+        "tomato paste"
+      ]
+    },
+    {
+      "key": "toothpicks",
+      "english": "toothpicks",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "toothpicks"
+      ]
+    },
+    {
+      "key": "truffle oil",
+      "english": "truffle oil",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "truffle oil"
+      ]
+    },
+    {
+      "key": "turmeric powder",
+      "english": "turmeric powder",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "turmeric powder"
+      ]
+    },
+    {
+      "key": "tzatziki",
+      "english": "tzatziki",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "tzatziki"
+      ]
+    },
+    {
+      "key": "unflavored low-carb protein powder",
+      "english": "unflavored low-carb protein powder",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "unflavored low-carb protein powder"
+      ]
+    },
+    {
+      "key": "unsweetened almond milk",
+      "english": "unsweetened almond milk",
+      "defaultLt": "unsweetened migdolų pienas",
+      "count": 16,
+      "variants": [
+        "unsweetened almond milk"
+      ]
+    },
+    {
+      "key": "vanilla extract",
+      "english": "vanilla extract",
+      "defaultLt": "vanilės ekstraktas",
+      "count": 40,
+      "variants": [
+        "vanilla extract",
+        "vanilla extract (for the whipped cream)"
+      ]
+    },
+    {
+      "key": "vegan vanilla protein powder",
+      "english": "vegan vanilla protein powder",
+      "defaultLt": "",
+      "count": 4,
+      "variants": [
+        "vegan vanilla protein powder",
+        "vegan vanilla protein powder (or unflavored protein powder + vanilla extract + sweetener to taste)"
+      ]
+    },
+    {
+      "key": "walnuts",
+      "english": "walnuts",
+      "defaultLt": "graikiniai riešutai",
+      "count": 6,
+      "variants": [
+        "walnuts (chopped)",
+        "walnuts",
+        "walnuts (crumbled, to garnish)"
+      ]
+    },
+    {
+      "key": "water",
+      "english": "water",
+      "defaultLt": "vanduo",
+      "count": 12,
+      "variants": [
+        "water (cold)",
+        "water (hot)",
+        "water",
+        "water (boiled)"
+      ]
+    },
+    {
+      "key": "white vinegar",
+      "english": "white vinegar",
+      "defaultLt": "white actas",
+      "count": 1,
+      "variants": [
+        "white vinegar"
+      ]
+    },
+    {
+      "key": "whole black olives",
+      "english": "whole black olives",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "whole black olives"
+      ]
+    },
+    {
+      "key": "whole chicken bouillon cube",
+      "english": "whole chicken bouillon cube",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "whole chicken bouillon cube"
+      ]
+    },
+    {
+      "key": "whole grain mustard",
+      "english": "whole grain mustard",
+      "defaultLt": "whole grain garstyčios",
+      "count": 2,
+      "variants": [
+        "whole grain mustard"
+      ]
+    },
+    {
+      "key": "whole green olive",
+      "english": "whole green olive",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "whole green olive"
+      ]
+    },
+    {
+      "key": "whole green tea with bags",
+      "english": "whole green tea with bags",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "whole green tea with bags"
+      ]
+    },
+    {
+      "key": "whole ice cubes",
+      "english": "whole ice cubes",
+      "defaultLt": "whole ledo kubeliai",
+      "count": 1,
+      "variants": [
+        "whole ice cubes"
+      ]
+    },
+    {
+      "key": "whole milk",
+      "english": "whole milk",
+      "defaultLt": "nenugriebtas pienas",
+      "count": 2,
+      "variants": [
+        "whole milk"
+      ]
+    },
+    {
+      "key": "whole nori sheets",
+      "english": "whole nori sheets",
+      "defaultLt": "",
+      "count": 2,
+      "variants": [
+        "whole nori sheets"
+      ]
+    },
+    {
+      "key": "worcestershire sauce",
+      "english": "worcestershire sauce",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "worcestershire sauce"
+      ]
+    },
+    {
+      "key": "xanthan gum",
+      "english": "xanthan gum",
+      "defaultLt": "ksantano derva",
+      "count": 15,
+      "variants": [
+        "xanthan gum"
+      ]
+    },
+    {
+      "key": "xylitol",
+      "english": "xylitol",
+      "defaultLt": "",
+      "count": 1,
+      "variants": [
+        "xylitol"
+      ]
+    },
+    {
+      "key": "yellow mustard",
+      "english": "yellow mustard",
+      "defaultLt": "yellow garstyčios",
+      "count": 3,
+      "variants": [
+        "yellow mustard"
+      ]
+    },
+    {
+      "key": "yellow onion",
+      "english": "yellow onion",
+      "defaultLt": "yellow svogūnas",
+      "count": 2,
+      "variants": [
+        "yellow onion",
+        "yellow onion (diced)"
+      ]
+    },
+    {
+      "key": "zucchini",
+      "english": "zucchini",
+      "defaultLt": "cukinija",
+      "count": 4,
+      "variants": [
+        "zucchini (grated)",
+        "zucchini",
+        "zucchini (spiralized)"
+      ]
+    }
+  ]
+}
