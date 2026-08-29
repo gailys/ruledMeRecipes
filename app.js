@@ -343,14 +343,16 @@ function renderRecipes() {
   const categories = ['Visi', ...new Set(recipes.map(recipe => recipe.category || 'Kita'))];
   $('#category-filters').innerHTML = categories.map(category => `<button class="filter-chip ${category === activeFilter ? 'active' : ''}" data-filter="${escapeHtml(category)}">${escapeHtml(category)}</button>`).join('');
   if (!categories.includes(activeFilter)) activeFilter = 'Visi';
-  const visible = activeFilter === 'Visi' ? recipes : recipes.filter(recipe => (recipe.category || 'Kita') === activeFilter);
+  const filtered = activeFilter === 'Visi' ? recipes : recipes.filter(recipe => (recipe.category || 'Kita') === activeFilter);
+  const visible = [...filtered].sort((a, b) => Number(Boolean(b.pinned)) - Number(Boolean(a.pinned)) || new Date(b.savedAt || 0) - new Date(a.savedAt || 0));
   if (!recipes.length) {
     grid.innerHTML = '<div class="empty"><strong>Jūsų receptų lentyna dar tuščia.</strong><br>Pasirinkite „Pridėti“ ir įklijuokite pirmąją Ruled.me nuorodą.</div>';
   } else if (!visible.length) {
     grid.innerHTML = '<div class="empty">Šioje kategorijoje receptų dar nėra.</div>';
   } else {
     grid.innerHTML = visible.map(recipe => `
-      <article class="recipe-card">
+      <article class="recipe-card ${recipe.pinned ? 'pinned' : ''}">
+        <button class="card-pin ${recipe.pinned ? 'active' : ''}" data-pin-recipe="${recipe.id}" aria-label="${recipe.pinned ? 'Atsegti receptą' : 'Prisegti receptą viršuje'}" title="${recipe.pinned ? 'Atsegti' : 'Prisegti viršuje'}">★</button>
         <div class="card-url-actions">
           <button class="card-url-action" data-copy-url="${escapeHtml(recipe.url)}" aria-label="Kopijuoti recepto nuorodą" title="Kopijuoti nuorodą">⧉</button>
           <a class="card-url-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener" aria-label="Atidaryti originalų receptą" title="Atidaryti originalą">↗</a>
@@ -582,6 +584,10 @@ document.addEventListener('click', event => {
   }
   if (target.matches('[data-open-recipe]')) location.hash = `#recipe/${target.dataset.openRecipe}`;
   if (target.matches('[data-filter]')) { activeFilter = target.dataset.filter; renderRecipes(); }
+  if (target.matches('[data-pin-recipe]')) {
+    const recipe = recipes.find(item => item.id === target.dataset.pinRecipe);
+    if (recipe) { recipe.pinned = !recipe.pinned; save(); renderRecipes(); showToast(recipe.pinned ? 'Receptas prisegtas viršuje' : 'Receptas atsegtas'); }
+  }
   if (target.matches('[data-quick-cart]')) { const recipe = recipes.find(item => item.id === target.dataset.quickCart); if (recipe) addRecipeToCart(recipe); }
   if (target.matches('[data-back]')) location.hash = '#recipes';
   if (target.matches('[data-delete]')) { if (confirm('Ištrinti šį receptą?')) { recipes = recipes.filter(item => item.id !== target.dataset.delete); save(); renderRecipes(); } }
@@ -612,7 +618,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=15', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=16', { updateViaCache: 'none' });
     registration.update();
   });
 }

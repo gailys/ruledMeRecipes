@@ -64,6 +64,9 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .recipe-image-fallback { display: grid; place-items: center; height: 100%; color: #6e8179; font-family: Georgia, serif; font-size: 54px; background: linear-gradient(135deg, #dfe8d8, #f0e6cc); }
 .card-url-actions { position: absolute; right: 9px; top: 9px; z-index: 2; display: flex; gap: 6px; }
 .card-url-action { display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 10px; background: rgba(255,255,255,.93); color: var(--green); text-decoration: none; font-size: 16px; font-weight: 900; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
+.card-pin { position: absolute; left: 9px; top: 9px; z-index: 2; display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 10px; background: rgba(255,255,255,.93); color: #819087; font-size: 16px; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
+.card-pin.active { background: var(--lime); color: var(--green); }
+.recipe-card.pinned { border-color: #c9dc73; }
 .recipe-body { display: flex; flex: 1; flex-direction: column; padding: 13px 15px 12px; }
 .recipe-meta { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
 .recipe-card h3 { display: -webkit-box; margin: 9px 0 5px; overflow: hidden; font-family: Georgia, serif; font-size: 21px; line-height: 1.08; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
