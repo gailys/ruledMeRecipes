@@ -8,7 +8,7 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=12" />
+    <link rel="stylesheet" href="./styles.css?v=13" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -58,8 +58,8 @@
       <button type="button" class="dialog-close" aria-label="Uždaryti">×</button>
       <form id="import-form" class="import-form" method="dialog">
         <div class="input-row">
-          <input id="recipe-url" name="url" type="url" inputmode="url" required aria-label="Ruled.me recepto nuoroda"
-            placeholder="Įklijuokite nuorodą, pvz. https://www.ruled.me/receptas/" />
+          <textarea id="recipe-url" name="url" inputmode="url" required aria-label="Ruled.me receptų nuorodos"
+            placeholder="Įklijuokite vieną ar kelias Ruled.me nuorodas – po vieną eilutėje"></textarea>
           <button type="submit" class="primary">Išsaugoti</button>
         </div>
         <p id="import-status" class="status" role="status"></p>
@@ -67,6 +67,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=12"></script>
+    <script type="module" src="./app.js?v=13"></script>
   </body>
 </html>

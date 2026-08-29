@@ -23,8 +23,56 @@ const translations = {
   'mushrooms': 'grybai', 'zucchini': 'cukinija', 'tomato': 'pomidoras', 'tomatoes': 'pomidorai',
   'bacon': 'šoninė', 'ground beef': 'malta jautiena', 'chicken thighs': 'vištienos šlaunelės',
   'salmon': 'lašiša', 'shrimp': 'krevetės', 'pecans': 'pekano riešutai', 'walnuts': 'graikiniai riešutai',
-  'almonds': 'migdolai', 'chia seeds': 'ispaninio šalavijo sėklos', 'flaxseed': 'linų sėmenys'
+  'almonds': 'migdolai', 'chia seeds': 'ispaninio šalavijo sėklos', 'flaxseed': 'linų sėmenys',
+  'egg white': 'kiaušinio baltymas', 'allulose': 'aliuliozė', 'gelatin': 'želatina',
+  'shredded coconut': 'kokosų drožlės', 'peanut butter powder': 'žemės riešutų sviesto milteliai',
+  'hemp seeds': 'kanapių sėklos', 'liquid stevia': 'skysta stevija', 'banana extract': 'bananų ekstraktas',
+  'mct oil': 'MCT aliejus', 'blueberries': 'mėlynės', 'flaxseed meal': 'malti linų sėmenys',
+  'poppy seeds': 'aguonos', 'lemon zest': 'citrinos žievelė', 'psyllium husk powder': 'gysločių luobelių milteliai',
+  'cloves': 'gvazdikėliai', 'nutmeg': 'muskato riešutas', 'allspice': 'kvapieji pipirai',
+  'ginger': 'imbieras', 'orange extract': 'apelsinų ekstraktas', 'half-and-half': 'grietinėlės ir pieno mišinys',
+  'hot dogs': 'dešrainių dešrelės', 'cilantro': 'kalendra', 'salsa': 'salsa',
+  'portobello mushrooms': 'portobelo grybai', 'dijon mustard': 'Dižono garstyčios',
+  'romaine lettuce': 'romaninių salotų lapai', 'cherry tomatoes': 'vyšniniai pomidorai', 'cucumber': 'agurkas',
+  'cabbage': 'kopūstas', 'rice vinegar': 'ryžių actas', 'bbq sauce': 'BBQ padažas',
+  'nori flakes': 'nori dribsniai', 'bonito flakes': 'bonito dribsniai', 'celery': 'salieras',
+  'hot sauce': 'aštrus padažas', 'blue cheese': 'mėlynasis sūris', 'green onion': 'svogūnų laiškai',
+  'cremini mushrooms': 'rudieji pievagrybiai', 'sun-dried tomatoes': 'saulėje džiovinti pomidorai',
+  'italian seasoning': 'itališkų žolelių mišinys', 'pork rinds': 'kiaulienos odelių traškučiai',
+  'green beans': 'šparaginės pupelės', 'thyme': 'čiobreliai', 'red bell pepper': 'raudonoji paprika',
+  'sesame oil': 'sezamų aliejus', 'red pepper flakes': 'aitriųjų paprikų dribsniai', 'rum': 'romas',
+  'ice cubes': 'ledo kubeliai', 'red onion': 'raudonasis svogūnas', 'salt and pepper': 'druska ir pipirai',
+  'whole milk': 'nenugriebtas pienas', 'cilantro': 'kalendra', 'green cabbage': 'žaliasis kopūstas'
 };
+
+const ingredientAliases = [
+  [/\bheavy whipping cream\b|\bheavy cream\b/i, 'heavy cream'],
+  [/\bunsweetened carton coconut milk\b|\bcoconut milk\b/i, 'coconut milk'],
+  [/\bstevia\/erythritol blend\b|\berythritol\/stevia blend\b/i, 'sweetener'],
+  [/\bunsweetened dark cocoa powder\b|\bcocoa powder\b/i, 'cocoa powder'],
+  [/\bpowdered peanut butter\b/i, 'peanut butter powder'],
+  [/\bunsweetened shredded coconut\b|\bshredded coconut\b/i, 'shredded coconut'],
+  [/\bunflavored gelatin\b/i, 'gelatin'], [/\bclear rum\b/i, 'rum'], [/\bfresh cilantro\b/i, 'cilantro'],
+  [/\bwhole milk\b/i, 'whole milk'], [/\bgreen cabbage\b/i, 'green cabbage'],
+  [/\bunseasoned rice vinegar\b/i, 'rice vinegar'], [/\blow-carb bbq sauce\b/i, 'bbq sauce'],
+  [/\bsalt and pepper\b/i, 'salt and pepper'],
+  [/\bdrops? liquid stevia\b|\bliquid stevia\b/i, 'liquid stevia'],
+  [/\bflaxseed meal\b/i, 'flaxseed meal'],
+  [/\bfresh garlic\b|\bgarlic cloves?\b/i, 'garlic'],
+  [/\bboneless,? skinless chicken breast\b|\bchicken breast\b/i, 'chicken breast'],
+  [/\bboneless,? skinless chicken thighs\b|\bbone-in,? skin-on chicken thighs\b|\bchicken thighs\b/i, 'chicken thighs'],
+  [/\bparmesan cheese\b/i, 'parmesan cheese'], [/\bcheddar cheese\b/i, 'cheddar cheese'],
+  [/\bmozzarella cheese\b/i, 'mozzarella cheese'], [/\bcream cheese\b/i, 'cream cheese'],
+  [/\bground beef\b/i, 'ground beef'], [/\bportobello mushrooms?\b/i, 'portobello mushrooms'],
+  [/\bcremini mushrooms?\b/i, 'cremini mushrooms'], [/\bsun-dried tomatoes?\b/i, 'sun-dried tomatoes'],
+  [/\bcherry tomatoes?\b/i, 'cherry tomatoes'], [/\bgreen beans?\b/i, 'green beans'],
+  [/\bred bell pepper\b/i, 'red bell pepper'], [/\bcrushed red pepper flakes\b/i, 'red pepper flakes'],
+  [/\bpork rinds?\b/i, 'pork rinds'], [/\bbeef hot dogs?\b/i, 'hot dogs'],
+  [/\bcooked bacon\b|\bbacon\b/i, 'bacon'], [/\begg whites?\b/i, 'egg white'], [/\bhard-boiled eggs?\b|\beggs?\b/i, 'egg'],
+  [/\bground cinnamon\b/i, 'ground cinnamon'], [/\bground allspice\b/i, 'allspice'],
+  [/\bground cloves\b/i, 'cloves'], [/\bground nutmeg\b/i, 'nutmeg'], [/\bground ginger\b|\bfresh ginger\b/i, 'ginger'],
+  [/\bdried oregano\b/i, 'oregano'], [/\bdried parsley\b|\bfresh parsley\b/i, 'parsley'], [/\bdried thyme\b/i, 'thyme']
+];
 
 let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
@@ -32,6 +80,8 @@ let activeRecipeId = null;
 let activeFilter = 'Visi';
 let toastTimer;
 let deferredInstallPrompt = null;
+let readerQueue = Promise.resolve();
+let lastReaderRequest = 0;
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -56,8 +106,23 @@ function migrateLegacyIngredientNames() {
       changed = true;
     }
   };
-  recipes.forEach(recipe => recipe.ingredients.forEach(fix));
-  cart.forEach(fix);
+  recipes.forEach(recipe => recipe.ingredients.forEach(item => {
+    fix(item);
+    const translated = translateIngredient(item.name);
+    if (item.translated !== translated) { item.translated = translated; changed = true; }
+  }));
+  cart.forEach(item => {
+    fix(item);
+    const key = ingredientKey(item.name); const translated = translateIngredient(item.name);
+    if (item.key !== key || item.translated !== translated) { item.key = key; item.translated = translated; changed = true; }
+  });
+  const consolidated = [];
+  cart.forEach(item => {
+    const existing = consolidated.find(entry => entry.key === item.key && entry.unit.toLowerCase() === item.unit.toLowerCase() && entry.quantity != null && item.quantity != null);
+    if (existing) { existing.quantity += item.quantity; changed = true; }
+    else consolidated.push(item);
+  });
+  if (consolidated.length !== cart.length) cart = consolidated;
   if (changed) save();
 }
 
@@ -117,10 +182,17 @@ function metricAmount(item) {
 }
 
 function translateIngredient(name) {
-  const key = name.toLowerCase().replace(/,.*$/, '').replace(/\s+/g, ' ').trim();
+  const key = canonicalIngredientName(name);
   if (translations[key]) return translations[key];
   const partial = Object.keys(translations).sort((a,b) => b.length-a.length).find(item => key.includes(item));
   return partial ? key.replace(partial, translations[partial]) : name;
+}
+
+function canonicalIngredientName(name) {
+  const value = name.toLowerCase().replace(/\([^)]*\)/g, '').replace(/\s+/g, ' ').trim();
+  const alias = ingredientAliases.find(([pattern]) => pattern.test(value));
+  if (alias) return alias[1];
+  return value.replace(/,\s*(?:chopped|diced|sliced|grated|shredded|melted|softened|divided|powdered|peeled|minced|washed|trimmed|to taste).*$/i, '').trim();
 }
 
 function inferCategory(title, markdown = '') {
@@ -134,7 +206,7 @@ function inferCategory(title, markdown = '') {
 }
 
 function ingredientKey(name) {
-  return name.toLowerCase().replace(/\b(melted|chopped|ground|such as.*|to taste)\b/g, '').replace(/[^a-ząčęėįšųūž ]/gi, '').trim();
+  return canonicalIngredientName(name).replace(/[^a-ząčęėįšųūž ]/gi, '').trim();
 }
 
 function parseIngredient(line, group = '') {
@@ -176,7 +248,7 @@ function parseRecipe(markdown, url) {
   if (!execution) execution = extractSection(markdown, /(?:^|\n)#{3,4}\s+Instructions/im, /(?:^|\n)#{3,4}\s+(?:Video|Nutrition)/im);
   const instructions = [];
   const cleanedExecution = execution.replace(/!\[[^\]]*\]\([^)]*\)/g, '');
-  const numbered = [...cleanedExecution.matchAll(/(?:^|\n)\s*>?\s*(\d+)\.\s+([\s\S]*?)(?=\n\s*>?\s*\d+\.\s+|$)/g)];
+  const numbered = [...cleanedExecution.matchAll(/(?:^|\n)\s*>?\s*(?:\*\*)?(\d+)\.(?:\*\*)?\s*([\s\S]*?)(?=\n\s*>?\s*(?:\*\*)?\d+\.(?:\*\*)?\s*|$)/g)];
   if (numbered.length) numbered.forEach(match => { const step = cleanMarkdown(match[2]); if (step) instructions.push(step); });
   else cleanedExecution.split('\n').filter(line => /^\s*(?:>\s*)?[*+-]\s+/.test(line)).forEach(line => {
     const step = cleanMarkdown(line.replace(/^\s*>?\s*[*+-]\s+/, '')); if (step) instructions.push(step);
@@ -190,17 +262,35 @@ async function fetchRecipe(url) {
   const parsed = new URL(url);
   if (!/^https?:$/.test(parsed.protocol) || !/(^|\.)ruled\.me$/i.test(parsed.hostname)) throw new Error('Šiuo metu palaikomos Ruled.me receptų nuorodos.');
   const endpoint = `https://r.jina.ai/${url}`;
-  const response = await fetch(endpoint, { headers: { Accept: 'text/plain' } });
+  const response = await readerFetch(endpoint);
   if (!response.ok) throw new Error(`Recepto puslapis nepasiekiamas (${response.status}).`);
   const recipe = parseRecipe(await response.text(), url);
   recipe.image = await fetchFeaturedImage(url).catch(() => '');
   return recipe;
 }
 
+function readerFetch(url) {
+  const request = readerQueue.then(async () => {
+    const wait = Math.max(0, 3100 - (Date.now() - lastReaderRequest));
+    if (wait) await new Promise(resolve => setTimeout(resolve, wait));
+    lastReaderRequest = Date.now();
+    let response = await fetch(url, { headers: { Accept: 'text/plain' } });
+    if (response.status === 429) {
+      const retryAfter = Math.max(5, Number(response.headers.get('retry-after')) || 60);
+      await new Promise(resolve => setTimeout(resolve, retryAfter * 1000));
+      lastReaderRequest = Date.now();
+      response = await fetch(url, { headers: { Accept: 'text/plain' } });
+    }
+    return response;
+  });
+  readerQueue = request.catch(() => {});
+  return request;
+}
+
 async function fetchFeaturedImage(url) {
   const slug = new URL(url).pathname.split('/').filter(Boolean).pop();
   const api = `https://www.ruled.me/wp-json/wp/v2/posts?slug=${encodeURIComponent(slug)}&_embed`;
-  const response = await fetch(`https://r.jina.ai/${api}`, { headers: { Accept: 'text/plain' } });
+  const response = await readerFetch(`https://r.jina.ai/${api}`);
   if (!response.ok) return '';
   const text = await response.text();
   const sources = [...text.matchAll(/"source_url"\s*:\s*"([^"]+)"/g)].map(match => match[1].replace(/\\\//g, '/'));
@@ -234,6 +324,10 @@ function renderRecipes() {
   } else {
     grid.innerHTML = visible.map(recipe => `
       <article class="recipe-card">
+        <div class="card-url-actions">
+          <button class="card-url-action" data-copy-url="${escapeHtml(recipe.url)}" aria-label="Kopijuoti recepto nuorodą" title="Kopijuoti nuorodą">⧉</button>
+          <a class="card-url-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener" aria-label="Atidaryti originalų receptą" title="Atidaryti originalą">↗</a>
+        </div>
         <button class="recipe-image-button" data-open-recipe="${recipe.id}" aria-label="Atidaryti ${escapeHtml(recipe.title)}">
           ${recipe.image ? `<img class="recipe-image" src="${escapeHtml(recipe.image)}" alt="" loading="lazy" />` : '<span class="recipe-image-fallback">K</span>'}
         </button>
@@ -264,12 +358,12 @@ function renderDetail(id, servingsOverride) {
       <label class="ingredient">
         <input type="checkbox" data-ingredient="${item.id}" checked />
         <span class="ingredient-qty">${escapeHtml(scaledQuantity(item, servings, recipe.servings))} ${escapeHtml(item.unit)}</span>
-        <span>${escapeHtml(item.translated)}<small>${escapeHtml(item.name)}</small></span>
+        <span>${escapeHtml(translateIngredient(item.name))}<small>${escapeHtml(item.name)}</small></span>
       </label>`).join('')}</div>`).join('');
   $('#detail-view').innerHTML = `
     <button class="back" data-back>← Visi receptai</button>
     <header class="detail-header">
-      <div><p class="eyebrow">Išsaugotas receptas</p><h1>${escapeHtml(recipe.title)}</h1><a class="source" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a></div>
+      <div><p class="eyebrow">Išsaugotas receptas</p><h1>${escapeHtml(recipe.title)}</h1><a class="source" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a> · <button class="text-button" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button></div>
       <div class="portion-box"><label>Porcijų skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau porcijų">−</button><strong>${servings}</strong><button data-step="1" aria-label="Daugiau porcijų">+</button></div></div>
     </header>
     <div class="detail-columns">
@@ -345,22 +439,35 @@ function showToast(message) {
 
 $('#import-form').addEventListener('submit', async event => {
   event.preventDefault(); const button = $('button[type="submit"]', event.currentTarget); const status = $('#import-status');
-  button.disabled = true; button.textContent = 'Skaitoma…'; status.className = 'status'; status.textContent = 'Nuskaitome receptą ir ingredientus.';
-  try {
-    const recipe = await fetchRecipe($('#recipe-url').value.trim());
-    const duplicate = recipes.find(item => item.url.replace(/\/$/,'') === recipe.url.replace(/\/$/,''));
-    if (duplicate) { location.hash = `#recipe/${duplicate.id}`; showToast('Šis receptas jau išsaugotas'); }
-    else { recipes.unshift(recipe); save(); renderRecipes(); location.hash = `#recipe/${recipe.id}`; showToast('Receptas išsaugotas'); }
+  const urls = [...new Set(($('#recipe-url').value.match(/https?:\/\/[^\s,]+/gi) || []).map(url => url.replace(/[)\].,;]+$/, '')))];
+  if (!urls.length) { status.className = 'status error'; status.textContent = 'Įklijuokite bent vieną pilną Ruled.me nuorodą.'; return; }
+  if (urls.length > 30) { status.className = 'status error'; status.textContent = 'Vienu kartu galima importuoti iki 30 receptų.'; return; }
+  button.disabled = true; button.textContent = 'Importuojama…'; status.className = 'status';
+  let imported = 0; let skipped = 0; const failed = [];
+  for (let index = 0; index < urls.length; index += 1) {
+    const url = urls[index];
+    status.textContent = `Importuojama ${index + 1} iš ${urls.length}: ${new URL(url).pathname.split('/').filter(Boolean).pop() || url}`;
+    const duplicate = recipes.find(item => item.url.replace(/\/$/,'') === url.replace(/\/$/,''));
+    if (duplicate) { skipped += 1; continue; }
+    try {
+      const recipe = await fetchRecipe(url);
+      recipes.unshift(recipe); imported += 1; save(); renderRecipes();
+    } catch (error) { failed.push(`${url} — ${error.message || 'klaida'}`); }
+  }
+  if (failed.length) {
+    status.className = 'status error';
+    status.textContent = `Importuota: ${imported}, praleista: ${skipped}, nepavyko: ${failed.length}. ${failed.map(item => item.split(' — ')[0]).join(', ')}`;
+  } else {
+    $('#recipe-url').value = '';
     status.textContent = '';
-  } catch (error) { status.className = 'status error'; status.textContent = error.message || 'Nepavyko importuoti recepto.'; }
-  finally { button.disabled = false; button.textContent = 'Išsaugoti'; }
+    location.hash = '#recipes';
+    showToast(`Importuota: ${imported}${skipped ? ` · jau buvo: ${skipped}` : ''}`);
+  }
+  button.disabled = false; button.textContent = 'Išsaugoti';
 });
 
 $('.dialog-close').addEventListener('click', () => { location.hash = '#recipes'; });
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') location.hash = '#recipes'; });
-$('#recipe-url').addEventListener('pointerdown', event => {
-  if (event.currentTarget.value) event.currentTarget.value = '';
-});
 
 window.addEventListener('beforeinstallprompt', event => {
   event.preventDefault();
@@ -390,6 +497,9 @@ window.addEventListener('appinstalled', () => {
 
 document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
+  if (target.matches('[data-copy-url]')) {
+    navigator.clipboard.writeText(target.dataset.copyUrl).then(() => showToast('Nuoroda nukopijuota')).catch(() => showToast('Nepavyko nukopijuoti'));
+  }
   if (target.matches('[data-open-recipe]')) location.hash = `#recipe/${target.dataset.openRecipe}`;
   if (target.matches('[data-filter]')) { activeFilter = target.dataset.filter; renderRecipes(); }
   if (target.matches('[data-quick-cart]')) { const recipe = recipes.find(item => item.id === target.dataset.quickCart); if (recipe) addRecipeToCart(recipe); }
@@ -409,7 +519,7 @@ document.addEventListener('change', event => {
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=12', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=13', { updateViaCache: 'none' });
     registration.update();
   });
 }
