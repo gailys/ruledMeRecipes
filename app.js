@@ -82,6 +82,7 @@ let activeRecipeId = null;
 let activeFilter = 'Visi';
 let toastTimer;
 let deferredInstallPrompt = null;
+let pantryHold = null;
 let readerQueue = Promise.resolve();
 let lastReaderRequest = 0;
 
@@ -472,6 +473,36 @@ function showToast(message) {
   clearTimeout(toastTimer); toastTimer = setTimeout(() => toast.classList.remove('show'), 2200);
 }
 
+function cancelPantryHold() {
+  if (!pantryHold) return;
+  clearTimeout(pantryHold.timeout); clearInterval(pantryHold.interval);
+  if (pantryHold.button.isConnected) {
+    pantryHold.button.classList.remove('holding');
+    pantryHold.button.textContent = 'Visada turiu';
+  }
+  pantryHold = null;
+}
+
+function startPantryHold(button, event) {
+  cancelPantryHold();
+  const startedAt = Date.now();
+  button.classList.add('holding'); button.textContent = 'Laikykite 5 s';
+  button.setPointerCapture?.(event.pointerId);
+  const state = { button, pointerId: event.pointerId, startX: event.clientX, startY: event.clientY };
+  state.interval = setInterval(() => {
+    const remaining = Math.max(1, Math.ceil((5000 - (Date.now() - startedAt)) / 1000));
+    if (button.isConnected) button.textContent = `Laikykite ${remaining} s`;
+  }, 150);
+  state.timeout = setTimeout(() => {
+    const item = cart.find(entry => entry.id === button.dataset.pantryFrom);
+    clearInterval(state.interval); pantryHold = null;
+    if (item && addToPantry(item.name, translateIngredient(item.name))) {
+      renderShopping(); showToast('Pridėta prie turimų namuose');
+    }
+  }, 5000);
+  pantryHold = state;
+}
+
 $('#import-form').addEventListener('submit', async event => {
   event.preventDefault(); const button = $('button[type="submit"]', event.currentTarget); const status = $('#import-status');
   const urls = [...new Set(($('#recipe-url').value.match(/https?:\/\/[^\s,]+/gi) || []).map(url => url.replace(/[)\].,;]+$/, '')))];
@@ -543,10 +574,6 @@ document.addEventListener('click', event => {
   if (target.matches('[data-copy-url]')) {
     navigator.clipboard.writeText(target.dataset.copyUrl).then(() => showToast('Nuoroda nukopijuota')).catch(() => showToast('Nepavyko nukopijuoti'));
   }
-  if (target.matches('[data-pantry-from]')) {
-    const item = cart.find(entry => entry.id === target.dataset.pantryFrom);
-    if (item && addToPantry(item.name, translateIngredient(item.name))) { renderShopping(); showToast('Pridėta prie turimų namuose'); }
-  }
   if (target.matches('[data-pantry-suggestion]')) {
     if (addToPantry(target.dataset.pantrySuggestion, translateIngredient(target.dataset.pantrySuggestion))) { renderPantry(); renderShopping(); }
   }
@@ -569,10 +596,23 @@ document.addEventListener('change', event => {
   if (event.target.matches('[data-cart-check]')) { const item = cart.find(i => i.id === event.target.dataset.cartCheck); if (item) item.done = event.target.checked; save(); renderShopping(); }
 });
 
+document.addEventListener('pointerdown', event => {
+  const button = event.target.closest('[data-pantry-from]');
+  if (!button) return;
+  event.preventDefault(); startPantryHold(button, event);
+});
+document.addEventListener('pointermove', event => {
+  if (!pantryHold || event.pointerId !== pantryHold.pointerId) return;
+  if (Math.hypot(event.clientX - pantryHold.startX, event.clientY - pantryHold.startY) > 35) cancelPantryHold();
+});
+document.addEventListener('pointerup', event => { if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
+document.addEventListener('pointercancel', event => { if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
+document.addEventListener('contextmenu', event => { if (event.target.closest('[data-pantry-from]')) event.preventDefault(); });
+
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=14', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=15', { updateViaCache: 'none' });
     registration.update();
   });
 }
