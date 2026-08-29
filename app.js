@@ -707,7 +707,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=20', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=21', { updateViaCache: 'none' });
     registration.update();
   });
 }

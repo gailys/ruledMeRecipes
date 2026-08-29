@@ -110,6 +110,9 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .shopping-actions { display: flex; align-items: center; gap: 12px; }
 .pantry-button { padding: 10px 13px; border: 1px solid var(--line); border-radius: 11px; background: var(--card); color: var(--green); font-size: 13px; font-weight: 850; }
 .pantry-button span { display: inline-grid; place-items: center; min-width: 20px; height: 20px; margin-left: 4px; padding: 0 5px; border-radius: 99px; background: var(--green); color: white; font-size: 10px; }
+.settings-button { display: grid; place-items: center; flex: 0 0 40px; width: 40px; height: 40px; margin-left: 2px; padding: 0; border: 1px solid var(--line); border-radius: 50%; background: var(--card); color: var(--green); font-size: 21px; line-height: 1; transition: transform .16s ease, background .16s ease; }
+.settings-button:hover { background: #edf0e5; transform: rotate(18deg); }
+.settings-button:focus-visible { outline: 3px solid rgba(217,243,106,.75); outline-offset: 2px; }
 .shopping-note { max-width: 650px; color: var(--muted); line-height: 1.55; }
 .shopping-list { display: grid; gap: 10px; margin-top: 30px; }
 .shopping-item { display: grid; grid-template-columns: auto minmax(80px,.35fr) 1fr auto auto; align-items: center; gap: 12px; padding: 15px 18px; border: 1px solid var(--line); border-radius: 16px; background: var(--card); }
@@ -163,7 +166,10 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 @media (max-width: 520px) {
   .brand > span:last-child { display: none; }
   .topbar { padding-inline: 14px; }
-  nav a { padding-inline: 9px; }
+  nav { gap: 3px; }
+  nav a { padding-inline: 7px; font-size: 12px; }
+  nav .count { min-width: 18px; height: 18px; padding-inline: 4px; font-size: 10px; }
+  .settings-button { flex-basis: 36px; width: 36px; height: 36px; margin-left: 0; font-size: 19px; }
   .input-row { flex-direction: column; }
   .primary { width: 100%; }
   .recipe-image-button { height: 116px; }

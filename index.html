@@ -8,7 +8,7 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=20" />
+    <link rel="stylesheet" href="./styles.css?v=21" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -21,6 +21,9 @@
         <a href="#recipes" data-nav="recipes">Receptai</a>
         <a href="#shopping" data-nav="shopping">Pirkiniai <span id="cart-count" class="count">0</span></a>
         <a href="#add" data-nav="add">Pridėti</a>
+        <button id="manage-dictionary" class="settings-button" type="button" aria-label="Ingredientų vertimų nustatymai" title="Vertimų žodynas">
+          <span aria-hidden="true">⚙</span>
+        </button>
       </nav>
     </header>
 
@@ -39,7 +42,7 @@
       <section id="shopping-view" class="view" hidden>
         <div class="shopping-head">
           <div><p class="eyebrow">Pirkinių krepšelis</p><h1>Ko reikės</h1></div>
-          <div class="shopping-actions"><button id="manage-dictionary" class="pantry-button">Vertimų žodynas</button><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
+          <div class="shopping-actions"><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
         <div id="shopping-list" class="shopping-list"></div>
@@ -91,6 +94,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=20"></script>
+    <script type="module" src="./app.js?v=21"></script>
   </body>
 </html>
