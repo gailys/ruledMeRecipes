@@ -1,4 +1,5 @@
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1' };
+const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
 const pantrySuggestions = ['garlic powder', 'black pepper', 'salt', 'olive oil', 'onion powder', 'paprika'];
 
 const translations = {
@@ -85,6 +86,10 @@ let deferredInstallPrompt = null;
 let pantryHold = null;
 let readerQueue = Promise.resolve();
 let lastReaderRequest = 0;
+let pendingSharedUrl = (() => {
+  const value = new URL(location.href).searchParams.get('recipe');
+  try { return value && /(^|\.)ruled\.me$/i.test(new URL(value).hostname) ? value : ''; } catch { return ''; }
+})();
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -354,6 +359,7 @@ function renderRecipes() {
       <article class="recipe-card ${recipe.pinned ? 'pinned' : ''}">
         <button class="card-pin ${recipe.pinned ? 'active' : ''}" data-pin-recipe="${recipe.id}" aria-label="${recipe.pinned ? 'Atsegti receptą' : 'Prisegti receptą viršuje'}" title="${recipe.pinned ? 'Atsegti' : 'Prisegti viršuje'}">★</button>
         <div class="card-url-actions">
+          <button class="card-url-action" data-share-recipe="${recipe.id}" aria-label="Bendrinti receptą" title="Bendrinti">⌁</button>
           <button class="card-url-action" data-copy-url="${escapeHtml(recipe.url)}" aria-label="Kopijuoti recepto nuorodą" title="Kopijuoti nuorodą">⧉</button>
           <a class="card-url-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener" aria-label="Atidaryti originalų receptą" title="Atidaryti originalą">↗</a>
         </div>
@@ -392,7 +398,7 @@ function renderDetail(id, servingsOverride) {
   $('#detail-view').innerHTML = `
     <button class="back" data-back>← Visi receptai</button>
     <header class="detail-header">
-      <div><p class="eyebrow">Išsaugotas receptas</p><h1>${escapeHtml(recipe.title)}</h1><a class="source" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a> · <button class="text-button" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button></div>
+      <div><p class="eyebrow">Išsaugotas receptas</p><h1>${escapeHtml(recipe.title)}</h1><a class="source" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a> · <button class="text-button" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button> · <button class="text-button" data-share-recipe="${recipe.id}">Bendrinti</button></div>
       <div class="portion-box"><label>Porcijų skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau porcijų">−</button><strong>${servings}</strong><button data-step="1" aria-label="Daugiau porcijų">+</button></div></div>
     </header>
     <div class="detail-columns">
@@ -460,8 +466,8 @@ function route() {
     $('#recipes-view').hidden = false;
     renderRecipes();
     if (!dialog.open) {
-      $('#recipe-url').value = '';
-      $('#import-status').textContent = '';
+      $('#recipe-url').value = pendingSharedUrl || '';
+      $('#import-status').textContent = pendingSharedUrl ? 'Gautas bendrinamas receptas. Paspauskite „Išsaugoti“, kad pridėtumėte.' : '';
       dialog.showModal();
     }
     requestAnimationFrame(() => $('#recipe-url').focus());
@@ -473,6 +479,23 @@ function route() {
 function showToast(message) {
   const toast = $('#toast'); toast.textContent = message; toast.classList.add('show');
   clearTimeout(toastTimer); toastTimer = setTimeout(() => toast.classList.remove('show'), 2200);
+}
+
+function clearSharedRecipeQuery() {
+  pendingSharedUrl = '';
+  const current = new URL(location.href); current.searchParams.delete('recipe');
+  history.replaceState(null, '', `${current.pathname}${current.search}${current.hash}`);
+}
+
+async function shareRecipe(recipe) {
+  const deepLink = `${APP_URL}?recipe=${encodeURIComponent(recipe.url)}#add`;
+  const data = { title: recipe.title, text: `Keto receptas: ${recipe.title}`, url: deepLink };
+  try {
+    if (navigator.share) await navigator.share(data);
+    else { await navigator.clipboard.writeText(deepLink); showToast('Bendrinimo nuoroda nukopijuota'); }
+  } catch (error) {
+    if (error.name !== 'AbortError') showToast('Nepavyko bendrinti recepto');
+  }
 }
 
 function cancelPantryHold() {
@@ -528,14 +551,15 @@ $('#import-form').addEventListener('submit', async event => {
   } else {
     $('#recipe-url').value = '';
     status.textContent = '';
+    clearSharedRecipeQuery();
     location.hash = '#recipes';
     showToast(`Importuota: ${imported}${skipped ? ` · jau buvo: ${skipped}` : ''}`);
   }
   button.disabled = false; button.textContent = 'Išsaugoti';
 });
 
-$('.dialog-close').addEventListener('click', () => { location.hash = '#recipes'; });
-$('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') location.hash = '#recipes'; });
+$('.dialog-close').addEventListener('click', () => { clearSharedRecipeQuery(); location.hash = '#recipes'; });
+$('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') { clearSharedRecipeQuery(); location.hash = '#recipes'; } });
 $('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
 $('.pantry-close').addEventListener('click', () => $('#pantry-dialog').close());
 $('#pantry-form').addEventListener('submit', event => {
@@ -575,6 +599,10 @@ document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
   if (target.matches('[data-copy-url]')) {
     navigator.clipboard.writeText(target.dataset.copyUrl).then(() => showToast('Nuoroda nukopijuota')).catch(() => showToast('Nepavyko nukopijuoti'));
+  }
+  if (target.matches('[data-share-recipe]')) {
+    const recipe = recipes.find(item => item.id === target.dataset.shareRecipe);
+    if (recipe) shareRecipe(recipe);
   }
   if (target.matches('[data-pantry-suggestion]')) {
     if (addToPantry(target.dataset.pantrySuggestion, translateIngredient(target.dataset.pantrySuggestion))) { renderPantry(); renderShopping(); }
@@ -618,10 +646,11 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=16', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=17', { updateViaCache: 'none' });
     registration.update();
   });
 }
 migrateLegacyIngredientNames();
+if (pendingSharedUrl && location.hash !== '#add') location.hash = '#add';
 route();
 hydrateMissingImages();
