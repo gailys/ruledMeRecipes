@@ -72,10 +72,20 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
       const remote = storeFromRecords(result.records || []); revisions = remote.revisions; queue = queue.map(op => ({ ...op, baseRevision: revisions[`${op.entityType}:${op.entityId}`] || 0 }));
       const merged = applyQueue(remote.store, queue); baseline = clone(merged); persist(); await applyStore(merged); onStatus('synced'); onFirstSync(result.conflicts || []);
     } catch (error) { if (error.message !== 'session') onStatus('offline'); }
-    finally { syncing = false; }
+    finally {
+      syncing = false;
+      if (queue.length && document.visibilityState !== 'hidden') {
+        clearTimeout(timer); timer = setTimeout(flush, 250);
+      }
+    }
   };
-  const start = async () => { started = true; baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] }; changed(); await flush(); };
+  const start = async () => {
+    // Read the server before treating this device's cached state as a change.
+    // Real offline edits are already persisted in the operation queue.
+    baseline = clone(getStore()); started = true; await flush();
+  };
   window.addEventListener('online', flush); window.addEventListener('focus', flush); setInterval(flush, 15000);
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') flush(); });
   const syncNow = async () => { changed(); clearTimeout(timer); await flush(); };
   return { start, changed, flush, syncNow };
 }
