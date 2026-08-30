@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=33';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=34';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -705,7 +705,7 @@ async function applySyncedStore(store) {
 }
 
 function renderUsers() {
-  $('#users-list').innerHTML = users.length ? users.map(user => `<button class="user-choice" data-user-choice="${user.id}"><span class="user-choice-avatar">${escapeHtml(user.name.slice(0, 1).toUpperCase())}</span><span>${escapeHtml(user.name)}</span></button>`).join('') : '<div class="empty">Vartotojų dar nėra. Sukurkite pirmą profilį.</div>';
+  $('#users-list').innerHTML = users.length ? users.map(user => `<div class="user-row"><button class="user-choice" data-user-choice="${user.id}"><span class="user-choice-avatar">${escapeHtml(user.name.slice(0, 1).toUpperCase())}</span><span>${escapeHtml(user.name)}</span></button><button class="user-delete" data-user-delete="${user.id}" type="button" aria-label="Ištrinti vartotoją ${escapeHtml(user.name)}" title="Ištrinti vartotoją">×</button></div>`).join('') : '<div class="empty">Vartotojų dar nėra. Sukurkite pirmą profilį.</div>';
   $('#users-cancel').hidden = !currentUserId;
 }
 
@@ -717,6 +717,16 @@ function chooseUser(id) {
   const user = users.find(item => item.id === id); if (!user) return;
   persistActiveUserState(); currentUserId = id; loadActiveUserState(id);
   localStorage.setItem(STORAGE.currentUser, id); save(); $('#users-dialog').close(); route(); updateCounts(); showToast(`Pasirinktas vartotojas: ${user.name}`);
+}
+
+function deleteUser(id) {
+  const user = users.find(item => item.id === id); if (!user) return;
+  if (!confirm(`Ištrinti vartotoją „${user.name}“? Bus pašalinti jo receptai, prisegimai, pirkinių sąrašas ir turimi produktai.`)) return;
+  users = users.filter(item => item.id !== id);
+  delete userRecipes[id]; delete userRecipeRefs[id]; delete userCarts[id]; delete userPins[id]; delete userPantries[id];
+  for (const [key, value] of [[STORAGE.userRecipes, userRecipes], [STORAGE.userRecipeRefs, userRecipeRefs], [STORAGE.userCarts, userCarts], [STORAGE.userPins, userPins], [STORAGE.userPantries, userPantries]]) localStorage.setItem(key, JSON.stringify(value));
+  if (currentUserId === id) { currentUserId = ''; recipes = []; cart = []; pantry = []; localStorage.removeItem(STORAGE.currentUser); }
+  save(); syncEngine?.syncNow(); renderUsers(); route(); showToast(`Vartotojas „${user.name}“ ištrintas`);
 }
 
 function requireLogin() {
@@ -1063,6 +1073,7 @@ document.addEventListener('click', event => {
     if (addToPantry(target.dataset.pantrySuggestion, translateIngredient(target.dataset.pantrySuggestion))) { renderPantry(); renderShopping(); }
   }
   if (target.matches('[data-user-choice]')) chooseUser(target.dataset.userChoice);
+  if (target.matches('[data-user-delete]')) deleteUser(target.dataset.userDelete);
   if (target.matches('[data-pantry-remove]')) {
     pantry = pantry.filter(item => item.key !== target.dataset.pantryRemove); save(); renderPantry();
   }
@@ -1111,7 +1122,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=33', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=34', { updateViaCache: 'none' });
     registration.update();
   });
 }

@@ -156,8 +156,11 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .auth-content > p, .users-content > p { margin: 0 0 7px; color: var(--muted); font-size: 14px; }
 .auth-logo { display: grid; place-items: center; width: 58px; height: 58px; margin: 0 auto 4px; border-radius: 17px; background: var(--green); color: var(--lime); font-family: Georgia, serif; font-size: 30px; font-weight: 800; }
 .users-list { display: grid; gap: 8px; margin: 19px 0; }
+.user-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 7px; }
 .user-choice { display: flex; align-items: center; gap: 11px; width: 100%; padding: 12px; border: 1px solid var(--line); border-radius: 13px; background: var(--card); color: var(--green); font-weight: 850; text-align: left; }
 .user-choice-avatar { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; background: var(--green); color: var(--lime); }
+.user-delete { width: 44px; border: 1px solid #e1c9c2; border-radius: 13px; background: #fff8f5; color: #9c4e3a; font-size: 22px; }
+.user-delete:hover { background: #fbe9e3; }
 .users-content #users-cancel { display: block; margin: 15px auto 0; }
 .dictionary-content { padding: 25px; }
 .dictionary-content > p { margin: 7px 0 18px; color: var(--muted); font-size: 13px; }
