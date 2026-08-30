@@ -1,6 +1,6 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=27';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=28';
 
-const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
+const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
 const pantrySuggestions = [];
 
@@ -324,6 +324,7 @@ let customTranslations = load(STORAGE.dictionary, {});
 let users = load(STORAGE.users, []);
 let currentUserId = localStorage.getItem(STORAGE.currentUser) || '';
 let userRecipes = load(STORAGE.userRecipes, {});
+let userRecipeRefs = load(STORAGE.userRecipeRefs, {});
 let userCarts = load(STORAGE.userCarts, {});
 let userPins = load(STORAGE.userPins, {});
 let userPantries = load(STORAGE.userPantries, {});
@@ -342,6 +343,8 @@ let pendingSharedUrl = (() => {
 let applyingRemoteStore = false;
 let batchImportInProgress = false;
 let syncEngine;
+
+if (currentUserId && !userRecipeRefs[currentUserId] && recipes.length) userRecipeRefs[currentUserId] = recipes.map(recipe => recipe.url);
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -644,7 +647,7 @@ function syncStore() {
   persistActiveUserState();
   return {
     users,
-    recipes: Object.entries(userRecipes).flatMap(([userId, items]) => items.map(recipe => { const url = recipe.url.replace(/\/$/, '').toLowerCase(); return { id: `${userId}:${url}`, userId, url: recipe.url }; })),
+    recipes: Object.entries(userRecipeRefs).flatMap(([userId, urls]) => urls.map(recipeUrl => { const url = recipeUrl.replace(/\/$/, '').toLowerCase(); return { id: `${userId}:${url}`, userId, url: recipeUrl }; })),
     cart: Object.entries(userCarts).flatMap(([userId, items]) => items.map(item => ({ id: `${userId}:${item.id}`, userId, item }))),
     pins: Object.entries(userPins).flatMap(([userId, urls]) => urls.map(url => ({ id: `${userId}:${url}`, userId, url }))),
     pantry: Object.entries(userPantries).flatMap(([userId, items]) => items.map(item => ({ id: `${userId}:${item.key}`, userId, item }))),
@@ -676,6 +679,8 @@ async function applySyncedStore(store) {
     if (!record.userId || !record.url) continue;
     (recipeRefs[record.userId] ||= []).push(record);
   }
+  userRecipeRefs = Object.fromEntries(Object.entries(recipeRefs).map(([userId, refs]) => [userId, refs.map(item => item.url)]));
+  localStorage.setItem(STORAGE.userRecipeRefs, JSON.stringify(userRecipeRefs));
   for (const userId of Object.keys(userRecipes)) {
     if (batchImportInProgress && userId === currentUserId) continue;
     const urls = new Set((recipeRefs[userId] || []).map(item => item.url.replace(/\/$/, '').toLowerCase()));
@@ -933,18 +938,36 @@ $('#import-form').addEventListener('submit', async event => {
   const urls = [...new Set(($('#recipe-url').value.match(/https?:\/\/[^\s,]+/gi) || []).map(url => url.replace(/[)\].,;]+$/, '')))];
   if (!urls.length) { status.className = 'status error'; status.textContent = 'Įklijuokite bent vieną pilną Ruled.me nuorodą.'; return; }
   if (urls.length > 30) { status.className = 'status error'; status.textContent = 'Vienu kartu galima importuoti iki 30 receptų.'; return; }
-  button.disabled = true; button.textContent = 'Importuojama…'; status.className = 'status';
+  button.disabled = true; button.textContent = 'Tikrinama…'; status.className = 'status';
   let imported = 0; let skipped = 0; const failed = [];
   batchImportInProgress = true;
-  for (let index = 0; index < urls.length; index += 1) {
-    const url = urls[index];
-    status.textContent = `Importuojama ${index + 1} iš ${urls.length}: ${new URL(url).pathname.split('/').filter(Boolean).pop() || url}`;
-    const duplicate = recipes.find(item => item.url.replace(/\/$/,'') === url.replace(/\/$/,''));
-    if (duplicate) { skipped += 1; continue; }
-    try {
-      const recipe = await fetchRecipe(url);
-      recipes.unshift(recipe); imported += 1; save(); renderRecipes();
-    } catch (error) { failed.push(`${url} — ${error.message || 'klaida'}`); }
+  try {
+    status.textContent = `Tikrinamos ${urls.length} nuorodos…`;
+    const checked = await validateRecipeUrls(urls);
+    const valid = checked.filter(item => item.valid).map(item => item.url);
+    checked.filter(item => !item.valid).forEach(item => failed.push(`${item.url} — ${item.status === 404 ? '404' : 'nuoroda nepasiekiama'}`));
+    const existingRefs = new Set((userRecipeRefs[currentUserId] || []).map(url => url.replace(/\/$/, '').toLowerCase()));
+    const newUrls = valid.filter(url => {
+      const key = url.replace(/\/$/, '').toLowerCase();
+      if (existingRefs.has(key)) return false;
+      existingRefs.add(key); return true;
+    });
+    const localUrls = new Set(recipes.map(recipe => recipe.url.replace(/\/$/, '').toLowerCase()));
+    const processUrls = valid.filter(url => !localUrls.has(url.replace(/\/$/, '').toLowerCase()));
+    skipped = valid.length - processUrls.length;
+    userRecipeRefs[currentUserId] = [...(userRecipeRefs[currentUserId] || []), ...newUrls];
+    localStorage.setItem(STORAGE.userRecipeRefs, JSON.stringify(userRecipeRefs));
+    status.textContent = `Sinchronizuojamos ${newUrls.length} nuorodos…`;
+    await syncEngine.syncNow();
+    button.textContent = 'Importuojama…';
+    for (let index = 0; index < processUrls.length; index += 1) {
+      const url = processUrls[index];
+      status.textContent = `Apdorojama ${index + 1} iš ${processUrls.length}: ${new URL(url).pathname.split('/').filter(Boolean).pop() || url}`;
+      try { const recipe = await fetchRecipe(url); recipes.unshift(recipe); imported += 1; save(); renderRecipes(); }
+      catch (error) { failed.push(`${url} — ${error.message || 'apdorojimo klaida'}`); }
+    }
+  } catch (error) {
+    failed.push(`Nuorodų patikra — ${error.message || 'klaida'}`);
   }
   batchImportInProgress = false;
   syncEngine?.changed();
@@ -1052,7 +1075,7 @@ document.addEventListener('click', event => {
   }
   if (target.matches('[data-quick-cart]')) { const recipe = recipes.find(item => item.id === target.dataset.quickCart); if (recipe) addRecipeToCart(recipe); }
   if (target.matches('[data-back]')) location.hash = '#recipes';
-  if (target.matches('[data-delete]')) { if (confirm('Ištrinti šį receptą?')) { recipes = recipes.filter(item => item.id !== target.dataset.delete); save(); renderRecipes(); } }
+  if (target.matches('[data-delete]')) { if (confirm('Ištrinti šį receptą?')) { const removed = recipes.find(item => item.id === target.dataset.delete); recipes = recipes.filter(item => item.id !== target.dataset.delete); if (removed && currentUserId) userRecipeRefs[currentUserId] = (userRecipeRefs[currentUserId] || []).filter(url => url.replace(/\/$/, '').toLowerCase() !== removed.url.replace(/\/$/, '').toLowerCase()); localStorage.setItem(STORAGE.userRecipeRefs, JSON.stringify(userRecipeRefs)); save(); renderRecipes(); } }
   if (target.matches('[data-step]')) { const recipe = recipes.find(item => item.id === activeRecipeId); const next = Math.max(1, (recipe.currentServings || recipe.servings) + Number(target.dataset.step)); renderDetail(recipe.id, next); }
   if (target.matches('[data-toggle]')) { const boxes = $$('[data-ingredient]'); const anyChecked = boxes.some(box => box.checked); boxes.forEach(box => box.checked = !anyChecked); target.textContent = anyChecked ? 'Pažymėti visus' : 'Atžymėti visus'; }
   if (target.matches('[data-add-cart]')) addSelectedToCart();
@@ -1085,7 +1108,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=27', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=28', { updateViaCache: 'none' });
     registration.update();
   });
 }

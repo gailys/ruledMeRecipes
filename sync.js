@@ -42,6 +42,13 @@ export async function loginWithPassword(password) {
 }
 export function hasSession() { return Boolean(auth()?.token); }
 export function logoutSession() { localStorage.removeItem(AUTH_KEY); }
+export async function validateRecipeUrls(urls) {
+  const credentials = auth(); if (!credentials?.token) throw new Error('Reikia prisijungti');
+  const response = await fetch(`${API}/validate`, { method: 'POST', headers: { 'content-type': 'application/json', authorization: `Bearer ${credentials.token}` }, body: JSON.stringify({ urls }) });
+  if (response.status === 401) { logoutSession(); throw new Error('Sesija baigėsi. Prisijunkite dar kartą.'); }
+  const result = await response.json().catch(() => ({})); if (!response.ok) throw new Error(result.error || 'Nuorodų patikrinti nepavyko');
+  return result.results || [];
+}
 
 export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatus, onFirstSync }) {
   let baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] };
@@ -69,5 +76,6 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
   };
   const start = async () => { started = true; baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] }; changed(); await flush(); };
   window.addEventListener('online', flush); window.addEventListener('focus', flush); setInterval(flush, 15000);
-  return { start, changed, flush };
+  const syncNow = async () => { changed(); clearTimeout(timer); await flush(); };
+  return { start, changed, flush, syncNow };
 }
