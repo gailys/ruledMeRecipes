@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=34';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=35';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -408,13 +408,8 @@ function migrateLegacyIngredientNames() {
     const key = ingredientKey(item.name); const translated = translateIngredient(item.name);
     if (item.key !== key || item.translated !== translated) { item.key = key; item.translated = translated; changed = true; }
   });
-  const consolidated = [];
-  cart.forEach(item => {
-    const existing = consolidated.find(entry => entry.key === item.key && unitKey(entry.unit) === unitKey(item.unit) && entry.quantity != null && item.quantity != null);
-    if (existing) { existing.quantity += item.quantity; changed = true; }
-    else consolidated.push(item);
-  });
-  if (consolidated.length !== cart.length) cart = consolidated;
+  const consolidated = consolidateCart(cart);
+  if (consolidated.changed) { cart = consolidated.items; changed = true; }
   const neededCart = cart.filter(item => !isInPantry(item.name));
   if (neededCart.length !== cart.length) { cart = neededCart; changed = true; }
   if (changed) save();
@@ -486,6 +481,40 @@ function unitKey(unit = '') {
   if (/^(gram|grams|g)$/.test(value)) return 'gram';
   if (/^(milliliter|milliliters|ml)$/.test(value)) return 'milliliter';
   return value;
+}
+
+function ingredientForm(name = '') {
+  const value = name.toLowerCase();
+  return ['fresh', 'dried', 'ground', 'powdered'].find(form => new RegExp(`\\b${form}\\b`).test(value)) || '';
+}
+
+function measurement(unit = '') {
+  const key = unitKey(unit);
+  const units = {
+    cup: ['volume', 240], tablespoon: ['volume', 15], teaspoon: ['volume', 5], 'fluid ounce': ['volume', 29.5735], milliliter: ['volume', 1],
+    ounce: ['weight', 28.3495], pound: ['weight', 453.592], gram: ['weight', 1],
+  };
+  return units[key] ? { key, family: units[key][0], factor: units[key][1] } : { key, family: key, factor: 1 };
+}
+
+function consolidateCart(items) {
+  const result = []; let changed = false;
+  for (const item of items) {
+    const current = { ...item, key: item.key || ingredientKey(item.name) };
+    const measure = measurement(current.unit);
+    const existing = current.quantity == null ? null : result.find(entry => entry.key === current.key && ingredientForm(entry.name) === ingredientForm(current.name) && entry.quantity != null && measurement(entry.unit).family === measure.family);
+    if (!existing) { result.push(current); continue; }
+    const existingMeasure = measurement(existing.unit);
+    let targetKey = existingMeasure.key;
+    if (measure.family === 'volume' && (existingMeasure.key === 'cup' || measure.key === 'cup')) targetKey = 'cup';
+    else if (measure.family === 'volume' && (existingMeasure.key === 'tablespoon' || measure.key === 'tablespoon')) targetKey = 'tablespoon';
+    else if (measure.family === 'weight' && (existingMeasure.key === 'ounce' || measure.key === 'ounce')) targetKey = 'ounce';
+    else if (measure.family === 'weight') targetKey = 'gram';
+    const target = measurement(targetKey);
+    existing.quantity = (existing.quantity * existingMeasure.factor + current.quantity * measure.factor) / target.factor;
+    existing.unit = targetKey; existing.quantityRaw = ''; changed = true;
+  }
+  return { items: result, changed };
 }
 
 function translateIngredient(name) {
@@ -656,13 +685,17 @@ function syncStore() {
 }
 
 async function applySyncedStore(store) {
-  applyingRemoteStore = true;
+  applyingRemoteStore = true; let cartConsolidated = false;
   users = store.users || [];
   if (currentUserId && !users.some(item => item.id === currentUserId)) { currentUserId = ''; localStorage.removeItem(STORAGE.currentUser); }
   userCarts = {};
   for (const record of store.cart || []) {
     const userId = record.userId || currentUserId; if (!userId) continue;
     (userCarts[userId] ||= []).push(record.item || record);
+  }
+  for (const userId of Object.keys(userCarts)) {
+    const consolidated = consolidateCart(userCarts[userId]); userCarts[userId] = consolidated.items;
+    cartConsolidated ||= consolidated.changed;
   }
   userPins = {};
   for (const record of store.pins || []) {
@@ -701,6 +734,7 @@ async function applySyncedStore(store) {
       const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); userRecipes[currentUserId] = recipes; save(); applyingRemoteStore = false; renderRecipes();
     } catch { showToast('Vieno recepto nepavyko parsiųsti į šį telefoną'); }
   }
+  if (cartConsolidated) syncEngine?.changed();
   route({ preserveScroll: true }); updateCounts();
 }
 
@@ -804,6 +838,7 @@ function addSelectedToCart() {
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
+  cart = consolidateCart(cart).items;
   save(); syncEngine?.syncNow(); showToast(`${needed.length} produktai pridėti${selected.length !== needed.length ? ` · ${selected.length - needed.length} turite` : ''}`);
 }
 
@@ -816,6 +851,7 @@ function addRecipeToCart(recipe, items = recipe.ingredients) {
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
+  cart = consolidateCart(cart).items;
   save(); syncEngine?.syncNow(); showToast(`${needed.length} produktai pridėti${items.length !== needed.length ? ` · ${items.length - needed.length} turite` : ''}`);
 }
 
@@ -1122,7 +1158,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=34', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=35', { updateViaCache: 'none' });
     registration.update();
   });
 }
