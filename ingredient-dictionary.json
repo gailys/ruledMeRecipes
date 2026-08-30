@@ -5,7 +5,7 @@
     {
       "key": "5 minute keto raspberry vinaigrette",
       "english": "5 minute keto raspberry vinaigrette",
-      "defaultLt": "",
+      "defaultLt": "5 minučių keto aviečių užpilas",
       "count": 1,
       "variants": [
         "5 Minute Keto Raspberry Vinaigrette"
@@ -14,7 +14,7 @@
     {
       "key": "all-purpose seasoning",
       "english": "all-purpose seasoning",
-      "defaultLt": "",
+      "defaultLt": "universalus prieskonių mišinys",
       "count": 4,
       "variants": [
         "all-purpose seasoning (such as Mrs. Dash)",
@@ -45,7 +45,7 @@
     {
       "key": "almond butter",
       "english": "almond butter",
-      "defaultLt": "almond sviestas",
+      "defaultLt": "migdolų sviestas",
       "count": 5,
       "variants": [
         "almond butter"
@@ -54,7 +54,7 @@
     {
       "key": "almond extract",
       "english": "almond extract",
-      "defaultLt": "",
+      "defaultLt": "migdolų ekstraktas",
       "count": 2,
       "variants": [
         "almond extract"
@@ -83,7 +83,7 @@
     {
       "key": "ancho chile powder",
       "english": "ancho chile powder",
-      "defaultLt": "",
+      "defaultLt": "ančo aitriųjų paprikų milteliai",
       "count": 1,
       "variants": [
         "ancho chile powder"
@@ -112,7 +112,7 @@
     {
       "key": "avocado meat",
       "english": "avocado meat",
-      "defaultLt": "avokadas meat",
+      "defaultLt": "avokado minkštimas",
       "count": 1,
       "variants": [
         "avocado meat (mashed)"
@@ -130,7 +130,7 @@
     {
       "key": "baby kale",
       "english": "baby kale",
-      "defaultLt": "",
+      "defaultLt": "jauni lapiniai kopūstai",
       "count": 1,
       "variants": [
         "baby kale"
@@ -162,7 +162,7 @@
     {
       "key": "baking soda",
       "english": "baking soda",
-      "defaultLt": "",
+      "defaultLt": "valgomoji soda",
       "count": 4,
       "variants": [
         "baking soda"
@@ -207,7 +207,7 @@
     {
       "key": "beef stew meat",
       "english": "beef stew meat",
-      "defaultLt": "jautiena stew meat",
+      "defaultLt": "troškinti skirta jautiena",
       "count": 1,
       "variants": [
         "beef stew meat"
@@ -216,7 +216,7 @@
     {
       "key": "black olives",
       "english": "black olives",
-      "defaultLt": "",
+      "defaultLt": "juodosios alyvuogės",
       "count": 3,
       "variants": [
         "black olives (de-seeded and chopped)",
@@ -236,7 +236,7 @@
     {
       "key": "blackberries",
       "english": "blackberries",
-      "defaultLt": "",
+      "defaultLt": "gervuogės",
       "count": 1,
       "variants": [
         "blackberries"
@@ -264,7 +264,7 @@
     {
       "key": "blueberry extract",
       "english": "blueberry extract",
-      "defaultLt": "",
+      "defaultLt": "mėlynių ekstraktas",
       "count": 1,
       "variants": [
         "blueberry extract"
@@ -273,7 +273,7 @@
     {
       "key": "bok choy",
       "english": "bok choy",
-      "defaultLt": "",
+      "defaultLt": "kiniškas bastutis",
       "count": 1,
       "variants": [
         "bok choy"
@@ -282,7 +282,7 @@
     {
       "key": "bone-in oxtails",
       "english": "bone-in oxtails",
-      "defaultLt": "",
+      "defaultLt": "jaučio uodegos su kaulu",
       "count": 1,
       "variants": [
         "bone-in oxtails"
@@ -291,7 +291,7 @@
     {
       "key": "bone-in, skin-on pork shoulder",
       "english": "bone-in, skin-on pork shoulder",
-      "defaultLt": "bone-in, skin-on kiauliena shoulder",
+      "defaultLt": "kiaulienos mentė su kaulu ir oda",
       "count": 1,
       "variants": [
         "bone-in, skin-on pork shoulder (room temperature)"
@@ -300,7 +300,7 @@
     {
       "key": "boneless pork chops",
       "english": "boneless pork chops",
-      "defaultLt": "boneless kiauliena chops",
+      "defaultLt": "kiaulienos kepsneliai be kaulo",
       "count": 1,
       "variants": [
         "boneless pork chops"
@@ -318,7 +318,7 @@
     {
       "key": "breakfast sausage",
       "english": "breakfast sausage",
-      "defaultLt": "",
+      "defaultLt": "pusryčių dešrelės",
       "count": 2,
       "variants": [
         "breakfast sausage",
@@ -328,7 +328,7 @@
     {
       "key": "brewed coffee",
       "english": "brewed coffee",
-      "defaultLt": "",
+      "defaultLt": "paruošta kava",
       "count": 2,
       "variants": [
         "brewed coffee"
@@ -337,7 +337,7 @@
     {
       "key": "brie cheese",
       "english": "brie cheese",
-      "defaultLt": "",
+      "defaultLt": "bri sūris",
       "count": 1,
       "variants": [
         "brie cheese"
@@ -357,7 +357,7 @@
     {
       "key": "broccoli slaw",
       "english": "broccoli slaw",
-      "defaultLt": "brokoliai slaw",
+      "defaultLt": "brokolių salotų mišinys",
       "count": 1,
       "variants": [
         "broccoli slaw"
@@ -366,7 +366,7 @@
     {
       "key": "brussels sprouts",
       "english": "brussels sprouts",
-      "defaultLt": "",
+      "defaultLt": "briuseliniai kopūstai",
       "count": 2,
       "variants": [
         "brussels sprouts"
@@ -391,7 +391,7 @@
     {
       "key": "button mushrooms",
       "english": "button mushrooms",
-      "defaultLt": "button grybai",
+      "defaultLt": "pievagrybiai",
       "count": 2,
       "variants": [
         "button mushrooms",
@@ -401,7 +401,7 @@
     {
       "key": "cacao nibs",
       "english": "cacao nibs",
-      "defaultLt": "",
+      "defaultLt": "kakavos pupelių gabalėliai",
       "count": 1,
       "variants": [
         "cacao nibs"
@@ -410,7 +410,7 @@
     {
       "key": "can hearts of palm",
       "english": "can hearts of palm",
-      "defaultLt": "",
+      "defaultLt": "konservuotos palmių šerdys",
       "count": 1,
       "variants": [
         "can hearts of palm"
@@ -419,7 +419,7 @@
     {
       "key": "canned pink salmon",
       "english": "canned pink salmon",
-      "defaultLt": "canned pink lašiša",
+      "defaultLt": "konservuota rausvoji lašiša",
       "count": 1,
       "variants": [
         "canned pink salmon"
@@ -428,7 +428,7 @@
     {
       "key": "canned sardines",
       "english": "canned sardines",
-      "defaultLt": "",
+      "defaultLt": "konservuotos sardinės",
       "count": 2,
       "variants": [
         "canned sardines (drained)"
@@ -437,7 +437,7 @@
     {
       "key": "canned sardines )",
       "english": "canned sardines )",
-      "defaultLt": "",
+      "defaultLt": "konservuotos sardinės",
       "count": 1,
       "variants": [
         "canned sardines (drained (reserve the oil))"
@@ -446,7 +446,7 @@
     {
       "key": "canned tuna",
       "english": "canned tuna",
-      "defaultLt": "",
+      "defaultLt": "konservuotas tunas",
       "count": 1,
       "variants": [
         "canned tuna (drained)"
@@ -455,7 +455,7 @@
     {
       "key": "canned whole tomatoes",
       "english": "canned whole tomatoes",
-      "defaultLt": "canned whole pomidorai",
+      "defaultLt": "konservuoti sveiki pomidorai",
       "count": 1,
       "variants": [
         "canned whole tomatoes"
@@ -464,7 +464,7 @@
     {
       "key": "capers",
       "english": "capers",
-      "defaultLt": "",
+      "defaultLt": "kaparėliai",
       "count": 2,
       "variants": [
         "capers"
@@ -473,7 +473,7 @@
     {
       "key": "cardamom",
       "english": "cardamom",
-      "defaultLt": "",
+      "defaultLt": "kardamonas",
       "count": 2,
       "variants": [
         "cardamom"
@@ -482,7 +482,7 @@
     {
       "key": "carrot",
       "english": "carrot",
-      "defaultLt": "",
+      "defaultLt": "morka",
       "count": 1,
       "variants": [
         "carrot (shredded)"
@@ -506,7 +506,7 @@
     {
       "key": "cauliflower rice",
       "english": "cauliflower rice",
-      "defaultLt": "žiedinis kopūstas rice",
+      "defaultLt": "smulkintas žiedinis kopūstas",
       "count": 3,
       "variants": [
         "cauliflower rice"
@@ -515,7 +515,7 @@
     {
       "key": "cayenne pepper",
       "english": "cayenne pepper",
-      "defaultLt": "cayenne pipirai",
+      "defaultLt": "Kajeno pipirai",
       "count": 6,
       "variants": [
         "cayenne pepper"
@@ -600,7 +600,7 @@
     {
       "key": "chili paste",
       "english": "chili paste",
-      "defaultLt": "",
+      "defaultLt": "aitriųjų paprikų pasta",
       "count": 2,
       "variants": [
         "chili paste",
@@ -619,7 +619,7 @@
     {
       "key": "chili-garlic paste",
       "english": "chili-garlic paste",
-      "defaultLt": "chili-česnakas paste",
+      "defaultLt": "aitriųjų paprikų ir česnakų pasta",
       "count": 1,
       "variants": [
         "chili-garlic paste (such as sambal oelek with garlic)"
@@ -628,7 +628,7 @@
     {
       "key": "chipotle seasoning",
       "english": "chipotle seasoning",
-      "defaultLt": "",
+      "defaultLt": "čipotlių prieskoniai",
       "count": 1,
       "variants": [
         "chipotle seasoning"
@@ -668,7 +668,7 @@
     {
       "key": "coconut aminos",
       "english": "coconut aminos",
-      "defaultLt": "",
+      "defaultLt": "kokosų aminorūgščių padažas",
       "count": 1,
       "variants": [
         "coconut aminos"
@@ -708,7 +708,7 @@
     {
       "key": "cooked chicken",
       "english": "cooked chicken",
-      "defaultLt": "",
+      "defaultLt": "virta arba kepta vištiena",
       "count": 1,
       "variants": [
         "cooked chicken"
@@ -717,7 +717,7 @@
     {
       "key": "cooking spray",
       "english": "cooking spray",
-      "defaultLt": "",
+      "defaultLt": "kepimo aliejaus purškalas",
       "count": 1,
       "variants": [
         "cooking spray"
@@ -726,7 +726,7 @@
     {
       "key": "cottage cheese",
       "english": "cottage cheese",
-      "defaultLt": "",
+      "defaultLt": "grūdėta varškė",
       "count": 5,
       "variants": [
         "cottage cheese"
@@ -746,7 +746,7 @@
     {
       "key": "cream of tartar",
       "english": "cream of tartar",
-      "defaultLt": "",
+      "defaultLt": "vyno akmens milteliai",
       "count": 3,
       "variants": [
         "cream of tartar"
@@ -779,7 +779,7 @@
     {
       "key": "cumin",
       "english": "cumin",
-      "defaultLt": "",
+      "defaultLt": "kuminas",
       "count": 9,
       "variants": [
         "cumin"
@@ -788,7 +788,7 @@
     {
       "key": "curry powder",
       "english": "curry powder",
-      "defaultLt": "",
+      "defaultLt": "kario milteliai",
       "count": 2,
       "variants": [
         "curry powder"
@@ -797,7 +797,7 @@
     {
       "key": "deli sliced turkey",
       "english": "deli sliced turkey",
-      "defaultLt": "",
+      "defaultLt": "pjaustyta kalakutiena",
       "count": 2,
       "variants": [
         "deli sliced turkey"
@@ -806,7 +806,7 @@
     {
       "key": "deli-sliced black forest ham",
       "english": "deli-sliced black forest ham",
-      "defaultLt": "",
+      "defaultLt": "pjaustytas Švarcvaldo kumpis",
       "count": 3,
       "variants": [
         "deli-sliced black forest ham"
@@ -825,7 +825,7 @@
     {
       "key": "dill pickle",
       "english": "dill pickle",
-      "defaultLt": "",
+      "defaultLt": "marinuotas agurkas",
       "count": 4,
       "variants": [
         "dill pickle (diced)",
@@ -835,7 +835,7 @@
     {
       "key": "dried basil",
       "english": "dried basil",
-      "defaultLt": "dried bazilikas",
+      "defaultLt": "džiovintas bazilikas",
       "count": 1,
       "variants": [
         "dried basil"
@@ -844,7 +844,7 @@
     {
       "key": "dried dill",
       "english": "dried dill",
-      "defaultLt": "",
+      "defaultLt": "džiovinti krapai",
       "count": 4,
       "variants": [
         "dried dill"
@@ -853,7 +853,7 @@
     {
       "key": "dried rosemary",
       "english": "dried rosemary",
-      "defaultLt": "",
+      "defaultLt": "džiovintas rozmarinas",
       "count": 3,
       "variants": [
         "dried rosemary"
@@ -862,7 +862,7 @@
     {
       "key": "drop peppermint extract",
       "english": "drop peppermint extract",
-      "defaultLt": "drop pipiraimint extract",
+      "defaultLt": "lašas pipirmėčių ekstrakto",
       "count": 1,
       "variants": [
         "drop peppermint extract (or quality, food-grade essential oil)"
@@ -871,7 +871,7 @@
     {
       "key": "dry red wine",
       "english": "dry red wine",
-      "defaultLt": "",
+      "defaultLt": "sausas raudonasis vynas",
       "count": 1,
       "variants": [
         "dry red wine"
@@ -906,7 +906,7 @@
     {
       "key": "eggplant",
       "english": "eggplant",
-      "defaultLt": "kiaušinisplant",
+      "defaultLt": "baklažanas",
       "count": 1,
       "variants": [
         "eggplant"
@@ -929,7 +929,7 @@
     {
       "key": "extra firm tofu",
       "english": "extra firm tofu",
-      "defaultLt": "",
+      "defaultLt": "labai kietas tofu",
       "count": 2,
       "variants": [
         "extra firm tofu"
@@ -938,7 +938,7 @@
     {
       "key": "feta cheese",
       "english": "feta cheese",
-      "defaultLt": "",
+      "defaultLt": "fetos sūris",
       "count": 4,
       "variants": [
         "feta cheese (crumbled)",
@@ -949,7 +949,7 @@
     {
       "key": "fish sauce",
       "english": "fish sauce",
-      "defaultLt": "",
+      "defaultLt": "žuvies padažas",
       "count": 2,
       "variants": [
         "fish sauce"
@@ -968,7 +968,7 @@
     {
       "key": "fresh basil",
       "english": "fresh basil",
-      "defaultLt": "fresh bazilikas",
+      "defaultLt": "šviežias bazilikas",
       "count": 5,
       "variants": [
         "fresh basil (chopped)",
@@ -978,7 +978,7 @@
     {
       "key": "fresh chives",
       "english": "fresh chives",
-      "defaultLt": "",
+      "defaultLt": "šviežūs laiškiniai česnakai",
       "count": 7,
       "variants": [
         "fresh chives (diced)",
@@ -989,7 +989,7 @@
     {
       "key": "fresh dill",
       "english": "fresh dill",
-      "defaultLt": "",
+      "defaultLt": "švieži krapai",
       "count": 1,
       "variants": [
         "fresh dill (chopped)"
@@ -998,7 +998,7 @@
     {
       "key": "fresh mint",
       "english": "fresh mint",
-      "defaultLt": "",
+      "defaultLt": "šviežios mėtos",
       "count": 1,
       "variants": [
         "fresh mint"
@@ -1007,7 +1007,7 @@
     {
       "key": "fresh tomatoes",
       "english": "fresh tomatoes",
-      "defaultLt": "fresh pomidorai",
+      "defaultLt": "švieži pomidorai",
       "count": 8,
       "variants": [
         "fresh tomatoes (diced)",
@@ -1019,7 +1019,7 @@
     {
       "key": "frozen berries",
       "english": "frozen berries",
-      "defaultLt": "",
+      "defaultLt": "šaldytos uogos",
       "count": 1,
       "variants": [
         "frozen berries"
@@ -1028,7 +1028,7 @@
     {
       "key": "frozen broccoli",
       "english": "frozen broccoli",
-      "defaultLt": "frozen brokoliai",
+      "defaultLt": "šaldyti brokoliai",
       "count": 1,
       "variants": [
         "frozen broccoli (steamed)"
@@ -1037,7 +1037,7 @@
     {
       "key": "frozen cauliflower",
       "english": "frozen cauliflower",
-      "defaultLt": "frozen žiedinis kopūstas",
+      "defaultLt": "šaldytas žiedinis kopūstas",
       "count": 1,
       "variants": [
         "frozen cauliflower (florets)"
@@ -1046,7 +1046,7 @@
     {
       "key": "frozen spinach",
       "english": "frozen spinach",
-      "defaultLt": "frozen špinatai",
+      "defaultLt": "šaldyti špinatai",
       "count": 4,
       "variants": [
         "frozen spinach",
@@ -1057,7 +1057,7 @@
     {
       "key": "full-fat plain greek yogurt",
       "english": "full-fat plain greek yogurt",
-      "defaultLt": "full-fat plain graikiškas jogurtas",
+      "defaultLt": "natūralus riebus graikiškas jogurtas",
       "count": 5,
       "variants": [
         "full-fat plain greek yogurt"
@@ -1077,7 +1077,7 @@
     {
       "key": "garlic and herb seasoning",
       "english": "garlic and herb seasoning",
-      "defaultLt": "česnakas and herb seasoning",
+      "defaultLt": "česnakų ir žolelių prieskoniai",
       "count": 1,
       "variants": [
         "garlic and herb seasoning"
@@ -1116,7 +1116,7 @@
     {
       "key": "goat cheese",
       "english": "goat cheese",
-      "defaultLt": "",
+      "defaultLt": "ožkų sūris",
       "count": 3,
       "variants": [
         "goat cheese"
@@ -1134,7 +1134,7 @@
     {
       "key": "green bell pepper",
       "english": "green bell pepper",
-      "defaultLt": "green bell pipirai",
+      "defaultLt": "žalioji paprika",
       "count": 4,
       "variants": [
         "green bell pepper",
@@ -1188,7 +1188,7 @@
     {
       "key": "ground coriander",
       "english": "ground coriander",
-      "defaultLt": "",
+      "defaultLt": "maltos kalendrų sėklos",
       "count": 1,
       "variants": [
         "ground coriander"
@@ -1197,7 +1197,7 @@
     {
       "key": "ground lamb",
       "english": "ground lamb",
-      "defaultLt": "",
+      "defaultLt": "malta aviena",
       "count": 1,
       "variants": [
         "ground lamb"
@@ -1206,7 +1206,7 @@
     {
       "key": "ground mild italian sausage",
       "english": "ground mild italian sausage",
-      "defaultLt": "",
+      "defaultLt": "malta švelni itališka dešra",
       "count": 1,
       "variants": [
         "ground mild italian sausage"
@@ -1215,7 +1215,7 @@
     {
       "key": "ground turkey",
       "english": "ground turkey",
-      "defaultLt": "",
+      "defaultLt": "malta kalakutiena",
       "count": 1,
       "variants": [
         "ground turkey"
@@ -1224,7 +1224,7 @@
     {
       "key": "gruyere cheese",
       "english": "gruyere cheese",
-      "defaultLt": "",
+      "defaultLt": "griujerio sūris",
       "count": 1,
       "variants": [
         "gruyere cheese (shredded)"
@@ -1233,7 +1233,7 @@
     {
       "key": "guar gum",
       "english": "guar gum",
-      "defaultLt": "",
+      "defaultLt": "guaro derva",
       "count": 2,
       "variants": [
         "guar gum"
@@ -1251,7 +1251,7 @@
     {
       "key": "ham",
       "english": "ham",
-      "defaultLt": "",
+      "defaultLt": "kumpis",
       "count": 1,
       "variants": [
         "ham (diced)"
@@ -1271,7 +1271,7 @@
     {
       "key": "hemp hearts",
       "english": "hemp hearts",
-      "defaultLt": "",
+      "defaultLt": "lukštentos kanapių sėklos",
       "count": 2,
       "variants": [
         "hemp hearts"
@@ -1289,7 +1289,7 @@
     {
       "key": "hoisin sauce",
       "english": "hoisin sauce",
-      "defaultLt": "",
+      "defaultLt": "hoisin padažas",
       "count": 1,
       "variants": [
         "hoisin sauce"
@@ -1327,7 +1327,7 @@
     {
       "key": "ice water",
       "english": "ice water",
-      "defaultLt": "ice vanduo",
+      "defaultLt": "ledinis vanduo",
       "count": 1,
       "variants": [
         "ice water"
@@ -1336,7 +1336,7 @@
     {
       "key": "iceberg lettuce",
       "english": "iceberg lettuce",
-      "defaultLt": "",
+      "defaultLt": "aisbergo salotos",
       "count": 1,
       "variants": [
         "iceberg lettuce"
@@ -1345,7 +1345,7 @@
     {
       "key": "instant coffee",
       "english": "instant coffee",
-      "defaultLt": "",
+      "defaultLt": "tirpi kava",
       "count": 2,
       "variants": [
         "instant coffee"
@@ -1354,7 +1354,7 @@
     {
       "key": "italian dressing",
       "english": "italian dressing",
-      "defaultLt": "",
+      "defaultLt": "itališkas salotų padažas",
       "count": 1,
       "variants": [
         "italian dressing"
@@ -1363,7 +1363,7 @@
     {
       "key": "italian dry salami",
       "english": "italian dry salami",
-      "defaultLt": "",
+      "defaultLt": "itališkas vytintas saliamis",
       "count": 1,
       "variants": [
         "italian dry salami"
@@ -1381,7 +1381,7 @@
     {
       "key": "jalapeno pepper",
       "english": "jalapeno pepper",
-      "defaultLt": "jalapeno pipirai",
+      "defaultLt": "chalapos paprika",
       "count": 4,
       "variants": [
         "jalapeno pepper (sliced and optionally deseeded)",
@@ -1392,7 +1392,7 @@
     {
       "key": "kosher salt",
       "english": "kosher salt",
-      "defaultLt": "kosher druska",
+      "defaultLt": "košerinė druska",
       "count": 4,
       "variants": [
         "kosher salt (to taste)",
@@ -1403,7 +1403,7 @@
     {
       "key": "lard",
       "english": "lard",
-      "defaultLt": "",
+      "defaultLt": "kiaulienos taukai",
       "count": 3,
       "variants": [
         "lard (or oil with a high smoke point)",
@@ -1414,7 +1414,7 @@
     {
       "key": "leafy greens",
       "english": "leafy greens",
-      "defaultLt": "",
+      "defaultLt": "lapinės daržovės",
       "count": 1,
       "variants": [
         "leafy greens"
@@ -1423,7 +1423,7 @@
     {
       "key": "leek",
       "english": "leek",
-      "defaultLt": "",
+      "defaultLt": "poras",
       "count": 1,
       "variants": [
         "leek (sliced)"
@@ -1432,7 +1432,7 @@
     {
       "key": "lemon",
       "english": "lemon",
-      "defaultLt": "",
+      "defaultLt": "citrina",
       "count": 4,
       "variants": [
         "lemon (juice and zest)",
@@ -1442,7 +1442,7 @@
     {
       "key": "lemon extract",
       "english": "lemon extract",
-      "defaultLt": "",
+      "defaultLt": "citrinų ekstraktas",
       "count": 2,
       "variants": [
         "lemon extract"
@@ -1471,7 +1471,7 @@
     {
       "key": "lime",
       "english": "lime",
-      "defaultLt": "",
+      "defaultLt": "žalioji citrina",
       "count": 2,
       "variants": [
         "lime",
@@ -1490,7 +1490,7 @@
     {
       "key": "lime zest",
       "english": "lime zest",
-      "defaultLt": "",
+      "defaultLt": "žaliosios citrinos žievelė",
       "count": 1,
       "variants": [
         "lime zest"
@@ -1499,7 +1499,7 @@
     {
       "key": "liquid smoke",
       "english": "liquid smoke",
-      "defaultLt": "",
+      "defaultLt": "skysti dūmai",
       "count": 1,
       "variants": [
         "liquid smoke"
@@ -1521,7 +1521,7 @@
     {
       "key": "lit'l smokies",
       "english": "lit'l smokies",
-      "defaultLt": "",
+      "defaultLt": "mažos rūkytos dešrelės",
       "count": 2,
       "variants": [
         "Lit'l Smokies",
@@ -1531,7 +1531,7 @@
     {
       "key": "low-carb chocolate protein powder",
       "english": "low-carb chocolate protein powder",
-      "defaultLt": "",
+      "defaultLt": "mažai angliavandenių turintys šokoladiniai baltymų milteliai",
       "count": 3,
       "variants": [
         "low-carb chocolate protein powder (such as Isopure)",
@@ -1551,7 +1551,7 @@
     {
       "key": "low-carb dark chocolate chips",
       "english": "low-carb dark chocolate chips",
-      "defaultLt": "mažai angliavandenių turintis juodasis šokoladas chips",
+      "defaultLt": "mažai angliavandenių turintys juodojo šokolado lašeliai",
       "count": 6,
       "variants": [
         "low-carb dark chocolate chips"
@@ -1560,7 +1560,7 @@
     {
       "key": "low-carb ketchup",
       "english": "low-carb ketchup",
-      "defaultLt": "",
+      "defaultLt": "mažai angliavandenių turintis kečupas",
       "count": 3,
       "variants": [
         "low-carb ketchup"
@@ -1569,7 +1569,7 @@
     {
       "key": "low-carb maple syrup",
       "english": "low-carb maple syrup",
-      "defaultLt": "",
+      "defaultLt": "mažai angliavandenių turintis klevų sirupas",
       "count": 4,
       "variants": [
         "low-carb maple syrup",
@@ -1579,7 +1579,7 @@
     {
       "key": "low-carb milk chocolate",
       "english": "low-carb milk chocolate",
-      "defaultLt": "low-carb pienas chocolate",
+      "defaultLt": "mažai angliavandenių turintis pieniškas šokoladas",
       "count": 1,
       "variants": [
         "low-carb milk chocolate"
@@ -1588,7 +1588,7 @@
     {
       "key": "low-carb protein powder",
       "english": "low-carb protein powder",
-      "defaultLt": "",
+      "defaultLt": "mažai angliavandenių turintys baltymų milteliai",
       "count": 5,
       "variants": [
         "low-carb protein powder"
@@ -1597,7 +1597,7 @@
     {
       "key": "low-carb tomato sauce",
       "english": "low-carb tomato sauce",
-      "defaultLt": "low-carb pomidorų padažas",
+      "defaultLt": "mažai angliavandenių turintis pomidorų padažas",
       "count": 6,
       "variants": [
         "low-carb tomato sauce (such as Rao's)",
@@ -1607,7 +1607,7 @@
     {
       "key": "macadamia nuts",
       "english": "macadamia nuts",
-      "defaultLt": "",
+      "defaultLt": "makadamijų riešutai",
       "count": 1,
       "variants": [
         "macadamia nuts"
@@ -1616,7 +1616,7 @@
     {
       "key": "mango extract",
       "english": "mango extract",
-      "defaultLt": "",
+      "defaultLt": "mangų ekstraktas",
       "count": 1,
       "variants": [
         "mango extract"
@@ -1625,7 +1625,7 @@
     {
       "key": "marinated artichoke hearts",
       "english": "marinated artichoke hearts",
-      "defaultLt": "",
+      "defaultLt": "marinuotos artišokų šerdys",
       "count": 1,
       "variants": [
         "marinated artichoke hearts (drained and chopped)"
@@ -1652,7 +1652,7 @@
     {
       "key": "mexican squash",
       "english": "mexican squash",
-      "defaultLt": "",
+      "defaultLt": "meksikietiška cukinija",
       "count": 1,
       "variants": [
         "mexican squash"
@@ -1661,7 +1661,7 @@
     {
       "key": "mixed greens",
       "english": "mixed greens",
-      "defaultLt": "",
+      "defaultLt": "lapinių daržovių mišinys",
       "count": 3,
       "variants": [
         "mixed greens"
@@ -1670,7 +1670,7 @@
     {
       "key": "monterey jack cheese",
       "english": "monterey jack cheese",
-      "defaultLt": "",
+      "defaultLt": "Monterėjaus Džeko sūris",
       "count": 1,
       "variants": [
         "monterey jack cheese (shredded)"
@@ -1719,7 +1719,7 @@
     {
       "key": "old bay seasoning",
       "english": "old bay seasoning",
-      "defaultLt": "",
+      "defaultLt": "„Old Bay“ prieskonių mišinys",
       "count": 1,
       "variants": [
         "old bay seasoning"
@@ -1763,7 +1763,7 @@
     {
       "key": "orange bell pepper",
       "english": "orange bell pepper",
-      "defaultLt": "orange bell pipirai",
+      "defaultLt": "oranžinė paprika",
       "count": 1,
       "variants": [
         "orange bell pepper (sliced in strips)"
@@ -1791,7 +1791,7 @@
     {
       "key": "paprika",
       "english": "paprika",
-      "defaultLt": "",
+      "defaultLt": "paprikos milteliai",
       "count": 7,
       "variants": [
         "paprika"
@@ -1833,7 +1833,7 @@
     {
       "key": "peanut butter powder",
       "english": "peanut butter powder",
-      "defaultLt": "žemės riešutų sviestas",
+      "defaultLt": "žemės riešutų sviesto milteliai",
       "count": 1,
       "variants": [
         "powdered peanut butter (such as PBfit)"
@@ -1842,7 +1842,7 @@
     {
       "key": "peanuts",
       "english": "peanuts",
-      "defaultLt": "",
+      "defaultLt": "žemės riešutai",
       "count": 1,
       "variants": [
         "peanuts (chopped and optionally toasted)"
@@ -1863,7 +1863,7 @@
     {
       "key": "pepper jack cheese",
       "english": "pepper jack cheese",
-      "defaultLt": "pipirai jack cheese",
+      "defaultLt": "pipirinis Monterėjaus Džeko sūris",
       "count": 2,
       "variants": [
         "pepper jack cheese (shredded)",
@@ -1873,7 +1873,7 @@
     {
       "key": "pepperoni",
       "english": "pepperoni",
-      "defaultLt": "pipiraioni",
+      "defaultLt": "peperonis",
       "count": 3,
       "variants": [
         "pepperoni",
@@ -1883,7 +1883,7 @@
     {
       "key": "pesto",
       "english": "pesto",
-      "defaultLt": "",
+      "defaultLt": "pesto padažas",
       "count": 1,
       "variants": [
         "pesto"
@@ -1892,7 +1892,7 @@
     {
       "key": "pimento peppers",
       "english": "pimento peppers",
-      "defaultLt": "pimento pipirais",
+      "defaultLt": "pimento paprikos",
       "count": 1,
       "variants": [
         "pimento peppers (diced)"
@@ -1920,7 +1920,7 @@
     {
       "key": "pork tenderloin",
       "english": "pork tenderloin",
-      "defaultLt": "kiauliena tenderloin",
+      "defaultLt": "kiaulienos išpjova",
       "count": 1,
       "variants": [
         "pork tenderloin"
@@ -1938,7 +1938,7 @@
     {
       "key": "powdered erythritol",
       "english": "powdered erythritol",
-      "defaultLt": "powdered eritritolis",
+      "defaultLt": "eritritolio pudra",
       "count": 2,
       "variants": [
         "powdered erythritol"
@@ -1947,7 +1947,7 @@
     {
       "key": "prosciutto",
       "english": "prosciutto",
-      "defaultLt": "",
+      "defaultLt": "vytintas kumpis prosciutto",
       "count": 1,
       "variants": [
         "prosciutto"
@@ -1956,7 +1956,7 @@
     {
       "key": "provolone cheese",
       "english": "provolone cheese",
-      "defaultLt": "",
+      "defaultLt": "provolonės sūris",
       "count": 1,
       "variants": [
         "provolone cheese"
@@ -1974,7 +1974,7 @@
     {
       "key": "pumpkin pie spice",
       "english": "pumpkin pie spice",
-      "defaultLt": "",
+      "defaultLt": "moliūgų pyrago prieskonių mišinys",
       "count": 2,
       "variants": [
         "pumpkin pie spice"
@@ -1983,7 +1983,7 @@
     {
       "key": "pumpkin puree",
       "english": "pumpkin puree",
-      "defaultLt": "",
+      "defaultLt": "moliūgų tyrė",
       "count": 2,
       "variants": [
         "pumpkin puree"
@@ -1992,7 +1992,7 @@
     {
       "key": "pumpkin seeds",
       "english": "pumpkin seeds",
-      "defaultLt": "",
+      "defaultLt": "moliūgų sėklos",
       "count": 1,
       "variants": [
         "pumpkin seeds"
@@ -2001,7 +2001,7 @@
     {
       "key": "queso fresco",
       "english": "queso fresco",
-      "defaultLt": "",
+      "defaultLt": "šviežias meksikietiškas sūris",
       "count": 1,
       "variants": [
         "queso fresco"
@@ -2010,7 +2010,7 @@
     {
       "key": "radish",
       "english": "radish",
-      "defaultLt": "",
+      "defaultLt": "ridikėlis",
       "count": 1,
       "variants": [
         "radish (spiralized)"
@@ -2019,7 +2019,7 @@
     {
       "key": "ranch seasoning",
       "english": "ranch seasoning",
-      "defaultLt": "",
+      "defaultLt": "rančos prieskonių mišinys",
       "count": 1,
       "variants": [
         "ranch seasoning"
@@ -2028,7 +2028,7 @@
     {
       "key": "raspberries",
       "english": "raspberries",
-      "defaultLt": "",
+      "defaultLt": "avietės",
       "count": 1,
       "variants": [
         "raspberries"
@@ -2072,7 +2072,7 @@
     {
       "key": "red wine vinegar",
       "english": "red wine vinegar",
-      "defaultLt": "red wine actas",
+      "defaultLt": "raudonojo vyno actas",
       "count": 1,
       "variants": [
         "red wine vinegar"
@@ -2081,7 +2081,7 @@
     {
       "key": "ribeye steak",
       "english": "ribeye steak",
-      "defaultLt": "",
+      "defaultLt": "antrekoto kepsnys",
       "count": 1,
       "variants": [
         "ribeye steak (cut into 1 inch cubes)"
@@ -2099,7 +2099,7 @@
     {
       "key": "ricotta cheese",
       "english": "ricotta cheese",
-      "defaultLt": "",
+      "defaultLt": "rikotos sūris",
       "count": 1,
       "variants": [
         "ricotta cheese"
@@ -2108,7 +2108,7 @@
     {
       "key": "roasted pine nuts",
       "english": "roasted pine nuts",
-      "defaultLt": "",
+      "defaultLt": "skrudinti kedrinių pinijų riešutai",
       "count": 1,
       "variants": [
         "roasted pine nuts"
@@ -2117,7 +2117,7 @@
     {
       "key": "roasted red pepper",
       "english": "roasted red pepper",
-      "defaultLt": "roasted red pipirai",
+      "defaultLt": "kepta raudonoji paprika",
       "count": 1,
       "variants": [
         "roasted red pepper"
@@ -2135,7 +2135,7 @@
     {
       "key": "rotisserie chicken",
       "english": "rotisserie chicken",
-      "defaultLt": "",
+      "defaultLt": "ant iešmo kepta vištiena",
       "count": 1,
       "variants": [
         "rotisserie chicken (shredded)"
@@ -2144,7 +2144,7 @@
     {
       "key": "round cinnamon",
       "english": "round cinnamon",
-      "defaultLt": "",
+      "defaultLt": "maltas cinamonas",
       "count": 1,
       "variants": [
         "round cinnamon (to taste)"
@@ -2153,7 +2153,7 @@
     {
       "key": "ruled.me bbq sauce",
       "english": "ruled.me bbq sauce",
-      "defaultLt": "ruled.me BBQ padažas",
+      "defaultLt": "„Ruled.me“ BBQ padažas",
       "count": 1,
       "variants": [
         "Ruled.me BBQ Sauce"
@@ -2180,7 +2180,7 @@
     {
       "key": "salsa",
       "english": "salsa",
-      "defaultLt": "",
+      "defaultLt": "salsos padažas",
       "count": 1,
       "variants": [
         "salsa"
@@ -2221,7 +2221,7 @@
     {
       "key": "sesame seeds",
       "english": "sesame seeds",
-      "defaultLt": "",
+      "defaultLt": "sezamų sėklos",
       "count": 3,
       "variants": [
         "sesame seeds",
@@ -2231,7 +2231,7 @@
     {
       "key": "shaved parmesan",
       "english": "shaved parmesan",
-      "defaultLt": "",
+      "defaultLt": "plonai pjaustytas parmezanas",
       "count": 1,
       "variants": [
         "shaved Parmesan"
@@ -2240,7 +2240,7 @@
     {
       "key": "shiitake mushrooms",
       "english": "shiitake mushrooms",
-      "defaultLt": "shiitake grybai",
+      "defaultLt": "šitakių grybai",
       "count": 1,
       "variants": [
         "shiitake mushrooms (halved)"
@@ -2259,7 +2259,7 @@
     {
       "key": "shredded mozzarella",
       "english": "shredded mozzarella",
-      "defaultLt": "",
+      "defaultLt": "tarkuota mocarela",
       "count": 3,
       "variants": [
         "shredded mozzarella"
@@ -2277,7 +2277,7 @@
     {
       "key": "slivered almonds",
       "english": "slivered almonds",
-      "defaultLt": "slivered migdolai",
+      "defaultLt": "migdolų lazdelės",
       "count": 1,
       "variants": [
         "slivered almonds"
@@ -2286,7 +2286,7 @@
     {
       "key": "smoked paprika",
       "english": "smoked paprika",
-      "defaultLt": "",
+      "defaultLt": "rūkytos paprikos milteliai",
       "count": 4,
       "variants": [
         "smoked paprika",
@@ -2296,7 +2296,7 @@
     {
       "key": "smoked salmon",
       "english": "smoked salmon",
-      "defaultLt": "smoked lašiša",
+      "defaultLt": "rūkyta lašiša",
       "count": 3,
       "variants": [
         "smoked salmon (or seafood of choice)",
@@ -2326,7 +2326,7 @@
     {
       "key": "spaghetti squash",
       "english": "spaghetti squash",
-      "defaultLt": "",
+      "defaultLt": "spagetinis moliūgas",
       "count": 1,
       "variants": [
         "spaghetti squash (roasted)"
@@ -2344,7 +2344,7 @@
     {
       "key": "sriracha",
       "english": "sriracha",
-      "defaultLt": "",
+      "defaultLt": "sriracha padažas",
       "count": 2,
       "variants": [
         "sriracha"
@@ -2353,7 +2353,7 @@
     {
       "key": "strawberries",
       "english": "strawberries",
-      "defaultLt": "",
+      "defaultLt": "braškės",
       "count": 1,
       "variants": [
         "strawberries"
@@ -2362,7 +2362,7 @@
     {
       "key": "sugar-free drink mix",
       "english": "sugar-free drink mix",
-      "defaultLt": "",
+      "defaultLt": "gėrimo mišinys be cukraus",
       "count": 1,
       "variants": [
         "sugar-free drink mix"
@@ -2371,7 +2371,7 @@
     {
       "key": "sugar-free salted caramel syrup",
       "english": "sugar-free salted caramel syrup",
-      "defaultLt": "sugar-free druskaed caramel syrup",
+      "defaultLt": "sūrios karamelės sirupas be cukraus",
       "count": 1,
       "variants": [
         "sugar-free salted caramel syrup (such as Torani)"
@@ -2380,7 +2380,7 @@
     {
       "key": "sugar-free strawberry syrup",
       "english": "sugar-free strawberry syrup",
-      "defaultLt": "",
+      "defaultLt": "braškių sirupas be cukraus",
       "count": 1,
       "variants": [
         "sugar-free strawberry syrup (such as Torani)"
@@ -2389,7 +2389,7 @@
     {
       "key": "sun-dried tomato pesto",
       "english": "sun-dried tomato pesto",
-      "defaultLt": "sun-dried pomidoras pesto",
+      "defaultLt": "saulėje džiovintų pomidorų pesto",
       "count": 2,
       "variants": [
         "sun-dried tomato pesto"
@@ -2409,7 +2409,7 @@
     {
       "key": "sunflower seeds",
       "english": "sunflower seeds",
-      "defaultLt": "",
+      "defaultLt": "saulėgrąžų sėklos",
       "count": 2,
       "variants": [
         "sunflower seeds",
@@ -2431,7 +2431,7 @@
     {
       "key": "swiss cheese",
       "english": "swiss cheese",
-      "defaultLt": "",
+      "defaultLt": "šveicariškas sūris",
       "count": 2,
       "variants": [
         "swiss cheese (shredded)",
@@ -2441,7 +2441,7 @@
     {
       "key": "tahini",
       "english": "tahini",
-      "defaultLt": "",
+      "defaultLt": "sezamų pasta tahini",
       "count": 1,
       "variants": [
         "tahini"
@@ -2450,7 +2450,7 @@
     {
       "key": "tequila",
       "english": "tequila",
-      "defaultLt": "",
+      "defaultLt": "tekila",
       "count": 1,
       "variants": [
         "tequila"
@@ -2468,7 +2468,7 @@
     {
       "key": "tomato paste",
       "english": "tomato paste",
-      "defaultLt": "pomidoras paste",
+      "defaultLt": "pomidorų pasta",
       "count": 3,
       "variants": [
         "tomato paste"
@@ -2477,7 +2477,7 @@
     {
       "key": "toothpicks",
       "english": "toothpicks",
-      "defaultLt": "",
+      "defaultLt": "dantų krapštukai",
       "count": 1,
       "variants": [
         "toothpicks"
@@ -2486,7 +2486,7 @@
     {
       "key": "truffle oil",
       "english": "truffle oil",
-      "defaultLt": "",
+      "defaultLt": "triufelių aliejus",
       "count": 1,
       "variants": [
         "truffle oil"
@@ -2495,7 +2495,7 @@
     {
       "key": "turmeric powder",
       "english": "turmeric powder",
-      "defaultLt": "",
+      "defaultLt": "ciberžolės milteliai",
       "count": 2,
       "variants": [
         "turmeric powder"
@@ -2504,7 +2504,7 @@
     {
       "key": "tzatziki",
       "english": "tzatziki",
-      "defaultLt": "",
+      "defaultLt": "tzatziki padažas",
       "count": 1,
       "variants": [
         "tzatziki"
@@ -2513,7 +2513,7 @@
     {
       "key": "unflavored low-carb protein powder",
       "english": "unflavored low-carb protein powder",
-      "defaultLt": "",
+      "defaultLt": "beskoniai mažai angliavandenių turintys baltymų milteliai",
       "count": 4,
       "variants": [
         "unflavored low-carb protein powder"
@@ -2522,7 +2522,7 @@
     {
       "key": "unsweetened almond milk",
       "english": "unsweetened almond milk",
-      "defaultLt": "unsweetened migdolų pienas",
+      "defaultLt": "nesaldintas migdolų pienas",
       "count": 16,
       "variants": [
         "unsweetened almond milk"
@@ -2541,7 +2541,7 @@
     {
       "key": "vegan vanilla protein powder",
       "english": "vegan vanilla protein powder",
-      "defaultLt": "",
+      "defaultLt": "veganiški vaniliniai baltymų milteliai",
       "count": 4,
       "variants": [
         "vegan vanilla protein powder",
@@ -2574,7 +2574,7 @@
     {
       "key": "white vinegar",
       "english": "white vinegar",
-      "defaultLt": "white actas",
+      "defaultLt": "baltasis actas",
       "count": 1,
       "variants": [
         "white vinegar"
@@ -2583,7 +2583,7 @@
     {
       "key": "whole black olives",
       "english": "whole black olives",
-      "defaultLt": "",
+      "defaultLt": "sveikos juodosios alyvuogės",
       "count": 1,
       "variants": [
         "whole black olives"
@@ -2592,7 +2592,7 @@
     {
       "key": "whole chicken bouillon cube",
       "english": "whole chicken bouillon cube",
-      "defaultLt": "",
+      "defaultLt": "vištienos sultinio kubelis",
       "count": 1,
       "variants": [
         "whole chicken bouillon cube"
@@ -2601,7 +2601,7 @@
     {
       "key": "whole grain mustard",
       "english": "whole grain mustard",
-      "defaultLt": "whole grain garstyčios",
+      "defaultLt": "viso grūdo garstyčios",
       "count": 2,
       "variants": [
         "whole grain mustard"
@@ -2610,7 +2610,7 @@
     {
       "key": "whole green olive",
       "english": "whole green olive",
-      "defaultLt": "",
+      "defaultLt": "sveika žalioji alyvuogė",
       "count": 1,
       "variants": [
         "whole green olive"
@@ -2619,7 +2619,7 @@
     {
       "key": "whole green tea with bags",
       "english": "whole green tea with bags",
-      "defaultLt": "",
+      "defaultLt": "žaliosios arbatos pakeliai",
       "count": 1,
       "variants": [
         "whole green tea with bags"
@@ -2628,7 +2628,7 @@
     {
       "key": "whole ice cubes",
       "english": "whole ice cubes",
-      "defaultLt": "whole ledo kubeliai",
+      "defaultLt": "ledo kubeliai",
       "count": 1,
       "variants": [
         "whole ice cubes"
@@ -2646,7 +2646,7 @@
     {
       "key": "whole nori sheets",
       "english": "whole nori sheets",
-      "defaultLt": "",
+      "defaultLt": "nesmulkinti nori lapai",
       "count": 2,
       "variants": [
         "whole nori sheets"
@@ -2655,7 +2655,7 @@
     {
       "key": "worcestershire sauce",
       "english": "worcestershire sauce",
-      "defaultLt": "",
+      "defaultLt": "Vusterio padažas",
       "count": 1,
       "variants": [
         "worcestershire sauce"
@@ -2673,7 +2673,7 @@
     {
       "key": "xylitol",
       "english": "xylitol",
-      "defaultLt": "",
+      "defaultLt": "ksilitolis",
       "count": 1,
       "variants": [
         "xylitol"
@@ -2682,7 +2682,7 @@
     {
       "key": "yellow mustard",
       "english": "yellow mustard",
-      "defaultLt": "yellow garstyčios",
+      "defaultLt": "geltonosios garstyčios",
       "count": 3,
       "variants": [
         "yellow mustard"
@@ -2691,7 +2691,7 @@
     {
       "key": "yellow onion",
       "english": "yellow onion",
-      "defaultLt": "yellow svogūnas",
+      "defaultLt": "geltonasis svogūnas",
       "count": 2,
       "variants": [
         "yellow onion",
