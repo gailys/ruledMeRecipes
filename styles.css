@@ -119,6 +119,13 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .manual-cart-form { display: grid; grid-template-columns: minmax(0, 1fr) minmax(130px, .35fr) auto; gap: 8px; max-width: 760px; margin-top: 18px; }
 .manual-cart-form input { min-width: 0; }
 .manual-cart-form .primary { padding: 11px 16px; }
+.product-search { position: relative; min-width: 0; }
+.product-suggestions { position: absolute; z-index: 8; top: calc(100% + 5px); left: 0; right: 0; overflow-y: auto; max-height: 280px; padding: 5px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); box-shadow: 0 14px 35px rgba(23,63,53,.16); }
+.product-suggestions[hidden] { display: none; }
+.product-suggestion { display: grid; width: 100%; padding: 9px 10px; border: 0; border-radius: 8px; background: transparent; color: var(--ink); text-align: left; }
+.product-suggestion:hover, .product-suggestion:focus { background: #edf0e5; outline: none; }
+.product-suggestion strong, .product-suggestion small { display: block; }
+.product-suggestion small { margin-top: 2px; color: var(--muted); font-size: 10px; }
 .shopping-list { display: grid; gap: 10px; margin-top: 30px; }
 .shopping-group + .shopping-group { margin-top: 16px; }
 .shopping-group-title { display: flex; align-items: center; gap: 8px; margin: 0 0 8px; color: var(--green); font-family: inherit; font-size: 14px; letter-spacing: .04em; text-transform: uppercase; }
@@ -224,7 +231,7 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
   .install-dismiss { grid-column: auto; grid-row: auto; align-self: center; width: 24px; height: 24px; }
   .shopping-list { gap: 6px; margin-top: 18px; }
   .manual-cart-form { grid-template-columns: minmax(0, 1fr) auto; margin-top: 12px; }
-  #manual-product-name { grid-column: 1 / -1; }
+  .product-search { grid-column: 1 / -1; }
   .manual-cart-form .primary { grid-column: 2; grid-row: 2; width: auto; padding: 10px 14px; }
   .shopping-group + .shopping-group { margin-top: 10px; }
   .shopping-group-title { margin-bottom: 5px; font-size: 12px; }

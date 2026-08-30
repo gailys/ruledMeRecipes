@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=40';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=41';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -27,6 +27,7 @@ const translations = {
   "bbq sauce": "BBQ padažas",
   "beef broth": "jautienos sultinys",
   "beef stew meat": "troškinti skirta jautiena",
+  "meat": "mėsa",
   "black olives": "juodosios alyvuogės",
   "black pepper": "juodieji pipirai",
   "blackberries": "gervuogės",
@@ -891,7 +892,7 @@ const SHOPPING_CATEGORIES = ['Mėsa ir žuvis', 'Pieno produktai ir kiaušiniai'
 
 function shoppingCategory(item) {
   const key = item.key || ingredientKey(item.name);
-  if (/(?:chicken|beef|pork|bacon|ham|turkey|sausage|hot dogs|salmon|tuna|shrimp|fish|anchov|bonito)/.test(key) && !/broth/.test(key)) return 'Mėsa ir žuvis';
+  if (/(?:meat|chicken|beef|pork|bacon|ham|turkey|sausage|hot dogs|salmon|tuna|shrimp|fish|anchov|bonito)/.test(key) && !/broth/.test(key)) return 'Mėsa ir žuvis';
   if (/(?:cheese|butter|cream|milk|yogurt|egg)/.test(key) && !/(?:peanut|coconut milk|almond milk)/.test(key)) return 'Pieno produktai ir kiaušiniai';
   if (/(?:broccoli|cauliflower|cabbage|green beans|onion|garlic|cucumber|zucchini|mushroom|lettuce|spinach|kale|tomato|avocado|bell pepper|celery|asparagus|radish|eggplant)/.test(key)) return 'Daržovės';
   if (/(?:blueberr|raspberr|strawberr|blackberr|cranberr|lemon|lime|orange|apple|coconut)/.test(key) && !/(?:oil|flour|milk)/.test(key)) return 'Vaisiai ir uogos';
@@ -934,6 +935,22 @@ function manualCartItem(name, amount) {
     else if (/^vnt/.test(unit)) unit = '';
   }
   return { id: crypto.randomUUID(), key: ingredientKey(englishName), quantity, quantityRaw, unit, name: englishName, translated: translatedMatch ? name : translateIngredient(englishName), done: false, manual: true };
+}
+
+function searchableText(value = '') {
+  return value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function renderProductSuggestions() {
+  const input = $('#manual-product-name'); const panel = $('#product-suggestions'); const query = searchableText(input.value);
+  if (query.length < 2) { panel.hidden = true; panel.innerHTML = ''; return; }
+  const source = [...Object.entries(translations), ...Object.entries(customTranslations), ...cart.map(item => [item.name, translateIngredient(item.name)])];
+  const seen = new Set();
+  const matches = source.map(([english, lithuanian]) => ({ english, lithuanian: lithuanian || english, ltSearch: searchableText(lithuanian || english), enSearch: searchableText(english) }))
+    .filter(item => (item.ltSearch.includes(query) || item.enSearch.includes(query)) && !seen.has(item.ltSearch) && seen.add(item.ltSearch))
+    .sort((a, b) => Number(b.ltSearch.startsWith(query)) - Number(a.ltSearch.startsWith(query)) || a.lithuanian.localeCompare(b.lithuanian, 'lt')).slice(0, 8);
+  panel.innerHTML = matches.map(item => `<button class="product-suggestion" type="button" role="option" data-product-suggestion="${escapeHtml(item.lithuanian)}"><strong>${escapeHtml(item.lithuanian)}</strong><small>${escapeHtml(item.english)}</small></button>`).join('');
+  panel.hidden = !matches.length;
 }
 
 function renderShopping() {
@@ -1117,7 +1134,14 @@ $('#manual-cart-form').addEventListener('submit', event => {
   const item = manualCartItem(name, amountInput.value);
   if (cart.some(existing => existing.key === item.key && existing.quantity == null && item.quantity == null)) { showToast('Šis produktas jau yra sąraše'); return; }
   cart.push(item); cart = consolidateCart(cart).items; save(); syncEngine?.syncNow(); renderShopping();
-  nameInput.value = ''; amountInput.value = ''; nameInput.focus(); showToast('Produktas pridėtas');
+  nameInput.value = ''; amountInput.value = ''; $('#product-suggestions').hidden = true; nameInput.focus(); showToast('Produktas pridėtas');
+});
+$('#manual-product-name').addEventListener('input', renderProductSuggestions);
+$('#manual-product-name').addEventListener('focus', renderProductSuggestions);
+$('#manual-product-name').addEventListener('blur', () => setTimeout(() => { $('#product-suggestions').hidden = true; }, 120));
+$('#product-suggestions').addEventListener('pointerdown', event => {
+  const option = event.target.closest('[data-product-suggestion]'); if (!option) return;
+  event.preventDefault(); $('#manual-product-name').value = option.dataset.productSuggestion; $('#product-suggestions').hidden = true; $('#manual-product-amount').focus();
 });
 
 $('.dialog-close').addEventListener('click', () => { clearSharedRecipeQuery(); location.hash = '#recipes'; });
@@ -1245,7 +1269,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=40', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=41', { updateViaCache: 'none' });
     registration.update();
   });
 }

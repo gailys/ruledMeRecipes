@@ -8,7 +8,7 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=40" />
+    <link rel="stylesheet" href="./styles.css?v=41" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -47,7 +47,10 @@
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
         <form id="manual-cart-form" class="manual-cart-form">
-          <input id="manual-product-name" type="text" required maxlength="100" placeholder="Pridėti produktą, pvz. mineralinis vanduo" aria-label="Produkto pavadinimas" />
+          <div class="product-search">
+            <input id="manual-product-name" type="text" required maxlength="100" placeholder="Pridėti produktą, pvz. mineralinis vanduo" aria-label="Produkto pavadinimas" autocomplete="off" aria-autocomplete="list" aria-controls="product-suggestions" />
+            <div id="product-suggestions" class="product-suggestions" role="listbox" hidden></div>
+          </div>
           <input id="manual-product-amount" type="text" maxlength="30" placeholder="Kiekis, pvz. 2 l" aria-label="Produkto kiekis (nebūtinas)" />
           <button class="primary dark" type="submit">Pridėti</button>
         </form>
@@ -142,6 +145,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=40"></script>
+    <script type="module" src="./app.js?v=41"></script>
   </body>
 </html>
