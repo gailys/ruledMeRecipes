@@ -1,6 +1,6 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=24';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=25';
 
-const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1' };
+const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
 const pantrySuggestions = ['garlic powder', 'black pepper', 'salt', 'olive oil', 'onion powder', 'paprika'];
 
@@ -323,6 +323,8 @@ let pantry = load(STORAGE.pantry, []);
 let customTranslations = load(STORAGE.dictionary, {});
 let users = load(STORAGE.users, []);
 let currentUserId = localStorage.getItem(STORAGE.currentUser) || '';
+let userCarts = load(STORAGE.userCarts, {});
+let userPins = load(STORAGE.userPins, {});
 let dictionaryData = { recipesAudited: 0, entries: [] };
 let activeRecipeId = null;
 let activeFilter = 'Visi';
@@ -346,12 +348,31 @@ function load(key, fallback) {
 }
 
 function save() {
+  persistActiveUserState();
   localStorage.setItem(STORAGE.recipes, JSON.stringify(recipes));
   localStorage.setItem(STORAGE.cart, JSON.stringify(cart));
   localStorage.setItem(STORAGE.pantry, JSON.stringify(pantry));
   localStorage.setItem(STORAGE.users, JSON.stringify(users));
   updateCounts();
   if (!applyingRemoteStore) syncEngine?.changed();
+}
+
+function persistActiveUserState() {
+  if (!currentUserId) return;
+  userCarts[currentUserId] = cart;
+  userPins[currentUserId] = recipes.filter(recipe => recipe.pinned).map(recipe => recipe.url.replace(/\/$/, '').toLowerCase());
+  localStorage.setItem(STORAGE.userCarts, JSON.stringify(userCarts));
+  localStorage.setItem(STORAGE.userPins, JSON.stringify(userPins));
+}
+
+function loadActiveUserState(id, preserveUnassigned = false) {
+  const legacyCart = preserveUnassigned ? cart : [];
+  const legacyPins = preserveUnassigned ? recipes.filter(recipe => recipe.pinned).map(recipe => recipe.url.replace(/\/$/, '').toLowerCase()) : [];
+  if (!userCarts[id] && legacyCart.length) userCarts[id] = legacyCart;
+  if (!userPins[id] && legacyPins.length) userPins[id] = legacyPins;
+  cart = userCarts[id] || [];
+  const pins = new Set(userPins[id] || []);
+  recipes.forEach(recipe => { recipe.pinned = pins.has(recipe.url.replace(/\/$/, '').toLowerCase()); });
 }
 
 function saveDictionary() {
@@ -615,13 +636,15 @@ function updateCounts() {
 }
 
 function syncStore() {
+  persistActiveUserState();
   return {
     users,
     recipes: recipes.map(recipe => {
       const url = recipe.url.replace(/\/$/, '').toLowerCase();
       return { id: url, url: recipe.url };
     }),
-    cart,
+    cart: Object.entries(userCarts).flatMap(([userId, items]) => items.map(item => ({ id: `${userId}:${item.id}`, userId, item }))),
+    pins: Object.entries(userPins).flatMap(([userId, urls]) => urls.map(url => ({ id: `${userId}:${url}`, userId, url }))),
     pantry,
     translations: Object.entries(customTranslations).map(([id, value]) => ({ id, value })),
   };
@@ -629,11 +652,25 @@ function syncStore() {
 
 async function applySyncedStore(store) {
   applyingRemoteStore = true;
-  users = store.users || []; cart = store.cart || []; pantry = store.pantry || [];
+  users = store.users || []; pantry = store.pantry || [];
+  userCarts = {};
+  for (const record of store.cart || []) {
+    const userId = record.userId || currentUserId; if (!userId) continue;
+    (userCarts[userId] ||= []).push(record.item || record);
+  }
+  userPins = {};
+  for (const record of store.pins || []) {
+    const userId = record.userId || currentUserId; if (!userId || !record.url) continue;
+    (userPins[userId] ||= []).push(record.url);
+  }
+  localStorage.setItem(STORAGE.userCarts, JSON.stringify(userCarts));
+  localStorage.setItem(STORAGE.userPins, JSON.stringify(userPins));
   const recipeRefs = store.recipes || [];
   const syncedUrls = new Set(recipeRefs.map(item => item.url.replace(/\/$/, '').toLowerCase()));
   recipes = recipes.filter(recipe => syncedUrls.has(recipe.url.replace(/\/$/, '').toLowerCase()));
   customTranslations = Object.fromEntries((store.translations || []).map(item => [item.id, item.value]));
+  if (currentUserId) loadActiveUserState(currentUserId);
+  else cart = [];
   localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations)); save(); applyingRemoteStore = false;
   for (const reference of recipeRefs) {
     if (recipes.some(recipe => recipe.url.replace(/\/$/, '').toLowerCase() === reference.url.replace(/\/$/, '').toLowerCase())) continue;
@@ -656,7 +693,9 @@ function showUserChooser() {
 
 function chooseUser(id) {
   const user = users.find(item => item.id === id); if (!user) return;
-  currentUserId = id; localStorage.setItem(STORAGE.currentUser, id); $('#users-dialog').close(); updateCounts(); showToast(`Pasirinktas vartotojas: ${user.name}`);
+  const hadNoUser = !currentUserId;
+  persistActiveUserState(); currentUserId = id; loadActiveUserState(id, hadNoUser);
+  localStorage.setItem(STORAGE.currentUser, id); save(); $('#users-dialog').close(); route(); updateCounts(); showToast(`Pasirinktas vartotojas: ${user.name}`);
 }
 
 function requireLogin() {
@@ -1027,7 +1066,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=24', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=25', { updateViaCache: 'none' });
     registration.update();
   });
 }

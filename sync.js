@@ -7,7 +7,7 @@ const DEVICE_KEY = 'keto-device-v1';
 const clone = value => JSON.parse(JSON.stringify(value));
 function deviceId() { let value = localStorage.getItem(DEVICE_KEY); if (!value) { value = crypto.randomUUID(); localStorage.setItem(DEVICE_KEY, value); } return value; }
 function auth() { try { return JSON.parse(localStorage.getItem(AUTH_KEY)); } catch { return null; } }
-const groups = [['user','users'],['recipe','recipes'],['cart','cart'],['pantry','pantry'],['translation','translations']];
+const groups = [['user','users'],['recipe','recipes'],['cart','cart'],['pin','pins'],['pantry','pantry'],['translation','translations']];
 
 function recordsFromStore(store) {
   const result = {};
@@ -24,7 +24,7 @@ function diff(before, after, revisions) {
 }
 function mergeQueue(queue, additions) { const map = new Map(queue.map(op => [`${op.entityType}:${op.entityId}`, op])); for (const op of additions) map.set(`${op.entityType}:${op.entityId}`, op); return [...map.values()]; }
 function storeFromRecords(records) {
-  const store = { users: [], recipes: [], cart: [], pantry: [], translations: [] }; const revisions = {};
+  const store = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] }; const revisions = {};
   const keys = Object.fromEntries(groups.map(([type,key]) => [type,key]));
   for (const record of records) { revisions[`${record.entityType}:${record.entityId}`] = record.revision; if (!record.deleted && record.payload && keys[record.entityType]) store[keys[record.entityType]].push(record.payload); }
   return { store, revisions };
@@ -44,7 +44,7 @@ export function hasSession() { return Boolean(auth()?.token); }
 export function logoutSession() { localStorage.removeItem(AUTH_KEY); }
 
 export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatus, onFirstSync }) {
-  let baseline = { users: [], recipes: [], cart: [], pantry: [], translations: [] };
+  let baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] };
   let queue = JSON.parse(localStorage.getItem(QUEUE_KEY) || '[]');
   let revisions = JSON.parse(localStorage.getItem(REVISIONS_KEY) || '{}');
   let timer; let syncing = false; let started = false;
@@ -67,7 +67,7 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
     } catch (error) { if (error.message !== 'session') onStatus('offline'); }
     finally { syncing = false; }
   };
-  const start = async () => { started = true; baseline = { users: [], recipes: [], cart: [], pantry: [], translations: [] }; changed(); await flush(); };
+  const start = async () => { started = true; baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] }; changed(); await flush(); };
   window.addEventListener('online', flush); window.addEventListener('focus', flush); setInterval(flush, 15000);
   return { start, changed, flush };
 }
