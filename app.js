@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=31';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=32';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -701,7 +701,7 @@ async function applySyncedStore(store) {
       const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); userRecipes[currentUserId] = recipes; save(); applyingRemoteStore = false; renderRecipes();
     } catch { showToast('Vieno recepto nepavyko parsiųsti į šį telefoną'); }
   }
-  route(); updateCounts();
+  route({ preserveScroll: true }); updateCounts();
 }
 
 function renderUsers() {
@@ -858,7 +858,9 @@ async function loadDictionary() {
   }
 }
 
-function route() {
+function route(options = {}) {
+  const previousScroll = window.scrollY;
+  const preserveScroll = options.preserveScroll === true;
   const hash = location.hash || '#recipes';
   const detailMatch = hash.match(/^#recipe\/(.+)$/);
   const dialog = $('#add-dialog');
@@ -878,7 +880,8 @@ function route() {
     requestAnimationFrame(() => $('#recipe-url').focus());
   }
   else { $('#recipes-view').hidden = false; renderRecipes(); }
-  scrollTo({ top: 0, behavior: 'instant' });
+  if (preserveScroll) requestAnimationFrame(() => scrollTo({ top: previousScroll, behavior: 'instant' }));
+  else scrollTo({ top: 0, behavior: 'instant' });
 }
 
 function showToast(message) {
@@ -1108,7 +1111,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=31', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=32', { updateViaCache: 'none' });
     registration.update();
   });
 }
