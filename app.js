@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=39';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=40';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -919,6 +919,23 @@ function shoppingItemHtml(item) {
     </div>`;
 }
 
+function manualCartItem(name, amount) {
+  const normalized = name.toLowerCase().replace(/\s+/g, ' ').trim();
+  const translatedMatch = [...Object.entries(customTranslations), ...Object.entries(translations)].find(([, lithuanian]) => lithuanian.toLowerCase() === normalized);
+  const englishName = translatedMatch?.[0] || name;
+  const match = amount.trim().replace(',', '.').match(/^(\d+(?:\.\d+)?)\s*(kg|g|l|ml|vnt\.?)?$/i);
+  let quantity = null; let quantityRaw = amount.trim(); let unit = '';
+  if (match) {
+    quantity = Number(match[1]); unit = (match[2] || '').toLowerCase(); quantityRaw = match[1];
+    if (unit === 'kg') { quantity *= 1000; unit = 'grams'; }
+    else if (unit === 'g') unit = 'grams';
+    else if (unit === 'l') unit = 'liters';
+    else if (unit === 'ml') unit = 'milliliters';
+    else if (/^vnt/.test(unit)) unit = '';
+  }
+  return { id: crypto.randomUUID(), key: ingredientKey(englishName), quantity, quantityRaw, unit, name: englishName, translated: translatedMatch ? name : translateIngredient(englishName), done: false, manual: true };
+}
+
 function renderShopping() {
   const list = $('#shopping-list');
   if (!cart.length) list.innerHTML = '<div class="empty"><strong>Pirkinių sąrašas tuščias.</strong><br>Atidarykite receptą ir pridėkite reikalingus ingredientus.</div>';
@@ -1093,6 +1110,16 @@ $('#import-form').addEventListener('submit', async event => {
   button.disabled = false; button.textContent = 'Išsaugoti';
 });
 
+$('#manual-cart-form').addEventListener('submit', event => {
+  event.preventDefault();
+  const nameInput = $('#manual-product-name'); const amountInput = $('#manual-product-amount');
+  const name = nameInput.value.trim(); if (!name) return;
+  const item = manualCartItem(name, amountInput.value);
+  if (cart.some(existing => existing.key === item.key && existing.quantity == null && item.quantity == null)) { showToast('Šis produktas jau yra sąraše'); return; }
+  cart.push(item); cart = consolidateCart(cart).items; save(); syncEngine?.syncNow(); renderShopping();
+  nameInput.value = ''; amountInput.value = ''; nameInput.focus(); showToast('Produktas pridėtas');
+});
+
 $('.dialog-close').addEventListener('click', () => { clearSharedRecipeQuery(); location.hash = '#recipes'; });
 $('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') { clearSharedRecipeQuery(); location.hash = '#recipes'; } });
 $('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
@@ -1218,7 +1245,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=39', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=40', { updateViaCache: 'none' });
     registration.update();
   });
 }
