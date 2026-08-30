@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=26';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=27';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -340,6 +340,7 @@ let pendingSharedUrl = (() => {
   try { return value && /(^|\.)ruled\.me$/i.test(new URL(value).hostname) ? value : ''; } catch { return ''; }
 })();
 let applyingRemoteStore = false;
+let batchImportInProgress = false;
 let syncEngine;
 
 const $ = (selector, root = document) => root.querySelector(selector);
@@ -356,7 +357,7 @@ function save() {
   localStorage.setItem(STORAGE.pantry, JSON.stringify(pantry));
   localStorage.setItem(STORAGE.users, JSON.stringify(users));
   updateCounts();
-  if (!applyingRemoteStore) syncEngine?.changed();
+  if (!applyingRemoteStore && !batchImportInProgress) syncEngine?.changed();
 }
 
 function persistActiveUserState() {
@@ -676,6 +677,7 @@ async function applySyncedStore(store) {
     (recipeRefs[record.userId] ||= []).push(record);
   }
   for (const userId of Object.keys(userRecipes)) {
+    if (batchImportInProgress && userId === currentUserId) continue;
     const urls = new Set((recipeRefs[userId] || []).map(item => item.url.replace(/\/$/, '').toLowerCase()));
     userRecipes[userId] = (userRecipes[userId] || []).filter(recipe => urls.has(recipe.url.replace(/\/$/, '').toLowerCase()));
   }
@@ -688,7 +690,7 @@ async function applySyncedStore(store) {
   if (currentUserId) loadActiveUserState(currentUserId);
   else cart = [];
   localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations)); save(); applyingRemoteStore = false;
-  for (const reference of recipeRefs[currentUserId] || []) {
+  for (const reference of batchImportInProgress ? [] : (recipeRefs[currentUserId] || [])) {
     if (recipes.some(recipe => recipe.url.replace(/\/$/, '').toLowerCase() === reference.url.replace(/\/$/, '').toLowerCase())) continue;
     try {
       const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); userRecipes[currentUserId] = recipes; save(); applyingRemoteStore = false; renderRecipes();
@@ -933,6 +935,7 @@ $('#import-form').addEventListener('submit', async event => {
   if (urls.length > 30) { status.className = 'status error'; status.textContent = 'Vienu kartu galima importuoti iki 30 receptų.'; return; }
   button.disabled = true; button.textContent = 'Importuojama…'; status.className = 'status';
   let imported = 0; let skipped = 0; const failed = [];
+  batchImportInProgress = true;
   for (let index = 0; index < urls.length; index += 1) {
     const url = urls[index];
     status.textContent = `Importuojama ${index + 1} iš ${urls.length}: ${new URL(url).pathname.split('/').filter(Boolean).pop() || url}`;
@@ -943,6 +946,8 @@ $('#import-form').addEventListener('submit', async event => {
       recipes.unshift(recipe); imported += 1; save(); renderRecipes();
     } catch (error) { failed.push(`${url} — ${error.message || 'klaida'}`); }
   }
+  batchImportInProgress = false;
+  syncEngine?.changed();
   if (failed.length) {
     status.className = 'status error';
     status.textContent = `Importuota: ${imported}, praleista: ${skipped}, nepavyko: ${failed.length}. ${failed.map(item => item.split(' — ')[0]).join(', ')}`;
@@ -1080,7 +1085,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=26', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=27', { updateViaCache: 'none' });
     registration.update();
   });
 }
