@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=37';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=38';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -890,10 +890,17 @@ function shoppingCategory(item) {
   return 'Kita';
 }
 
+function hideShoppingQuantity(item) {
+  const category = shoppingCategory(item);
+  const key = item.key || ingredientKey(item.name);
+  return category === 'Prieskoniai ir žolelės' || category === 'Riešutai ir sėklos' || /(?:stevia|extract|food coloring|xanthan gum|yeast|baking powder|baking soda)/.test(key);
+}
+
 function shoppingItemHtml(item) {
-  return `<div class="shopping-item ${item.done ? 'done' : ''}">
+  const hideQuantity = hideShoppingQuantity(item);
+  return `<div class="shopping-item ${item.done ? 'done' : ''} ${hideQuantity ? 'no-quantity' : ''}">
       <input type="checkbox" data-cart-check="${item.id}" ${item.done ? 'checked' : ''} aria-label="Pažymėti nupirktu" />
-      <span class="shop-qty">${escapeHtml(metricAmount(item))}</span>
+      ${hideQuantity ? '' : `<span class="shop-qty">${escapeHtml(metricAmount(item))}</span>`}
       <span class="shop-name">${escapeHtml(translateIngredient(item.name))}<small>${escapeHtml(item.name)}</small></span>
       <button class="have-at-home" data-pantry-from="${item.id}">Visada turiu</button>
       <button class="remove" data-cart-remove="${item.id}" aria-label="Pašalinti">×</button>
@@ -1199,7 +1206,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=37', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=38', { updateViaCache: 'none' });
     registration.update();
   });
 }
