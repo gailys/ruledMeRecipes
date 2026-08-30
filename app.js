@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=38';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=39';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -817,8 +817,20 @@ function renderRecipes() {
   updateCounts();
 }
 
-function scaledQuantity(item, servings, originalServings) {
-  return item.quantity == null ? item.quantityRaw : formatNumber(item.quantity * servings / originalServings);
+function recipeAmount(item, servings, originalServings) {
+  const unit = unitKey(item.unit);
+  if (item.quantity == null) return [item.quantityRaw, item.unit].filter(Boolean).join(' ');
+  const quantity = item.quantity * servings / originalServings;
+  if (unit === 'ounce') return `${roundedMetric(quantity * 28.3495)} g`;
+  if (unit === 'pound') return `${roundedMetric(quantity * 453.592)} g`;
+  if (unit === 'fluid ounce') return `${roundedMetric(quantity * 29.5735)} ml`;
+  if (unit === 'gram') return `${roundedMetric(quantity)} g`;
+  if (unit === 'milliliter') return `${roundedMetric(quantity)} ml`;
+  if (unit === 'cup') return `${formatNumber(quantity)} puod.`;
+  if (unit === 'tablespoon') return `${formatNumber(quantity)} valg. š.`;
+  if (unit === 'teaspoon') return `${formatNumber(quantity)} arb. š.`;
+  const unitLt = { liter: 'l', liters: 'l', large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skilt.', cloves: 'skilt.', slice: 'riek.', slices: 'riek.' }[unit] || item.unit;
+  return `${formatNumber(quantity)}${unitLt ? ` ${unitLt}` : ''}`;
 }
 
 function renderDetail(id, servingsOverride) {
@@ -832,7 +844,7 @@ function renderDetail(id, servingsOverride) {
     <div class="ingredients">${recipe.ingredients.filter(i => groups.length ? i.group === group : true).map(item => `
       <label class="ingredient">
         <input type="checkbox" data-ingredient="${item.id}" checked />
-        <span class="ingredient-qty">${escapeHtml(scaledQuantity(item, servings, recipe.servings))} ${escapeHtml(item.unit)}</span>
+        <span class="ingredient-qty">${escapeHtml(recipeAmount(item, servings, recipe.servings))}</span>
         <span>${escapeHtml(translateIngredient(item.name))}<small>${escapeHtml(item.name)}</small></span>
       </label>`).join('')}</div>`).join('');
   $('#detail-view').innerHTML = `
@@ -1206,7 +1218,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=38', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=39', { updateViaCache: 'none' });
     registration.update();
   });
 }
