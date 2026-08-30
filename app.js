@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=32';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=33';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -919,11 +919,11 @@ function cancelPantryHold() {
 function startPantryHold(button, event) {
   cancelPantryHold();
   const startedAt = Date.now();
-  button.classList.add('holding'); button.textContent = 'Laikykite 5 s';
+  button.classList.add('holding'); button.textContent = 'Laikykite 2 s';
   button.setPointerCapture?.(event.pointerId);
   const state = { button, pointerId: event.pointerId, startX: event.clientX, startY: event.clientY };
   state.interval = setInterval(() => {
-    const remaining = Math.max(1, Math.ceil((5000 - (Date.now() - startedAt)) / 1000));
+    const remaining = Math.max(1, Math.ceil((2000 - (Date.now() - startedAt)) / 1000));
     if (button.isConnected) button.textContent = `Laikykite ${remaining} s`;
   }, 150);
   state.timeout = setTimeout(() => {
@@ -932,7 +932,7 @@ function startPantryHold(button, event) {
     if (item && addToPantry(item.name, translateIngredient(item.name))) {
       renderShopping(); showToast('Pridėta prie turimų namuose');
     }
-  }, 5000);
+  }, 2000);
   pantryHold = state;
 }
 
@@ -1111,7 +1111,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=32', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=33', { updateViaCache: 'none' });
     registration.update();
   });
 }
