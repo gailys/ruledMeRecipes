@@ -54,18 +54,20 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
   let baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] };
   let queue = JSON.parse(localStorage.getItem(QUEUE_KEY) || '[]');
   let revisions = JSON.parse(localStorage.getItem(REVISIONS_KEY) || '{}');
-  let timer; let syncing = false; let started = false;
+  let timer; let syncing = false; let started = false; let flushAfterCurrent = false;
   const persist = () => { localStorage.setItem(QUEUE_KEY, JSON.stringify(queue)); localStorage.setItem(REVISIONS_KEY, JSON.stringify(revisions)); };
   const changed = () => {
     if (!started) return;
     const current = clone(getStore()); queue = mergeQueue(queue, diff(baseline, current, revisions)); baseline = current; persist();
-    clearTimeout(timer); timer = setTimeout(flush, 550);
+    clearTimeout(timer); timer = setTimeout(flush, 200);
   };
-  const flush = async () => {
-    const credentials = auth(); if (!credentials?.token || syncing || document.visibilityState === 'hidden') return;
+  const flush = async (allowHidden = false) => {
+    const credentials = auth();
+    if (!credentials?.token || (!allowHidden && document.visibilityState === 'hidden')) return;
+    if (syncing) { flushAfterCurrent ||= allowHidden || queue.length > 0; return; }
     syncing = true; onStatus('saving'); const sent = [...queue];
     try {
-      const response = await fetch(`${API}/sync`, { method: 'POST', headers: { 'content-type': 'application/json', authorization: `Bearer ${credentials.token}` }, body: JSON.stringify({ operations: sent }) });
+      const response = await fetch(`${API}/sync`, { method: 'POST', keepalive: allowHidden, headers: { 'content-type': 'application/json', authorization: `Bearer ${credentials.token}` }, body: JSON.stringify({ operations: sent }) });
       if (response.status === 401) { logoutSession(); onAuthRequired(); throw new Error('session'); }
       if (!response.ok) throw new Error('sync');
       const result = await response.json(); const acknowledged = new Set(result.acknowledged || []); queue = queue.filter(op => !acknowledged.has(op.id));
@@ -74,8 +76,9 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
     } catch (error) { if (error.message !== 'session') onStatus('offline'); }
     finally {
       syncing = false;
-      if (queue.length && document.visibilityState !== 'hidden') {
-        clearTimeout(timer); timer = setTimeout(flush, 250);
+      if (queue.length && (document.visibilityState !== 'hidden' || flushAfterCurrent)) {
+        const continueHidden = flushAfterCurrent; flushAfterCurrent = false;
+        clearTimeout(timer); timer = setTimeout(() => flush(continueHidden), 100);
       }
     }
   };
@@ -84,8 +87,9 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
     // Real offline edits are already persisted in the operation queue.
     baseline = clone(getStore()); started = true; await flush();
   };
-  window.addEventListener('online', flush); window.addEventListener('focus', flush); setInterval(flush, 15000);
-  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') flush(); });
+  window.addEventListener('online', () => flush()); window.addEventListener('focus', () => flush()); setInterval(flush, 3000);
+  document.addEventListener('visibilitychange', () => flush(document.visibilityState === 'hidden'));
+  window.addEventListener('pagehide', () => flush(true));
   const syncNow = async () => { changed(); clearTimeout(timer); await flush(); };
   return { start, changed, flush, syncNow };
 }

@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=29';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=30';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -794,7 +794,7 @@ function addSelectedToCart() {
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
-  save(); showToast(`${needed.length} produktai pridėti${selected.length !== needed.length ? ` · ${selected.length - needed.length} turite` : ''}`);
+  save(); syncEngine?.syncNow(); showToast(`${needed.length} produktai pridėti${selected.length !== needed.length ? ` · ${selected.length - needed.length} turite` : ''}`);
 }
 
 function addRecipeToCart(recipe, items = recipe.ingredients) {
@@ -806,7 +806,7 @@ function addRecipeToCart(recipe, items = recipe.ingredients) {
     if (existing && scaled != null && existing.quantity != null) existing.quantity += scaled;
     else if (!existing) cart.push({ id: crypto.randomUUID(), key, quantity: scaled, quantityRaw: item.quantityRaw, unit: item.unit, name: item.name, translated: item.translated, done: false });
   });
-  save(); showToast(`${needed.length} produktai pridėti${items.length !== needed.length ? ` · ${items.length - needed.length} turite` : ''}`);
+  save(); syncEngine?.syncNow(); showToast(`${needed.length} produktai pridėti${items.length !== needed.length ? ` · ${items.length - needed.length} turite` : ''}`);
 }
 
 function renderShopping() {
@@ -1071,7 +1071,7 @@ document.addEventListener('click', event => {
   if (target.matches('[data-filter]')) { activeFilter = target.dataset.filter; renderRecipes(); }
   if (target.matches('[data-pin-recipe]')) {
     const recipe = recipes.find(item => item.id === target.dataset.pinRecipe);
-    if (recipe) { recipe.pinned = !recipe.pinned; save(); renderRecipes(); showToast(recipe.pinned ? 'Receptas prisegtas viršuje' : 'Receptas atsegtas'); }
+    if (recipe) { recipe.pinned = !recipe.pinned; save(); syncEngine?.syncNow(); renderRecipes(); showToast(recipe.pinned ? 'Receptas prisegtas viršuje' : 'Receptas atsegtas'); }
   }
   if (target.matches('[data-quick-cart]')) { const recipe = recipes.find(item => item.id === target.dataset.quickCart); if (recipe) addRecipeToCart(recipe); }
   if (target.matches('[data-back]')) location.hash = '#recipes';
@@ -1079,12 +1079,12 @@ document.addEventListener('click', event => {
   if (target.matches('[data-step]')) { const recipe = recipes.find(item => item.id === activeRecipeId); const next = Math.max(1, (recipe.currentServings || recipe.servings) + Number(target.dataset.step)); renderDetail(recipe.id, next); }
   if (target.matches('[data-toggle]')) { const boxes = $$('[data-ingredient]'); const anyChecked = boxes.some(box => box.checked); boxes.forEach(box => box.checked = !anyChecked); target.textContent = anyChecked ? 'Pažymėti visus' : 'Atžymėti visus'; }
   if (target.matches('[data-add-cart]')) addSelectedToCart();
-  if (target.matches('[data-cart-remove]')) { cart = cart.filter(item => item.id !== target.dataset.cartRemove); save(); renderShopping(); }
-  if (target.matches('#clear-cart') && cart.length && confirm('Išvalyti visą pirkinių sąrašą?')) { cart = []; save(); renderShopping(); }
+  if (target.matches('[data-cart-remove]')) { cart = cart.filter(item => item.id !== target.dataset.cartRemove); save(); syncEngine?.syncNow(); renderShopping(); }
+  if (target.matches('#clear-cart') && cart.length && confirm('Išvalyti visą pirkinių sąrašą?')) { cart = []; save(); syncEngine?.syncNow(); renderShopping(); }
 });
 
 document.addEventListener('change', event => {
-  if (event.target.matches('[data-cart-check]')) { const item = cart.find(i => i.id === event.target.dataset.cartCheck); if (item) item.done = event.target.checked; save(); renderShopping(); }
+  if (event.target.matches('[data-cart-check]')) { const item = cart.find(i => i.id === event.target.dataset.cartCheck); if (item) item.done = event.target.checked; save(); syncEngine?.syncNow(); renderShopping(); }
   if (event.target.matches('[data-dictionary-input]')) {
     const key = event.target.dataset.dictionaryInput; const value = event.target.value.trim();
     if (value) customTranslations[key] = value; else delete customTranslations[key];
@@ -1108,7 +1108,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=29', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=30', { updateViaCache: 'none' });
     registration.update();
   });
 }
