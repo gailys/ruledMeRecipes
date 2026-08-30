@@ -8,7 +8,7 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=23" />
+    <link rel="stylesheet" href="./styles.css?v=24" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -21,7 +21,8 @@
         <a href="#recipes" data-nav="recipes">Receptai</a>
         <a href="#shopping" data-nav="shopping">Pirkiniai <span id="cart-count" class="count">0</span></a>
         <a href="#add" data-nav="add">Pridėti</a>
-        <button id="manage-dictionary" class="settings-button" type="button" aria-label="Ingredientų vertimų nustatymai" title="Vertimų žodynas">
+        <span id="current-user" class="current-user" hidden></span>
+        <button id="manage-dictionary" class="settings-button" type="button" aria-label="Programėlės nustatymai" title="Nustatymai">
           <span aria-hidden="true">⚙</span>
         </button>
       </nav>
@@ -93,6 +94,35 @@
           <span><strong>Ingredientų vertimai</strong><small>Peržiūrėti ir taisyti produktų pavadinimus</small></span>
           <span class="settings-option-arrow" aria-hidden="true">›</span>
         </button>
+        <button id="change-user" class="settings-option" type="button">
+          <span class="settings-option-icon user-icon" aria-hidden="true">☺</span>
+          <span><strong>Keisti vartotoją</strong><small>Pasirinkti arba sukurti kitą profilį</small></span>
+          <span class="settings-option-arrow" aria-hidden="true">›</span>
+        </button>
+      </div>
+    </dialog>
+
+    <dialog id="login-dialog" class="add-dialog auth-dialog">
+      <form id="login-form" class="auth-content">
+        <span class="auth-logo">K</span>
+        <h2>Prisijunkite</h2>
+        <p>Įveskite bendrą „Mano keto“ slaptažodį.</p>
+        <input id="app-password" type="password" required autocomplete="current-password" placeholder="Slaptažodis" aria-label="Programėlės slaptažodis" />
+        <button class="primary" type="submit">Prisijungti</button>
+        <p id="login-status" class="status" role="status"></p>
+      </form>
+    </dialog>
+
+    <dialog id="users-dialog" class="add-dialog users-dialog">
+      <div class="users-content">
+        <h2>Kas naudojasi?</h2>
+        <p>Pasirinkite savo profilį arba sukurkite naują.</p>
+        <div id="users-list" class="users-list"></div>
+        <form id="user-form" class="pantry-form">
+          <input id="user-name" type="text" required maxlength="40" placeholder="Naujo vartotojo vardas" aria-label="Naujo vartotojo vardas" />
+          <button class="primary" type="submit">Sukurti</button>
+        </form>
+        <button id="users-cancel" class="text-button" type="button">Atšaukti</button>
       </div>
     </dialog>
 
@@ -107,6 +137,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=23"></script>
+    <script type="module" src="./app.js?v=24"></script>
   </body>
 </html>

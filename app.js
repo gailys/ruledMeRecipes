@@ -1,4 +1,6 @@
-const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1' };
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=24';
+
+const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
 const pantrySuggestions = ['garlic powder', 'black pepper', 'salt', 'olive oil', 'onion powder', 'paprika'];
 
@@ -319,6 +321,8 @@ let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
 let pantry = load(STORAGE.pantry, []);
 let customTranslations = load(STORAGE.dictionary, {});
+let users = load(STORAGE.users, []);
+let currentUserId = localStorage.getItem(STORAGE.currentUser) || '';
 let dictionaryData = { recipesAudited: 0, entries: [] };
 let activeRecipeId = null;
 let activeFilter = 'Visi';
@@ -331,6 +335,8 @@ let pendingSharedUrl = (() => {
   const value = new URL(location.href).searchParams.get('recipe');
   try { return value && /(^|\.)ruled\.me$/i.test(new URL(value).hostname) ? value : ''; } catch { return ''; }
 })();
+let applyingRemoteStore = false;
+let syncEngine;
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -343,11 +349,14 @@ function save() {
   localStorage.setItem(STORAGE.recipes, JSON.stringify(recipes));
   localStorage.setItem(STORAGE.cart, JSON.stringify(cart));
   localStorage.setItem(STORAGE.pantry, JSON.stringify(pantry));
+  localStorage.setItem(STORAGE.users, JSON.stringify(users));
   updateCounts();
+  if (!applyingRemoteStore) syncEngine?.changed();
 }
 
 function saveDictionary() {
   localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations));
+  if (!applyingRemoteStore) syncEngine?.changed();
 }
 
 function migrateLegacyIngredientNames() {
@@ -600,6 +609,58 @@ function updateCounts() {
   $('#cart-count').textContent = cart.length;
   $('#pantry-count').textContent = pantry.length;
   $('#recipe-count').textContent = recipes.length ? `${recipes.length} ${recipes.length === 1 ? 'receptas' : 'receptai'}` : '';
+  const user = users.find(item => item.id === currentUserId);
+  $('#current-user').hidden = !user;
+  $('#current-user').textContent = user ? `● ${user.name}` : '';
+}
+
+function syncStore() {
+  return {
+    users,
+    recipes: recipes.map(recipe => {
+      const url = recipe.url.replace(/\/$/, '').toLowerCase();
+      return { id: url, url: recipe.url };
+    }),
+    cart,
+    pantry,
+    translations: Object.entries(customTranslations).map(([id, value]) => ({ id, value })),
+  };
+}
+
+async function applySyncedStore(store) {
+  applyingRemoteStore = true;
+  users = store.users || []; cart = store.cart || []; pantry = store.pantry || [];
+  const recipeRefs = store.recipes || [];
+  const syncedUrls = new Set(recipeRefs.map(item => item.url.replace(/\/$/, '').toLowerCase()));
+  recipes = recipes.filter(recipe => syncedUrls.has(recipe.url.replace(/\/$/, '').toLowerCase()));
+  customTranslations = Object.fromEntries((store.translations || []).map(item => [item.id, item.value]));
+  localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations)); save(); applyingRemoteStore = false;
+  for (const reference of recipeRefs) {
+    if (recipes.some(recipe => recipe.url.replace(/\/$/, '').toLowerCase() === reference.url.replace(/\/$/, '').toLowerCase())) continue;
+    try {
+      const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); save(); applyingRemoteStore = false; renderRecipes();
+    } catch { showToast('Vieno recepto nepavyko parsiųsti į šį telefoną'); }
+  }
+  if (currentUserId && !users.some(item => item.id === currentUserId)) { currentUserId = ''; localStorage.removeItem(STORAGE.currentUser); }
+  route(); updateCounts();
+}
+
+function renderUsers() {
+  $('#users-list').innerHTML = users.length ? users.map(user => `<button class="user-choice" data-user-choice="${user.id}"><span class="user-choice-avatar">${escapeHtml(user.name.slice(0, 1).toUpperCase())}</span><span>${escapeHtml(user.name)}</span></button>`).join('') : '<div class="empty">Vartotojų dar nėra. Sukurkite pirmą profilį.</div>';
+  $('#users-cancel').hidden = !currentUserId;
+}
+
+function showUserChooser() {
+  renderUsers(); const dialog = $('#users-dialog'); if (!dialog.open) dialog.showModal();
+}
+
+function chooseUser(id) {
+  const user = users.find(item => item.id === id); if (!user) return;
+  currentUserId = id; localStorage.setItem(STORAGE.currentUser, id); $('#users-dialog').close(); updateCounts(); showToast(`Pasirinktas vartotojas: ${user.name}`);
+}
+
+function requireLogin() {
+  const dialog = $('#login-dialog'); if (!dialog.open) dialog.showModal();
 }
 
 function renderRecipes() {
@@ -853,8 +914,25 @@ $('#open-dictionary').addEventListener('click', async () => {
   if (!dictionaryData.entries.length) await loadDictionary();
   renderDictionary(); $('#dictionary-dialog').showModal();
 });
+$('#change-user').addEventListener('click', () => { $('#settings-dialog').close(); showUserChooser(); });
 $('.dictionary-close').addEventListener('click', () => $('#dictionary-dialog').close());
 $('#dictionary-search').addEventListener('input', renderDictionary);
+$('#login-form').addEventListener('submit', async event => {
+  event.preventDefault(); const button = $('button[type="submit"]', event.currentTarget); const status = $('#login-status');
+  button.disabled = true; button.textContent = 'Tikrinama…'; status.textContent = '';
+  try {
+    await loginWithPassword($('#app-password').value); $('#app-password').value = ''; $('#login-dialog').close(); await syncEngine.start();
+  } catch (error) { status.className = 'status error'; status.textContent = error.message || 'Prisijungti nepavyko'; }
+  finally { button.disabled = false; button.textContent = 'Prisijungti'; }
+});
+$('#login-dialog').addEventListener('cancel', event => event.preventDefault());
+$('#users-dialog').addEventListener('cancel', event => { if (!currentUserId) event.preventDefault(); });
+$('#users-cancel').addEventListener('click', () => { if (currentUserId) $('#users-dialog').close(); });
+$('#user-form').addEventListener('submit', event => {
+  event.preventDefault(); const input = $('#user-name'); const name = input.value.trim(); if (!name) return;
+  if (users.some(user => user.name.toLocaleLowerCase('lt') === name.toLocaleLowerCase('lt'))) { showToast('Toks vartotojas jau yra'); return; }
+  const user = { id: crypto.randomUUID(), name, createdAt: new Date().toISOString() }; users.push(user); input.value = ''; save(); chooseUser(user.id);
+});
 $('#pantry-form').addEventListener('submit', event => {
   event.preventDefault();
   const input = $('#pantry-input');
@@ -900,6 +978,7 @@ document.addEventListener('click', event => {
   if (target.matches('[data-pantry-suggestion]')) {
     if (addToPantry(target.dataset.pantrySuggestion, translateIngredient(target.dataset.pantrySuggestion))) { renderPantry(); renderShopping(); }
   }
+  if (target.matches('[data-user-choice]')) chooseUser(target.dataset.userChoice);
   if (target.matches('[data-pantry-remove]')) {
     pantry = pantry.filter(item => item.key !== target.dataset.pantryRemove); save(); renderPantry();
   }
@@ -948,11 +1027,22 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=23', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=24', { updateViaCache: 'none' });
     registration.update();
   });
 }
+syncEngine = createSyncEngine({
+  getStore: syncStore,
+  applyStore: applySyncedStore,
+  onAuthRequired: requireLogin,
+  onStatus: status => { const user = $('#current-user'); user.dataset.sync = status; user.title = status === 'synced' ? 'Duomenys sinchronizuoti' : status === 'saving' ? 'Sinchronizuojama…' : 'Veikia neprisijungus'; },
+  onFirstSync: conflicts => {
+    if (conflicts.length) showToast('Kai kuriuos pakeitimus pirmiau atliko kitas įrenginys');
+    if (!currentUserId || !users.some(item => item.id === currentUserId)) showUserChooser();
+  },
+});
 migrateLegacyIngredientNames();
 if (pendingSharedUrl && location.hash !== '#add') location.hash = '#add';
 route();
 hydrateMissingImages();
+if (hasSession()) syncEngine.start(); else requireLogin();
