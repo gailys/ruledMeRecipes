@@ -72,7 +72,8 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
       if (!response.ok) throw new Error('sync');
       const result = await response.json(); const acknowledged = new Set(result.acknowledged || []); queue = queue.filter(op => !acknowledged.has(op.id));
       const remote = storeFromRecords(result.records || []); revisions = remote.revisions; queue = queue.map(op => ({ ...op, baseRevision: revisions[`${op.entityType}:${op.entityId}`] || 0 }));
-      const merged = applyQueue(remote.store, queue); baseline = clone(merged); persist(); await applyStore(merged); onStatus('synced'); onFirstSync(result.conflicts || []);
+      const merged = applyQueue(remote.store, queue); const storeChanged = JSON.stringify(merged) !== JSON.stringify(baseline);
+      baseline = clone(merged); persist(); if (storeChanged) await applyStore(merged); onStatus('synced'); onFirstSync(result.conflicts || []);
     } catch (error) { if (error.message !== 'session') onStatus('offline'); }
     finally {
       syncing = false;

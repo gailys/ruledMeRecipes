@@ -1,5 +1,5 @@
-const CACHE = 'mano-keto-v30';
-const ASSETS = ['./', './index.html', './styles.css?v=30', './app.js?v=30', './sync.js?v=30', './ingredient-dictionary.json', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
+const CACHE = 'mano-keto-v31';
+const ASSETS = ['./', './index.html', './styles.css?v=31', './app.js?v=31', './sync.js?v=31', './ingredient-dictionary.json', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', event => event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting())));
 self.addEventListener('activate', event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch', event => {
