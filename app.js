@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=36';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=37';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -875,17 +875,38 @@ function addRecipeToCart(recipe, items = recipe.ingredients) {
   save(); syncEngine?.syncNow(); showToast(`${needed.length} produktai pridėti${items.length !== needed.length ? ` · ${items.length - needed.length} turite` : ''}`);
 }
 
-function renderShopping() {
-  const list = $('#shopping-list');
-  if (!cart.length) list.innerHTML = '<div class="empty"><strong>Pirkinių sąrašas tuščias.</strong><br>Atidarykite receptą ir pridėkite reikalingus ingredientus.</div>';
-  else list.innerHTML = cart.map(item => `
-    <div class="shopping-item ${item.done ? 'done' : ''}">
+const SHOPPING_CATEGORIES = ['Mėsa ir žuvis', 'Pieno produktai ir kiaušiniai', 'Daržovės', 'Vaisiai ir uogos', 'Prieskoniai ir žolelės', 'Padažai ir aliejai', 'Kepimo produktai', 'Riešutai ir sėklos', 'Kita'];
+
+function shoppingCategory(item) {
+  const key = item.key || ingredientKey(item.name);
+  if (/(?:chicken|beef|pork|bacon|ham|turkey|sausage|hot dogs|salmon|tuna|shrimp|fish|anchov|bonito)/.test(key) && !/broth/.test(key)) return 'Mėsa ir žuvis';
+  if (/(?:cheese|butter|cream|milk|yogurt|egg)/.test(key) && !/(?:peanut|coconut milk|almond milk)/.test(key)) return 'Pieno produktai ir kiaušiniai';
+  if (/(?:broccoli|cauliflower|cabbage|green beans|onion|garlic|cucumber|zucchini|mushroom|lettuce|spinach|kale|tomato|avocado|bell pepper|celery|asparagus|radish|eggplant)/.test(key)) return 'Daržovės';
+  if (/(?:blueberr|raspberr|strawberr|blackberr|cranberr|lemon|lime|orange|apple|coconut)/.test(key) && !/(?:oil|flour|milk)/.test(key)) return 'Vaisiai ir uogos';
+  if (/(?:salt|black pepper|red pepper flakes|paprika|allspice|cloves|cinnamon|nutmeg|oregano|thyme|parsley|cilantro|seasoning|garlic powder|onion powder|ginger)/.test(key)) return 'Prieskoniai ir žolelės';
+  if (/(?:oil|sauce|vinegar|mustard|mayonnaise|salsa|broth|juice|vinaigrette)/.test(key)) return 'Padažai ir aliejai';
+  if (/(?:flour|baking|erythritol|xylitol|sweetener|stevia|extract|cocoa|chocolate|psyllium|protein powder)/.test(key)) return 'Kepimo produktai';
+  if (/(?:almond|pecan|walnut|macadamia|peanut|seed|flax|pork rinds|nori)/.test(key)) return 'Riešutai ir sėklos';
+  return 'Kita';
+}
+
+function shoppingItemHtml(item) {
+  return `<div class="shopping-item ${item.done ? 'done' : ''}">
       <input type="checkbox" data-cart-check="${item.id}" ${item.done ? 'checked' : ''} aria-label="Pažymėti nupirktu" />
       <span class="shop-qty">${escapeHtml(metricAmount(item))}</span>
       <span class="shop-name">${escapeHtml(translateIngredient(item.name))}<small>${escapeHtml(item.name)}</small></span>
       <button class="have-at-home" data-pantry-from="${item.id}">Visada turiu</button>
       <button class="remove" data-cart-remove="${item.id}" aria-label="Pašalinti">×</button>
-    </div>`).join('');
+    </div>`;
+}
+
+function renderShopping() {
+  const list = $('#shopping-list');
+  if (!cart.length) list.innerHTML = '<div class="empty"><strong>Pirkinių sąrašas tuščias.</strong><br>Atidarykite receptą ir pridėkite reikalingus ingredientus.</div>';
+  else {
+    const groups = cart.reduce((result, item) => { (result[shoppingCategory(item)] ||= []).push(item); return result; }, {});
+    list.innerHTML = SHOPPING_CATEGORIES.filter(category => groups[category]?.length).map(category => `<section class="shopping-group"><h2 class="shopping-group-title">${category}<span>${groups[category].length}</span></h2><div class="shopping-group-items">${groups[category].map(shoppingItemHtml).join('')}</div></section>`).join('');
+  }
   updateCounts();
 }
 
@@ -1178,7 +1199,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=36', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=37', { updateViaCache: 'none' });
     registration.update();
   });
 }
