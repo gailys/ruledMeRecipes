@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=41';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=42';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -125,10 +125,12 @@ const translations = {
   "green cabbage": "žaliasis kopūstas",
   "green onion": "svogūnų laiškai",
   "ground beef": "malta jautiena",
+  "ground chicken": "malta vištiena",
   "ground cinnamon": "maltas cinamonas",
   "ground coriander": "maltos kalendrų sėklos",
   "ground lamb": "malta aviena",
   "ground mild italian sausage": "malta švelni itališka dešra",
+  "ground pork": "malta kiauliena",
   "ground turkey": "malta kalakutiena",
   "gruyere cheese": "griujerio sūris",
   "guar gum": "guaro derva",
@@ -286,6 +288,40 @@ const translations = {
   "yellow mustard": "geltonosios garstyčios",
   "yellow onion": "geltonasis svogūnas",
   "zucchini": "cukinija"
+};
+
+const PRODUCT_SEARCH_ALIASES = {
+  meat: ['mėsa', 'mesa', 'mėsos gaminiai'],
+  'ground beef': ['jautienos faršas', 'jautienos farsas', 'faršas', 'farsas', 'malta mėsa'],
+  'ground pork': ['kiaulienos faršas', 'kiaulienos farsas', 'faršas', 'farsas', 'malta mėsa'],
+  'ground chicken': ['vištienos faršas', 'vištienos farsas', 'faršas', 'farsas', 'malta mėsa'],
+  'ground turkey': ['kalakutienos faršas', 'kalakutienos farsas', 'faršas', 'farsas', 'malta mėsa'],
+  'ground lamb': ['avienos faršas', 'avienos farsas', 'faršas', 'farsas', 'malta mėsa'],
+  'chicken breast': ['vištienos filė', 'vistienos file', 'krūtinėlės filė'],
+  'chicken thighs': ['vištienos šlaunelės', 'vistienos slauneles', 'šlaunelių mėsa'],
+  'hot dogs': ['dešrelės', 'desreles', 'dešrainių dešrelės'],
+  bacon: ['šoninė', 'sonine', 'bekonas'],
+  'heavy cream': ['plakamoji grietinėlė', 'grietinėlė plakimui', 'riebi grietinėlė'],
+  'cream cheese': ['tepamas sūris', 'kreminis sūris', 'philadelphia', 'filadelfija'],
+  'cheddar cheese': ['čederis', 'cederis', 'čederio sūris'],
+  'mozzarella cheese': ['mocarela', 'mozzarella', 'mocarelos sūris'],
+  'sour cream': ['grietinė', 'grietine'],
+  'green onion': ['svogūnų laiškai', 'svogunu laiskai', 'laiškiniai svogūnai'],
+  cilantro: ['kalendra', 'koriandras', 'šviežia kalendra'],
+  'cremini mushrooms': ['pievagrybiai', 'rudieji pievagrybiai'],
+  'romaine lettuce': ['romaninės salotos', 'salotų lapai'],
+  zucchini: ['cukinija', 'cukinijos'], eggplant: ['baklažanas', 'baklazanas'],
+  'red bell pepper': ['raudona paprika', 'saldžioji paprika'],
+  'green bell pepper': ['žalia paprika', 'saldžioji paprika'],
+  'sun-dried tomatoes': ['džiovinti pomidorai', 'dziovinti pomidorai'],
+  'flaxseed meal': ['linų sėmenų miltai', 'linu semenu miltai', 'malti sėmenys'],
+  'psyllium husk powder': ['gysločio luobelės', 'psyllium', 'skaidulos'],
+  erythritol: ['eritritas', 'eritritolis', 'cukraus pakaitalas'],
+  sweetener: ['saldiklis', 'cukraus pakaitalas'],
+  'pork rinds': ['kiaulienos čipsai', 'kiaulienos odelės', 'spirgučių traškučiai'],
+  'red pepper flakes': ['čili dribsniai', 'čili pipirai', 'aitriosios paprikos'],
+  'hot sauce': ['čili padažas', 'astrus padazas', 'aštrus padažas'],
+  'soy sauce': ['soja', 'sojų padažas', 'sojos padažas'],
 };
 
 const ingredientAliases = [
@@ -946,8 +982,8 @@ function renderProductSuggestions() {
   if (query.length < 2) { panel.hidden = true; panel.innerHTML = ''; return; }
   const source = [...Object.entries(translations), ...Object.entries(customTranslations), ...cart.map(item => [item.name, translateIngredient(item.name)])];
   const seen = new Set();
-  const matches = source.map(([english, lithuanian]) => ({ english, lithuanian: lithuanian || english, ltSearch: searchableText(lithuanian || english), enSearch: searchableText(english) }))
-    .filter(item => (item.ltSearch.includes(query) || item.enSearch.includes(query)) && !seen.has(item.ltSearch) && seen.add(item.ltSearch))
+  const matches = source.map(([english, lithuanian]) => ({ english, lithuanian: lithuanian || english, ltSearch: searchableText(lithuanian || english), enSearch: searchableText(english), aliasSearch: searchableText((PRODUCT_SEARCH_ALIASES[english] || []).join(' ')) }))
+    .filter(item => (item.ltSearch.includes(query) || item.enSearch.includes(query) || item.aliasSearch.includes(query)) && !seen.has(item.ltSearch) && seen.add(item.ltSearch))
     .sort((a, b) => Number(b.ltSearch.startsWith(query)) - Number(a.ltSearch.startsWith(query)) || a.lithuanian.localeCompare(b.lithuanian, 'lt')).slice(0, 8);
   panel.innerHTML = matches.map(item => `<button class="product-suggestion" type="button" role="option" data-product-suggestion="${escapeHtml(item.lithuanian)}"><strong>${escapeHtml(item.lithuanian)}</strong><small>${escapeHtml(item.english)}</small></button>`).join('');
   panel.hidden = !matches.length;
@@ -1269,7 +1305,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=41', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=42', { updateViaCache: 'none' });
     registration.update();
   });
 }
