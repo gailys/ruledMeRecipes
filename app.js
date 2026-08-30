@@ -1,8 +1,8 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=25';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=26';
 
-const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1' };
+const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
-const pantrySuggestions = ['garlic powder', 'black pepper', 'salt', 'olive oil', 'onion powder', 'paprika'];
+const pantrySuggestions = [];
 
 const translations = {
   "5 minute keto raspberry vinaigrette": "5 minučių keto aviečių užpilas",
@@ -323,8 +323,10 @@ let pantry = load(STORAGE.pantry, []);
 let customTranslations = load(STORAGE.dictionary, {});
 let users = load(STORAGE.users, []);
 let currentUserId = localStorage.getItem(STORAGE.currentUser) || '';
+let userRecipes = load(STORAGE.userRecipes, {});
 let userCarts = load(STORAGE.userCarts, {});
 let userPins = load(STORAGE.userPins, {});
+let userPantries = load(STORAGE.userPantries, {});
 let dictionaryData = { recipesAudited: 0, entries: [] };
 let activeRecipeId = null;
 let activeFilter = 'Visi';
@@ -359,18 +361,20 @@ function save() {
 
 function persistActiveUserState() {
   if (!currentUserId) return;
+  userRecipes[currentUserId] = recipes;
   userCarts[currentUserId] = cart;
   userPins[currentUserId] = recipes.filter(recipe => recipe.pinned).map(recipe => recipe.url.replace(/\/$/, '').toLowerCase());
+  userPantries[currentUserId] = pantry;
+  localStorage.setItem(STORAGE.userRecipes, JSON.stringify(userRecipes));
   localStorage.setItem(STORAGE.userCarts, JSON.stringify(userCarts));
   localStorage.setItem(STORAGE.userPins, JSON.stringify(userPins));
+  localStorage.setItem(STORAGE.userPantries, JSON.stringify(userPantries));
 }
 
-function loadActiveUserState(id, preserveUnassigned = false) {
-  const legacyCart = preserveUnassigned ? cart : [];
-  const legacyPins = preserveUnassigned ? recipes.filter(recipe => recipe.pinned).map(recipe => recipe.url.replace(/\/$/, '').toLowerCase()) : [];
-  if (!userCarts[id] && legacyCart.length) userCarts[id] = legacyCart;
-  if (!userPins[id] && legacyPins.length) userPins[id] = legacyPins;
+function loadActiveUserState(id) {
+  recipes = userRecipes[id] || [];
   cart = userCarts[id] || [];
+  pantry = userPantries[id] || [];
   const pins = new Set(userPins[id] || []);
   recipes.forEach(recipe => { recipe.pinned = pins.has(recipe.url.replace(/\/$/, '').toLowerCase()); });
 }
@@ -639,20 +643,18 @@ function syncStore() {
   persistActiveUserState();
   return {
     users,
-    recipes: recipes.map(recipe => {
-      const url = recipe.url.replace(/\/$/, '').toLowerCase();
-      return { id: url, url: recipe.url };
-    }),
+    recipes: Object.entries(userRecipes).flatMap(([userId, items]) => items.map(recipe => { const url = recipe.url.replace(/\/$/, '').toLowerCase(); return { id: `${userId}:${url}`, userId, url: recipe.url }; })),
     cart: Object.entries(userCarts).flatMap(([userId, items]) => items.map(item => ({ id: `${userId}:${item.id}`, userId, item }))),
     pins: Object.entries(userPins).flatMap(([userId, urls]) => urls.map(url => ({ id: `${userId}:${url}`, userId, url }))),
-    pantry,
+    pantry: Object.entries(userPantries).flatMap(([userId, items]) => items.map(item => ({ id: `${userId}:${item.key}`, userId, item }))),
     translations: Object.entries(customTranslations).map(([id, value]) => ({ id, value })),
   };
 }
 
 async function applySyncedStore(store) {
   applyingRemoteStore = true;
-  users = store.users || []; pantry = store.pantry || [];
+  users = store.users || [];
+  if (currentUserId && !users.some(item => item.id === currentUserId)) { currentUserId = ''; localStorage.removeItem(STORAGE.currentUser); }
   userCarts = {};
   for (const record of store.cart || []) {
     const userId = record.userId || currentUserId; if (!userId) continue;
@@ -663,22 +665,35 @@ async function applySyncedStore(store) {
     const userId = record.userId || currentUserId; if (!userId || !record.url) continue;
     (userPins[userId] ||= []).push(record.url);
   }
+  userPantries = {};
+  for (const record of store.pantry || []) {
+    if (!record.userId || !record.item) continue;
+    (userPantries[record.userId] ||= []).push(record.item);
+  }
+  const recipeRefs = {};
+  for (const record of store.recipes || []) {
+    if (!record.userId || !record.url) continue;
+    (recipeRefs[record.userId] ||= []).push(record);
+  }
+  for (const userId of Object.keys(userRecipes)) {
+    const urls = new Set((recipeRefs[userId] || []).map(item => item.url.replace(/\/$/, '').toLowerCase()));
+    userRecipes[userId] = (userRecipes[userId] || []).filter(recipe => urls.has(recipe.url.replace(/\/$/, '').toLowerCase()));
+  }
+  for (const userId of Object.keys(recipeRefs)) userRecipes[userId] ||= [];
+  localStorage.setItem(STORAGE.userRecipes, JSON.stringify(userRecipes));
   localStorage.setItem(STORAGE.userCarts, JSON.stringify(userCarts));
   localStorage.setItem(STORAGE.userPins, JSON.stringify(userPins));
-  const recipeRefs = store.recipes || [];
-  const syncedUrls = new Set(recipeRefs.map(item => item.url.replace(/\/$/, '').toLowerCase()));
-  recipes = recipes.filter(recipe => syncedUrls.has(recipe.url.replace(/\/$/, '').toLowerCase()));
+  localStorage.setItem(STORAGE.userPantries, JSON.stringify(userPantries));
   customTranslations = Object.fromEntries((store.translations || []).map(item => [item.id, item.value]));
   if (currentUserId) loadActiveUserState(currentUserId);
   else cart = [];
   localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations)); save(); applyingRemoteStore = false;
-  for (const reference of recipeRefs) {
+  for (const reference of recipeRefs[currentUserId] || []) {
     if (recipes.some(recipe => recipe.url.replace(/\/$/, '').toLowerCase() === reference.url.replace(/\/$/, '').toLowerCase())) continue;
     try {
-      const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); save(); applyingRemoteStore = false; renderRecipes();
+      const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); userRecipes[currentUserId] = recipes; save(); applyingRemoteStore = false; renderRecipes();
     } catch { showToast('Vieno recepto nepavyko parsiųsti į šį telefoną'); }
   }
-  if (currentUserId && !users.some(item => item.id === currentUserId)) { currentUserId = ''; localStorage.removeItem(STORAGE.currentUser); }
   route(); updateCounts();
 }
 
@@ -693,8 +708,7 @@ function showUserChooser() {
 
 function chooseUser(id) {
   const user = users.find(item => item.id === id); if (!user) return;
-  const hadNoUser = !currentUserId;
-  persistActiveUserState(); currentUserId = id; loadActiveUserState(id, hadNoUser);
+  persistActiveUserState(); currentUserId = id; loadActiveUserState(id);
   localStorage.setItem(STORAGE.currentUser, id); save(); $('#users-dialog').close(); route(); updateCounts(); showToast(`Pasirinktas vartotojas: ${user.name}`);
 }
 
@@ -1066,7 +1080,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=25', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=26', { updateViaCache: 'none' });
     registration.update();
   });
 }
