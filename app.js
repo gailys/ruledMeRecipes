@@ -1,4 +1,4 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=35';
+import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=36';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -317,6 +317,21 @@ const ingredientAliases = [
   [/\bdried oregano\b/i, 'oregano'], [/\bdried parsley\b|\bfresh parsley\b/i, 'parsley'], [/\bdried thyme\b/i, 'thyme']
 ];
 
+// Approximate grams in one US recipe cup. Ingredient-specific values avoid the
+// inaccurate assumption that every 240 ml cup weighs 240 g.
+const CUP_GRAMS = {
+  'almond flour': 96, 'coconut flour': 112, 'flaxseed meal': 112, 'psyllium husk powder': 80,
+  erythritol: 200, 'erythritol or xylitol': 200, xylitol: 215, sweetener: 200, 'cocoa powder': 85, 'protein powder': 100,
+  butter: 227, 'peanut butter': 258, mayonnaise: 230, 'sour cream': 230, 'cream cheese': 232,
+  'cheddar cheese': 113, 'mozzarella cheese': 112, 'parmesan cheese': 100, 'blue cheese crumbled': 135,
+  almonds: 143, pecans: 109, walnuts: 117, 'macadamia nuts': 134, 'pork rinds': 32,
+  blueberries: 148, raspberries: 123, strawberries: 152, 'cherry tomatoes': 149, 'sundried tomatoes': 110,
+  broccoli: 91, cauliflower: 107, spinach: 30, kale: 67, 'romaine lettuce': 47, cabbage: 89,
+  mushrooms: 70, 'cremini mushrooms': 70, cucumber: 104, zucchini: 124, onion: 160,
+  'red bell pepper': 149, 'green bell pepper': 149, 'egg white': 243, 'shredded coconut': 85,
+};
+const CUP_LIQUIDS = new Set(['water', 'whole milk', 'coconut milk', 'almond milk', 'heavy cream', 'halfandhalf', 'chicken broth', 'beef broth', 'vegetable broth', 'olive oil', 'avocado oil', 'coconut oil', 'soy sauce', 'hot sauce', 'lemon juice', 'lime juice', 'apple cider vinegar', 'rice vinegar']);
+
 let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
 let pantry = load(STORAGE.pantry, []);
@@ -463,7 +478,12 @@ function metricAmount(item) {
   if (/^(milliliter|milliliters|ml)$/.test(unit)) return `${roundedMetric(quantity)} ml`;
   if (/^(liter|liters|l)$/.test(unit)) return `${roundedMetric(quantity * 1000)} ml`;
   if (/^(fluid ounce|fluid ounces|fl oz)$/.test(unit)) return `${roundedMetric(quantity * 29.5735)} ml`;
-  if (/^(cup|cups)$/.test(unit)) return `${formatNumber(quantity)} ${Math.abs(quantity - 1) < .001 ? 'puodelis' : 'puodelio'}`;
+  if (/^(cup|cups)$/.test(unit)) {
+    const key = item.key || ingredientKey(item.name);
+    if (CUP_GRAMS[key]) return `≈ ${roundedMetric(quantity * CUP_GRAMS[key])} g`;
+    if (CUP_LIQUIDS.has(key) || /(?:oil|milk|broth|juice|vinegar|sauce)$/.test(key)) return `${roundedMetric(quantity * 240)} ml`;
+    return `${formatNumber(quantity)} ${Math.abs(quantity - 1) < .001 ? 'puodelis' : 'puodelio'}`;
+  }
   if (/^(tablespoon|tablespoons|tbsp)$/.test(unit)) return `${roundedMetric(quantity * 15)} ml`;
   if (/^(teaspoon|teaspoons|tsp)$/.test(unit)) return `${roundedMetric(quantity * 5)} ml`;
   const unitLt = { large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skiltelė', cloves: 'skiltelės', slice: 'riekelė', slices: 'riekelės' }[unit] || item.unit;
@@ -1158,7 +1178,7 @@ document.addEventListener('contextmenu', event => { if (event.target.closest('[d
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=35', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=36', { updateViaCache: 'none' });
     registration.update();
   });
 }
