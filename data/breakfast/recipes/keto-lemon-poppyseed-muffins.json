@@ -1,0 +1,389 @@
+{
+  "id": "ruled-27843",
+  "slug": "keto-lemon-poppyseed-muffins",
+  "title": "Keto Lemon & Poppy Seed Muffins",
+  "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Keto Lemon & Poppy Seed Muffins. Each serving comes out to be 132 calories, 11.8g fats, 1.4g net carbs, and 3.9g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "132 kcal",
+    "fatContent": "11.8 g",
+    "proteinContent": "3.9 g",
+    "carbohydrateContent": "1.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 132,
+    "netCarbsGrams": 1.4,
+    "proteinGrams": 3.9,
+    "fatGrams": 11.8
+  },
+  "ingredients": [
+    "3/4 cup almond flour",
+    "1/4 cup flaxseed meal",
+    "1/3 cup erythritol",
+    "2 tablespoon poppy seeds",
+    "1/4 cup butter (salted, melted)",
+    "3 large egg",
+    "1/4 cup heavy whipping cream",
+    "1 teaspoon baking powder",
+    "25 drop liquid stevia",
+    "1 teaspoon vanilla extract",
+    "3 tablespoon lemon juice",
+    "4 teaspoon lemon zest"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. In a mixing bowl, use a fork to combine the almond flour, flaxseed meal, erythritol, and poppy seeds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8706.jpg"
+    },
+    {
+      "text": "Whisk in the melted butter, eggs, and heavy cream until smooth, taking care to remove any lumps from the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8718.jpg"
+    },
+    {
+      "text": "Once smooth, add the baking powder, liquid stevia, vanilla extract, lemon juice, and lemon zest. Stir until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8723.jpg"
+    },
+    {
+      "text": "Pour the batter into silicone cupcake molds. Alternatively, use a regular muffin pan with paper liners.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8727.jpg"
+    },
+    {
+      "text": "Bake for 18–20 minutes or until lightly browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8728.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool for 10 minutes on the counter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8735.jpg"
+    },
+    {
+      "text": "These taste great sliced in half with a pat of butter and served with coffee in the morning. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked",
+    "meal-prep",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/LemonPoppySeedMuffins-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/6b13af231875047b95f6d35f.avif",
+      "archived": true,
+      "originalPath": "images/6b13af231875047b95f6d35f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/LemonPoppySeedMuffins.jpg",
+      "path": "images/4c5ace7f866cb6074d2ddaa4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8706.jpg",
+      "path": "../../nenaudojama/breakfast/images/1e7bbcb59599ed52230ff428.jpg",
+      "archived": true,
+      "originalPath": "images/1e7bbcb59599ed52230ff428.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8718.jpg",
+      "path": "../../nenaudojama/breakfast/images/186f66afe009ba43ec1191d2.jpg",
+      "archived": true,
+      "originalPath": "images/186f66afe009ba43ec1191d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8723.jpg",
+      "path": "../../nenaudojama/breakfast/images/493325221c543f2e41d46aa5.jpg",
+      "archived": true,
+      "originalPath": "images/493325221c543f2e41d46aa5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8727.jpg",
+      "path": "../../nenaudojama/breakfast/images/72362cb002af1bb434af55d9.jpg",
+      "archived": true,
+      "originalPath": "images/72362cb002af1bb434af55d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8728.jpg",
+      "path": "../../nenaudojama/breakfast/images/40407726f4add648670da43a.jpg",
+      "archived": true,
+      "originalPath": "images/40407726f4add648670da43a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8735.jpg",
+      "path": "../../nenaudojama/breakfast/images/eb3e610781084bae4dcbdacc.jpg",
+      "archived": true,
+      "originalPath": "images/eb3e610781084bae4dcbdacc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/LemonPoppySeedMuffinsSecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/10b0600d613869c6b930ca61.avif",
+      "archived": true,
+      "originalPath": "images/10b0600d613869c6b930ca61.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/LemonPoppySeedMuffinsLong.jpg",
+      "path": "../../nenaudojama/breakfast/images/f16d31a31f6909611cd2ab2f.jpg",
+      "archived": true,
+      "originalPath": "images/f16d31a31f6909611cd2ab2f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8706-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/32cdcefa70b34928b3b99d58.jpg",
+      "archived": true,
+      "originalPath": "images/32cdcefa70b34928b3b99d58.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8718-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0243da088237f1639313f383.jpg",
+      "archived": true,
+      "originalPath": "images/0243da088237f1639313f383.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8723-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6ddf4d36728a1f609da7c291.jpg",
+      "archived": true,
+      "originalPath": "images/6ddf4d36728a1f609da7c291.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8727-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0b324698696e97cdb244dcf8.jpg",
+      "archived": true,
+      "originalPath": "images/0b324698696e97cdb244dcf8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8728-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/070d2a1961329a83a7c0d57c.jpg",
+      "archived": true,
+      "originalPath": "images/070d2a1961329a83a7c0d57c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8735-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/862d84627fcff1d1abe9bef5.jpg",
+      "archived": true,
+      "originalPath": "images/862d84627fcff1d1abe9bef5.jpg"
+    }
+  ],
+  "featuredImage": "images/4c5ace7f866cb6074d2ddaa4.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Lemon & Poppy Seed Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Keto Lemon &amp; Poppy Seed Muffins. Each serving comes out to be 132 calories, 11.8g fats, 1.4g net carbs, and 3.9g protein.",
+    "datePublished": "2016-03-30T17:19:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/03/LemonPoppySeedMuffins.jpg"
+    ],
+    "video": {
+      "name": "Keto Lemon Poppyseed Muffins [Easy, Zesty Breakfast]",
+      "description": "If you love the taste of lemon and poppy like I do, then you’ll be an instant fan of these keto muffins. They’re so fast and easy to make and store (and freeze) well for a perfect breakfast throughout the week. Plus, they’re only 1.7g net carbs per muffin so you won’t have to feel guilty when you’re in a rush and need to leave the house.\n\nI highly suggest popping them in the microwave for 15-20 seconds to warm through, slice in half, and place a pad of butter between them. Just for that extra kick of keto fat in the morning!\n\nOne of the great things about these is the texture when they’re fresh. The bottoms crust up really well and add just a little bit of extra crunch when they come out of the oven. You could easily whip up a quick cream cheese frosting that these would definitely stand up against, too, if you want a dessert.\n\nLet me know how you like them in the comments below.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n¾ cup almond flour\n¼ cup golden flaxseed meal\n1/3 cup erythritol\n1 teaspoon baking powder\n2 tablespoons poppy seeds\n¼ cup salted butter, melted\n¼ cup heavy cream\n3 large eggs\nZest of 2 lemons\n3 tablespoons lemon juice\n1 teaspoon vanilla extract\n25 drops liquid Stevia\n\nNutrition Summary: This makes a total of 12 Keto Lemon Poppyseed Muffins. Each muffin comes out to be 130 Calories, 11.69g Fats, 1.73g Net Carbs, and 4.04g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-04-29T14:00:33+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M22S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 6654
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 323
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 21
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xue1hb8HvIA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/xue1hb8HvIA?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=xue1hb8HvIA",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "3/4 cup almond flour",
+      "1/4 cup flaxseed meal",
+      "1/3 cup erythritol",
+      "2 tablespoon poppy seeds",
+      "1/4 cup butter (salted, melted)",
+      "3 large egg",
+      "1/4 cup heavy whipping cream",
+      "1 teaspoon baking powder",
+      "25 drop liquid stevia",
+      "1 teaspoon vanilla extract",
+      "3 tablespoon lemon juice",
+      "4 teaspoon lemon zest"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. In a mixing bowl, use a fork to combine the almond flour, flaxseed meal, erythritol, and poppy seeds.",
+        "name": "Preheat oven to 350F. In a mixing bowl, use a fork to combine the almond flour, flaxseed meal, erythritol, and poppy seeds.",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8706.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in the melted butter, eggs, and heavy cream until smooth, taking care to remove any lumps from the batter.",
+        "name": "Whisk in the melted butter, eggs, and heavy cream until smooth, taking care to remove any lumps from the batter.",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8718.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once smooth, add the baking powder, liquid stevia, vanilla extract, lemon juice, and lemon zest. Stir until well combined.",
+        "name": "Once smooth, add the baking powder, liquid stevia, vanilla extract, lemon juice, and lemon zest. Stir until well combined.",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8723.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into silicone cupcake molds. Alternatively, use a regular muffin pan with paper liners.",
+        "name": "Pour the batter into silicone cupcake molds. Alternatively, use a regular muffin pan with paper liners.",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8727.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 18–20 minutes or until lightly browned.",
+        "name": "Bake for 18–20 minutes or until lightly browned.",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8728.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool for 10 minutes on the counter.",
+        "name": "Remove from the oven and let cool for 10 minutes on the counter.",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/03/IMG_8735.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "These taste great sliced in half with a pat of butter and served with coffee in the morning. Enjoy!",
+        "name": "These taste great sliced in half with a pat of butter and served with coffee in the morning. Enjoy!",
+        "url": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#wprm-recipe-51895-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "beginner-friendly, freezer-friendly, gluten-free, keto, low-carb, make-ahead, meal-prep, oven-baked, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "132 kcal",
+      "fatContent": "11.8 g",
+      "proteinContent": "3.9 g",
+      "carbohydrateContent": "1.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-lemon-poppyseed-muffins/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-lemon-poppyseed-muffins/"
+  },
+  "sourceIndex": {
+    "id": 27843,
+    "rid": 51895,
+    "t": "Keto Lemon Poppyseed Muffins",
+    "u": "/keto-lemon-poppyseed-muffins/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/03/LemonPoppySeedMuffins-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.4,
+    "cal": 132,
+    "pr": 3.9,
+    "fa": 11.8,
+    "tm": 40,
+    "sv": 12,
+    "kw": [
+      "beginner-friendly",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "oven-baked",
+      "meal-prep",
+      "make-ahead"
+    ],
+    "d": "2016-03-30",
+    "cm": 101,
+    "ex": "If you love the taste of lemon and poppy like I do, then you'll be an instant fan of these keto muffins. They're so fast and easy to make and store (and freeze) well for a perfect breakfast",
+    "pv": 1066
+  },
+  "sourceHtml": "pages/keto-lemon-poppyseed-muffins.html",
+  "scrapedAt": "2026-11-07T08:11:12.834Z"
+}

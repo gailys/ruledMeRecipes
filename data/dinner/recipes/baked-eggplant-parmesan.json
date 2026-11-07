@@ -1,0 +1,315 @@
+{
+  "id": "ruled-37868",
+  "slug": "baked-eggplant-parmesan",
+  "title": "Baked Eggplant Parmesan",
+  "url": "https://www.ruled.me/baked-eggplant-parmesan/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Baked Eggplant Parmesan. Each serving comes out to be 285 calories, 20.6g fats, 8.6g net carbs, and 13.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT40M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "285 kcal",
+    "fatContent": "20.6 g",
+    "proteinContent": "13.2 g",
+    "carbohydrateContent": "8.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 285,
+    "netCarbsGrams": 8.6,
+    "proteinGrams": 13.2,
+    "fatGrams": 20.6
+  },
+  "ingredients": [
+    "1 large eggplant (sliced into 8 (1/2 inch) sliced)",
+    "salt (As needed)",
+    "1/4 cup pork rinds (Crushed)",
+    "1/2 cup grated parmesan cheese",
+    "1/2 tablespoon italian seasoning",
+    "1 large egg",
+    "4 tablespoon butter (melted)",
+    "1 cup low-carb tomato sauce",
+    "1/2 cup mozzarella cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat the oven to 400F. Place the eggplant rounds on a baking sheet lined with a paper towel and sprinkle both sides with salt. Let sit for at least 30 minutes to allow the moisture to release.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-02.jpg"
+    },
+    {
+      "text": "Combine the ground pork rinds, parmesan cheese, and Italian seasoning in a shallow dish. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-01.jpg"
+    },
+    {
+      "text": "Beat the egg in a separate shallow dish. Set up a breading station with the pork rind mix and egg.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-03.jpg"
+    },
+    {
+      "text": "Melt the butter and pour into the bottom of a 9x13 inch baking dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-04.jpg"
+    },
+    {
+      "text": "Pat the eggplant dry, while wiping away the excess salt. Dip each slice in the beaten egg, then in the pork rind/cheese mixture, coating each side with crumbs. Place into the buttered baking dish and bake for 20 minutes. Flip the eggplant over and bake an additional 20 minutes or until golden brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-05.jpg"
+    },
+    {
+      "text": "Top the eggplant with low-carb tomato sauce and the shredded mozzarella. Return to the oven for an additional 5 minutes or until the cheese has melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/23705de7f58356e4a9537163.jpg",
+      "archived": true,
+      "originalPath": "images/23705de7f58356e4a9537163.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-featured.jpg",
+      "path": "images/56a32821510eac9fbc072a7d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-02.jpg",
+      "path": "../../nenaudojama/dinner/images/5a4c142bc158652fa5518491.avif",
+      "archived": true,
+      "originalPath": "images/5a4c142bc158652fa5518491.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-01.jpg",
+      "path": "../../nenaudojama/dinner/images/66bfc9a28596f3d699f80cb6.avif",
+      "archived": true,
+      "originalPath": "images/66bfc9a28596f3d699f80cb6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-03.jpg",
+      "path": "../../nenaudojama/dinner/images/16b385326727e8aa1ef6586e.avif",
+      "archived": true,
+      "originalPath": "images/16b385326727e8aa1ef6586e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-04.jpg",
+      "path": "../../nenaudojama/dinner/images/07b70e79bdc3e8177aec25e1.avif",
+      "archived": true,
+      "originalPath": "images/07b70e79bdc3e8177aec25e1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-05.jpg",
+      "path": "../../nenaudojama/dinner/images/2bee97cc1421845f67a9af17.avif",
+      "archived": true,
+      "originalPath": "images/2bee97cc1421845f67a9af17.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-second.jpg",
+      "path": "../../nenaudojama/dinner/images/c730f14289f92e961aeb6e3b.avif",
+      "archived": true,
+      "originalPath": "images/c730f14289f92e961aeb6e3b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/4856c1a552a6363cf187b048.jpg",
+      "archived": true,
+      "originalPath": "images/4856c1a552a6363cf187b048.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d5f2dda86ad9713f394286f8.avif",
+      "archived": true,
+      "originalPath": "images/d5f2dda86ad9713f394286f8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a116f85e09b33ff2f122880f.jpg",
+      "archived": true,
+      "originalPath": "images/a116f85e09b33ff2f122880f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7e3fdacaf8aa4fb2cfab7680.avif",
+      "archived": true,
+      "originalPath": "images/7e3fdacaf8aa4fb2cfab7680.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/07eacff03bbf9361aee2f4b5.jpg",
+      "archived": true,
+      "originalPath": "images/07eacff03bbf9361aee2f4b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/186cbfa57146ebd60877f2a1.jpg",
+      "archived": true,
+      "originalPath": "images/186cbfa57146ebd60877f2a1.jpg"
+    }
+  ],
+  "featuredImage": "images/56a32821510eac9fbc072a7d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Baked Eggplant Parmesan",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Baked Eggplant Parmesan. Each serving comes out to be 285 calories, 20.6g fats, 8.6g net carbs, and 13.2g protein.",
+    "datePublished": "2018-08-23T11:00:03+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "1 large eggplant (sliced into 8 (1/2 inch) sliced)",
+      "salt (As needed)",
+      "1/4 cup pork rinds (Crushed)",
+      "1/2 cup grated parmesan cheese",
+      "1/2 tablespoon italian seasoning",
+      "1 large egg",
+      "4 tablespoon butter (melted)",
+      "1 cup low-carb tomato sauce",
+      "1/2 cup mozzarella cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400F. Place the eggplant rounds on a baking sheet lined with a paper towel and sprinkle both sides with salt.  Let sit for at least 30 minutes to allow the moisture to release.",
+        "name": "Preheat the oven to 400F. Place the eggplant rounds on a baking sheet lined with a paper towel and sprinkle both sides with salt.  Let sit for at least 30 minutes to allow the moisture to release.",
+        "url": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the ground pork rinds, parmesan cheese, and Italian seasoning in a shallow dish. Set aside.",
+        "name": "Combine the ground pork rinds, parmesan cheese, and Italian seasoning in a shallow dish. Set aside.",
+        "url": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg in a separate shallow dish. Set up a breading station with the pork rind mix and egg.",
+        "name": "Beat the egg in a separate shallow dish. Set up a breading station with the pork rind mix and egg.",
+        "url": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter and pour into the bottom of a 9x13 inch baking dish.",
+        "name": "Melt the butter and pour into the bottom of a 9x13 inch baking dish.",
+        "url": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pat the eggplant dry, while wiping away the excess salt. Dip each slice in the beaten egg, then in the pork rind/cheese mixture, coating each side with crumbs. Place into the buttered baking dish and bake for 20 minutes. Flip the eggplant over and bake an additional 20 minutes or until golden brown.",
+        "name": "Pat the eggplant dry, while wiping away the excess salt. Dip each slice in the beaten egg, then in the pork rind/cheese mixture, coating each side with crumbs. Place into the buttered baking dish and bake for 20 minutes. Flip the eggplant over and bake an additional 20 minutes or until golden brown.",
+        "url": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the eggplant with low-carb tomato sauce and the shredded mozzarella. Return to the oven for an additional 5 minutes or until the cheese has melted.",
+        "name": "Top the eggplant with low-carb tomato sauce and the shredded mozzarella. Return to the oven for an additional 5 minutes or until the cheese has melted.",
+        "url": "https://www.ruled.me/baked-eggplant-parmesan/#wprm-recipe-52694-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "comfort-food, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "285 kcal",
+      "fatContent": "20.6 g",
+      "proteinContent": "13.2 g",
+      "carbohydrateContent": "8.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/baked-eggplant-parmesan/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/baked-eggplant-parmesan/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/baked-eggplant-parmesan/"
+  },
+  "sourceIndex": {
+    "id": 37868,
+    "rid": 52694,
+    "t": "Baked Eggplant Parmesan",
+    "u": "/baked-eggplant-parmesan/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/08/baked-eggplant-parmesan-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 8.6,
+    "cal": 285,
+    "pr": 13.2,
+    "fa": 20.6,
+    "tm": 55,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked"
+    ],
+    "d": "2018-08-23",
+    "cm": 8,
+    "ex": "Eggplant is a surprisingly hearty vegetable that can make a great substitute for meat or noodles. This recipe for baked eggplant Parmesan is gooey, cheesy, comfort food at its best. The eggplant gets",
+    "pv": 329
+  },
+  "sourceHtml": "pages/baked-eggplant-parmesan.html",
+  "scrapedAt": "2026-11-07T08:27:44.544Z"
+}

@@ -1,0 +1,405 @@
+{
+  "id": "ruled-29093",
+  "slug": "keto-pound-cake",
+  "title": "Keto Pound Cake",
+  "url": "https://www.ruled.me/keto-pound-cake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Keto Pound Cake. Each serving comes out to be 252 calories, 22.7g fats, 2.6g net carbs, and 7.8g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT100M",
+  "totalTime": "PT120M",
+  "totalMinutes": 120,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "252 kcal",
+    "fatContent": "22.7 g",
+    "proteinContent": "7.8 g",
+    "carbohydrateContent": "2.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 252,
+    "netCarbsGrams": 2.6,
+    "proteinGrams": 7.8,
+    "fatGrams": 22.7
+  },
+  "ingredients": [
+    "1/2 cup butter (room temperature)",
+    "1 1/2 cup erythritol",
+    "8 ounce cream cheese (softened)",
+    "8 large egg (room temperature)",
+    "1/2 teaspoon lemon extract",
+    "1 1/2 teaspoon vanilla extract",
+    "2 1/2 cup almond flour",
+    "1 1/2 teaspoon baking powder",
+    "1/2 teaspoon salt",
+    "1/4 cup erythritol (powdered)",
+    "3 tablespoon heavy whipping cream",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Add the room-temperature butter and erythritol to a mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-1.jpg"
+    },
+    {
+      "text": "Cream together the butter and erythritol until smooth. Then, add in the softened chunks of cream cheese and beat until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-2.jpg"
+    },
+    {
+      "text": "Add the eggs, lemon extract, and vanilla extract in with the blended ingredients. Blend with a hand mixer until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-3.jpg"
+    },
+    {
+      "text": "In a medium-sized bowl, mix together the almond flour, baking powder, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-4.jpg"
+    },
+    {
+      "text": "Slowly add the blended dry ingredients to the batter. Use a hand blender to mix until very smooth with no clumps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-5.jpg"
+    },
+    {
+      "text": "Pour the batter into a non-stick loaf pan. Bake for 60–120 minutes or until a toothpick comes out clean.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-6.jpg"
+    },
+    {
+      "text": "Blend together the powdered erythritol, heavy whipping cream, and vanilla extract until smooth. Wait until the pound cake is fully cooled before spreading the glaze on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-620x900.jpg"
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-900x600-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/f2a688fa1629cbb717c8cce8.avif",
+      "archived": true,
+      "originalPath": "images/f2a688fa1629cbb717c8cce8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-900x600.jpg",
+      "path": "images/934ff7340d163e6a043e520e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-1.jpg",
+      "path": "../../nenaudojama/dessert/images/472c66d83af89e6727158557.avif",
+      "archived": true,
+      "originalPath": "images/472c66d83af89e6727158557.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-2.jpg",
+      "path": "../../nenaudojama/dessert/images/52ae6e504d8330777e43dd2c.avif",
+      "archived": true,
+      "originalPath": "images/52ae6e504d8330777e43dd2c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-3.jpg",
+      "path": "../../nenaudojama/dessert/images/d7d982bcc42048b3a9a6e2c2.avif",
+      "archived": true,
+      "originalPath": "images/d7d982bcc42048b3a9a6e2c2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-4.jpg",
+      "path": "../../nenaudojama/dessert/images/87a9004b6d747f3166fbadda.avif",
+      "archived": true,
+      "originalPath": "images/87a9004b6d747f3166fbadda.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-5.jpg",
+      "path": "../../nenaudojama/dessert/images/778aede924b79c11c232bc7f.avif",
+      "archived": true,
+      "originalPath": "images/778aede924b79c11c232bc7f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-6.jpg",
+      "path": "../../nenaudojama/dessert/images/8bdbdb8644b0f76f0f4170fd.avif",
+      "archived": true,
+      "originalPath": "images/8bdbdb8644b0f76f0f4170fd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-620x900.jpg",
+      "path": "../../nenaudojama/dessert/images/970ed0041de6a21f58ed36d0.avif",
+      "archived": true,
+      "originalPath": "images/970ed0041de6a21f58ed36d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-900x450.jpg",
+      "path": "../../nenaudojama/dessert/images/9f504d3e426864466481f03d.avif",
+      "archived": true,
+      "originalPath": "images/9f504d3e426864466481f03d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6c77a57217ab84d4a9d37552.jpg",
+      "archived": true,
+      "originalPath": "images/6c77a57217ab84d4a9d37552.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1c823c620b85eeba33bc7b96.avif",
+      "archived": true,
+      "originalPath": "images/1c823c620b85eeba33bc7b96.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5dad3f113d1e9104a82983c4.jpg",
+      "archived": true,
+      "originalPath": "images/5dad3f113d1e9104a82983c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7566f1e31265f5e9497d0534.jpg",
+      "archived": true,
+      "originalPath": "images/7566f1e31265f5e9497d0534.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5b5a13edb2481db1616a1059.jpg",
+      "archived": true,
+      "originalPath": "images/5b5a13edb2481db1616a1059.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-6-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d2ce8fb50b72d7a34ff48410.jpg",
+      "archived": true,
+      "originalPath": "images/d2ce8fb50b72d7a34ff48410.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-620x900-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2795fa58ca2a5edfd69ff353.avif",
+      "archived": true,
+      "originalPath": "images/2795fa58ca2a5edfd69ff353.avif"
+    }
+  ],
+  "featuredImage": "images/934ff7340d163e6a043e520e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pound Cake",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 16 servings of Keto Pound Cake. Each serving comes out to be 252 calories, 22.7g fats, 2.6g net carbs, and 7.8g protein.",
+    "datePublished": "2017-01-24T12:00:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-900x600.jpg"
+    ],
+    "video": {
+      "name": "Keto Pound Cake Recipe [with Icing Glaze]",
+      "description": "This basic keto pound cake has the perfect blend of flavors. It’s just enough lemon and vanilla to add a nice layer of added flavor to this standard cake.\n\nDon’t care for lemon extract? Just replace the lemon extract with more vanilla extract, or use another extract. The beauty of this recipe is that it is easily adaptable and you can change the flavors to suit your own tastes. Sometimes I’ll use only vanilla extract in place of lemon, or use butter extract with the vanilla extract. When I’m really in the mood I’ll toss in some berries before baking.\n\nThe texture of this pound cake is very dense and rich. I don’t doubt that you’d be able to easily fool someone who is not following a keto diet plan. It tastes just like a flour-based pound cake. It’s sweet enough without being overly sweet. If you want to add some more sweetness to the loaf, I’d suggest a very small amount of stevia instead of adding more erythritol.\n\nThis pound cake freezes well whole or in individual slices. Personally, I find it easier to slice the bread before freezing. That way, whenever I’m in the mood for a last-minute dessert I can just take this out of the freezer. I like to let it thaw out on the counter for a couple hours. There is no need to put it in the microwave.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nPound cake\n2 ½ cups almond flour\n½ cup unsalted butter, softened\n1 ½ cups erythritol\n8 whole eggs, room temperature\n1 ½ teaspoons vanilla extract\n½ teaspoon lemon extract\n½ teaspoon salt\n8 ounces cream cheese\n1 ½ teaspoons baking powder\n\nGlaze\n¼ cup powdered erythritol\n3 tablespoons heavy whipping cream\n½ teaspoon vanilla extract\n\nNutrition Summary: This makes a total of 16 servings of pound cake. Each slice comes out to be 254.19 Calories, 23.4g Fats, 2.49g Net Carbs, and 7.9g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-09-30T14:00:15+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M28S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 19205
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 697
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 39
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h3oLM9IT0TM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/h3oLM9IT0TM?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=h3oLM9IT0TM",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT100M",
+    "totalTime": "PT120M",
+    "recipeIngredient": [
+      "1/2 cup butter (room temperature)",
+      "1 1/2 cup erythritol",
+      "8 ounce cream cheese (softened)",
+      "8 large egg (room temperature)",
+      "1/2 teaspoon lemon extract",
+      "1 1/2 teaspoon vanilla extract",
+      "2 1/2 cup almond flour",
+      "1 1/2 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "1/4 cup erythritol (powdered)",
+      "3 tablespoon heavy whipping cream",
+      "1/2 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Add the room-temperature butter and erythritol to a mixing bowl.",
+        "name": "Preheat oven to 350F. Add the room-temperature butter and erythritol to a mixing bowl.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cream together the butter and erythritol until smooth. Then, add in the softened chunks of cream cheese and beat until smooth.",
+        "name": "Cream together the butter and erythritol until smooth. Then, add in the softened chunks of cream cheese and beat until smooth.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs, lemon extract, and vanilla extract in with the blended ingredients. Blend with a hand mixer until smooth.",
+        "name": "Add the eggs, lemon extract, and vanilla extract in with the blended ingredients. Blend with a hand mixer until smooth.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium-sized bowl, mix together the almond flour, baking powder, and salt.",
+        "name": "In a medium-sized bowl, mix together the almond flour, baking powder, and salt.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add the blended dry ingredients to the batter. Use a hand blender to mix until very smooth with no clumps.",
+        "name": "Slowly add the blended dry ingredients to the batter. Use a hand blender to mix until very smooth with no clumps.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into a non-stick loaf pan. Bake for 60–120 minutes or until a toothpick comes out clean.",
+        "name": "Pour the batter into a non-stick loaf pan. Bake for 60–120 minutes or until a toothpick comes out clean.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-Step-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend together the powdered erythritol, heavy whipping cream, and vanilla extract until smooth. Wait until the pound cake is fully cooled before spreading the glaze on top.",
+        "name": "Blend together the powdered erythritol, heavy whipping cream, and vanilla extract until smooth. Wait until the pound cake is fully cooled before spreading the glaze on top.",
+        "url": "https://www.ruled.me/keto-pound-cake/#wprm-recipe-52047-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-620x900.jpg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Ok so as I was reading the comments of others I noticed that they said the cake overflowed in their pan so I decided to take some out and put it in a little bread pan I had in reserve thank god I did because it would’ve made a mess in my oven but it came out very good the frosting is a little sweet but I really like the taste of this pound cake and I’m sure I will be making it again !!!",
+        "author": {
+          "@type": "Person",
+          "name": "Kathy figueroa"
+        },
+        "datePublished": "2024-06-30"
+      }
+    ],
+    "recipeCategory": [
+      "Cakes",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "252 kcal",
+      "fatContent": "22.7 g",
+      "proteinContent": "7.8 g",
+      "carbohydrateContent": "2.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pound-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pound-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pound-cake/"
+  },
+  "sourceIndex": {
+    "id": 29093,
+    "rid": 52047,
+    "t": "Keto Pound Cake",
+    "u": "/keto-pound-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/01/Poundcake-900x600-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.6,
+    "cal": 252,
+    "pr": 7.8,
+    "fa": 22.7,
+    "tm": 120,
+    "sv": 16,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2017-01-24",
+    "cm": 178,
+    "ex": "This basic keto pound cake has the perfect blend flavors. It’s just enough lemon and vanilla to add a nice layer of added flavor to this standard cake. Don’t care for lemon extract? Just replace the",
+    "pv": 6373
+  },
+  "sourceHtml": "pages/keto-pound-cake.html",
+  "scrapedAt": "2026-11-07T08:30:47.332Z"
+}

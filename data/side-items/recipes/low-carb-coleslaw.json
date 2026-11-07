@@ -1,0 +1,334 @@
+{
+  "id": "ruled-43687",
+  "slug": "low-carb-coleslaw",
+  "title": "Low Carb Coleslaw",
+  "url": "https://www.ruled.me/low-carb-coleslaw/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Low Carb Coleslaw. Each serving comes out to be 227 calories, 20.9g fats, 4.9g net carbs, and 1.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "227 kcal",
+    "fatContent": "20.9 g",
+    "proteinContent": "1.8 g",
+    "carbohydrateContent": "4.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 227,
+    "netCarbsGrams": 4.9,
+    "proteinGrams": 1.8,
+    "fatGrams": 20.9
+  },
+  "ingredients": [
+    "8 ounce coleslaw mix (shredded)",
+    "1/4 cup mayonnaise",
+    "1 tablespoon apple cider vinegar",
+    "1 tablespoon lemon juice",
+    "10 drop liquid stevia",
+    "1 teaspoon celery seed",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. If you have a coleslaw mix with a lot of carrots, you can pick some of the carrots out of it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-1.jpg"
+    },
+    {
+      "text": "In a small bowl, add the mayonnaise, vinegar, lemon juice, stevia, celery seed, and salt and pepper. I recommend using more black pepper than you might usually use.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-6.jpg"
+    },
+    {
+      "text": "Mix together the ingredients until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-7.jpg"
+    },
+    {
+      "text": "In a larger bowl, add the coleslaw mix. Then, pour the mayonnaise mixture over the coleslaw.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-9.jpg"
+    },
+    {
+      "text": "Toss the coleslaw and mayonnaise mixture together well. If possible, cover and refrigerate for at least 2-3 hours to let the flavors develop. Overnight is best if you have the extra time to prep.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-11.jpg"
+    },
+    {
+      "text": "Stir again before serving to help re-distribute the sauce. Serve cold.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/9763f5b1754a4a2b52a8c7e0.jpg",
+      "archived": true,
+      "originalPath": "images/9763f5b1754a4a2b52a8c7e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Featured.jpg",
+      "path": "../../nenaudojama/side-items/images/208346762d0ef24f1996973b.avif",
+      "archived": true,
+      "originalPath": "images/208346762d0ef24f1996973b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-1.jpg",
+      "path": "../../nenaudojama/side-items/images/02c451a30cacc170e953bfc5.jpg",
+      "archived": true,
+      "originalPath": "images/02c451a30cacc170e953bfc5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-6.jpg",
+      "path": "../../nenaudojama/side-items/images/779c532de836678cacfbde5c.jpg",
+      "archived": true,
+      "originalPath": "images/779c532de836678cacfbde5c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-7.jpg",
+      "path": "../../nenaudojama/side-items/images/d6e654708a23f11fea920f9c.jpg",
+      "archived": true,
+      "originalPath": "images/d6e654708a23f11fea920f9c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-9.jpg",
+      "path": "../../nenaudojama/side-items/images/a08e12d5dbb11769f5e12b4a.jpg",
+      "archived": true,
+      "originalPath": "images/a08e12d5dbb11769f5e12b4a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-11.jpg",
+      "path": "../../nenaudojama/side-items/images/75b381663cb17b3be5e87c84.jpg",
+      "archived": true,
+      "originalPath": "images/75b381663cb17b3be5e87c84.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Second.jpg",
+      "path": "../../nenaudojama/side-items/images/7f98d48baa29b7bfe61dc1b9.avif",
+      "archived": true,
+      "originalPath": "images/7f98d48baa29b7bfe61dc1b9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Long.jpg",
+      "path": "../../nenaudojama/side-items/images/a5a3d367f3353d967d4adf6b.jpg",
+      "archived": true,
+      "originalPath": "images/a5a3d367f3353d967d4adf6b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/1d41669373927205136d49cb.avif",
+      "archived": true,
+      "originalPath": "images/1d41669373927205136d49cb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/1b1aa2358a4c29be59c301fa.avif",
+      "archived": true,
+      "originalPath": "images/1b1aa2358a4c29be59c301fa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-6-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/605546c82e59f719a82f16f0.avif",
+      "archived": true,
+      "originalPath": "images/605546c82e59f719a82f16f0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-7-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/60a6454660fa32141ca1090a.avif",
+      "archived": true,
+      "originalPath": "images/60a6454660fa32141ca1090a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-9-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c52bf01cd8a17e3ca7b1d27d.avif",
+      "archived": true,
+      "originalPath": "images/c52bf01cd8a17e3ca7b1d27d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-11-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/84de9fac66d9e3eb330af015.jpg",
+      "archived": true,
+      "originalPath": "images/84de9fac66d9e3eb330af015.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/208346762d0ef24f1996973b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Coleslaw",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Low Carb Coleslaw. Each serving comes out to be 227 calories, 20.9g fats, 4.9g net carbs, and 1.8g protein.",
+    "datePublished": "2020-08-20T08:38:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "8 ounce coleslaw mix (shredded)",
+      "1/4 cup mayonnaise",
+      "1 tablespoon apple cider vinegar",
+      "1 tablespoon lemon juice",
+      "10 drop liquid stevia",
+      "1 teaspoon celery seed",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. If you have a coleslaw mix with a lot of carrots, you can pick some of the carrots out of it.",
+        "name": "Gather and prep all ingredients. If you have a coleslaw mix with a lot of carrots, you can pick some of the carrots out of it.",
+        "url": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, add the mayonnaise, vinegar, lemon juice, stevia, celery seed, and salt and pepper. I recommend using more black pepper than you might usually use.",
+        "name": "In a small bowl, add the mayonnaise, vinegar, lemon juice, stevia, celery seed, and salt and pepper. I recommend using more black pepper than you might usually use.",
+        "url": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the ingredients until combined well.",
+        "name": "Mix together the ingredients until combined well.",
+        "url": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a larger bowl, add the coleslaw mix. Then, pour the mayonnaise mixture over the coleslaw.",
+        "name": "In a larger bowl, add the coleslaw mix. Then, pour the mayonnaise mixture over the coleslaw.",
+        "url": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the coleslaw and mayonnaise mixture together well. If possible, cover and refrigerate for at least 2-3 hours to let the flavors develop. Overnight is best if you have the extra time to prep.",
+        "name": "Toss the coleslaw and mayonnaise mixture together well. If possible, cover and refrigerate for at least 2-3 hours to let the flavors develop. Overnight is best if you have the extra time to prep.",
+        "url": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Paleo-low-carb-coleslaw-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir again before serving to help re-distribute the sauce. Serve cold.",
+        "name": "Stir again before serving to help re-distribute the sauce. Serve cold.",
+        "url": "https://www.ruled.me/low-carb-coleslaw/#wprm-recipe-53465-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "227 kcal",
+      "fatContent": "20.9 g",
+      "proteinContent": "1.8 g",
+      "carbohydrateContent": "4.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/low-carb-coleslaw/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-coleslaw/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-coleslaw/"
+  },
+  "sourceIndex": {
+    "id": 43687,
+    "rid": 53465,
+    "t": "Low Carb Coleslaw",
+    "u": "/low-carb-coleslaw/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/08/Low-Carb-Coleslaw-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.9,
+    "cal": 227,
+    "pr": 1.8,
+    "fa": 20.9,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2020-08-20",
+    "cm": 0,
+    "ex": "Does anyone else struggle to find coleslaw that is just right? Either it’s too creamy, too acidic, too sweet, or too old. Plus, if you are on keto, it’s almost always too high in carbs. For a quick",
+    "pv": 322
+  },
+  "sourceHtml": "pages/low-carb-coleslaw.html",
+  "scrapedAt": "2026-11-07T08:32:05.905Z"
+}

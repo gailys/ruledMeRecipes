@@ -1,0 +1,329 @@
+{
+  "id": "ruled-40368",
+  "slug": "keto-bacon-cheeseburger-kebabs",
+  "title": "Keto Bacon Cheeseburger Kebabs",
+  "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Keto Bacon Cheeseburger Kebabs. Each serving comes out to be 296 calories, 25.2g fats, 2.6g net carbs, and 13.5g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296 kcal",
+    "fatContent": "25.2 g",
+    "proteinContent": "13.5 g",
+    "carbohydrateContent": "2.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 296,
+    "netCarbsGrams": 2.6,
+    "proteinGrams": 13.5,
+    "fatGrams": 25.2
+  },
+  "ingredients": [
+    "16 ounce ground beef",
+    "1 tablespoon worcestershire sauce",
+    "1/2 teaspoon salt",
+    "1 teaspoon black pepper",
+    "1 teaspoon garlic powder",
+    "1 teaspoon onion (dried minced)",
+    "6 slice bacon",
+    "5 slice cheddar cheese (quartered)",
+    "1/2 medium iceberg lettuce",
+    "10 whole cherry tomatoes",
+    "20 slice dill pickle",
+    "1/2 cup mayonnaise",
+    "2 tablespoon low-carb ketchup",
+    "1 tablespoon yellow mustard",
+    "2 tablespoon onion (minced)",
+    "2 tablespoon dill pickle (minced)",
+    "pickle juice (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat the grill to 375’F. Make sure that you can do both direct and indirect cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-01.jpg"
+    },
+    {
+      "text": "Mix the ground beef, Worcestershire sauce, salt, pepper, garlic powder, and minced onion. Use a scoop for form even balls. Roll them then flatten each ball into a somewhat flattened burger patty shape.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-02.jpg"
+    },
+    {
+      "text": "Use a cast iron skillet. Place it over the indirect heat then cook the bacon. Do not make it too crisp, or you won’t be able to skewer it. Set the bacon aside then remove the grease.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-03.jpg"
+    },
+    {
+      "text": "lace the skillet back over indirect heat then add the burger patties. Cook through, turning halfway. Place the skillet over direct heat then sear both sides. After flipping to the second side add a slice of cheese and melt over each. Set the burgers aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-04.jpg"
+    },
+    {
+      "text": "Use large skewers to stack the burger patties, bacon, lettuce, tomatoes, and pickle slices. You should end up with two patties per skewer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-05.jpg"
+    },
+    {
+      "text": "Mix the mayonnaise, ketchup, mustard, minced onion, minced pickle, and pickle juice. Serve along with the kebabs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "family-friendly",
+    "game-day",
+    "grilled",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "party-food",
+    "red-meat",
+    "summer"
+  ],
+  "filters": [
+    "nut-free",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/232010935388b60a2d553be2.avif",
+      "archived": true,
+      "originalPath": "images/232010935388b60a2d553be2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-featured.jpg",
+      "path": "images/caebde25128db4cfd409099e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-01.jpg",
+      "path": "../../nenaudojama/lunch/images/034bce485d862f64c73f6586.avif",
+      "archived": true,
+      "originalPath": "images/034bce485d862f64c73f6586.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-02.jpg",
+      "path": "../../nenaudojama/lunch/images/273aec5086f2302bd3723c1d.jpg",
+      "archived": true,
+      "originalPath": "images/273aec5086f2302bd3723c1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-03.jpg",
+      "path": "../../nenaudojama/lunch/images/c9fa0e18ae63fd7e0b387a68.jpg",
+      "archived": true,
+      "originalPath": "images/c9fa0e18ae63fd7e0b387a68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-04.jpg",
+      "path": "../../nenaudojama/lunch/images/de63b90429dc2f0c85c7fbbb.jpg",
+      "archived": true,
+      "originalPath": "images/de63b90429dc2f0c85c7fbbb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-05.jpg",
+      "path": "../../nenaudojama/lunch/images/9893b1d25435831f021dc6a8.jpg",
+      "archived": true,
+      "originalPath": "images/9893b1d25435831f021dc6a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-second.jpg",
+      "path": "../../nenaudojama/lunch/images/ad3f81535f35bbf975da2a0d.jpg",
+      "archived": true,
+      "originalPath": "images/ad3f81535f35bbf975da2a0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/67372e2af4104ac57f42873d.jpg",
+      "archived": true,
+      "originalPath": "images/67372e2af4104ac57f42873d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3916ade427652b0717fdd6a4.jpg",
+      "archived": true,
+      "originalPath": "images/3916ade427652b0717fdd6a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/536dd63d2c6c43b884ed72f1.jpg",
+      "archived": true,
+      "originalPath": "images/536dd63d2c6c43b884ed72f1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/24ad69d84b6340050e53dd32.jpg",
+      "archived": true,
+      "originalPath": "images/24ad69d84b6340050e53dd32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7da01eda692c76d7b59ec34f.jpg",
+      "archived": true,
+      "originalPath": "images/7da01eda692c76d7b59ec34f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2debb74b0b0904af8a35f426.jpg",
+      "archived": true,
+      "originalPath": "images/2debb74b0b0904af8a35f426.jpg"
+    }
+  ],
+  "featuredImage": "images/caebde25128db4cfd409099e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Bacon Cheeseburger Kebabs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 10 servings of Keto Bacon Cheeseburger Kebabs. Each serving comes out to be 296 calories, 25.2g fats, 2.6g net carbs, and 13.5g protein.",
+    "datePublished": "2019-05-30T11:00:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-featured.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "16 ounce ground beef",
+      "1 tablespoon worcestershire sauce",
+      "1/2 teaspoon salt",
+      "1 teaspoon black pepper",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion (dried minced)",
+      "6 slice bacon",
+      "5 slice cheddar cheese (quartered)",
+      "1/2 medium iceberg lettuce",
+      "10 whole cherry tomatoes",
+      "20 slice dill pickle",
+      "1/2 cup mayonnaise",
+      "2 tablespoon low-carb ketchup",
+      "1 tablespoon yellow mustard",
+      "2 tablespoon onion (minced)",
+      "2 tablespoon dill pickle (minced)",
+      "pickle juice (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the grill to 375’F. Make sure that you can do both direct and indirect cooking.",
+        "name": "Preheat the grill to 375’F. Make sure that you can do both direct and indirect cooking.",
+        "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the ground beef, Worcestershire sauce, salt, pepper, garlic powder, and minced onion. Use a scoop for form even balls. Roll them then flatten each ball into a somewhat flattened burger patty shape.",
+        "name": "Mix the ground beef, Worcestershire sauce, salt, pepper, garlic powder, and minced onion. Use a scoop for form even balls. Roll them then flatten each ball into a somewhat flattened burger patty shape.",
+        "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a cast iron skillet. Place it over the indirect heat then cook the bacon. Do not make it too crisp, or you won’t be able to skewer it. Set the bacon aside then remove the grease.",
+        "name": "Use a cast iron skillet. Place it over the indirect heat then cook the bacon. Do not make it too crisp, or you won’t be able to skewer it. Set the bacon aside then remove the grease.",
+        "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "lace the skillet back over indirect heat then add the burger patties. Cook through, turning halfway. Place the skillet over direct heat then sear both sides. After flipping to the second side add a slice of cheese and melt over each. Set the burgers aside.",
+        "name": "lace the skillet back over indirect heat then add the burger patties. Cook through, turning halfway. Place the skillet over direct heat then sear both sides. After flipping to the second side add a slice of cheese and melt over each. Set the burgers aside.",
+        "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use large skewers to stack the burger patties, bacon, lettuce, tomatoes, and pickle slices. You should end up with two patties per skewer.",
+        "name": "Use large skewers to stack the burger patties, bacon, lettuce, tomatoes, and pickle slices. You should end up with two patties per skewer.",
+        "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the mayonnaise, ketchup, mustard, minced onion, minced pickle, and pickle juice. Serve along with the kebabs.",
+        "name": "Mix the mayonnaise, ketchup, mustard, minced onion, minced pickle, and pickle juice. Serve along with the kebabs.",
+        "url": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#wprm-recipe-53048-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "family-friendly, game-day, grilled, keto, low-carb, nut-free, party-food, red meat, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "296 kcal",
+      "fatContent": "25.2 g",
+      "proteinContent": "13.5 g",
+      "carbohydrateContent": "2.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-bacon-cheeseburger-kebabs/"
+  },
+  "sourceIndex": {
+    "id": 40368,
+    "rid": 53048,
+    "t": "Keto Bacon Cheeseburger Kebabs",
+    "u": "/keto-bacon-cheeseburger-kebabs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/05/bacon-cheeseburger-kebabs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 2.6,
+    "cal": 296,
+    "pr": 13.5,
+    "fa": 25.2,
+    "tm": 40,
+    "sv": 10,
+    "kw": [
+      "family-friendly",
+      "game-day",
+      "grilled",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "party-food",
+      "red-meat",
+      "summer"
+    ],
+    "ni": 17,
+    "fk": [
+      "nut-free",
+      "red-meat"
+    ],
+    "d": "2019-05-30",
+    "cm": 0,
+    "ex": "This recipe takes cheeseburgers to a whole new level. No bun substitute required! Instead, we’re grilling mini cheeseburger patties, bacon, and skewering those with other classic burger toppings",
+    "pv": 134
+  },
+  "sourceHtml": "pages/keto-bacon-cheeseburger-kebabs.html",
+  "scrapedAt": "2026-11-07T08:16:24.012Z"
+}

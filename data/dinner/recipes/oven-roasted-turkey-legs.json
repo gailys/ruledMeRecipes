@@ -1,0 +1,325 @@
+{
+  "id": "ruled-24990",
+  "slug": "oven-roasted-turkey-legs",
+  "title": "Oven-Roasted Turkey Legs",
+  "url": "https://www.ruled.me/oven-roasted-turkey-legs/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Oven-Roasted Turkey Legs. Each serving comes out to be 472 calories, 25.5g fats, 1g net carbs, and 55.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT60M",
+  "totalTime": "PT70M",
+  "totalMinutes": 70,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "472 kcal",
+    "fatContent": "25.5 g",
+    "proteinContent": "55.6 g",
+    "carbohydrateContent": "1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 472,
+    "netCarbsGrams": 1,
+    "proteinGrams": 55.6,
+    "fatGrams": 25.5
+  },
+  "ingredients": [
+    "2 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "1/4 teaspoon cayenne pepper",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon dried thyme",
+    "1/2 teaspoon ancho chile powder",
+    "1 teaspoon liquid smoke",
+    "1 teaspoon worcestershire sauce",
+    "40 ounce bone-in skin-on turkey legs",
+    "2 tablespoon lard (or oil with a high smoke point, such as peanut oil)"
+  ],
+  "instructions": [
+    {
+      "text": "Mix together all dry spices in a small bowl. Then, add wet ingredients and mix together into a rub.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9924.jpg"
+    },
+    {
+      "text": "Pat turkey legs completely dry with paper towels and season generously with the spice mix.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9940.jpg"
+    },
+    {
+      "text": "Preheat oven to 350F. Bring the lard (or oil) to a medium-high heat in a cast-iron skillet. Once the oil starts to smoke, add the turkey legs to the pan and sear on each side for 1–2 minutes — you want the entire leg to have a sear on it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9953.jpg"
+    },
+    {
+      "text": "Place in the oven for 50–60 minutes or until cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9957.jpg"
+    },
+    {
+      "text": "Remove the turkey from the oven and let rest for a few minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9962.jpg"
+    },
+    {
+      "text": "Serve with a favorite fatty side dish and enjoy the holiday meal!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "high-protein",
+    "holiday",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "stovetop"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/turkeyleg.jpg",
+      "path": "images/64708f0a42dda3d15d6ffc43.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9924.jpg",
+      "path": "../../nenaudojama/dinner/images/cb5248abf0e8d8bb08676e72.avif",
+      "archived": true,
+      "originalPath": "images/cb5248abf0e8d8bb08676e72.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9940.jpg",
+      "path": "../../nenaudojama/dinner/images/aa212bdd1a3434e5e8a2b7b1.avif",
+      "archived": true,
+      "originalPath": "images/aa212bdd1a3434e5e8a2b7b1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9953.jpg",
+      "path": "../../nenaudojama/dinner/images/f822691c1fa1d86e7ba59e33.jpg",
+      "archived": true,
+      "originalPath": "images/f822691c1fa1d86e7ba59e33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9957.jpg",
+      "path": "../../nenaudojama/dinner/images/e2e41e0bc028eb6244f0e677.avif",
+      "archived": true,
+      "originalPath": "images/e2e41e0bc028eb6244f0e677.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9962.jpg",
+      "path": "../../nenaudojama/dinner/images/8826faef36e3d8ed2fcd3caf.jpg",
+      "archived": true,
+      "originalPath": "images/8826faef36e3d8ed2fcd3caf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/turkeylegsecond.jpg",
+      "path": "../../nenaudojama/dinner/images/c75630f88da4973a7ad2a80d.jpg",
+      "archived": true,
+      "originalPath": "images/c75630f88da4973a7ad2a80d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/turkeyleglong.jpg",
+      "path": "../../nenaudojama/dinner/images/0f393c414bed798f801ffbd3.jpg",
+      "archived": true,
+      "originalPath": "images/0f393c414bed798f801ffbd3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9924-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a94d7015d2e3410ae988d2d0.avif",
+      "archived": true,
+      "originalPath": "images/a94d7015d2e3410ae988d2d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9940-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e5a1051f79a8a82b892c857d.avif",
+      "archived": true,
+      "originalPath": "images/e5a1051f79a8a82b892c857d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9953-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cb14fa51881e44c15aa36f73.jpg",
+      "archived": true,
+      "originalPath": "images/cb14fa51881e44c15aa36f73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9957-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5a4e8efb105c264d75313d9e.avif",
+      "archived": true,
+      "originalPath": "images/5a4e8efb105c264d75313d9e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9962-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c0b3dc3fba766ca50a448aa4.jpg",
+      "archived": true,
+      "originalPath": "images/c0b3dc3fba766ca50a448aa4.jpg"
+    }
+  ],
+  "featuredImage": "images/64708f0a42dda3d15d6ffc43.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Oven-Roasted Turkey Legs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Oven-Roasted Turkey Legs. Each serving comes out to be 472 calories, 25.5g fats, 1g net carbs, and 55.6g protein.",
+    "datePublished": "2014-11-26T15:12:58+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/11/turkeyleg.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT60M",
+    "totalTime": "PT70M",
+    "recipeIngredient": [
+      "2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/4 teaspoon cayenne pepper",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon dried thyme",
+      "1/2 teaspoon ancho chile powder",
+      "1 teaspoon liquid smoke",
+      "1 teaspoon worcestershire sauce",
+      "40 ounce bone-in skin-on turkey legs",
+      "2 tablespoon lard (or oil with a high smoke point, such as peanut oil)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix together all dry spices in a small bowl. Then, add wet ingredients and mix together into a rub.",
+        "name": "Mix together all dry spices in a small bowl. Then, add wet ingredients and mix together into a rub.",
+        "url": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9924.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pat turkey legs completely dry with paper towels and season generously with the spice mix.",
+        "name": "Pat turkey legs completely dry with paper towels and season generously with the spice mix.",
+        "url": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9940.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Bring the lard (or oil) to a medium-high heat in a cast-iron skillet. Once the oil starts to smoke, add the turkey legs to the pan and sear on each side for 1–2 minutes — you want the entire leg to have a sear on it.",
+        "name": "Preheat oven to 350F. Bring the lard (or oil) to a medium-high heat in a cast-iron skillet. Once the oil starts to smoke, add the turkey legs to the pan and sear on each side for 1–2 minutes — you want the entire leg to have a sear on it.",
+        "url": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9953.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the oven for 50–60 minutes or until cooked through.",
+        "name": "Place in the oven for 50–60 minutes or until cooked through.",
+        "url": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9957.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the turkey from the oven and let rest for a few minutes.",
+        "name": "Remove the turkey from the oven and let rest for a few minutes.",
+        "url": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9962.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a favorite fatty side dish and enjoy the holiday meal!",
+        "name": "Serve with a favorite fatty side dish and enjoy the holiday meal!",
+        "url": "https://www.ruled.me/oven-roasted-turkey-legs/#wprm-recipe-51495-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, egg-free, high-protein, holiday, keto, low-carb, nut-free, oven-baked, poultry, stovetop",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "472 kcal",
+      "fatContent": "25.5 g",
+      "proteinContent": "55.6 g",
+      "carbohydrateContent": "1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/oven-roasted-turkey-legs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/oven-roasted-turkey-legs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/oven-roasted-turkey-legs/"
+  },
+  "sourceIndex": {
+    "id": 24990,
+    "rid": 51495,
+    "t": "Oven Roasted Turkey Legs",
+    "u": "/oven-roasted-turkey-legs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/11/turkeyleg.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1,
+    "cal": 472,
+    "pr": 55.6,
+    "fa": 25.5,
+    "tm": 70,
+    "sv": 4,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "high-protein",
+      "holiday",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "stovetop"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-11-26",
+    "cm": 5,
+    "ex": "I know there's a few of you out there that can't travel home during the holidays for Thanksgiving. Whether it's from work, school, or just the fact that there's not much family close by to make you",
+    "pv": 294
+  },
+  "sourceHtml": "pages/oven-roasted-turkey-legs.html",
+  "scrapedAt": "2026-11-07T08:27:44.969Z"
+}

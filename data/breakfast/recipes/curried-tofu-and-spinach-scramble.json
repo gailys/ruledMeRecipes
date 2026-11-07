@@ -1,0 +1,301 @@
+{
+  "id": "ruled-59679",
+  "slug": "curried-tofu-and-spinach-scramble",
+  "title": "Curried Tofu and Spinach Scramble",
+  "url": "https://www.ruled.me/curried-tofu-and-spinach-scramble/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Curried Tofu and Spinach Scramble. Each serving comes out to be 345 calories, 23g fats, 10.2g net carbs, and 21.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "345 kcal",
+    "fatContent": "23 g",
+    "proteinContent": "21.5 g",
+    "carbohydrateContent": "10.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 345,
+    "netCarbsGrams": 10.2,
+    "proteinGrams": 21.5,
+    "fatGrams": 23
+  },
+  "ingredients": [
+    "2 tablespoon olive oil",
+    "1/2 medium onion (diced)",
+    "3 teaspoon fresh garlic (minced)",
+    "12 ounce extra firm tofu",
+    "1 teaspoon curry powder",
+    "1/2 teaspoon turmeric powder",
+    "1/2 teaspoon cumin",
+    "salt and pepper (to taste)",
+    "2 large fresh tomatoes (diced)",
+    "250 gram spinach"
+  ],
+  "instructions": [
+    {
+      "text": "Saute the garlic and onion in olive oil. Cook until the onion softens.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-01.jpg"
+    },
+    {
+      "text": "Stir in the crumbled tofu. Then add the curry powder, turmeric, cumin, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-02.jpg"
+    },
+    {
+      "text": "Add the diced tomatoes, then cook for a few minutes. Stir frequently, adding more oil if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-03.jpg"
+    },
+    {
+      "text": "Add the spinach, then cover the pan and let cook for a few more minutes or until the spinach is wilted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/4c50b5bef0efb2cd1af0b61a.jpg",
+      "archived": true,
+      "originalPath": "images/4c50b5bef0efb2cd1af0b61a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a.jpg",
+      "path": "images/4f68a8a2c04fec08d4cbecd5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/27e4159f686b46551a960f3d.jpg",
+      "archived": true,
+      "originalPath": "images/27e4159f686b46551a960f3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/7a88ec114bd278fc8100a126.jpg",
+      "archived": true,
+      "originalPath": "images/7a88ec114bd278fc8100a126.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/49c764e5ac4497e71911bba2.jpg",
+      "archived": true,
+      "originalPath": "images/49c764e5ac4497e71911bba2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/8780628a9ea6b71a70410150.jpg",
+      "archived": true,
+      "originalPath": "images/8780628a9ea6b71a70410150.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/cb3d9ffbd6ba1712bd6d8c4a.jpg",
+      "archived": true,
+      "originalPath": "images/cb3d9ffbd6ba1712bd6d8c4a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3fbb6dfac35deeec85d9c06f.jpg",
+      "archived": true,
+      "originalPath": "images/3fbb6dfac35deeec85d9c06f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/421ed0986cab5e3fb830401f.jpg",
+      "archived": true,
+      "originalPath": "images/421ed0986cab5e3fb830401f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f657eb8e77af6c961712409c.jpg",
+      "archived": true,
+      "originalPath": "images/f657eb8e77af6c961712409c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-04-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/649ce1b68367200309972880.jpg",
+      "archived": true,
+      "originalPath": "images/649ce1b68367200309972880.jpg"
+    }
+  ],
+  "featuredImage": "images/4f68a8a2c04fec08d4cbecd5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Curried Tofu and Spinach Scramble",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Curried Tofu and Spinach Scramble. Each serving comes out to be 345 calories, 23g fats, 10.2g net carbs, and 21.5g protein.",
+    "datePublished": "2026-04-02T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "2 tablespoon olive oil",
+      "1/2 medium onion (diced)",
+      "3 teaspoon fresh garlic (minced)",
+      "12 ounce extra firm tofu",
+      "1 teaspoon curry powder",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon cumin",
+      "salt and pepper (to taste)",
+      "2 large fresh tomatoes (diced)",
+      "250 gram spinach"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Saute the garlic and onion in olive oil.  Cook until the onion softens.",
+        "name": "Saute the garlic and onion in olive oil.  Cook until the onion softens.",
+        "url": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the crumbled tofu. Then add the curry powder, turmeric, cumin, salt, and pepper.",
+        "name": "Stir in the crumbled tofu. Then add the curry powder, turmeric, cumin, salt, and pepper.",
+        "url": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced tomatoes, then cook for a few minutes.  Stir frequently, adding more oil if needed.",
+        "name": "Add the diced tomatoes, then cook for a few minutes.  Stir frequently, adding more oil if needed.",
+        "url": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the spinach, then cover the pan and let cook for a few more minutes or until the spinach is wilted.",
+        "name": "Add the spinach, then cover the pan and let cook for a few more minutes or until the spinach is wilted.",
+        "url": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#wprm-recipe-59678-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/curried-tofu-and-spinach-scramble-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "Indian"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, one-pan, quick, simple-and-easy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "345 kcal",
+      "fatContent": "23 g",
+      "proteinContent": "21.5 g",
+      "carbohydrateContent": "10.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/curried-tofu-and-spinach-scramble/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/curried-tofu-and-spinach-scramble/"
+  },
+  "sourceIndex": {
+    "id": 59679,
+    "rid": 59678,
+    "t": "Curried Tofu and Spinach Scramble",
+    "u": "/curried-tofu-and-spinach-scramble/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/feee19b8d586df5be577bb8f0493895a-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 10.2,
+    "cal": 345,
+    "pr": 21.5,
+    "fa": 23,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "high-protein"
+    ],
+    "d": "2026-04-02",
+    "cm": 0,
+    "ex": "This Curried Tofu and Spinach Scramble offers a vibrant and savory plant-based alternative to your typical morning routine, providing a hearty texture that beautifully mimics traditional scrambled",
+    "pv": 141
+  },
+  "sourceHtml": "pages/curried-tofu-and-spinach-scramble.html",
+  "scrapedAt": "2026-11-07T08:11:11.681Z"
+}

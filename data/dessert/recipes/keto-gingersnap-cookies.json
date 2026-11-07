@@ -1,0 +1,306 @@
+{
+  "id": "ruled-28340",
+  "slug": "keto-gingersnap-cookies",
+  "title": "Keto Gingersnap Cookies",
+  "url": "https://www.ruled.me/keto-gingersnap-cookies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Keto Gingersnap Cookies. Each serving comes out to be 77 calories, 6.8g fats, 1g net carbs, and 2.3g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "fatContent": "6.8 g",
+    "proteinContent": "2.3 g",
+    "carbohydrateContent": "1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 77,
+    "netCarbsGrams": 1,
+    "proteinGrams": 2.3,
+    "fatGrams": 6.8
+  },
+  "ingredients": [
+    "2 cup almond flour",
+    "1 cup erythritol",
+    "2 teaspoon ground ginger",
+    "1/2 teaspoon ground cinnamon",
+    "1/4 teaspoon ground nutmeg",
+    "1/4 teaspoon ground cloves",
+    "1/4 teaspoon salt",
+    "1/4 cup butter (unsalted)",
+    "1 large egg",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Combine the dry ingredients in a large mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-2.jpg"
+    },
+    {
+      "text": "In a small bowl, stir together the melted unsalted butter, egg, and vanilla extract until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-3.jpg"
+    },
+    {
+      "text": "Add the wet ingredients to the dry ingredients. Blend with a hand mixer until combined. The cookie batter should be slightly stiff and crumbly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-4.jpg"
+    },
+    {
+      "text": "Use a tablespoon to measure out even spoonfuls. Flatten the top of each cookie with a spatula.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-5.jpg"
+    },
+    {
+      "text": "Bake for 10–12 minutes, until lightly browned on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/Gingersnap-Cookies-620x900-3.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "fall",
+    "gluten-free",
+    "holiday",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian",
+    "winter"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Ginglesnap-Cookies-900x600-1-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/8e00f803107c347ead157988.avif",
+      "archived": true,
+      "originalPath": "images/8e00f803107c347ead157988.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Ginglesnap-Cookies-900x600-1.jpg",
+      "path": "images/f4d60d1b973bdd8baef8ae50.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-2.jpg",
+      "path": "../../nenaudojama/dessert/images/e2182078c37a00eef814da58.jpg",
+      "archived": true,
+      "originalPath": "images/e2182078c37a00eef814da58.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-3.jpg",
+      "path": "../../nenaudojama/dessert/images/37db4b7130b6df49001312a4.avif",
+      "archived": true,
+      "originalPath": "images/37db4b7130b6df49001312a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-4.jpg",
+      "path": "../../nenaudojama/dessert/images/ea0e000a625a9daddbd14ec8.avif",
+      "archived": true,
+      "originalPath": "images/ea0e000a625a9daddbd14ec8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-5.jpg",
+      "path": "../../nenaudojama/dessert/images/978369d4860853b80af49d78.avif",
+      "archived": true,
+      "originalPath": "images/978369d4860853b80af49d78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Gingersnap-Cookies-620x900-3.jpg",
+      "path": "../../nenaudojama/dessert/images/9ca82e2ae2e9c2f139068362.avif",
+      "archived": true,
+      "originalPath": "images/9ca82e2ae2e9c2f139068362.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/gingersnap-cookies-2nd.jpg",
+      "path": "../../nenaudojama/dessert/images/d718443b2867e3b25926b2f6.avif",
+      "archived": true,
+      "originalPath": "images/d718443b2867e3b25926b2f6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2a1212d3abca1a747ec7a6d2.jpg",
+      "archived": true,
+      "originalPath": "images/2a1212d3abca1a747ec7a6d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1ac777023c3aa82ee5b7896e.jpg",
+      "archived": true,
+      "originalPath": "images/1ac777023c3aa82ee5b7896e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2f7179033d337f2469de4115.jpg",
+      "archived": true,
+      "originalPath": "images/2f7179033d337f2469de4115.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/97c7e59d11fa03641256190f.jpg",
+      "archived": true,
+      "originalPath": "images/97c7e59d11fa03641256190f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Gingersnap-Cookies-620x900-3-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/57ef7629cff9c3817e21dec5.avif",
+      "archived": true,
+      "originalPath": "images/57ef7629cff9c3817e21dec5.avif"
+    }
+  ],
+  "featuredImage": "images/f4d60d1b973bdd8baef8ae50.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Gingersnap Cookies",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 24 servings of Keto Gingersnap Cookies. Each serving comes out to be 77 calories, 6.8g fats, 1g net carbs, and 2.3g protein.",
+    "datePublished": "2016-12-01T12:00:48+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/11/Ginglesnap-Cookies-900x600-1.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 cup almond flour",
+      "1 cup erythritol",
+      "2 teaspoon ground ginger",
+      "1/2 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1/4 teaspoon ground cloves",
+      "1/4 teaspoon salt",
+      "1/4 cup butter (unsalted)",
+      "1 large egg",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Combine the dry ingredients in a large mixing bowl.",
+        "name": "Preheat oven to 350F. Combine the dry ingredients in a large mixing bowl.",
+        "url": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, stir together the melted unsalted butter, egg, and vanilla extract until well combined.",
+        "name": "In a small bowl, stir together the melted unsalted butter, egg, and vanilla extract until well combined.",
+        "url": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the wet ingredients to the dry ingredients. Blend with a hand mixer until combined. The cookie batter should be slightly stiff and crumbly.",
+        "name": "Add the wet ingredients to the dry ingredients. Blend with a hand mixer until combined. The cookie batter should be slightly stiff and crumbly.",
+        "url": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a tablespoon to measure out even spoonfuls. Flatten the top of each cookie with a spatula.",
+        "name": "Use a tablespoon to measure out even spoonfuls. Flatten the top of each cookie with a spatula.",
+        "url": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/Gingersnap-Cookies-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 10–12 minutes, until lightly browned on top.",
+        "name": "Bake for 10–12 minutes, until lightly browned on top.",
+        "url": "https://www.ruled.me/keto-gingersnap-cookies/#wprm-recipe-51987-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/Gingersnap-Cookies-620x900-3.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Cookies",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, fall, gluten-free, holiday, keto, low-carb, oven-baked, quick, simple-and-easy, sugar-free, vegetarian, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "77 kcal",
+      "fatContent": "6.8 g",
+      "proteinContent": "2.3 g",
+      "carbohydrateContent": "1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-gingersnap-cookies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-gingersnap-cookies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-gingersnap-cookies/"
+  },
+  "sourceIndex": {
+    "id": 28340,
+    "rid": 51987,
+    "t": "Keto Gingersnap Cookies",
+    "u": "/keto-gingersnap-cookies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/11/Ginglesnap-Cookies-900x600-1-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1,
+    "cal": 77,
+    "pr": 2.3,
+    "fa": 6.8,
+    "tm": 25,
+    "sv": 24,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "fall",
+      "gluten-free",
+      "holiday",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian",
+      "winter"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2016-12-01",
+    "cm": 36,
+    "ex": "With the holidays coming up, I thought it would be a good idea to start working on some holiday inspired recipes. My first cookie recipe this season is a moist and soft keto gingersnap cookie. This",
+    "pv": 649
+  },
+  "sourceHtml": "pages/keto-gingersnap-cookies.html",
+  "scrapedAt": "2026-11-07T08:30:47.351Z"
+}

@@ -1,0 +1,308 @@
+{
+  "id": "ruled-42525",
+  "slug": "greek-cauliflower-salad",
+  "title": "Greek Cauliflower Salad",
+  "url": "https://www.ruled.me/greek-cauliflower-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Greek Cauliflower Salad. Each serving comes out to be 266 calories, 21.8g fats, 6.9g net carbs, and 6.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "266 kcal",
+    "fatContent": "21.8 g",
+    "proteinContent": "6.9 g",
+    "carbohydrateContent": "6.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 266,
+    "netCarbsGrams": 6.9,
+    "proteinGrams": 6.9,
+    "fatGrams": 21.8
+  },
+  "ingredients": [
+    "1 medium cauliflower (chopped or processed into rice)",
+    "1 medium cucumber (diced)",
+    "1 medium onion (chopped)",
+    "1 cup feta cheese (crumbled)",
+    "1 cup black olives (de-seeded and chopped)",
+    "180 gram tzatziki",
+    "2 tablespoon lemon juice",
+    "4 tablespoon olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Get the cauliflower rice ready by either chopping, using a food processor, or blender. You can also purchase pre-made (non-frozen) cauliflower rice if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-01.jpg"
+    },
+    {
+      "text": "Once you have prepped your veggies, toss them into a big salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-04.jpg"
+    },
+    {
+      "text": "Add the feta cheese, then toss the salad.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-06.jpg"
+    },
+    {
+      "text": "Pour your lemon juice & olive oil over the top of the salad. Spoon dollops of tzatziki onto the veggies and mix it all together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-07.jpg"
+    },
+    {
+      "text": "Top with your salt and pepper and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "meal-prep",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/2102be977f106b4f6c007804.avif",
+      "archived": true,
+      "originalPath": "images/2102be977f106b4f6c007804.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-featured.jpg",
+      "path": "images/35b863a2afdab815e78a0942.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/8a7847475a09c72698a8b373.jpg",
+      "archived": true,
+      "originalPath": "images/8a7847475a09c72698a8b373.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/b19b0ed44f4d92e15dcc4636.avif",
+      "archived": true,
+      "originalPath": "images/b19b0ed44f4d92e15dcc4636.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-06.jpg",
+      "path": "../../nenaudojama/lunch/images/3c566b8c93eb1f06df2a0b05.avif",
+      "archived": true,
+      "originalPath": "images/3c566b8c93eb1f06df2a0b05.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-07.jpg",
+      "path": "../../nenaudojama/lunch/images/9d9aa0b0ed63acd9f956c101.avif",
+      "archived": true,
+      "originalPath": "images/9d9aa0b0ed63acd9f956c101.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/5cac411c58152a4a7793c205.avif",
+      "archived": true,
+      "originalPath": "images/5cac411c58152a4a7793c205.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/e392bf7f1daa983c4984434b.jpg",
+      "archived": true,
+      "originalPath": "images/e392bf7f1daa983c4984434b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/228254f4ad4a2a580c18b059.avif",
+      "archived": true,
+      "originalPath": "images/228254f4ad4a2a580c18b059.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9761f08191a38a49d0091dfc.avif",
+      "archived": true,
+      "originalPath": "images/9761f08191a38a49d0091dfc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bf9e2c0c3ac9ec623104485c.avif",
+      "archived": true,
+      "originalPath": "images/bf9e2c0c3ac9ec623104485c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/dace56c0f7b7516ffacbaaf1.avif",
+      "archived": true,
+      "originalPath": "images/dace56c0f7b7516ffacbaaf1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5c268ad49668651965db88e5.avif",
+      "archived": true,
+      "originalPath": "images/5c268ad49668651965db88e5.avif"
+    }
+  ],
+  "featuredImage": "images/35b863a2afdab815e78a0942.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Greek Cauliflower Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Greek Cauliflower Salad. Each serving comes out to be 266 calories, 21.8g fats, 6.9g net carbs, and 6.9g protein.",
+    "datePublished": "2020-02-25T10:00:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "1 medium cauliflower (chopped or processed into rice)",
+      "1 medium cucumber (diced)",
+      "1 medium onion (chopped)",
+      "1 cup feta cheese (crumbled)",
+      "1 cup black olives (de-seeded and chopped)",
+      "180 gram tzatziki",
+      "2 tablespoon lemon juice",
+      "4 tablespoon olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get the cauliflower rice ready by either chopping, using a food processor, or blender. You can also purchase pre-made (non-frozen) cauliflower rice if desired.",
+        "name": "Get the cauliflower rice ready by either chopping, using a food processor, or blender. You can also purchase pre-made (non-frozen) cauliflower rice if desired.",
+        "url": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once you have prepped your veggies, toss them into a big salad bowl.",
+        "name": "Once you have prepped your veggies, toss them into a big salad bowl.",
+        "url": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the feta cheese, then toss the salad.",
+        "name": "Add the feta cheese, then toss the salad.",
+        "url": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour your lemon juice & olive oil over the top of the salad. Spoon dollops of tzatziki onto the veggies and mix it all together.",
+        "name": "Pour your lemon juice & olive oil over the top of the salad. Spoon dollops of tzatziki onto the veggies and mix it all together.",
+        "url": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with your salt and pepper and serve.",
+        "name": "Top with your salt and pepper and serve.",
+        "url": "https://www.ruled.me/greek-cauliflower-salad/#wprm-recipe-53259-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "15-minute, egg-free, gluten-free, keto, low-carb, make-ahead, meal-prep, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "266 kcal",
+      "fatContent": "21.8 g",
+      "proteinContent": "6.9 g",
+      "carbohydrateContent": "6.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/greek-cauliflower-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/greek-cauliflower-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/greek-cauliflower-salad/"
+  },
+  "sourceIndex": {
+    "id": 42525,
+    "rid": 53259,
+    "t": "Greek Cauliflower Salad",
+    "u": "/greek-cauliflower-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/02/greek-cauliflower-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.9,
+    "cal": 266,
+    "pr": 6.9,
+    "fa": 21.8,
+    "tm": 15,
+    "sv": 6,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "meal-prep",
+      "make-ahead"
+    ],
+    "d": "2020-02-25",
+    "cm": 5,
+    "ex": "I always used to have this whenever I went out to Greek restaurants. It is a nice combination of rice, cucumber, olives, and feta with a side of tzatziki. It tastes amazing! So I tried to keto-fy the",
+    "pv": 1234
+  },
+  "sourceHtml": "pages/greek-cauliflower-salad.html",
+  "scrapedAt": "2026-11-07T08:16:10.879Z"
+}

@@ -1,0 +1,275 @@
+{
+  "id": "ruled-40362",
+  "slug": "grilled-cedar-plank-salmon-burgers",
+  "title": "Grilled Cedar Plank Salmon Burgers",
+  "url": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Grilled Cedar Plank Salmon Burgers. Each serving comes out to be 397 calories, 25.1g fats, 1.6g net carbs, and 38.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "397 kcal",
+    "fatContent": "25.1 g",
+    "proteinContent": "38.2 g",
+    "carbohydrateContent": "1.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 397,
+    "netCarbsGrams": 1.6,
+    "proteinGrams": 38.2,
+    "fatGrams": 25.1
+  },
+  "ingredients": [
+    "24 ounce salmon",
+    "1 1/2 tablespoon mayonnaise",
+    "1 1/2 tablespoon yellow mustard",
+    "1/2 small red onion (diced)",
+    "1 medium celery (diced)",
+    "2 tablespoon fresh dill",
+    "2 teaspoon fresh garlic (minced)",
+    "2 teaspoon salt",
+    "1 teaspoon black pepper",
+    "lemon juice (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Soak the cedar planks in water for at least 2 hours before you plan on cooking. You will need enough planks to cook all your salmon patties. Preheat your grill and set it up for indirect heat, at about 350-375F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-01.jpg"
+    },
+    {
+      "text": "Remove the skin and any pin bones from the salmon. Cut the salmon into smaller pieces then add it to a food processor. Add the mayo, mustard, dill, salt, pepper, and garlic. Pulse until the salmon turns into a smooth paste. Scrape the salmon paste out of the food processor and transfer it to a mixing bowl. Mix in the onion and celery.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-04.jpg"
+    },
+    {
+      "text": "Add the planks to the grill to allow them to preheat. Form the salmon mixture into equally sized patties.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-02.jpg"
+    },
+    {
+      "text": "Place two on each plank then grill for about 25-30 minutes or until the salmon is fully cooked through. Remove the planks from the heat then squeeze a touch of lemon juice over the top. Serve with your favorite toppings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "fish",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "meal-prep",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/7cda3ee9fb81f8800ba74e6d.avif",
+      "archived": true,
+      "originalPath": "images/7cda3ee9fb81f8800ba74e6d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-featured.jpg",
+      "path": "images/2bc625c066d3408f2c66d9d6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-01.jpg",
+      "path": "../../nenaudojama/lunch/images/207fa8e2774a80688495e495.jpg",
+      "archived": true,
+      "originalPath": "images/207fa8e2774a80688495e495.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-04.jpg",
+      "path": "../../nenaudojama/lunch/images/7d9d174fcc4c4326e179cd11.jpg",
+      "archived": true,
+      "originalPath": "images/7d9d174fcc4c4326e179cd11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-02.jpg",
+      "path": "../../nenaudojama/lunch/images/e8c854450cb79b6643336313.jpg",
+      "archived": true,
+      "originalPath": "images/e8c854450cb79b6643336313.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-second.jpg",
+      "path": "../../nenaudojama/lunch/images/d043d2b7b8350cd910527dce.jpg",
+      "archived": true,
+      "originalPath": "images/d043d2b7b8350cd910527dce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/02fb14e1d1bad72457b32cf4.jpg",
+      "archived": true,
+      "originalPath": "images/02fb14e1d1bad72457b32cf4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/001809c5c2d5be85c522ad0f.jpg",
+      "archived": true,
+      "originalPath": "images/001809c5c2d5be85c522ad0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a46ed5fff57d4efaaaca3eaf.jpg",
+      "archived": true,
+      "originalPath": "images/a46ed5fff57d4efaaaca3eaf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/69dbe65152ad887093929e8b.jpg",
+      "archived": true,
+      "originalPath": "images/69dbe65152ad887093929e8b.jpg"
+    }
+  ],
+  "featuredImage": "images/2bc625c066d3408f2c66d9d6.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Grilled Cedar Plank Salmon Burgers",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Grilled Cedar Plank Salmon Burgers. Each serving comes out to be 397 calories, 25.1g fats, 1.6g net carbs, and 38.2g protein.",
+    "datePublished": "2019-06-13T07:00:12+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "24 ounce salmon",
+      "1 1/2 tablespoon mayonnaise",
+      "1 1/2 tablespoon yellow mustard",
+      "1/2 small red onion (diced)",
+      "1 medium celery (diced)",
+      "2 tablespoon fresh dill",
+      "2 teaspoon fresh garlic (minced)",
+      "2 teaspoon salt",
+      "1 teaspoon black pepper",
+      "lemon juice (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Soak the cedar planks in water for at least 2 hours before you plan on cooking. You will need enough planks to cook all your salmon patties. Preheat your grill and set it up for indirect heat, at about 350-375F.",
+        "name": "Soak the cedar planks in water for at least 2 hours before you plan on cooking. You will need enough planks to cook all your salmon patties. Preheat your grill and set it up for indirect heat, at about 350-375F.",
+        "url": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the skin and any pin bones from the salmon. Cut the salmon into smaller pieces then add it to a food processor. Add the mayo, mustard, dill, salt, pepper, and garlic. Pulse until the salmon turns into a smooth paste. Scrape the salmon paste out of the food processor and transfer it to a mixing bowl. Mix in the onion and celery.",
+        "name": "Remove the skin and any pin bones from the salmon. Cut the salmon into smaller pieces then add it to a food processor. Add the mayo, mustard, dill, salt, pepper, and garlic. Pulse until the salmon turns into a smooth paste. Scrape the salmon paste out of the food processor and transfer it to a mixing bowl. Mix in the onion and celery.",
+        "url": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the planks to the grill to allow them to preheat. Form the salmon mixture into equally sized patties.",
+        "name": "Add the planks to the grill to allow them to preheat. Form the salmon mixture into equally sized patties.",
+        "url": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place two on each plank then grill for about 25-30 minutes or until the salmon is fully cooked through. Remove the planks from the heat then squeeze a touch of lemon juice over the top. Serve with your favorite toppings.",
+        "name": "Place two on each plank then grill for about 25-30 minutes or until the salmon is fully cooked through. Remove the planks from the heat then squeeze a touch of lemon juice over the top. Serve with your favorite toppings.",
+        "url": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#wprm-recipe-53036-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, fish, gluten-free, grilled, high-protein, keto, low-carb, meal-prep, nut-free, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "397 kcal",
+      "fatContent": "25.1 g",
+      "proteinContent": "38.2 g",
+      "carbohydrateContent": "1.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/grilled-cedar-plank-salmon-burgers/"
+  },
+  "sourceIndex": {
+    "id": 40362,
+    "rid": 53036,
+    "t": "Grilled Cedar Plank Salmon Burgers",
+    "u": "/grilled-cedar-plank-salmon-burgers/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/05/grilled-cedar-plank-salmon-burgers-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 1.6,
+    "cal": 397,
+    "pr": 38.2,
+    "fa": 25.1,
+    "tm": 45,
+    "sv": 4,
+    "kw": [
+      "dairy-free",
+      "fish",
+      "gluten-free",
+      "grilled",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "meal-prep",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2019-06-13",
+    "cm": 0,
+    "ex": "These salmon burgers are grilled using cedar planks. You can find these planks at many grocery stores where the grilling items are. You can also buy them from a local hardware store. They impart a",
+    "pv": 82
+  },
+  "sourceHtml": "pages/grilled-cedar-plank-salmon-burgers.html",
+  "scrapedAt": "2026-11-07T08:16:22.662Z"
+}

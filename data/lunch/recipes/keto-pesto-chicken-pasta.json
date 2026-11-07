@@ -1,0 +1,332 @@
+{
+  "id": "ruled-36267",
+  "slug": "keto-pesto-chicken-pasta",
+  "title": "Pesto Chicken Pasta",
+  "url": "https://www.ruled.me/keto-pesto-chicken-pasta/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Pesto Chicken Pasta. Each serving comes out to be 785 calories, 58.7g fats, 8.4g net carbs, and 54.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "785 kcal",
+    "fatContent": "58.7 g",
+    "proteinContent": "54.5 g",
+    "carbohydrateContent": "8.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 785,
+    "netCarbsGrams": 8.4,
+    "proteinGrams": 54.5,
+    "fatGrams": 58.7
+  },
+  "ingredients": [
+    "10 ounce boneless, skinless chicken breast",
+    "2 tablespoon olive oil",
+    "salt and pepper (to taste)",
+    "10 medium cherry tomatoes",
+    "2 medium zucchini",
+    "fresh basil (for garnish)",
+    "1 cup fresh basil",
+    "1/4 cup walnuts",
+    "1 teaspoon fresh garlic (Minced)",
+    "1 tablespoon lemon juice",
+    "1 teaspoon lemon zest",
+    "1/4 cup grated parmesan cheese",
+    "1/4 cup olive oil",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat the oven to 400°F. Place the chicken breasts on a baking sheet covered with parchment paper or lightly oiled, brush with extra virgin olive oil and season with salt and cracked black pepper. Bake in the oven for 15 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-01.jpg"
+    },
+    {
+      "text": "Take the chicken out of the oven to add the tomatoes on the vine, again brushing with oil. Return to the oven and bake for an additional 15 minutes, or until the chicken is lightly browned and cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-02.jpg"
+    },
+    {
+      "text": "Meanwhile, prepare the pesto by blending together all the pesto ingredients except the olive oil in a food processor or blender. Once a paste has formed, slowly add the oil as the processor/blender is running. Stop once the pesto is well combined and reaches the desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-03.jpg"
+    },
+    {
+      "text": "To create your pasta, spiralize the zucchini. Alternately, you can use a vegetable peeler to make zucchini ribbons.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-04.jpg"
+    },
+    {
+      "text": "In a skillet with a very small amount of olive oil (just enough to keep them moist and prevent sticking), sauté the zucchini for 3 minutes or until softened. Remove from heat and stir in the pesto until blended.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-05.jpg"
+    },
+    {
+      "text": "Assemble the dish by placing an equal amount of the pesto zucchini per each chicken serving in a bowl. Top with sliced chicken, baked tomatoes, and a fresh basil garnish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/3b41994fe52aedf13ab5fa7e.jpg",
+      "archived": true,
+      "originalPath": "images/3b41994fe52aedf13ab5fa7e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-featured.jpg",
+      "path": "images/bda5fb854ccfadee58fbb6f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-01.jpg",
+      "path": "../../nenaudojama/lunch/images/924cceb2bf470fdc9eec272c.jpg",
+      "archived": true,
+      "originalPath": "images/924cceb2bf470fdc9eec272c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-02.jpg",
+      "path": "../../nenaudojama/lunch/images/7a3f47180bad7db72e340a5b.jpg",
+      "archived": true,
+      "originalPath": "images/7a3f47180bad7db72e340a5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-03.jpg",
+      "path": "../../nenaudojama/lunch/images/229b1076c21ab532632c19e7.jpg",
+      "archived": true,
+      "originalPath": "images/229b1076c21ab532632c19e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-04.jpg",
+      "path": "../../nenaudojama/lunch/images/20828bbdc406c3ce9fdc3074.jpg",
+      "archived": true,
+      "originalPath": "images/20828bbdc406c3ce9fdc3074.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-05.jpg",
+      "path": "../../nenaudojama/lunch/images/0bbce01609639aeb2bb3b66d.jpg",
+      "archived": true,
+      "originalPath": "images/0bbce01609639aeb2bb3b66d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-second.jpg",
+      "path": "../../nenaudojama/lunch/images/4e0177f1fea2026ae363e3b6.avif",
+      "archived": true,
+      "originalPath": "images/4e0177f1fea2026ae363e3b6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/3f8407a8bbf959c22fb45c5b.jpg",
+      "archived": true,
+      "originalPath": "images/3f8407a8bbf959c22fb45c5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/83139f413931bbc6320cc4ff.jpg",
+      "archived": true,
+      "originalPath": "images/83139f413931bbc6320cc4ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/46b40371d04f2542311c9f90.jpg",
+      "archived": true,
+      "originalPath": "images/46b40371d04f2542311c9f90.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f27b3509cf161f93d26a783d.jpg",
+      "archived": true,
+      "originalPath": "images/f27b3509cf161f93d26a783d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/13adadd8ddff62d5b9f05c11.jpg",
+      "archived": true,
+      "originalPath": "images/13adadd8ddff62d5b9f05c11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/323bc89a7cfc5a65d4de3efe.jpg",
+      "archived": true,
+      "originalPath": "images/323bc89a7cfc5a65d4de3efe.jpg"
+    }
+  ],
+  "featuredImage": "images/bda5fb854ccfadee58fbb6f6.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pesto Chicken Pasta",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Pesto Chicken Pasta. Each serving comes out to be 785 calories, 58.7g fats, 8.4g net carbs, and 54.5g protein.",
+    "datePublished": "2018-04-05T11:00:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "10 ounce boneless, skinless chicken breast",
+      "2 tablespoon olive oil",
+      "salt and pepper (to taste)",
+      "10 medium cherry tomatoes",
+      "2 medium zucchini",
+      "fresh basil (for garnish)",
+      "1 cup fresh basil",
+      "1/4 cup walnuts",
+      "1 teaspoon fresh garlic (Minced)",
+      "1 tablespoon lemon juice",
+      "1 teaspoon lemon zest",
+      "1/4 cup grated parmesan cheese",
+      "1/4 cup olive oil",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 400°F. Place the chicken breasts on a baking sheet covered with parchment paper or lightly oiled, brush with extra virgin olive oil and season with salt and cracked black pepper. Bake in the oven for 15 minutes.",
+        "name": "Preheat the oven to 400°F. Place the chicken breasts on a baking sheet covered with parchment paper or lightly oiled, brush with extra virgin olive oil and season with salt and cracked black pepper. Bake in the oven for 15 minutes.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Take the chicken out of the oven to add the tomatoes on the vine, again brushing with oil. Return to the oven and bake for an additional 15 minutes, or until the chicken is lightly browned and cooked through.",
+        "name": "Take the chicken out of the oven to add the tomatoes on the vine, again brushing with oil. Return to the oven and bake for an additional 15 minutes, or until the chicken is lightly browned and cooked through.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, prepare the pesto by blending together all the pesto ingredients except the olive oil in a food processor or blender. Once a paste has formed, slowly add the oil as the processor/blender is running. Stop once the pesto is well combined and reaches the desired consistency.",
+        "name": "Meanwhile, prepare the pesto by blending together all the pesto ingredients except the olive oil in a food processor or blender. Once a paste has formed, slowly add the oil as the processor/blender is running. Stop once the pesto is well combined and reaches the desired consistency.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To create your pasta, spiralize the zucchini. Alternately, you can use a vegetable peeler to make zucchini ribbons.",
+        "name": "To create your pasta, spiralize the zucchini. Alternately, you can use a vegetable peeler to make zucchini ribbons.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet with a very small amount of olive oil (just enough to keep them moist and prevent sticking), sauté the zucchini for 3 minutes or until softened. Remove from heat and stir in the pesto until blended.",
+        "name": "In a skillet with a very small amount of olive oil (just enough to keep them moist and prevent sticking), sauté the zucchini for 3 minutes or until softened. Remove from heat and stir in the pesto until blended.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the dish by placing an equal amount of the pesto zucchini per each chicken serving in a bowl. Top with sliced chicken, baked tomatoes, and a fresh basil garnish.",
+        "name": "Assemble the dish by placing an equal amount of the pesto zucchini per each chicken serving in a bowl. Top with sliced chicken, baked tomatoes, and a fresh basil garnish.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-pasta/#wprm-recipe-52531-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, poultry, simple &amp; easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "785 kcal",
+      "fatContent": "58.7 g",
+      "proteinContent": "54.5 g",
+      "carbohydrateContent": "8.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pesto-chicken-pasta/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pesto-chicken-pasta/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pesto-chicken-pasta/"
+  },
+  "sourceIndex": {
+    "id": 36267,
+    "rid": 52531,
+    "t": "Keto Pesto Chicken Pasta",
+    "u": "/keto-pesto-chicken-pasta/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/04/pesto-chicken-pasta-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.4,
+    "cal": 785,
+    "pr": 54.5,
+    "fa": 58.7,
+    "tm": 50,
+    "sv": 2,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 14,
+    "fk": [
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2018-04-05",
+    "cm": 1,
+    "ex": "There is something about the classic combination of fragrant basil, salty Parmesan, and lemon that make the flavors in a pesto dish absolutely sing. Pesto sauced zucchini noodles are complemented",
+    "pv": 242
+  },
+  "sourceHtml": "pages/keto-pesto-chicken-pasta.html",
+  "scrapedAt": "2026-11-07T08:17:12.838Z"
+}

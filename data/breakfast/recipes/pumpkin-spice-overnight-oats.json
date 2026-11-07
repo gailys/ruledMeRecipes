@@ -1,0 +1,301 @@
+{
+  "id": "ruled-44271",
+  "slug": "pumpkin-spice-overnight-oats",
+  "title": "Pumpkin Spice Overnight Oats",
+  "url": "https://www.ruled.me/pumpkin-spice-overnight-oats/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Pumpkin Spice Overnight Oats . Each serving comes out to be 444 calories, 41.2g fats, 5.1g net carbs, and 15.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT480M",
+  "cookTime": "PT0M",
+  "totalTime": "PT480M",
+  "totalMinutes": 480,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "fatContent": "41.2 g",
+    "proteinContent": "15.4 g",
+    "carbohydrateContent": "5.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 444,
+    "netCarbsGrams": 5.1,
+    "proteinGrams": 15.4,
+    "fatGrams": 41.2
+  },
+  "ingredients": [
+    "1/3 cup canned coconut milk",
+    "1/3 cup brewed coffee",
+    "1/2 cup hemp hearts",
+    "2 tablespoon pumpkin puree",
+    "1 tablespoon chia seeds",
+    "1 tablespoon mct oil",
+    "2 teaspoon powdered erythritol",
+    "3/4 teaspoon pumpkin pie spice",
+    "1/2 teaspoon vanilla extract",
+    "sea salt (to taste)",
+    "2 tablespoon pecans (chopped )",
+    "1/4 teaspoon ground cinnamon",
+    "2 tablespoon unsweetened carton coconut milk (as needed, to thin out)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-1.jpg"
+    },
+    {
+      "text": "Add all the ingredients (except for the chopped pecans, cinnamon, and coconut or almond milk) to a container with a lid. Stir together until combined, then cover the container with a lid and let sit in the refrigerator overnight, or at least 8 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-2.jpg"
+    },
+    {
+      "text": "The next morning, mix in coconut or almond milk (from the carton) until desired consistency is reached.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-3.png"
+    },
+    {
+      "text": "Top off with chopped pecans and a dash of cinnamon. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "no-cook",
+    "one-pan",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "no-cook",
+    "one-pan",
+    "meal-prep",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/e8fd4b197268f58cdce85e88.avif",
+      "archived": true,
+      "originalPath": "images/e8fd4b197268f58cdce85e88.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Featured.jpg",
+      "path": "images/b046d71e114194fc6deb38f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/0d045b17ec76e8c056044ccf.jpg",
+      "archived": true,
+      "originalPath": "images/0d045b17ec76e8c056044ccf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/d1cac06d2fe14c5f01fd2890.avif",
+      "archived": true,
+      "originalPath": "images/d1cac06d2fe14c5f01fd2890.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-3.png",
+      "path": "../../nenaudojama/breakfast/images/109e5810c242548f703d7319.webp",
+      "archived": true,
+      "originalPath": "images/109e5810c242548f703d7319.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/ddec74c729fc5149b1b001e1.jpg",
+      "archived": true,
+      "originalPath": "images/ddec74c729fc5149b1b001e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/9d8e971e24fa333fab0844f3.jpg",
+      "archived": true,
+      "originalPath": "images/9d8e971e24fa333fab0844f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/843e6085e7fbd319dc16788a.avif",
+      "archived": true,
+      "originalPath": "images/843e6085e7fbd319dc16788a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c0c8cf39ad15b61a57b2162c.jpg",
+      "archived": true,
+      "originalPath": "images/c0c8cf39ad15b61a57b2162c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/10496b08833282d360cd4f2b.jpg",
+      "archived": true,
+      "originalPath": "images/10496b08833282d360cd4f2b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-3-525x350.png",
+      "path": "../../nenaudojama/breakfast/images/b4eb0cee0f02686ebade31a4.png",
+      "archived": true,
+      "originalPath": "images/b4eb0cee0f02686ebade31a4.png"
+    }
+  ],
+  "featuredImage": "images/b046d71e114194fc6deb38f4.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pumpkin Spice Overnight Oats",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Pumpkin Spice Overnight Oats . Each serving comes out to be 444 calories, 41.2g fats, 5.1g net carbs, and 15.4g protein.",
+    "datePublished": "2020-11-24T10:00:43+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT480M",
+    "totalTime": "PT480M",
+    "recipeIngredient": [
+      "1/3 cup canned coconut milk",
+      "1/3 cup brewed coffee",
+      "1/2 cup hemp hearts",
+      "2 tablespoon pumpkin puree",
+      "1 tablespoon chia seeds",
+      "1 tablespoon mct oil",
+      "2 teaspoon powdered erythritol",
+      "3/4 teaspoon pumpkin pie spice",
+      "1/2 teaspoon vanilla extract",
+      "sea salt (to taste)",
+      "2 tablespoon pecans (chopped )",
+      "1/4 teaspoon ground cinnamon",
+      "2 tablespoon unsweetened carton coconut milk (as needed, to thin out)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all the ingredients (except for the chopped pecans, cinnamon, and coconut or almond milk) to a container with a lid. Stir together until combined, then cover the container with a lid and let sit in the refrigerator overnight, or at least 8 hours.",
+        "name": "Add all the ingredients (except for the chopped pecans, cinnamon, and coconut or almond milk) to a container with a lid. Stir together until combined, then cover the container with a lid and let sit in the refrigerator overnight, or at least 8 hours.",
+        "url": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The next morning, mix in coconut or almond milk (from the carton) until desired consistency is reached.",
+        "name": "The next morning, mix in coconut or almond milk (from the carton) until desired consistency is reached.",
+        "url": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-3.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top off with chopped pecans and a dash of cinnamon. Enjoy!",
+        "name": "Top off with chopped pecans and a dash of cinnamon. Enjoy!",
+        "url": "https://www.ruled.me/pumpkin-spice-overnight-oats/#wprm-recipe-53573-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert",
+      "Lunch",
+      "Snacks"
+    ],
+    "keywords": "dairy-free, egg-free, fall, gluten-free, high-fat, keto, low-carb, make-ahead, meal-prep, no-cook, one-pan meals, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "444 kcal",
+      "fatContent": "41.2 g",
+      "proteinContent": "15.4 g",
+      "carbohydrateContent": "5.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/pumpkin-spice-overnight-oats/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pumpkin-spice-overnight-oats/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pumpkin-spice-overnight-oats/"
+  },
+  "sourceIndex": {
+    "id": 44271,
+    "rid": 53573,
+    "t": "Pumpkin Spice Overnight Oats",
+    "u": "/pumpkin-spice-overnight-oats/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/11/Pumpkin-Spice-Overnight-Oats-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.1,
+    "cal": 444,
+    "pr": 15.4,
+    "fa": 41.2,
+    "tm": 480,
+    "sv": 2,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "no-cook",
+      "one-pan",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 13,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "no-cook",
+      "one-pan",
+      "meal-prep",
+      "make-ahead"
+    ],
+    "d": "2020-11-24",
+    "cm": 0,
+    "ex": "Pumpkin spice season is here and this recipe could not be an easier one to kick off the season with! These pumpkin spice overnight \"oats\" are seasoned to perfection and literally taste like fall. The",
+    "pv": 129
+  },
+  "sourceHtml": "pages/pumpkin-spice-overnight-oats.html",
+  "scrapedAt": "2026-11-07T08:11:12.408Z"
+}

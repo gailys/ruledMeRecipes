@@ -1,0 +1,262 @@
+{
+  "id": "ruled-43933",
+  "slug": "chocolate-almond-avocado-pudding",
+  "title": "Chocolate Almond Avocado Pudding",
+  "url": "https://www.ruled.me/chocolate-almond-avocado-pudding/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Chocolate Almond Avocado Pudding . Each serving comes out to be 335 calories, 29.8g fats, 6.6g net carbs, and 5.7g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT300M",
+  "totalTime": "PT305M",
+  "totalMinutes": 305,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "335 kcal",
+    "fatContent": "29.8 g",
+    "proteinContent": "5.7 g",
+    "carbohydrateContent": "6.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 335,
+    "netCarbsGrams": 6.6,
+    "proteinGrams": 5.7,
+    "fatGrams": 29.8
+  },
+  "ingredients": [
+    "1 1/2 cup unsweetened almond milk",
+    "1/2 cup coconut cream",
+    "3 tablespoon stevia/erythritol blend",
+    "1 medium avocado (pitted and peeled)",
+    "3 tablespoon unsweetened cocoa powder",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon almond extract",
+    "2 tablespoon unsweetened toasted coconut flakes (for garnish )",
+    "2 tablespoon almonds (sliced, for garnish )"
+  ],
+  "instructions": [
+    {
+      "text": "Put the almond milk, coconut cream, stevia/erythritol blend, avocado (pitted and peeled), unsweetened cocoa powder, vanilla and almond extract into a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding2.jpg"
+    },
+    {
+      "text": "Pulse the blender until everything is well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Pour into cups for serving and cover.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Place in the refrigerator for at least 5 hours or overnight and then top the chocolate pudding with coconut flakes and almonds before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/1bf5136a196885402e15adb2.jpg",
+      "archived": true,
+      "originalPath": "images/1bf5136a196885402e15adb2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Featured.jpg",
+      "path": "images/fd4ad93d59a60dd14acecbd2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding2.jpg",
+      "path": "../../nenaudojama/dessert/images/a6b90b9751f48e43e9358bc8.jpg",
+      "archived": true,
+      "originalPath": "images/a6b90b9751f48e43e9358bc8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Second.jpg",
+      "path": "../../nenaudojama/dessert/images/fc7921457af6d05f5f702ecf.jpg",
+      "archived": true,
+      "originalPath": "images/fc7921457af6d05f5f702ecf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding1.jpg",
+      "path": "../../nenaudojama/dessert/images/7667c7cf5e1c4dc6f26518ec.jpg",
+      "archived": true,
+      "originalPath": "images/7667c7cf5e1c4dc6f26518ec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Long.jpg",
+      "path": "../../nenaudojama/dessert/images/9bf5ebd1b88f22985ad1cb36.avif",
+      "archived": true,
+      "originalPath": "images/9bf5ebd1b88f22985ad1cb36.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/dcbf127508e87e2f2503736a.avif",
+      "archived": true,
+      "originalPath": "images/dcbf127508e87e2f2503736a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4268814d948a39a5a3851fb7.avif",
+      "archived": true,
+      "originalPath": "images/4268814d948a39a5a3851fb7.avif"
+    }
+  ],
+  "featuredImage": "images/fd4ad93d59a60dd14acecbd2.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chocolate Almond Avocado Pudding",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 3 servings of Chocolate Almond Avocado Pudding . Each serving comes out to be 335 calories, 29.8g fats, 6.6g net carbs, and 5.7g protein.",
+    "datePublished": "2020-09-17T09:00:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT300M",
+    "totalTime": "PT305M",
+    "recipeIngredient": [
+      "1 1/2 cup unsweetened almond milk",
+      "1/2 cup coconut cream",
+      "3 tablespoon stevia/erythritol blend",
+      "1 medium avocado (pitted and peeled)",
+      "3 tablespoon unsweetened cocoa powder",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon almond extract",
+      "2 tablespoon unsweetened toasted coconut flakes (for garnish )",
+      "2 tablespoon almonds (sliced, for garnish )"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Put the almond milk, coconut cream, stevia/erythritol blend, avocado (pitted and peeled), unsweetened cocoa powder, vanilla and almond extract into a blender.",
+        "name": "Put the almond milk, coconut cream, stevia/erythritol blend, avocado (pitted and peeled), unsweetened cocoa powder, vanilla and almond extract into a blender.",
+        "url": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pulse the blender until everything is well combined.",
+        "name": "Pulse the blender until everything is well combined.",
+        "url": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into cups for serving and cover.",
+        "name": "Pour into cups for serving and cover.",
+        "url": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the refrigerator for at least 5 hours or overnight and then top the chocolate pudding with coconut flakes and almonds before serving.",
+        "name": "Place in the refrigerator for at least 5 hours or overnight and then top the chocolate pudding with coconut flakes and almonds before serving.",
+        "url": "https://www.ruled.me/chocolate-almond-avocado-pudding/#wprm-recipe-53505-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, no-cook, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "335 kcal",
+      "fatContent": "29.8 g",
+      "proteinContent": "5.7 g",
+      "carbohydrateContent": "6.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chocolate-almond-avocado-pudding/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chocolate-almond-avocado-pudding/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chocolate-almond-avocado-pudding/"
+  },
+  "sourceIndex": {
+    "id": 43933,
+    "rid": 53505,
+    "t": "Chocolate Almond Avocado Pudding",
+    "u": "/chocolate-almond-avocado-pudding/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 6.6,
+    "cal": 335,
+    "pr": 5.7,
+    "fa": 29.8,
+    "tm": 305,
+    "sv": 3,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2020-09-17",
+    "cm": 4,
+    "ex": "I go to this chocolate almond avocado pudding whenever I want something sweet and it never seems to get old! The toasted coconut flakes and sliced almonds always give this pudding that extra crunch I",
+    "pv": 109
+  },
+  "sourceHtml": "pages/chocolate-almond-avocado-pudding.html",
+  "scrapedAt": "2026-11-07T08:30:47.083Z"
+}

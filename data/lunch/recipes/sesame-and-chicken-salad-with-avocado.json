@@ -1,0 +1,283 @@
+{
+  "id": "ruled-58695",
+  "slug": "sesame-and-chicken-salad-with-avocado",
+  "title": "Sesame and Chicken Salad with Avocado",
+  "url": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Sesame and Chicken Salad with Avocado. The serving comes out to be 781 calories, 72.5g fats, 6.5g net carbs, and 23.5g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "781 kcal",
+    "fatContent": "72.5 g",
+    "proteinContent": "23.5 g",
+    "carbohydrateContent": "6.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 781,
+    "netCarbsGrams": 6.5,
+    "proteinGrams": 23.5,
+    "fatGrams": 72.5
+  },
+  "ingredients": [
+    "4 ounce boneless, skinless chicken thighs",
+    "3 medium cherry tomatoes",
+    "1/2 medium avocado",
+    "2 tablespoon red onion (diced)",
+    "2 tablespoon sesame oil",
+    "2 cup romaine lettuce",
+    "2 tablespoon mayonnaise",
+    "1 teaspoon paprika",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Place the chicken in a baking dish and top with paprika, then season with salt and pepper to taste. Cook for 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-01.jpg"
+    },
+    {
+      "text": "Chop up the tomatoes, avocado and lettuce. Arrange on a plate with the diced onion.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-02.jpg"
+    },
+    {
+      "text": "Whisk together the mayonnaise and sesame oil. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-03.jpg"
+    },
+    {
+      "text": "Shred or chop up the chicken thigh, then serve with the salad and dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "quick",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/23fd880e6ae9a9dfdacb430c.jpg",
+      "archived": true,
+      "originalPath": "images/23fd880e6ae9a9dfdacb430c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d.jpg",
+      "path": "images/56f24369aaabfa611c0aea0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/97d27e15611a845cbf908838.jpg",
+      "archived": true,
+      "originalPath": "images/97d27e15611a845cbf908838.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/2f61055aac77552ef5f2b2c5.jpg",
+      "archived": true,
+      "originalPath": "images/2f61055aac77552ef5f2b2c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-03.jpg",
+      "path": "../../nenaudojama/lunch/images/df939008f727db13e2e3430e.jpg",
+      "archived": true,
+      "originalPath": "images/df939008f727db13e2e3430e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-04.jpg",
+      "path": "../../nenaudojama/lunch/images/9d45daa865218ee073e69c16.jpg",
+      "archived": true,
+      "originalPath": "images/9d45daa865218ee073e69c16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/8697b846a3037af26ce674cf.jpg",
+      "archived": true,
+      "originalPath": "images/8697b846a3037af26ce674cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5afdd479dd9360419f0c0a68.jpg",
+      "archived": true,
+      "originalPath": "images/5afdd479dd9360419f0c0a68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/afe923f921b3778fc1515c11.jpg",
+      "archived": true,
+      "originalPath": "images/afe923f921b3778fc1515c11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a854920ff67107cb940be77a.jpg",
+      "archived": true,
+      "originalPath": "images/a854920ff67107cb940be77a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-04-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/75e86aa34abb1324ffdcb43a.jpg",
+      "archived": true,
+      "originalPath": "images/75e86aa34abb1324ffdcb43a.jpg"
+    }
+  ],
+  "featuredImage": "images/56f24369aaabfa611c0aea0d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Sesame and Chicken Salad with Avocado",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Sesame and Chicken Salad with Avocado. The serving comes out to be 781 calories, 72.5g fats, 6.5g net carbs, and 23.5g protein.",
+    "datePublished": "2026-03-26T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d-480x270.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT10M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "4 ounce boneless, skinless chicken thighs",
+      "3 medium cherry tomatoes",
+      "1/2 medium avocado",
+      "2 tablespoon red onion (diced)",
+      "2 tablespoon sesame oil",
+      "2 cup romaine lettuce",
+      "2 tablespoon mayonnaise",
+      "1 teaspoon paprika",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Place the chicken in a baking dish and top with paprika, then season with salt and pepper to taste. Cook for 20 minutes.",
+        "name": "Preheat oven to 375F. Place the chicken in a baking dish and top with paprika, then season with salt and pepper to taste. Cook for 20 minutes.",
+        "url": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop up the tomatoes, avocado and lettuce. Arrange on a plate with the diced onion.",
+        "name": "Chop up the tomatoes, avocado and lettuce. Arrange on a plate with the diced onion.",
+        "url": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together the mayonnaise and sesame oil. Season with salt and pepper.",
+        "name": "Whisk together the mayonnaise and sesame oil. Season with salt and pepper.",
+        "url": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred or chop up the chicken thigh, then serve with the salad and dressing.",
+        "name": "Shred or chop up the chicken thigh, then serve with the salad and dressing.",
+        "url": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#wprm-recipe-58692-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/sesame-and-chicken-salad-with-avocado-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "keywords": "30-minute, dairy-free, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, poultry, quick, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "781 kcal",
+      "fatContent": "72.5 g",
+      "proteinContent": "23.5 g",
+      "carbohydrateContent": "6.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/sesame-and-chicken-salad-with-avocado/"
+  },
+  "sourceIndex": {
+    "id": 58695,
+    "rid": 58692,
+    "t": "Sesame and Chicken Salad with Avocado",
+    "u": "/sesame-and-chicken-salad-with-avocado/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/a7d0a08115ea16700c779d679dcad68d-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.5,
+    "cal": 781,
+    "pr": 23.5,
+    "fa": 72.5,
+    "tm": 30,
+    "sv": 1,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "quick",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2026-03-26",
+    "cm": 0,
+    "ex": "This Sesame and Chicken Salad with Avocado is a refreshing yet incredibly satisfying lunch option that brings a wonderful balance of textures and bold, nutty flavors to your keto lifestyle. By using",
+    "pv": 90
+  },
+  "sourceHtml": "pages/sesame-and-chicken-salad-with-avocado.html",
+  "scrapedAt": "2026-11-07T08:14:47.902Z"
+}

@@ -1,0 +1,334 @@
+{
+  "id": "ruled-49386",
+  "slug": "keto-cheese-crusted-omelet",
+  "title": "Keto Cheese-crusted Omelet",
+  "url": "https://www.ruled.me/keto-cheese-crusted-omelet/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Cheese-crusted Omelet. Each serving comes out to be 709 calories, 57.8g fats, 4g net carbs, and 41.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT4M",
+  "cookTime": "PT6M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "709 kcal",
+    "fatContent": "57.8 g",
+    "proteinContent": "41.9 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 709,
+    "netCarbsGrams": 4,
+    "proteinGrams": 41.9,
+    "fatGrams": 57.8
+  },
+  "ingredients": [
+    "6 large egg",
+    "2 tablespoon butter",
+    "1 1/2 cup cheddar cheese (shredded)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-1.jpg"
+    },
+    {
+      "text": "Add eggs into a bowl and whisk until smooth and slightly frothy. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-2.jpg"
+    },
+    {
+      "text": "Add in half (1/2) of the cheddar cheese and fold through the eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-3.jpg"
+    },
+    {
+      "text": "Melt butter in a pan over medium heat. Once hot, add in the egg mixture and let set for a few minutes. Do not mix the egg during this stage.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-5.jpg"
+    },
+    {
+      "text": "Lower the heat and continue to cook the egg mixture. Once the omelet is starting to slightly set on the top, add in the remaining cheddar cheese and fold over.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-6.jpg"
+    },
+    {
+      "text": "Serve immediately and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/f6f4465b74ce1569ddffa2c1.jpg",
+      "archived": true,
+      "originalPath": "images/f6f4465b74ce1569ddffa2c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Featured.jpg",
+      "path": "images/a1c0267618ed29f4e7f7067e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/e5033a0f90ae827f2a3e2cc7.avif",
+      "archived": true,
+      "originalPath": "images/e5033a0f90ae827f2a3e2cc7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/367358befc58ee54ecd8b736.avif",
+      "archived": true,
+      "originalPath": "images/367358befc58ee54ecd8b736.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/33bd792f94c330eb45329e32.jpg",
+      "archived": true,
+      "originalPath": "images/33bd792f94c330eb45329e32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/8b56adc2c4d39049bc2b8dad.jpg",
+      "archived": true,
+      "originalPath": "images/8b56adc2c4d39049bc2b8dad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/2729900395d6fa7aae386fcc.avif",
+      "archived": true,
+      "originalPath": "images/2729900395d6fa7aae386fcc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/2f1e14aa468a4cfa552f0914.jpg",
+      "archived": true,
+      "originalPath": "images/2f1e14aa468a4cfa552f0914.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/d7baf8d900a30ece2ca706c0.avif",
+      "archived": true,
+      "originalPath": "images/d7baf8d900a30ece2ca706c0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/744db82764c7ec4a5a71bdd4.avif",
+      "archived": true,
+      "originalPath": "images/744db82764c7ec4a5a71bdd4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f6274722d23f1186674feda4.jpg",
+      "archived": true,
+      "originalPath": "images/f6274722d23f1186674feda4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d56939b341a8fee3559dc0d1.jpg",
+      "archived": true,
+      "originalPath": "images/d56939b341a8fee3559dc0d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/76c11f4d2ca746446916b24f.jpg",
+      "archived": true,
+      "originalPath": "images/76c11f4d2ca746446916b24f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fda9bfec13f8608dfbe20d86.jpg",
+      "archived": true,
+      "originalPath": "images/fda9bfec13f8608dfbe20d86.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ee8beb88935b37983a06be9a.jpg",
+      "archived": true,
+      "originalPath": "images/ee8beb88935b37983a06be9a.jpg"
+    }
+  ],
+  "featuredImage": "images/a1c0267618ed29f4e7f7067e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cheese-crusted Omelet",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Cheese-crusted Omelet. Each serving comes out to be 709 calories, 57.8g fats, 4g net carbs, and 41.9g protein.",
+    "datePublished": "2023-09-21T09:48:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT4M",
+    "cookTime": "PT6M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "6 large egg",
+      "2 tablespoon butter",
+      "1 1/2 cup cheddar cheese (shredded)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add eggs into a bowl and whisk until smooth and slightly frothy. Season with salt and pepper to taste.",
+        "name": "Add eggs into a bowl and whisk until smooth and slightly frothy. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in half (1/2) of the cheddar cheese and fold through the eggs.",
+        "name": "Add in half (1/2) of the cheddar cheese and fold through the eggs.",
+        "url": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt butter in a pan over medium heat. Once hot, add in the egg mixture and let set for a few minutes. Do not mix the egg during this stage.",
+        "name": "Melt butter in a pan over medium heat. Once hot, add in the egg mixture and let set for a few minutes. Do not mix the egg during this stage.",
+        "url": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lower the heat and continue to cook the egg mixture. Once the omelet is starting to slightly set on the top, add in the remaining cheddar cheese and fold over.",
+        "name": "Lower the heat and continue to cook the egg mixture. Once the omelet is starting to slightly set on the top, add in the remaining cheddar cheese and fold over.",
+        "url": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately and enjoy!",
+        "name": "Serve immediately and enjoy!",
+        "url": "https://www.ruled.me/keto-cheese-crusted-omelet/#wprm-recipe-54761-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, one-pan meals, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "709 kcal",
+      "fatContent": "57.8 g",
+      "proteinContent": "41.9 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cheese-crusted-omelet/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cheese-crusted-omelet/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cheese-crusted-omelet/"
+  },
+  "sourceIndex": {
+    "id": 49386,
+    "rid": 54761,
+    "t": "Keto Cheese-crusted Omelet",
+    "u": "/keto-cheese-crusted-omelet/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Cheese-crusted-Omelet-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4,
+    "cal": 709,
+    "pr": 41.9,
+    "fa": 57.8,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2023-09-21",
+    "cm": 0,
+    "ex": "If you have cheese, eggs, and butter on hand, why not create culinary magic with a keto cheese omelet? In just a matter of minutes, you can whip up a dish that is delicious and versatile enough to be",
+    "pv": 79
+  },
+  "sourceHtml": "pages/keto-cheese-crusted-omelet.html",
+  "scrapedAt": "2026-11-07T08:11:11.961Z"
+}

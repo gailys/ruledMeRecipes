@@ -1,0 +1,311 @@
+{
+  "id": "ruled-27644",
+  "slug": "keto-breakfast-brownie-muffins",
+  "title": "Keto Brownie Breakfast Muffins",
+  "url": "https://www.ruled.me/keto-breakfast-brownie-muffins/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Brownie Breakfast Muffins. Each serving comes out to be 195 calories, 15g fats, 3.3g net carbs, and 6g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "fatContent": "15 g",
+    "proteinContent": "6 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 195,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 6,
+    "fatGrams": 15
+  },
+  "ingredients": [
+    "1 cup flaxseed meal",
+    "1/4 cup unsweetened dark cocoa powder",
+    "1 tablespoon ground cinnamon",
+    "1/2 tablespoon baking powder",
+    "1/2 teaspoon salt",
+    "1 large egg",
+    "2 tablespoon coconut oil",
+    "1/4 cup sugar-free caramel syrup (such as Torani)",
+    "1/2 cup pumpkin puree",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon apple cider vinegar",
+    "1/4 cup slivered almonds"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Add the dry ingredients to a large mixing bowl and stir to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/01Mix-dry-ingredients.jpg"
+    },
+    {
+      "text": "In a separate bowl, whisk together the wet ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/02Mix-wet-ingredients.jpg"
+    },
+    {
+      "text": "Pour the wet ingredients into the dry ingredients and mix well to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/03Mix-well.jpg"
+    },
+    {
+      "text": "Line a muffin tin with paper liners and spoon in the batter. Sprinkle the slivered almonds on top and press them in gently to help them stick.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/04Spoon-batter.jpg"
+    },
+    {
+      "text": "Bake for about 15 minutes. The muffins rise and set on top. Enjoy — these taste good both warm and cold!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/Muffins3.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "oven-baked",
+    "meal-prep",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/Muffins2.jpg",
+      "path": "images/1020b8fc21be419880f792ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/01Mix-dry-ingredients.jpg",
+      "path": "../../nenaudojama/breakfast/images/5a3e42586461c7e3a9edc3df.jpg",
+      "archived": true,
+      "originalPath": "images/5a3e42586461c7e3a9edc3df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/02Mix-wet-ingredients.jpg",
+      "path": "../../nenaudojama/breakfast/images/1d3bc43b68bf594a537fc05b.jpg",
+      "archived": true,
+      "originalPath": "images/1d3bc43b68bf594a537fc05b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/03Mix-well.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e1d807a4958a3bf9aa61809.jpg",
+      "archived": true,
+      "originalPath": "images/3e1d807a4958a3bf9aa61809.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/04Spoon-batter.jpg",
+      "path": "../../nenaudojama/breakfast/images/b6760895a7bdeb5e4c64d964.jpg",
+      "archived": true,
+      "originalPath": "images/b6760895a7bdeb5e4c64d964.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/Muffins3.jpg",
+      "path": "../../nenaudojama/breakfast/images/ca259f8238460e6eb9f4bb76.avif",
+      "archived": true,
+      "originalPath": "images/ca259f8238460e6eb9f4bb76.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/MuffinsSecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/e9cf685057544199aa0f7898.avif",
+      "archived": true,
+      "originalPath": "images/e9cf685057544199aa0f7898.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/01Mix-dry-ingredients-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/cf26cb534e43de76ec0571a9.jpg",
+      "archived": true,
+      "originalPath": "images/cf26cb534e43de76ec0571a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/02Mix-wet-ingredients-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/24039007562907ec97577157.jpg",
+      "archived": true,
+      "originalPath": "images/24039007562907ec97577157.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/03Mix-well-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0d5f82100092a95e5a6a4ce5.jpg",
+      "archived": true,
+      "originalPath": "images/0d5f82100092a95e5a6a4ce5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/04Spoon-batter-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bcd1df3cb345afc80cf05198.jpg",
+      "archived": true,
+      "originalPath": "images/bcd1df3cb345afc80cf05198.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/Muffins3-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/62d3bbca68aba7522985cc05.jpg",
+      "archived": true,
+      "originalPath": "images/62d3bbca68aba7522985cc05.jpg"
+    }
+  ],
+  "featuredImage": "images/1020b8fc21be419880f792ba.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Brownie Breakfast Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Keto Brownie Breakfast Muffins. Each serving comes out to be 195 calories, 15g fats, 3.3g net carbs, and 6g protein.",
+    "datePublished": "2015-12-16T16:09:54+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/12/Muffins2.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 cup flaxseed meal",
+      "1/4 cup unsweetened dark cocoa powder",
+      "1 tablespoon ground cinnamon",
+      "1/2 tablespoon baking powder",
+      "1/2 teaspoon salt",
+      "1 large egg",
+      "2 tablespoon coconut oil",
+      "1/4 cup sugar-free caramel syrup (such as Torani)",
+      "1/2 cup pumpkin puree",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon apple cider vinegar",
+      "1/4 cup slivered almonds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Add the dry ingredients to a large mixing bowl and stir to combine.",
+        "name": "Preheat oven to 350F. Add the dry ingredients to a large mixing bowl and stir to combine.",
+        "url": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/01Mix-dry-ingredients.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, whisk together the wet ingredients.",
+        "name": "In a separate bowl, whisk together the wet ingredients.",
+        "url": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/02Mix-wet-ingredients.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the wet ingredients into the dry ingredients and mix well to combine.",
+        "name": "Pour the wet ingredients into the dry ingredients and mix well to combine.",
+        "url": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/03Mix-well.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a muffin tin with paper liners and spoon in the batter. Sprinkle the slivered almonds on top and press them in gently to help them stick.",
+        "name": "Line a muffin tin with paper liners and spoon in the batter. Sprinkle the slivered almonds on top and press them in gently to help them stick.",
+        "url": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/04Spoon-batter.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for about 15 minutes. The muffins rise and set on top. Enjoy — these taste good both warm and cold!",
+        "name": "Bake for about 15 minutes. The muffins rise and set on top. Enjoy — these taste good both warm and cold!",
+        "url": "https://www.ruled.me/keto-breakfast-brownie-muffins/#wprm-recipe-51859-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/Muffins3.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, make-ahead, meal-prep, oven-baked, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "195 kcal",
+      "fatContent": "15 g",
+      "proteinContent": "6 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-breakfast-brownie-muffins/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-breakfast-brownie-muffins/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-breakfast-brownie-muffins/"
+  },
+  "sourceIndex": {
+    "id": 27644,
+    "rid": 51859,
+    "t": "Keto Breakfast Brownie Muffins",
+    "u": "/keto-breakfast-brownie-muffins/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/12/Muffins2.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.3,
+    "cal": 195,
+    "pr": 6,
+    "fa": 15,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "oven-baked",
+      "meal-prep",
+      "make-ahead"
+    ],
+    "d": "2015-12-16",
+    "cm": 47,
+    "ex": "Pumpkin isn’t just for fall inspired recipes, it can also be added to baked goods to give them some extra moisture and fiber. These keto breakfast muffins are rich, hearty and moist, while low in",
+    "pv": 755
+  },
+  "sourceHtml": "pages/keto-breakfast-brownie-muffins.html",
+  "scrapedAt": "2026-11-07T08:11:12.852Z"
+}

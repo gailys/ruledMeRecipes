@@ -1,0 +1,393 @@
+{
+  "id": "ruled-24911",
+  "slug": "simple-chicken-parmesan",
+  "title": "Simple Chicken Parmesan",
+  "url": "https://www.ruled.me/simple-chicken-parmesan/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Simple Chicken Parmesan. Each serving comes out to be 593 calories, 36.5g fats, 3.2g net carbs, and 58.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT25M",
+  "cookTime": "PT20M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "593 kcal",
+    "fatContent": "36.5 g",
+    "proteinContent": "58.5 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 593,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 58.5,
+    "fatGrams": 36.5
+  },
+  "ingredients": [
+    "816 gram boneless, skinless chicken breast",
+    "salt and pepper (to taste)",
+    "1 cup mozzarella cheese (shredded)",
+    "2 1/2 ounce pork rinds",
+    "1/4 cup flaxseed meal",
+    "1/2 cup parmesan cheese (shredded)",
+    "2 teaspoon paprika",
+    "1 teaspoon dried oregano",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon crushed red pepper flakes",
+    "1 large egg",
+    "1 1/2 teaspoon chicken broth",
+    "1/4 cup olive oil",
+    "1 cup low-carb tomato sauce (such as Rao's)",
+    "1/4 cup olive oil",
+    "1/2 teaspoon fresh garlic",
+    "1/2 teaspoon dried oregano",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. In a food processor, grind up the pork rinds, flaxseed meal, parmesan cheese, and spices. Transfer the mixture to a shallow bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7773.jpg"
+    },
+    {
+      "text": "Slice the chicken breasts in half and pound them out into cutlets. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7789.jpg"
+    },
+    {
+      "text": "In a separate shallow bowl from the coating, whisk the egg together with the chicken broth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7796.jpg"
+    },
+    {
+      "text": "In a saucepan over medium heat, whisk together all of the ingredients for the sauce. Let this cook for at least 20 minutes while preparing the chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7799.jpg"
+    },
+    {
+      "text": "Bread the chicken cutlets by dipping them in the egg mixture and then dipping them in the coating mixture. Set the breaded cutlets aside on a piece of foil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7811.jpg"
+    },
+    {
+      "text": "Heat about half of the olive oil in a pan and fry each piece of chicken on both sides until crispy, adding more oil as needed. Fry the chicken in batches, so as not to overcrowd the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7825.jpg"
+    },
+    {
+      "text": "Place the chicken in a casserole dish, pour the sauce over the top, and sprinkle with the mozzarella cheese. Bake for 10 minutes, or until the cheese is nice and melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_7843.jpg"
+    },
+    {
+      "text": "Serve with side of choice. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/chickenparmesan1.jpg",
+      "path": "images/aeebb9df8d6821052e51ab39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7773.jpg",
+      "path": "../../nenaudojama/dinner/images/046f56822c12527890a5abbd.jpg",
+      "archived": true,
+      "originalPath": "images/046f56822c12527890a5abbd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7789.jpg",
+      "path": "../../nenaudojama/dinner/images/b22caa1f48bef4d6225c29eb.jpg",
+      "archived": true,
+      "originalPath": "images/b22caa1f48bef4d6225c29eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7796.jpg",
+      "path": "../../nenaudojama/dinner/images/6c33572942917dd3aa8d042d.jpg",
+      "archived": true,
+      "originalPath": "images/6c33572942917dd3aa8d042d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7799.jpg",
+      "path": "../../nenaudojama/dinner/images/ddc48fe9de0146e5f44c12f2.jpg",
+      "archived": true,
+      "originalPath": "images/ddc48fe9de0146e5f44c12f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7811.jpg",
+      "path": "../../nenaudojama/dinner/images/e86167d7fb4e2a23b465af89.jpg",
+      "archived": true,
+      "originalPath": "images/e86167d7fb4e2a23b465af89.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7825.jpg",
+      "path": "../../nenaudojama/dinner/images/d9ee55b1151bc143883ce072.jpg",
+      "archived": true,
+      "originalPath": "images/d9ee55b1151bc143883ce072.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7843.jpg",
+      "path": "../../nenaudojama/dinner/images/054a90f1176e50f00d71929b.avif",
+      "archived": true,
+      "originalPath": "images/054a90f1176e50f00d71929b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/chickenparmesansecond.jpg",
+      "path": "../../nenaudojama/dinner/images/853d3ff0fb102c9ca8375086.avif",
+      "archived": true,
+      "originalPath": "images/853d3ff0fb102c9ca8375086.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/chickenparmesanlong1.jpg",
+      "path": "../../nenaudojama/dinner/images/6bb5bb3a580dfba24b7452a3.avif",
+      "archived": true,
+      "originalPath": "images/6bb5bb3a580dfba24b7452a3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7773-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a053856a70ff9c6884772197.jpg",
+      "archived": true,
+      "originalPath": "images/a053856a70ff9c6884772197.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7789-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/da97da7fd41ac3c91eb234f4.avif",
+      "archived": true,
+      "originalPath": "images/da97da7fd41ac3c91eb234f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7796-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f5174f423563d73f6b73ebc2.avif",
+      "archived": true,
+      "originalPath": "images/f5174f423563d73f6b73ebc2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7799-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1ba0cf54793779c5cf84e17a.avif",
+      "archived": true,
+      "originalPath": "images/1ba0cf54793779c5cf84e17a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7811-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/068e50c438cc73db6a964a1d.jpg",
+      "archived": true,
+      "originalPath": "images/068e50c438cc73db6a964a1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7825-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d203b1c455b6fc3218afc993.jpg",
+      "archived": true,
+      "originalPath": "images/d203b1c455b6fc3218afc993.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_7843-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/26b1b539547b482e9c17ed01.avif",
+      "archived": true,
+      "originalPath": "images/26b1b539547b482e9c17ed01.avif"
+    }
+  ],
+  "featuredImage": "images/aeebb9df8d6821052e51ab39.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple Chicken Parmesan",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Simple Chicken Parmesan. Each serving comes out to be 593 calories, 36.5g fats, 3.2g net carbs, and 58.5g protein.",
+    "datePublished": "2014-11-16T17:06:54+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/11/chickenparmesan1.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT20M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "816 gram boneless, skinless chicken breast",
+      "salt and pepper (to taste)",
+      "1 cup mozzarella cheese (shredded)",
+      "2 1/2 ounce pork rinds",
+      "1/4 cup flaxseed meal",
+      "1/2 cup parmesan cheese (shredded)",
+      "2 teaspoon paprika",
+      "1 teaspoon dried oregano",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1 large egg",
+      "1 1/2 teaspoon chicken broth",
+      "1/4 cup olive oil",
+      "1 cup low-carb tomato sauce (such as Rao's)",
+      "1/4 cup olive oil",
+      "1/2 teaspoon fresh garlic",
+      "1/2 teaspoon dried oregano",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. In a food processor, grind up the pork rinds, flaxseed meal, parmesan cheese, and spices. Transfer the mixture to a shallow bowl.",
+        "name": "Preheat oven to 400F. In a food processor, grind up the pork rinds, flaxseed meal, parmesan cheese, and spices. Transfer the mixture to a shallow bowl.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7773.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the chicken breasts in half and pound them out into cutlets. Season with salt and pepper to taste.",
+        "name": "Slice the chicken breasts in half and pound them out into cutlets. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7789.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate shallow bowl from the coating, whisk the egg together with the chicken broth.",
+        "name": "In a separate shallow bowl from the coating, whisk the egg together with the chicken broth.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7796.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over medium heat, whisk together all of the ingredients for the sauce. Let this cook for at least 20 minutes while preparing the chicken.",
+        "name": "In a saucepan over medium heat, whisk together all of the ingredients for the sauce. Let this cook for at least 20 minutes while preparing the chicken.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7799.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bread the chicken cutlets by dipping them in the egg mixture and then dipping them in the coating mixture. Set the breaded cutlets aside on a piece of foil.",
+        "name": "Bread the chicken cutlets by dipping them in the egg mixture and then dipping them in the coating mixture. Set the breaded cutlets aside on a piece of foil.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7811.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat about half of the olive oil in a pan and fry each piece of chicken on both sides until crispy, adding more oil as needed. Fry the chicken in batches, so as not to overcrowd the pan.",
+        "name": "Heat about half of the olive oil in a pan and fry each piece of chicken on both sides until crispy, adding more oil as needed. Fry the chicken in batches, so as not to overcrowd the pan.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7825.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken in a casserole dish, pour the sauce over the top, and sprinkle with the mozzarella cheese. Bake for 10 minutes, or until the cheese is nice and melted.",
+        "name": "Place the chicken in a casserole dish, pour the sauce over the top, and sprinkle with the mozzarella cheese. Bake for 10 minutes, or until the cheese is nice and melted.",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_7843.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with side of choice. Enjoy!",
+        "name": "Serve with side of choice. Enjoy!",
+        "url": "https://www.ruled.me/simple-chicken-parmesan/#wprm-recipe-51471-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "comfort-food, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, poultry, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "593 kcal",
+      "fatContent": "36.5 g",
+      "proteinContent": "58.5 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/simple-chicken-parmesan/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-chicken-parmesan/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-chicken-parmesan/"
+  },
+  "sourceIndex": {
+    "id": 24911,
+    "rid": 51471,
+    "t": "Simple Chicken Parmesan",
+    "u": "/simple-chicken-parmesan/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/11/chickenparmesan1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.2,
+    "cal": 593,
+    "pr": 58.5,
+    "fa": 36.5,
+    "tm": 45,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 20,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-11-16",
+    "cm": 43,
+    "ex": "You knew it was coming - a deliciously tender, fried up chicken cutlet layered with fantastic home-made tasting sauce and melted cheese over the top. Really, you can't go wrong with comfort food like",
+    "pv": 495
+  },
+  "sourceHtml": "pages/simple-chicken-parmesan.html",
+  "scrapedAt": "2026-11-07T08:27:44.986Z"
+}

@@ -1,0 +1,381 @@
+{
+  "id": "ruled-3749",
+  "slug": "low-carb-mexican-hot-chocolate-cookies",
+  "title": "Low-Carb Mexican Hot Chocolate Cookies",
+  "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 15 servings of Low-Carb Mexican Hot Chocolate Cookies. Each serving comes out to be 136 calories, 12g fats, 1.7g net carbs, and 3.1g protein.",
+  "servings": 15,
+  "yield": [
+    "15",
+    "15 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "136 kcal",
+    "fatContent": "12 g",
+    "proteinContent": "3.1 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 136,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 3.1,
+    "fatGrams": 12
+  },
+  "ingredients": [
+    "3/4 cup coconut flour",
+    "8 tablespoon unsweetened dark cocoa powder",
+    "1 1/2 teaspoon chili powder",
+    "2 1/2 teaspoon ground cinnamon",
+    "1/2 teaspoon cayenne pepper",
+    "1/4 teaspoon salt",
+    "1/2 cup stevia/erythritol blend (such as Swerve)",
+    "1/2 cup coconut oil",
+    "3 tablespoon butter (salted)",
+    "4 large egg",
+    "2 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Add the coconut flour to a mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-02.jpg"
+    },
+    {
+      "text": "Add cocoa powder, chili powder, cinnamon, cayenne pepper, salt, and sweetener (save just a little bit for later). Mix it all together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-04.jpg"
+    },
+    {
+      "text": "In a microwave-safe container, add the coconut oil and butter inside. Place in the microwave for 10–15 seconds until melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-07.jpg"
+    },
+    {
+      "text": "Add the eggs and vanilla to the butter mixture and whisk until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-09.jpg"
+    },
+    {
+      "text": "Add the butter and egg mixture to the dry ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-10.jpg"
+    },
+    {
+      "text": "Mix well, allowing the liquid to completely soak into the dry ingredients. Knead the mixture together into a dough.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-11.jpg"
+    },
+    {
+      "text": "Form the dough into cookies and place on a lightly greased or parchment lined baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-12.jpg"
+    },
+    {
+      "text": "Bake for 12–15 minutes. The cookies will be slightly soft when taken out. Let cool for a few minutes before eating. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-14.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "spicy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/6830f4e66c14d0552b95a2ab.jpg",
+      "archived": true,
+      "originalPath": "images/6830f4e66c14d0552b95a2ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-featured.jpg",
+      "path": "images/914a20f1e15b704dc1eb9e3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-02.jpg",
+      "path": "../../nenaudojama/dessert/images/7c895c28985bb8509f44c667.avif",
+      "archived": true,
+      "originalPath": "images/7c895c28985bb8509f44c667.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-04.jpg",
+      "path": "../../nenaudojama/dessert/images/2bfd1ec9f6145e99046b17a5.jpg",
+      "archived": true,
+      "originalPath": "images/2bfd1ec9f6145e99046b17a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-07.jpg",
+      "path": "../../nenaudojama/dessert/images/72d7eaed7ed340bdd44c89b7.avif",
+      "archived": true,
+      "originalPath": "images/72d7eaed7ed340bdd44c89b7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-09.jpg",
+      "path": "../../nenaudojama/dessert/images/f429259750d499ddef1ec6c0.jpg",
+      "archived": true,
+      "originalPath": "images/f429259750d499ddef1ec6c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-10.jpg",
+      "path": "../../nenaudojama/dessert/images/3dcb8ff7ccf8d23e7b91172c.avif",
+      "archived": true,
+      "originalPath": "images/3dcb8ff7ccf8d23e7b91172c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-11.jpg",
+      "path": "../../nenaudojama/dessert/images/6a3a4848c3ca42888deb6c4b.jpg",
+      "archived": true,
+      "originalPath": "images/6a3a4848c3ca42888deb6c4b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-12.jpg",
+      "path": "../../nenaudojama/dessert/images/e0d7433d3caed7b471485368.jpg",
+      "archived": true,
+      "originalPath": "images/e0d7433d3caed7b471485368.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-14.jpg",
+      "path": "../../nenaudojama/dessert/images/52d5db6edbca2945715ba0b5.jpg",
+      "archived": true,
+      "originalPath": "images/52d5db6edbca2945715ba0b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/c27dc304da0bf414607d5630.jpg",
+      "archived": true,
+      "originalPath": "images/c27dc304da0bf414607d5630.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/fe0080d9c3db7d36c27d7079.avif",
+      "archived": true,
+      "originalPath": "images/fe0080d9c3db7d36c27d7079.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/efa7a76434c4823e1481c6c0.jpg",
+      "archived": true,
+      "originalPath": "images/efa7a76434c4823e1481c6c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-07-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/909ab98112d9635d83aa4172.avif",
+      "archived": true,
+      "originalPath": "images/909ab98112d9635d83aa4172.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-09-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7d92d86bb62bbe989e27480c.jpg",
+      "archived": true,
+      "originalPath": "images/7d92d86bb62bbe989e27480c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-10-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c9af7a26bbe1f6d4f579e8cc.avif",
+      "archived": true,
+      "originalPath": "images/c9af7a26bbe1f6d4f579e8cc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-11-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2fa08693a07d28b51822634a.jpg",
+      "archived": true,
+      "originalPath": "images/2fa08693a07d28b51822634a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-12-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/82416dd614ba9748f870b579.jpg",
+      "archived": true,
+      "originalPath": "images/82416dd614ba9748f870b579.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-14-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/98f45aea4c7269de078a4820.jpg",
+      "archived": true,
+      "originalPath": "images/98f45aea4c7269de078a4820.jpg"
+    }
+  ],
+  "featuredImage": "images/914a20f1e15b704dc1eb9e3d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Mexican Hot Chocolate Cookies",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 15 servings of Low-Carb Mexican Hot Chocolate Cookies. Each serving comes out to be 136 calories, 12g fats, 1.7g net carbs, and 3.1g protein.",
+    "datePublished": "2013-12-08T17:45:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-featured.jpg"
+    ],
+    "recipeYield": [
+      "15",
+      "15 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "3/4 cup coconut flour",
+      "8 tablespoon unsweetened dark cocoa powder",
+      "1 1/2 teaspoon chili powder",
+      "2 1/2 teaspoon ground cinnamon",
+      "1/2 teaspoon cayenne pepper",
+      "1/4 teaspoon salt",
+      "1/2 cup stevia/erythritol blend (such as Swerve)",
+      "1/2 cup coconut oil",
+      "3 tablespoon butter (salted)",
+      "4 large egg",
+      "2 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Add the coconut flour to a mixing bowl.",
+        "name": "Preheat oven to 350F. Add the coconut flour to a mixing bowl.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add cocoa powder, chili powder, cinnamon, cayenne pepper, salt, and sweetener (save just a little bit for later). Mix it all together.",
+        "name": "Add cocoa powder, chili powder, cinnamon, cayenne pepper, salt, and sweetener (save just a little bit for later). Mix it all together.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a microwave-safe container, add the coconut oil and butter inside. Place in the microwave for 10–15 seconds until melted.",
+        "name": "In a microwave-safe container, add the coconut oil and butter inside. Place in the microwave for 10–15 seconds until melted.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs and vanilla to the butter mixture and whisk until well combined.",
+        "name": "Add the eggs and vanilla to the butter mixture and whisk until well combined.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter and egg mixture to the dry ingredients.",
+        "name": "Add the butter and egg mixture to the dry ingredients.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix well, allowing the liquid to completely soak into the dry ingredients. Knead the mixture together into a dough.",
+        "name": "Mix well, allowing the liquid to completely soak into the dry ingredients. Knead the mixture together into a dough.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the dough into cookies and place on a lightly greased or parchment lined baking sheet.",
+        "name": "Form the dough into cookies and place on a lightly greased or parchment lined baking sheet.",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 12–15 minutes. The cookies will be slightly soft when taken out. Let cool for a few minutes before eating. Enjoy!",
+        "name": "Bake for 12–15 minutes. The cookies will be slightly soft when taken out. Let cool for a few minutes before eating. Enjoy!",
+        "url": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#wprm-recipe-50529-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-14.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Cookies",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, gluten-free, keto, low-carb, nut-free, oven-baked, quick, spicy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "136 kcal",
+      "fatContent": "12 g",
+      "proteinContent": "3.1 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-mexican-hot-chocolate-cookies/"
+  },
+  "sourceIndex": {
+    "id": 3749,
+    "rid": 50529,
+    "t": "Low Carb Mexican Hot Chocolate Cookies",
+    "u": "/low-carb-mexican-hot-chocolate-cookies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/low-carb-mexican-hot-chocolate-cookies-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.7,
+    "cal": 136,
+    "pr": 3.1,
+    "fa": 12,
+    "tm": 30,
+    "sv": 15,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "spicy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked"
+    ],
+    "d": "2013-12-08",
+    "cm": 1,
+    "ex": "I've been making a lot of sweets lately, and I am starting to get tired of them. Weird huh? I guess I have no sweet tooth anymore, I much prefer the savory side of things. I wanted to make something",
+    "pv": 92
+  },
+  "sourceHtml": "pages/low-carb-mexican-hot-chocolate-cookies.html",
+  "scrapedAt": "2026-11-07T08:30:47.701Z"
+}

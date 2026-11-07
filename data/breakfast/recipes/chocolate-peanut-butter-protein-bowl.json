@@ -1,0 +1,281 @@
+{
+  "id": "ruled-56777",
+  "slug": "chocolate-peanut-butter-protein-bowl",
+  "title": "Chocolate Peanut Butter Protein Bowl",
+  "url": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Chocolate Peanut Butter Protein Bowl. The serving comes out to be 558 calories, 38.4g fats, 9.9g net carbs, and 43.2g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "558 kcal",
+    "fatContent": "38.4 g",
+    "proteinContent": "43.2 g",
+    "carbohydrateContent": "9.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 558,
+    "netCarbsGrams": 9.9,
+    "proteinGrams": 43.2,
+    "fatGrams": 38.4
+  },
+  "ingredients": [
+    "3/4 cup full-fat plain greek yogurt",
+    "1 ounce low-carb chocolate protein powder",
+    "1 tablespoon peanut butter",
+    "4 tablespoon heavy cream"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-1.jpg"
+    },
+    {
+      "text": "In a bowl, add all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-2.jpg"
+    },
+    {
+      "text": "Mix everything together well, making sure there are no lumps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-3.jpg"
+    },
+    {
+      "text": "Eat immediately or refrigerate/freeze until ready. Optionally garnish with peanuts and chopped low-carb chocolate. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/7766198eee2d4381b82a1bb5.jpg",
+      "archived": true,
+      "originalPath": "images/7766198eee2d4381b82a1bb5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured.jpg",
+      "path": "images/dca9cfaba1631f6a3e0a04e0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/039e36b9d18a12d525fb3b08.jpg",
+      "archived": true,
+      "originalPath": "images/039e36b9d18a12d525fb3b08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/68ef5a20761f11aaa33ca448.jpg",
+      "archived": true,
+      "originalPath": "images/68ef5a20761f11aaa33ca448.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/cab4923cde6658732fb3dceb.jpg",
+      "archived": true,
+      "originalPath": "images/cab4923cde6658732fb3dceb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/6d40235fe0db7c7a1d63221a.avif",
+      "archived": true,
+      "originalPath": "images/6d40235fe0db7c7a1d63221a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/cb6722190c1c888a766efb51.avif",
+      "archived": true,
+      "originalPath": "images/cb6722190c1c888a766efb51.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/fd728deb01c57e51c2415136.avif",
+      "archived": true,
+      "originalPath": "images/fd728deb01c57e51c2415136.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1b20d73be09d846fd6940eac.avif",
+      "archived": true,
+      "originalPath": "images/1b20d73be09d846fd6940eac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6b4bf0b52626c83b54974c43.avif",
+      "archived": true,
+      "originalPath": "images/6b4bf0b52626c83b54974c43.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/68e3f5d7aeb9c3430258dc57.avif",
+      "archived": true,
+      "originalPath": "images/68e3f5d7aeb9c3430258dc57.avif"
+    }
+  ],
+  "featuredImage": "images/dca9cfaba1631f6a3e0a04e0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chocolate Peanut Butter Protein Bowl",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Chocolate Peanut Butter Protein Bowl. The serving comes out to be 558 calories, 38.4g fats, 9.9g net carbs, and 43.2g protein.",
+    "datePublished": "2024-07-11T09:16:12+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured-480x270.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup full-fat plain greek yogurt",
+      "1 ounce low-carb chocolate protein powder",
+      "1 tablespoon peanut butter",
+      "4 tablespoon heavy cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients.",
+        "name": "Gather and prep all of your ingredients.",
+        "url": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, add all of the ingredients.",
+        "name": "In a bowl, add all of the ingredients.",
+        "url": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything together well, making sure there are no lumps.",
+        "name": "Mix everything together well, making sure there are no lumps.",
+        "url": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Eat immediately or refrigerate/freeze until ready. Optionally garnish with peanuts and chopped low-carb chocolate. Enjoy!",
+        "name": "Eat immediately or refrigerate/freeze until ready. Optionally garnish with peanuts and chopped low-carb chocolate. Enjoy!",
+        "url": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#wprm-recipe-56784-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-bake, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "558 kcal",
+      "fatContent": "38.4 g",
+      "proteinContent": "43.2 g",
+      "carbohydrateContent": "9.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chocolate-peanut-butter-protein-bowl/"
+  },
+  "sourceIndex": {
+    "id": 56777,
+    "rid": 56784,
+    "t": "Chocolate Peanut Butter Protein Bowl",
+    "u": "/chocolate-peanut-butter-protein-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/06/Chocolate-PB-Protein-Bowl-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 9.9,
+    "cal": 558,
+    "pr": 43.2,
+    "fa": 38.4,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2024-07-11",
+    "cm": 0,
+    "ex": "Satisfy your cravings with this super simple protein bowl - a delectable combination of chocolate, creamy peanut butter, and protein-packed Greek yogurt. This recipe offers a convenient and indulgent",
+    "pv": 573
+  },
+  "sourceHtml": "pages/chocolate-peanut-butter-protein-bowl.html",
+  "scrapedAt": "2026-11-07T08:11:11.799Z"
+}

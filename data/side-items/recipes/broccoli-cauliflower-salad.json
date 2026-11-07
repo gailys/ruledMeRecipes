@@ -1,0 +1,277 @@
+{
+  "id": "ruled-34580",
+  "slug": "broccoli-cauliflower-salad",
+  "title": "Broccoli Cauliflower Salad",
+  "url": "https://www.ruled.me/broccoli-cauliflower-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Broccoli Cauliflower Salad. Each serving comes out to be 234 calories, 20.8g fats, 4g net carbs, and 6.1g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "234 kcal",
+    "fatContent": "20.8 g",
+    "proteinContent": "6.1 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 234,
+    "netCarbsGrams": 4,
+    "proteinGrams": 6.1,
+    "fatGrams": 20.8
+  },
+  "ingredients": [
+    "1/2 cup mayonnaise",
+    "1/2 cup sour cream",
+    "3 tablespoon apple cider vinegar",
+    "3 tablespoon stevia/erythritol blend",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "3 cup cauliflower (chopped)",
+    "3 cup broccoli (chopped)",
+    "1/4 cup red onion (diced)",
+    "8 slice cooked bacon (crumbled)",
+    "1/4 cup almonds (sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "Whisk the mayonnaise, sour cream, apple cider vinegar, erythritol/stevia blend, salt, and pepper in a medium sized bowl (or mason jar). Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-02.jpg"
+    },
+    {
+      "text": "Add the chopped broccoli and cauliflower, onion, crumbled bacon, and sliced almonds to a large bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-04.jpg"
+    },
+    {
+      "text": "Drizzle with prepared dressing and toss to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-05.jpg"
+    },
+    {
+      "text": "Salad can be served immediately or refrigerated up to 24 hours before serving. The vegetables get better the longer the flavors are allowed to combine in the fridge!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "no-cook",
+    "make-ahead",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-featuredf-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/2908d4f033567fd2c61af24f.avif",
+      "archived": true,
+      "originalPath": "images/2908d4f033567fd2c61af24f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-featuredf.jpg",
+      "path": "../../nenaudojama/side-items/images/1f1c0d35178891e4c8a79eba.jpg",
+      "archived": true,
+      "originalPath": "images/1f1c0d35178891e4c8a79eba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-02.jpg",
+      "path": "../../nenaudojama/side-items/images/d957c8984513a07f19341752.jpg",
+      "archived": true,
+      "originalPath": "images/d957c8984513a07f19341752.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-04.jpg",
+      "path": "../../nenaudojama/side-items/images/7c9cfdc43af79671c6ae7000.jpg",
+      "archived": true,
+      "originalPath": "images/7c9cfdc43af79671c6ae7000.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-05.jpg",
+      "path": "../../nenaudojama/side-items/images/c50c3418772f664f51feed08.jpg",
+      "archived": true,
+      "originalPath": "images/c50c3418772f664f51feed08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-second.jpg",
+      "path": "../../nenaudojama/side-items/images/ac30e10fdb14c672669aeea2.avif",
+      "archived": true,
+      "originalPath": "images/ac30e10fdb14c672669aeea2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/6677fcffff46498b1a1a0d98.avif",
+      "archived": true,
+      "originalPath": "images/6677fcffff46498b1a1a0d98.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/fec7f3febe64781e25df70b9.jpg",
+      "archived": true,
+      "originalPath": "images/fec7f3febe64781e25df70b9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/52bd036a8df0823da193506a.jpg",
+      "archived": true,
+      "originalPath": "images/52bd036a8df0823da193506a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-05-241x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6064ea1a2d12e1b8038410a9.avif",
+      "archived": true,
+      "originalPath": "images/6064ea1a2d12e1b8038410a9.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/1f1c0d35178891e4c8a79eba.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Broccoli Cauliflower Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Broccoli Cauliflower Salad. Each serving comes out to be 234 calories, 20.8g fats, 4g net carbs, and 6.1g protein.",
+    "datePublished": "2018-08-09T11:00:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-featuredf.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT20M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "1/2 cup mayonnaise",
+      "1/2 cup sour cream",
+      "3 tablespoon apple cider vinegar",
+      "3 tablespoon stevia/erythritol blend",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "3 cup cauliflower (chopped)",
+      "3 cup broccoli (chopped)",
+      "1/4 cup red onion (diced)",
+      "8 slice cooked bacon (crumbled)",
+      "1/4 cup almonds (sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the mayonnaise, sour cream, apple cider vinegar, erythritol/stevia blend, salt, and pepper in a medium sized bowl (or mason jar). Set aside.",
+        "name": "Whisk the mayonnaise, sour cream, apple cider vinegar, erythritol/stevia blend, salt, and pepper in a medium sized bowl (or mason jar). Set aside.",
+        "url": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped broccoli and cauliflower, onion, crumbled bacon, and sliced almonds to a large bowl.",
+        "name": "Add the chopped broccoli and cauliflower, onion, crumbled bacon, and sliced almonds to a large bowl.",
+        "url": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle with prepared dressing and toss to combine.",
+        "name": "Drizzle with prepared dressing and toss to combine.",
+        "url": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Salad can be served immediately or refrigerated up to 24 hours before serving. The vegetables get better the longer the flavors are allowed to combine in the fridge!",
+        "name": "Salad can be served immediately or refrigerated up to 24 hours before serving. The vegetables get better the longer the flavors are allowed to combine in the fridge!",
+        "url": "https://www.ruled.me/broccoli-cauliflower-salad/#wprm-recipe-52369-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, gluten-free, keto, low-carb, make-ahead, no-cook, pork, quick, simple-and-easy, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "234 kcal",
+      "fatContent": "20.8 g",
+      "proteinContent": "6.1 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/broccoli-cauliflower-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/broccoli-cauliflower-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/broccoli-cauliflower-salad/"
+  },
+  "sourceIndex": {
+    "id": 34580,
+    "rid": 52369,
+    "t": "Broccoli Cauliflower Salad",
+    "u": "/broccoli-cauliflower-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/broccoli-cauliflower-salad-featuredf-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4,
+    "cal": 234,
+    "pr": 6.1,
+    "fa": 20.8,
+    "tm": 20,
+    "sv": 8,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 11,
+    "fk": [
+      "no-cook",
+      "make-ahead",
+      "pork"
+    ],
+    "d": "2018-08-09",
+    "cm": 4,
+    "ex": "It’s always nice to have a few easy no-cook side dishes to make when the weather is hot, or you don’t feel like cooking. This broccoli cauliflower salad combines fresh raw veggies, crunchy nuts",
+    "pv": 570
+  },
+  "sourceHtml": "pages/broccoli-cauliflower-salad.html",
+  "scrapedAt": "2026-11-07T08:32:20.157Z"
+}

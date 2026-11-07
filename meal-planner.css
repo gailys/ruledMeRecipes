@@ -1,0 +1,235 @@
+/* Recipe discovery follows the app's existing cream, forest and lime palette. */
+.settings-option.clear-plan-option {color:#9a4435;border-color:#e4c9be;background:#fff8f3}
+.clear-plan-option .settings-option-icon {background:#f4e3da;color:#9a4435}
+.planner-onboarding-dialog #first-plan-start-offset {font:inherit;background:var(--paper);color:var(--green)}
+.planner-onboarding-dialog .plan-start-preview {min-height:36px;margin:9px 0 0;font-size:12px;line-height:1.5;color:var(--green)}
+.planner-heading.daily-heading .menu-start-note {font-size:13px;line-height:1.6;margin:10px 0 0}
+.current-user {border:0;line-height:1.3}
+.current-user:hover {background:#285548}
+.current-user:focus-visible {outline:3px solid #c5db92;outline-offset:3px}
+.planner-heading.daily-heading {margin:0 0 16px}
+.planner-heading.daily-heading h1 {font-size:30px;line-height:1.1}
+.daily-heading .eyebrow {margin-bottom:7px;font-size:10px;letter-spacing:.07em}
+.daily-recipes {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.daily-recipe {display:flex;align-items:center;gap:12px;width:100%;min-width:0;min-height:82px;padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);text-align:left}
+.daily-recipe>img {width:58px;height:58px;flex-shrink:0;object-fit:cover;border-radius:9px;background:#e2e8d8}
+.daily-recipe-copy {display:grid;gap:4px;min-width:0;flex:1}
+.daily-recipe-copy>small {font-size:10px;font-weight:800;color:var(--green)}
+.daily-recipe-copy>strong {display:-webkit-box;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:2;font-size:14px;line-height:1.3;font-weight:700}
+.daily-recipe-copy>span {font-size:10px;line-height:1.2;color:var(--muted)}
+.daily-recipe-arrow {flex-shrink:0;font-size:22px;color:#809174}
+.daily-recipe:hover {border-color:#a8bc8a;background:#fbfcf5}
+.daily-recipe:focus-visible {outline:3px solid #c5db92;outline-offset:2px}
+.daily-recipe-row {display:flex;min-width:0;overflow:hidden;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.daily-recipe-row .daily-recipe {flex:1;border:0;border-radius:0}
+.daily-replace {display:flex;flex:0 0 60px;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:8px 4px;border:0;border-left:1px solid var(--line);background:#edf2e3;color:var(--green);font-size:10px;font-weight:800}
+.daily-replace>span:first-child {font-size:21px;line-height:1}
+.daily-replace:hover {background:#dfe9ce}
+.daily-replace:focus-visible {outline:3px solid #91ad6e;outline-offset:-3px}
+.remaining-menu {margin-top:27px}
+.extend-menu {display:flex;justify-content:center;margin-top:26px;padding:22px 0 6px;border-top:1px solid var(--line)}
+.extend-menu .primary {display:inline-flex;align-items:center;justify-content:center;gap:16px;max-width:100%;font-size:14px}
+.cart-rebuild {margin-top:24px;padding:20px;border:1px solid var(--line);border-radius:13px;background:#edf2e3;text-align:center}
+.cart-rebuild .primary {max-width:100%;font-size:13px}
+.cart-rebuild p {margin:10px 0 0;color:var(--muted);font-size:12px;line-height:1.5}
+.floating-cart-update {position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:40;transform:translateX(-50%);width:min(460px,calc(100% - 28px));padding:5px;border:1px solid #d1dcc1;border-radius:17px;background:#f7f5eef5;box-shadow:0 8px 35px #173f3533;backdrop-filter:blur(12px)}
+.floating-cart-update[hidden] {display:none}
+.floating-cart-update .primary {display:flex;align-items:center;justify-content:center;gap:9px;width:100%;padding:14px 12px;font-size:13px}
+.floating-cart-update .primary>span {font-size:20px;line-height:1}
+.has-cart-update main {padding-bottom:155px}
+@media(max-width:700px) {.has-cart-update .swipe-actions {bottom:calc(88px + env(safe-area-inset-bottom,0px))}}
+.remaining-menu>h2 {margin:0 0 14px;font-size:22px}
+.remaining-days {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:start}
+.remaining-day {min-width:0;overflow:hidden;border:1px solid var(--line);border-radius:13px;background:#f0f1e6}
+.remaining-day>h3 {margin:0;padding:12px 13px;font-size:12px;line-height:1.4;font-weight:750;color:var(--green)}
+.remaining-day-recipes {padding:0 8px 7px}
+.remaining-day .daily-recipe {min-height:65px;padding:8px;border:0;border-top:1px solid var(--line);border-radius:0;background:transparent;gap:10px}
+.remaining-day .daily-recipe>img {width:42px;height:42px;border-radius:7px}
+.remaining-day .daily-recipe-copy {gap:3px}
+.remaining-day .daily-recipe-copy>strong {font-size:12px}
+.remaining-day .daily-recipe-copy>small {font-size:9px}
+.remaining-day .daily-recipe-copy>span {font-size:9px}
+.remaining-day .daily-recipe:hover {background:#e8ecdd}
+.remaining-day .daily-recipe-row {border:0;border-top:1px solid var(--line);border-radius:0;background:transparent}
+.remaining-day .daily-recipe-row .daily-recipe {border:0}
+.remaining-day .daily-replace {flex-basis:54px;background:transparent}
+.remaining-day .daily-replace:hover {background:#dfe9ce}
+.swipe-block {display:block;margin:14px auto 0;padding:9px 13px;border:1px solid #ddc9c0;border-radius:10px;background:#fff8f3;color:#934b3b;font-size:12px;font-weight:750}
+.swipe-block:hover {background:#f6e5dd}
+@media(max-width:620px) {
+ .daily-recipes,.remaining-days {grid-template-columns:1fr}
+ .planner-heading.daily-heading h1 {font-size:25px}
+ .planner-heading.daily-heading {margin-bottom:14px}
+ .daily-recipe {min-height:76px;padding:9px 10px;gap:10px}
+ .daily-recipe>img {width:52px;height:52px}
+ .daily-recipe-copy>strong {font-size:13px}
+ .remaining-menu {margin-top:23px}
+ .remaining-menu>h2 {font-size:20px}
+}
+.settings-dialog {max-height:calc(100dvh - 32px);overflow:auto}
+.settings-dialog>.settings-close {right:9px;top:9px}
+.planner-setting label.reminder-toggle {display:flex;justify-content:space-between;align-items:center;gap:16px}
+.reminder-toggle input {width:22px;height:22px;flex-shrink:0;margin:0;padding:0;accent-color:var(--green)}
+.menu-reminder-setting select:disabled {opacity:.5;cursor:not-allowed}
+.menu-reminder-dialog {padding:28px;max-height:calc(100dvh - 32px);overflow:auto}
+.menu-reminder-dialog h2 {font-size:34px;line-height:1.15}
+.menu-reminder-dialog>p:not(.eyebrow) {font-size:14px;line-height:1.7;color:var(--muted)}
+.menu-reminder-dialog .planner-confirm-actions>button:not(.primary) {padding:12px 15px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--green)}
+.planner-favorite {display:inline-flex;margin:18px 0 0;padding:11px 15px;border:1px solid #c9d5b9;border-radius:11px;background:#f0f4e5;color:var(--green);font-size:13px;font-weight:800}
+.planner-favorite.is-favorite,.detail-action[aria-pressed="true"] {background:var(--green);color:var(--lime);border-color:var(--green)}
+.back-to-today {display:block;max-width:610px;margin:0 auto 18px;font-size:13px}
+.continue-next-menu {display:block;margin:-12px 0 24px;font-size:13px}
+.planner-heading.discovery-heading {max-width:610px;margin-inline:auto;text-align:center;justify-content:center}
+.planner-onboarding-dialog {max-height:85dvh;overflow:auto;padding:30px}
+.planner-onboarding-dialog h2 {font-size:34px;line-height:1.15}
+.planner-onboarding-dialog form>p:not(.eyebrow) {font-size:14px;line-height:1.7;color:var(--muted)}
+.planner-onboarding-dialog label {display:block;margin:24px 0 10px;color:var(--green);font-size:13px;font-weight:800}
+.planner-onboarding-dialog select {width:100%;padding:12px;border:1px solid var(--line);border-radius:11px;font:inherit;background:var(--paper);color:var(--green)}
+.planner-onboarding-dialog .primary {display:block;width:100%;margin-top:20px}
+@media(max-width:600px) {.planner-onboarding-dialog {padding:24px}}
+.planner-heading {display:flex;justify-content:space-between;align-items:center;gap:24px;margin:8px 0 30px}
+.planner-heading h1 {max-width:760px;font-size:clamp(36px,5.1vw,62px);line-height:1.03}
+.planner-heading h1>span {color:#7c963a}
+.planner-heading p:not(.eyebrow) {margin:15px 0 0;color:var(--muted);font-size:15px;line-height:1.6}
+.planner-days {flex-shrink:0;display:grid;grid-template-columns:1fr auto;gap:5px 16px;padding:15px 20px;background:var(--card);border:1px solid var(--line);border-radius:16px;text-align:left;color:var(--green)}
+.planner-days>span:first-child {font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.planner-days strong {grid-column:1;font-size:20px}
+.planner-days>span:last-child {grid-column:2;grid-row:1/3;align-self:center;font-size:22px}
+.meal-progress {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:34px}
+.meal-progress-item {position:relative;display:flex;gap:13px;align-items:center;min-width:0;padding:16px 18px 23px;border:1px solid var(--line);border-radius:15px;background:var(--card)}
+.meal-symbol {display:grid;place-items:center;width:38px;height:38px;flex-shrink:0;border-radius:50%;background:#f0eee1;color:var(--green);font-size:23px}
+.meal-progress-item>div {display:flex;justify-content:space-between;align-items:center;gap:10px;width:100%;min-width:0}
+.meal-progress-item>div>span {font-size:13px;font-weight:750}
+.meal-progress-item strong {font-size:20px;color:var(--green);white-space:nowrap}
+.meal-progress-item strong small {font-size:13px;font-weight:500;color:var(--muted)}
+.meal-progress-track {position:absolute;bottom:11px;left:18px;right:18px;height:3px;background:#e7e8df;border-radius:4px;overflow:hidden}
+.meal-progress-track>span {display:block;height:100%;background:#739448;transition:width .2s}
+.meal-progress-item.is-full {background:#eef2e3;border-color:#c7d4aa}
+.is-full .meal-symbol {background:var(--green);color:var(--lime)}
+.meal-full-check {position:absolute;top:-6px;right:-5px;display:grid;place-items:center;width:21px;height:21px;border-radius:50%;background:var(--green);color:white;font-size:11px}
+.planner-layout {display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:46px;align-items:start}
+.discovery {min-width:0;max-width:610px;width:100%;margin:0 auto;overflow:clip;padding:0 9px 12px}
+.discovery-top {display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 13px}
+.discovery-top .eyebrow {margin:0;font-size:10px;letter-spacing:.12em}
+.planner-total {font-size:11px;color:var(--muted);white-space:nowrap}
+.swipe-card {position:relative;overflow:hidden;border-radius:23px;background:var(--card);border:1px solid var(--line);box-shadow:0 10px 28px #173f350d;touch-action:pan-y;transition:transform .2s,opacity .2s;user-select:none;outline-offset:4px;transform-origin:50% 85%}
+.swipe-card:focus-visible {outline:3px solid #87a65e}
+.swipe-photo {position:relative;height:clamp(220px,29vw,330px);background:linear-gradient(140deg,#dfe7d5,#eee1c8);overflow:hidden}
+.swipe-photo>img {width:100%;height:100%;object-fit:cover;pointer-events:none}
+.swipe-photo>img[hidden] {display:none}
+.swipe-category {position:absolute;top:17px;left:17px;padding:8px 12px;border-radius:99px;background:rgba(255,255,249,.95);font-size:11px;font-weight:850;color:var(--green);box-shadow:0 2px 10px #0000000d}
+.swipe-copy {padding:20px 24px 14px}
+.swipe-recipe-meta {display:flex;justify-content:space-between;gap:12px;color:var(--muted);font-size:11px}
+.swipe-recipe-meta {align-items:center;flex-wrap:wrap}
+.swipe-duration {display:inline-flex;align-items:center;gap:7px;padding:8px 10px;border-radius:9px;background:#edf2e1;color:var(--green);font-size:13px;line-height:1.3}
+.swipe-duration>span[aria-hidden] {font-size:19px}
+.swipe-duration strong {font-weight:850}
+.swipe-duration.duration-green {background:#e3f2df;color:#245c2e}
+.swipe-duration.duration-yellow {background:#fff2b8;color:#705500}
+.swipe-duration.duration-orange {background:#ffe1c2;color:#8c400b}
+.swipe-duration.duration-red {background:#fbdcda;color:#962c2c}
+.swipe-copy h2 {margin:10px 0 19px;font-size:clamp(26px,3vw,35px);line-height:1.12;min-height:1.12em}
+.swipe-nutrition {display:flex;align-items:baseline;flex-wrap:wrap;gap:12px;padding-bottom:15px;border-bottom:1px solid var(--line);color:var(--muted);font-size:11px}
+.swipe-nutrition strong {font-size:14px;color:var(--ink);font-weight:750}
+.swipe-nutrition small {margin-left:auto;font-size:10px}
+.planner-recipe-link {display:flex;justify-content:space-between;gap:10px;width:100%;padding:14px 0 2px;border:0;background:none;color:var(--green);font-size:12px;font-weight:800;text-align:left}
+.planner-recipe-link span {font-size:16px}
+.swipe-stamp {position:absolute;top:35%;padding:8px 12px;border:4px solid currentColor;border-radius:10px;font-size:27px;font-weight:950;background:#ffffffe6;pointer-events:none;letter-spacing:.08em}
+.swipe-stamp.is-like {left:24px;transform:rotate(-15deg);color:#236447;opacity:var(--like-opacity,0)}
+.swipe-stamp.is-skip {right:24px;transform:rotate(15deg);color:#ac5745;opacity:var(--skip-opacity,0);font-size:21px}
+.swipe-card.is-dragging {transition:none;cursor:grabbing}
+.swipe-out-right {transform:translateX(115%) rotate(14deg)!important;opacity:0}
+.swipe-out-left {transform:translateX(-115%) rotate(-14deg)!important;opacity:0}
+.swipe-out-right .is-like,.swipe-out-left .is-skip {opacity:1}
+.swipe-actions {display:flex;justify-content:center;align-items:center;gap:27px;margin:22px 0 14px}
+.swipe-action,.swipe-undo {display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;border:0;background:none}
+.swipe-action>span {display:grid;place-items:center;width:65px;height:65px;border-radius:50%;font-size:39px;line-height:1;transition:transform .15s,box-shadow .15s}
+.swipe-action small {margin-top:6px;color:var(--muted);font-size:10px;font-weight:700}
+.swipe-no>span {background:#fff9f3;color:#a35848;border:1px solid #dfcfc3}
+.swipe-yes>span {background:var(--green);color:var(--lime);box-shadow:0 5px 12px #173f3522}
+.swipe-action:hover>span {transform:scale(1.06);box-shadow:0 5px 18px #173f3520}
+.swipe-undo {color:#8b927f;align-self:center}
+.swipe-undo>span {font-size:27px}
+.swipe-undo small {font-size:10px}
+.swipe-undo:disabled {opacity:.35;cursor:default}
+.swipe-hint {margin:0;text-align:center;color:var(--muted);font-size:10px;line-height:1.5}
+.chosen-menu {padding:24px;background:#eeeee3;border:1px solid #dedfce;border-radius:20px;scroll-margin-top:100px}
+.chosen-menu-heading {display:flex;justify-content:space-between;align-items:center;gap:12px}
+.chosen-menu-heading .eyebrow {font-size:10px;margin-bottom:6px}
+.chosen-menu-heading h2 {font-size:30px}
+.menu-count {font-size:25px;font-family:Georgia,serif;color:var(--green)}
+.menu-count small {font-size:15px;color:var(--muted)}
+.chosen-menu-note {font-size:11px;color:var(--muted);line-height:1.5;margin:10px 0 24px}
+.menu-days {display:grid;gap:22px}
+.menu-day h3 {display:flex;align-items:center;gap:8px;margin:0 0 9px;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.menu-day h3>span {font-size:15px;color:var(--green);letter-spacing:0;font-family:Georgia,serif}
+.menu-slot {display:flex;gap:11px;align-items:center;min-height:62px;margin-top:7px;padding:10px;border:1px dashed #d3d5c5;border-radius:11px;background:#f6f6ee}
+.menu-slot-icon {display:grid;place-items:center;flex:0 0 34px;height:34px;border-radius:9px;background:#ebece1;color:#87917c;font-size:20px}
+.menu-slot small {display:block;margin-bottom:4px;color:var(--muted);font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
+.menu-slot-empty {color:#909586;font-size:11px}
+.menu-slot.is-chosen {border:1px solid #d4dcc5;background:#fffef7;padding:7px;gap:4px}
+.menu-chosen {display:flex;align-items:center;gap:10px;min-width:0;flex:1;border:0;background:none;text-align:left;color:var(--ink);padding:0}
+.menu-chosen img {width:46px;height:46px;object-fit:cover;border-radius:7px;flex-shrink:0;background:#dfe7d5}
+.menu-chosen>span {min-width:0}
+.menu-chosen strong {display:block;font-size:11px;line-height:1.35;font-weight:700;overflow-wrap:anywhere}
+.menu-remove {flex:0 0 28px;align-self:stretch;border:0;border-radius:7px;background:none;color:#8c927f;font-size:20px}
+.menu-remove:hover {background:#f2e8dc;color:#a35848}
+.planner-reset {display:block;margin:23px auto 0;padding:8px;border:0;background:none;color:var(--muted);font-size:11px;text-decoration:underline;text-underline-offset:4px}
+.planner-end {display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:495px;padding:38px 24px;text-align:center;border:1px solid #d2ddbb;background:#f0f4e5;border-radius:23px}
+.planner-end-symbol {display:grid;place-items:center;width:72px;height:72px;margin-bottom:25px;background:var(--green);color:var(--lime);font-size:32px;border-radius:50%}
+.planner-end h2 {font-size:40px}
+.planner-end p:not(.eyebrow) {max-width:310px;margin:18px 0 28px;line-height:1.7;color:var(--muted);font-size:14px}
+.planner-end a {text-decoration:none}
+.planner-end .text-button {margin-top:12px;font-size:12px}
+.planner-end-undo {display:block;margin:14px auto 0;font-size:12px}
+.planner-setting {padding:20px 0;margin-bottom:12px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.planner-setting label {display:block;margin-bottom:12px;color:var(--green)}
+.planner-setting label strong {display:block;font-size:15px}
+.planner-setting label span,.planner-setting>small {display:block;line-height:1.6;margin-top:7px;color:var(--muted);font-size:12px}
+.planner-setting select {width:100%;border:1px solid #b9c8a5;border-radius:10px;padding:12px;font:inherit;color:var(--green);background:#f4f6ed}
+.planner-confirm-dialog {padding:28px;overflow:auto;max-height:85dvh}
+.planner-confirm-dialog h2 {font-size:30px}
+.planner-confirm-message {font-size:14px;line-height:1.7;color:var(--muted)}
+.planner-confirm-actions {display:flex;justify-content:flex-end;flex-wrap:wrap;gap:10px;margin-top:22px}
+.planner-confirm-actions>button:not(.primary) {padding:12px 15px;border:1px solid var(--line);border-radius:12px;color:var(--green);background:var(--card)}
+.planner-detail-dialog {position:fixed;width:min(680px,calc(100% - 24px));max-height:85dvh;overflow:auto;padding:32px;border:1px solid var(--line);border-radius:20px;background:var(--paper);color:var(--ink)}
+.planner-detail-dialog::backdrop {background:#102b24bb;backdrop-filter:blur(4px)}
+.planner-detail-dialog h2 {padding-right:20px;font-size:35px;line-height:1.15}
+.planner-detail-close {position:sticky;top:0;float:right;display:grid;place-items:center;width:34px;height:34px;padding:0;border:0;border-radius:50%;background:var(--green);color:white;font-size:24px;z-index:1}
+.planner-detail-image {width:100%;max-height:300px;object-fit:cover;border-radius:12px;margin:22px 0 0;background:#dfe7d5}
+.planner-detail-note {font-size:12px;line-height:1.7;color:var(--muted)}
+.planner-detail-dialog h3 {font-size:18px;margin-top:28px;color:var(--green)}
+.planner-detail-dialog ul,.planner-detail-dialog ol {padding-left:24px;line-height:1.7;font-size:14px}
+.planner-detail-dialog li {padding-left:4px;margin-bottom:12px}
+.planner-detail-dialog>a {font-size:12px;color:var(--green)}
+.planner-loading {min-height:60vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.planner-loading h1 {font-size:40px}
+.planner-loading>p:not(.eyebrow) {max-width:360px;color:var(--muted);line-height:1.7}
+.planner-spinner {width:28px;height:28px;margin:18px;border:3px solid #dce4cf;border-top-color:var(--green);border-radius:50%;animation:planner-spin 1s linear infinite}
+@keyframes planner-spin {to {transform:rotate(360deg)}}
+@media(max-width:1000px) {
+ .planner-layout {grid-template-columns:minmax(0,1fr) 305px;gap:22px}
+ .meal-progress-item {padding-inline:12px;gap:9px}.meal-progress-item>div {display:block}.meal-progress-item strong {display:block;font-size:18px}.meal-symbol {width:31px;height:31px;font-size:20px}
+ .swipe-nutrition {gap:9px}.chosen-menu {padding:19px}
+}
+@media(max-width:700px) {
+ .is-planning .topbar {min-height:56px;flex-wrap:nowrap;gap:9px}
+ .is-planning .topbar nav {width:auto;flex:1;justify-content:flex-end}
+ .is-planning #current-user {display:none}
+ .planner-layout {grid-template-columns:1fr;gap:27px}.chosen-menu {max-width:592px;width:100%;margin:0 auto}
+ .planner-heading {align-items:flex-start;gap:15px;margin-bottom:23px}.planner-heading h1 {max-width:370px;font-size:clamp(33px,7vw,46px)}
+ .planner-heading p:not(.eyebrow) {font-size:12px}.planner-heading .eyebrow {font-size:9px;letter-spacing:.1em}
+ .planner-days {padding:10px 12px;gap:4px 9px}.planner-days strong {font-size:17px}.planner-days>span:first-child {font-size:9px}.planner-days>span:last-child {font-size:17px}
+ .meal-progress {gap:7px;margin-bottom:25px}.meal-progress-item {display:block;padding:12px 9px 21px;text-align:center}.meal-symbol {display:none}.meal-progress-item>div>span {font-size:11px}.meal-progress-item strong {margin-top:3px;font-size:19px}.meal-progress-track {left:9px;right:9px;bottom:10px}
+ .discovery {padding-inline:4px}.swipe-photo {height:clamp(150px,28dvh,270px)}.swipe-copy {padding:16px 20px 12px}.swipe-copy h2 {font-size:27px;margin-bottom:14px}
+ .swipe-actions {position:sticky;bottom:10px;z-index:3;gap:22px;width:max-content;max-width:100%;margin:15px auto 10px;padding:8px 18px 6px;border:1px solid #dedfce;border-radius:60px;background:rgba(247,245,238,.97);box-shadow:0 5px 22px #173f3515;backdrop-filter:blur(8px)}
+ .swipe-action>span {width:52px;height:52px;font-size:33px}.swipe-action small {margin-top:3px}
+ .menu-days {grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px}
+}
+@media(max-width:380px) {
+ .is-planning .brand {display:none}.is-planning .topbar {padding-inline:10px}.is-planning nav a {padding-inline:6px;font-size:11px}
+ .planner-heading {flex-wrap:wrap}.planner-days {display:flex;align-items:center;padding:8px 12px}.planner-heading h1 {font-size:34px}.swipe-nutrition small {display:none}.swipe-copy h2 {font-size:26px}.planner-detail-dialog {padding:22px}
+}
+@media(prefers-reduced-motion:reduce) {
+ .swipe-card,.swipe-action>span,.meal-progress-track>span {transition:none}.planner-spinner {animation:none}
+}

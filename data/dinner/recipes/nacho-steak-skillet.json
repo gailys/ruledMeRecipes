@@ -1,0 +1,433 @@
+{
+  "id": "ruled-30793",
+  "slug": "nacho-steak-skillet",
+  "title": "Nacho Steak Skillet",
+  "url": "https://www.ruled.me/nacho-steak-skillet/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Nacho Steak Skillet. Each serving comes out to be 436 calories, 37.1g fats, 4.2g net carbs, and 18.2g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "436 kcal",
+    "fatContent": "37.1 g",
+    "proteinContent": "18.2 g",
+    "carbohydrateContent": "4.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 436,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 18.2,
+    "fatGrams": 37.1
+  },
+  "ingredients": [
+    "24 ounce cauliflower",
+    "1/3 cup coconut oil (melted)",
+    "1 teaspoon chili powder",
+    "1/2 teaspoon turmeric powder",
+    "salt and pepper (to taste)",
+    "8 ounce beef round tip steak (thinly sliced)",
+    "1 tablespoon butter",
+    "1 ounce cheddar cheese (shredded)",
+    "1 ounce monterey jack cheese (shredded)",
+    "30 gram canned jalapeno slices",
+    "1/3 cup sour cream",
+    "136 gram avocado meat (mashed)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Remove the leaves and bottom stem from the cauliflower and slice it across the head to break it up into chip-like shapes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step1.jpg"
+    },
+    {
+      "text": "In a large mixing bowl, whisk together the coconut oil, chili powder, and turmeric. Add the cauliflower and gently toss until evenly coated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step2.jpg"
+    },
+    {
+      "text": "Spread the cauliflower out on a baking sheet. Season well with salt and pepper. Roast for 20–25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step3.jpg"
+    },
+    {
+      "text": "While the cauliflower is roasting, get the rest of the toppings ready. Preheat a cast-iron skillet over medium-high heat. Liberally season both sides of the steak with salt and pepper. Add the butter to the skillet and let it melt. Once the butter stops foaming, lay the steak in the pan. Let sit (don't touch it!) until beginning to cook through. Flip it over briefly to cook the other side and then remove from the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step4.jpg"
+    },
+    {
+      "text": "Rest for 5–10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step5.jpg"
+    },
+    {
+      "text": "Once the cauliflower is done, remove it from the oven and transfer the florets to the cast-iron pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step6.jpg"
+    },
+    {
+      "text": "Slice the steak into fork-sized strips.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step7.jpg"
+    },
+    {
+      "text": "Top the cauliflower with the steak.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step8.jpg"
+    },
+    {
+      "text": "Top the skillet with the shredded cheeses and jalapeño slices. Bake for another 5–10 minutes or until the cheese has melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/step9-2.jpg"
+    },
+    {
+      "text": "Serve with sour cream and guacamole.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-9",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "oven-baked",
+    "red-meat",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "oven-baked",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/featured1-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/d3f600f9872dcc61edecad42.jpg",
+      "archived": true,
+      "originalPath": "images/d3f600f9872dcc61edecad42.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/featured1.jpg",
+      "path": "images/5d1cdd69d731b8e29f7c3566.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step1.jpg",
+      "path": "../../nenaudojama/dinner/images/2a5c9d2ab1a4138d8326600f.avif",
+      "archived": true,
+      "originalPath": "images/2a5c9d2ab1a4138d8326600f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step2.jpg",
+      "path": "../../nenaudojama/dinner/images/4bb24160e2175a564f30f013.avif",
+      "archived": true,
+      "originalPath": "images/4bb24160e2175a564f30f013.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step3.jpg",
+      "path": "../../nenaudojama/dinner/images/d9e10fba56fc4a78cc19fc10.avif",
+      "archived": true,
+      "originalPath": "images/d9e10fba56fc4a78cc19fc10.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step4.jpg",
+      "path": "../../nenaudojama/dinner/images/3a5ae8af213cdc5c2107aed9.avif",
+      "archived": true,
+      "originalPath": "images/3a5ae8af213cdc5c2107aed9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step5.jpg",
+      "path": "../../nenaudojama/dinner/images/566bcd6e3b3f1f29a7ec4627.avif",
+      "archived": true,
+      "originalPath": "images/566bcd6e3b3f1f29a7ec4627.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step6.jpg",
+      "path": "../../nenaudojama/dinner/images/594c2d0173e57607b252e4d6.avif",
+      "archived": true,
+      "originalPath": "images/594c2d0173e57607b252e4d6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step7.jpg",
+      "path": "../../nenaudojama/dinner/images/5a0fa94f87934aa9056aa7e1.jpg",
+      "archived": true,
+      "originalPath": "images/5a0fa94f87934aa9056aa7e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step8.jpg",
+      "path": "../../nenaudojama/dinner/images/9bb1de33fd25b638f0180021.avif",
+      "archived": true,
+      "originalPath": "images/9bb1de33fd25b638f0180021.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step9-2.jpg",
+      "path": "../../nenaudojama/dinner/images/0bd18f9c930b96dfa8220fae.avif",
+      "archived": true,
+      "originalPath": "images/0bd18f9c930b96dfa8220fae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/featured.jpg",
+      "path": "../../nenaudojama/dinner/images/7104532b9c28cdc846d76bee.jpg",
+      "archived": true,
+      "originalPath": "images/7104532b9c28cdc846d76bee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/pin-1.jpg",
+      "path": "../../nenaudojama/dinner/images/7cc748b2d06a549b98435745.avif",
+      "archived": true,
+      "originalPath": "images/7cc748b2d06a549b98435745.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/32d0d202ff56ab0eeb112a9c.avif",
+      "archived": true,
+      "originalPath": "images/32d0d202ff56ab0eeb112a9c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3594eb213cef80fe97ef850b.avif",
+      "archived": true,
+      "originalPath": "images/3594eb213cef80fe97ef850b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step3-511x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b3aeda86c437f064f2625e4a.avif",
+      "archived": true,
+      "originalPath": "images/b3aeda86c437f064f2625e4a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/99ef9249268944eb3e746ca2.avif",
+      "archived": true,
+      "originalPath": "images/99ef9249268944eb3e746ca2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2020944884fbc8538c063b51.avif",
+      "archived": true,
+      "originalPath": "images/2020944884fbc8538c063b51.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5b5e2c82d4fb691109d08828.avif",
+      "archived": true,
+      "originalPath": "images/5b5e2c82d4fb691109d08828.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8ad611f111361353108047cc.avif",
+      "archived": true,
+      "originalPath": "images/8ad611f111361353108047cc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step8-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b4e43592f9e69cc3372558f9.avif",
+      "archived": true,
+      "originalPath": "images/b4e43592f9e69cc3372558f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/step9-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c8d82e876e077bf4d660c141.avif",
+      "archived": true,
+      "originalPath": "images/c8d82e876e077bf4d660c141.avif"
+    }
+  ],
+  "featuredImage": "images/5d1cdd69d731b8e29f7c3566.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Nacho Steak Skillet",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Nacho Steak Skillet. Each serving comes out to be 436 calories, 37.1g fats, 4.2g net carbs, and 18.2g protein.",
+    "datePublished": "2017-06-01T11:00:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/05/featured1.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "24 ounce cauliflower",
+      "1/3 cup coconut oil (melted)",
+      "1 teaspoon chili powder",
+      "1/2 teaspoon turmeric powder",
+      "salt and pepper (to taste)",
+      "8 ounce beef round tip steak (thinly sliced)",
+      "1 tablespoon butter",
+      "1 ounce cheddar cheese (shredded)",
+      "1 ounce monterey jack cheese (shredded)",
+      "30 gram canned jalapeno slices",
+      "1/3 cup sour cream",
+      "136 gram avocado meat (mashed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Remove the leaves and bottom stem from the cauliflower and slice it across the head to break it up into chip-like shapes.",
+        "name": "Preheat oven to 400F. Remove the leaves and bottom stem from the cauliflower and slice it across the head to break it up into chip-like shapes.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, whisk together the coconut oil, chili powder, and turmeric. Add the cauliflower and gently toss until evenly coated.",
+        "name": "In a large mixing bowl, whisk together the coconut oil, chili powder, and turmeric. Add the cauliflower and gently toss until evenly coated.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the cauliflower out on a baking sheet. Season well with salt and pepper. Roast for 20–25 minutes.",
+        "name": "Spread the cauliflower out on a baking sheet. Season well with salt and pepper. Roast for 20–25 minutes.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the cauliflower is roasting, get the rest of the toppings ready. Preheat a cast-iron skillet over medium-high heat. Liberally season both sides of the steak with salt and pepper. Add the butter to the skillet and let it melt. Once the butter stops foaming, lay the steak in the pan. Let sit (don't touch it!) until beginning to cook through. Flip it over briefly to cook the other side and then remove from the pan.",
+        "name": "While the cauliflower is roasting, get the rest of the toppings ready. Preheat a cast-iron skillet over medium-high heat. Liberally season both sides of the steak with salt and pepper. Add the butter to the skillet and let it melt. Once the butter stops foaming, lay the steak in the pan. Let sit (don't touch it!) until beginning to cook through. Flip it over briefly to cook the other side and then remove from the pan.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rest for 5–10 minutes.",
+        "name": "Rest for 5–10 minutes.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cauliflower is done, remove it from the oven and transfer the florets to the cast-iron pan.",
+        "name": "Once the cauliflower is done, remove it from the oven and transfer the florets to the cast-iron pan.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the steak into fork-sized strips.",
+        "name": "Slice the steak into fork-sized strips.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the cauliflower with the steak.",
+        "name": "Top the cauliflower with the steak.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the skillet with the shredded cheeses and jalapeño slices. Bake for another 5–10 minutes or until the cheese has melted.",
+        "name": "Top the skillet with the shredded cheeses and jalapeño slices. Bake for another 5–10 minutes or until the cheese has melted.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/step9-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with sour cream and guacamole.",
+        "name": "Serve with sour cream and guacamole.",
+        "url": "https://www.ruled.me/nacho-steak-skillet/#wprm-recipe-52201-step-0-9"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, one-pan, one-pan meals, oven-baked, red meat, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "436 kcal",
+      "fatContent": "37.1 g",
+      "proteinContent": "18.2 g",
+      "carbohydrateContent": "4.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/nacho-steak-skillet/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/nacho-steak-skillet/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/nacho-steak-skillet/"
+  },
+  "sourceIndex": {
+    "id": 30793,
+    "rid": 52201,
+    "t": "Nacho Steak Skillet",
+    "u": "/nacho-steak-skillet/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/05/featured1-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.2,
+    "cal": 436,
+    "pr": 18.2,
+    "fa": 37.1,
+    "tm": 50,
+    "sv": 5,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "oven-baked",
+      "red-meat",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "oven-baked",
+      "red-meat"
+    ],
+    "d": "2017-06-01",
+    "cm": 15,
+    "ex": "This nacho steak skillet features roasted cauliflower, thin sliced steak, cheese, and lots of fun nacho toppings. I think this qualifies as keto comfort food! You can serve this at the family dinner",
+    "pv": 373
+  },
+  "sourceHtml": "pages/nacho-steak-skillet.html",
+  "scrapedAt": "2026-11-07T08:27:44.717Z"
+}

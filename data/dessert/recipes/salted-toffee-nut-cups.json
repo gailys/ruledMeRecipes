@@ -1,0 +1,301 @@
+{
+  "id": "ruled-35336",
+  "slug": "salted-toffee-nut-cups",
+  "title": "Salted Toffee Nut Cups",
+  "url": "https://www.ruled.me/salted-toffee-nut-cups/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Salted Toffee Nut Cups. Each serving comes out to be 184 calories, 18.4g fats, 11.5g net carbs, and 1.1g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT60M",
+  "cookTime": "PT10M",
+  "totalTime": "PT70M",
+  "totalMinutes": 70,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "fatContent": "18.4 g",
+    "proteinContent": "1.1 g",
+    "carbohydrateContent": "11.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 184,
+    "netCarbsGrams": 11.5,
+    "proteinGrams": 1.1,
+    "fatGrams": 18.4
+  },
+  "ingredients": [
+    "5 ounce low-carb milk chocolate",
+    "4 tablespoon erythritol",
+    "3 tablespoon butter (chilled)",
+    "1/2 ounce walnuts",
+    "sea salt"
+  ],
+  "instructions": [
+    {
+      "text": "Melt chocolate slowly by microwaving on power level 8 in 45 second intervals, stirring frequently, until chocolate is melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-01.jpg"
+    },
+    {
+      "text": "Place paper cupcake liners in a cupcake pan. Drop a dollop of chocolate into each liner and spread to evenly cover the bottom. Brush chocolate up the edges slightly with a spoon or pastry brush. Place in the freezer to harden.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-02.jpg"
+    },
+    {
+      "text": "In a microwave safe glass bowl, heat the cold butter and 3/4 of the erythritol on power 8 for three minutes. You must stir the mix every 20 to 30 seconds to prevent burning! The mixture will still look very watery and will be extremely hot! Add the remaining erythritol, then stir to thicken. Add the chopped walnuts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-03.jpg"
+    },
+    {
+      "text": "Remove the chocolate cups from the freezer. Fill each cup with a half spoon full of toffee mixture. If the mixture begins to separate and harden, that is normal! Just stir it gently and work quickly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-04.jpg"
+    },
+    {
+      "text": "Top each cup with remaining chocolate, reheating if necessary, and cool in the refrigerator for 1 hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-05.jpg"
+    },
+    {
+      "text": "Remove from cups and sprinkle with sea salt!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/94fad0ada090146b87b11b85.jpg",
+      "archived": true,
+      "originalPath": "images/94fad0ada090146b87b11b85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-featured.jpg",
+      "path": "images/d5feb08cb36b9c3451ac2376.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-01.jpg",
+      "path": "../../nenaudojama/dessert/images/c6c411d0ccec33a8e66dcedd.jpg",
+      "archived": true,
+      "originalPath": "images/c6c411d0ccec33a8e66dcedd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-02.jpg",
+      "path": "../../nenaudojama/dessert/images/d80deaab6002057e371d3c27.jpg",
+      "archived": true,
+      "originalPath": "images/d80deaab6002057e371d3c27.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-03.jpg",
+      "path": "../../nenaudojama/dessert/images/4cae946777d4daa695c43faa.avif",
+      "archived": true,
+      "originalPath": "images/4cae946777d4daa695c43faa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-04.jpg",
+      "path": "../../nenaudojama/dessert/images/0368ec5f538627f3c924470b.avif",
+      "archived": true,
+      "originalPath": "images/0368ec5f538627f3c924470b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-05.jpg",
+      "path": "../../nenaudojama/dessert/images/c1ecba8f360f9bf3bc9eb06d.avif",
+      "archived": true,
+      "originalPath": "images/c1ecba8f360f9bf3bc9eb06d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-second.jpg",
+      "path": "../../nenaudojama/dessert/images/ee9244aa7bf17b5bdf63b5fe.avif",
+      "archived": true,
+      "originalPath": "images/ee9244aa7bf17b5bdf63b5fe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/f4e89eef1682c99ffca3b9e6.avif",
+      "archived": true,
+      "originalPath": "images/f4e89eef1682c99ffca3b9e6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/75277dfa624fe355cdfb4164.jpg",
+      "archived": true,
+      "originalPath": "images/75277dfa624fe355cdfb4164.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e325525abc86cdc4e77d24c9.avif",
+      "archived": true,
+      "originalPath": "images/e325525abc86cdc4e77d24c9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8289c1902cbfbe5d4695a0aa.avif",
+      "archived": true,
+      "originalPath": "images/8289c1902cbfbe5d4695a0aa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6a78283f0143d5692abee2f8.avif",
+      "archived": true,
+      "originalPath": "images/6a78283f0143d5692abee2f8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ea1a9357c989ca90a15737bf.jpg",
+      "archived": true,
+      "originalPath": "images/ea1a9357c989ca90a15737bf.jpg"
+    }
+  ],
+  "featuredImage": "images/d5feb08cb36b9c3451ac2376.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Salted Toffee Nut Cups",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Salted Toffee Nut Cups. Each serving comes out to be 184 calories, 18.4g fats, 11.5g net carbs, and 1.1g protein.",
+    "datePublished": "2018-02-22T12:00:13+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT60M",
+    "cookTime": "PT10M",
+    "totalTime": "PT70M",
+    "recipeIngredient": [
+      "5 ounce low-carb milk chocolate",
+      "4 tablespoon erythritol",
+      "3 tablespoon butter (chilled)",
+      "1/2 ounce walnuts",
+      "sea salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Melt chocolate slowly by microwaving on power level 8 in 45 second intervals, stirring frequently, until chocolate is melted.",
+        "name": "Melt chocolate slowly by microwaving on power level 8 in 45 second intervals, stirring frequently, until chocolate is melted.",
+        "url": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place paper cupcake liners in a cupcake pan. Drop a dollop of chocolate into each liner and spread to evenly cover the bottom. Brush chocolate up the edges slightly with a spoon or pastry brush. Place in the freezer to harden.",
+        "name": "Place paper cupcake liners in a cupcake pan. Drop a dollop of chocolate into each liner and spread to evenly cover the bottom. Brush chocolate up the edges slightly with a spoon or pastry brush. Place in the freezer to harden.",
+        "url": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a microwave safe glass bowl, heat the cold butter and 3/4 of the erythritol on power 8 for three minutes. You must stir the mix every 20 to 30 seconds to prevent burning! The mixture will still look very watery and will be extremely hot! Add the remaining erythritol, then stir to thicken. Add the chopped walnuts.",
+        "name": "In a microwave safe glass bowl, heat the cold butter and 3/4 of the erythritol on power 8 for three minutes. You must stir the mix every 20 to 30 seconds to prevent burning! The mixture will still look very watery and will be extremely hot! Add the remaining erythritol, then stir to thicken. Add the chopped walnuts.",
+        "url": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chocolate cups from the freezer. Fill each cup with a half spoon full of toffee mixture. If the mixture begins to separate and harden, that is normal! Just stir it gently and work quickly.",
+        "name": "Remove the chocolate cups from the freezer. Fill each cup with a half spoon full of toffee mixture. If the mixture begins to separate and harden, that is normal! Just stir it gently and work quickly.",
+        "url": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top each cup with remaining chocolate, reheating if necessary, and cool in the refrigerator for 1 hour.",
+        "name": "Top each cup with remaining chocolate, reheating if necessary, and cool in the refrigerator for 1 hour.",
+        "url": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from cups and sprinkle with sea salt!",
+        "name": "Remove from cups and sprinkle with sea salt!",
+        "url": "https://www.ruled.me/salted-toffee-nut-cups/#wprm-recipe-52449-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "184 kcal",
+      "fatContent": "18.4 g",
+      "proteinContent": "1.1 g",
+      "carbohydrateContent": "11.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/salted-toffee-nut-cups/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/salted-toffee-nut-cups/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/salted-toffee-nut-cups/"
+  },
+  "sourceIndex": {
+    "id": 35336,
+    "rid": 52449,
+    "t": "Salted Toffee Nut Cups",
+    "u": "/salted-toffee-nut-cups/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/sea-salt-walnut-toffee-cups-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 11.5,
+    "cal": 184,
+    "pr": 1.1,
+    "fa": 18.4,
+    "tm": 70,
+    "sv": 5,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients"
+    ],
+    "d": "2018-02-22",
+    "cm": 8,
+    "ex": "Before I get to the nitty gritty of how mind-blowingly tasty these are, let’s talk about trying to make toffee out of fake sugar. Basically, it’s not easy. It’s not that the task is difficult, toffee",
+    "pv": 283
+  },
+  "sourceHtml": "pages/salted-toffee-nut-cups.html",
+  "scrapedAt": "2026-11-07T08:30:47.199Z"
+}

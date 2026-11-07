@@ -1,0 +1,329 @@
+{
+  "id": "ruled-26101",
+  "slug": "bacon-cheddar-chive-omelette",
+  "title": "Bacon, Cheddar, and Chive Omelet",
+  "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Bacon, Cheddar, and Chive Omelet. The serving comes out to be 428 calories, 34.5g fats, 1.7g net carbs, and 26.2g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "428 kcal",
+    "fatContent": "34.5 g",
+    "proteinContent": "26.2 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 428,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 26.2,
+    "fatGrams": 34.5
+  },
+  "ingredients": [
+    "1 ounce cheddar cheese",
+    "2 slice cooked bacon",
+    "1 teaspoon fresh chives",
+    "1 teaspoon lard (or other oil with a high smoke point)",
+    "2 large egg",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Have the ingredients ready to go, as the omelet will cook quickly. Shred the cheese, fry up the bacon, and chop the chives.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4273.jpg"
+    },
+    {
+      "text": "Heat up the bacon fat in a pan over medium-low heat (I used the leftover grease from frying the bacon). Once hot, add the eggs and season with the chives, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4283.jpg"
+    },
+    {
+      "text": "Once the edges are starting to set, add the bacon to the middle and let them cook together for 20–30 seconds longer before turning off the heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4285.jpg"
+    },
+    {
+      "text": "Add the cheese on top of the bacon, making sure it's centered. Then, take two edges of the omelet and fold them over the cheese. Hold the sides there for a moment, as the cheese has to partially melt so that it can \"glue\" the edges in place.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4293.jpg"
+    },
+    {
+      "text": "Do the same with the other edges, creating a burrito of sorts, then flip over and let the omelet cook in the warm pan for a little longer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4298.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "few-ingredients",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/baconcheddarchiveomelette.jpg",
+      "path": "images/d54daeda2713bcb5c011812b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4273.jpg",
+      "path": "../../nenaudojama/breakfast/images/767f37eb91b120a6cb188293.avif",
+      "archived": true,
+      "originalPath": "images/767f37eb91b120a6cb188293.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4283.jpg",
+      "path": "../../nenaudojama/breakfast/images/f6b4ff4bfccbc25c6f3bd689.jpg",
+      "archived": true,
+      "originalPath": "images/f6b4ff4bfccbc25c6f3bd689.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4285.jpg",
+      "path": "../../nenaudojama/breakfast/images/a1d75b4aaf665eb93cbe0cfb.avif",
+      "archived": true,
+      "originalPath": "images/a1d75b4aaf665eb93cbe0cfb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4293.jpg",
+      "path": "../../nenaudojama/breakfast/images/9b313a1365bc7c7d56b4b074.avif",
+      "archived": true,
+      "originalPath": "images/9b313a1365bc7c7d56b4b074.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4298.jpg",
+      "path": "../../nenaudojama/breakfast/images/7a12452f6888f0efd2e656b4.avif",
+      "archived": true,
+      "originalPath": "images/7a12452f6888f0efd2e656b4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/baconcheddarchiveomelettesecond-600x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/c68e24c44273e3a836a35a9d.avif",
+      "archived": true,
+      "originalPath": "images/c68e24c44273e3a836a35a9d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/bookcover.jpg",
+      "path": "../../nenaudojama/breakfast/images/a34f65085b05ff693f89a75a.avif",
+      "archived": true,
+      "originalPath": "images/a34f65085b05ff693f89a75a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/baconcheddarchiveomelettelong.jpg",
+      "path": "../../nenaudojama/breakfast/images/999acf44c20758a12754e2e8.jpg",
+      "archived": true,
+      "originalPath": "images/999acf44c20758a12754e2e8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4273-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8ac46ec1bfa46eaa25d37530.avif",
+      "archived": true,
+      "originalPath": "images/8ac46ec1bfa46eaa25d37530.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4283-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d3664e120a161fa28a92dfe2.jpg",
+      "archived": true,
+      "originalPath": "images/d3664e120a161fa28a92dfe2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4285-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f973894fa6ab6e0e377fc3bc.jpg",
+      "archived": true,
+      "originalPath": "images/f973894fa6ab6e0e377fc3bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4293-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ba8b3b4f708a87db1c69dca0.jpg",
+      "archived": true,
+      "originalPath": "images/ba8b3b4f708a87db1c69dca0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4298-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8b9be617b805af9dc28f8269.jpg",
+      "archived": true,
+      "originalPath": "images/8b9be617b805af9dc28f8269.jpg"
+    }
+  ],
+  "featuredImage": "images/d54daeda2713bcb5c011812b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon, Cheddar, and Chive Omelet",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Bacon, Cheddar, and Chive Omelet. The serving comes out to be 428 calories, 34.5g fats, 1.7g net carbs, and 26.2g protein.",
+    "datePublished": "2015-05-28T15:41:12+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/05/baconcheddarchiveomelette.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "1 ounce cheddar cheese",
+      "2 slice cooked bacon",
+      "1 teaspoon fresh chives",
+      "1 teaspoon lard (or other oil with a high smoke point)",
+      "2 large egg",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Have the ingredients ready to go, as the omelet will cook quickly. Shred the cheese, fry up the bacon, and chop the chives.",
+        "name": "Have the ingredients ready to go, as the omelet will cook quickly. Shred the cheese, fry up the bacon, and chop the chives.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4273.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the bacon fat in a pan over medium-low heat (I used the leftover grease from frying the bacon). Once hot, add the eggs and season with the chives, salt, and pepper.",
+        "name": "Heat up the bacon fat in a pan over medium-low heat (I used the leftover grease from frying the bacon). Once hot, add the eggs and season with the chives, salt, and pepper.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4283.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the edges are starting to set, add the bacon to the middle and let them cook together for 20–30 seconds longer before turning off the heat.",
+        "name": "Once the edges are starting to set, add the bacon to the middle and let them cook together for 20–30 seconds longer before turning off the heat.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4285.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cheese on top of the bacon, making sure it's centered. Then, take two edges of the omelet and fold them over the cheese. Hold the sides there for a moment, as the cheese has to partially melt so that it can \"glue\" the edges in place.",
+        "name": "Add the cheese on top of the bacon, making sure it's centered. Then, take two edges of the omelet and fold them over the cheese. Hold the sides there for a moment, as the cheese has to partially melt so that it can \"glue\" the edges in place.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4293.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Do the same with the other edges, creating a burrito of sorts, then flip over and let the omelet cook in the warm pan for a little longer.",
+        "name": "Do the same with the other edges, creating a burrito of sorts, then flip over and let the omelet cook in the warm pan for a little longer.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4298.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-omelette/#wprm-recipe-51697-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "428 kcal",
+      "fatContent": "34.5 g",
+      "proteinContent": "26.2 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-cheddar-chive-omelette/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-cheddar-chive-omelette/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-cheddar-chive-omelette/"
+  },
+  "sourceIndex": {
+    "id": 26101,
+    "rid": 51697,
+    "t": "Bacon Cheddar Chive Omelette",
+    "u": "/bacon-cheddar-chive-omelette/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/05/baconcheddarchiveomelette.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.7,
+    "cal": 428,
+    "pr": 26.2,
+    "fa": 34.5,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "few-ingredients",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2015-05-28",
+    "cm": 1,
+    "ex": "I am continuing on with the simple keto recipes that are things I'd make every day. I hope you guys are really enjoying the recipes that are simple, but still bring a lot of nutritional content to",
+    "pv": 272
+  },
+  "sourceHtml": "pages/bacon-cheddar-chive-omelette.html",
+  "scrapedAt": "2026-11-07T08:11:12.902Z"
+}

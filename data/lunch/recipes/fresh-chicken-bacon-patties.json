@@ -1,0 +1,520 @@
+{
+  "id": "ruled-12385",
+  "slug": "fresh-chicken-bacon-patties",
+  "title": "Fresh Chicken & Bacon Patties",
+  "url": "https://www.ruled.me/fresh-chicken-bacon-patties/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Fresh Chicken & Bacon Patties. Each serving comes out to be 109 calories, 8.6g fats, 2.4g net carbs, and 4.9g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "fatContent": "8.6 g",
+    "proteinContent": "4.9 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 109,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 4.9,
+    "fatGrams": 8.6
+  },
+  "ingredients": [
+    "4 ounce bacon",
+    "1/4 cup sun-dried tomato pesto",
+    "2 medium green bell pepper",
+    "1 ounce canned chicken breast (or fresh)",
+    "1/4 cup parmesan cheese",
+    "1 large egg",
+    "3 tablespoon coconut flour"
+  ],
+  "instructions": [
+    {
+      "text": "Start by frying the bacon in a pan. Leave it to sizzle and get nicely browned and crispy on one side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2270.jpg"
+    },
+    {
+      "text": "Meanwhile, measure out the tomato pesto sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2276.jpg"
+    },
+    {
+      "text": "Once the bacon is crisped up, flip it to the other side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2280.jpg"
+    },
+    {
+      "text": "Chop the bell peppers in half, deseed, then add them to a food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2284.jpg"
+    },
+    {
+      "text": "Process until finely chopped.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/choppedpeppers1.jpg"
+    },
+    {
+      "text": "Pour the mixture into a bowl and pat dry with paper towels — you don't want too much extra moisture here!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2295.jpg"
+    },
+    {
+      "text": "Once the bacon has finished cooking, add the canned chicken (you could also use fresh) and bacon to the food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2301.jpg"
+    },
+    {
+      "text": "Process to form a chicken and bacon paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2304.jpg"
+    },
+    {
+      "text": "Add the chicken and bacon mixture to the peppers.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2307.jpg"
+    },
+    {
+      "text": "Add the Parmesan, tomato pesto, and egg. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2310.jpg"
+    },
+    {
+      "text": "Add coconut flour as needed — you want a nice, solid mixture that can be formed into patties.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2317.jpg"
+    },
+    {
+      "text": "Form the patties, grabbing a small scoop of the chicken mixture and pressing it between your hands.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2322.jpg"
+    },
+    {
+      "text": "Fry the patties with a little oil over medium to medium-high heat until crispy, then flip and cook until crispy on opposite side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-12",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2333.jpg"
+    },
+    {
+      "text": "Set on paper towels to cool, then serve! Optional: Serve with small sprigs of dill and chile-garlic paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-13",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "pork",
+    "poultry",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "meal-prep",
+    "poultry",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties2.jpg",
+      "path": "images/852d47d22f8e68a3c96fb95b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2270.jpg",
+      "path": "../../nenaudojama/lunch/images/0e3f9983aa49c7dde6ac3106.jpg",
+      "archived": true,
+      "originalPath": "images/0e3f9983aa49c7dde6ac3106.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2276.jpg",
+      "path": "../../nenaudojama/lunch/images/8806a00ba35611a5d678a9f3.jpg",
+      "archived": true,
+      "originalPath": "images/8806a00ba35611a5d678a9f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2280.jpg",
+      "path": "../../nenaudojama/lunch/images/0a1498847a37d9d1d36b1152.jpg",
+      "archived": true,
+      "originalPath": "images/0a1498847a37d9d1d36b1152.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2284.jpg",
+      "path": "../../nenaudojama/lunch/images/9cef6348b5ffef9a2e892f26.jpg",
+      "archived": true,
+      "originalPath": "images/9cef6348b5ffef9a2e892f26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/choppedpeppers1.jpg",
+      "path": "../../nenaudojama/lunch/images/990905faa19d98f9bab662a0.jpg",
+      "archived": true,
+      "originalPath": "images/990905faa19d98f9bab662a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2295.jpg",
+      "path": "../../nenaudojama/lunch/images/5346725fe2376e8d807357df.jpg",
+      "archived": true,
+      "originalPath": "images/5346725fe2376e8d807357df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2301.jpg",
+      "path": "../../nenaudojama/lunch/images/1aeb4dbd80b633e8a815e4a8.jpg",
+      "archived": true,
+      "originalPath": "images/1aeb4dbd80b633e8a815e4a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2304.jpg",
+      "path": "../../nenaudojama/lunch/images/e63d4b558641e4b26b16d62c.jpg",
+      "archived": true,
+      "originalPath": "images/e63d4b558641e4b26b16d62c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2307.jpg",
+      "path": "../../nenaudojama/lunch/images/bc209c7c382a494d2a08e7e8.jpg",
+      "archived": true,
+      "originalPath": "images/bc209c7c382a494d2a08e7e8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2310.jpg",
+      "path": "../../nenaudojama/lunch/images/389ce1fcf338ace72a5fc2d9.jpg",
+      "archived": true,
+      "originalPath": "images/389ce1fcf338ace72a5fc2d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2317.jpg",
+      "path": "../../nenaudojama/lunch/images/99e02fe55cfc7d46656868a3.jpg",
+      "archived": true,
+      "originalPath": "images/99e02fe55cfc7d46656868a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2322.jpg",
+      "path": "../../nenaudojama/lunch/images/0be0f535c258f1d2b0a965c5.jpg",
+      "archived": true,
+      "originalPath": "images/0be0f535c258f1d2b0a965c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2333.jpg",
+      "path": "../../nenaudojama/lunch/images/d20998def5730d41c2e9acb4.jpg",
+      "archived": true,
+      "originalPath": "images/d20998def5730d41c2e9acb4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties.jpg",
+      "path": "../../nenaudojama/lunch/images/2971cfd976bf5416e68e9e73.jpg",
+      "archived": true,
+      "originalPath": "images/2971cfd976bf5416e68e9e73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpattiessecond.jpg",
+      "path": "../../nenaudojama/lunch/images/395590d23bbbe139836cefe6.jpg",
+      "archived": true,
+      "originalPath": "images/395590d23bbbe139836cefe6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2270-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/298facd9820cceda30a49898.jpg",
+      "archived": true,
+      "originalPath": "images/298facd9820cceda30a49898.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2276-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/33f99d34c6d8ea5bb6a349b0.jpg",
+      "archived": true,
+      "originalPath": "images/33f99d34c6d8ea5bb6a349b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2280-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/57f4a1613e54248c3d2141a1.jpg",
+      "archived": true,
+      "originalPath": "images/57f4a1613e54248c3d2141a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2284-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b21a0f36ffff4dd25f86ebda.jpg",
+      "archived": true,
+      "originalPath": "images/b21a0f36ffff4dd25f86ebda.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/choppedpeppers1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b264084acf7002ff57c224df.jpg",
+      "archived": true,
+      "originalPath": "images/b264084acf7002ff57c224df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2295-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a8362c08caab72ea22fdf673.jpg",
+      "archived": true,
+      "originalPath": "images/a8362c08caab72ea22fdf673.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2301-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bee5e888215a9f82cca576ab.jpg",
+      "archived": true,
+      "originalPath": "images/bee5e888215a9f82cca576ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2304-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ce6890db335802caadada7d4.jpg",
+      "archived": true,
+      "originalPath": "images/ce6890db335802caadada7d4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2307-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2a4669693d0029a8ecac9712.jpg",
+      "archived": true,
+      "originalPath": "images/2a4669693d0029a8ecac9712.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2310-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7878b1a0669718dbdc307c3b.jpg",
+      "archived": true,
+      "originalPath": "images/7878b1a0669718dbdc307c3b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2317-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5c733e44a24f7ed9aac4dafe.jpg",
+      "archived": true,
+      "originalPath": "images/5c733e44a24f7ed9aac4dafe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2322-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a03d93ec026119c96b521abe.jpg",
+      "archived": true,
+      "originalPath": "images/a03d93ec026119c96b521abe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2333-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/70136d5613a456c6ac8580f7.jpg",
+      "archived": true,
+      "originalPath": "images/70136d5613a456c6ac8580f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bea8e847e8ce27a5b54473dd.jpg",
+      "archived": true,
+      "originalPath": "images/bea8e847e8ce27a5b54473dd.jpg"
+    }
+  ],
+  "featuredImage": "images/852d47d22f8e68a3c96fb95b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fresh Chicken &amp; Bacon Patties",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 10 servings of Fresh Chicken &amp; Bacon Patties. Each serving comes out to be 109 calories, 8.6g fats, 2.4g net carbs, and 4.9g protein.",
+    "datePublished": "2014-04-04T16:24:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties2.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "4 ounce bacon",
+      "1/4 cup sun-dried tomato pesto",
+      "2 medium green bell pepper",
+      "1 ounce canned chicken breast (or fresh)",
+      "1/4 cup parmesan cheese",
+      "1 large egg",
+      "3 tablespoon coconut flour"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by frying the bacon in a pan. Leave it to sizzle and get nicely browned and crispy on one side.",
+        "name": "Start by frying the bacon in a pan. Leave it to sizzle and get nicely browned and crispy on one side.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2270.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, measure out the tomato pesto sauce.",
+        "name": "Meanwhile, measure out the tomato pesto sauce.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2276.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the bacon is crisped up, flip it to the other side.",
+        "name": "Once the bacon is crisped up, flip it to the other side.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2280.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the bell peppers in half, deseed, then add them to a food processor.",
+        "name": "Chop the bell peppers in half, deseed, then add them to a food processor.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2284.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Process until finely chopped.",
+        "name": "Process until finely chopped.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/choppedpeppers1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into a bowl and pat dry with paper towels — you don't want too much extra moisture here!",
+        "name": "Pour the mixture into a bowl and pat dry with paper towels — you don't want too much extra moisture here!",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2295.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the bacon has finished cooking, add the canned chicken (you could also use fresh) and bacon to the food processor.",
+        "name": "Once the bacon has finished cooking, add the canned chicken (you could also use fresh) and bacon to the food processor.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2301.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Process to form a chicken and bacon paste.",
+        "name": "Process to form a chicken and bacon paste.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2304.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken and bacon mixture to the peppers.",
+        "name": "Add the chicken and bacon mixture to the peppers.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2307.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Parmesan, tomato pesto, and egg. Mix well.",
+        "name": "Add the Parmesan, tomato pesto, and egg. Mix well.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2310.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add coconut flour as needed — you want a nice, solid mixture that can be formed into patties.",
+        "name": "Add coconut flour as needed — you want a nice, solid mixture that can be formed into patties.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2317.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the patties, grabbing a small scoop of the chicken mixture and pressing it between your hands.",
+        "name": "Form the patties, grabbing a small scoop of the chicken mixture and pressing it between your hands.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2322.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the patties with a little oil over medium to medium-high heat until crispy, then flip and cook until crispy on opposite side.",
+        "name": "Fry the patties with a little oil over medium to medium-high heat until crispy, then flip and cook until crispy on opposite side.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-12",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_2333.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set on paper towels to cool, then serve! Optional: Serve with small sprigs of dill and chile-garlic paste.",
+        "name": "Set on paper towels to cool, then serve! Optional: Serve with small sprigs of dill and chile-garlic paste.",
+        "url": "https://www.ruled.me/fresh-chicken-bacon-patties/#wprm-recipe-51021-step-0-13",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, family-friendly, gluten-free, keto, low-carb, meal-prep, pork, poultry, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "109 kcal",
+      "fatContent": "8.6 g",
+      "proteinContent": "4.9 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fresh-chicken-bacon-patties/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fresh-chicken-bacon-patties/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fresh-chicken-bacon-patties/"
+  },
+  "sourceIndex": {
+    "id": 12385,
+    "rid": 51021,
+    "t": "Fresh Chicken and Bacon Patties",
+    "u": "/fresh-chicken-bacon-patties/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/chickenpatties2.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 2.4,
+    "cal": 109,
+    "pr": 4.9,
+    "fa": 8.6,
+    "tm": 25,
+    "sv": 10,
+    "kw": [
+      "30-minute",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "pork",
+      "poultry",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "stovetop",
+      "meal-prep",
+      "poultry",
+      "pork"
+    ],
+    "d": "2014-04-04",
+    "cm": 6,
+    "ex": "This is a dish that you can whip up in a pinch with ingredients you already have. Chicken, bacon, eggs, cheese, and peppers are staples of a ketogenic diet. The taste of fresh bell peppers alongside",
+    "pv": 87
+  },
+  "sourceHtml": "pages/fresh-chicken-bacon-patties.html",
+  "scrapedAt": "2026-11-07T08:18:14.701Z"
+}

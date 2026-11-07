@@ -1,0 +1,316 @@
+{
+  "id": "ruled-37340",
+  "slug": "cajun-salmon-cakes",
+  "title": "Cajun Salmon Cakes",
+  "url": "https://www.ruled.me/cajun-salmon-cakes/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Cajun Salmon Cakes. Each serving comes out to be 490 calories, 40g fats, 1.8g net carbs, and 28.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "490 kcal",
+    "fatContent": "40 g",
+    "proteinContent": "28.7 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 490,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 28.7,
+    "fatGrams": 40
+  },
+  "ingredients": [
+    "12 ounce canned pink salmon",
+    "1/2 cup grated parmesan cheese (divided)",
+    "3/4 cup pork rinds (Crushed And Divided)",
+    "1/2 cup mayonnaise",
+    "2 tablespoon dijon mustard",
+    "2 tablespoon lemon juice",
+    "2 tablespoon fresh parsley (chopped)",
+    "1 tablespoon cajun seasoning",
+    "2 large egg (lightly beaten)",
+    "2 tablespoon olive oil"
+  ],
+  "instructions": [
+    {
+      "text": "In a large bowl combine the drained salmon, half the Parmesan cheese, half the ground pork rinds, mayonnaise, Dijon mustard, lemon juice, parsley and Cajun seasoning.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-02.jpg"
+    },
+    {
+      "text": "Stir in the lightly beaten eggs until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-03.jpg"
+    },
+    {
+      "text": "Gently form into equal sized patties (mixture will be fairly wet). Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "On a separate large plate combine the remaining Parmesan cheese and ground pork rinds. Spread into an even layer. Coat each side of the patties in the cheese mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-05.jpg"
+    },
+    {
+      "text": "Heat the olive oil in a large skillet. Fry the patties in the hot oil on both sides until crispy, about 5 minutes per side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-06.jpg"
+    },
+    {
+      "text": "Remove from the pan and place on paper towel to drain any excess oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/95e88733d5344957a6de1a42.jpg",
+      "archived": true,
+      "originalPath": "images/95e88733d5344957a6de1a42.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-featured.jpg",
+      "path": "images/b066a4396cec5dbdb76c63e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-02.jpg",
+      "path": "../../nenaudojama/dinner/images/ebce3c8cab615eaeb1794da5.avif",
+      "archived": true,
+      "originalPath": "images/ebce3c8cab615eaeb1794da5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-03.jpg",
+      "path": "../../nenaudojama/dinner/images/01e6b0f83ffeb8478bb3acd7.avif",
+      "archived": true,
+      "originalPath": "images/01e6b0f83ffeb8478bb3acd7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-05.jpg",
+      "path": "../../nenaudojama/dinner/images/de85cb896293b57fad4a54f4.avif",
+      "archived": true,
+      "originalPath": "images/de85cb896293b57fad4a54f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-06.jpg",
+      "path": "../../nenaudojama/dinner/images/86fa7c40ca1eabd556a33afc.avif",
+      "archived": true,
+      "originalPath": "images/86fa7c40ca1eabd556a33afc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-second.jpg",
+      "path": "../../nenaudojama/dinner/images/22e3db9d6f50c8a8cafebf8b.avif",
+      "archived": true,
+      "originalPath": "images/22e3db9d6f50c8a8cafebf8b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-04.jpg",
+      "path": "../../nenaudojama/dinner/images/2ed71e232992e5c754668ae9.avif",
+      "archived": true,
+      "originalPath": "images/2ed71e232992e5c754668ae9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/780da92a5033b735d63f7550.avif",
+      "archived": true,
+      "originalPath": "images/780da92a5033b735d63f7550.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5283b5b006fe013242fa0c0d.jpg",
+      "archived": true,
+      "originalPath": "images/5283b5b006fe013242fa0c0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/345c53487eff940ce38bfb05.avif",
+      "archived": true,
+      "originalPath": "images/345c53487eff940ce38bfb05.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dafb8cc1ba13bd0e5db35dc0.avif",
+      "archived": true,
+      "originalPath": "images/dafb8cc1ba13bd0e5db35dc0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3ffb52342e203ac0e6dd31d1.jpg",
+      "archived": true,
+      "originalPath": "images/3ffb52342e203ac0e6dd31d1.jpg"
+    }
+  ],
+  "featuredImage": "images/b066a4396cec5dbdb76c63e3.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cajun Salmon Cakes",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Cajun Salmon Cakes. Each serving comes out to be 490 calories, 40g fats, 1.8g net carbs, and 28.7g protein.",
+    "datePublished": "2018-06-07T18:24:43+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "12 ounce canned pink salmon",
+      "1/2 cup grated parmesan cheese (divided)",
+      "3/4 cup pork rinds (Crushed And Divided)",
+      "1/2 cup mayonnaise",
+      "2 tablespoon dijon mustard",
+      "2 tablespoon lemon juice",
+      "2 tablespoon fresh parsley (chopped)",
+      "1 tablespoon cajun seasoning",
+      "2 large egg (lightly beaten)",
+      "2 tablespoon olive oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl combine the drained salmon, half the Parmesan cheese, half the ground pork rinds, mayonnaise, Dijon mustard, lemon juice, parsley and Cajun seasoning.",
+        "name": "In a large bowl combine the drained salmon, half the Parmesan cheese, half the ground pork rinds, mayonnaise, Dijon mustard, lemon juice, parsley and Cajun seasoning.",
+        "url": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the lightly beaten eggs until well combined.",
+        "name": "Stir in the lightly beaten eggs until well combined.",
+        "url": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently form into equal sized patties (mixture will be fairly wet).  Set aside.",
+        "name": "Gently form into equal sized patties (mixture will be fairly wet).  Set aside.",
+        "url": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a separate large plate combine the remaining Parmesan cheese and ground pork rinds.  Spread into an even layer. Coat each side of the patties in the cheese mixture.",
+        "name": "On a separate large plate combine the remaining Parmesan cheese and ground pork rinds.  Spread into an even layer. Coat each side of the patties in the cheese mixture.",
+        "url": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a large skillet. Fry the patties in the hot oil on both sides until crispy, about 5 minutes per side.",
+        "name": "Heat the olive oil in a large skillet. Fry the patties in the hot oil on both sides until crispy, about 5 minutes per side.",
+        "url": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the pan and place on paper towel to drain any excess oil.",
+        "name": "Remove from the pan and place on paper towel to drain any excess oil.",
+        "url": "https://www.ruled.me/cajun-salmon-cakes/#wprm-recipe-52603-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "fish, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "490 kcal",
+      "fatContent": "40 g",
+      "proteinContent": "28.7 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cajun-salmon-cakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cajun-salmon-cakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cajun-salmon-cakes/"
+  },
+  "sourceIndex": {
+    "id": 37340,
+    "rid": 52603,
+    "t": "Cajun Salmon Cakes",
+    "u": "/cajun-salmon-cakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/06/cajun-salmon-cakes-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.8,
+    "cal": 490,
+    "pr": 28.7,
+    "fa": 40,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2018-06-07",
+    "cm": 5,
+    "ex": "Some days dinner seems like a daunting task, with busy schedules and not much time to cook or plan meals in advance. This recipe for Cajun Salmon Cakes is a regular in our rotation for those busy",
+    "pv": 236
+  },
+  "sourceHtml": "pages/cajun-salmon-cakes.html",
+  "scrapedAt": "2026-11-07T08:27:44.566Z"
+}

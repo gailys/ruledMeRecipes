@@ -1,0 +1,298 @@
+{
+  "id": "ruled-47667",
+  "slug": "keto-berry-yogurt-parfait",
+  "title": "Keto Berry Yogurt Parfait",
+  "url": "https://www.ruled.me/keto-berry-yogurt-parfait/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Berry Yogurt Parfait. Each serving comes out to be 312 calories, 24.7g fats, 7.6g net carbs, and 9.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "312 kcal",
+    "fatContent": "24.7 g",
+    "proteinContent": "9.1 g",
+    "carbohydrateContent": "7.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 312,
+    "netCarbsGrams": 7.6,
+    "proteinGrams": 9.1,
+    "fatGrams": 24.7
+  },
+  "ingredients": [
+    "1/3 cup chia seeds",
+    "1/4 teaspoon ground cinnamon",
+    "2/3 cup unsweetened almond milk",
+    "1/2 cup canned coconut milk",
+    "1 tablespoon powdered erythritol",
+    "3/4 cup frozen berries",
+    "3/4 cup full-fat plain greek yogurt",
+    "1/4 cup heavy cream",
+    "1/4 cup unsweetened toasted coconut flakes",
+    "3 tablespoon pumpkin seeds",
+    "2 tablespoon pecans"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Let the berries defrost.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-1.jpg"
+    },
+    {
+      "text": "Combine all of the ingredients for the coconut and seed crumble. Mix to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-2.jpg"
+    },
+    {
+      "text": "After the berries are defrosted, mash with a fork to get a paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-3.jpg"
+    },
+    {
+      "text": "Combine all of the ingredients into a bowl for the chia layer. Stir to combine well and let sit for at least 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-4.jpg"
+    },
+    {
+      "text": "In a jar, layer the chia seed, berries, and coconut/seed crumble. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-bake",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/180a70fe1e270e7c7baf5ae7.jpg",
+      "archived": true,
+      "originalPath": "images/180a70fe1e270e7c7baf5ae7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Featured.jpg",
+      "path": "images/1d079f3142f4f6cf8ffa0fb5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/209a0bd43c2845a908251b33.jpg",
+      "archived": true,
+      "originalPath": "images/209a0bd43c2845a908251b33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/b4e7c58a7385fc34534d7536.jpg",
+      "archived": true,
+      "originalPath": "images/b4e7c58a7385fc34534d7536.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/fb053b74abda5a1f12a5c817.jpg",
+      "archived": true,
+      "originalPath": "images/fb053b74abda5a1f12a5c817.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/8475c60e59644b6f0ea78f28.jpg",
+      "archived": true,
+      "originalPath": "images/8475c60e59644b6f0ea78f28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/02b4fa11df1ee2c84c776992.jpg",
+      "archived": true,
+      "originalPath": "images/02b4fa11df1ee2c84c776992.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/dd5e2c4ee3b08c6dc2994a35.avif",
+      "archived": true,
+      "originalPath": "images/dd5e2c4ee3b08c6dc2994a35.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/54cfefd5b2b4a45857b3444e.jpg",
+      "archived": true,
+      "originalPath": "images/54cfefd5b2b4a45857b3444e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff60fc86e34d4b358635d742.avif",
+      "archived": true,
+      "originalPath": "images/ff60fc86e34d4b358635d742.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b5e5a3453f20043cf972015b.avif",
+      "archived": true,
+      "originalPath": "images/b5e5a3453f20043cf972015b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1367520e5d335e78007a428d.jpg",
+      "archived": true,
+      "originalPath": "images/1367520e5d335e78007a428d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/cb29f0fdd4e1ce83b00d9d87.avif",
+      "archived": true,
+      "originalPath": "images/cb29f0fdd4e1ce83b00d9d87.avif"
+    }
+  ],
+  "featuredImage": "images/1d079f3142f4f6cf8ffa0fb5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Berry Yogurt Parfait",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Berry Yogurt Parfait. Each serving comes out to be 312 calories, 24.7g fats, 7.6g net carbs, and 9.1g protein.",
+    "datePublished": "2022-09-27T09:00:49+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1/3 cup chia seeds",
+      "1/4 teaspoon ground cinnamon",
+      "2/3 cup unsweetened almond milk",
+      "1/2 cup canned coconut milk",
+      "1 tablespoon powdered erythritol",
+      "3/4 cup frozen berries",
+      "3/4 cup full-fat plain greek yogurt",
+      "1/4 cup heavy cream",
+      "1/4 cup unsweetened toasted coconut flakes",
+      "3 tablespoon pumpkin seeds",
+      "2 tablespoon pecans"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Let the berries defrost.",
+        "name": "Measure out and prepare all of the ingredients. Let the berries defrost.",
+        "url": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all of the ingredients for the coconut and seed crumble. Mix to combine well.",
+        "name": "Combine all of the ingredients for the coconut and seed crumble. Mix to combine well.",
+        "url": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the berries are defrosted, mash with a fork to get a paste.",
+        "name": "After the berries are defrosted, mash with a fork to get a paste.",
+        "url": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all of the ingredients into a bowl for the chia layer. Stir to combine well and let sit for at least 30 minutes.",
+        "name": "Combine all of the ingredients into a bowl for the chia layer. Stir to combine well and let sit for at least 30 minutes.",
+        "url": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a jar, layer the chia seed, berries, and coconut/seed crumble. Serve and enjoy!",
+        "name": "In a jar, layer the chia seed, berries, and coconut/seed crumble. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-berry-yogurt-parfait/#wprm-recipe-54335-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, make-ahead, no-bake, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "312 kcal",
+      "fatContent": "24.7 g",
+      "proteinContent": "9.1 g",
+      "carbohydrateContent": "7.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-berry-yogurt-parfait/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-berry-yogurt-parfait/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-berry-yogurt-parfait/"
+  },
+  "sourceIndex": {
+    "id": 47667,
+    "rid": 54335,
+    "t": "Keto Berry Yogurt Parfait",
+    "u": "/keto-berry-yogurt-parfait/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Berry-Yogurt-Parfait-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.6,
+    "cal": 312,
+    "pr": 9.1,
+    "fa": 24.7,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-bake",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2022-09-27",
+    "cm": 0,
+    "ex": "These berry yogurt parfaits are cool and refreshing and really easy to put together. A parfait, if you’re not aware, is a French dessert that means a layered frozen dessert that is usually served in",
+    "pv": 181
+  },
+  "sourceHtml": "pages/keto-berry-yogurt-parfait.html",
+  "scrapedAt": "2026-11-07T08:11:12.158Z"
+}

@@ -1,0 +1,317 @@
+{
+  "id": "ruled-42830",
+  "slug": "keto-fried-chicken-and-broccoli",
+  "title": "Keto Fried Chicken and Broccoli",
+  "url": "https://www.ruled.me/keto-fried-chicken-and-broccoli/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Fried Chicken and Broccoli. Each serving comes out to be 603 calories, 53.4g fats, 5g net carbs, and 27.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "603 kcal",
+    "fatContent": "53.4 g",
+    "proteinContent": "27.5 g",
+    "carbohydrateContent": "5 g"
+  },
+  "nutritionPerServing": {
+    "calories": 603,
+    "netCarbsGrams": 5,
+    "proteinGrams": 27.5,
+    "fatGrams": 53.4
+  },
+  "ingredients": [
+    "9 ounce broccoli",
+    "3 1/2 ounce butter",
+    "10 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Rinse broccoli and trim into smaller, bite-size pieces. Include the stems in your meal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-02.jpg"
+    },
+    {
+      "text": "Add half of the butter to a pan (that can fit all ingredients) over medium-high heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-03.jpg"
+    },
+    {
+      "text": "Season the chicken with salt and pepper. Once the pan is hot, add chicken to the pan and cook until golden brown - about 5 minutes per side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-04.jpg"
+    },
+    {
+      "text": "Add the broccoli and remaining butter to the pan and sautee for a few more minutes. Season with additional salt and pepper if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-05.jpg"
+    },
+    {
+      "text": "Serve in a small bowl with all of the pan drippings. Use the broccoli to soak up the pan drippings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "batch-cooking",
+    "beginner-friendly",
+    "budget-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "one-pan",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "one-pan",
+    "stovetop",
+    "meal-prep",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/2d1b48d5024abd35ce81ef4f.jpg",
+      "archived": true,
+      "originalPath": "images/2d1b48d5024abd35ce81ef4f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-featured.jpg",
+      "path": "images/46a4bca1cd7523bd6b761601.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-02.jpg",
+      "path": "../../nenaudojama/dinner/images/12701f305efe6cb9a8592ad7.avif",
+      "archived": true,
+      "originalPath": "images/12701f305efe6cb9a8592ad7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-03.jpg",
+      "path": "../../nenaudojama/dinner/images/c5ca1d524280c6b90f3b040a.avif",
+      "archived": true,
+      "originalPath": "images/c5ca1d524280c6b90f3b040a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-04.jpg",
+      "path": "../../nenaudojama/dinner/images/0e8f7a9af2d79c3462c61e10.jpg",
+      "archived": true,
+      "originalPath": "images/0e8f7a9af2d79c3462c61e10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-05.jpg",
+      "path": "../../nenaudojama/dinner/images/37c73b53b8e043e45e56180e.avif",
+      "archived": true,
+      "originalPath": "images/37c73b53b8e043e45e56180e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-second.jpg",
+      "path": "../../nenaudojama/dinner/images/b3312caca4003d9a7e9ed855.jpg",
+      "archived": true,
+      "originalPath": "images/b3312caca4003d9a7e9ed855.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/8ae193e4885b833d5396471e.webp",
+      "archived": true,
+      "originalPath": "images/8ae193e4885b833d5396471e.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/16877fa4f9e7b0e66bfb7bcb.avif",
+      "archived": true,
+      "originalPath": "images/16877fa4f9e7b0e66bfb7bcb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/95cf0cb255b93804e49b1c2c.jpg",
+      "archived": true,
+      "originalPath": "images/95cf0cb255b93804e49b1c2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/edf510fa50ba5986b022d7fc.avif",
+      "archived": true,
+      "originalPath": "images/edf510fa50ba5986b022d7fc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/003fbf4de4ccc8414d1dda71.jpg",
+      "archived": true,
+      "originalPath": "images/003fbf4de4ccc8414d1dda71.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c0c8cb17107927e445274982.avif",
+      "archived": true,
+      "originalPath": "images/c0c8cb17107927e445274982.avif"
+    }
+  ],
+  "featuredImage": "images/46a4bca1cd7523bd6b761601.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Fried Chicken and Broccoli",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Keto Fried Chicken and Broccoli. Each serving comes out to be 603 calories, 53.4g fats, 5g net carbs, and 27.5g protein.",
+    "datePublished": "2020-03-31T09:00:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "9 ounce broccoli",
+      "3 1/2 ounce butter",
+      "10 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse broccoli and trim into smaller, bite-size pieces. Include the stems in your meal.",
+        "name": "Rinse broccoli and trim into smaller, bite-size pieces. Include the stems in your meal.",
+        "url": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add half of the butter to a pan (that can fit all ingredients) over medium-high heat.",
+        "name": "Add half of the butter to a pan (that can fit all ingredients) over medium-high heat.",
+        "url": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken with salt and pepper. Once the pan is hot, add chicken to the pan and cook until golden brown - about 5 minutes per side.",
+        "name": "Season the chicken with salt and pepper. Once the pan is hot, add chicken to the pan and cook until golden brown - about 5 minutes per side.",
+        "url": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the broccoli and remaining butter to the pan and sautee for a few more minutes. Season with additional salt and pepper if desired.",
+        "name": "Add the broccoli and remaining butter to the pan and sautee for a few more minutes. Season with additional salt and pepper if desired.",
+        "url": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve in a small bowl with all of the pan drippings. Use the broccoli to soak up the pan drippings.",
+        "name": "Serve in a small bowl with all of the pan drippings. Use the broccoli to soak up the pan drippings.",
+        "url": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#wprm-recipe-53295-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, batch-cooking, beginner-friendly, budget-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, nut-free, one-pan, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "603 kcal",
+      "fatContent": "53.4 g",
+      "proteinContent": "27.5 g",
+      "carbohydrateContent": "5 g"
+    },
+    "@id": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-fried-chicken-and-broccoli/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-fried-chicken-and-broccoli/"
+  },
+  "sourceIndex": {
+    "id": 42830,
+    "rid": 53295,
+    "t": "Keto Fried Chicken and Broccoli",
+    "u": "/keto-fried-chicken-and-broccoli/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/03/fried-chicken-broccoli-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5,
+    "cal": 603,
+    "pr": 27.5,
+    "fa": 53.4,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "batch-cooking",
+      "beginner-friendly",
+      "budget-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "one-pan",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 4,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "one-pan",
+      "stovetop",
+      "meal-prep",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-03-31",
+    "cm": 0,
+    "ex": "Not sure what to make for a quick weeknight meal? Try this pan-fried chicken and broccoli skillet dinner. It's simple to create with just a few ingredients. Juicy chicken thighs are pan-seared in",
+    "pv": 557
+  },
+  "sourceHtml": "pages/keto-fried-chicken-and-broccoli.html",
+  "scrapedAt": "2026-11-07T08:27:44.326Z"
+}

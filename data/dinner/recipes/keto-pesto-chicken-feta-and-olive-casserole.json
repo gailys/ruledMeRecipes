@@ -1,0 +1,353 @@
+{
+  "id": "ruled-41332",
+  "slug": "keto-pesto-chicken-feta-and-olive-casserole",
+  "title": "Keto Pesto Chicken, Feta, and Olive Casserole",
+  "url": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Pesto Chicken, Feta, and Olive Casserole. Each serving comes out to be 840 calories, 76g fats, 5.2g net carbs, and 37g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "840 kcal",
+    "fatContent": "76 g",
+    "proteinContent": "37 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 840,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 37,
+    "fatGrams": 76
+  },
+  "ingredients": [
+    "24 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)",
+    "2 tablespoon butter",
+    "3 ounce pesto",
+    "1 1/4 cup heavy whipping cream",
+    "3 ounce green olive",
+    "5 ounce feta cheese (diced)",
+    "1 teaspoon fresh garlic (minced)",
+    "5 ounce leafy greens",
+    "4 tablespoon olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 400F. Cut the chicken down into small pieces. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-01.jpg"
+    },
+    {
+      "text": "Add the butter to a large skillet. Heat up the skillet until the butter is hot, then pan-fry the chicken pieces until golden brown. You may need to cook the chicken in batches.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-04.jpg"
+    },
+    {
+      "text": "Mix the pesto and heavy cream together in a bowl to create the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-02.jpg"
+    },
+    {
+      "text": "Add the chicken, olives, feta, garlic, and pesto sauce to a casserole bowl. Mix together well then bake for 30 minutes or until heated through and browned around the edges.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/a7296faa6c7845fa3ca94f65.jpg",
+      "archived": true,
+      "originalPath": "images/a7296faa6c7845fa3ca94f65.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-featured.jpg",
+      "path": "images/debde90f7e01aea2ddf61cf5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-01.jpg",
+      "path": "../../nenaudojama/dinner/images/29a0c9ad6fe61bbf411f5b63.avif",
+      "archived": true,
+      "originalPath": "images/29a0c9ad6fe61bbf411f5b63.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-04.jpg",
+      "path": "../../nenaudojama/dinner/images/e71be609c525456d63f99dab.jpg",
+      "archived": true,
+      "originalPath": "images/e71be609c525456d63f99dab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-02.jpg",
+      "path": "../../nenaudojama/dinner/images/9fc6875ec88e3844c9317c04.avif",
+      "archived": true,
+      "originalPath": "images/9fc6875ec88e3844c9317c04.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-second.jpg",
+      "path": "../../nenaudojama/dinner/images/51a369a967c588aa1678b390.avif",
+      "archived": true,
+      "originalPath": "images/51a369a967c588aa1678b390.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/82919cf245383c42d8e6d2c2.avif",
+      "archived": true,
+      "originalPath": "images/82919cf245383c42d8e6d2c2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/65d1899edadf0ad5c0eb3ac1.avif",
+      "archived": true,
+      "originalPath": "images/65d1899edadf0ad5c0eb3ac1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/795f29257d969462d41d530f.jpg",
+      "archived": true,
+      "originalPath": "images/795f29257d969462d41d530f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c75c826865c58cc3d5f1c984.jpg",
+      "archived": true,
+      "originalPath": "images/c75c826865c58cc3d5f1c984.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4ef414811d08729aa88d3573.jpg",
+      "archived": true,
+      "originalPath": "images/4ef414811d08729aa88d3573.jpg"
+    }
+  ],
+  "featuredImage": "images/debde90f7e01aea2ddf61cf5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pesto Chicken, Feta, and Olive Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Pesto Chicken, Feta, and Olive Casserole. Each serving comes out to be 840 calories, 76g fats, 5.2g net carbs, and 37g protein.",
+    "datePublished": "2019-09-24T09:00:28+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Pesto Chicken, Feta, and Olive Casserole Recipe",
+      "description": "This creamy pesto chicken dish bubbles with your favorite Mediterranean flavors like feta cheese, olives, and basil. This may be your new family favorite because it’s so simple to cook but also just as big on flavors.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nChicken Casserole\n1½ pounds boneless chicken thighs\nSalt and pepper, to taste\n2 tablespoons butter\n3 ounces pesto\n1¼ cups heavy whipping cream\n3 ounces green olives\n5 ounces diced feta cheese\n1 clove garlic, finely chopped\n\nFor Serving:\n5 ounces leafy greens\n4 tablespoons olive oil\n\nNutrition Summary:\nThis makes a total of 4 servings of Keto Pesto Chicken, Feta, and Olive Casserole. Each serving comes out to be 829.63 Calories, 68.5g Fats, 5.4g Net Carbs, and 51.18g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-04-06T15:30:00+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 19303
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 530
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 32
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1TFZgDoHMxo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/1TFZgDoHMxo?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=1TFZgDoHMxo",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "24 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)",
+      "2 tablespoon butter",
+      "3 ounce pesto",
+      "1 1/4 cup heavy whipping cream",
+      "3 ounce green olive",
+      "5 ounce feta cheese (diced)",
+      "1 teaspoon fresh garlic (minced)",
+      "5 ounce leafy greens",
+      "4 tablespoon olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 400F. Cut the chicken down into small pieces. Season with salt and pepper.",
+        "name": "Preheat your oven to 400F. Cut the chicken down into small pieces. Season with salt and pepper.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter to a large skillet. Heat up the skillet until the butter is hot, then pan-fry the chicken pieces until golden brown. You may need to cook the chicken in batches.",
+        "name": "Add the butter to a large skillet. Heat up the skillet until the butter is hot, then pan-fry the chicken pieces until golden brown. You may need to cook the chicken in batches.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the pesto and heavy cream together in a bowl to create the sauce.",
+        "name": "Mix the pesto and heavy cream together in a bowl to create the sauce.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-pesto-chicken-casserole-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken, olives, feta, garlic, and pesto sauce to a casserole bowl. Mix together well then bake for 30 minutes or until heated through and browned around the edges.",
+        "name": "Add the chicken, olives, feta, garlic, and pesto sauce to a casserole bowl. Mix together well then bake for 30 minutes or until heated through and browned around the edges.",
+        "url": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#wprm-recipe-53139-step-0-3"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Very simple, affordable and fast with not too many ingredients but a ton of delicious flavor. I will be making this often!",
+        "author": {
+          "@type": "Person",
+          "name": "Michael"
+        },
+        "datePublished": "2026-02-28"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, poultry, quick, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "840 kcal",
+      "fatContent": "76 g",
+      "proteinContent": "37 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pesto-chicken-feta-and-olive-casserole/"
+  },
+  "sourceIndex": {
+    "id": 41332,
+    "rid": 53139,
+    "t": "Keto Pesto Chicken, Feta, and Olive Casserole",
+    "u": "/keto-pesto-chicken-feta-and-olive-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/09/low-carb-breakfast-casserole-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.2,
+    "cal": 840,
+    "pr": 37,
+    "fa": 76,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2019-09-24",
+    "cm": 6,
+    "ex": "This creamy pesto chicken dish bubbles with your favorite Mediterranean flavors like feta cheese, olives, and basil. This may be your new family favorite because it's so simple to cook but also just",
+    "pv": 1062
+  },
+  "sourceHtml": "pages/keto-pesto-chicken-feta-and-olive-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.418Z"
+}

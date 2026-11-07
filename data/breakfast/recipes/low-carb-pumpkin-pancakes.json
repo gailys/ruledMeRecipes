@@ -1,0 +1,288 @@
+{
+  "id": "ruled-1020",
+  "slug": "low-carb-pumpkin-pancakes",
+  "title": "Low-Carb Pumpkin Pancakes",
+  "url": "https://www.ruled.me/low-carb-pumpkin-pancakes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Low-Carb Pumpkin Pancakes. Each serving comes out to be 142 calories, 12.5g fats, 2.4g net carbs, and 4.8g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "fatContent": "12.5 g",
+    "proteinContent": "4.8 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 142,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 4.8,
+    "fatGrams": 12.5
+  },
+  "ingredients": [
+    "2 large egg",
+    "1/4 cup pumpkin puree",
+    "1/4 cup sour cream",
+    "2 tablespoon butter",
+    "1 cup almond flour",
+    "1 teaspoon pumpkin pie spice",
+    "1 teaspoon baking powder",
+    "1/4 teaspoon salt"
+  ],
+  "instructions": [
+    {
+      "text": "Mix the eggs, pumpkin puree, sour cream, and butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01269.jpg"
+    },
+    {
+      "text": "In a separate bowl, mix the almond meal, pumpkin pie spice, baking powder, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01270.jpg"
+    },
+    {
+      "text": "Slowly add the wet ingredients to the dry ingredients to create a smooth consistency. There will be a few clumps in there, but don't worry too much about these.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01271.jpg"
+    },
+    {
+      "text": "Heat up some extra butter in a pan over medium heat. Pour the pancake batter into the pan and cook until bubbles begin to appear on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01274.jpg"
+    },
+    {
+      "text": "Flip the pancakes and cook on the other side until browned. Remove from the pan and serve warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "fall",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/pumpkinpancakes.jpg",
+      "path": "images/c46a45df6da8f007de31c44c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01269.jpg",
+      "path": "../../nenaudojama/breakfast/images/8c9a30060bd09984676f5d30.jpg",
+      "archived": true,
+      "originalPath": "images/8c9a30060bd09984676f5d30.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01270.jpg",
+      "path": "../../nenaudojama/breakfast/images/a4dfdf7b6019c2ce2eef9ad4.jpg",
+      "archived": true,
+      "originalPath": "images/a4dfdf7b6019c2ce2eef9ad4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01271.jpg",
+      "path": "../../nenaudojama/breakfast/images/589ffe460bd93bd30f4ede79.jpg",
+      "archived": true,
+      "originalPath": "images/589ffe460bd93bd30f4ede79.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01274.jpg",
+      "path": "../../nenaudojama/breakfast/images/c32213be83f162a083abeef2.jpg",
+      "archived": true,
+      "originalPath": "images/c32213be83f162a083abeef2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/pumpkinpancakessecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/daceeb6b25d09602da065406.avif",
+      "archived": true,
+      "originalPath": "images/daceeb6b25d09602da065406.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/pumpkinpancakeslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/fd84cb0c8d8c1368dc35e077.jpg",
+      "archived": true,
+      "originalPath": "images/fd84cb0c8d8c1368dc35e077.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01269-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2305a0d47ae8eecf555a1030.jpg",
+      "archived": true,
+      "originalPath": "images/2305a0d47ae8eecf555a1030.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01270-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2772125cf1cf7be0829ccb03.jpg",
+      "archived": true,
+      "originalPath": "images/2772125cf1cf7be0829ccb03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01271-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5e5e95bcaee9da0b47b423de.jpg",
+      "archived": true,
+      "originalPath": "images/5e5e95bcaee9da0b47b423de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01274-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e8ea045adcfc9401fb85f3fc.jpg",
+      "archived": true,
+      "originalPath": "images/e8ea045adcfc9401fb85f3fc.jpg"
+    }
+  ],
+  "featuredImage": "images/c46a45df6da8f007de31c44c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Pumpkin Pancakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Low-Carb Pumpkin Pancakes. Each serving comes out to be 142 calories, 12.5g fats, 2.4g net carbs, and 4.8g protein.",
+    "datePublished": "2013-10-26T20:50:23+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/10/pumpkinpancakes.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 large egg",
+      "1/4 cup pumpkin puree",
+      "1/4 cup sour cream",
+      "2 tablespoon butter",
+      "1 cup almond flour",
+      "1 teaspoon pumpkin pie spice",
+      "1 teaspoon baking powder",
+      "1/4 teaspoon salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix the eggs, pumpkin puree, sour cream, and butter.",
+        "name": "Mix the eggs, pumpkin puree, sour cream, and butter.",
+        "url": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01269.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, mix the almond meal, pumpkin pie spice, baking powder, and salt.",
+        "name": "In a separate bowl, mix the almond meal, pumpkin pie spice, baking powder, and salt.",
+        "url": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01270.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add the wet ingredients to the dry ingredients to create a smooth consistency. There will be a few clumps in there, but don't worry too much about these.",
+        "name": "Slowly add the wet ingredients to the dry ingredients to create a smooth consistency. There will be a few clumps in there, but don't worry too much about these.",
+        "url": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01271.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up some extra butter in a pan over medium heat. Pour the pancake batter into the pan and cook until bubbles begin to appear on top.",
+        "name": "Heat up some extra butter in a pan over medium heat. Pour the pancake batter into the pan and cook until bubbles begin to appear on top.",
+        "url": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/dsc01274.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the pancakes and cook on the other side until browned. Remove from the pan and serve warm.",
+        "name": "Flip the pancakes and cook on the other side until browned. Remove from the pan and serve warm.",
+        "url": "https://www.ruled.me/low-carb-pumpkin-pancakes/#wprm-recipe-50351-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, fall, family-friendly, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "142 kcal",
+      "fatContent": "12.5 g",
+      "proteinContent": "4.8 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-pumpkin-pancakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-pumpkin-pancakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-pumpkin-pancakes/"
+  },
+  "sourceIndex": {
+    "id": 1020,
+    "rid": 50351,
+    "t": "Low Carb Pumpkin Pancakes",
+    "u": "/low-carb-pumpkin-pancakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/10/pumpkinpancakes.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.4,
+    "cal": 142,
+    "pr": 4.8,
+    "fa": 12.5,
+    "tm": 15,
+    "sv": 8,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "fall",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "stovetop"
+    ],
+    "d": "2013-10-26",
+    "cm": 16,
+    "ex": "Pancakes are glorious at any time of the day, but unfortunately it's a real challenge to find a version suitable for the keto diet. Every now and again I look through recipes to find some staples",
+    "pv": 224
+  },
+  "sourceHtml": "pages/low-carb-pumpkin-pancakes.html",
+  "scrapedAt": "2026-11-07T08:11:13.342Z"
+}

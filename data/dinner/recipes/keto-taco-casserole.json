@@ -1,0 +1,344 @@
+{
+  "id": "ruled-35859",
+  "slug": "keto-taco-casserole",
+  "title": "Keto Taco Casserole",
+  "url": "https://www.ruled.me/keto-taco-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Taco Casserole. Each serving comes out to be 311 calories, 28.8g fats, 3.7g net carbs, and 21g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT60M",
+  "totalTime": "PT75M",
+  "totalMinutes": 75,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "fatContent": "28.8 g",
+    "proteinContent": "21 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 311,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 21,
+    "fatGrams": 28.8
+  },
+  "ingredients": [
+    "16 ounce ground turkey",
+    "1 small cauliflower (chopped)",
+    "1 teaspoon cumin",
+    "1 teaspoon dried parsley",
+    "1 teaspoon turmeric powder",
+    "1 teaspoon dried oregano",
+    "salt and pepper (to taste)",
+    "1/4 cup onion (diced)",
+    "1 teaspoon fresh garlic (minced)",
+    "1/4 cup red bell pepper (diced)",
+    "1 medium jalapeno pepper (chopped)",
+    "1 1/2 cup cheddar cheese (shredded)",
+    "1 cup sour cream"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat over to 350F. Place ground meat and cauliflower into a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-01.jpg"
+    },
+    {
+      "text": "Add in herbs and spices, including salt and pepper, and mix everything together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-04.jpg"
+    },
+    {
+      "text": "Stir in onions, garlic, red peppers and jalapenos.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-07.jpg"
+    },
+    {
+      "text": "Mix in the shredded cheddar cheese, reserving some for topping.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-08.jpg"
+    },
+    {
+      "text": "Pour the mixture into a casserole dish. Top with the reserved cheese. Bake for 1 hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-09.jpg"
+    },
+    {
+      "text": "Serve with a dollop of sour cream on top and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "meal-prep",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/b40e6e76e3e9ea69935843b2.avif",
+      "archived": true,
+      "originalPath": "images/b40e6e76e3e9ea69935843b2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-featured.jpg",
+      "path": "images/7f08b591e7b4f4d0a4219f39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-01.jpg",
+      "path": "../../nenaudojama/dinner/images/1a180319f221060895f23246.jpg",
+      "archived": true,
+      "originalPath": "images/1a180319f221060895f23246.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-04.jpg",
+      "path": "../../nenaudojama/dinner/images/da062bfb1a1d0e3489a44ed7.avif",
+      "archived": true,
+      "originalPath": "images/da062bfb1a1d0e3489a44ed7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-07.jpg",
+      "path": "../../nenaudojama/dinner/images/8f37aa16af766499f4213176.jpg",
+      "archived": true,
+      "originalPath": "images/8f37aa16af766499f4213176.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-08.jpg",
+      "path": "../../nenaudojama/dinner/images/a9343d6ae8c414582f7283b3.jpg",
+      "archived": true,
+      "originalPath": "images/a9343d6ae8c414582f7283b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-09.jpg",
+      "path": "../../nenaudojama/dinner/images/22dfac0094f05274dcc7b59a.avif",
+      "archived": true,
+      "originalPath": "images/22dfac0094f05274dcc7b59a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-second.jpg",
+      "path": "../../nenaudojama/dinner/images/1f49012655221405d622d426.avif",
+      "archived": true,
+      "originalPath": "images/1f49012655221405d622d426.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-10.jpg",
+      "path": "../../nenaudojama/dinner/images/68c578204d64f2f8a0e3ec4b.avif",
+      "archived": true,
+      "originalPath": "images/68c578204d64f2f8a0e3ec4b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/df8943fbdbeb5a5b06164303.jpg",
+      "archived": true,
+      "originalPath": "images/df8943fbdbeb5a5b06164303.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d4df1d2223e0b980b0de94a5.avif",
+      "archived": true,
+      "originalPath": "images/d4df1d2223e0b980b0de94a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c7d26d8d181ce0a3cd85c010.avif",
+      "archived": true,
+      "originalPath": "images/c7d26d8d181ce0a3cd85c010.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6f8d7f9f21dc0faddb691b40.avif",
+      "archived": true,
+      "originalPath": "images/6f8d7f9f21dc0faddb691b40.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e4719e514964e608f678db60.avif",
+      "archived": true,
+      "originalPath": "images/e4719e514964e608f678db60.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/757a9fc095d9512feb8d8c6c.jpg",
+      "archived": true,
+      "originalPath": "images/757a9fc095d9512feb8d8c6c.jpg"
+    }
+  ],
+  "featuredImage": "images/7f08b591e7b4f4d0a4219f39.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Taco Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Keto Taco Casserole. Each serving comes out to be 311 calories, 28.8g fats, 3.7g net carbs, and 21g protein.",
+    "datePublished": "2018-03-29T11:00:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT60M",
+    "totalTime": "PT75M",
+    "recipeIngredient": [
+      "16 ounce ground turkey",
+      "1 small cauliflower (chopped)",
+      "1 teaspoon cumin",
+      "1 teaspoon dried parsley",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon dried oregano",
+      "salt and pepper (to taste)",
+      "1/4 cup onion (diced)",
+      "1 teaspoon fresh garlic (minced)",
+      "1/4 cup red bell pepper (diced)",
+      "1 medium jalapeno pepper (chopped)",
+      "1 1/2 cup cheddar cheese (shredded)",
+      "1 cup sour cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat over to 350F. Place ground meat and cauliflower into a bowl.",
+        "name": "Preheat over to 350F. Place ground meat and cauliflower into a bowl.",
+        "url": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in herbs and spices, including salt and pepper, and mix everything together.",
+        "name": "Add in herbs and spices, including salt and pepper, and mix everything together.",
+        "url": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in onions, garlic, red peppers and jalapenos.",
+        "name": "Stir in onions, garlic, red peppers and jalapenos.",
+        "url": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the shredded cheddar cheese, reserving some for topping.",
+        "name": "Mix in the shredded cheddar cheese, reserving some for topping.",
+        "url": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into a casserole dish. Top with the reserved cheese. Bake for 1 hour.",
+        "name": "Pour the mixture into a casserole dish. Top with the reserved cheese. Bake for 1 hour.",
+        "url": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a dollop of sour cream on top and enjoy!",
+        "name": "Serve with a dollop of sour cream on top and enjoy!",
+        "url": "https://www.ruled.me/keto-taco-casserole/#wprm-recipe-52507-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, freezer-friendly, gluten-free, keto, low-carb, meal-prep, nut-free, oven-baked, poultry, simple &amp; easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "311 kcal",
+      "fatContent": "28.8 g",
+      "proteinContent": "21 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-taco-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-taco-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-taco-casserole/"
+  },
+  "sourceIndex": {
+    "id": 35859,
+    "rid": 52507,
+    "t": "Keto Taco Casserole",
+    "u": "/keto-taco-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/taco-casserole-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.7,
+    "cal": 311,
+    "pr": 21,
+    "fa": 28.8,
+    "tm": 75,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "meal-prep",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2018-03-29",
+    "cm": 24,
+    "ex": "It’s tacos without the hassle of it falling out of a shell! I must say, it tasted amazing and it only takes roughly 15 minutes of prep! It is also such a great meal to freeze for later in the week or",
+    "pv": 166
+  },
+  "sourceHtml": "pages/keto-taco-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.586Z"
+}

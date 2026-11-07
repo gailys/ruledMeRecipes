@@ -1,0 +1,388 @@
+{
+  "id": "ruled-36996",
+  "slug": "roasted-red-pepper-soup",
+  "title": "Roasted Red Pepper Soup",
+  "url": "https://www.ruled.me/roasted-red-pepper-soup/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Roasted Red Pepper Soup. Each serving comes out to be 359 calories, 36.9g fats, 3.2g net carbs, and 4.4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "359 kcal",
+    "fatContent": "36.9 g",
+    "proteinContent": "4.4 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 359,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 4.4,
+    "fatGrams": 36.9
+  },
+  "ingredients": [
+    "4 medium roasted red pepper",
+    "1/4 cup onion (diced)",
+    "salt and pepper (to taste)",
+    "1 teaspoon crushed red pepper flakes",
+    "1 teaspoon fresh garlic (minced)",
+    "1 cup heavy whipping cream",
+    "1/4 cup olive oil",
+    "1/2 teaspoon xanthan gum",
+    "4 tablespoon parmesan cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Toss the whole roasted and peeled peppers, without the liquid from the jar (if using premade), into a blender and puree until it becomes a thick sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-01.jpg"
+    },
+    {
+      "text": "Add in the onions, salt, pepper, and chili flakes, then puree again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-04.jpg"
+    },
+    {
+      "text": "In a stovetop pan over medium heat, warm up the garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-05.jpg"
+    },
+    {
+      "text": "Pour in your pepper/chili mix and bring to a boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-06.jpg"
+    },
+    {
+      "text": "Whisk in the heavy cream and again bring to a boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-08.jpg"
+    },
+    {
+      "text": "In a separate bowl, stir together the olive oil and xanthan gum.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-09.jpg"
+    },
+    {
+      "text": "Quickly pour the xanthan gum into the soup. Stir and the soup should begin to thicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-10.jpg"
+    },
+    {
+      "text": "Bring to a final boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-7",
+      "imageSource": null
+    },
+    {
+      "text": "Top with some Parmesan cheese and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian",
+    "winter"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/1be5cd57bdbc4dd000b5d22d.avif",
+      "archived": true,
+      "originalPath": "images/1be5cd57bdbc4dd000b5d22d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-featured.jpg",
+      "path": "images/6f9637563d2c30f146cc40ef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-01.jpg",
+      "path": "../../nenaudojama/lunch/images/bec571df983075e8c4fed697.jpg",
+      "archived": true,
+      "originalPath": "images/bec571df983075e8c4fed697.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-04.jpg",
+      "path": "../../nenaudojama/lunch/images/8f93e1e1ead4ddca3a1d2fd0.jpg",
+      "archived": true,
+      "originalPath": "images/8f93e1e1ead4ddca3a1d2fd0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-05.jpg",
+      "path": "../../nenaudojama/lunch/images/d7f4ecc69ebaf9c76867d079.jpg",
+      "archived": true,
+      "originalPath": "images/d7f4ecc69ebaf9c76867d079.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-06.jpg",
+      "path": "../../nenaudojama/lunch/images/4202089bcc1577ceb039ed1d.jpg",
+      "archived": true,
+      "originalPath": "images/4202089bcc1577ceb039ed1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-08.jpg",
+      "path": "../../nenaudojama/lunch/images/22cf1b62b104dfcc0bd12001.jpg",
+      "archived": true,
+      "originalPath": "images/22cf1b62b104dfcc0bd12001.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-09.jpg",
+      "path": "../../nenaudojama/lunch/images/d6414b2ccfc99fd7aab19e4b.jpg",
+      "archived": true,
+      "originalPath": "images/d6414b2ccfc99fd7aab19e4b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-10.jpg",
+      "path": "../../nenaudojama/lunch/images/82bc0078005cadf954d467bc.jpg",
+      "archived": true,
+      "originalPath": "images/82bc0078005cadf954d467bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-second.jpg",
+      "path": "../../nenaudojama/lunch/images/750d05886b61441eab9297d6.jpg",
+      "archived": true,
+      "originalPath": "images/750d05886b61441eab9297d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/b8d94cd98a6168604022cabf.jpg",
+      "archived": true,
+      "originalPath": "images/b8d94cd98a6168604022cabf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/da0a552c82bb896ac7b73458.jpg",
+      "archived": true,
+      "originalPath": "images/da0a552c82bb896ac7b73458.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0a06584e198644a05c5c4ede.jpg",
+      "archived": true,
+      "originalPath": "images/0a06584e198644a05c5c4ede.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2436475c1bf5f877a3fecaa0.jpg",
+      "archived": true,
+      "originalPath": "images/2436475c1bf5f877a3fecaa0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d241a43a3976f54fe8826f51.jpg",
+      "archived": true,
+      "originalPath": "images/d241a43a3976f54fe8826f51.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-08-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b0bd5ee738939669c56ba6a7.jpg",
+      "archived": true,
+      "originalPath": "images/b0bd5ee738939669c56ba6a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-09-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c4230d110d5c2f82690401e1.jpg",
+      "archived": true,
+      "originalPath": "images/c4230d110d5c2f82690401e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-10-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9c4a0689b0e2fd4d48282795.jpg",
+      "archived": true,
+      "originalPath": "images/9c4a0689b0e2fd4d48282795.jpg"
+    }
+  ],
+  "featuredImage": "images/6f9637563d2c30f146cc40ef.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Roasted Red Pepper Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Roasted Red Pepper Soup. Each serving comes out to be 359 calories, 36.9g fats, 3.2g net carbs, and 4.4g protein.",
+    "datePublished": "2018-05-08T11:00:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "4 medium roasted red pepper",
+      "1/4 cup onion (diced)",
+      "salt and pepper (to taste)",
+      "1 teaspoon crushed red pepper flakes",
+      "1 teaspoon fresh garlic (minced)",
+      "1 cup heavy whipping cream",
+      "1/4 cup olive oil",
+      "1/2 teaspoon xanthan gum",
+      "4 tablespoon parmesan cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Toss the whole roasted and peeled peppers, without the liquid from the jar (if using premade), into a blender and puree until it becomes a thick sauce.",
+        "name": "Toss the whole roasted and peeled peppers, without the liquid from the jar (if using premade), into a blender and puree until it becomes a thick sauce.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the onions, salt, pepper, and chili flakes, then puree again.",
+        "name": "Add in the onions, salt, pepper, and chili flakes, then puree again.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a stovetop pan over medium heat, warm up the garlic.",
+        "name": "In a stovetop pan over medium heat, warm up the garlic.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in your pepper/chili mix and bring to a boil.",
+        "name": "Pour in your pepper/chili mix and bring to a boil.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in the heavy cream and again bring to a boil.",
+        "name": "Whisk in the heavy cream and again bring to a boil.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, stir together the olive oil and xanthan gum.",
+        "name": "In a separate bowl, stir together the olive oil and xanthan gum.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Quickly pour the xanthan gum into the soup.  Stir and the soup should begin to thicken.",
+        "name": "Quickly pour the xanthan gum into the soup.  Stir and the soup should begin to thicken.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring to a final boil.",
+        "name": "Bring to a final boil.",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-7"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with some Parmesan cheese and serve!",
+        "name": "Top with some Parmesan cheese and serve!",
+        "url": "https://www.ruled.me/roasted-red-pepper-soup/#wprm-recipe-52567-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, simple-and-easy, stovetop, sugar-free, vegetarian, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "359 kcal",
+      "fatContent": "36.9 g",
+      "proteinContent": "4.4 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/roasted-red-pepper-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/roasted-red-pepper-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/roasted-red-pepper-soup/"
+  },
+  "sourceIndex": {
+    "id": 36996,
+    "rid": 52567,
+    "t": "Roasted Red Pepper Soup",
+    "u": "/roasted-red-pepper-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/05/roasted-red-pepper-soup-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.2,
+    "cal": 359,
+    "pr": 4.4,
+    "fa": 36.9,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian",
+      "winter"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2018-05-08",
+    "cm": 3,
+    "ex": "What’s better than sipping on some nice hot soup on a cold winter day? Nothing. So I created a nice creamy, roasted, soup that is just for those days when you want to sit next to the fire while",
+    "pv": 116
+  },
+  "sourceHtml": "pages/roasted-red-pepper-soup.html",
+  "scrapedAt": "2026-11-07T08:17:13.328Z"
+}

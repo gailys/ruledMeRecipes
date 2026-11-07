@@ -1,0 +1,352 @@
+{
+  "id": "ruled-36914",
+  "slug": "instant-pot-deviled-eggs",
+  "title": "Instant Pot Deviled Eggs",
+  "url": "https://www.ruled.me/instant-pot-deviled-eggs/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Instant Pot Deviled Eggs. Each serving comes out to be 332 calories, 30.2g fats, 0.9g net carbs, and 12.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "fatContent": "30.2 g",
+    "proteinContent": "12.9 g",
+    "carbohydrateContent": "0.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 332,
+    "netCarbsGrams": 0.9,
+    "proteinGrams": 12.9,
+    "fatGrams": 30.2
+  },
+  "ingredients": [
+    "12 large egg",
+    "3/4 cup mayonnaise",
+    "1 tablespoon dijon mustard",
+    "salt and pepper (to Taste)",
+    "smoked paprika (to Taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Place the steam rack inside of the Instant Pot, then add the eggs. Pour over 1 cup of water then close the lid. Set to pressure cook for 5 minutes, and ensure that the valve is sealed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-01.jpg"
+    },
+    {
+      "text": "After the cook time has completed, allow to naturally release for five minutes before manually opening up the Instant Pot. Do this by setting the valve to release, then twist the lid open once you hear the pin drop.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-02.jpg"
+    },
+    {
+      "text": "Run the eggs under cool water for a few minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-05.jpg"
+    },
+    {
+      "text": "Remove the shells from the eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-06.jpg"
+    },
+    {
+      "text": "Cut the eggs in half. Place the yolks in a separate bowl and mash them with a fork.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-07.jpg"
+    },
+    {
+      "text": "Add the mayonnaise and Dijon mustard to the egg yolks. Mix well, then add salt and pepper to taste. Mix again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-09.jpg"
+    },
+    {
+      "text": "Scoop the egg filling into the egg whites, dividing evenly. To make it look especially festive, pipe the yolk filling into the whites. Sprinkle the tops with a little smoked paprika.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "instant-pot",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "few-ingredients",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/d098f7531e75a22951d58675.jpg",
+      "archived": true,
+      "originalPath": "images/d098f7531e75a22951d58675.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-featured.jpg",
+      "path": "../../nenaudojama/snacks/images/0cc131c445a519b9fbdaebac.avif",
+      "archived": true,
+      "originalPath": "images/0cc131c445a519b9fbdaebac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-01.jpg",
+      "path": "../../nenaudojama/snacks/images/82f5cf1a7cf3f8590034709b.jpg",
+      "archived": true,
+      "originalPath": "images/82f5cf1a7cf3f8590034709b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-02.jpg",
+      "path": "../../nenaudojama/snacks/images/9abd2804a6f992ada9fc5de5.jpg",
+      "archived": true,
+      "originalPath": "images/9abd2804a6f992ada9fc5de5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-05.jpg",
+      "path": "../../nenaudojama/snacks/images/116d6e2a64bd5da72b379d9b.jpg",
+      "archived": true,
+      "originalPath": "images/116d6e2a64bd5da72b379d9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-06.jpg",
+      "path": "../../nenaudojama/snacks/images/6f092bb2cb27c02068120f9b.jpg",
+      "archived": true,
+      "originalPath": "images/6f092bb2cb27c02068120f9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-07.jpg",
+      "path": "../../nenaudojama/snacks/images/d8949ec1e070eebb8e5d286c.jpg",
+      "archived": true,
+      "originalPath": "images/d8949ec1e070eebb8e5d286c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-09.jpg",
+      "path": "../../nenaudojama/snacks/images/c75acb1aae5072b95761a33c.jpg",
+      "archived": true,
+      "originalPath": "images/c75acb1aae5072b95761a33c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-second.jpg",
+      "path": "../../nenaudojama/snacks/images/76e8375dfe87a2ebc54df076.jpg",
+      "archived": true,
+      "originalPath": "images/76e8375dfe87a2ebc54df076.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/574b53d45b28542c79a650c0.jpg",
+      "archived": true,
+      "originalPath": "images/574b53d45b28542c79a650c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-01-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/b7741ade2767f9d3832fc12e.jpg",
+      "archived": true,
+      "originalPath": "images/b7741ade2767f9d3832fc12e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/37d40dcd160eef3ca12180d3.jpg",
+      "archived": true,
+      "originalPath": "images/37d40dcd160eef3ca12180d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-05-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/ba240b9b4ad8fa6e683a466a.jpg",
+      "archived": true,
+      "originalPath": "images/ba240b9b4ad8fa6e683a466a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-06-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/17a43e30b1752d6af90ea201.jpg",
+      "archived": true,
+      "originalPath": "images/17a43e30b1752d6af90ea201.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-07-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/6c0a360c3ed0f11d4f75baba.jpg",
+      "archived": true,
+      "originalPath": "images/6c0a360c3ed0f11d4f75baba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-09-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/ef73f546341a191527b2d166.jpg",
+      "archived": true,
+      "originalPath": "images/ef73f546341a191527b2d166.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/0cc131c445a519b9fbdaebac.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Instant Pot Deviled Eggs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Instant Pot Deviled Eggs. Each serving comes out to be 332 calories, 30.2g fats, 0.9g net carbs, and 12.9g protein.",
+    "datePublished": "2018-04-26T11:00:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "12 large egg",
+      "3/4 cup mayonnaise",
+      "1 tablespoon dijon mustard",
+      "salt and pepper (to Taste)",
+      "smoked paprika (to Taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the steam rack inside of the Instant Pot, then add the eggs.  Pour over 1 cup of water then close the lid. Set to pressure cook for 5 minutes, and ensure that the valve is sealed.",
+        "name": "Place the steam rack inside of the Instant Pot, then add the eggs.  Pour over 1 cup of water then close the lid. Set to pressure cook for 5 minutes, and ensure that the valve is sealed.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the cook time has completed, allow to naturally release for five minutes before manually opening up the Instant Pot. Do this by setting the valve to release, then twist the lid open once you hear the pin drop.",
+        "name": "After the cook time has completed, allow to naturally release for five minutes before manually opening up the Instant Pot. Do this by setting the valve to release, then twist the lid open once you hear the pin drop.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Run the eggs under cool water for a few minutes.",
+        "name": "Run the eggs under cool water for a few minutes.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the shells from the eggs.",
+        "name": "Remove the shells from the eggs.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the eggs in half. Place the yolks in a separate bowl and mash them with a fork.",
+        "name": "Cut the eggs in half. Place the yolks in a separate bowl and mash them with a fork.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mayonnaise and Dijon mustard to the egg yolks. Mix well, then add salt and pepper to taste. Mix again.",
+        "name": "Add the mayonnaise and Dijon mustard to the egg yolks. Mix well, then add salt and pepper to taste. Mix again.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop the egg filling into the egg whites, dividing evenly. To make it look especially festive, pipe the yolk filling into the whites. Sprinkle the tops with a little smoked paprika.",
+        "name": "Scoop the egg filling into the egg whites, dividing evenly. To make it look especially festive, pipe the yolk filling into the whites. Sprinkle the tops with a little smoked paprika.",
+        "url": "https://www.ruled.me/instant-pot-deviled-eggs/#wprm-recipe-52555-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, eggs, gluten-free, high-fat, instant pot, keto, low-carb, nut-free, party-food, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "332 kcal",
+      "fatContent": "30.2 g",
+      "proteinContent": "12.9 g",
+      "carbohydrateContent": "0.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/instant-pot-deviled-eggs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/instant-pot-deviled-eggs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/instant-pot-deviled-eggs/"
+  },
+  "sourceIndex": {
+    "id": 36914,
+    "rid": 52555,
+    "t": "Instant Pot Deviled Eggs",
+    "u": "/instant-pot-deviled-eggs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/04/instant-pot-deviled-eggs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 0.9,
+    "cal": 332,
+    "pr": 12.9,
+    "fa": 30.2,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "instant-pot",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "few-ingredients",
+      "eggs"
+    ],
+    "d": "2018-04-26",
+    "cm": 2,
+    "ex": "These deviled eggs are a classic recipe, but with a twist in preparation. We're going to show you how to whip these up in an Instant Pot! These eggs are creamy, easy to peel, and ready to devil in",
+    "pv": 106
+  },
+  "sourceHtml": "pages/instant-pot-deviled-eggs.html",
+  "scrapedAt": "2026-11-07T08:31:08.277Z"
+}

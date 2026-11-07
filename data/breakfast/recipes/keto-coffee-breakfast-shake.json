@@ -1,0 +1,325 @@
+{
+  "id": "ruled-47500",
+  "slug": "keto-coffee-breakfast-shake",
+  "title": "Keto Coffee Breakfast Shake",
+  "url": "https://www.ruled.me/keto-coffee-breakfast-shake/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Coffee Breakfast Shake. The serving comes out to be 359 calories, 27.4g fats, 2.2g net carbs, and 25.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "359 kcal",
+    "fatContent": "27.4 g",
+    "proteinContent": "25.6 g",
+    "carbohydrateContent": "2.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 359,
+    "netCarbsGrams": 2.2,
+    "proteinGrams": 25.6,
+    "fatGrams": 27.4
+  },
+  "ingredients": [
+    "6 ounce brewed coffee",
+    "1 tablespoon mct oil",
+    "2 tablespoon heavy cream",
+    "1 cup ice cubes",
+    "1 cup unsweetened almond milk",
+    "30 gram pea protein",
+    "6 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-1.jpg"
+    },
+    {
+      "text": "Pour the brewed coffee into a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-2.jpg"
+    },
+    {
+      "text": "Add the MCT oil into the blender. Let sit in the refrigerator and allow it to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-3.jpg"
+    },
+    {
+      "text": "Add in the heavy cream and pea protein into the blender. Blend until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-4.jpg"
+    },
+    {
+      "text": "Add in the ice cubes and blend until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-5.jpg"
+    },
+    {
+      "text": "Pour into glasses, serve, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/91617c11869592c7248c8edb.jpg",
+      "archived": true,
+      "originalPath": "images/91617c11869592c7248c8edb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Featured.jpg",
+      "path": "images/b10635d6f5a4b218ae0d532c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/233cb7ff91a0d9be303c7589.avif",
+      "archived": true,
+      "originalPath": "images/233cb7ff91a0d9be303c7589.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/6cf20a6b3c65fb7f1fba52ed.avif",
+      "archived": true,
+      "originalPath": "images/6cf20a6b3c65fb7f1fba52ed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/1a23ad1401b70c929e7d4e43.avif",
+      "archived": true,
+      "originalPath": "images/1a23ad1401b70c929e7d4e43.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/01cd05d4707f29883b8ad161.avif",
+      "archived": true,
+      "originalPath": "images/01cd05d4707f29883b8ad161.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/11d5fe77a645d75b41f72491.avif",
+      "archived": true,
+      "originalPath": "images/11d5fe77a645d75b41f72491.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/95f8b2b497630ca0c1d21c6a.avif",
+      "archived": true,
+      "originalPath": "images/95f8b2b497630ca0c1d21c6a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/cfd445a179283f0c26a317f4.jpg",
+      "archived": true,
+      "originalPath": "images/cfd445a179283f0c26a317f4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/8339830ee5f28aba33dc3ae3.jpg",
+      "archived": true,
+      "originalPath": "images/8339830ee5f28aba33dc3ae3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/99d57e019ac5a889526d9768.jpg",
+      "archived": true,
+      "originalPath": "images/99d57e019ac5a889526d9768.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/16c3047d2902ffcb27bc4cfb.jpg",
+      "archived": true,
+      "originalPath": "images/16c3047d2902ffcb27bc4cfb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b2f6039719d3de7136d5b4de.jpg",
+      "archived": true,
+      "originalPath": "images/b2f6039719d3de7136d5b4de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9fb1e89ed96fc58a572d3388.jpg",
+      "archived": true,
+      "originalPath": "images/9fb1e89ed96fc58a572d3388.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a2ddeea9e0c159fdd0ab45d0.jpg",
+      "archived": true,
+      "originalPath": "images/a2ddeea9e0c159fdd0ab45d0.jpg"
+    }
+  ],
+  "featuredImage": "images/b10635d6f5a4b218ae0d532c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Coffee Breakfast Shake",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Keto Coffee Breakfast Shake. The serving comes out to be 359 calories, 27.4g fats, 2.2g net carbs, and 25.6g protein.",
+    "datePublished": "2022-08-18T09:00:56+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "6 ounce brewed coffee",
+      "1 tablespoon mct oil",
+      "2 tablespoon heavy cream",
+      "1 cup ice cubes",
+      "1 cup unsweetened almond milk",
+      "30 gram pea protein",
+      "6 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the brewed coffee into a blender.",
+        "name": "Pour the brewed coffee into a blender.",
+        "url": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the MCT oil into the blender. Let sit in the refrigerator and allow it to cool.",
+        "name": "Add the MCT oil into the blender. Let sit in the refrigerator and allow it to cool.",
+        "url": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the heavy cream and pea protein into the blender. Blend until smooth.",
+        "name": "Add in the heavy cream and pea protein into the blender. Blend until smooth.",
+        "url": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the ice cubes and blend until smooth.",
+        "name": "Add in the ice cubes and blend until smooth.",
+        "url": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into glasses, serve, and enjoy!",
+        "name": "Pour into glasses, serve, and enjoy!",
+        "url": "https://www.ruled.me/keto-coffee-breakfast-shake/#wprm-recipe-54307-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Snacks"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-protein, keto, low-carb, no-bake, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "359 kcal",
+      "fatContent": "27.4 g",
+      "proteinContent": "25.6 g",
+      "carbohydrateContent": "2.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-coffee-breakfast-shake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-coffee-breakfast-shake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-coffee-breakfast-shake/"
+  },
+  "sourceIndex": {
+    "id": 47500,
+    "rid": 54307,
+    "t": "Keto Coffee Breakfast Shake",
+    "u": "/keto-coffee-breakfast-shake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Coffee-Breakfast-Shake-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.2,
+    "cal": 359,
+    "pr": 25.6,
+    "fa": 27.4,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2022-08-18",
+    "cm": 0,
+    "ex": "Want to give your morning cup of coffee an energy boost? Then this keto-friendly coffee breakfast shake is for you. It’s simple to make, tastes great, and will give you a much-needed boost of energy",
+    "pv": 98
+  },
+  "sourceHtml": "pages/keto-coffee-breakfast-shake.html",
+  "scrapedAt": "2026-11-07T08:11:12.206Z"
+}

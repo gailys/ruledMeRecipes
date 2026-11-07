@@ -1,0 +1,365 @@
+{
+  "id": "ruled-22871",
+  "slug": "keto-grilled-cheese-sandwich",
+  "title": "Keto Grilled Cheese Sandwich",
+  "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Grilled Cheese Sandwich. The serving comes out to be 840 calories, 69.9g fats, 7.1g net carbs, and 28.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "840 kcal",
+    "fatContent": "69.9 g",
+    "proteinContent": "28.8 g",
+    "carbohydrateContent": "7.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 840,
+    "netCarbsGrams": 7.1,
+    "proteinGrams": 28.8,
+    "fatGrams": 69.9
+  },
+  "ingredients": [
+    "2 large egg",
+    "2 tablespoon almond flour",
+    "1 1/2 tablespoon psyllium husk powder",
+    "1/2 teaspoon baking powder",
+    "2 tablespoon butter (softened)",
+    "2 ounce cheddar cheese (shredded)",
+    "1 tablespoon butter"
+  ],
+  "instructions": [
+    {
+      "text": "Let the butter for the base come to room temperature in a mug. Once softened, add in the almond flour, psyllium husk, and baking powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9042.jpg"
+    },
+    {
+      "text": "Mix as well as you can to form a thick dough.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9049.jpg"
+    },
+    {
+      "text": "Add the eggs and continue mixing. You want a pretty thick dough, so keep mixing until it reaches the desired consistency (this can take up to 60 seconds).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9058.jpg"
+    },
+    {
+      "text": "Pour the dough into a square container or bowl. Even out the top and scrape down the sides so that it comes out as flat as possible. Microwave for about 90–100 seconds. You'll need to check the doneness to see if it needs more time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9062.jpg"
+    },
+    {
+      "text": "Remove from the container or bowl by flipping it upside down and lightly tapping the bottom. Cut in half using a bread knife.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9070.jpg"
+    },
+    {
+      "text": "Measure out the cheese and stick it between the buns.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9073.jpg"
+    },
+    {
+      "text": "Melt the butter in a pan over medium heat. Once hot, add the sandwich and allow it to cook in the butter, which should be absorbed by the bread as it cooks, giving it a delicious, crisp outside. Flip and toast bottom side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9079.jpg"
+    },
+    {
+      "text": "Serve up your delicious, ooey-gooey grilled cheese and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/grilledcheese.jpg",
+      "path": "images/51d3c152255ecfdb36a53409.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9042.jpg",
+      "path": "../../nenaudojama/lunch/images/49a6e1b84c2d105eef896652.jpg",
+      "archived": true,
+      "originalPath": "images/49a6e1b84c2d105eef896652.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9049.jpg",
+      "path": "../../nenaudojama/lunch/images/af6a7bc7bc08aca6bf274ff9.avif",
+      "archived": true,
+      "originalPath": "images/af6a7bc7bc08aca6bf274ff9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9058.jpg",
+      "path": "../../nenaudojama/lunch/images/cf87730857100e74259f6201.jpg",
+      "archived": true,
+      "originalPath": "images/cf87730857100e74259f6201.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9062.jpg",
+      "path": "../../nenaudojama/lunch/images/f381ddb781fd3a5a0b64ffdb.jpg",
+      "archived": true,
+      "originalPath": "images/f381ddb781fd3a5a0b64ffdb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9070.jpg",
+      "path": "../../nenaudojama/lunch/images/f7d0d8df87f78cefef8a9ef8.jpg",
+      "archived": true,
+      "originalPath": "images/f7d0d8df87f78cefef8a9ef8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9073.jpg",
+      "path": "../../nenaudojama/lunch/images/7b0f79410a256d74269daf8d.jpg",
+      "archived": true,
+      "originalPath": "images/7b0f79410a256d74269daf8d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9079.jpg",
+      "path": "../../nenaudojama/lunch/images/677d81c377f748cde3e80573.avif",
+      "archived": true,
+      "originalPath": "images/677d81c377f748cde3e80573.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/grilledcheesesecond.jpg",
+      "path": "../../nenaudojama/lunch/images/34ce54dda3d6c8b67965aa16.jpg",
+      "archived": true,
+      "originalPath": "images/34ce54dda3d6c8b67965aa16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/grilledcheeselong.jpg",
+      "path": "../../nenaudojama/lunch/images/8648b1155b9306c7026237c2.jpg",
+      "archived": true,
+      "originalPath": "images/8648b1155b9306c7026237c2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9042-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f05951e0448448189d4133e0.jpg",
+      "archived": true,
+      "originalPath": "images/f05951e0448448189d4133e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9049-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3c599b0defefc0aad4cdc7bc.jpg",
+      "archived": true,
+      "originalPath": "images/3c599b0defefc0aad4cdc7bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9058-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/71a26efe4e780fcb7750488d.jpg",
+      "archived": true,
+      "originalPath": "images/71a26efe4e780fcb7750488d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9062-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7b89454084d336b89fd2a122.jpg",
+      "archived": true,
+      "originalPath": "images/7b89454084d336b89fd2a122.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9070-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/56eb352a23cedfc3213a23d3.jpg",
+      "archived": true,
+      "originalPath": "images/56eb352a23cedfc3213a23d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9073-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/366ccfeec47e2eb784aceb0d.jpg",
+      "archived": true,
+      "originalPath": "images/366ccfeec47e2eb784aceb0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9079-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a31b5311c2a7275167045644.jpg",
+      "archived": true,
+      "originalPath": "images/a31b5311c2a7275167045644.jpg"
+    }
+  ],
+  "featuredImage": "images/51d3c152255ecfdb36a53409.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Grilled Cheese Sandwich",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Grilled Cheese Sandwich. The serving comes out to be 840 calories, 69.9g fats, 7.1g net carbs, and 28.8g protein.",
+    "datePublished": "2014-08-04T16:02:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/grilledcheese.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 large egg",
+      "2 tablespoon almond flour",
+      "1 1/2 tablespoon psyllium husk powder",
+      "1/2 teaspoon baking powder",
+      "2 tablespoon butter (softened)",
+      "2 ounce cheddar cheese (shredded)",
+      "1 tablespoon butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Let the butter for the base come to room temperature in a mug. Once softened, add in the almond flour, psyllium husk, and baking powder.",
+        "name": "Let the butter for the base come to room temperature in a mug. Once softened, add in the almond flour, psyllium husk, and baking powder.",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9042.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix as well as you can to form a thick dough.",
+        "name": "Mix as well as you can to form a thick dough.",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9049.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs and continue mixing. You want a pretty thick dough, so keep mixing until it reaches the desired consistency (this can take up to 60 seconds).",
+        "name": "Add the eggs and continue mixing. You want a pretty thick dough, so keep mixing until it reaches the desired consistency (this can take up to 60 seconds).",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9058.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the dough into a square container or bowl. Even out the top and scrape down the sides so that it comes out as flat as possible. Microwave for about 90–100 seconds. You'll need to check the doneness to see if it needs more time.",
+        "name": "Pour the dough into a square container or bowl. Even out the top and scrape down the sides so that it comes out as flat as possible. Microwave for about 90–100 seconds. You'll need to check the doneness to see if it needs more time.",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9062.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the container or bowl by flipping it upside down and lightly tapping the bottom. Cut in half using a bread knife.",
+        "name": "Remove from the container or bowl by flipping it upside down and lightly tapping the bottom. Cut in half using a bread knife.",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9070.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the cheese and stick it between the buns.",
+        "name": "Measure out the cheese and stick it between the buns.",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9073.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a pan over medium heat. Once hot, add the sandwich and allow it to cook in the butter, which should be absorbed by the bread as it cooks, giving it a delicious, crisp outside. Flip and toast bottom side.",
+        "name": "Melt the butter in a pan over medium heat. Once hot, add the sandwich and allow it to cook in the butter, which should be absorbed by the bread as it cooks, giving it a delicious, crisp outside. Flip and toast bottom side.",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9079.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve up your delicious, ooey-gooey grilled cheese and enjoy!",
+        "name": "Serve up your delicious, ooey-gooey grilled cheese and enjoy!",
+        "url": "https://www.ruled.me/keto-grilled-cheese-sandwich/#wprm-recipe-51249-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, comfort-food, gluten-free, high-fat, high-protein, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "840 kcal",
+      "fatContent": "69.9 g",
+      "proteinContent": "28.8 g",
+      "carbohydrateContent": "7.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-grilled-cheese-sandwich/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-grilled-cheese-sandwich/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-grilled-cheese-sandwich/"
+  },
+  "sourceIndex": {
+    "id": 22871,
+    "rid": 51249,
+    "t": "Keto Grilled Cheese Sandwich",
+    "u": "/keto-grilled-cheese-sandwich/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/grilledcheese.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 7.1,
+    "cal": 840,
+    "pr": 28.8,
+    "fa": 69.9,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "stovetop",
+      "high-protein"
+    ],
+    "d": "2014-08-04",
+    "cm": 63,
+    "ex": "The simplicity of a grilled cheese is what catches most people's eye. Warm, melty, gooey cheese spewing out the side of the crunchy and toasted bread. It's delicious, it beings us back to our",
+    "pv": 668
+  },
+  "sourceHtml": "pages/keto-grilled-cheese-sandwich.html",
+  "scrapedAt": "2026-11-07T08:18:01.673Z"
+}

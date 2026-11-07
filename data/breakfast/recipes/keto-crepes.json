@@ -1,0 +1,365 @@
+{
+  "id": "ruled-43906",
+  "slug": "keto-crepes",
+  "title": "Almond Flour Keto Crepes",
+  "url": "https://www.ruled.me/keto-crepes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Almond Flour Keto Crepes. Each serving comes out to be 150 calories, 12.8g fats, 1.7g net carbs, and 6.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 kcal",
+    "fatContent": "12.8 g",
+    "proteinContent": "6.6 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 150,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 6.6,
+    "fatGrams": 12.8
+  },
+  "ingredients": [
+    "4 ounce cream cheese (softened)",
+    "4 large egg",
+    "3/4 cup almond flour",
+    "2 tablespoon stevia/erythritol blend",
+    "1/4 cup unsweetened almond milk"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_1.jpg"
+    },
+    {
+      "text": "Add all ingredients to a blender, then pulse until smooth and well combined. Let rest for a few minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_3.jpg"
+    },
+    {
+      "text": "In a non-stick pan over medium-low heat, spray just enough cooking spray to cover the bottom of the pan. Once hot, add about 1-2 tablespoons of batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_4.jpg"
+    },
+    {
+      "text": "Swirl the pan to spread the batter into a thin layer. Cook the crepe until the edges are slightly hardened and bottom can be loosened with a spatula.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_5.jpg"
+    },
+    {
+      "text": "Flip and cook on the other side until a light golden-brown color is achieved.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_6.jpg"
+    },
+    {
+      "text": "Repeat this process with all of the batter. Fill or top with your favorite fillings (we love them with keto nutella).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_9.jpg"
+    },
+    {
+      "text": "Serve warm and enjoy! Feel free to add a few extra berries or powdered erythritol for some added aesthetic (just make sure you take any additions into account when calculating macros).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/abf1f8c7e2c3346c5977462f.jpg",
+      "archived": true,
+      "originalPath": "images/abf1f8c7e2c3346c5977462f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Featured.jpg",
+      "path": "images/d46613b4940694e355842eeb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_1.jpg",
+      "path": "../../nenaudojama/breakfast/images/a003567c3027d2e2373f3fe0.avif",
+      "archived": true,
+      "originalPath": "images/a003567c3027d2e2373f3fe0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_3.jpg",
+      "path": "../../nenaudojama/breakfast/images/f38d3a6b343c1bab808fd27e.avif",
+      "archived": true,
+      "originalPath": "images/f38d3a6b343c1bab808fd27e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_4.jpg",
+      "path": "../../nenaudojama/breakfast/images/da1a7e5867208b6de535ca3a.avif",
+      "archived": true,
+      "originalPath": "images/da1a7e5867208b6de535ca3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_5.jpg",
+      "path": "../../nenaudojama/breakfast/images/07d03207d93fe5c889b49b87.avif",
+      "archived": true,
+      "originalPath": "images/07d03207d93fe5c889b49b87.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_6.jpg",
+      "path": "../../nenaudojama/breakfast/images/80f0384d789061475b800cb7.avif",
+      "archived": true,
+      "originalPath": "images/80f0384d789061475b800cb7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_9.jpg",
+      "path": "../../nenaudojama/breakfast/images/8727bdbdf43bcc32c529f1d9.jpg",
+      "archived": true,
+      "originalPath": "images/8727bdbdf43bcc32c529f1d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/9536e40f5d73f6b0bd08d882.avif",
+      "archived": true,
+      "originalPath": "images/9536e40f5d73f6b0bd08d882.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/59634ea9dfad7bea93cb31ff.avif",
+      "archived": true,
+      "originalPath": "images/59634ea9dfad7bea93cb31ff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/aed3e931a3a2c9c8ec1d1758.avif",
+      "archived": true,
+      "originalPath": "images/aed3e931a3a2c9c8ec1d1758.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_1-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/daa183f27095d836e0692c3d.avif",
+      "archived": true,
+      "originalPath": "images/daa183f27095d836e0692c3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_3-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6ad4504313ad5680147efe78.avif",
+      "archived": true,
+      "originalPath": "images/6ad4504313ad5680147efe78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_4-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/37d288b09368afe16040b328.avif",
+      "archived": true,
+      "originalPath": "images/37d288b09368afe16040b328.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_5-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4d757eac478e13b89e0c13ad.jpg",
+      "archived": true,
+      "originalPath": "images/4d757eac478e13b89e0c13ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_6-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c9ad99fea7d1af9ec55efaa4.avif",
+      "archived": true,
+      "originalPath": "images/c9ad99fea7d1af9ec55efaa4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_9-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9dcc30e4d8f8177123a189a3.avif",
+      "archived": true,
+      "originalPath": "images/9dcc30e4d8f8177123a189a3.avif"
+    }
+  ],
+  "featuredImage": "images/d46613b4940694e355842eeb.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Almond Flour Keto Crepes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Almond Flour Keto Crepes. Each serving comes out to be 150 calories, 12.8g fats, 1.7g net carbs, and 6.6g protein.",
+    "datePublished": "2020-09-08T09:32:36+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "4 ounce cream cheese (softened)",
+      "4 large egg",
+      "3/4 cup almond flour",
+      "2 tablespoon stevia/erythritol blend",
+      "1/4 cup unsweetened almond milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients to a blender, then pulse until smooth and well combined. Let rest for a few minutes.",
+        "name": "Add all ingredients to a blender, then pulse until smooth and well combined. Let rest for a few minutes.",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a non-stick pan over medium-low heat, spray just enough cooking spray to cover the bottom of the pan. Once hot, add about 1-2 tablespoons of batter.",
+        "name": "In a non-stick pan over medium-low heat, spray just enough cooking spray to cover the bottom of the pan. Once hot, add about 1-2 tablespoons of batter.",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Swirl the pan to spread the batter into a thin layer. Cook the crepe until the edges are slightly hardened and bottom can be loosened with a spatula.",
+        "name": "Swirl the pan to spread the batter into a thin layer. Cook the crepe until the edges are slightly hardened and bottom can be loosened with a spatula.",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip and cook on the other side until a light golden-brown color is achieved.",
+        "name": "Flip and cook on the other side until a light golden-brown color is achieved.",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat this process with all of the batter. Fill or top with your favorite fillings (we love them with keto nutella).",
+        "name": "Repeat this process with all of the batter. Fill or top with your favorite fillings (we love them with keto nutella).",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/RuledMe_AlmondFlourCrepes_9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve warm and enjoy! Feel free to add a few extra berries or powdered erythritol for some added aesthetic (just make sure you take any additions into account when calculating macros).",
+        "name": "Serve warm and enjoy! Feel free to add a few extra berries or powdered erythritol for some added aesthetic (just make sure you take any additions into account when calculating macros).",
+        "url": "https://www.ruled.me/keto-crepes/#wprm-recipe-53485-step-0-6"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "These are perfect.  Perfect recipe. Thank you for this short quick very satisfying recipe. I used almond peanut butter and cream cheese for the filling.",
+        "author": {
+          "@type": "Person",
+          "name": "Karen"
+        },
+        "datePublished": "2025-11-20"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "French"
+    ],
+    "keywords": "30-minute, beginner-friendly, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "150 kcal",
+      "fatContent": "12.8 g",
+      "proteinContent": "6.6 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-crepes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-crepes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-crepes/"
+  },
+  "sourceIndex": {
+    "id": 43906,
+    "rid": 53485,
+    "t": "Keto Crepes",
+    "u": "/keto-crepes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.7,
+    "cal": 150,
+    "pr": 6.6,
+    "fa": 12.8,
+    "tm": 20,
+    "sv": 8,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2020-09-08",
+    "cm": 1,
+    "ex": "Crepes are the perfect compromise between a thick, heavy pancake and a thin, soft tortilla. You can eat them by the stack, turn them into a breakfast wrap, or transform them into a uniquely",
+    "pv": 673
+  },
+  "sourceHtml": "pages/keto-crepes.html",
+  "scrapedAt": "2026-11-07T08:11:12.473Z"
+}

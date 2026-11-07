@@ -1,0 +1,234 @@
+{
+  "id": "ruled-58513",
+  "slug": "loaded-broccoli-keto-cauliflower-salad",
+  "title": "Loaded Broccoli Keto Cauliflower Salad",
+  "url": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Loaded Broccoli Keto Cauliflower Salad. Each serving comes out to be 666 calories, 61.5g fats, 7.4g net carbs, and 18.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "666 kcal",
+    "fatContent": "61.5 g",
+    "proteinContent": "18.1 g",
+    "carbohydrateContent": "7.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 666,
+    "netCarbsGrams": 7.4,
+    "proteinGrams": 18.1,
+    "fatGrams": 61.5
+  },
+  "ingredients": [
+    "3/4 cup mayonnaise",
+    "2 tablespoon apple cider vinegar",
+    "3 cup broccoli (florets)",
+    "3 cup cauliflower (florets)",
+    "1 tablespoon erythritol",
+    "1/2 medium red onion (chopped)",
+    "1 cup cheddar cheese (shredded)",
+    "8 slice cooked bacon (crumbled)",
+    "1/2 cup pecans (pieces)"
+  ],
+  "instructions": [
+    {
+      "text": "In a mixing bowl whisk together the mayonnaise, erythritol, and apple cider vinegar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/#wprm-recipe-58510-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-01.jpg"
+    },
+    {
+      "text": "Add the rest of the ingredients to a large salad bowl. Mix the dressing in well. Serve right away or keep chilled for later.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/#wprm-recipe-58510-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "no-cook",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "no-cook",
+    "meal-prep"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/6721fa270c2775d3be0c7690.avif",
+      "archived": true,
+      "originalPath": "images/6721fa270c2775d3be0c7690.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a.jpg",
+      "path": "images/30fcf7084a48232583e8cc04.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/15ff0922c89cfe0597478e60.jpg",
+      "archived": true,
+      "originalPath": "images/15ff0922c89cfe0597478e60.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/154ebba3e4cb2d8bb9921d47.jpg",
+      "archived": true,
+      "originalPath": "images/154ebba3e4cb2d8bb9921d47.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/2aabdbff570fe1a29dc2e92a.jpg",
+      "archived": true,
+      "originalPath": "images/2aabdbff570fe1a29dc2e92a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2474d81eedb3f480cab14497.jpg",
+      "archived": true,
+      "originalPath": "images/2474d81eedb3f480cab14497.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-02-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9fccb4479cf32dcd9bea3450.jpg",
+      "archived": true,
+      "originalPath": "images/9fccb4479cf32dcd9bea3450.jpg"
+    }
+  ],
+  "featuredImage": "images/30fcf7084a48232583e8cc04.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Loaded Broccoli Keto Cauliflower Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Loaded Broccoli Keto Cauliflower Salad. Each serving comes out to be 666 calories, 61.5g fats, 7.4g net carbs, and 18.1g protein.",
+    "datePublished": "2026-07-07T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup mayonnaise",
+      "2 tablespoon apple cider vinegar",
+      "3 cup broccoli (florets)",
+      "3 cup cauliflower (florets)",
+      "1 tablespoon erythritol",
+      "1/2 medium red onion (chopped)",
+      "1 cup cheddar cheese (shredded)",
+      "8 slice cooked bacon (crumbled)",
+      "1/2 cup pecans (pieces)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl whisk together the mayonnaise, erythritol, and apple cider vinegar.",
+        "name": "In a mixing bowl whisk together the mayonnaise, erythritol, and apple cider vinegar.",
+        "url": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/#wprm-recipe-58510-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the rest of the ingredients to a large salad bowl. Mix the dressing in well. Serve right away or keep chilled for later.",
+        "name": "Add the rest of the ingredients to a large salad bowl. Mix the dressing in well. Serve right away or keep chilled for later.",
+        "url": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/#wprm-recipe-58510-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/loaded-broccoli-keto-cauliflower-salad-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, family-friendly, gluten-free, high-fat, keto, low-carb, meal-prep, no-cook, party-food, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "666 kcal",
+      "fatContent": "61.5 g",
+      "proteinContent": "18.1 g",
+      "carbohydrateContent": "7.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/loaded-broccoli-keto-cauliflower-salad/"
+  },
+  "sourceIndex": {
+    "id": 58513,
+    "rid": 58510,
+    "t": "Loaded Broccoli Keto Cauliflower Salad",
+    "u": "/loaded-broccoli-keto-cauliflower-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/c937071f20d266d1d1d78fc80108897a-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 7.4,
+    "cal": 666,
+    "pr": 18.1,
+    "fa": 61.5,
+    "tm": 5,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "no-cook",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "no-cook",
+      "meal-prep"
+    ],
+    "d": "2026-07-07",
+    "cm": 0,
+    "ex": "This Loaded Broccoli Keto Cauliflower Salad is the ultimate low-carb side dish that brings a satisfying crunch and a burst of savory flavor to your lunch routine. Every bite offers a delightful",
+    "pv": 79
+  },
+  "sourceHtml": "pages/loaded-broccoli-keto-cauliflower-salad.html",
+  "scrapedAt": "2026-11-07T08:14:41.315Z"
+}

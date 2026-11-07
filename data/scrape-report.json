@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T08:33:59.404Z",
+  "categories": [
+    {
+      "category": "breakfast",
+      "expected": 234,
+      "saved": 234,
+      "imageCount": 3616,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "breakfast/recipes.json"
+    },
+    {
+      "category": "lunch",
+      "expected": 223,
+      "saved": 223,
+      "imageCount": 3386,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "lunch/recipes.json"
+    },
+    {
+      "category": "dinner",
+      "expected": 453,
+      "saved": 453,
+      "imageCount": 8218,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "dinner/recipes.json"
+    },
+    {
+      "category": "dessert",
+      "expected": 205,
+      "saved": 205,
+      "imageCount": 3862,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "dessert/recipes.json"
+    },
+    {
+      "category": "snacks",
+      "expected": 83,
+      "saved": 83,
+      "imageCount": 1310,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "snacks/recipes.json"
+    },
+    {
+      "category": "side-items",
+      "expected": 98,
+      "saved": 98,
+      "imageCount": 1492,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "side-items/recipes.json"
+    },
+    {
+      "category": "condiments",
+      "expected": 35,
+      "saved": 35,
+      "imageCount": 434,
+      "failures": [],
+      "imageFailures": [],
+      "archive": "condiments/recipes.json"
+    }
+  ],
+  "totalRecipes": 1331
+}

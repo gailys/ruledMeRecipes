@@ -1,0 +1,507 @@
+{
+  "id": "ruled-9506",
+  "slug": "chocolate-curry-cupcakes",
+  "title": "Chocolate Curry Cupcakes",
+  "url": "https://www.ruled.me/chocolate-curry-cupcakes/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Chocolate Curry Cupcakes. Each serving comes out to be 313 calories, 27.7g fats, 3.4g net carbs, and 8.8g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT25M",
+  "cookTime": "PT15M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "313 kcal",
+    "fatContent": "27.7 g",
+    "proteinContent": "8.8 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 313,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 8.8,
+    "fatGrams": 27.7
+  },
+  "ingredients": [
+    "2 large egg",
+    "1 1/2 cup almond flour",
+    "1/4 cup unsweetened dark cocoa powder",
+    "1 teaspoon curry powder",
+    "1/2 teaspoon baking soda",
+    "1/4 teaspoon salt",
+    "2 tablespoon butter (softened)",
+    "1/4 cup erythritol",
+    "1/2 teaspoon ground ginger",
+    "1/2 teaspoon apple cider vinegar",
+    "10 drop liquid stevia",
+    "1 cup erythritol (powdered)",
+    "1/4 cup butter (softened)",
+    "1/4 cup unsweetened carton coconut milk"
+  ],
+  "instructions": [
+    {
+      "text": "Bring all of the ingredients to room temperature and preheat the oven to 350F. An awesome trick for this with eggs is to submerge them into warm water!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-01.jpg"
+    },
+    {
+      "text": "Mix together almond flour, cocoa powder, curry powder, baking soda, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-02.jpg"
+    },
+    {
+      "text": "In a separate mixing bowl, beat butter and erythritol together until the butter is pale.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-03.jpg"
+    },
+    {
+      "text": "Mix 1 egg into the butter mixture at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-04.jpg"
+    },
+    {
+      "text": "Add your dry ingredients to the butter and eggs and mix together slowly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-05.jpg"
+    },
+    {
+      "text": "Add the ginger and liquid stevia here if you are using minced ginger, then continue to mix. Finally, mix in the apple cider vinegar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-06.jpg"
+    },
+    {
+      "text": "Divide your batter into the cupcake tray holes and bake for 16-18 minutes (or until a toothpick comes out clean).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-07.jpg"
+    },
+    {
+      "text": "In a spice grinder, grind the icing erythritol. Be sure to let this settle before removing the lid!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-08.jpg"
+    },
+    {
+      "text": "Beat icing butter until it's pale. Add 1/2 of the erythritol.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-09.jpg"
+    },
+    {
+      "text": "Continue mixing until well combined, then add coconut milk (the fatty part at the top of the can, if you can).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-10.jpg"
+    },
+    {
+      "text": "Mix well until combined and then add the rest of the erythritol. Continue mixing until it is fluffy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-11.jpg"
+    },
+    {
+      "text": "Measure out your icing into a piping bag. I have this cheap piping bag set that does amazingly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-12.jpg"
+    },
+    {
+      "text": "Ice the cupcakes, then garnish with extra cocoa!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-12",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-13.jpg"
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/5a0df80ca64cb2175605df75.jpg",
+      "archived": true,
+      "originalPath": "images/5a0df80ca64cb2175605df75.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266.jpg",
+      "path": "images/699269420c8ec9005a72cfc1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-01.jpg",
+      "path": "../../nenaudojama/dessert/images/80b0702b6684d57dc21f8cfc.jpg",
+      "archived": true,
+      "originalPath": "images/80b0702b6684d57dc21f8cfc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-02.jpg",
+      "path": "../../nenaudojama/dessert/images/26d9013db0133cd3efdbe07c.jpg",
+      "archived": true,
+      "originalPath": "images/26d9013db0133cd3efdbe07c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-03.jpg",
+      "path": "../../nenaudojama/dessert/images/20adab0e25aea03b497c4735.jpg",
+      "archived": true,
+      "originalPath": "images/20adab0e25aea03b497c4735.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-04.jpg",
+      "path": "../../nenaudojama/dessert/images/4c951d6c025f4a4116a978d0.jpg",
+      "archived": true,
+      "originalPath": "images/4c951d6c025f4a4116a978d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-05.jpg",
+      "path": "../../nenaudojama/dessert/images/91b0628779a99a007f4238ec.jpg",
+      "archived": true,
+      "originalPath": "images/91b0628779a99a007f4238ec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-06.jpg",
+      "path": "../../nenaudojama/dessert/images/c4501ee5f261bf5bdc474966.jpg",
+      "archived": true,
+      "originalPath": "images/c4501ee5f261bf5bdc474966.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-07.jpg",
+      "path": "../../nenaudojama/dessert/images/0eb6a0672f528a6c0d56e9e2.jpg",
+      "archived": true,
+      "originalPath": "images/0eb6a0672f528a6c0d56e9e2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-08.jpg",
+      "path": "../../nenaudojama/dessert/images/1f1f6bd8bb694e237eb7bfd6.jpg",
+      "archived": true,
+      "originalPath": "images/1f1f6bd8bb694e237eb7bfd6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-09.jpg",
+      "path": "../../nenaudojama/dessert/images/4bec2156fde96684588b6dfd.jpg",
+      "archived": true,
+      "originalPath": "images/4bec2156fde96684588b6dfd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-10.jpg",
+      "path": "../../nenaudojama/dessert/images/237c4c08ca8e619ccdf8d971.jpg",
+      "archived": true,
+      "originalPath": "images/237c4c08ca8e619ccdf8d971.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-11.jpg",
+      "path": "../../nenaudojama/dessert/images/c1fd31c0a86b21fdcaa22b1a.jpg",
+      "archived": true,
+      "originalPath": "images/c1fd31c0a86b21fdcaa22b1a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-12.jpg",
+      "path": "../../nenaudojama/dessert/images/7fa3c13b0a24ffbc47ebabdf.jpg",
+      "archived": true,
+      "originalPath": "images/7fa3c13b0a24ffbc47ebabdf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-13.jpg",
+      "path": "../../nenaudojama/dessert/images/23a29281c45bc4af04cef144.jpg",
+      "archived": true,
+      "originalPath": "images/23a29281c45bc4af04cef144.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/currycupcakessecond.jpg",
+      "path": "../../nenaudojama/dessert/images/35fbf1e9a76ef6fbe80fa205.avif",
+      "archived": true,
+      "originalPath": "images/35fbf1e9a76ef6fbe80fa205.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/3cf754767b44fb1ede21b68b.jpg",
+      "archived": true,
+      "originalPath": "images/3cf754767b44fb1ede21b68b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5a59986846b0ee1cbd58af67.jpg",
+      "archived": true,
+      "originalPath": "images/5a59986846b0ee1cbd58af67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e93cadbb7210f633d07e5d81.jpg",
+      "archived": true,
+      "originalPath": "images/e93cadbb7210f633d07e5d81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/eaecb12fb6955fcb843659b9.jpg",
+      "archived": true,
+      "originalPath": "images/eaecb12fb6955fcb843659b9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f19a8d99156a3ce219be2df0.jpg",
+      "archived": true,
+      "originalPath": "images/f19a8d99156a3ce219be2df0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/cf2fc5314551b05a16420215.jpg",
+      "archived": true,
+      "originalPath": "images/cf2fc5314551b05a16420215.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-06-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/59a8c547256f6a405695cca9.jpg",
+      "archived": true,
+      "originalPath": "images/59a8c547256f6a405695cca9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-07-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f4bce572c2c7975d74612dea.jpg",
+      "archived": true,
+      "originalPath": "images/f4bce572c2c7975d74612dea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-08-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/87f020697a7ea0c024e1bd6d.jpg",
+      "archived": true,
+      "originalPath": "images/87f020697a7ea0c024e1bd6d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-09-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6440958ab7a0b0676da5907e.jpg",
+      "archived": true,
+      "originalPath": "images/6440958ab7a0b0676da5907e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-10-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9f858190daf866fcc30cda45.jpg",
+      "archived": true,
+      "originalPath": "images/9f858190daf866fcc30cda45.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-11-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b435e230f68a78d7893e5d3b.jpg",
+      "archived": true,
+      "originalPath": "images/b435e230f68a78d7893e5d3b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-12-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f07de3c613543968097b263c.jpg",
+      "archived": true,
+      "originalPath": "images/f07de3c613543968097b263c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-13-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/db8a74ac0fee9d6e40562625.jpg",
+      "archived": true,
+      "originalPath": "images/db8a74ac0fee9d6e40562625.jpg"
+    }
+  ],
+  "featuredImage": "images/699269420c8ec9005a72cfc1.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chocolate Curry Cupcakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Chocolate Curry Cupcakes. Each serving comes out to be 313 calories, 27.7g fats, 3.4g net carbs, and 8.8g protein.",
+    "datePublished": "2014-02-20T22:54:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266.jpg",
+      "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266-480x270.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT15M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "2 large egg",
+      "1 1/2 cup almond flour",
+      "1/4 cup unsweetened dark cocoa powder",
+      "1 teaspoon curry powder",
+      "1/2 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "2 tablespoon butter (softened)",
+      "1/4 cup erythritol",
+      "1/2 teaspoon ground ginger",
+      "1/2 teaspoon apple cider vinegar",
+      "10 drop liquid stevia",
+      "1 cup erythritol (powdered)",
+      "1/4 cup butter (softened)",
+      "1/4 cup unsweetened carton coconut milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Bring all of the ingredients to room temperature and preheat the oven to 350F. An awesome trick for this with eggs is to submerge them into warm water!",
+        "name": "Bring all of the ingredients to room temperature and preheat the oven to 350F. An awesome trick for this with eggs is to submerge them into warm water!",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together almond flour, cocoa powder, curry powder, baking soda, and salt.",
+        "name": "Mix together almond flour, cocoa powder, curry powder, baking soda, and salt.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate mixing bowl, beat butter and erythritol together until the butter is pale.",
+        "name": "In a separate mixing bowl, beat butter and erythritol together until the butter is pale.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix 1 egg into the butter mixture at a time.",
+        "name": "Mix 1 egg into the butter mixture at a time.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add your dry ingredients to the butter and eggs and mix together slowly.",
+        "name": "Add your dry ingredients to the butter and eggs and mix together slowly.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ginger and liquid stevia here if you are using minced ginger, then continue to mix. Finally, mix in the apple cider vinegar.",
+        "name": "Add the ginger and liquid stevia here if you are using minced ginger, then continue to mix. Finally, mix in the apple cider vinegar.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide your batter into the cupcake tray holes and bake for 16-18 minutes (or until a toothpick comes out clean).",
+        "name": "Divide your batter into the cupcake tray holes and bake for 16-18 minutes (or until a toothpick comes out clean).",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a spice grinder, grind the icing erythritol. Be sure to let this settle before removing the lid!",
+        "name": "In a spice grinder, grind the icing erythritol. Be sure to let this settle before removing the lid!",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat icing butter until it's pale. Add 1/2 of the erythritol.",
+        "name": "Beat icing butter until it's pale. Add 1/2 of the erythritol.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue mixing until well combined, then add coconut milk (the fatty part at the top of the can, if you can).",
+        "name": "Continue mixing until well combined, then add coconut milk (the fatty part at the top of the can, if you can).",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix well until combined and then add the rest of the erythritol. Continue mixing until it is fluffy.",
+        "name": "Mix well until combined and then add the rest of the erythritol. Continue mixing until it is fluffy.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out your icing into a piping bag. I have this cheap piping bag set that does amazingly.",
+        "name": "Measure out your icing into a piping bag. I have this cheap piping bag set that does amazingly.",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ice the cupcakes, then garnish with extra cocoa!",
+        "name": "Ice the cupcakes, then garnish with extra cocoa!",
+        "url": "https://www.ruled.me/chocolate-curry-cupcakes/#wprm-recipe-50461-step-0-12",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chocolate-curry-cupcakes-step-13.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "313 kcal",
+      "fatContent": "27.7 g",
+      "proteinContent": "8.8 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chocolate-curry-cupcakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chocolate-curry-cupcakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chocolate-curry-cupcakes/"
+  },
+  "sourceIndex": {
+    "id": 9506,
+    "rid": 50461,
+    "t": "Chocolate Curry Cupcakes",
+    "u": "/chocolate-curry-cupcakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/d6ecc9fc014d6cc1fbc9ed5088e24266-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.4,
+    "cal": 313,
+    "pr": 8.8,
+    "fa": 27.7,
+    "tm": 40,
+    "sv": 6,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 14,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2014-02-20",
+    "cm": 4,
+    "ex": "So I know off the bat that some of you won't be a fan of this recipe. The first bite was strange, to say the least. Though if you have an open mind about this (and I'm sure you will do if you make",
+    "pv": 220
+  },
+  "sourceHtml": "pages/chocolate-curry-cupcakes.html",
+  "scrapedAt": "2026-11-07T08:30:47.603Z"
+}

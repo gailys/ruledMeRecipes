@@ -1,0 +1,332 @@
+{
+  "id": "ruled-47415",
+  "slug": "keto-prosciutto-scrambled-eggs",
+  "title": "Keto Prosciutto Scrambled Eggs",
+  "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Prosciutto Scrambled Eggs. The serving comes out to be 587 calories, 46.8g fats, 2.2g net carbs, and 37.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "587 kcal",
+    "fatContent": "46.8 g",
+    "proteinContent": "37.3 g",
+    "carbohydrateContent": "2.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 587,
+    "netCarbsGrams": 2.2,
+    "proteinGrams": 37.3,
+    "fatGrams": 46.8
+  },
+  "ingredients": [
+    "3 large egg",
+    "2 tablespoon heavy cream",
+    "salt (to taste)",
+    "1 teaspoon ghee",
+    "1 tablespoon butter",
+    "2 slice prosciutto",
+    "1 teaspoon fresh dill"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-1.jpg"
+    },
+    {
+      "text": "In a bowl, crack the eggs and discard the shells. Add in the heavy cream and salt. Whisk until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-2.jpg"
+    },
+    {
+      "text": "In a frying pan over medium heat, add in the ghee and butter. Then add in the egg mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-3.jpg"
+    },
+    {
+      "text": "Let sit in pan until the bottom appears to be cooked. Then scramble the eggs up by moving them around in the pan with a spatula.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-4.jpg"
+    },
+    {
+      "text": "On a plate, lay the prosciutto down then lay the scrambled eggs on top. Fold the prosciutto over the scrambled eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-5.jpg"
+    },
+    {
+      "text": "Garnish with fresh dill. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/82a8e2715461f986449febf5.jpg",
+      "archived": true,
+      "originalPath": "images/82a8e2715461f986449febf5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Featured.jpg",
+      "path": "images/0f9573eb9b6e2bc697443ce1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/b61af41b916d59867e05cde7.avif",
+      "archived": true,
+      "originalPath": "images/b61af41b916d59867e05cde7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/312393cc783cef328b5b6c23.avif",
+      "archived": true,
+      "originalPath": "images/312393cc783cef328b5b6c23.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/e4cecf2dd6a407096dc2a8e7.avif",
+      "archived": true,
+      "originalPath": "images/e4cecf2dd6a407096dc2a8e7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/011575f0bbf8e0be894be7ce.jpg",
+      "archived": true,
+      "originalPath": "images/011575f0bbf8e0be894be7ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/7345d3b6248834d0b9bc4f15.avif",
+      "archived": true,
+      "originalPath": "images/7345d3b6248834d0b9bc4f15.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/79bfd6e643d9f54f3900ca7a.avif",
+      "archived": true,
+      "originalPath": "images/79bfd6e643d9f54f3900ca7a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/f1e8745b5e0e02e731c6b34e.avif",
+      "archived": true,
+      "originalPath": "images/f1e8745b5e0e02e731c6b34e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/4dfc937f0734fdab26585e82.jpg",
+      "archived": true,
+      "originalPath": "images/4dfc937f0734fdab26585e82.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e9b96b14740c7588c0b47e8a.avif",
+      "archived": true,
+      "originalPath": "images/e9b96b14740c7588c0b47e8a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8d87d601e3ab741f16948900.jpg",
+      "archived": true,
+      "originalPath": "images/8d87d601e3ab741f16948900.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9b96f906cd0d1d162482786a.avif",
+      "archived": true,
+      "originalPath": "images/9b96f906cd0d1d162482786a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8a34870f1b929b99c7ff4b2f.jpg",
+      "archived": true,
+      "originalPath": "images/8a34870f1b929b99c7ff4b2f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0b885ec9986a29c5cdde6b0a.avif",
+      "archived": true,
+      "originalPath": "images/0b885ec9986a29c5cdde6b0a.avif"
+    }
+  ],
+  "featuredImage": "images/0f9573eb9b6e2bc697443ce1.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Prosciutto Scrambled Eggs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Keto Prosciutto Scrambled Eggs. The serving comes out to be 587 calories, 46.8g fats, 2.2g net carbs, and 37.3g protein.",
+    "datePublished": "2022-08-02T09:00:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3 large egg",
+      "2 tablespoon heavy cream",
+      "salt (to taste)",
+      "1 teaspoon ghee",
+      "1 tablespoon butter",
+      "2 slice prosciutto",
+      "1 teaspoon fresh dill"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, crack the eggs and discard the shells. Add in the heavy cream and salt. Whisk until well combined.",
+        "name": "In a bowl, crack the eggs and discard the shells. Add in the heavy cream and salt. Whisk until well combined.",
+        "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium heat, add in the ghee and butter. Then add in the egg mixture.",
+        "name": "In a frying pan over medium heat, add in the ghee and butter. Then add in the egg mixture.",
+        "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let sit in pan until the bottom appears to be cooked. Then scramble the eggs up by moving them around in the pan with a spatula.",
+        "name": "Let sit in pan until the bottom appears to be cooked. Then scramble the eggs up by moving them around in the pan with a spatula.",
+        "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a plate, lay the prosciutto down then lay the scrambled eggs on top. Fold the prosciutto over the scrambled eggs.",
+        "name": "On a plate, lay the prosciutto down then lay the scrambled eggs on top. Fold the prosciutto over the scrambled eggs.",
+        "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with fresh dill. Serve and enjoy!",
+        "name": "Garnish with fresh dill. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#wprm-recipe-54279-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, quick, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "587 kcal",
+      "fatContent": "46.8 g",
+      "proteinContent": "37.3 g",
+      "carbohydrateContent": "2.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-prosciutto-scrambled-eggs/"
+  },
+  "sourceIndex": {
+    "id": 47415,
+    "rid": 54279,
+    "t": "Keto Prosciutto Scrambled Eggs",
+    "u": "/keto-prosciutto-scrambled-eggs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Proscuitto-Scrambled-Eggs-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.2,
+    "cal": 587,
+    "pr": 37.3,
+    "fa": 46.8,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2022-08-02",
+    "cm": 0,
+    "ex": "One of the most popular breakfast dishes is scrambled eggs, and it just so happens they are a great and quick breakfast option if you’re on a keto diet. By adding some delicious prosciutto to your",
+    "pv": 77
+  },
+  "sourceHtml": "pages/keto-prosciutto-scrambled-eggs.html",
+  "scrapedAt": "2026-11-07T08:11:12.222Z"
+}

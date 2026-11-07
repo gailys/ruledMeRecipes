@@ -1,0 +1,424 @@
+{
+  "id": "ruled-24360",
+  "slug": "low-carb-pepperoni-pizza",
+  "title": "Low-Carb Pepperoni Pizza",
+  "url": "https://www.ruled.me/low-carb-pepperoni-pizza/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Low-Carb Pepperoni Pizza. Each serving comes out to be 325 calories, 25g fats, 4.3g net carbs, and 18.1g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "325 kcal",
+    "fatContent": "25 g",
+    "proteinContent": "18.1 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 325,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 18.1,
+    "fatGrams": 25
+  },
+  "ingredients": [
+    "2 cup mozzarella cheese (grated)",
+    "1 1/2 ounce cream cheese (softened)",
+    "1 large egg",
+    "3/4 cup almond flour",
+    "1 tablespoon psyllium husk powder",
+    "1 tablespoon italian seasoning",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "1/2 cup low-carb tomato sauce (such as Rao's)",
+    "1 cup mozzarella cheese",
+    "1 ounce pepperoni",
+    "dried oregano (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Add the mozzarella cheese to a microwave-safe bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4245.jpg"
+    },
+    {
+      "text": "Microwave the cheese until fully melted and workable (about 90 seconds). Try not to have any more browning than what's shown in the picture (browned cheese will go hard). This took me ~90 seconds. Add the cream cheese and egg and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4246.jpg"
+    },
+    {
+      "text": "Add the almond flour, psyllium husk powder, Italian seasoning, and salt and pepper to the cheese mixture and stir to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4252.jpg"
+    },
+    {
+      "text": "Knead the dough until well incorporated, forming it into a large round ball.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4255.jpg"
+    },
+    {
+      "text": "Plop the ball onto a greased Silpat to keep it easy to work with. Press the dough out to form a large circular pattern.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4260.jpg"
+    },
+    {
+      "text": "Use an upside-down cookie sheet to enable the pizza to spread out slightly without being constricted around the edges. Place Silpat on upside-down pan and bake for 10 minutes on one side, then remove from the oven.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4266.jpg"
+    },
+    {
+      "text": "Flip the pizza to the other side and bake for another 2–4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4268.jpg"
+    },
+    {
+      "text": "Remove the pizza from the oven and add the tomato sauce, mozzarella, and pepperoni.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4273.jpg"
+    },
+    {
+      "text": "Bake again for an additional 3–5 minutes, or until the cheese is nicely melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4275.jpg"
+    },
+    {
+      "text": "Let cool slightly, cut into slices, and serve. Sprinkle some oregano over for garnish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizzalong.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "pork",
+    "quick",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizza.jpg",
+      "path": "images/34ae8217adfb9ae67d73cda8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4245.jpg",
+      "path": "../../nenaudojama/dinner/images/b94941a6935e01ed34da2db3.avif",
+      "archived": true,
+      "originalPath": "images/b94941a6935e01ed34da2db3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4246.jpg",
+      "path": "../../nenaudojama/dinner/images/f7b4f0d92a11f807d51400af.avif",
+      "archived": true,
+      "originalPath": "images/f7b4f0d92a11f807d51400af.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4252.jpg",
+      "path": "../../nenaudojama/dinner/images/5f777cb90e238370e63a531d.avif",
+      "archived": true,
+      "originalPath": "images/5f777cb90e238370e63a531d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4255.jpg",
+      "path": "../../nenaudojama/dinner/images/973caa3e055258435cad125f.avif",
+      "archived": true,
+      "originalPath": "images/973caa3e055258435cad125f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4260.jpg",
+      "path": "../../nenaudojama/dinner/images/70a0ced981713fd0942f4351.avif",
+      "archived": true,
+      "originalPath": "images/70a0ced981713fd0942f4351.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4266.jpg",
+      "path": "../../nenaudojama/dinner/images/9ab00fc552fd30eddbe9ab8c.avif",
+      "archived": true,
+      "originalPath": "images/9ab00fc552fd30eddbe9ab8c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4268.jpg",
+      "path": "../../nenaudojama/dinner/images/b24b9753622bfb651b212ff2.avif",
+      "archived": true,
+      "originalPath": "images/b24b9753622bfb651b212ff2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4273.jpg",
+      "path": "../../nenaudojama/dinner/images/32aaf80d2ca3198c484278c5.jpg",
+      "archived": true,
+      "originalPath": "images/32aaf80d2ca3198c484278c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4275.jpg",
+      "path": "../../nenaudojama/dinner/images/be80ed3763149ca9e38779b7.avif",
+      "archived": true,
+      "originalPath": "images/be80ed3763149ca9e38779b7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizzalong.jpg",
+      "path": "../../nenaudojama/dinner/images/c67d72d8cfac68d3d31cf45d.avif",
+      "archived": true,
+      "originalPath": "images/c67d72d8cfac68d3d31cf45d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizzasecond.jpg",
+      "path": "../../nenaudojama/dinner/images/1930fa933b18491d008f5250.avif",
+      "archived": true,
+      "originalPath": "images/1930fa933b18491d008f5250.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4245-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/32a8ebc7306821154acf7c80.jpg",
+      "archived": true,
+      "originalPath": "images/32a8ebc7306821154acf7c80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4246-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/257ef8e0b99799f2f6766d8d.jpg",
+      "archived": true,
+      "originalPath": "images/257ef8e0b99799f2f6766d8d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4252-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/50758c584e35c6ec09a98afb.jpg",
+      "archived": true,
+      "originalPath": "images/50758c584e35c6ec09a98afb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4255-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/67a2ef4266a53028a85fe2c3.avif",
+      "archived": true,
+      "originalPath": "images/67a2ef4266a53028a85fe2c3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4260-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/21eb5db1eb262fbe59c371f6.avif",
+      "archived": true,
+      "originalPath": "images/21eb5db1eb262fbe59c371f6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4266-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/51565a6b87530733849f5dd1.avif",
+      "archived": true,
+      "originalPath": "images/51565a6b87530733849f5dd1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4268-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3bc1d2bea1a187407142946d.jpg",
+      "archived": true,
+      "originalPath": "images/3bc1d2bea1a187407142946d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4273-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3680bfe9b5741da8de6d83e5.jpg",
+      "archived": true,
+      "originalPath": "images/3680bfe9b5741da8de6d83e5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4275-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6fc95fe8156b769e6493ad6b.jpg",
+      "archived": true,
+      "originalPath": "images/6fc95fe8156b769e6493ad6b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizzalong-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ecace1f52e556a2a2ed75275.avif",
+      "archived": true,
+      "originalPath": "images/ecace1f52e556a2a2ed75275.avif"
+    }
+  ],
+  "featuredImage": "images/34ae8217adfb9ae67d73cda8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Pepperoni Pizza",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Low-Carb Pepperoni Pizza. Each serving comes out to be 325 calories, 25g fats, 4.3g net carbs, and 18.1g protein.",
+    "datePublished": "2014-08-25T14:28:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizza.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "2 cup mozzarella cheese (grated)",
+      "1 1/2 ounce cream cheese (softened)",
+      "1 large egg",
+      "3/4 cup almond flour",
+      "1 tablespoon psyllium husk powder",
+      "1 tablespoon italian seasoning",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 cup low-carb tomato sauce (such as Rao's)",
+      "1 cup mozzarella cheese",
+      "1 ounce pepperoni",
+      "dried oregano (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Add the mozzarella cheese to a microwave-safe bowl.",
+        "name": "Preheat oven to 400F. Add the mozzarella cheese to a microwave-safe bowl.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4245.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave the cheese until fully melted and workable (about 90 seconds). Try not to have any more browning than what's shown in the picture (browned cheese will go hard). This took me ~90 seconds. Add the cream cheese and egg and mix well.",
+        "name": "Microwave the cheese until fully melted and workable (about 90 seconds). Try not to have any more browning than what's shown in the picture (browned cheese will go hard). This took me ~90 seconds. Add the cream cheese and egg and mix well.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4246.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the almond flour, psyllium husk powder, Italian seasoning, and salt and pepper to the cheese mixture and stir to combine.",
+        "name": "Add the almond flour, psyllium husk powder, Italian seasoning, and salt and pepper to the cheese mixture and stir to combine.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4252.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Knead the dough until well incorporated, forming it into a large round ball.",
+        "name": "Knead the dough until well incorporated, forming it into a large round ball.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4255.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plop the ball onto a greased Silpat to keep it easy to work with. Press the dough out to form a large circular pattern.",
+        "name": "Plop the ball onto a greased Silpat to keep it easy to work with. Press the dough out to form a large circular pattern.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4260.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an upside-down cookie sheet to enable the pizza to spread out slightly without being constricted around the edges. Place Silpat on upside-down pan and bake for 10 minutes on one side, then remove from the oven.",
+        "name": "Use an upside-down cookie sheet to enable the pizza to spread out slightly without being constricted around the edges. Place Silpat on upside-down pan and bake for 10 minutes on one side, then remove from the oven.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4266.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the pizza to the other side and bake for another 2–4 minutes.",
+        "name": "Flip the pizza to the other side and bake for another 2–4 minutes.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4268.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pizza from the oven and add the tomato sauce, mozzarella, and pepperoni.",
+        "name": "Remove the pizza from the oven and add the tomato sauce, mozzarella, and pepperoni.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4273.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake again for an additional 3–5 minutes, or until the cheese is nicely melted.",
+        "name": "Bake again for an additional 3–5 minutes, or until the cheese is nicely melted.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4275.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool slightly, cut into slices, and serve. Sprinkle some oregano over for garnish.",
+        "name": "Let cool slightly, cut into slices, and serve. Sprinkle some oregano over for garnish.",
+        "url": "https://www.ruled.me/low-carb-pepperoni-pizza/#wprm-recipe-51313-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizzalong.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, family-friendly, gluten-free, keto, low-carb, oven-baked, pork, quick, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "325 kcal",
+      "fatContent": "25 g",
+      "proteinContent": "18.1 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-pepperoni-pizza/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-pepperoni-pizza/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-pepperoni-pizza/"
+  },
+  "sourceIndex": {
+    "id": 24360,
+    "rid": 51313,
+    "t": "Low Carb Pepperoni Pizza",
+    "u": "/low-carb-pepperoni-pizza/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/pepperonipizza.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.3,
+    "cal": 325,
+    "pr": 18.1,
+    "fa": 25,
+    "tm": 30,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "pork",
+      "quick",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 12,
+    "fk": [
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2014-08-25",
+    "cm": 232,
+    "ex": "It's naturally crisp and crunchy, it holds together like a regular slice of pizza, and it actually tastes like the real deal. So, if you've never had the chance to try it yet, definitely take this",
+    "pv": 3624
+  },
+  "sourceHtml": "pages/low-carb-pepperoni-pizza.html",
+  "scrapedAt": "2026-11-07T08:27:45.038Z"
+}

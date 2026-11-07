@@ -1,0 +1,363 @@
+{
+  "id": "ruled-40364",
+  "slug": "keto-pepperoni-pizza-quiche",
+  "title": "Keto Pepperoni Pizza Quiche",
+  "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Pepperoni Pizza Quiche. Each serving comes out to be 430 calories, 39g fats, 3.7g net carbs, and 15.4g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT60M",
+  "cookTime": "PT45M",
+  "totalTime": "PT105M",
+  "totalMinutes": 105,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "430 kcal",
+    "fatContent": "39 g",
+    "proteinContent": "15.4 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 430,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 15.4,
+    "fatGrams": 39
+  },
+  "ingredients": [
+    "1 1/4 cup almond flour",
+    "1/4 cup coconut flour",
+    "1 teaspoon salt",
+    "1 teaspoon xanthan gum",
+    "1 teaspoon white vinegar",
+    "6 tablespoon butter (cold and diced)",
+    "1 large egg (whisked)",
+    "1 cup mozzarella cheese (shredded)",
+    "15 slice pepperoni",
+    "6 large egg",
+    "1 cup heavy whipping cream",
+    "1/2 teaspoon italian seasoning",
+    "1/4 teaspoon crushed red pepper flakes",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Add the almond flour, coconut flour, salt, xanthan gum, and vinegar into a food processor. Pulse a few times, then add the cold butter. Continue pulsing until the pie dough looks like bread crumbs. Add the egg to the food processor and pulse again. The dough will be able to be formed into a ball. Wrap with plastic wrap and chill for 45-60 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-01.jpg"
+    },
+    {
+      "text": "Preheat the oven to 350F. Grease a baking dish that will fit your quiche and a piece of foil with nonstick spray then set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-02.jpg"
+    },
+    {
+      "text": "When the dough is chilled, place it between two sheets of parchment paper. Roll the dough out into a circle that will fit your baking dish. (More circles if you are making more than one pie or have a small baking dish.) Peel the top layer of parchment off and flip the dough into the pie plate if the dough breaks mash it back together with your fingers.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-03.jpg"
+    },
+    {
+      "text": "Layer half of the mozzarella and pepperoni inside the pie crust. In a mixing bowl whisk the eggs, heavy cream, Italian seasoning, red pepper flakes, salt, and pepper together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-04.jpg"
+    },
+    {
+      "text": "Pour the eggs into the pie crust, coating the pepperoni and cheese. Sprinkle the top with the remaining cheese and pepperoni.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-05.jpg"
+    },
+    {
+      "text": "Cover with foil then bake for about 35-45 minutes. Remove the foil and continue baking for another 10-15 minutes or until the eggs are fully set.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/445b57a2c57075bfeb6d6f24.jpg",
+      "archived": true,
+      "originalPath": "images/445b57a2c57075bfeb6d6f24.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-featured.jpg",
+      "path": "images/4339a88303940c85d4457a32.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/b73bd969dce3ae32510b006c.jpg",
+      "archived": true,
+      "originalPath": "images/b73bd969dce3ae32510b006c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/232cc0485b13919f6e38ec1d.jpg",
+      "archived": true,
+      "originalPath": "images/232cc0485b13919f6e38ec1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/f9309008e6377eadadf8a3d4.jpg",
+      "archived": true,
+      "originalPath": "images/f9309008e6377eadadf8a3d4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/38de3cef7a40e4677a93e454.jpg",
+      "archived": true,
+      "originalPath": "images/38de3cef7a40e4677a93e454.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/b9a8d21969f7421de3b9d25c.jpg",
+      "archived": true,
+      "originalPath": "images/b9a8d21969f7421de3b9d25c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff2d43197ae2c18b08193dfe.jpg",
+      "archived": true,
+      "originalPath": "images/ff2d43197ae2c18b08193dfe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/1cecb3a2f7519de3b4172fbe.jpg",
+      "archived": true,
+      "originalPath": "images/1cecb3a2f7519de3b4172fbe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2dfd6289fb0d23f1e2385019.avif",
+      "archived": true,
+      "originalPath": "images/2dfd6289fb0d23f1e2385019.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/326aed6016895e9359048648.avif",
+      "archived": true,
+      "originalPath": "images/326aed6016895e9359048648.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/453073ccdc4239a5d949cd56.avif",
+      "archived": true,
+      "originalPath": "images/453073ccdc4239a5d949cd56.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-04-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/48da71a3a6145421c24a876e.avif",
+      "archived": true,
+      "originalPath": "images/48da71a3a6145421c24a876e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/df818067d3ddc27d28235696.jpg",
+      "archived": true,
+      "originalPath": "images/df818067d3ddc27d28235696.jpg"
+    }
+  ],
+  "featuredImage": "images/4339a88303940c85d4457a32.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pepperoni Pizza Quiche",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Keto Pepperoni Pizza Quiche. Each serving comes out to be 430 calories, 39g fats, 3.7g net carbs, and 15.4g protein.",
+    "datePublished": "2019-06-06T11:00:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Pepperoni Pizza Quiche Recipe",
+      "description": "A lot of keto quiches skip the crust for simplicity reasons, but it’s perfectly doable to have your crust and eat it too. For this recipe, we put a simple crust together then pack it full of eggs and pizza toppings. This keto pepperoni pizza quiche will have you dreaming of breakfast.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n\nThe Pie Crust:\n1 ½ cups almond flour\n¼ cup coconut flour\n1 teaspoon salt\n1 teaspoon xanthan gum\n1 teaspoon vinegar\n6 tablespoons cold butter, diced\n1 large egg, whisked together\n\nQuiche Filling:\n1 cup shredded mozzarella cheese\n15 slices pepperoni\n6 large eggs\n1 cup heavy cream\n½ teaspoon Italian seasoning\n¼ teaspoon red pepper flakes\nSalt and pepper, to taste\n\nNutrition Summary:\nThis makes a total of 8 servings of Keto Pepperoni Pizza Quiche. Each serving comes out to be 416.66 Calories, 38.43g Fats, 4.41g Net Carbs, and 14.29g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-10-12T15:00:21+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M20S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 7852
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 361
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 22
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pnvxCOfINgM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/pnvxCOfINgM?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=pnvxCOfINgM",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT60M",
+    "cookTime": "PT45M",
+    "totalTime": "PT105M",
+    "recipeIngredient": [
+      "1 1/4 cup almond flour",
+      "1/4 cup coconut flour",
+      "1 teaspoon salt",
+      "1 teaspoon xanthan gum",
+      "1 teaspoon white vinegar",
+      "6 tablespoon butter (cold and diced)",
+      "1 large egg (whisked)",
+      "1 cup mozzarella cheese (shredded)",
+      "15 slice pepperoni",
+      "6 large egg",
+      "1 cup heavy whipping cream",
+      "1/2 teaspoon italian seasoning",
+      "1/4 teaspoon crushed red pepper flakes",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the almond flour, coconut flour, salt, xanthan gum, and vinegar into a food processor. Pulse a few times, then add the cold butter. Continue pulsing until the pie dough looks like bread crumbs. Add the egg to the food processor and pulse again. The dough will be able to be formed into a ball. Wrap with plastic wrap and chill for 45-60 minutes.",
+        "name": "Add the almond flour, coconut flour, salt, xanthan gum, and vinegar into a food processor. Pulse a few times, then add the cold butter. Continue pulsing until the pie dough looks like bread crumbs. Add the egg to the food processor and pulse again. The dough will be able to be formed into a ball. Wrap with plastic wrap and chill for 45-60 minutes.",
+        "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350F. Grease a baking dish that will fit your quiche and a piece of foil with nonstick spray then set aside.",
+        "name": "Preheat the oven to 350F. Grease a baking dish that will fit your quiche and a piece of foil with nonstick spray then set aside.",
+        "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the dough is chilled, place it between two sheets of parchment paper. Roll the dough out into a circle that will fit your baking dish. (More circles if you are making more than one pie or have a small baking dish.) Peel the top layer of parchment off and flip the dough into the pie plate if the dough breaks mash it back together with your fingers.",
+        "name": "When the dough is chilled, place it between two sheets of parchment paper. Roll the dough out into a circle that will fit your baking dish. (More circles if you are making more than one pie or have a small baking dish.) Peel the top layer of parchment off and flip the dough into the pie plate if the dough breaks mash it back together with your fingers.",
+        "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer half of the mozzarella and pepperoni inside the pie crust. In a mixing bowl whisk the eggs, heavy cream, Italian seasoning, red pepper flakes, salt, and pepper together.",
+        "name": "Layer half of the mozzarella and pepperoni inside the pie crust. In a mixing bowl whisk the eggs, heavy cream, Italian seasoning, red pepper flakes, salt, and pepper together.",
+        "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the eggs into the pie crust, coating the pepperoni and cheese. Sprinkle the top with the remaining cheese and pepperoni.",
+        "name": "Pour the eggs into the pie crust, coating the pepperoni and cheese. Sprinkle the top with the remaining cheese and pepperoni.",
+        "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover with foil then bake for about 35-45 minutes. Remove the foil and continue baking for another 10-15 minutes or until the eggs are fully set.",
+        "name": "Cover with foil then bake for about 35-45 minutes. Remove the foil and continue baking for another 10-15 minutes or until the eggs are fully set.",
+        "url": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#wprm-recipe-53032-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, eggs, gluten-free, high-fat, keto, low-carb, oven-baked, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "430 kcal",
+      "fatContent": "39 g",
+      "proteinContent": "15.4 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pepperoni-pizza-quiche/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pepperoni-pizza-quiche/"
+  },
+  "sourceIndex": {
+    "id": 40364,
+    "rid": 53032,
+    "t": "Keto Pepperoni Pizza Quiche",
+    "u": "/keto-pepperoni-pizza-quiche/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/05/keto-pepperoni-pizza-quiche-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.7,
+    "cal": 430,
+    "pr": 15.4,
+    "fa": 39,
+    "tm": 105,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 14,
+    "fk": [
+      "oven-baked",
+      "pork",
+      "eggs"
+    ],
+    "d": "2019-06-06",
+    "cm": 10,
+    "ex": "A lot of keto quiches skip the crust for simplicity reasons, but it’s perfectly doable to have your crust and eat it too. For this recipe, we put a simple crust together then pack it full of eggs and",
+    "pv": 333
+  },
+  "sourceHtml": "pages/keto-pepperoni-pizza-quiche.html",
+  "scrapedAt": "2026-11-07T08:11:12.592Z"
+}

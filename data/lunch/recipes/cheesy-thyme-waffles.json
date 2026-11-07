@@ -1,0 +1,397 @@
+{
+  "id": "ruled-12471",
+  "slug": "cheesy-thyme-waffles",
+  "title": "Cheesy Thyme Waffles",
+  "url": "https://www.ruled.me/cheesy-thyme-waffles/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Cheesy Thyme Waffles. Each serving comes out to be 235 calories, 16.1g fats, 4.5g net carbs, and 15.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "fatContent": "16.1 g",
+    "proteinContent": "15.8 g",
+    "carbohydrateContent": "4.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 235,
+    "netCarbsGrams": 4.5,
+    "proteinGrams": 15.8,
+    "fatGrams": 16.1
+  },
+  "ingredients": [
+    "300 gram cauliflower",
+    "30 gram green onion",
+    "2 teaspoon fresh thyme",
+    "1 cup collard greens",
+    "1 cup mozzarella cheese (shredded)",
+    "1/3 cup parmesan cheese (grated)",
+    "2 large egg",
+    "1 tablespoon sesame seeds",
+    "1 tablespoon olive oil",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Prep the cauliflower, green onion, and thyme by cutting the cauliflower into florets, slicing the green onion finely, and removing the thyme leaves from the stems before chopping.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8888.jpg"
+    },
+    {
+      "text": "In a food processor, rice the cauliflower by pulsing it to form a crumbly texture that resembles rice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8896.jpg"
+    },
+    {
+      "text": "Add the green onion, thyme, and collard greens to the mixture and continue pulsing until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8899.jpg"
+    },
+    {
+      "text": "Scoop the mixture out into a large mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8901.jpg"
+    },
+    {
+      "text": "Add the mozzarella, parmesan, eggs, sesame seeds, olive oil, garlic powder, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8902.jpg"
+    },
+    {
+      "text": "Mix everything well to form a loose batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8906.jpg"
+    },
+    {
+      "text": "Heat up your waffle iron and spoon the mixture in evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_89084.jpg"
+    },
+    {
+      "text": "Follow the manufacturer's instructions for cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8916.jpg"
+    },
+    {
+      "text": "Remove and serve hot!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle4.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle.jpg",
+      "path": "images/20e2e1c62a6bf8df9bce745b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8888.jpg",
+      "path": "../../nenaudojama/lunch/images/e4586546af5efcd643030d60.jpg",
+      "archived": true,
+      "originalPath": "images/e4586546af5efcd643030d60.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8896.jpg",
+      "path": "../../nenaudojama/lunch/images/15b8e78a39a95adf51b98bad.jpg",
+      "archived": true,
+      "originalPath": "images/15b8e78a39a95adf51b98bad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8899.jpg",
+      "path": "../../nenaudojama/lunch/images/4b94dae4f1969cfa76d3614c.avif",
+      "archived": true,
+      "originalPath": "images/4b94dae4f1969cfa76d3614c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8901.jpg",
+      "path": "../../nenaudojama/lunch/images/75caa220641f2f959df0d475.jpg",
+      "archived": true,
+      "originalPath": "images/75caa220641f2f959df0d475.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8902.jpg",
+      "path": "../../nenaudojama/lunch/images/c9cd7e25c4d12eb2b6b2367b.jpg",
+      "archived": true,
+      "originalPath": "images/c9cd7e25c4d12eb2b6b2367b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8906.jpg",
+      "path": "../../nenaudojama/lunch/images/68a6dcb3f6e78b2b4a7087ee.jpg",
+      "archived": true,
+      "originalPath": "images/68a6dcb3f6e78b2b4a7087ee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_89084.jpg",
+      "path": "../../nenaudojama/lunch/images/f15b7f126c7f0e46092b42ff.jpg",
+      "archived": true,
+      "originalPath": "images/f15b7f126c7f0e46092b42ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8916.jpg",
+      "path": "../../nenaudojama/lunch/images/a333bd3e9a863afff0bd5bb6.avif",
+      "archived": true,
+      "originalPath": "images/a333bd3e9a863afff0bd5bb6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle4.jpg",
+      "path": "../../nenaudojama/lunch/images/ce859fd82bb691cb60dc25b8.avif",
+      "archived": true,
+      "originalPath": "images/ce859fd82bb691cb60dc25b8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffleSecond1.jpg",
+      "path": "../../nenaudojama/lunch/images/800ec9aedb9369b8d535612c.avif",
+      "archived": true,
+      "originalPath": "images/800ec9aedb9369b8d535612c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8888-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b58413e87b3a4c4d1ec33933.avif",
+      "archived": true,
+      "originalPath": "images/b58413e87b3a4c4d1ec33933.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8896-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/638ce9ac2f6442aaedb236a2.avif",
+      "archived": true,
+      "originalPath": "images/638ce9ac2f6442aaedb236a2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8899-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/061521b72c1f0c8aca1aa9c8.jpg",
+      "archived": true,
+      "originalPath": "images/061521b72c1f0c8aca1aa9c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8901-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a99409492d02f3491d423c5e.avif",
+      "archived": true,
+      "originalPath": "images/a99409492d02f3491d423c5e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8902-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2a7396d4a2ba5f054373f124.avif",
+      "archived": true,
+      "originalPath": "images/2a7396d4a2ba5f054373f124.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8906-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b907d74c3df4c137c0e2ff3c.jpg",
+      "archived": true,
+      "originalPath": "images/b907d74c3df4c137c0e2ff3c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_89084-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5dcb1c8d565d03e2e48b3921.avif",
+      "archived": true,
+      "originalPath": "images/5dcb1c8d565d03e2e48b3921.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8916-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/76fa16884bac59d7e0e73fef.avif",
+      "archived": true,
+      "originalPath": "images/76fa16884bac59d7e0e73fef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/1362d18ba4294f35e8cc0125.jpg",
+      "archived": true,
+      "originalPath": "images/1362d18ba4294f35e8cc0125.jpg"
+    }
+  ],
+  "featuredImage": "images/20e2e1c62a6bf8df9bce745b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheesy Thyme Waffles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Cheesy Thyme Waffles. Each serving comes out to be 235 calories, 16.1g fats, 4.5g net carbs, and 15.8g protein.",
+    "datePublished": "2014-04-06T16:38:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "300 gram cauliflower",
+      "30 gram green onion",
+      "2 teaspoon fresh thyme",
+      "1 cup collard greens",
+      "1 cup mozzarella cheese (shredded)",
+      "1/3 cup parmesan cheese (grated)",
+      "2 large egg",
+      "1 tablespoon sesame seeds",
+      "1 tablespoon olive oil",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep the cauliflower, green onion, and thyme by cutting the cauliflower into florets, slicing the green onion finely, and removing the thyme leaves from the stems before chopping.",
+        "name": "Prep the cauliflower, green onion, and thyme by cutting the cauliflower into florets, slicing the green onion finely, and removing the thyme leaves from the stems before chopping.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8888.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, rice the cauliflower by pulsing it to form a crumbly texture that resembles rice.",
+        "name": "In a food processor, rice the cauliflower by pulsing it to form a crumbly texture that resembles rice.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8896.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the green onion, thyme, and collard greens to the mixture and continue pulsing until well combined.",
+        "name": "Add the green onion, thyme, and collard greens to the mixture and continue pulsing until well combined.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8899.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop the mixture out into a large mixing bowl.",
+        "name": "Scoop the mixture out into a large mixing bowl.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8901.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mozzarella, parmesan, eggs, sesame seeds, olive oil, garlic powder, salt, and pepper.",
+        "name": "Add the mozzarella, parmesan, eggs, sesame seeds, olive oil, garlic powder, salt, and pepper.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8902.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything well to form a loose batter.",
+        "name": "Mix everything well to form a loose batter.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8906.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up your waffle iron and spoon the mixture in evenly.",
+        "name": "Heat up your waffle iron and spoon the mixture in evenly.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_89084.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Follow the manufacturer's instructions for cooking.",
+        "name": "Follow the manufacturer's instructions for cooking.",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_8916.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove and serve hot!",
+        "name": "Remove and serve hot!",
+        "url": "https://www.ruled.me/cheesy-thyme-waffles/#wprm-recipe-51017-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle4.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, keto, low-carb, nut-free, quick, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235 kcal",
+      "fatContent": "16.1 g",
+      "proteinContent": "15.8 g",
+      "carbohydrateContent": "4.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheesy-thyme-waffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheesy-thyme-waffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheesy-thyme-waffles/"
+  },
+  "sourceIndex": {
+    "id": 12471,
+    "rid": 51017,
+    "t": "Cheesy Thyme Waffles",
+    "u": "/cheesy-thyme-waffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/CauliWaffle.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.5,
+    "cal": 235,
+    "pr": 15.8,
+    "fa": 16.1,
+    "tm": 15,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "nut-free"
+    ],
+    "d": "2014-04-06",
+    "cm": 7,
+    "ex": "Definitely not the prettiest dish of the bunch, but I just had to post this one. For me, while looks are quite important most of the time, taste reigns supreme at the end of the day. This dish hits",
+    "pv": 205
+  },
+  "sourceHtml": "pages/cheesy-thyme-waffles.html",
+  "scrapedAt": "2026-11-07T08:18:13.174Z"
+}

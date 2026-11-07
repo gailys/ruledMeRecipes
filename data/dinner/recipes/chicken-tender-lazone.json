@@ -1,0 +1,341 @@
+{
+  "id": "ruled-34780",
+  "slug": "chicken-tender-lazone",
+  "title": "Chicken Tender Lazone",
+  "url": "https://www.ruled.me/chicken-tender-lazone/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Chicken Tender Lazone. Each serving comes out to be 623 calories, 45.1g fats, 4.9g net carbs, and 47.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "623 kcal",
+    "fatContent": "45.1 g",
+    "proteinContent": "47.7 g",
+    "carbohydrateContent": "4.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 623,
+    "netCarbsGrams": 4.9,
+    "proteinGrams": 47.7,
+    "fatGrams": 45.1
+  },
+  "ingredients": [
+    "2 teaspoon smoked paprika",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon cayenne pepper",
+    "1/2 teaspoon dried oregano",
+    "1/2 teaspoon dried basil",
+    "salt and pepper (to taste)",
+    "20 ounce chicken tenderloins",
+    "1 tablespoon olive oil",
+    "5 tablespoon unsalted butter",
+    "20 ounce spiralized zucchini",
+    "1 cup heavy whipping cream",
+    "1/4 teaspoon xanthan gum",
+    "2 tablespoon fresh parsley (chopped, for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "In a bowl combine the smoked paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried basil, and some salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-01.png"
+    },
+    {
+      "text": "In a medium-sized mixing bowl place the chicken tenderloins, then add the tablespoon of olive oil and seasoning mix. Mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-02.jpg"
+    },
+    {
+      "text": "Melt 3 tablespoons of the butter in a large skillet. Use medium-high heat. Add the chicken tenderloins and cook for about 3-4 minutes on each side. The chicken should reach 165F. Once they are done, set them aside on a plate. I usually cook these in two batches.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-04.jpg"
+    },
+    {
+      "text": "Cook the spiral zucchini and season with salt and pepper. You can saute in another pan or cook in the microwave. Drain any excess water. Add butter to the skillet that you cooked the chicken in.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-05.jpg"
+    },
+    {
+      "text": "Whisk in the cream. The whisk and cream should lift up the browned bits off the bottom of the pan. Whisk in the xanthan gum and the sauce will thicken up. Taste to check the seasoning and add additional salt or pepper as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-07.jpg"
+    },
+    {
+      "text": "Serve with the zucchini and chicken. You can layer it like I did here, or toss with the zoodles and serve the chicken on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/ecf70cf44b7f66d39d272fef.jpg",
+      "archived": true,
+      "originalPath": "images/ecf70cf44b7f66d39d272fef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-featured.jpg",
+      "path": "images/b2c7a4040debf5ddc56b134f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-01.png",
+      "path": "../../nenaudojama/dinner/images/1422ec36b0c07849a493d623.webp",
+      "archived": true,
+      "originalPath": "images/1422ec36b0c07849a493d623.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-02.jpg",
+      "path": "../../nenaudojama/dinner/images/f6a57408d6bd408d01fa4a4a.avif",
+      "archived": true,
+      "originalPath": "images/f6a57408d6bd408d01fa4a4a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-04.jpg",
+      "path": "../../nenaudojama/dinner/images/603c68401648f1d2d6d8c4bd.jpg",
+      "archived": true,
+      "originalPath": "images/603c68401648f1d2d6d8c4bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-05.jpg",
+      "path": "../../nenaudojama/dinner/images/71f42c2bb4c386fe6e687bcd.avif",
+      "archived": true,
+      "originalPath": "images/71f42c2bb4c386fe6e687bcd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-07.jpg",
+      "path": "../../nenaudojama/dinner/images/4dcfa111e7976f641f2a5d4e.avif",
+      "archived": true,
+      "originalPath": "images/4dcfa111e7976f641f2a5d4e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-second.jpg",
+      "path": "../../nenaudojama/dinner/images/2339427f800bf0909fc8a5c6.avif",
+      "archived": true,
+      "originalPath": "images/2339427f800bf0909fc8a5c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/788f43a34d1d18d131edb897.avif",
+      "archived": true,
+      "originalPath": "images/788f43a34d1d18d131edb897.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-01-525x350.png",
+      "path": "../../nenaudojama/dinner/images/2f83fda13ae655e51a31f6fe.png",
+      "archived": true,
+      "originalPath": "images/2f83fda13ae655e51a31f6fe.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9fdcd21ae37c9fd1f7662adb.avif",
+      "archived": true,
+      "originalPath": "images/9fdcd21ae37c9fd1f7662adb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7da7e1c2341c061b5e5bc137.jpg",
+      "archived": true,
+      "originalPath": "images/7da7e1c2341c061b5e5bc137.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0b5c9a054c53fff8abcb6f56.avif",
+      "archived": true,
+      "originalPath": "images/0b5c9a054c53fff8abcb6f56.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/73fb38b33b4bea64a724cc80.avif",
+      "archived": true,
+      "originalPath": "images/73fb38b33b4bea64a724cc80.avif"
+    }
+  ],
+  "featuredImage": "images/b2c7a4040debf5ddc56b134f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicken Tender Lazone",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Chicken Tender Lazone. Each serving comes out to be 623 calories, 45.1g fats, 4.9g net carbs, and 47.7g protein.",
+    "datePublished": "2017-12-28T12:00:53+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "2 teaspoon smoked paprika",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon dried oregano",
+      "1/2 teaspoon dried basil",
+      "salt and pepper (to taste)",
+      "20 ounce chicken tenderloins",
+      "1 tablespoon olive oil",
+      "5 tablespoon unsalted butter",
+      "20 ounce spiralized zucchini",
+      "1 cup heavy whipping cream",
+      "1/4 teaspoon xanthan gum",
+      "2 tablespoon fresh parsley (chopped, for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl combine the smoked paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried basil, and some salt and pepper to taste.",
+        "name": "In a bowl combine the smoked paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried basil, and some salt and pepper to taste.",
+        "url": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-01.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium-sized mixing bowl place the chicken tenderloins, then add the tablespoon of olive oil and seasoning mix. Mix together well.",
+        "name": "In a medium-sized mixing bowl place the chicken tenderloins, then add the tablespoon of olive oil and seasoning mix. Mix together well.",
+        "url": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt 3 tablespoons of the butter in a large skillet. Use medium-high heat. Add the chicken tenderloins and cook for about 3-4 minutes on each side. The chicken should reach 165F. Once they are done, set them aside on a plate. I usually cook these in two batches.",
+        "name": "Melt 3 tablespoons of the butter in a large skillet. Use medium-high heat. Add the chicken tenderloins and cook for about 3-4 minutes on each side. The chicken should reach 165F. Once they are done, set them aside on a plate. I usually cook these in two batches.",
+        "url": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the spiral zucchini and season with salt and pepper. You can saute in another pan or cook in the microwave. Drain any excess water. Add butter to the skillet that you cooked the chicken in.",
+        "name": "Cook the spiral zucchini and season with salt and pepper. You can saute in another pan or cook in the microwave. Drain any excess water. Add butter to the skillet that you cooked the chicken in.",
+        "url": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in the cream. The whisk and cream should lift up the browned bits off the bottom of the pan. Whisk in the xanthan gum and the sauce will thicken up. Taste to check the seasoning and add additional salt or pepper as needed.",
+        "name": "Whisk in the cream. The whisk and cream should lift up the browned bits off the bottom of the pan. Whisk in the xanthan gum and the sauce will thicken up. Taste to check the seasoning and add additional salt or pepper as needed.",
+        "url": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with the zucchini and chicken. You can layer it like I did here, or toss with the zoodles and serve the chicken on top.",
+        "name": "Serve with the zucchini and chicken. You can layer it like I did here, or toss with the zoodles and serve the chicken on top.",
+        "url": "https://www.ruled.me/chicken-tender-lazone/#wprm-recipe-52421-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "623 kcal",
+      "fatContent": "45.1 g",
+      "proteinContent": "47.7 g",
+      "carbohydrateContent": "4.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chicken-tender-lazone/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chicken-tender-lazone/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chicken-tender-lazone/"
+  },
+  "sourceIndex": {
+    "id": 34780,
+    "rid": 52421,
+    "t": "Chicken Tender Lazone",
+    "u": "/chicken-tender-lazone/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/chicken-tender-lazone-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.9,
+    "cal": 623,
+    "pr": 47.7,
+    "fa": 45.1,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 14,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2017-12-28",
+    "cm": 28,
+    "ex": "This flavorful chicken dinner comes together in a flash! Smoky chicken tenders are pan seared in butter then served with a decadent sauce over zoodles. I can get this on the table in 30 minutes or",
+    "pv": 584
+  },
+  "sourceHtml": "pages/chicken-tender-lazone.html",
+  "scrapedAt": "2026-11-07T08:27:44.634Z"
+}

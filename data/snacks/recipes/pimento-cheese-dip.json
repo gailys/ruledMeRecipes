@@ -1,0 +1,296 @@
+{
+  "id": "ruled-35374",
+  "slug": "pimento-cheese-dip",
+  "title": "Pimento Cheese Dip",
+  "url": "https://www.ruled.me/pimento-cheese-dip/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Pimento Cheese Dip. Each serving comes out to be 168 calories, 14g fats, 3.9g net carbs, and 6.4g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "fatContent": "14 g",
+    "proteinContent": "6.4 g",
+    "carbohydrateContent": "3.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 168,
+    "netCarbsGrams": 3.9,
+    "proteinGrams": 6.4,
+    "fatGrams": 14
+  },
+  "ingredients": [
+    "8 ounce cream cheese",
+    "10 medium pimento peppers",
+    "1 1/2 cup cheddar cheese (shredded)",
+    "1 tablespoon fresh garlic (minced)",
+    "salt and pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Heat up the minced garlic in a non-stick pan over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-01.jpg"
+    },
+    {
+      "text": "Add the brick of cream cheese and let it soften, stirring occasionally.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-02.jpg"
+    },
+    {
+      "text": "Once your cream cheese is softened to a point where you are able to stir it like a thick liquid, mix in your cheddar cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-04.jpg"
+    },
+    {
+      "text": "The mix should now be a light orange color, so stir in your chopped pimentos!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-06.jpg"
+    },
+    {
+      "text": "Pour into a serving dish and refrigerate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/Pimento-Dip-final-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/c3de2805125071d299d98763.avif",
+      "archived": true,
+      "originalPath": "images/c3de2805125071d299d98763.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/Pimento-Dip-final.jpg",
+      "path": "../../nenaudojama/snacks/images/1dd29c1f13a288889028a643.avif",
+      "archived": true,
+      "originalPath": "images/1dd29c1f13a288889028a643.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-01.jpg",
+      "path": "../../nenaudojama/snacks/images/2148f16ab00845d2d0fa0cb7.avif",
+      "archived": true,
+      "originalPath": "images/2148f16ab00845d2d0fa0cb7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-02.jpg",
+      "path": "../../nenaudojama/snacks/images/9dd2acba0b4fdf7da13c9cc0.avif",
+      "archived": true,
+      "originalPath": "images/9dd2acba0b4fdf7da13c9cc0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-04.jpg",
+      "path": "../../nenaudojama/snacks/images/59cb09e5509b28b31172d486.avif",
+      "archived": true,
+      "originalPath": "images/59cb09e5509b28b31172d486.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-06.jpg",
+      "path": "../../nenaudojama/snacks/images/c1ba0f7c1a60f66da67170b8.avif",
+      "archived": true,
+      "originalPath": "images/c1ba0f7c1a60f66da67170b8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-second.jpg",
+      "path": "../../nenaudojama/snacks/images/3aed2c2073260cad5d8e939e.avif",
+      "archived": true,
+      "originalPath": "images/3aed2c2073260cad5d8e939e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/c90fc9d04b747bd47a9d2987.avif",
+      "archived": true,
+      "originalPath": "images/c90fc9d04b747bd47a9d2987.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-01-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/cbb4f7034abb1158ff191c28.avif",
+      "archived": true,
+      "originalPath": "images/cbb4f7034abb1158ff191c28.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/839eb646bacc970407b671a3.avif",
+      "archived": true,
+      "originalPath": "images/839eb646bacc970407b671a3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-04-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/e2372a1b1b6724ed135ca9ef.avif",
+      "archived": true,
+      "originalPath": "images/e2372a1b1b6724ed135ca9ef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-06-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/6d08eea692401f572f04d697.jpg",
+      "archived": true,
+      "originalPath": "images/6d08eea692401f572f04d697.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/1dd29c1f13a288889028a643.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pimento Cheese Dip",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 10 servings of Pimento Cheese Dip. Each serving comes out to be 168 calories, 14g fats, 3.9g net carbs, and 6.4g protein.",
+    "datePublished": "2018-01-18T12:00:56+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/Pimento-Dip-final.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "8 ounce cream cheese",
+      "10 medium pimento peppers",
+      "1 1/2 cup cheddar cheese (shredded)",
+      "1 tablespoon fresh garlic (minced)",
+      "salt and pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the minced garlic in a non-stick pan over medium heat.",
+        "name": "Heat up the minced garlic in a non-stick pan over medium heat.",
+        "url": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the brick of cream cheese and let it soften, stirring occasionally.",
+        "name": "Add the brick of cream cheese and let it soften, stirring occasionally.",
+        "url": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once your cream cheese is softened to a point where you are able to stir it like a thick liquid, mix in your cheddar cheese.",
+        "name": "Once your cream cheese is softened to a point where you are able to stir it like a thick liquid, mix in your cheddar cheese.",
+        "url": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The mix should now be a light orange color, so stir in your chopped pimentos!",
+        "name": "The mix should now be a light orange color, so stir in your chopped pimentos!",
+        "url": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pimento-dip-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a serving dish and refrigerate.",
+        "name": "Pour into a serving dish and refrigerate.",
+        "url": "https://www.ruled.me/pimento-cheese-dip/#wprm-recipe-52461-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, party-food, quick, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "168 kcal",
+      "fatContent": "14 g",
+      "proteinContent": "6.4 g",
+      "carbohydrateContent": "3.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pimento-cheese-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pimento-cheese-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pimento-cheese-dip/"
+  },
+  "sourceIndex": {
+    "id": 35374,
+    "rid": 52461,
+    "t": "Pimento Cheese Dip",
+    "u": "/pimento-cheese-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/Pimento-Dip-final-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.9,
+    "cal": 168,
+    "pr": 6.4,
+    "fa": 14,
+    "tm": 25,
+    "sv": 10,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2018-01-18",
+    "cm": 4,
+    "ex": "I have a new found love for sweet chilli peppers such as pimento (also known as cherry peppers). They are sweet, spicy, and best yet only 2 carbs per pepper! I recently tried pimento cheese on a",
+    "pv": 140
+  },
+  "sourceHtml": "pages/pimento-cheese-dip.html",
+  "scrapedAt": "2026-11-07T08:31:10.296Z"
+}

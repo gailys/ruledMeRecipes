@@ -1,0 +1,384 @@
+{
+  "id": "ruled-43983",
+  "slug": "grilled-tuna-salad-with-garlic-dressing",
+  "title": "Grilled Tuna Salad with Garlic Dressing",
+  "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Grilled Tuna Salad with Garlic Dressing. Each serving comes out to be 743 calories, 58.4g fats, 9.8g net carbs, and 40.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "743 kcal",
+    "fatContent": "58.4 g",
+    "proteinContent": "40.9 g",
+    "carbohydrateContent": "9.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 743,
+    "netCarbsGrams": 9.8,
+    "proteinGrams": 40.9,
+    "fatGrams": 58.4
+  },
+  "ingredients": [
+    "2 large egg",
+    "8 ounce asparagus spears",
+    "1 tablespoon olive oil",
+    "8 ounce fresh tuna",
+    "4 ounce spring mix",
+    "2 ounce cherry tomatoes",
+    "1/2 medium red onion",
+    "2 tablespoon walnuts (chopped)",
+    "salt and pepper (to taste)",
+    "1/2 cup mayonnaise",
+    "2 tablespoon water",
+    "2 teaspoon garlic powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "In a bowl, put together mayonnaise, water, garlic powder, and salt and pepper to make the dressing. Stir until combined well and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-2.jpg"
+    },
+    {
+      "text": "Boil the eggs for about 8-10 minutes. When cooled, peel and slice in half.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-3.jpg"
+    },
+    {
+      "text": "Wash and cut the asparagus into equal lengths. Fry the asparagus in a pan by itself.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-4.jpg"
+    },
+    {
+      "text": "Equally pour the olive oil on both sides of the fresh tuna and fry for 3-5 minutes on both sides. Season the tuna with salt and pepper, to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-5.jpg"
+    },
+    {
+      "text": "On a plate, place the leafy greens, cherry tomatoes (cut in half), onion, and eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-6.jpg"
+    },
+    {
+      "text": "Cut the grilled tuna into slices and place on top. Pour the dressing on top of the salad and sprinkle the chopped walnuts on top of that.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "eggs",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "stovetop",
+    "high-protein",
+    "seafood",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/e503178c29b5c70c16e86d5e.jpg",
+      "archived": true,
+      "originalPath": "images/e503178c29b5c70c16e86d5e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Featured.jpg",
+      "path": "images/4b6568ffc61492428beebf5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-2.jpg",
+      "path": "../../nenaudojama/lunch/images/9db207624e045647fa1fc572.jpg",
+      "archived": true,
+      "originalPath": "images/9db207624e045647fa1fc572.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-3.jpg",
+      "path": "../../nenaudojama/lunch/images/ab98be95a30c9de62ad62876.jpg",
+      "archived": true,
+      "originalPath": "images/ab98be95a30c9de62ad62876.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-4.jpg",
+      "path": "../../nenaudojama/lunch/images/eb155a6cbac0eda475ec9200.jpg",
+      "archived": true,
+      "originalPath": "images/eb155a6cbac0eda475ec9200.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-5.jpg",
+      "path": "../../nenaudojama/lunch/images/3fc337c6738deecfbe71bc3b.jpg",
+      "archived": true,
+      "originalPath": "images/3fc337c6738deecfbe71bc3b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-6.jpg",
+      "path": "../../nenaudojama/lunch/images/7af0755e67696b08ea7a5b49.jpg",
+      "archived": true,
+      "originalPath": "images/7af0755e67696b08ea7a5b49.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/1b3f1852be4329650eefa866.jpg",
+      "archived": true,
+      "originalPath": "images/1b3f1852be4329650eefa866.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-1.jpg",
+      "path": "../../nenaudojama/lunch/images/e2e58c0b65b425d704ae808d.jpg",
+      "archived": true,
+      "originalPath": "images/e2e58c0b65b425d704ae808d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/ed34c5d94ee0c74be91a8980.avif",
+      "archived": true,
+      "originalPath": "images/ed34c5d94ee0c74be91a8980.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/a9ddc4188025ce1c18b2bd28.jpg",
+      "archived": true,
+      "originalPath": "images/a9ddc4188025ce1c18b2bd28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/03747d97232dc354a4174d4a.jpg",
+      "archived": true,
+      "originalPath": "images/03747d97232dc354a4174d4a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e1847cc832f65f1244fc60df.jpg",
+      "archived": true,
+      "originalPath": "images/e1847cc832f65f1244fc60df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fa0d259fea7f9b40c8184a36.jpg",
+      "archived": true,
+      "originalPath": "images/fa0d259fea7f9b40c8184a36.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-5-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9040afea2b3b705fe5dc88cc.jpg",
+      "archived": true,
+      "originalPath": "images/9040afea2b3b705fe5dc88cc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-6-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7e20594a6a850df53a7ffa76.jpg",
+      "archived": true,
+      "originalPath": "images/7e20594a6a850df53a7ffa76.jpg"
+    }
+  ],
+  "featuredImage": "images/4b6568ffc61492428beebf5a.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Grilled Tuna Salad with Garlic Dressing",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Grilled Tuna Salad with Garlic Dressing. Each serving comes out to be 743 calories, 58.4g fats, 9.8g net carbs, and 40.9g protein.",
+    "datePublished": "2020-09-24T09:00:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Grilled Tuna Salad with Garlic Dressing",
+      "description": "This salad is as good if not better than the way it looks! Fresh grilled tuna on a bed of greens with onion, cherry tomatoes, and hard-boiled eggs. For added texture and flavor, we sprinkle chopped walnuts and drizzle with a garlic dressing. This is one packed salad!\n\nThe fresh grilled tuna is a great alternative to canned tuna, bringing a delicious flavor that you just can’t get from a can. With a good amount of fat and protein in this keto salad, it will help you to stay fuller for hours to come. This is a great meal for lunch or dinner!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 large egg\n8 ounce asparagus spears\n1 tablespoon olive oil\n8 ounce fresh tuna\n4 ounce spring mix\n2 ounce cherry tomatoes\n1/2 medium red onion\n2 tablespoon walnuts, chopped\n1/2 cup mayonnaise\n2 tablespoon water\n2 teaspoon garlic powder\nSalt and pepper to taste\n\nNutrition Summary: This makes a total of 2 servings of Grilled Tuna Salad. Each serving comes out to be 743 calories, 58.4g fat, 9.8g net carbs, and 40.9g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-05-24T14:00:24+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M47S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 6007
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 242
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 4
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZXo2P7_2nBw/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ZXo2P7_2nBw?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=ZXo2P7_2nBw",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 large egg",
+      "8 ounce asparagus spears",
+      "1 tablespoon olive oil",
+      "8 ounce fresh tuna",
+      "4 ounce spring mix",
+      "2 ounce cherry tomatoes",
+      "1/2 medium red onion",
+      "2 tablespoon walnuts (chopped)",
+      "salt and pepper (to taste)",
+      "1/2 cup mayonnaise",
+      "2 tablespoon water",
+      "2 teaspoon garlic powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, put together mayonnaise, water, garlic powder, and salt and pepper to make the dressing. Stir until combined well and set aside.",
+        "name": "In a bowl, put together mayonnaise, water, garlic powder, and salt and pepper to make the dressing. Stir until combined well and set aside.",
+        "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the eggs for about 8-10 minutes. When cooled, peel and slice in half.",
+        "name": "Boil the eggs for about 8-10 minutes. When cooled, peel and slice in half.",
+        "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash and cut the asparagus into equal lengths. Fry the asparagus in a pan by itself.",
+        "name": "Wash and cut the asparagus into equal lengths. Fry the asparagus in a pan by itself.",
+        "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Equally pour the olive oil on both sides of the fresh tuna and fry for 3-5 minutes on both sides. Season the tuna with salt and pepper, to taste.",
+        "name": "Equally pour the olive oil on both sides of the fresh tuna and fry for 3-5 minutes on both sides. Season the tuna with salt and pepper, to taste.",
+        "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a plate, place the leafy greens, cherry tomatoes (cut in half), onion, and eggs.",
+        "name": "On a plate, place the leafy greens, cherry tomatoes (cut in half), onion, and eggs.",
+        "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the grilled tuna into slices and place on top. Pour the dressing on top of the salad and sprinkle the chopped walnuts on top of that.",
+        "name": "Cut the grilled tuna into slices and place on top. Pour the dressing on top of the salad and sprinkle the chopped walnuts on top of that.",
+        "url": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#wprm-recipe-53497-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Salad"
+    ],
+    "keywords": "30-minute, dairy-free, eggs, fish, gluten-free, high-fat, high-protein, keto, low-carb, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "743 kcal",
+      "fatContent": "58.4 g",
+      "proteinContent": "40.9 g",
+      "carbohydrateContent": "9.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/grilled-tuna-salad-with-garlic-dressing/"
+  },
+  "sourceIndex": {
+    "id": 43983,
+    "rid": 53497,
+    "t": "Grilled Tuna Salad with Garlic Dressing",
+    "u": "/grilled-tuna-salad-with-garlic-dressing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/09/Grilled-Tuna-Salad-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 9.8,
+    "cal": 743,
+    "pr": 40.9,
+    "fa": 58.4,
+    "tm": 25,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "eggs",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 13,
+    "fk": [
+      "dairy-free",
+      "stovetop",
+      "high-protein",
+      "seafood",
+      "eggs"
+    ],
+    "d": "2020-09-24",
+    "cm": 0,
+    "ex": "This salad is as good if not better than the way it looks! Fresh grilled tuna on a bed of greens with onion, cherry tomatoes, and hard-boiled eggs. For added texture and flavor, we sprinkle chopped",
+    "pv": 231
+  },
+  "sourceHtml": "pages/grilled-tuna-salad-with-garlic-dressing.html",
+  "scrapedAt": "2026-11-07T08:15:52.977Z"
+}

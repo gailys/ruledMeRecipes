@@ -1,0 +1,244 @@
+{
+  "id": "ruled-25977",
+  "slug": "keto-tater-tot-nachos-aka-totchos",
+  "title": "Keto Tater Tot Nachos (AKA Totchos)",
+  "url": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes 2 total servings of Keto Tater Tot Nachos (AKA Totchos). Each serving comes out to be 637 Calories, 52.5g Fats, 5.5g Net Carbs, and 32.3g Protein.",
+  "servings": 2,
+  "yield": [
+    "2"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "637 kcal",
+    "fatContent": "52.5 g",
+    "proteinContent": "32.3 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 637,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 32.3,
+    "fatGrams": 52.5
+  },
+  "ingredients": [
+    "2 servings Keto Tater Tots (recipe here)",
+    "6 oz. Ground Beef (80/20, cooked)",
+    "2 oz. Cheddar Cheese (shredded)",
+    "2 tbsp. Sour Cream",
+    "6 Black Olives (sliced)",
+    "1 tbsp. Salsa",
+    "1/2 medium Jalapeno Pepper (sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "In a small casserole dish or mini cast iron skillet, lay down 9-10 keto tater tots (recipe here).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#wprm-recipe-51661-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_1103.jpg"
+    },
+    {
+      "text": "Add 1/2 ground beef, and 1/2 of the shredded cheese. Start the second layer with less tater tots, 1/2 of the remaining beef, and 1/2 of the remaining cheese. Repeat with the last of the tater tots. Broil in the oven for 4-5 minutes so that the cheese melts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#wprm-recipe-51661-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_1105.jpg"
+    },
+    {
+      "text": "Serve with jalapenos, sour cream, black olives, and salsa. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#wprm-recipe-51661-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "quick",
+    "red-meat",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/tatertotnachos.jpg",
+      "path": "images/32ec8bffadfe972b02f08a5f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1103.jpg",
+      "path": "../../nenaudojama/dinner/images/b2b048f1618b1d5c40457cdc.avif",
+      "archived": true,
+      "originalPath": "images/b2b048f1618b1d5c40457cdc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1105.jpg",
+      "path": "../../nenaudojama/dinner/images/7e478d5267ae2762b749b7e1.jpg",
+      "archived": true,
+      "originalPath": "images/7e478d5267ae2762b749b7e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/tatertotnachossecond.jpg",
+      "path": "../../nenaudojama/dinner/images/f41c96ca825912d06276cba7.avif",
+      "archived": true,
+      "originalPath": "images/f41c96ca825912d06276cba7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/tatertotnachoslong.jpg",
+      "path": "../../nenaudojama/dinner/images/017f14ff5fc619fb58bab9d3.jpg",
+      "archived": true,
+      "originalPath": "images/017f14ff5fc619fb58bab9d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1103-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dc25ffce619717a9bbdc5a5a.avif",
+      "archived": true,
+      "originalPath": "images/dc25ffce619717a9bbdc5a5a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1105-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6af21d068841e7ed5307ef40.avif",
+      "archived": true,
+      "originalPath": "images/6af21d068841e7ed5307ef40.avif"
+    }
+  ],
+  "featuredImage": "images/32ec8bffadfe972b02f08a5f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Tater Tot Nachos (AKA Totchos)",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes 2 total servings of Keto Tater Tot Nachos (AKA Totchos). Each serving comes out to be 637 Calories, 52.5g Fats, 5.5g Net Carbs, and 32.3g Protein.",
+    "datePublished": "2015-04-22T15:18:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/04/tatertotnachos.jpg"
+    ],
+    "recipeYield": [
+      "2"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "2 servings Keto Tater Tots (recipe here)",
+      "6 oz. Ground Beef (80/20, cooked)",
+      "2 oz. Cheddar Cheese (shredded)",
+      "2 tbsp. Sour Cream",
+      "6 Black Olives (sliced)",
+      "1 tbsp. Salsa",
+      "1/2 medium Jalapeno Pepper (sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a small casserole dish or mini cast iron skillet, lay down 9-10 keto tater tots (recipe here).",
+        "name": "In a small casserole dish or mini cast iron skillet, lay down 9-10 keto tater tots (recipe here).",
+        "url": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#wprm-recipe-51661-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_1103.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1/2 ground beef, and 1/2 of the shredded cheese. Start the second layer with less tater tots, 1/2 of the remaining beef, and 1/2 of the remaining cheese. Repeat with the last of the tater tots. Broil in the oven for 4-5 minutes so that the cheese melts.",
+        "name": "Add 1/2 ground beef, and 1/2 of the shredded cheese. Start the second layer with less tater tots, 1/2 of the remaining beef, and 1/2 of the remaining cheese. Repeat with the last of the tater tots. Broil in the oven for 4-5 minutes so that the cheese melts.",
+        "url": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#wprm-recipe-51661-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_1105.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with jalapenos, sour cream, black olives, and salsa. Enjoy!",
+        "name": "Serve with jalapenos, sour cream, black olives, and salsa. Enjoy!",
+        "url": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#wprm-recipe-51661-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, family-friendly, game-day, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, party-food, quick, red meat, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "637 kcal",
+      "fatContent": "52.5 g",
+      "proteinContent": "32.3 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/"
+  },
+  "sourceIndex": {
+    "id": 25977,
+    "rid": 51661,
+    "t": "Keto Tater Tot Nachos (AKA Totchos)",
+    "u": "/keto-tater-tot-nachos-aka-totchos/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/04/tatertotnachos.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.5,
+    "cal": 637,
+    "pr": 32.3,
+    "fa": 52.5,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "quick",
+      "red-meat",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2015-04-22",
+    "cm": 3,
+    "ex": "Totchos are an up and coming dish that has only started building momentum in the last few months. So, what are totchos? They're deliciously crisp tater tots dressed like nachos - gooey cheese",
+    "pv": 107
+  },
+  "sourceHtml": "pages/keto-tater-tot-nachos-aka-totchos.html",
+  "scrapedAt": "2026-11-07T08:27:44.881Z"
+}

@@ -1,0 +1,332 @@
+{
+  "id": "ruled-49242",
+  "slug": "keto-churro-balls",
+  "title": "Keto Churro Balls",
+  "url": "https://www.ruled.me/keto-churro-balls/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Churro Balls. Each serving comes out to be 585 calories, 56.4g fats, 3.4g net carbs, and 14.1g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "585 kcal",
+    "fatContent": "56.4 g",
+    "proteinContent": "14.1 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 585,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 14.1,
+    "fatGrams": 56.4
+  },
+  "ingredients": [
+    "1 1/2 cup shredded mozzarella",
+    "2 tablespoon cream cheese",
+    "1 1/4 cup almond flour",
+    "2 tablespoon unflavored low-carb protein powder",
+    "1/4 cup allulose",
+    "1 large egg",
+    "1 teaspoon baking powder",
+    "1 teaspoon ground cinnamon (plus more to optionally coat)",
+    "1 cup coconut oil (for frying, ~1 inch in a saucepan)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-1.jpg"
+    },
+    {
+      "text": "Add mozzarella and cream cheese to a microwave-safe bowl. Microwave in 30 second intervals, stirring as needed, until mozzarella is fully melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-2.jpg"
+    },
+    {
+      "text": "Add almond flour, protein powder, allulose, egg, baking powder, and cinnamon into the melted mozzarella. Stir together until a smooth dough forms. Use your hands to knead the ingredients together if needed (be careful as it will be hot).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-3.jpg"
+    },
+    {
+      "text": "Divide up the dough into ~1 inch balls, rolling in your hands to form.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-4.jpg"
+    },
+    {
+      "text": "Heat ~1 inch of oil in a small saucepan to 300F. Once hot, add the balls of dough in batches, making sure not to overcrowd the pan. Use a slotted spoon to turn the balls if needed. Once they are golden brown all over, about 3-4 minutes, remove from the oil and lay on paper towels to drain excess oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-5.jpg"
+    },
+    {
+      "text": "Optionally, sprinkle cinnamon over the top and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "deep-fried",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/563b5013afaa6e5ef72cbff3.jpg",
+      "archived": true,
+      "originalPath": "images/563b5013afaa6e5ef72cbff3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Featured.jpg",
+      "path": "images/65f64cd88188c809b2a96d67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-1.jpg",
+      "path": "../../nenaudojama/dessert/images/9538bf870047fa0afbb61011.jpg",
+      "archived": true,
+      "originalPath": "images/9538bf870047fa0afbb61011.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-2.jpg",
+      "path": "../../nenaudojama/dessert/images/04145bd5d714060985c4fbb1.jpg",
+      "archived": true,
+      "originalPath": "images/04145bd5d714060985c4fbb1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-3.jpg",
+      "path": "../../nenaudojama/dessert/images/e1c4c1b90889717c7624448d.avif",
+      "archived": true,
+      "originalPath": "images/e1c4c1b90889717c7624448d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-4.jpg",
+      "path": "../../nenaudojama/dessert/images/516681404a52cb431d0aa1a1.jpg",
+      "archived": true,
+      "originalPath": "images/516681404a52cb431d0aa1a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-5.jpg",
+      "path": "../../nenaudojama/dessert/images/f63036a601f9b19a04c5cde1.avif",
+      "archived": true,
+      "originalPath": "images/f63036a601f9b19a04c5cde1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Second.jpg",
+      "path": "../../nenaudojama/dessert/images/350e3e1a0097be73427cbf77.jpg",
+      "archived": true,
+      "originalPath": "images/350e3e1a0097be73427cbf77.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Long.jpg",
+      "path": "../../nenaudojama/dessert/images/02fc162a7961d8cce86b3e68.jpg",
+      "archived": true,
+      "originalPath": "images/02fc162a7961d8cce86b3e68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/307340277367800cd86ca78f.jpg",
+      "archived": true,
+      "originalPath": "images/307340277367800cd86ca78f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/76e8a55d7dd76f262ab689af.jpg",
+      "archived": true,
+      "originalPath": "images/76e8a55d7dd76f262ab689af.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3c571ddceccc2d55e58af170.jpg",
+      "archived": true,
+      "originalPath": "images/3c571ddceccc2d55e58af170.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/095932ee87cfb4e169b02374.jpg",
+      "archived": true,
+      "originalPath": "images/095932ee87cfb4e169b02374.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b8783ae946a91f141154f11b.avif",
+      "archived": true,
+      "originalPath": "images/b8783ae946a91f141154f11b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7c463c915a6ee04fa8aa23b2.avif",
+      "archived": true,
+      "originalPath": "images/7c463c915a6ee04fa8aa23b2.avif"
+    }
+  ],
+  "featuredImage": "images/65f64cd88188c809b2a96d67.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Churro Balls",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Keto Churro Balls. Each serving comes out to be 585 calories, 56.4g fats, 3.4g net carbs, and 14.1g protein.",
+    "datePublished": "2023-08-10T09:21:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Churro Balls [Low-Carb Donut Holes]",
+      "description": "Prepare these delightful keto churro bites with our quick and easy dough recipe that will have you savoring them in no time. In just a few minutes, you can make the dough, roll it into balls, fry them to perfection, and finish them off with a light coating of cinnamon.\n\nThese delicious treats use mozzarella cheese and almond flour to keep them keto-friendly. The best part is that they look and taste exactly like traditional churros once cooked.\n\nMaking these churro balls is super simple. The dough comes together effortlessly once you add all ingredients to a bowl and start kneading. All you need to do then is shape each bite-sized piece before frying them in a small amount of oil.\n\nThe irresistible smell fills the air as they sizzle in the hot oil, which will bring the whole family to the kitchen for an afternoon snack or tasty dessert. Once they’re golden and crisp, lightly sprinkle the churro balls with cinnamon to finish them off. The result is a warm and gooey ball of goodness.\n\nWhen you taste these keto churro balls, you’ll find it hard to believe that they’re both gluten-free and keto-friendly. This is due to the cheese in the dough, which adds a unique richness and depth, making them an irresistible treat for any occasion. Whether you’re on a ketogenic diet or simply seeking a delightful twist on a classic favorite, these churro balls will surely hit the spot.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 1/2 cups mozzarella cheese, shredded\n2 tablespoon cream cheese\n1 cup almond flour\n2 tablespoon unflavored whey protein\n1/4 cup allulose\n1 large egg\n1 teaspoon baking powder\n1 teaspoon cinnamon, plus more to optionally coat\n1 cup coconut oil for frying, or ~1 inch in a saucepan\n\nNutrition Summary: This makes a total of 4 servings of Keto Churro Balls. Each serving comes out to be 453 calories, 37.3g fats, 5.1g net carbs, and 21.2g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-10-29T16:00:21+00:00",
+      "duration": "PT2M22S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J_II5fD4G7I/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/J_II5fD4G7I?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=J_II5fD4G7I",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 1/2 cup shredded mozzarella",
+      "2 tablespoon cream cheese",
+      "1 1/4 cup almond flour",
+      "2 tablespoon unflavored low-carb protein powder",
+      "1/4 cup allulose",
+      "1 large egg",
+      "1 teaspoon baking powder",
+      "1 teaspoon ground cinnamon (plus more to optionally coat)",
+      "1 cup coconut oil (for frying, ~1 inch in a saucepan)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients.",
+        "name": "Gather and prep all of your ingredients.",
+        "url": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add mozzarella and cream cheese to a microwave-safe bowl. Microwave in 30 second intervals, stirring as needed, until mozzarella is fully melted.",
+        "name": "Add mozzarella and cream cheese to a microwave-safe bowl. Microwave in 30 second intervals, stirring as needed, until mozzarella is fully melted.",
+        "url": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add almond flour, protein powder, allulose, egg, baking powder, and cinnamon into the melted mozzarella. Stir together until a smooth dough forms. Use your hands to knead the ingredients together if needed (be careful as it will be hot).",
+        "name": "Add almond flour, protein powder, allulose, egg, baking powder, and cinnamon into the melted mozzarella. Stir together until a smooth dough forms. Use your hands to knead the ingredients together if needed (be careful as it will be hot).",
+        "url": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide up the dough into ~1 inch balls, rolling in your hands to form.",
+        "name": "Divide up the dough into ~1 inch balls, rolling in your hands to form.",
+        "url": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat ~1 inch of oil in a small saucepan to 300F. Once hot, add the balls of dough in batches, making sure not to overcrowd the pan. Use a slotted spoon to turn the balls if needed. Once they are golden brown all over, about 3-4 minutes, remove from the oil and lay on paper towels to drain excess oil.",
+        "name": "Heat ~1 inch of oil in a small saucepan to 300F. Once hot, add the balls of dough in batches, making sure not to overcrowd the pan. Use a slotted spoon to turn the balls if needed. Once they are golden brown all over, about 3-4 minutes, remove from the oil and lay on paper towels to drain excess oil.",
+        "url": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optionally, sprinkle cinnamon over the top and enjoy!",
+        "name": "Optionally, sprinkle cinnamon over the top and enjoy!",
+        "url": "https://www.ruled.me/keto-churro-balls/#wprm-recipe-54713-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, deep-fried, family-friendly, gluten-free, high-fat, keto, low-carb, quick, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "585 kcal",
+      "fatContent": "56.4 g",
+      "proteinContent": "14.1 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-churro-balls/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-churro-balls/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-churro-balls/"
+  },
+  "sourceIndex": {
+    "id": 49242,
+    "rid": 54713,
+    "t": "Keto Churro Balls",
+    "u": "/keto-churro-balls/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/Churro-Bites-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.4,
+    "cal": 585,
+    "pr": 14.1,
+    "fa": 56.4,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "deep-fried",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian"
+    ],
+    "d": "2023-08-10",
+    "cm": 0,
+    "ex": "Prepare these delightful keto churro bites with our quick and easy dough recipe that will have you savoring them in no time. In just a few minutes, you can make the dough, roll it into balls, fry",
+    "pv": 104
+  },
+  "sourceHtml": "pages/keto-churro-balls.html",
+  "scrapedAt": "2026-11-07T08:30:46.941Z"
+}

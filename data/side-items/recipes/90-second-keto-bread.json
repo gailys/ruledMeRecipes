@@ -1,0 +1,338 @@
+{
+  "id": "ruled-43444",
+  "slug": "90-second-keto-bread",
+  "title": "90 Second Keto Bread",
+  "url": "https://www.ruled.me/90-second-keto-bread/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 1 serving of 90 Second Keto Bread. The serving comes out to be 357 calories, 30.8g fats, 3.4g net carbs, and 16.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT2M",
+  "totalTime": "PT7M",
+  "totalMinutes": 7,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "357 kcal",
+    "fatContent": "30.8 g",
+    "proteinContent": "16.3 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 357,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 16.3,
+    "fatGrams": 30.8
+  },
+  "ingredients": [
+    "3 tablespoon almond flour",
+    "1 tablespoon butter",
+    "1 large egg",
+    "2 tablespoon grated parmesan cheese",
+    "1/2 teaspoon baking powder"
+  ],
+  "instructions": [
+    {
+      "text": "Prep your ingredients. Melt the butter if needed by microwaving in intervals of 15 seconds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-1.jpg"
+    },
+    {
+      "text": "Add all ingredients into a mug, ramekin, or another microwavable dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-2.jpg"
+    },
+    {
+      "text": "Mix the ingredients together well. Make sure that the mixture is smooth and there are no clumps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-3.jpg"
+    },
+    {
+      "text": "Microwave for 75-90 seconds or until the bread is firm. Depending on your microwave, it may be best to start at 60 seconds and then increase the time from there. If you microwave the bread for too long, it will become very dry and hard.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-4.jpg"
+    },
+    {
+      "text": "Run a knife along the edge of the bread and remove from your container. Slice as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-5.jpg"
+    },
+    {
+      "text": "Optionally toast the bread in a pan with a small amount of butter. Use to make sandwiches, eggs benedict, or just a quick side dish!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/d18d44b8dc1eb4a43544cde6.avif",
+      "archived": true,
+      "originalPath": "images/d18d44b8dc1eb4a43544cde6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/91ddbbd25f29b1b73c9d5190.jpg",
+      "archived": true,
+      "originalPath": "images/91ddbbd25f29b1b73c9d5190.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-1.jpg",
+      "path": "../../nenaudojama/side-items/images/04b36a9945a7e6c55ca81331.jpg",
+      "archived": true,
+      "originalPath": "images/04b36a9945a7e6c55ca81331.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-2.jpg",
+      "path": "../../nenaudojama/side-items/images/b8758e6f7a23d611d1e7a35a.jpg",
+      "archived": true,
+      "originalPath": "images/b8758e6f7a23d611d1e7a35a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-3.jpg",
+      "path": "../../nenaudojama/side-items/images/8fd8731532aba77670364a19.jpg",
+      "archived": true,
+      "originalPath": "images/8fd8731532aba77670364a19.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-4.jpg",
+      "path": "../../nenaudojama/side-items/images/97aaddbd879a81c23c188b39.jpg",
+      "archived": true,
+      "originalPath": "images/97aaddbd879a81c23c188b39.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-5.jpg",
+      "path": "../../nenaudojama/side-items/images/d71b2b383aaff1a90e2272b6.jpg",
+      "archived": true,
+      "originalPath": "images/d71b2b383aaff1a90e2272b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-second.jpg",
+      "path": "../../nenaudojama/side-items/images/9256a68d154a5ed522911391.jpg",
+      "archived": true,
+      "originalPath": "images/9256a68d154a5ed522911391.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-long.jpg",
+      "path": "../../nenaudojama/side-items/images/bbdc48e9b792acab2129a391.avif",
+      "archived": true,
+      "originalPath": "images/bbdc48e9b792acab2129a391.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/90c823a9028537b46db5bb42.jpg",
+      "archived": true,
+      "originalPath": "images/90c823a9028537b46db5bb42.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/181a21aee573c17470c077cf.jpg",
+      "archived": true,
+      "originalPath": "images/181a21aee573c17470c077cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5160959d1de262f3cd1e707b.jpg",
+      "archived": true,
+      "originalPath": "images/5160959d1de262f3cd1e707b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-3-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e429ff562243642f59926ecf.jpg",
+      "archived": true,
+      "originalPath": "images/e429ff562243642f59926ecf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-4-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/20c74acb2b6ec89100794e14.jpg",
+      "archived": true,
+      "originalPath": "images/20c74acb2b6ec89100794e14.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-5-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/15038ac61894b64409d37ee4.jpg",
+      "archived": true,
+      "originalPath": "images/15038ac61894b64409d37ee4.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/91ddbbd25f29b1b73c9d5190.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "90 Second Keto Bread",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of 90 Second Keto Bread. The serving comes out to be 357 calories, 30.8g fats, 3.4g net carbs, and 16.3g protein.",
+    "datePublished": "2020-07-09T08:52:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT2M",
+    "totalTime": "PT7M",
+    "recipeIngredient": [
+      "3 tablespoon almond flour",
+      "1 tablespoon butter",
+      "1 large egg",
+      "2 tablespoon grated parmesan cheese",
+      "1/2 teaspoon baking powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your ingredients. Melt the butter if needed by microwaving in intervals of 15 seconds.",
+        "name": "Prep your ingredients. Melt the butter if needed by microwaving in intervals of 15 seconds.",
+        "url": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients into a mug, ramekin, or another microwavable dish.",
+        "name": "Add all ingredients into a mug, ramekin, or another microwavable dish.",
+        "url": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the ingredients together well. Make sure that the mixture is smooth and there are no clumps.",
+        "name": "Mix the ingredients together well. Make sure that the mixture is smooth and there are no clumps.",
+        "url": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave for 75-90 seconds or until the bread is firm. Depending on your microwave, it may be best to start at 60 seconds and then increase the time from there. If you microwave the bread for too long, it will become very dry and hard.",
+        "name": "Microwave for 75-90 seconds or until the bread is firm. Depending on your microwave, it may be best to start at 60 seconds and then increase the time from there. If you microwave the bread for too long, it will become very dry and hard.",
+        "url": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Run a knife along the edge of the bread and remove from your container. Slice as needed.",
+        "name": "Run a knife along the edge of the bread and remove from your container. Slice as needed.",
+        "url": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-microwavable-low-crab-keto-bread-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optionally toast the bread in a pan with a small amount of butter. Use to make sandwiches, eggs benedict, or just a quick side dish!",
+        "name": "Optionally toast the bread in a pan with a small amount of butter. Use to make sandwiches, eggs benedict, or just a quick side dish!",
+        "url": "https://www.ruled.me/90-second-keto-bread/#wprm-recipe-53417-step-0-5"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "I love this bread because it's quick and easy.  I use 2 T of almond Flour and 1 T of coconut flour for a little bit of a sweeter flavor.",
+        "author": {
+          "@type": "Person",
+          "name": "Antoinette L"
+        },
+        "datePublished": "2024-06-17"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Bread",
+      "Side Items",
+      "Snacks"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "357 kcal",
+      "fatContent": "30.8 g",
+      "proteinContent": "16.3 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/90-second-keto-bread/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/90-second-keto-bread/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/90-second-keto-bread/"
+  },
+  "sourceIndex": {
+    "id": 43444,
+    "rid": 53417,
+    "t": "90 Second Keto Bread",
+    "u": "/90-second-keto-bread/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/07/90-second-keto-bread-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.4,
+    "cal": 357,
+    "pr": 16.3,
+    "fa": 30.8,
+    "tm": 7,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "few-ingredients"
+    ],
+    "d": "2020-07-09",
+    "cm": 3,
+    "ex": "Ready for some keto culinary magic? With this recipe, you'll learn how to turn five common keto ingredients into soft, fluffy, and delicious bread in just 90 seconds! After learning this trick, you",
+    "pv": 1031
+  },
+  "sourceHtml": "pages/90-second-keto-bread.html",
+  "scrapedAt": "2026-11-07T08:32:08.503Z"
+}

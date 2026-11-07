@@ -1,0 +1,254 @@
+{
+  "id": "ruled-43330",
+  "slug": "keto-meal-replacement-shake",
+  "title": "Keto Meal Replacement Shake",
+  "url": "https://www.ruled.me/keto-meal-replacement-shake/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Meal Replacement Shake. Each serving comes out to be 446 calories, 41.6g fats, 6.4g net carbs, and 8.6g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "446 kcal",
+    "fatContent": "41.6 g",
+    "proteinContent": "8.6 g",
+    "carbohydrateContent": "6.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 446,
+    "netCarbsGrams": 6.4,
+    "proteinGrams": 8.6,
+    "fatGrams": 41.6
+  },
+  "ingredients": [
+    "1/2 cup heavy cream",
+    "1 cup unsweetened almond milk",
+    "1/2 medium avocado",
+    "2 tablespoon almond butter",
+    "2 tablespoon golden flaxseed meal",
+    "2 tablespoon cocoa powder",
+    "1/2 teaspoon ground cinnamon",
+    "15 drop liquid stevia (or to taste)",
+    "1/4 teaspoon vanilla extract",
+    "1/8 teaspoon salt",
+    "8 whole ice cubes"
+  ],
+  "instructions": [
+    {
+      "text": "Get your ingredients prepped – pit and peel the avocado.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meal-replacement-shake/#wprm-recipe-53393-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-1.jpg"
+    },
+    {
+      "text": "Add all of your ingredients to a blender, pulse together slowly until combined, then blend for 30-45 seconds until a smooth consistency appears.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meal-replacement-shake/#wprm-recipe-53393-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-2.jpg"
+    },
+    {
+      "text": "I recommend adding half the sweetener to the shake, tasting, and adjusting the sweetener to your taste. Once you have a smooth consistency, pour out into a glass and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meal-replacement-shake/#wprm-recipe-53393-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/bbfe6ae1260b52dd5c807685.avif",
+      "archived": true,
+      "originalPath": "images/bbfe6ae1260b52dd5c807685.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Featured.jpg",
+      "path": "images/189dd36c08fe7378c2b6d0e7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/78c9a76a65ebf05a3ee6a0b4.jpg",
+      "archived": true,
+      "originalPath": "images/78c9a76a65ebf05a3ee6a0b4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/2c5f1c514ce47e026190dbd1.jpg",
+      "archived": true,
+      "originalPath": "images/2c5f1c514ce47e026190dbd1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/85f5a42f291c62118f5c88a4.avif",
+      "archived": true,
+      "originalPath": "images/85f5a42f291c62118f5c88a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/737af72ca8c254123ea9ccd0.jpg",
+      "archived": true,
+      "originalPath": "images/737af72ca8c254123ea9ccd0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/ec4058fca1942254ddfdd68e.jpg",
+      "archived": true,
+      "originalPath": "images/ec4058fca1942254ddfdd68e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff273911faa74440f488fb0f.jpg",
+      "archived": true,
+      "originalPath": "images/ff273911faa74440f488fb0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f24a29dcdfc8f9b459555cf2.jpg",
+      "archived": true,
+      "originalPath": "images/f24a29dcdfc8f9b459555cf2.jpg"
+    }
+  ],
+  "featuredImage": "images/189dd36c08fe7378c2b6d0e7.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Meal Replacement Shake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Meal Replacement Shake. Each serving comes out to be 446 calories, 41.6g fats, 6.4g net carbs, and 8.6g protein.",
+    "datePublished": "2020-06-18T09:31:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 cup heavy cream",
+      "1 cup unsweetened almond milk",
+      "1/2 medium avocado",
+      "2 tablespoon almond butter",
+      "2 tablespoon golden flaxseed meal",
+      "2 tablespoon cocoa powder",
+      "1/2 teaspoon ground cinnamon",
+      "15 drop liquid stevia (or to taste)",
+      "1/4 teaspoon vanilla extract",
+      "1/8 teaspoon salt",
+      "8 whole ice cubes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get your ingredients prepped – pit and peel the avocado.",
+        "name": "Get your ingredients prepped – pit and peel the avocado.",
+        "url": "https://www.ruled.me/keto-meal-replacement-shake/#wprm-recipe-53393-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of your ingredients to a blender, pulse together slowly until combined, then blend for 30-45 seconds until a smooth consistency appears.",
+        "name": "Add all of your ingredients to a blender, pulse together slowly until combined, then blend for 30-45 seconds until a smooth consistency appears.",
+        "url": "https://www.ruled.me/keto-meal-replacement-shake/#wprm-recipe-53393-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-cinnamon-almond-butter-breakfast-shake-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "I recommend adding half the sweetener to the shake, tasting, and adjusting the sweetener to your taste. Once you have a smooth consistency, pour out into a glass and enjoy!",
+        "name": "I recommend adding half the sweetener to the shake, tasting, and adjusting the sweetener to your taste. Once you have a smooth consistency, pour out into a glass and enjoy!",
+        "url": "https://www.ruled.me/keto-meal-replacement-shake/#wprm-recipe-53393-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "15-minute, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "446 kcal",
+      "fatContent": "41.6 g",
+      "proteinContent": "8.6 g",
+      "carbohydrateContent": "6.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-meal-replacement-shake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-meal-replacement-shake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-meal-replacement-shake/"
+  },
+  "sourceIndex": {
+    "id": 43330,
+    "rid": 53393,
+    "t": "Keto Meal Replacement Shake",
+    "u": "/keto-meal-replacement-shake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Meal-Replacement-Shake-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 6.4,
+    "cal": 446,
+    "pr": 8.6,
+    "fa": 41.6,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2020-06-18",
+    "cm": 5,
+    "ex": "Most meal replacement shakes are far from keto-friendly. They often rely on high-sugar fruits and carb-rich dairy products, which add enough carbs to slow your weight loss progress on keto. However",
+    "pv": 1900
+  },
+  "sourceHtml": "pages/keto-meal-replacement-shake.html",
+  "scrapedAt": "2026-11-07T08:11:12.488Z"
+}

@@ -1,0 +1,336 @@
+{
+  "id": "ruled-48605",
+  "slug": "keto-chocolate-chaffle",
+  "title": "Keto Chocolate Chaffle",
+  "url": "https://www.ruled.me/keto-chocolate-chaffle/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Chocolate Chaffle. Each serving comes out to be 130 calories, 10.3g fats, 2.1g net carbs, and 6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "fatContent": "10.3 g",
+    "proteinContent": "6 g",
+    "carbohydrateContent": "2.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 130,
+    "netCarbsGrams": 2.1,
+    "proteinGrams": 6,
+    "fatGrams": 10.3
+  },
+  "ingredients": [
+    "1 large egg",
+    "1 tablespoon butter (melted)",
+    "2 tablespoon almond flour",
+    "2 tablespoon unsweetened cocoa powder",
+    "1 1/2 tablespoon erythritol",
+    "1/4 cup shredded mozzarella"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-1.jpg"
+    },
+    {
+      "text": "Heat up a waffle iron and brush with some melted butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-2.jpg"
+    },
+    {
+      "text": "In a bowl, whisk the egg with melted butter. Add in the unsweetened cocoa powder, almond flour, and erythritol.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/ea562d2fd34a946778747153211c6d58.jpg"
+    },
+    {
+      "text": "Whisk to combine well until it is smooth in consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-3.jpg"
+    },
+    {
+      "text": "Add in the mozzarella cheese and stir well to coat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-4.jpg"
+    },
+    {
+      "text": "Evenly place the batter into the pre-heated waffle iron. Close and follow the waffle maker instructions. Cook waffles until you have used up all of the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-6.jpg"
+    },
+    {
+      "text": "Serve immediately and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/8c3a8c0ec54fa622359dc088.jpg",
+      "archived": true,
+      "originalPath": "images/8c3a8c0ec54fa622359dc088.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Featured.jpg",
+      "path": "images/be71c47f04c3b24783753efd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/aad84626f06aa54fa7b5f415.avif",
+      "archived": true,
+      "originalPath": "images/aad84626f06aa54fa7b5f415.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/3a69e934df81261722775788.jpg",
+      "archived": true,
+      "originalPath": "images/3a69e934df81261722775788.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/ea562d2fd34a946778747153211c6d58.jpg",
+      "path": "../../nenaudojama/breakfast/images/106ec5e0706b88141cf5002e.jpg",
+      "archived": true,
+      "originalPath": "images/106ec5e0706b88141cf5002e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/64bd7e93e5335259ffb7afe7.jpg",
+      "archived": true,
+      "originalPath": "images/64bd7e93e5335259ffb7afe7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/64f3af8970a4aea1c41820b6.jpg",
+      "archived": true,
+      "originalPath": "images/64f3af8970a4aea1c41820b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/933d21320213df39db6a99a9.jpg",
+      "archived": true,
+      "originalPath": "images/933d21320213df39db6a99a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/90a3d8bc408d7e5fd92ddfa3.jpg",
+      "archived": true,
+      "originalPath": "images/90a3d8bc408d7e5fd92ddfa3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/a6b8f8dafd5c41a3e3801dd0.jpg",
+      "archived": true,
+      "originalPath": "images/a6b8f8dafd5c41a3e3801dd0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/7bd2f2b2436c3f2b96b2ec8a.jpg",
+      "archived": true,
+      "originalPath": "images/7bd2f2b2436c3f2b96b2ec8a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/88f5ea60c1ac012a17940374.jpg",
+      "archived": true,
+      "originalPath": "images/88f5ea60c1ac012a17940374.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/252628ca1dd0f4e553f76ec7.jpg",
+      "archived": true,
+      "originalPath": "images/252628ca1dd0f4e553f76ec7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/ea562d2fd34a946778747153211c6d58-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d63923275509e46b93f10f8c.jpg",
+      "archived": true,
+      "originalPath": "images/d63923275509e46b93f10f8c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ffa30ac1245c107bc5d9fd79.jpg",
+      "archived": true,
+      "originalPath": "images/ffa30ac1245c107bc5d9fd79.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/be2396e524bc49e526c515c4.jpg",
+      "archived": true,
+      "originalPath": "images/be2396e524bc49e526c515c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b7cab6ff983f88a52458d99e.jpg",
+      "archived": true,
+      "originalPath": "images/b7cab6ff983f88a52458d99e.jpg"
+    }
+  ],
+  "featuredImage": "images/be71c47f04c3b24783753efd.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chocolate Chaffle",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 3 servings of Keto Chocolate Chaffle. Each serving comes out to be 130 calories, 10.3g fats, 2.1g net carbs, and 6g protein.",
+    "datePublished": "2023-03-23T09:00:07+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1 large egg",
+      "1 tablespoon butter (melted)",
+      "2 tablespoon almond flour",
+      "2 tablespoon unsweetened cocoa powder",
+      "1 1/2 tablespoon erythritol",
+      "1/4 cup shredded mozzarella"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up a waffle iron and brush with some melted butter.",
+        "name": "Heat up a waffle iron and brush with some melted butter.",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, whisk the egg with melted butter.  Add in the unsweetened cocoa powder, almond flour, and erythritol.",
+        "name": "In a bowl, whisk the egg with melted butter.  Add in the unsweetened cocoa powder, almond flour, and erythritol.",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/ea562d2fd34a946778747153211c6d58.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk to combine well until it is smooth in consistency.",
+        "name": "Whisk to combine well until it is smooth in consistency.",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the mozzarella cheese and stir well to coat.",
+        "name": "Add in the mozzarella cheese and stir well to coat.",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Evenly place the batter into the pre-heated waffle iron. Close and follow the waffle maker instructions. Cook waffles until you have used up all of the batter.",
+        "name": "Evenly place the batter into the pre-heated waffle iron. Close and follow the waffle maker instructions. Cook waffles until you have used up all of the batter.",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately and enjoy!",
+        "name": "Serve immediately and enjoy!",
+        "url": "https://www.ruled.me/keto-chocolate-chaffle/#wprm-recipe-54539-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "130 kcal",
+      "fatContent": "10.3 g",
+      "proteinContent": "6 g",
+      "carbohydrateContent": "2.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chocolate-chaffle/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chocolate-chaffle/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chocolate-chaffle/"
+  },
+  "sourceIndex": {
+    "id": 48605,
+    "rid": 54539,
+    "t": "Keto Chocolate Chaffle",
+    "u": "/keto-chocolate-chaffle/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Chocolate-Chaffle-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.1,
+    "cal": 130,
+    "pr": 6,
+    "fa": 10.3,
+    "tm": 10,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "few-ingredients"
+    ],
+    "d": "2023-03-23",
+    "cm": 0,
+    "ex": "Introducing delicious chocolate chaffles. They’re sure to become your newest keto-friendly treat. A chaffle, if you’re not aware, is a waffle made with cheese and egg—and sometimes a small amount of",
+    "pv": 154
+  },
+  "sourceHtml": "pages/keto-chocolate-chaffle.html",
+  "scrapedAt": "2026-11-07T08:11:12.019Z"
+}

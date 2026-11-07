@@ -1,0 +1,325 @@
+{
+  "id": "ruled-49126",
+  "slug": "keto-hot-chocolate",
+  "title": "Keto Hot Chocolate",
+  "url": "https://www.ruled.me/keto-hot-chocolate/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Hot Chocolate. Each serving comes out to be 111 calories, 9.4g fats, 3.1g net carbs, and 2.4g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "fatContent": "9.4 g",
+    "proteinContent": "2.4 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 111,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 2.4,
+    "fatGrams": 9.4
+  },
+  "ingredients": [
+    "3 tablespoon unsweetened cocoa powder",
+    "2 tablespoon allulose",
+    "1/4 cup heavy whipping cream",
+    "2 cup unsweetened almond milk",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-1.jpg"
+    },
+    {
+      "text": "In a saucepan, add the cocoa powder and allulose. Whisk until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-2.jpg"
+    },
+    {
+      "text": "Add in the heavy cream a little bit at a time. Whisk to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-3.jpg"
+    },
+    {
+      "text": "Add in the almond milk slowly over medium heat. Whisk constantly until everything is combined well. Heat until the mixture is hot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-4.jpg"
+    },
+    {
+      "text": "Remove from heat and add in the vanilla extract.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-5.jpg"
+    },
+    {
+      "text": "Pour into glasses. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian",
+    "winter"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/723af5d43debd7688694d525.avif",
+      "archived": true,
+      "originalPath": "images/723af5d43debd7688694d525.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-featured.jpg",
+      "path": "images/b2e7f117ee564a23f792278d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-1.jpg",
+      "path": "../../nenaudojama/dessert/images/55dc72307a59763a95e0062a.avif",
+      "archived": true,
+      "originalPath": "images/55dc72307a59763a95e0062a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-2.jpg",
+      "path": "../../nenaudojama/dessert/images/65e6463844519d806cf12a5a.jpg",
+      "archived": true,
+      "originalPath": "images/65e6463844519d806cf12a5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-3.jpg",
+      "path": "../../nenaudojama/dessert/images/75c50b8851b048c9c0d60b45.avif",
+      "archived": true,
+      "originalPath": "images/75c50b8851b048c9c0d60b45.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-4.jpg",
+      "path": "../../nenaudojama/dessert/images/3298283ccdd5e5e6a4adf53c.jpg",
+      "archived": true,
+      "originalPath": "images/3298283ccdd5e5e6a4adf53c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-5.jpg",
+      "path": "../../nenaudojama/dessert/images/262de03254a9aef9d1b9caed.jpg",
+      "archived": true,
+      "originalPath": "images/262de03254a9aef9d1b9caed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolste-second.jpg",
+      "path": "../../nenaudojama/dessert/images/7a5fc97b65984658293843f2.avif",
+      "archived": true,
+      "originalPath": "images/7a5fc97b65984658293843f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-long.jpg",
+      "path": "../../nenaudojama/dessert/images/a64f741ebc852177e3626fff.avif",
+      "archived": true,
+      "originalPath": "images/a64f741ebc852177e3626fff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/aa2c8b114dbc87d49cbabd97.avif",
+      "archived": true,
+      "originalPath": "images/aa2c8b114dbc87d49cbabd97.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/22c007c6e99f713f09ad2aa7.jpg",
+      "archived": true,
+      "originalPath": "images/22c007c6e99f713f09ad2aa7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/42f6324d9d56a1c538dba7a5.avif",
+      "archived": true,
+      "originalPath": "images/42f6324d9d56a1c538dba7a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/14140ce5e11cb2d8433b2de4.avif",
+      "archived": true,
+      "originalPath": "images/14140ce5e11cb2d8433b2de4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0fcf096adafa0c382f1ebfe2.avif",
+      "archived": true,
+      "originalPath": "images/0fcf096adafa0c382f1ebfe2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1890d8e3141f7f9382069218.avif",
+      "archived": true,
+      "originalPath": "images/1890d8e3141f7f9382069218.avif"
+    }
+  ],
+  "featuredImage": "images/b2e7f117ee564a23f792278d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Hot Chocolate",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 3 servings of Keto Hot Chocolate. Each serving comes out to be 111 calories, 9.4g fats, 3.1g net carbs, and 2.4g protein.",
+    "datePublished": "2023-07-18T09:00:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "3 tablespoon unsweetened cocoa powder",
+      "2 tablespoon allulose",
+      "1/4 cup heavy whipping cream",
+      "2 cup unsweetened almond milk",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, add the cocoa powder and allulose. Whisk until combined well.",
+        "name": "In a saucepan, add the cocoa powder and allulose. Whisk until combined well.",
+        "url": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the heavy cream a little bit at a time. Whisk to combine well.",
+        "name": "Add in the heavy cream a little bit at a time. Whisk to combine well.",
+        "url": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the almond milk slowly over medium heat. Whisk constantly until everything is combined well. Heat until the mixture is hot.",
+        "name": "Add in the almond milk slowly over medium heat. Whisk constantly until everything is combined well. Heat until the mixture is hot.",
+        "url": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and add in the vanilla extract.",
+        "name": "Remove from heat and add in the vanilla extract.",
+        "url": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into glasses. Serve and enjoy!",
+        "name": "Pour into glasses. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-hot-chocolate/#wprm-recipe-54669-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, comfort-food, egg-free, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "111 kcal",
+      "fatContent": "9.4 g",
+      "proteinContent": "2.4 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-hot-chocolate/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-hot-chocolate/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-hot-chocolate/"
+  },
+  "sourceIndex": {
+    "id": 49126,
+    "rid": 54669,
+    "t": "Keto Hot Chocolate",
+    "u": "/keto-hot-chocolate/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/07/keto-hot-chocolate-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.1,
+    "cal": 111,
+    "pr": 2.4,
+    "fa": 9.4,
+    "tm": 10,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian",
+      "winter"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2023-07-18",
+    "cm": 0,
+    "ex": "On a cold winter’s day, nothing warms you up quite like a cup of hot chocolate. This low-carb hot chocolate recipe uses heavy cream, cocoa powder, almond milk, and allulose sweetener to make a thick",
+    "pv": 493
+  },
+  "sourceHtml": "pages/keto-hot-chocolate.html",
+  "scrapedAt": "2026-11-07T08:30:46.965Z"
+}

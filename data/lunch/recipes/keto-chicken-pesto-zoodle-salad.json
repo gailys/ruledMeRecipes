@@ -1,0 +1,400 @@
+{
+  "id": "ruled-57899",
+  "slug": "keto-chicken-pesto-zoodle-salad",
+  "title": "Keto Chicken & Pesto Zoodle Salad",
+  "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Chicken & Pesto Zoodle Salad. Each serving comes out to be 623 calories, 49.1g fats, 6g net carbs, and 41.8g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "623 kcal",
+    "fatContent": "49.1 g",
+    "proteinContent": "41.8 g",
+    "carbohydrateContent": "6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 623,
+    "netCarbsGrams": 6,
+    "proteinGrams": 41.8,
+    "fatGrams": 49.1
+  },
+  "ingredients": [
+    "21 ounce boneless, skinless chicken thighs",
+    "1/3 cup pesto",
+    "5 ounce cherry tomatoes (halved or quartered)",
+    "4 ounce feta cheese (crumbled or cubed)",
+    "12 ounce zucchini (spiralized or cut into noodles)",
+    "3 tablespoon olive oil"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients. Pat the zoodles with paper towels to remove excess moisture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-1.jpg"
+    },
+    {
+      "text": "Place the chicken in a pot and fill it with water until the chicken is just covered. Bring to a boil and cook the chicken through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-2.jpg"
+    },
+    {
+      "text": "Remove the chicken from the water and shred it with a fork. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-3.jpg"
+    },
+    {
+      "text": "Place the zoodles in a bowl and toss with the pesto.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-4.jpg"
+    },
+    {
+      "text": "Add in the chicken, cherry tomatoes, and feta cheese. Lightly toss.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-5.jpg"
+    },
+    {
+      "text": "Add in the olive oil and toss again, tasting and seasoning with salt and pepper if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-6.jpg"
+    },
+    {
+      "text": "Serve immediately and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "meal-prep",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/5e6398614a21af4790b7227b.jpg",
+      "archived": true,
+      "originalPath": "images/5e6398614a21af4790b7227b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured.jpg",
+      "path": "images/0207a24327761f2019f9d010.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-1.jpg",
+      "path": "../../nenaudojama/lunch/images/9e2cac39f4b63b04c9c4f5ce.jpg",
+      "archived": true,
+      "originalPath": "images/9e2cac39f4b63b04c9c4f5ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-2.jpg",
+      "path": "../../nenaudojama/lunch/images/a231dd77d23e2965c11fb63e.avif",
+      "archived": true,
+      "originalPath": "images/a231dd77d23e2965c11fb63e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-3.jpg",
+      "path": "../../nenaudojama/lunch/images/f278356c6ece3c37b7aff31f.avif",
+      "archived": true,
+      "originalPath": "images/f278356c6ece3c37b7aff31f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-4.jpg",
+      "path": "../../nenaudojama/lunch/images/4d8e2a0886df98a359f15bae.avif",
+      "archived": true,
+      "originalPath": "images/4d8e2a0886df98a359f15bae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-5.jpg",
+      "path": "../../nenaudojama/lunch/images/7f856d4833ca48c52228af71.jpg",
+      "archived": true,
+      "originalPath": "images/7f856d4833ca48c52228af71.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-6.jpg",
+      "path": "../../nenaudojama/lunch/images/03d56372d6f1430184f86e73.avif",
+      "archived": true,
+      "originalPath": "images/03d56372d6f1430184f86e73.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/737859028fb8ff4628a8fc19.avif",
+      "archived": true,
+      "originalPath": "images/737859028fb8ff4628a8fc19.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/ac8965f687747c0f5f354772.avif",
+      "archived": true,
+      "originalPath": "images/ac8965f687747c0f5f354772.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/4f6c0dfbdcab166fc4857727.jpg",
+      "archived": true,
+      "originalPath": "images/4f6c0dfbdcab166fc4857727.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/02ff8176ea1329540dfc037b.avif",
+      "archived": true,
+      "originalPath": "images/02ff8176ea1329540dfc037b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/973f227097e322ec48efb0fb.avif",
+      "archived": true,
+      "originalPath": "images/973f227097e322ec48efb0fb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8aac7c26360761be61bc141e.avif",
+      "archived": true,
+      "originalPath": "images/8aac7c26360761be61bc141e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/98ca1f90825a98a6178fa65f.jpg",
+      "archived": true,
+      "originalPath": "images/98ca1f90825a98a6178fa65f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-5-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/09fee7f7c4042373dc6b3662.avif",
+      "archived": true,
+      "originalPath": "images/09fee7f7c4042373dc6b3662.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-6-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/352e90e297b109ca61d4809e.avif",
+      "archived": true,
+      "originalPath": "images/352e90e297b109ca61d4809e.avif"
+    }
+  ],
+  "featuredImage": "images/0207a24327761f2019f9d010.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken &amp; Pesto Zoodle Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Chicken &amp; Pesto Zoodle Salad. Each serving comes out to be 623 calories, 49.1g fats, 6g net carbs, and 41.8g protein.",
+    "datePublished": "2025-06-11T09:46:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured-480x270.jpg"
+    ],
+    "video": {
+      "name": "Keto Chicken & Pesto Zoodle Salad [Easy Low-Carb Recipe]",
+      "description": "Elevate your lunch or dinner routine with this vibrant Keto Chicken & Pesto Zoodle Salad, a bright and nourishing twist on Mediterranean flavors. Tender, shredded chicken thighs are infused with the tangy depth of sugar-free basil pesto and paired with juicy cherry tomatoes and creamy feta cheese, creating a satisfying yet fresh ensemble. The star of the dish, zucchini noodles (zoodles), bring a crisp, veggie-forward base that captures the essence of classic pasta salads—while keeping carbs low. Tossed together with olive oil, the zoodles beautifully soak up the pesto and juices, delivering a flavorful bite in every forkful .\n\nFor those who prefer a softer texture, lightly sauté the zoodles for 1–2 minutes in a hot pan with olive oil before combining with the other ingredients—this creates a tender base without losing their vibrant green essence. Versatile and delicious, it’s perfect served fresh or as a make-ahead meal—ideal for a quick lunch or a colorful addition to your meal prep lineup. Clean, wholesome, and effortlessly satisfying, this salad proves that low-carb meals can be both easy and delicious.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n21 ounce boneless, skinless chicken thighs\n1/3 cup green pesto, sugar-free\n5 ounce cherry tomatoes, halved or quartered\n4 ounce feta cheese, crumbled or cubed\n12 ounce zucchini, spiralized or cut into noodles\n3 tablespoon olive oil\n\nNutrition Summary: This makes a total of 3 servings of Keto Chicken & Pesto Zoodle Salad. Each serving comes out to be 623 calories, 49g fats, 6g net carbs, and 41.8g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2025-07-26T15:01:28+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M45S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 2721
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 144
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 4
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qre-Tz1zO0w/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/qre-Tz1zO0w?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=qre-Tz1zO0w",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "21 ounce boneless, skinless chicken thighs",
+      "1/3 cup pesto",
+      "5 ounce cherry tomatoes (halved or quartered)",
+      "4 ounce feta cheese (crumbled or cubed)",
+      "12 ounce zucchini (spiralized or cut into noodles)",
+      "3 tablespoon olive oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients. Pat the zoodles with paper towels to remove excess moisture.",
+        "name": "Gather and prep all of your ingredients. Pat the zoodles with paper towels to remove excess moisture.",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken in a pot and fill it with water until the chicken is just covered. Bring to a boil and cook the chicken through.",
+        "name": "Place the chicken in a pot and fill it with water until the chicken is just covered. Bring to a boil and cook the chicken through.",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chicken from the water and shred it with a fork. Set aside.",
+        "name": "Remove the chicken from the water and shred it with a fork. Set aside.",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the zoodles in a bowl and toss with the pesto.",
+        "name": "Place the zoodles in a bowl and toss with the pesto.",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the chicken, cherry tomatoes, and feta cheese. Lightly toss.",
+        "name": "Add in the chicken, cherry tomatoes, and feta cheese. Lightly toss.",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the olive oil and toss again, tasting and seasoning with salt and pepper if desired.",
+        "name": "Add in the olive oil and toss again, tasting and seasoning with salt and pepper if desired.",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately and enjoy!",
+        "name": "Serve immediately and enjoy!",
+        "url": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#wprm-recipe-57909-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "623 kcal",
+      "fatContent": "49.1 g",
+      "proteinContent": "41.8 g",
+      "carbohydrateContent": "6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-pesto-zoodle-salad/"
+  },
+  "sourceIndex": {
+    "id": 57899,
+    "rid": 57909,
+    "t": "Keto Chicken & Pesto Zoodle Salad",
+    "u": "/keto-chicken-pesto-zoodle-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2025/06/Keto-Chicken-Pesto-Zoodle-Salad-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6,
+    "cal": 623,
+    "pr": 41.8,
+    "fa": 49.1,
+    "tm": 25,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 6,
+    "fk": [
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "meal-prep",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2025-06-11",
+    "cm": 0,
+    "ex": "Elevate your lunch or dinner routine with this vibrant Keto Chicken & Pesto Zoodle Salad, a bright and nourishing twist on Mediterranean flavors. Tender, shredded chicken thighs are infused with the",
+    "pv": 615
+  },
+  "sourceHtml": "pages/keto-chicken-pesto-zoodle-salad.html",
+  "scrapedAt": "2026-11-07T08:14:51.428Z"
+}

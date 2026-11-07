@@ -1,0 +1,280 @@
+{
+  "id": "ruled-38940",
+  "slug": "keto-taco-salad",
+  "title": "Keto Taco Salad",
+  "url": "https://www.ruled.me/keto-taco-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Taco Salad. Each serving comes out to be 376 calories, 29.9g fats, 5.5g net carbs, and 18.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "376 kcal",
+    "fatContent": "29.9 g",
+    "proteinContent": "18.7 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 376,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 18.7,
+    "fatGrams": 29.9
+  },
+  "ingredients": [
+    "12 ounce ground beef",
+    "1 teaspoon cumin",
+    "1/2 teaspoon chili powder",
+    "1 teaspoon dried parsley",
+    "1 teaspoon garlic powder",
+    "8 ounce romaine lettuce (chopped)",
+    "9 ounce iceberg lettuce (chopped)",
+    "2 small fresh tomatoes (chopped)",
+    "1 1/2 cup shredded mozzarella",
+    "1 medium avocado (diced)",
+    "1 cup sour cream"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a non-stick pan on the stove, then add the ground beef.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-01.jpg"
+    },
+    {
+      "text": "Sprinkle herbs and spices on the ground beef and cook over medium heat, stirring to combine. Once the beef is cooked, remove the pan from the stove. Drain excess grease from ground beef. Set meat aside to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-02.jpg"
+    },
+    {
+      "text": "Place chopped lettuce, tomatoes, shredded mozzarella, and avocado in a salad bowl and mix all ingredients well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-08.jpg"
+    },
+    {
+      "text": "Top the salad mix with ground beef and dollops of the sour cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/c737dcc964b35d7252e3d72b.jpg",
+      "archived": true,
+      "originalPath": "images/c737dcc964b35d7252e3d72b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-featured.jpg",
+      "path": "images/c37971e097ae4e8b9a760ace.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/9422f6d0610076274245abf6.avif",
+      "archived": true,
+      "originalPath": "images/9422f6d0610076274245abf6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/5eff9427dceffb179d7a25ca.jpg",
+      "archived": true,
+      "originalPath": "images/5eff9427dceffb179d7a25ca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-08.jpg",
+      "path": "../../nenaudojama/lunch/images/e370b873c8e116bea9d52298.avif",
+      "archived": true,
+      "originalPath": "images/e370b873c8e116bea9d52298.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/5fbe96a62a8e0eb1231fd582.jpg",
+      "archived": true,
+      "originalPath": "images/5fbe96a62a8e0eb1231fd582.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/12e523898589901a9eb34a0e.jpg",
+      "archived": true,
+      "originalPath": "images/12e523898589901a9eb34a0e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/042df82ecbdad175ab79b02a.avif",
+      "archived": true,
+      "originalPath": "images/042df82ecbdad175ab79b02a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/132688c0beecedf783210048.avif",
+      "archived": true,
+      "originalPath": "images/132688c0beecedf783210048.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-08-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/1466a241f6611865d1c5bad7.jpg",
+      "archived": true,
+      "originalPath": "images/1466a241f6611865d1c5bad7.jpg"
+    }
+  ],
+  "featuredImage": "images/c37971e097ae4e8b9a760ace.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Taco Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Keto Taco Salad. Each serving comes out to be 376 calories, 29.9g fats, 5.5g net carbs, and 18.7g protein.",
+    "datePublished": "2019-02-05T18:47:03+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "12 ounce ground beef",
+      "1 teaspoon cumin",
+      "1/2 teaspoon chili powder",
+      "1 teaspoon dried parsley",
+      "1 teaspoon garlic powder",
+      "8 ounce romaine lettuce (chopped)",
+      "9 ounce iceberg lettuce (chopped)",
+      "2 small fresh tomatoes (chopped)",
+      "1 1/2 cup shredded mozzarella",
+      "1 medium avocado (diced)",
+      "1 cup sour cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a non-stick pan on the stove, then add the ground beef.",
+        "name": "Preheat a non-stick pan on the stove, then add the ground beef.",
+        "url": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle herbs and spices on the ground beef and cook over medium heat, stirring to combine. Once the beef is cooked, remove the pan from the stove. Drain excess grease from ground beef. Set meat aside to cool.",
+        "name": "Sprinkle herbs and spices on the ground beef and cook over medium heat, stirring to combine. Once the beef is cooked, remove the pan from the stove. Drain excess grease from ground beef. Set meat aside to cool.",
+        "url": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place chopped lettuce, tomatoes, shredded mozzarella, and avocado in a salad bowl and mix all ingredients well.",
+        "name": "Place chopped lettuce, tomatoes, shredded mozzarella, and avocado in a salad bowl and mix all ingredients well.",
+        "url": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the salad mix with ground beef and dollops of the sour cream.",
+        "name": "Top the salad mix with ground beef and dollops of the sour cream.",
+        "url": "https://www.ruled.me/keto-taco-salad/#wprm-recipe-52886-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, quick, red meat, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "376 kcal",
+      "fatContent": "29.9 g",
+      "proteinContent": "18.7 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-taco-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-taco-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-taco-salad/"
+  },
+  "sourceIndex": {
+    "id": 38940,
+    "rid": 52886,
+    "t": "Keto Taco Salad",
+    "u": "/keto-taco-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/keto-taco-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.5,
+    "cal": 376,
+    "pr": 18.7,
+    "fa": 29.9,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "red-meat"
+    ],
+    "d": "2019-02-05",
+    "cm": 0,
+    "ex": "Do you love Taco Tuesday, and feel like you can’t partake because of Keto? Well, look no further! You can still have your tacos but without the shells! These are great for all occasions, but we love",
+    "pv": 133
+  },
+  "sourceHtml": "pages/keto-taco-salad.html",
+  "scrapedAt": "2026-11-07T08:16:42.731Z"
+}

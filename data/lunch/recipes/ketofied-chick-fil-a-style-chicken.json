@@ -1,0 +1,290 @@
+{
+  "id": "ruled-41190",
+  "slug": "ketofied-chick-fil-a-style-chicken",
+  "title": "Ketofied Chick-Fil-A-style Chicken",
+  "url": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Ketofied Chick-Fil-A-style Chicken. Each serving comes out to be 357 calories, 15.5g fats, 4.2g net carbs, and 45.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT60M",
+  "cookTime": "PT30M",
+  "totalTime": "PT90M",
+  "totalMinutes": 90,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "4",
+    "calories": "357 kcal",
+    "fatContent": "15.5 g",
+    "proteinContent": "45.8 g",
+    "carbohydrateContent": "4.2 g"
+  },
+  "nutritionPerServing": {
+    "calories": 357,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 45.8,
+    "fatGrams": 15.5
+  },
+  "ingredients": [
+    "24 ounce pickle juice",
+    "16 ounce chicken tenderloins",
+    "1/4 cup unflavored low-carb protein powder",
+    "1/4 cup grated parmesan cheese",
+    "salt and pepper (to taste)",
+    "1 teaspoon smoked paprika",
+    "2 large egg",
+    "2 tablespoon avocado oil"
+  ],
+  "instructions": [
+    {
+      "text": "Remove the pickles from the jar. Add the chicken to a plastic bag then pour in the pickle juice. Place in the fridge and allow to marinate for at least 1 hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-01.jpg"
+    },
+    {
+      "text": "In a plate mix together the protein powder, grated Parmesan, salt, pepper, and paprika. Beat the eggs together on a separate plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-02.jpg"
+    },
+    {
+      "text": "Preheat a skillet over medium-high heat. Add the avocado oil then allow it to heat up while you bread the chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-03.jpg"
+    },
+    {
+      "text": "Dip the chicken tenders into the egg, then coat with the breading mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-07.jpg"
+    },
+    {
+      "text": "Pan fry until the tenders are golden brown and fully cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "family-friendly",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/fb069d9a6e33bf871f9d65f8.jpg",
+      "archived": true,
+      "originalPath": "images/fb069d9a6e33bf871f9d65f8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-featured.jpg",
+      "path": "images/02abf46419e3a178d4594d3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-01.jpg",
+      "path": "../../nenaudojama/lunch/images/a7ebdef5e57855b6f4994bc3.jpg",
+      "archived": true,
+      "originalPath": "images/a7ebdef5e57855b6f4994bc3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-02.jpg",
+      "path": "../../nenaudojama/lunch/images/af70213de38d9fb907db6602.jpg",
+      "archived": true,
+      "originalPath": "images/af70213de38d9fb907db6602.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-03.jpg",
+      "path": "../../nenaudojama/lunch/images/51180f8e14327c14beb2229d.jpg",
+      "archived": true,
+      "originalPath": "images/51180f8e14327c14beb2229d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-07.jpg",
+      "path": "../../nenaudojama/lunch/images/d155b0fd4f2bd9efe472cdee.jpg",
+      "archived": true,
+      "originalPath": "images/d155b0fd4f2bd9efe472cdee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-second.jpg",
+      "path": "../../nenaudojama/lunch/images/510d8a46bb67606a70961da7.avif",
+      "archived": true,
+      "originalPath": "images/510d8a46bb67606a70961da7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/7da18c5030a7e3e4a367bdcd.jpg",
+      "archived": true,
+      "originalPath": "images/7da18c5030a7e3e4a367bdcd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a80915c5b69a7a6df48bf23a.jpg",
+      "archived": true,
+      "originalPath": "images/a80915c5b69a7a6df48bf23a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0b1d016ead2d11313564c6d8.jpg",
+      "archived": true,
+      "originalPath": "images/0b1d016ead2d11313564c6d8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f367fb708f2a0907d73ae80f.jpg",
+      "archived": true,
+      "originalPath": "images/f367fb708f2a0907d73ae80f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/62fae364c2d11ec56ded773a.jpg",
+      "archived": true,
+      "originalPath": "images/62fae364c2d11ec56ded773a.jpg"
+    }
+  ],
+  "featuredImage": "images/02abf46419e3a178d4594d3a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ketofied Chick-Fil-A-style Chicken",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Ketofied Chick-Fil-A-style Chicken. Each serving comes out to be 357 calories, 15.5g fats, 4.2g net carbs, and 45.8g protein.",
+    "datePublished": "2019-09-03T11:00:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT60M",
+    "cookTime": "PT30M",
+    "totalTime": "PT90M",
+    "recipeIngredient": [
+      "24 ounce pickle juice",
+      "16 ounce chicken tenderloins",
+      "1/4 cup unflavored low-carb protein powder",
+      "1/4 cup grated parmesan cheese",
+      "salt and pepper (to taste)",
+      "1 teaspoon smoked paprika",
+      "2 large egg",
+      "2 tablespoon avocado oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pickles from the jar.  Add the chicken to a plastic bag then pour in the pickle juice.  Place in the fridge and allow to marinate for at least 1 hour.",
+        "name": "Remove the pickles from the jar.  Add the chicken to a plastic bag then pour in the pickle juice.  Place in the fridge and allow to marinate for at least 1 hour.",
+        "url": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a plate mix together the protein powder, grated Parmesan, salt, pepper, and paprika.  Beat the eggs together on a separate plate.",
+        "name": "In a plate mix together the protein powder, grated Parmesan, salt, pepper, and paprika.  Beat the eggs together on a separate plate.",
+        "url": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a skillet over medium-high heat.  Add the avocado oil then allow it to heat up while you bread the chicken.",
+        "name": "Preheat a skillet over medium-high heat.  Add the avocado oil then allow it to heat up while you bread the chicken.",
+        "url": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dip the chicken tenders into the egg, then coat with the breading mixture.",
+        "name": "Dip the chicken tenders into the egg, then coat with the breading mixture.",
+        "url": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pan fry until the tenders are golden brown and fully cooked through.",
+        "name": "Pan fry until the tenders are golden brown and fully cooked through.",
+        "url": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#wprm-recipe-50389-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "family-friendly, gluten-free, high-protein, keto, low-carb, nut-free, poultry, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "4",
+      "calories": "357 kcal",
+      "fatContent": "15.5 g",
+      "proteinContent": "45.8 g",
+      "carbohydrateContent": "4.2 g"
+    },
+    "@id": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ketofied-chick-fil-a-style-chicken/"
+  },
+  "sourceIndex": {
+    "id": 41190,
+    "rid": 50389,
+    "t": "Ketofied Chick-Fil-A-style Chicken",
+    "u": "/ketofied-chick-fil-a-style-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/09/chickfila-style-keto-fried-chicken-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.2,
+    "cal": 357,
+    "pr": 45.8,
+    "fa": 15.5,
+    "tm": 90,
+    "sv": 4,
+    "kw": [
+      "family-friendly",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2019-09-03",
+    "cm": 14,
+    "ex": "This ketofied chicken recipe features pickle juice as the brine, and protein powder as the low-carb breading alternative. The result? Juicy and golden tenders that are a perfect dupe. Brining and",
+    "pv": 268
+  },
+  "sourceHtml": "pages/ketofied-chick-fil-a-style-chicken.html",
+  "scrapedAt": "2026-11-07T08:16:15.840Z"
+}

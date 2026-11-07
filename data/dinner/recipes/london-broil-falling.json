@@ -1,0 +1,361 @@
+{
+  "id": "ruled-10132",
+  "slug": "london-broil-falling",
+  "title": "London Broil is Falling Down",
+  "url": "https://www.ruled.me/london-broil-falling/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of London Broil is Falling Down. Each serving comes out to be 708 calories, 43.5g fats, 3.2g net carbs, and 67.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT240M",
+  "totalTime": "PT255M",
+  "totalMinutes": 255,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "708 kcal",
+    "fatContent": "43.5 g",
+    "proteinContent": "67.9 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 708,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 67.9,
+    "fatGrams": 43.5
+  },
+  "ingredients": [
+    "32 ounce london broil roast",
+    "2 tablespoon soy sauce (or coconut aminos)",
+    "2 tablespoon low-carb ketchup",
+    "1 tablespoon dijon mustard",
+    "2 teaspoon fresh garlic (minced)",
+    "2 teaspoon onion powder",
+    "1/2 cup chicken broth",
+    "1/2 cup brewed coffee",
+    "1/4 cup dry white wine"
+  ],
+  "instructions": [
+    {
+      "text": "Add the London broil to the slow cooker. Coat one side with 1/2 (of each) of the soy sauce, ketchup, dijon, and minced garlic. Turn and repeat on other side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3196.jpg"
+    },
+    {
+      "text": "Sprinkle onion powder over the side that is facing up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3202.jpg"
+    },
+    {
+      "text": "Pour chicken broth, coffee, and white wine over the meat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3204.jpg"
+    },
+    {
+      "text": "Set slow cooker to high and let this cook for 4-6 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3206.jpg"
+    },
+    {
+      "text": "When meat is done, you can optionally leave the top off for a little bit to allow the liquid to reduce some more. Keep in mind that if you do this, the meat will dry out a little. Alternatively, you can remove meat and keep warm by wrapping with foil while reducing liquid.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3309.jpg"
+    },
+    {
+      "text": "Using 2 forks, shred the meat. (If meat was removed to reduce sauce, return to pan)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3312.jpg"
+    },
+    {
+      "text": "Serve – I garnished with hot sauce because I love spicy! I also served them with Roasted Pecan Green Beans – delicious!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil2.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil3.jpg",
+      "path": "images/9c0ec8b3fa6fc26574aac9bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3196.jpg",
+      "path": "../../nenaudojama/dinner/images/010f7e6ab788015ace2d1bdd.jpg",
+      "archived": true,
+      "originalPath": "images/010f7e6ab788015ace2d1bdd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3202.jpg",
+      "path": "../../nenaudojama/dinner/images/1e296edbd2af8a63cbaae949.jpg",
+      "archived": true,
+      "originalPath": "images/1e296edbd2af8a63cbaae949.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3204.jpg",
+      "path": "../../nenaudojama/dinner/images/ba8cc49be368e394df2b6d02.jpg",
+      "archived": true,
+      "originalPath": "images/ba8cc49be368e394df2b6d02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3206.jpg",
+      "path": "../../nenaudojama/dinner/images/a0a4d19a270137d3917f1ac3.jpg",
+      "archived": true,
+      "originalPath": "images/a0a4d19a270137d3917f1ac3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3309.jpg",
+      "path": "../../nenaudojama/dinner/images/b8de8f52a67dbb95d67f71eb.jpg",
+      "archived": true,
+      "originalPath": "images/b8de8f52a67dbb95d67f71eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3312.jpg",
+      "path": "../../nenaudojama/dinner/images/4bb418020b3581be2e63f834.jpg",
+      "archived": true,
+      "originalPath": "images/4bb418020b3581be2e63f834.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil2.jpg",
+      "path": "../../nenaudojama/dinner/images/cafeb80c95562cc858420bfc.jpg",
+      "archived": true,
+      "originalPath": "images/cafeb80c95562cc858420bfc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroilSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/d0bf290d775bf12e7e75bfbf.avif",
+      "archived": true,
+      "originalPath": "images/d0bf290d775bf12e7e75bfbf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3192.jpg",
+      "path": "../../nenaudojama/dinner/images/13e84ceb5d1209fd5e2ac9e1.jpg",
+      "archived": true,
+      "originalPath": "images/13e84ceb5d1209fd5e2ac9e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3196-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8e7a956af19c95376761fff1.jpg",
+      "archived": true,
+      "originalPath": "images/8e7a956af19c95376761fff1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3202-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f312beeeaa28d31241d7c29d.jpg",
+      "archived": true,
+      "originalPath": "images/f312beeeaa28d31241d7c29d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3204-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8fc45095d21e3ef050a8640b.avif",
+      "archived": true,
+      "originalPath": "images/8fc45095d21e3ef050a8640b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3206-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c81492dcb721bf1024a14f47.avif",
+      "archived": true,
+      "originalPath": "images/c81492dcb721bf1024a14f47.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3309-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7e088fbcb311615491dbd9aa.jpg",
+      "archived": true,
+      "originalPath": "images/7e088fbcb311615491dbd9aa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3312-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4e49b959dfece4dc4398c12b.jpg",
+      "archived": true,
+      "originalPath": "images/4e49b959dfece4dc4398c12b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/af7999ac4e88f70b7e7b3cd0.jpg",
+      "archived": true,
+      "originalPath": "images/af7999ac4e88f70b7e7b3cd0.jpg"
+    }
+  ],
+  "featuredImage": "images/9c0ec8b3fa6fc26574aac9bd.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "London Broil is Falling Down",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of London Broil is Falling Down. Each serving comes out to be 708 calories, 43.5g fats, 3.2g net carbs, and 67.9g protein.",
+    "datePublished": "2014-02-28T16:17:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil3.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT240M",
+    "totalTime": "PT255M",
+    "recipeIngredient": [
+      "32 ounce london broil roast",
+      "2 tablespoon soy sauce (or coconut aminos)",
+      "2 tablespoon low-carb ketchup",
+      "1 tablespoon dijon mustard",
+      "2 teaspoon fresh garlic (minced)",
+      "2 teaspoon onion powder",
+      "1/2 cup chicken broth",
+      "1/2 cup brewed coffee",
+      "1/4 cup dry white wine"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the London broil to the slow cooker. Coat one side with 1/2 (of each) of the soy sauce, ketchup, dijon, and minced garlic. Turn and repeat on other side.",
+        "name": "Add the London broil to the slow cooker. Coat one side with 1/2 (of each) of the soy sauce, ketchup, dijon, and minced garlic. Turn and repeat on other side.",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3196.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle onion powder over the side that is facing up.",
+        "name": "Sprinkle onion powder over the side that is facing up.",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3202.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour chicken broth, coffee, and white wine over the meat.",
+        "name": "Pour chicken broth, coffee, and white wine over the meat.",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3204.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set slow cooker to high and let this cook for 4-6 hours.",
+        "name": "Set slow cooker to high and let this cook for 4-6 hours.",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3206.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When meat is done, you can optionally leave the top off for a little bit to allow the liquid to reduce some more. Keep in mind that if you do this, the meat will dry out a little. Alternatively, you can remove meat and keep warm by wrapping with foil while reducing liquid.",
+        "name": "When meat is done, you can optionally leave the top off for a little bit to allow the liquid to reduce some more. Keep in mind that if you do this, the meat will dry out a little. Alternatively, you can remove meat and keep warm by wrapping with foil while reducing liquid.",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3309.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using 2 forks, shred the meat. (If meat was removed to reduce sauce, return to pan)",
+        "name": "Using 2 forks, shred the meat. (If meat was removed to reduce sauce, return to pan)",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_3312.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve – I garnished with hot sauce because I love spicy! I also served them with Roasted Pecan Green Beans – delicious!",
+        "name": "Serve – I garnished with hot sauce because I love spicy! I also served them with Roasted Pecan Green Beans – delicious!",
+        "url": "https://www.ruled.me/london-broil-falling/#wprm-recipe-50913-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil2.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, dairy-free, egg-free, high-fat, high-protein, keto, low-carb, nut-free, red meat, simple-and-easy, slow cooker, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "708 kcal",
+      "fatContent": "43.5 g",
+      "proteinContent": "67.9 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/london-broil-falling/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/london-broil-falling/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/london-broil-falling/"
+  },
+  "sourceIndex": {
+    "id": 10132,
+    "rid": 50913,
+    "t": "London Broil is Falling Down",
+    "u": "/london-broil-falling/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/LondonBroil3.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.2,
+    "cal": 708,
+    "pr": 67.9,
+    "fa": 43.5,
+    "tm": 255,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2014-02-28",
+    "cm": 11,
+    "ex": "Every once in a while we just need something that consists of throwing a piece of meat and a couple spices into a slow cooker. Go off to work, or out of the house, and then come back to a fully",
+    "pv": 792
+  },
+  "sourceHtml": "pages/london-broil-falling.html",
+  "scrapedAt": "2026-11-07T08:27:45.158Z"
+}

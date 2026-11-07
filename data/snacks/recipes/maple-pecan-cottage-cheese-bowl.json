@@ -1,0 +1,220 @@
+{
+  "id": "ruled-47360",
+  "slug": "maple-pecan-cottage-cheese-bowl",
+  "title": "Maple Pecan Cottage Cheese Bowl",
+  "url": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Maple Pecan Cottage Cheese Bowl. The serving comes out to be 280 calories, 24.7g fats, 4g net carbs, and 10.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "fatContent": "24.7 g",
+    "proteinContent": "10.8 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 280,
+    "netCarbsGrams": 4,
+    "proteinGrams": 10.8,
+    "fatGrams": 24.7
+  },
+  "ingredients": [
+    "1/3 cup cottage cheese",
+    "1 tablespoon low-carb maple syrup",
+    "1/4 teaspoon ground cinnamon",
+    "30 gram pecans (chopped)",
+    "1 teaspoon lemon zest"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/#wprm-recipe-54251-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-1.jpg"
+    },
+    {
+      "text": "Mix the maple syrup, cinnamon, pecans, and lemon zest in the bowl with the cottage cheese. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/#wprm-recipe-54251-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/b9ed0444f121e1bf76d62c3a.avif",
+      "archived": true,
+      "originalPath": "images/b9ed0444f121e1bf76d62c3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/1464baaf84e1ad9aad06964b.jpg",
+      "archived": true,
+      "originalPath": "images/1464baaf84e1ad9aad06964b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-1.jpg",
+      "path": "../../nenaudojama/snacks/images/8b13c6af252c8bad7466a25d.jpg",
+      "archived": true,
+      "originalPath": "images/8b13c6af252c8bad7466a25d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/5037ef1efe79e69edc7a9499.avif",
+      "archived": true,
+      "originalPath": "images/5037ef1efe79e69edc7a9499.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/6a41f9d868beb86cc99ba7b0.jpg",
+      "archived": true,
+      "originalPath": "images/6a41f9d868beb86cc99ba7b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/88a53ef5f14d05dbda9c8931.avif",
+      "archived": true,
+      "originalPath": "images/88a53ef5f14d05dbda9c8931.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2aa31378bb29fb65d2c277ab.avif",
+      "archived": true,
+      "originalPath": "images/2aa31378bb29fb65d2c277ab.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/1464baaf84e1ad9aad06964b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Maple Pecan Cottage Cheese Bowl",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Maple Pecan Cottage Cheese Bowl. The serving comes out to be 280 calories, 24.7g fats, 4g net carbs, and 10.8g protein.",
+    "datePublished": "2022-07-14T09:00:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/3 cup cottage cheese",
+      "1 tablespoon low-carb maple syrup",
+      "1/4 teaspoon ground cinnamon",
+      "30 gram pecans (chopped)",
+      "1 teaspoon lemon zest"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/#wprm-recipe-54251-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the maple syrup, cinnamon, pecans, and lemon zest in the bowl with the cottage cheese. Serve and enjoy!",
+        "name": "Mix the maple syrup, cinnamon, pecans, and lemon zest in the bowl with the cottage cheese. Serve and enjoy!",
+        "url": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/#wprm-recipe-54251-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Side Items",
+      "Snacks"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "280 kcal",
+      "fatContent": "24.7 g",
+      "proteinContent": "10.8 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/maple-pecan-cottage-cheese-bowl/"
+  },
+  "sourceIndex": {
+    "id": 47360,
+    "rid": 54251,
+    "t": "Maple Pecan Cottage Cheese Bowl",
+    "u": "/maple-pecan-cottage-cheese-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Maple-Pecan-Cottage-Cheese-Bowl-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 4,
+    "cal": 280,
+    "pr": 10.8,
+    "fa": 24.7,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2022-07-14",
+    "cm": 0,
+    "ex": "Starting the day with a satisfying breakfast is essential. When on a keto diet, a lot of the regular breakfast foods like cereal and toast become “no-go zones.” But don’t stress, there are heaps of",
+    "pv": 289
+  },
+  "sourceHtml": "pages/maple-pecan-cottage-cheese-bowl.html",
+  "scrapedAt": "2026-11-07T08:30:46.067Z"
+}

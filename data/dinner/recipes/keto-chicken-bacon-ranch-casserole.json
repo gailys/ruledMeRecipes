@@ -1,0 +1,397 @@
+{
+  "id": "ruled-50001",
+  "slug": "keto-chicken-bacon-ranch-casserole",
+  "title": "Chicken Bacon Ranch Casserole",
+  "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Chicken Bacon Ranch Casserole. Each serving comes out to be 533 calories, 43.8g fats, 5.4g net carbs, and 29.8g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT7M",
+  "cookTime": "PT38M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "533 kcal",
+    "fatContent": "43.8 g",
+    "proteinContent": "29.8 g",
+    "carbohydrateContent": "5.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 533,
+    "netCarbsGrams": 5.4,
+    "proteinGrams": 29.8,
+    "fatGrams": 43.8
+  },
+  "ingredients": [
+    "24 ounce boneless, skinless chicken thighs",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon garlic powder",
+    "salt and pepper (to taste)",
+    "4 ounce bacon (chopped)",
+    "8 ounce broccoli (cut into small florets)",
+    "2 teaspoon fresh garlic (minced)",
+    "1 cup ranch dressing",
+    "3/4 cup mozzarella cheese (shredded and divided)",
+    "3/4 cup cheddar cheese (shredded and divided)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. Pre-heat oven to 375F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-1.jpg"
+    },
+    {
+      "text": "Cut the chicken into bite-size cubes using kitchen shears or a sharp knife. Cut the bacon into small pieces as well, then set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-2.jpg"
+    },
+    {
+      "text": "Season the chicken thighs with onion powder, garlic powder, and salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-3.jpg"
+    },
+    {
+      "text": "In a casserole dish, add the chicken, bacon, broccoli, and minced garlic. Gently toss together, then bake for 15-20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-4.jpg"
+    },
+    {
+      "text": "Pour the ranch dressing and about half of each cheese into the casserole dish. Mix together until everything is well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-5.jpg"
+    },
+    {
+      "text": "Top with the remaining cheese and return to the oven to bake for an additional 13-18 minutes. The cheese should be melted and bubbling.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-6.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool before serving. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/cf4bcf81c2cbdc1b81805fa1.avif",
+      "archived": true,
+      "originalPath": "images/cf4bcf81c2cbdc1b81805fa1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Featured.jpg",
+      "path": "images/4bdcd7920b035e725b8a0fe0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-1.jpg",
+      "path": "../../nenaudojama/dinner/images/0ec3ca06627d980e1a83ecd4.jpg",
+      "archived": true,
+      "originalPath": "images/0ec3ca06627d980e1a83ecd4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-2.jpg",
+      "path": "../../nenaudojama/dinner/images/bd436e1c806227be94b9befb.avif",
+      "archived": true,
+      "originalPath": "images/bd436e1c806227be94b9befb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-3.jpg",
+      "path": "../../nenaudojama/dinner/images/c557ccf3c38c3fff468cf0f2.avif",
+      "archived": true,
+      "originalPath": "images/c557ccf3c38c3fff468cf0f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-4.jpg",
+      "path": "../../nenaudojama/dinner/images/4eae71e6a76d131ff500927e.jpg",
+      "archived": true,
+      "originalPath": "images/4eae71e6a76d131ff500927e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-5.jpg",
+      "path": "../../nenaudojama/dinner/images/4740c02f477cb3d526797cc3.jpg",
+      "archived": true,
+      "originalPath": "images/4740c02f477cb3d526797cc3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-6.jpg",
+      "path": "../../nenaudojama/dinner/images/0e1494fea460bc90214cd3e4.jpg",
+      "archived": true,
+      "originalPath": "images/0e1494fea460bc90214cd3e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/31d84e7bb16855dbe4c3fa06.jpg",
+      "archived": true,
+      "originalPath": "images/31d84e7bb16855dbe4c3fa06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/90572b2412bff677ff67c188.jpg",
+      "archived": true,
+      "originalPath": "images/90572b2412bff677ff67c188.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/3123d5fb6f3ec7024d483c5c.jpg",
+      "archived": true,
+      "originalPath": "images/3123d5fb6f3ec7024d483c5c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6bedf7772eceeb588f5eeb4d.avif",
+      "archived": true,
+      "originalPath": "images/6bedf7772eceeb588f5eeb4d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ff3d227af20ff1933db4e11f.jpg",
+      "archived": true,
+      "originalPath": "images/ff3d227af20ff1933db4e11f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8514321bf0a436ff2bfe46b5.jpg",
+      "archived": true,
+      "originalPath": "images/8514321bf0a436ff2bfe46b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fca15771ac25ae1c3fe263dd.avif",
+      "archived": true,
+      "originalPath": "images/fca15771ac25ae1c3fe263dd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2a84cfbe6756c0edc01ff55a.jpg",
+      "archived": true,
+      "originalPath": "images/2a84cfbe6756c0edc01ff55a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cf314802b8f2f51ae1efd2ac.jpg",
+      "archived": true,
+      "originalPath": "images/cf314802b8f2f51ae1efd2ac.jpg"
+    }
+  ],
+  "featuredImage": "images/4bdcd7920b035e725b8a0fe0.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicken Bacon Ranch Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Chicken Bacon Ranch Casserole. Each serving comes out to be 533 calories, 43.8g fats, 5.4g net carbs, and 29.8g protein.",
+    "datePublished": "2024-03-07T10:52:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Chicken Bacon Ranch Casserole [Super Easy Recipe]",
+      "description": "If you’re looking for an easy weeknight meal that’s guaranteed to satisfy the whole family, look no further than our chicken bacon ranch casserole recipe. Made in under 30 minutes and only using common pantry and fridge ingredients, this casserole is full of savory goodness and will be devoured just as quickly as it takes to prepare!\n\nWhen the flavors of chicken and bacon combine in your mouth, something quite magical happens to your taste buds. While chicken is high in protein, its subtle taste means it can take on a lot of spices, herbs, and seasonings, and the smoky, salty flavor of bacon is a perfect complement to the skinless chicken thigh in this recipe. Incorporate garlic and onion powder, and you get a fantastic depth of flavor throughout the whole casserole.\n\nThe star of the show is undoubtedly the sauce that generously coats the chicken, bacon, and vegetables. And the best part is that you don’t need to make the sauce in a separate pan before pouring it on. Instead, everything is combined in the casserole dish throughout the cooking process for less mess and easier cleanup.\n\nTangy and creamy ranch dressing mixed with mozzarella and cheddar cheese means you get a well-rounded flavor profile, exemplified by the slight nuttiness and saltiness of the cheese when it combines with the smoothness of ranch. Adding some extra cheese before baking gives the casserole that signature golden brown top that takes this dish to the next level.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n24 ounce boneless, skinless chicken thighs\n1/2 teaspoon onion powder\n1/2 teaspoon garlic powder\nsalt and pepper, to taste\n4 ounce bacon, chopped\n8 ounce broccoli, cut into small florets\n2 teaspoon garlic, minced\n1 cup ranch dressing\n3/4 cup mozzarella cheese, shredded and divided\n3/4 cup cheddar cheese, shredded and divided\n\nNutrition Summary: This makes a total of 6 servings of Keto Chicken Bacon Ranch Casserole. Each serving comes out to be 555 calories, 45.2g fats, 5.2g net carbs, and 32.4g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-06-15T15:00:39+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M36S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 11918
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 388
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 23
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/exnBb5pOvXg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/exnBb5pOvXg?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=exnBb5pOvXg",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT7M",
+    "cookTime": "PT38M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "24 ounce boneless, skinless chicken thighs",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "salt and pepper (to taste)",
+      "4 ounce bacon (chopped)",
+      "8 ounce broccoli (cut into small florets)",
+      "2 teaspoon fresh garlic (minced)",
+      "1 cup ranch dressing",
+      "3/4 cup mozzarella cheese (shredded and divided)",
+      "3/4 cup cheddar cheese (shredded and divided)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. Pre-heat oven to 375F.",
+        "name": "Gather and prep all ingredients. Pre-heat oven to 375F.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into bite-size cubes using kitchen shears or a sharp knife. Cut the bacon into small pieces as well, then set aside.",
+        "name": "Cut the chicken into bite-size cubes using kitchen shears or a sharp knife. Cut the bacon into small pieces as well, then set aside.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken thighs with onion powder, garlic powder, and salt and pepper to taste.",
+        "name": "Season the chicken thighs with onion powder, garlic powder, and salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a casserole dish, add the chicken, bacon, broccoli, and minced garlic. Gently toss together, then bake for 15-20 minutes.",
+        "name": "In a casserole dish, add the chicken, bacon, broccoli, and minced garlic. Gently toss together, then bake for 15-20 minutes.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the ranch dressing and about half of each cheese into the casserole dish. Mix together until everything is well combined.",
+        "name": "Pour the ranch dressing and about half of each cheese into the casserole dish. Mix together until everything is well combined.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the remaining cheese and return to the oven to bake for an additional 13-18 minutes. The cheese should be melted and bubbling.",
+        "name": "Top with the remaining cheese and return to the oven to bake for an additional 13-18 minutes. The cheese should be melted and bubbling.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool before serving. Enjoy!",
+        "name": "Remove from the oven and let cool before serving. Enjoy!",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#wprm-recipe-54933-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "533 kcal",
+      "fatContent": "43.8 g",
+      "proteinContent": "29.8 g",
+      "carbohydrateContent": "5.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-bacon-ranch-casserole/"
+  },
+  "sourceIndex": {
+    "id": 50001,
+    "rid": 54933,
+    "t": "Keto Chicken Bacon Ranch Casserole",
+    "u": "/keto-chicken-bacon-ranch-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/02/Chicken-Bacon-Ranch-Casserole-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.4,
+    "cal": 533,
+    "pr": 29.8,
+    "fa": 43.8,
+    "tm": 45,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "high-protein"
+    ],
+    "d": "2024-03-07",
+    "cm": 0,
+    "ex": "If you’re looking for an easy weeknight meal that’s guaranteed to satisfy the whole family, look no further than our chicken bacon ranch casserole recipe. Made in under 30 minutes and only using",
+    "pv": 673
+  },
+  "sourceHtml": "pages/keto-chicken-bacon-ranch-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:43.550Z"
+}

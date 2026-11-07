@@ -1,0 +1,367 @@
+{
+  "id": "ruled-45854",
+  "slug": "keto-creamy-chicken-broccoli",
+  "title": "Keto Creamy Chicken & Broccoli",
+  "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Creamy Chicken & Broccoli . Each serving comes out to be 430 calories, 33.5g fats, 6.5g net carbs, and 26.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "430 kcal",
+    "fatContent": "33.5 g",
+    "proteinContent": "26.6 g",
+    "carbohydrateContent": "6.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 430,
+    "netCarbsGrams": 6.5,
+    "proteinGrams": 26.6,
+    "fatGrams": 33.5
+  },
+  "ingredients": [
+    "16 ounce boneless, skinless chicken thighs",
+    "3 tablespoon olive oil",
+    "1 teaspoon italian seasoning",
+    "1/4 teaspoon crushed red pepper flakes (optional)",
+    "salt and pepper (to taste)",
+    "3 teaspoon fresh garlic (minced)",
+    "1/4 cup sun-dried tomatoes (chopped)",
+    "10 ounce broccoli (florets)",
+    "1/2 cup mozzarella cheese",
+    "4 ounce cream cheese",
+    "1/3 cup chicken broth"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Chop the chicken into cubes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-1.jpg"
+    },
+    {
+      "text": "Add the chicken to a bowl and season with Italian seasoning, crushed red pepper flakes, and salt and pepper. Toss to coat the chicken with all the seasonings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-2.jpg"
+    },
+    {
+      "text": "In a frying pan, add the olive oil and the seasoned chicken. Cook over medium high heat until internal temperature reaches 165F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-3.jpg"
+    },
+    {
+      "text": "Add the minced garlic and cook for 1 - 2 minutes. Then add the broccoli and chopped sun-dried tomatoes. Stir and cook for 2 - 3 minutes or until broccoli starts to turn soft.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-4.jpg"
+    },
+    {
+      "text": "Add the mozzarella cheese and cream cheese. Heat until the cheese starts to melt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-5.jpg"
+    },
+    {
+      "text": "Once the cheese has melted, add the chicken broth and stir to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-6.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/dc77bb1660ba6e81f0789c6b.avif",
+      "archived": true,
+      "originalPath": "images/dc77bb1660ba6e81f0789c6b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Featured.jpg",
+      "path": "images/e5ea923bb22ee84e57684952.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-1.jpg",
+      "path": "../../nenaudojama/dinner/images/87065fbd3645fff30113b682.jpg",
+      "archived": true,
+      "originalPath": "images/87065fbd3645fff30113b682.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-2.jpg",
+      "path": "../../nenaudojama/dinner/images/503c7d53ecd8da1fa2e09d53.avif",
+      "archived": true,
+      "originalPath": "images/503c7d53ecd8da1fa2e09d53.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-3.jpg",
+      "path": "../../nenaudojama/dinner/images/4fca02b9af153997b8aad195.avif",
+      "archived": true,
+      "originalPath": "images/4fca02b9af153997b8aad195.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-4.jpg",
+      "path": "../../nenaudojama/dinner/images/45a4df3567733842222e755f.jpg",
+      "archived": true,
+      "originalPath": "images/45a4df3567733842222e755f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-5.jpg",
+      "path": "../../nenaudojama/dinner/images/48e4ba3d244da26b362a6e7c.jpg",
+      "archived": true,
+      "originalPath": "images/48e4ba3d244da26b362a6e7c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-6.jpg",
+      "path": "../../nenaudojama/dinner/images/421773343eb2c4b0a8017fea.jpg",
+      "archived": true,
+      "originalPath": "images/421773343eb2c4b0a8017fea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/d7a58429a53ac698977a1ade.jpg",
+      "archived": true,
+      "originalPath": "images/d7a58429a53ac698977a1ade.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/35f9cfe3bc91a2bd0e17dbad.avif",
+      "archived": true,
+      "originalPath": "images/35f9cfe3bc91a2bd0e17dbad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/5c9947f18ea4e9d5016de913.avif",
+      "archived": true,
+      "originalPath": "images/5c9947f18ea4e9d5016de913.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8354791b2a2aa2ccaea3da72.avif",
+      "archived": true,
+      "originalPath": "images/8354791b2a2aa2ccaea3da72.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/282205b6c4453f0e3031d4dc.avif",
+      "archived": true,
+      "originalPath": "images/282205b6c4453f0e3031d4dc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/734bcc560f62ad48a9a4cda9.avif",
+      "archived": true,
+      "originalPath": "images/734bcc560f62ad48a9a4cda9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a621b502eb5bcf57494aba2d.avif",
+      "archived": true,
+      "originalPath": "images/a621b502eb5bcf57494aba2d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4eb4434e3ee991c99f3f630c.avif",
+      "archived": true,
+      "originalPath": "images/4eb4434e3ee991c99f3f630c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d5232d17bff8617e6c148229.avif",
+      "archived": true,
+      "originalPath": "images/d5232d17bff8617e6c148229.avif"
+    }
+  ],
+  "featuredImage": "images/e5ea923bb22ee84e57684952.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Creamy Chicken &amp; Broccoli",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Creamy Chicken &amp; Broccoli . Each serving comes out to be 430 calories, 33.5g fats, 6.5g net carbs, and 26.6g protein.",
+    "datePublished": "2021-09-09T09:00:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "16 ounce boneless, skinless chicken thighs",
+      "3 tablespoon olive oil",
+      "1 teaspoon italian seasoning",
+      "1/4 teaspoon crushed red pepper flakes (optional)",
+      "salt and pepper (to taste)",
+      "3 teaspoon fresh garlic (minced)",
+      "1/4 cup sun-dried tomatoes (chopped)",
+      "10 ounce broccoli (florets)",
+      "1/2 cup mozzarella cheese",
+      "4 ounce cream cheese",
+      "1/3 cup chicken broth"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Chop the chicken into cubes.",
+        "name": "Measure out and prepare all the ingredients. Chop the chicken into cubes.",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken to a bowl and season with Italian seasoning, crushed red pepper flakes, and salt and pepper. Toss to coat the chicken with all the seasonings.",
+        "name": "Add the chicken to a bowl and season with Italian seasoning, crushed red pepper flakes, and salt and pepper. Toss to coat the chicken with all the seasonings.",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, add the olive oil and the seasoned chicken. Cook over medium high heat until internal temperature reaches 165F.",
+        "name": "In a frying pan, add the olive oil and the seasoned chicken. Cook over medium high heat until internal temperature reaches 165F.",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced garlic and cook for 1 - 2 minutes. Then add the broccoli and chopped sun-dried tomatoes. Stir and cook for 2 - 3 minutes or until broccoli starts to turn soft.",
+        "name": "Add the minced garlic and cook for 1 - 2 minutes. Then add the broccoli and chopped sun-dried tomatoes. Stir and cook for 2 - 3 minutes or until broccoli starts to turn soft.",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mozzarella cheese and cream cheese. Heat until the cheese starts to melt.",
+        "name": "Add the mozzarella cheese and cream cheese. Heat until the cheese starts to melt.",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cheese has melted, add the chicken broth and stir to combine.",
+        "name": "Once the cheese has melted, add the chicken broth and stir to combine.",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-creamy-chicken-broccoli/#wprm-recipe-53913-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, poultry, quick, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "430 kcal",
+      "fatContent": "33.5 g",
+      "proteinContent": "26.6 g",
+      "carbohydrateContent": "6.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-creamy-chicken-broccoli/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-creamy-chicken-broccoli/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-creamy-chicken-broccoli/"
+  },
+  "sourceIndex": {
+    "id": 45854,
+    "rid": 53913,
+    "t": "Keto Creamy Chicken & Broccoli",
+    "u": "/keto-creamy-chicken-broccoli/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/06/Creamy-Chicken-Broccoli-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.5,
+    "cal": 430,
+    "pr": 26.6,
+    "fa": 33.5,
+    "tm": 20,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2021-09-09",
+    "cm": 0,
+    "ex": "Whip up this dish in no time! The wholesome ingredients make it a perfect choice for lunch, dinner, or as leftovers the next day. It can be hard to figure out what to eat every day and to keep your",
+    "pv": 1566
+  },
+  "sourceHtml": "pages/keto-creamy-chicken-broccoli.html",
+  "scrapedAt": "2026-11-07T08:27:44.047Z"
+}

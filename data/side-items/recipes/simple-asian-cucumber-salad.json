@@ -1,0 +1,251 @@
+{
+  "id": "ruled-39885",
+  "slug": "simple-asian-cucumber-salad",
+  "title": "Simple Asian Cucumber Salad",
+  "url": "https://www.ruled.me/simple-asian-cucumber-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Simple Asian Cucumber Salad. The serving comes out to be 191 calories, 17.5g fats, 4.9g net carbs, and 3.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "191 kcal",
+    "fatContent": "17.5 g",
+    "proteinContent": "3.3 g",
+    "carbohydrateContent": "4.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 191,
+    "netCarbsGrams": 4.9,
+    "proteinGrams": 3.3,
+    "fatGrams": 17.5
+  },
+  "ingredients": [
+    "1/2 medium cucumber (sliced)",
+    "1 tablespoon olive oil",
+    "1 tablespoon soy sauce",
+    "1 tablespoon apple cider vinegar",
+    "1 tablespoon sesame seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Placed sliced cucumber into a bowl with olive oil, soy sauce, and apple cider vinegar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-asian-cucumber-salad/#wprm-recipe-52902-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-03.jpg"
+    },
+    {
+      "text": "Mix sliced cucumber and dressing together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-asian-cucumber-salad/#wprm-recipe-52902-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-04.jpg"
+    },
+    {
+      "text": "Sprinkle sesame seeds on top of the salad to serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-asian-cucumber-salad/#wprm-recipe-52902-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/1861fa70126572e7d5f2bb6f.jpg",
+      "archived": true,
+      "originalPath": "images/1861fa70126572e7d5f2bb6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/d2c975d41ed31821c3494043.jpg",
+      "archived": true,
+      "originalPath": "images/d2c975d41ed31821c3494043.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-03.jpg",
+      "path": "../../nenaudojama/side-items/images/7d89107859a6dfd8f3c6a0f7.jpg",
+      "archived": true,
+      "originalPath": "images/7d89107859a6dfd8f3c6a0f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-04.jpg",
+      "path": "../../nenaudojama/side-items/images/d710bb34e60ebd1dbad9efb8.jpg",
+      "archived": true,
+      "originalPath": "images/d710bb34e60ebd1dbad9efb8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-second.jpg",
+      "path": "../../nenaudojama/side-items/images/11cbcefb2d82cd525f76ed91.jpg",
+      "archived": true,
+      "originalPath": "images/11cbcefb2d82cd525f76ed91.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/ff5a3cbed68f9a38c225c4b7.jpg",
+      "archived": true,
+      "originalPath": "images/ff5a3cbed68f9a38c225c4b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/296e06d122f988857e777f1a.jpg",
+      "archived": true,
+      "originalPath": "images/296e06d122f988857e777f1a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/4c30ff85f865ce665406cf24.jpg",
+      "archived": true,
+      "originalPath": "images/4c30ff85f865ce665406cf24.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/d2c975d41ed31821c3494043.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple Asian Cucumber Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Simple Asian Cucumber Salad. The serving comes out to be 191 calories, 17.5g fats, 4.9g net carbs, and 3.3g protein.",
+    "datePublished": "2019-03-05T12:00:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 medium cucumber (sliced)",
+      "1 tablespoon olive oil",
+      "1 tablespoon soy sauce",
+      "1 tablespoon apple cider vinegar",
+      "1 tablespoon sesame seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Placed sliced cucumber into a bowl with olive oil, soy sauce, and apple cider vinegar.",
+        "name": "Placed sliced cucumber into a bowl with olive oil, soy sauce, and apple cider vinegar.",
+        "url": "https://www.ruled.me/simple-asian-cucumber-salad/#wprm-recipe-52902-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix sliced cucumber and dressing together.",
+        "name": "Mix sliced cucumber and dressing together.",
+        "url": "https://www.ruled.me/simple-asian-cucumber-salad/#wprm-recipe-52902-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle sesame seeds on top of the salad to serve.",
+        "name": "Sprinkle sesame seeds on top of the salad to serve.",
+        "url": "https://www.ruled.me/simple-asian-cucumber-salad/#wprm-recipe-52902-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "191 kcal",
+      "fatContent": "17.5 g",
+      "proteinContent": "3.3 g",
+      "carbohydrateContent": "4.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/simple-asian-cucumber-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-asian-cucumber-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-asian-cucumber-salad/"
+  },
+  "sourceIndex": {
+    "id": 39885,
+    "rid": 52902,
+    "t": "Simple Asian Cucumber Salad",
+    "u": "/simple-asian-cucumber-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/asian-cucumber-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.9,
+    "cal": 191,
+    "pr": 3.3,
+    "fa": 17.5,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2019-03-05",
+    "cm": 0,
+    "ex": "A refreshing salad with a hint of tang! This Asian cucumber salad is great for get-togethers, work potlucks, or as a small salad with lunch or dinner. Now, this recipe only makes one serving, but",
+    "pv": 94
+  },
+  "sourceHtml": "pages/simple-asian-cucumber-salad.html",
+  "scrapedAt": "2026-11-07T08:32:17.359Z"
+}

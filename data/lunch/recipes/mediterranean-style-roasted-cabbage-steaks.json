@@ -1,0 +1,285 @@
+{
+  "id": "ruled-59711",
+  "slug": "mediterranean-style-roasted-cabbage-steaks",
+  "title": "Mediterranean Style Roasted Cabbage Steaks",
+  "url": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Mediterranean Style Roasted Cabbage Steaks. Each serving comes out to be 390 calories, 29.3g fats, 10.3g net carbs, and 15.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "390 kcal",
+    "fatContent": "29.3 g",
+    "proteinContent": "15.7 g",
+    "carbohydrateContent": "10.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 390,
+    "netCarbsGrams": 10.3,
+    "proteinGrams": 15.7,
+    "fatGrams": 29.3
+  },
+  "ingredients": [
+    "1 small green cabbage (sliced thick)",
+    "4 ounce pesto",
+    "1 cup parmesan cheese (shredded)",
+    "2 ounce feta cheese (crumbled)",
+    "4 medium cherry tomatoes (sliced)",
+    "3 ounce marinated artichoke hearts (halved)",
+    "1 tablespoon mediterranean seasoning",
+    "salt and pepper",
+    "2 tablespoon olive oil",
+    "fresh basil (to garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Heat oven to 400°F. Grease a large sheet pan with nonstick spray or a bit of oil. Gather ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-01.jpg"
+    },
+    {
+      "text": "Arrange the thick sliced cabbage into a single layer on the sheet pan. Generously slather the cabbage with the pesto sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-02.jpg"
+    },
+    {
+      "text": "Top with the cheeses, artichoke hearts, and tomato. Bake until the cabbage crisps up around the edges, about 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-03.jpg"
+    },
+    {
+      "text": "Sprinkle the seasoning mix and the salt and pepper over the tops. Drizzle with olive oil. Garnish with fresh basil to serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "quick",
+    "sheet-pan",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/3b18ca80a7aae14eda55c276.jpg",
+      "archived": true,
+      "originalPath": "images/3b18ca80a7aae14eda55c276.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109.jpg",
+      "path": "images/eaf83e74062789b84eb587d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/3a2cc8b1cf55a9f5e41d9373.jpg",
+      "archived": true,
+      "originalPath": "images/3a2cc8b1cf55a9f5e41d9373.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/9ebd55dfaef7e6268032f9d1.jpg",
+      "archived": true,
+      "originalPath": "images/9ebd55dfaef7e6268032f9d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-03.jpg",
+      "path": "../../nenaudojama/lunch/images/9c97a7ebe7582e5b3f77b142.jpg",
+      "archived": true,
+      "originalPath": "images/9c97a7ebe7582e5b3f77b142.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-04.jpg",
+      "path": "../../nenaudojama/lunch/images/f0196adc5254367c83d811ae.jpg",
+      "archived": true,
+      "originalPath": "images/f0196adc5254367c83d811ae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/09c93c9a274f28a95e8dbd0c.avif",
+      "archived": true,
+      "originalPath": "images/09c93c9a274f28a95e8dbd0c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2f6056c265b103a92a21220d.jpg",
+      "archived": true,
+      "originalPath": "images/2f6056c265b103a92a21220d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3ca2b900ff9ed097be2f08e3.jpg",
+      "archived": true,
+      "originalPath": "images/3ca2b900ff9ed097be2f08e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c4d60b2a8bace25b0735b58e.jpg",
+      "archived": true,
+      "originalPath": "images/c4d60b2a8bace25b0735b58e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-04-246x350.jpg",
+      "path": "../../nenaudojama/lunch/images/828064fb5fe377381f512aa5.jpg",
+      "archived": true,
+      "originalPath": "images/828064fb5fe377381f512aa5.jpg"
+    }
+  ],
+  "featuredImage": "images/eaf83e74062789b84eb587d3.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mediterranean Style Roasted Cabbage Steaks",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Mediterranean Style Roasted Cabbage Steaks. Each serving comes out to be 390 calories, 29.3g fats, 10.3g net carbs, and 15.7g protein.",
+    "datePublished": "2026-05-26T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 small green cabbage (sliced thick)",
+      "4 ounce pesto",
+      "1 cup parmesan cheese (shredded)",
+      "2 ounce feta cheese (crumbled)",
+      "4 medium cherry tomatoes (sliced)",
+      "3 ounce marinated artichoke hearts (halved)",
+      "1 tablespoon mediterranean seasoning",
+      "salt and pepper",
+      "2 tablespoon olive oil",
+      "fresh basil (to garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat oven to 400°F. Grease a large sheet pan with nonstick spray or a bit of oil. Gather ingredients.",
+        "name": "Heat oven to 400°F. Grease a large sheet pan with nonstick spray or a bit of oil. Gather ingredients.",
+        "url": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the thick sliced cabbage into a single layer on the sheet pan. Generously slather the cabbage with the pesto sauce.",
+        "name": "Arrange the thick sliced cabbage into a single layer on the sheet pan. Generously slather the cabbage with the pesto sauce.",
+        "url": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the cheeses, artichoke hearts, and tomato. Bake until the cabbage crisps up around the edges, about 20 minutes.",
+        "name": "Top with the cheeses, artichoke hearts, and tomato. Bake until the cabbage crisps up around the edges, about 20 minutes.",
+        "url": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the seasoning mix and the salt and pepper over the tops. Drizzle with olive oil. Garnish with fresh basil to serve.",
+        "name": "Sprinkle the seasoning mix and the salt and pepper over the tops. Drizzle with olive oil. Garnish with fresh basil to serve.",
+        "url": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#wprm-recipe-59710-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/mediterranean-style-roasted-cabbage-steaks-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, keto, low-carb, oven-baked, quick, sheet-pan, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "390 kcal",
+      "fatContent": "29.3 g",
+      "proteinContent": "15.7 g",
+      "carbohydrateContent": "10.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/mediterranean-style-roasted-cabbage-steaks/"
+  },
+  "sourceIndex": {
+    "id": 59711,
+    "rid": 59710,
+    "t": "Mediterranean Style Roasted Cabbage Steaks",
+    "u": "/mediterranean-style-roasted-cabbage-steaks/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/f41246fde6c3c3caa677c500cd747109-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 10.3,
+    "cal": 390,
+    "pr": 15.7,
+    "fa": 29.3,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "quick",
+      "sheet-pan",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2026-05-26",
+    "cm": 0,
+    "ex": "These Mediterranean Style Roasted Cabbage Steaks are a vibrant and satisfying low-carb lunch that transforms a humble vegetable into a gourmet centerpiece. When roasted at high heat, the cabbage",
+    "pv": 166
+  },
+  "sourceHtml": "pages/mediterranean-style-roasted-cabbage-steaks.html",
+  "scrapedAt": "2026-11-07T08:14:43.620Z"
+}

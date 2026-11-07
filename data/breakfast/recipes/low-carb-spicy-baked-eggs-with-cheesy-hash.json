@@ -1,0 +1,283 @@
+{
+  "id": "ruled-33018",
+  "slug": "low-carb-spicy-baked-eggs-with-cheesy-hash",
+  "title": "Low Carb Spicy Baked Eggs with Cheesy Hash",
+  "url": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Low Carb Spicy Baked Eggs with Cheesy Hash. Each serving comes out to be 264 calories, 19.9g fats, 5.6g net carbs, and 12.6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "264 kcal",
+    "fatContent": "19.9 g",
+    "proteinContent": "12.6 g",
+    "carbohydrateContent": "5.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 264,
+    "netCarbsGrams": 5.6,
+    "proteinGrams": 12.6,
+    "fatGrams": 19.9
+  },
+  "ingredients": [
+    "5 ounce zucchini (diced)",
+    "6 ounce cauliflower (chopped)",
+    "1/2 medium red bell pepper (diced*)",
+    "1 tablespoon coconut oil (melted)",
+    "1 teaspoon onion powder",
+    "1/2 teaspoon garlic powder",
+    "1 teaspoon smoked paprika",
+    "1/4 cup mexican-style cheese blend (shredded)",
+    "1/2 medium avocado",
+    "3 large egg",
+    "3 tablespoon cotija cheese",
+    "1 tablespoon jalapeno pepper (sliced)",
+    "2 teaspoon tajin seasoning (or other spicy, citrus seasoning)"
+  ],
+  "instructions": [
+    {
+      "text": "Heat oven to 400F and line a round or rectangular baking sheet with foil. In an even layer spread diced zucchini, cauliflower, and red pepper then drizzle with oil. Dust on onion powder, garlic, and paprika, then toss to coat. Smooth everything back into a single layer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-01.jpg"
+    },
+    {
+      "text": "Bake for 10 to 15 minutes or until it begins to brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-02.jpg"
+    },
+    {
+      "text": "Remove the roasted vegetables from the oven and top with shredded Mexican blend cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-03.jpg"
+    },
+    {
+      "text": "Arrange the sliced avocado around the veggies, and crack the eggs in the spaces between. Bake for about 10 minutes or until the eggs reach your preferred level of doneness! Top with cotija Cheese, optional jalapeños, and Tajín.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "sheet-pan",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/32f315dedf954cc5bba27a69.jpg",
+      "archived": true,
+      "originalPath": "images/32f315dedf954cc5bba27a69.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-featured.jpg",
+      "path": "images/0ae99e11c106c254bc2bac0c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/4b17bbde8889bd14d5c5aad3.avif",
+      "archived": true,
+      "originalPath": "images/4b17bbde8889bd14d5c5aad3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/9bce7a38ec5b26a355a506f5.avif",
+      "archived": true,
+      "originalPath": "images/9bce7a38ec5b26a355a506f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/19176ae582f0fef575c1389e.avif",
+      "archived": true,
+      "originalPath": "images/19176ae582f0fef575c1389e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/5b492bce323d8f17c035d1d3.avif",
+      "archived": true,
+      "originalPath": "images/5b492bce323d8f17c035d1d3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/ca1c41401c58ee732f87f0c5.avif",
+      "archived": true,
+      "originalPath": "images/ca1c41401c58ee732f87f0c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6e18b80b2f13b8cacbaa45c8.avif",
+      "archived": true,
+      "originalPath": "images/6e18b80b2f13b8cacbaa45c8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4bd90d4b952965a59df76d71.avif",
+      "archived": true,
+      "originalPath": "images/4bd90d4b952965a59df76d71.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fa1f9ffa072adecdac28b15a.jpg",
+      "archived": true,
+      "originalPath": "images/fa1f9ffa072adecdac28b15a.jpg"
+    }
+  ],
+  "featuredImage": "images/0ae99e11c106c254bc2bac0c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Spicy Baked Eggs with Cheesy Hash",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Low Carb Spicy Baked Eggs with Cheesy Hash. Each serving comes out to be 264 calories, 19.9g fats, 5.6g net carbs, and 12.6g protein.",
+    "datePublished": "2017-10-17T11:00:48+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "5 ounce zucchini (diced)",
+      "6 ounce cauliflower (chopped)",
+      "1/2 medium red bell pepper (diced*)",
+      "1 tablespoon coconut oil (melted)",
+      "1 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "1 teaspoon smoked paprika",
+      "1/4 cup mexican-style cheese blend (shredded)",
+      "1/2 medium avocado",
+      "3 large egg",
+      "3 tablespoon cotija cheese",
+      "1 tablespoon jalapeno pepper (sliced)",
+      "2 teaspoon tajin seasoning (or other spicy, citrus seasoning)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat oven to 400F and line a round or rectangular baking sheet with foil. In an even layer spread diced zucchini, cauliflower, and red pepper then drizzle with oil. Dust on onion powder, garlic, and paprika, then toss to coat. Smooth everything back into a single layer.",
+        "name": "Heat oven to 400F and line a round or rectangular baking sheet with foil. In an even layer spread diced zucchini, cauliflower, and red pepper then drizzle with oil. Dust on onion powder, garlic, and paprika, then toss to coat. Smooth everything back into a single layer.",
+        "url": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 10 to 15 minutes or until it begins to brown.",
+        "name": "Bake for 10 to 15 minutes or until it begins to brown.",
+        "url": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the roasted vegetables from the oven and top with shredded Mexican blend cheese.",
+        "name": "Remove the roasted vegetables from the oven and top with shredded Mexican blend cheese.",
+        "url": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the sliced avocado around the veggies, and crack the eggs in the spaces between. Bake for about 10 minutes or until the eggs reach your preferred level of doneness! Top with cotija Cheese, optional jalapeños, and Tajín.",
+        "name": "Arrange the sliced avocado around the veggies, and crack the eggs in the spaces between. Bake for about 10 minutes or until the eggs reach your preferred level of doneness! Top with cotija Cheese, optional jalapeños, and Tajín.",
+        "url": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#wprm-recipe-51431-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, keto, low-carb, nut-free, oven-baked, quick, sheet-pan, simple-and-easy, spicy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "264 kcal",
+      "fatContent": "19.9 g",
+      "proteinContent": "12.6 g",
+      "carbohydrateContent": "5.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-spicy-baked-eggs-with-cheesy-hash/"
+  },
+  "sourceIndex": {
+    "id": 33018,
+    "rid": 51431,
+    "t": "Low Carb Spicy Baked Eggs with Cheesy Hash",
+    "u": "/low-carb-spicy-baked-eggs-with-cheesy-hash/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/09/spicy-baked-eggs-n-veggie-hash-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.6,
+    "cal": 264,
+    "pr": 12.6,
+    "fa": 19.9,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "sheet-pan",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 13,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked",
+      "eggs"
+    ],
+    "d": "2017-10-17",
+    "cm": 4,
+    "ex": "I guarantee that when all of the flavors and textures combine you’ll want to whip up a batch of this every weekend! The lightly roasted veggies are seasoned with smoky paprika and garlic, then",
+    "pv": 173
+  },
+  "sourceHtml": "pages/low-carb-spicy-baked-eggs-with-cheesy-hash.html",
+  "scrapedAt": "2026-11-07T08:11:12.723Z"
+}

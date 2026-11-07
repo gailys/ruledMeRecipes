@@ -1,0 +1,244 @@
+{
+  "id": "ruled-24479",
+  "slug": "mcketo-strawberry-milkshake",
+  "title": "McKeto Strawberry Milkshake",
+  "url": "https://www.ruled.me/mcketo-strawberry-milkshake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of McKeto Strawberry Milkshake. The serving comes out to be 361 calories, 38g fats, 1.6g net carbs, and 1.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "361 kcal",
+    "fatContent": "38 g",
+    "proteinContent": "1.7 g",
+    "carbohydrateContent": "1.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 361,
+    "netCarbsGrams": 1.6,
+    "proteinGrams": 1.7,
+    "fatGrams": 38
+  },
+  "ingredients": [
+    "3/4 cup unsweetened carton coconut milk",
+    "1/4 cup heavy whipping cream",
+    "7 large ice cubes",
+    "2 tablespoon sugar-free strawberry syrup (such as Torani)",
+    "1 tablespoon mct oil",
+    "1/4 teaspoon xanthan gum"
+  ],
+  "instructions": [
+    {
+      "text": "Add all ingredients to a blender. Pictured is a Ninja Blender with the Mini Ninja attachment.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mcketo-strawberry-milkshake/#wprm-recipe-51351-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_21602.jpg"
+    },
+    {
+      "text": "Blend together for 1–2 minutes or until the desired consistency is reached.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mcketo-strawberry-milkshake/#wprm-recipe-51351-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_2165.jpg"
+    },
+    {
+      "text": "Pour and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mcketo-strawberry-milkshake/#wprm-recipe-51351-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/strawberrymilkshake.jpg",
+      "path": "images/02d675fdd4789ac219d2aaa8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_21602.jpg",
+      "path": "../../nenaudojama/dessert/images/4831f07579ad2945e3fc550c.avif",
+      "archived": true,
+      "originalPath": "images/4831f07579ad2945e3fc550c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2165.jpg",
+      "path": "../../nenaudojama/dessert/images/d5af8c07854ba12647747722.avif",
+      "archived": true,
+      "originalPath": "images/d5af8c07854ba12647747722.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/strawberrymilkshakesecond.jpg",
+      "path": "../../nenaudojama/dessert/images/06d173c3bb65708522c3e901.jpg",
+      "archived": true,
+      "originalPath": "images/06d173c3bb65708522c3e901.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/strawberrymilkshakelong.jpg",
+      "path": "../../nenaudojama/dessert/images/452a4bd82a43f36beff57608.avif",
+      "archived": true,
+      "originalPath": "images/452a4bd82a43f36beff57608.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_21602-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f5e0a37c6b0573e8a8c0eb2e.jpg",
+      "archived": true,
+      "originalPath": "images/f5e0a37c6b0573e8a8c0eb2e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2165-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/285c78e9cb98f58d6a066b6c.jpg",
+      "archived": true,
+      "originalPath": "images/285c78e9cb98f58d6a066b6c.jpg"
+    }
+  ],
+  "featuredImage": "images/02d675fdd4789ac219d2aaa8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "McKeto Strawberry Milkshake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of McKeto Strawberry Milkshake. The serving comes out to be 361 calories, 38g fats, 1.6g net carbs, and 1.7g protein.",
+    "datePublished": "2014-09-02T15:38:52+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/strawberrymilkshake.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup unsweetened carton coconut milk",
+      "1/4 cup heavy whipping cream",
+      "7 large ice cubes",
+      "2 tablespoon sugar-free strawberry syrup (such as Torani)",
+      "1 tablespoon mct oil",
+      "1/4 teaspoon xanthan gum"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients to a blender. Pictured is a Ninja Blender with the Mini Ninja attachment.",
+        "name": "Add all ingredients to a blender. Pictured is a Ninja Blender with the Mini Ninja attachment.",
+        "url": "https://www.ruled.me/mcketo-strawberry-milkshake/#wprm-recipe-51351-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_21602.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend together for 1–2 minutes or until the desired consistency is reached.",
+        "name": "Blend together for 1–2 minutes or until the desired consistency is reached.",
+        "url": "https://www.ruled.me/mcketo-strawberry-milkshake/#wprm-recipe-51351-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_2165.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour and enjoy!",
+        "name": "Pour and enjoy!",
+        "url": "https://www.ruled.me/mcketo-strawberry-milkshake/#wprm-recipe-51351-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "361 kcal",
+      "fatContent": "38 g",
+      "proteinContent": "1.7 g",
+      "carbohydrateContent": "1.6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/mcketo-strawberry-milkshake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/mcketo-strawberry-milkshake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/mcketo-strawberry-milkshake/"
+  },
+  "sourceIndex": {
+    "id": 24479,
+    "rid": 51351,
+    "t": "McKeto Strawberry Milkshake",
+    "u": "/mcketo-strawberry-milkshake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/strawberrymilkshake.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.6,
+    "cal": 361,
+    "pr": 1.7,
+    "fa": 38,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2014-09-02",
+    "cm": 22,
+    "ex": "Growing up as a kid, I had my fair share of fast food takeout. Some of them I still miss to this day and try to recreate (a lot of the time in failure, but don't tell anyone). One of them that I was",
+    "pv": 343
+  },
+  "sourceHtml": "pages/mcketo-strawberry-milkshake.html",
+  "scrapedAt": "2026-11-07T08:30:47.460Z"
+}

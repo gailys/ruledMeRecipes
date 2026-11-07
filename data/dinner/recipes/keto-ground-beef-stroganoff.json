@@ -1,0 +1,372 @@
+{
+  "id": "ruled-40920",
+  "slug": "keto-ground-beef-stroganoff",
+  "title": "Keto Ground Beef Stroganoff",
+  "url": "https://www.ruled.me/keto-ground-beef-stroganoff/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Ground Beef Stroganoff. Each serving comes out to be 504 calories, 42.5g fats, 6.3g net carbs, and 23.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "504 kcal",
+    "fatContent": "42.5 g",
+    "proteinContent": "23.2 g",
+    "carbohydrateContent": "6.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 504,
+    "netCarbsGrams": 6.3,
+    "proteinGrams": 23.2,
+    "fatGrams": 42.5
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "1 teaspoon fresh garlic (minced)",
+    "16 ounce ground beef (80/20)",
+    "salt and pepper (to taste)",
+    "10 ounce cremini mushrooms (sliced)",
+    "1 1/4 cup sour cream",
+    "1/2 teaspoon smoked paprika",
+    "1 tablespoon lemon juice",
+    "1 tablespoon fresh parsley (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a large skillet over medium heat then add the butter. Once the butter has melted and stops foaming, add the minced garlic. Cook the garlic by stirring frequently until it’s fragrant, then add the ground beef. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-04.jpg"
+    },
+    {
+      "text": "Continue cooking the ground beef and break up the grounds with a wooden spoon. Transfer the cooked beef to a bowl and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-06.jpg"
+    },
+    {
+      "text": "Turn the heat back up to medium. Add the mushrooms to the pan. Continue cooking until the mushrooms are tender. Set the mushrooms aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-08.jpg"
+    },
+    {
+      "text": "Turn the heat down to low then whisk the sour cream and paprika into the skillet. Add the cooked beef and mushrooms back into the pan and stir together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Mix in the lemon juice and parsley.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Serve with a sprinkle of paprika over the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/6a43b6984351eaf72fa978c8.jpg",
+      "archived": true,
+      "originalPath": "images/6a43b6984351eaf72fa978c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-featured.jpg",
+      "path": "images/5fbcff5886499bad9fb610d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-04.jpg",
+      "path": "../../nenaudojama/dinner/images/c480253fa48f909e7273b9b9.avif",
+      "archived": true,
+      "originalPath": "images/c480253fa48f909e7273b9b9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-06.jpg",
+      "path": "../../nenaudojama/dinner/images/2e440607895cb459a982af46.avif",
+      "archived": true,
+      "originalPath": "images/2e440607895cb459a982af46.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-08.jpg",
+      "path": "../../nenaudojama/dinner/images/646789d5737f3e23e37c50bb.avif",
+      "archived": true,
+      "originalPath": "images/646789d5737f3e23e37c50bb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-second.jpg",
+      "path": "../../nenaudojama/dinner/images/dc84e4049250a1cb109dbdbc.avif",
+      "archived": true,
+      "originalPath": "images/dc84e4049250a1cb109dbdbc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-07.jpg",
+      "path": "../../nenaudojama/dinner/images/1c5cd39b295c2802f548f731.avif",
+      "archived": true,
+      "originalPath": "images/1c5cd39b295c2802f548f731.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/7051efb6d51f28e8d1749161.avif",
+      "archived": true,
+      "originalPath": "images/7051efb6d51f28e8d1749161.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7c232b388227fdb4c9a24e83.jpg",
+      "archived": true,
+      "originalPath": "images/7c232b388227fdb4c9a24e83.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/49adf746b0e200bade0a5d02.avif",
+      "archived": true,
+      "originalPath": "images/49adf746b0e200bade0a5d02.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c9a916fdc71567bf7b1c6456.jpg",
+      "archived": true,
+      "originalPath": "images/c9a916fdc71567bf7b1c6456.jpg"
+    }
+  ],
+  "featuredImage": "images/5fbcff5886499bad9fb610d2.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Ground Beef Stroganoff",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Ground Beef Stroganoff. Each serving comes out to be 504 calories, 42.5g fats, 6.3g net carbs, and 23.2g protein.",
+    "datePublished": "2019-08-06T08:00:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Ground Beef Stroganoff Recipe",
+      "description": "Classic beef stroganoff serves cubes of beef in a creamy sauce, served over rice or noodles. This ketofied version of the recipe also cuts down on its cost, by making use of ground beef. This ground beef stroganoff dinner is easy to make, and a wonderful tool to have for a quick family dinner.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 tablespoon butter\n1 clove minced garlic\n1 pound 80% lean ground beef\nSalt and pepper, to taste\n10 ounces sliced mushrooms\n2 tablespoon water\n1 ¼ cup sour cream\n½ teaspoon paprika\n1 tablespoon fresh lemon juice\n1 tablespoon fresh chopped parsley\n\nNutrition Summary:\nThis makes a total of 4 servings of Keto Ground Beef Stroganoff. Each serving comes out to be 476.8 Calories, 33.75g Fats, 6g Net Carbs, and 35.75g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-08-10T15:00:09+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M21S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 66745
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 1590
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 84
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Yjk0cQbyU-I/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Yjk0cQbyU-I?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=Yjk0cQbyU-I",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "1 teaspoon fresh garlic (minced)",
+      "16 ounce ground beef (80/20)",
+      "salt and pepper (to taste)",
+      "10 ounce cremini mushrooms (sliced)",
+      "1 1/4 cup sour cream",
+      "1/2 teaspoon smoked paprika",
+      "1 tablespoon lemon juice",
+      "1 tablespoon fresh parsley (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a large skillet over medium heat then add the butter. Once the butter has melted and stops foaming, add the minced garlic. Cook the garlic by stirring frequently until it’s fragrant, then add the ground beef. Season with salt and pepper.",
+        "name": "Preheat a large skillet over medium heat then add the butter. Once the butter has melted and stops foaming, add the minced garlic. Cook the garlic by stirring frequently until it’s fragrant, then add the ground beef. Season with salt and pepper.",
+        "url": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue cooking the ground beef and break up the grounds with a wooden spoon. Transfer the cooked beef to a bowl and set aside.",
+        "name": "Continue cooking the ground beef and break up the grounds with a wooden spoon. Transfer the cooked beef to a bowl and set aside.",
+        "url": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the heat back up to medium. Add the mushrooms to the pan. Continue cooking until the mushrooms are tender. Set the mushrooms aside.",
+        "name": "Turn the heat back up to medium. Add the mushrooms to the pan. Continue cooking until the mushrooms are tender. Set the mushrooms aside.",
+        "url": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the heat down to low then whisk the sour cream and paprika into the skillet. Add the cooked beef and mushrooms back into the pan and stir together.",
+        "name": "Turn the heat down to low then whisk the sour cream and paprika into the skillet. Add the cooked beef and mushrooms back into the pan and stir together.",
+        "url": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the lemon juice and parsley.",
+        "name": "Mix in the lemon juice and parsley.",
+        "url": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a sprinkle of paprika over the top.",
+        "name": "Serve with a sprinkle of paprika over the top.",
+        "url": "https://www.ruled.me/keto-ground-beef-stroganoff/#wprm-recipe-53107-step-0-5"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Delicious and easy! Just what I was looking for tonight.",
+        "author": {
+          "@type": "Person",
+          "name": "Ann"
+        },
+        "datePublished": "2025-03-05"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, one-pan, one-pan meals, quick, red meat, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "504 kcal",
+      "fatContent": "42.5 g",
+      "proteinContent": "23.2 g",
+      "carbohydrateContent": "6.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-ground-beef-stroganoff/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-ground-beef-stroganoff/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-ground-beef-stroganoff/"
+  },
+  "sourceIndex": {
+    "id": 40920,
+    "rid": 53107,
+    "t": "Keto Ground Beef Stroganoff",
+    "u": "/keto-ground-beef-stroganoff/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/07/beef-stroganoff-w-ground-beef-recipe-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.3,
+    "cal": 504,
+    "pr": 23.2,
+    "fa": 42.5,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2019-08-06",
+    "cm": 14,
+    "ex": "Classic beef stroganoff serves cubes of beef in a creamy sauce, served over rice or noodles. This ketofied version of the recipe also cuts down on its cost, by making use of ground beef. This ground",
+    "pv": 3805
+  },
+  "sourceHtml": "pages/keto-ground-beef-stroganoff.html",
+  "scrapedAt": "2026-11-07T08:27:44.450Z"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "ruled-35238",
+  "slug": "ultimate-breakfast-roll-ups",
+  "title": "Ultimate Breakfast Roll Ups",
+  "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Ultimate Breakfast Roll Ups. Each serving comes out to be 457 calories, 35.6g fats, 2.3g net carbs, and 30.5g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "457 kcal",
+    "fatContent": "35.6 g",
+    "proteinContent": "30.5 g",
+    "carbohydrateContent": "2.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 457,
+    "netCarbsGrams": 2.3,
+    "proteinGrams": 30.5,
+    "fatGrams": 35.6
+  },
+  "ingredients": [
+    "10 large egg",
+    "salt and pepper",
+    "1 1/2 cup cheddar cheese (shredded)",
+    "5 ounce bacon",
+    "5 ounce breakfast sausage (shaped into patties and cooked)"
+  ],
+  "instructions": [
+    {
+      "text": "Heat a nonstick skillet over medium-high heat. Whisk together 2 of the eggs in a bowl. Once the skillet is hot turn the heat down to medium-low, then add the eggs. If you need to you can use some non-stick cooking spray. Season the eggs with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-01.jpg"
+    },
+    {
+      "text": "Cover with a lid and allow to cook for a few minutes, until the egg is cooked almost all the way through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-02.jpg"
+    },
+    {
+      "text": "Sprinkle on about 1/3 cup of cheese all over the egg. Lay down a strip of bacon, then break a sausage patty in half and lay that down on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-05.jpg"
+    },
+    {
+      "text": "Carefully roll the egg over the fillings, usually I can fold it in thirds. It will look a little bit like a taquito. Sometimes I have a hard time rolling it, so I fold it over the first time and use my spatula to keep it there until the egg molds onto the shape. Then I carefully fold it over again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-06.jpg"
+    },
+    {
+      "text": "Set aside the breakfast roll.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-08.jpg"
+    },
+    {
+      "text": "Repeat steps 1-4 to create the rest of your servings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "few-ingredients",
+    "stovetop",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/3f3132a6f5df06565972a4ba.avif",
+      "archived": true,
+      "originalPath": "images/3f3132a6f5df06565972a4ba.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-featured.jpg",
+      "path": "images/e23d46fa000e865db9f71d6e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/cc49f5c5bacbc93bdf7a1e60.jpg",
+      "archived": true,
+      "originalPath": "images/cc49f5c5bacbc93bdf7a1e60.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/23d90bf9054fb9a061265d65.jpg",
+      "archived": true,
+      "originalPath": "images/23d90bf9054fb9a061265d65.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/3cb5d27bebf2378789ecd7d9.avif",
+      "archived": true,
+      "originalPath": "images/3cb5d27bebf2378789ecd7d9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-06.jpg",
+      "path": "../../nenaudojama/breakfast/images/9123dd29c31c93184e2c8082.avif",
+      "archived": true,
+      "originalPath": "images/9123dd29c31c93184e2c8082.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-08.jpg",
+      "path": "../../nenaudojama/breakfast/images/f26ee8455200bd42eba757cb.avif",
+      "archived": true,
+      "originalPath": "images/f26ee8455200bd42eba757cb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/6f651cc7eab8a9ef2706dec2.avif",
+      "archived": true,
+      "originalPath": "images/6f651cc7eab8a9ef2706dec2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/d1a3de3fef360bc933368d1e.avif",
+      "archived": true,
+      "originalPath": "images/d1a3de3fef360bc933368d1e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6157793eef7d1f1432f6fba7.jpg",
+      "archived": true,
+      "originalPath": "images/6157793eef7d1f1432f6fba7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b5522a72abf5b75b43430928.jpg",
+      "archived": true,
+      "originalPath": "images/b5522a72abf5b75b43430928.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5af54d6921c1e1207d88eb64.avif",
+      "archived": true,
+      "originalPath": "images/5af54d6921c1e1207d88eb64.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-06-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/aa4ba39446a341b949408973.jpg",
+      "archived": true,
+      "originalPath": "images/aa4ba39446a341b949408973.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-08-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/449592103003d6c7f6dda317.jpg",
+      "archived": true,
+      "originalPath": "images/449592103003d6c7f6dda317.jpg"
+    }
+  ],
+  "featuredImage": "images/e23d46fa000e865db9f71d6e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ultimate Breakfast Roll Ups",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Ultimate Breakfast Roll Ups. Each serving comes out to be 457 calories, 35.6g fats, 2.3g net carbs, and 30.5g protein.",
+    "datePublished": "2018-01-16T12:00:52+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "10 large egg",
+      "salt and pepper",
+      "1 1/2 cup cheddar cheese (shredded)",
+      "5 ounce bacon",
+      "5 ounce breakfast sausage (shaped into patties and cooked)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat a nonstick skillet over medium-high heat. Whisk together 2 of the eggs in a bowl. Once the skillet is hot turn the heat down to medium-low, then add the eggs. If you need to you can use some non-stick cooking spray. Season the eggs with salt and pepper.",
+        "name": "Heat a nonstick skillet over medium-high heat. Whisk together 2 of the eggs in a bowl. Once the skillet is hot turn the heat down to medium-low, then add the eggs. If you need to you can use some non-stick cooking spray. Season the eggs with salt and pepper.",
+        "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover with a lid and allow to cook for a few minutes, until the egg is cooked almost all the way through.",
+        "name": "Cover with a lid and allow to cook for a few minutes, until the egg is cooked almost all the way through.",
+        "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle on about 1/3 cup of cheese all over the egg. Lay down a strip of bacon, then break a sausage patty in half and lay that down on top.",
+        "name": "Sprinkle on about 1/3 cup of cheese all over the egg. Lay down a strip of bacon, then break a sausage patty in half and lay that down on top.",
+        "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully roll the egg over the fillings, usually I can fold it in thirds. It will look a little bit like a taquito. Sometimes I have a hard time rolling it, so I fold it over the first time and use my spatula to keep it there until the egg molds onto the shape. Then I carefully fold it over again.",
+        "name": "Carefully roll the egg over the fillings, usually I can fold it in thirds. It will look a little bit like a taquito. Sometimes I have a hard time rolling it, so I fold it over the first time and use my spatula to keep it there until the egg molds onto the shape. Then I carefully fold it over again.",
+        "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set aside the breakfast roll.",
+        "name": "Set aside the breakfast roll.",
+        "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat steps 1-4 to create the rest of your servings.",
+        "name": "Repeat steps 1-4 to create the rest of your servings.",
+        "url": "https://www.ruled.me/ultimate-breakfast-roll-ups/#wprm-recipe-52429-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, eggs, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, make-ahead, meal-prep, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "457 kcal",
+      "fatContent": "35.6 g",
+      "proteinContent": "30.5 g",
+      "carbohydrateContent": "2.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/ultimate-breakfast-roll-ups/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ultimate-breakfast-roll-ups/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ultimate-breakfast-roll-ups/"
+  },
+  "sourceIndex": {
+    "id": 35238,
+    "rid": 52429,
+    "t": "Ultimate Breakfast Roll Ups",
+    "u": "/ultimate-breakfast-roll-ups/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/ultimate-breakfast-rollups-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.3,
+    "cal": 457,
+    "pr": 30.5,
+    "fa": 35.6,
+    "tm": 30,
+    "sv": 5,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "few-ingredients",
+      "stovetop",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2018-01-16",
+    "cm": 21,
+    "ex": "These breakfast roll ups are made with eggs stuffed with bacon, sausage, and cheddar cheese. It's a filling keto breakfast, and the ultimate keto fast-food. Wrap them up and take them to go! These",
+    "pv": 492
+  },
+  "sourceHtml": "pages/ultimate-breakfast-roll-ups.html",
+  "scrapedAt": "2026-11-07T08:11:12.709Z"
+}

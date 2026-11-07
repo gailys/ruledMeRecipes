@@ -1,0 +1,273 @@
+{
+  "id": "ruled-601",
+  "slug": "thin-crust-healthy-pizza",
+  "title": "Thin Crust Low Carb Pizza",
+  "url": "https://www.ruled.me/thin-crust-healthy-pizza/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Thin Crust Low Carb Pizza. The serving comes out to be 240 calories, 14.3g fats, 8.9g net carbs, and 19g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "fatContent": "14.3 g",
+    "proteinContent": "19 g",
+    "carbohydrateContent": "8.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 240,
+    "netCarbsGrams": 8.9,
+    "proteinGrams": 19,
+    "fatGrams": 14.3
+  },
+  "ingredients": [
+    "1 whole low-carb pita bread (like Joseph's)",
+    "2 tablespoon low-carb tomato sauce (like rao's)",
+    "2 ounce mozzarella cheese",
+    "1/8 teaspoon black pepper",
+    "1/8 teaspoon garlic powder",
+    "1/8 teaspoon crushed red pepper flakes"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to a toasty 450F. Either brush the pieces of bread lightly with oil or spray both sides with cooking spray. Place in oven for 1 to 2 minutes to harden and toast the crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-02.jpg"
+    },
+    {
+      "text": "Remove from oven and add the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-04.jpg"
+    },
+    {
+      "text": "Add cheeses, mozzarella first. Then add toppings of your choice (don’t go too overboard…), being sure to log all topping macros.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-06.jpg"
+    },
+    {
+      "text": "Cook for an additional ~3-6 minutes to melt cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/aa54b485bf55b98d5dc65b65.avif",
+      "archived": true,
+      "originalPath": "images/aa54b485bf55b98d5dc65b65.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-featured.jpg",
+      "path": "images/d1a049203b0696838997195a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-02.jpg",
+      "path": "../../nenaudojama/lunch/images/28e95e817f2d1eb51ac49e61.avif",
+      "archived": true,
+      "originalPath": "images/28e95e817f2d1eb51ac49e61.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-04.jpg",
+      "path": "../../nenaudojama/lunch/images/7aa1b490e401d1d7abbdc04c.avif",
+      "archived": true,
+      "originalPath": "images/7aa1b490e401d1d7abbdc04c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-06.jpg",
+      "path": "../../nenaudojama/lunch/images/1ace204e86ddddca8dbb8de9.jpg",
+      "archived": true,
+      "originalPath": "images/1ace204e86ddddca8dbb8de9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-03.jpg",
+      "path": "../../nenaudojama/lunch/images/442167b6d0ebf4b595f73473.avif",
+      "archived": true,
+      "originalPath": "images/442167b6d0ebf4b595f73473.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-09.jpg",
+      "path": "../../nenaudojama/lunch/images/9a57c0ebf27973dc4581bfbf.webp",
+      "archived": true,
+      "originalPath": "images/9a57c0ebf27973dc4581bfbf.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/81b7f234234f9d5d34473f39.avif",
+      "archived": true,
+      "originalPath": "images/81b7f234234f9d5d34473f39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f86c5c9630bbc1b5c33fca5b.avif",
+      "archived": true,
+      "originalPath": "images/f86c5c9630bbc1b5c33fca5b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/25cb30fe72a39478413e48df.jpg",
+      "archived": true,
+      "originalPath": "images/25cb30fe72a39478413e48df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fa38c187dcaebb44c98afa9c.jpg",
+      "archived": true,
+      "originalPath": "images/fa38c187dcaebb44c98afa9c.jpg"
+    }
+  ],
+  "featuredImage": "images/d1a049203b0696838997195a.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Thin Crust Low Carb Pizza",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Thin Crust Low Carb Pizza. The serving comes out to be 240 calories, 14.3g fats, 8.9g net carbs, and 19g protein.",
+    "datePublished": "2013-10-07T19:12:44+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "1 whole low-carb pita bread (like Joseph's)",
+      "2 tablespoon low-carb tomato sauce (like rao's)",
+      "2 ounce mozzarella cheese",
+      "1/8 teaspoon black pepper",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon crushed red pepper flakes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to a toasty 450F. Either brush the pieces of bread lightly with oil or spray both sides with cooking spray. Place in oven for 1 to 2 minutes to harden and toast the crust.",
+        "name": "Preheat oven to a toasty 450F. Either brush the pieces of bread lightly with oil or spray both sides with cooking spray. Place in oven for 1 to 2 minutes to harden and toast the crust.",
+        "url": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from oven and add the sauce.",
+        "name": "Remove from oven and add the sauce.",
+        "url": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add cheeses, mozzarella first. Then add toppings of your choice (don’t go too overboard…), being sure to log all topping macros.",
+        "name": "Add cheeses, mozzarella first. Then add toppings of your choice (don’t go too overboard…), being sure to log all topping macros.",
+        "url": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook for an additional ~3-6 minutes to melt cheese.",
+        "name": "Cook for an additional ~3-6 minutes to melt cheese.",
+        "url": "https://www.ruled.me/thin-crust-healthy-pizza/#wprm-recipe-50307-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, keto, low-carb, nut-free, oven-baked, quick, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "240 kcal",
+      "fatContent": "14.3 g",
+      "proteinContent": "19 g",
+      "carbohydrateContent": "8.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/thin-crust-healthy-pizza/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/thin-crust-healthy-pizza/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/thin-crust-healthy-pizza/"
+  },
+  "sourceIndex": {
+    "id": 601,
+    "rid": 50307,
+    "t": "Thin Crust Low Carb Pizza",
+    "u": "/thin-crust-healthy-pizza/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/thin-crust-healthy-pizza-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.9,
+    "cal": 240,
+    "pr": 19,
+    "fa": 14.3,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2013-10-07",
+    "cm": 10,
+    "ex": "Ketogenic Pizza, Low Carbohydrate Pizza, Healthy Pizza, Low-Calorie Pizza! - whatever name you give it, this perfect substitution for regular pizza is sure to be a hit. It hits most of the same notes",
+    "pv": 205
+  },
+  "sourceHtml": "pages/thin-crust-healthy-pizza.html",
+  "scrapedAt": "2026-11-07T08:18:27.735Z"
+}

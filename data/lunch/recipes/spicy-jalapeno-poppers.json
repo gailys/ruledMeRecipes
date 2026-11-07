@@ -1,0 +1,390 @@
+{
+  "id": "ruled-15874",
+  "slug": "spicy-jalapeno-poppers",
+  "title": "Spicy Jalapeno Poppers",
+  "url": "https://www.ruled.me/spicy-jalapeno-poppers/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Spicy Jalapeno Poppers. Each serving comes out to be 194 calories, 18.1g fats, 1.8g net carbs, and 5.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "fatContent": "18.1 g",
+    "proteinContent": "5.6 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 194,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 5.6,
+    "fatGrams": 18.1
+  },
+  "ingredients": [
+    "5 ounce cream cheese (softened)",
+    "1/4 cup mozzarella cheese (grated)",
+    "8 medium jalapeno pepper",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1/2 teaspoon all-purpose seasoning (like mrs. dash)",
+    "8 ounce bacon"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Wash the jalapeño peppers. Line a baking sheet with foil and remove the stems from the peppers.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5442.jpg"
+    },
+    {
+      "text": "Slice each pepper in half, cutting them as evenly as possible.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5452.jpg"
+    },
+    {
+      "text": "Use a spoon to scrape out the insides of the peppers (you can leave a few seeds for extra heat if you'd like).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5458.jpg"
+    },
+    {
+      "text": "In a bowl, combine the cream cheese, mozzarella, and spices — I used salt, pepper, and Mrs. Dash, but feel free to mix these up!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5460.jpg"
+    },
+    {
+      "text": "Fill half of the pepper halves with the cream cheese mixture, creating a mound that the other halves will fit on top of.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5469.jpg"
+    },
+    {
+      "text": "Close the peppers back up by pressing the empty halves on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5475.jpg"
+    },
+    {
+      "text": "Wrap each pepper in bacon, starting from the bottom and working your way up to the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5477.jpg"
+    },
+    {
+      "text": "Bake for 20–25 minutes or until the bacon is cooked through and beginning to crisp up. Broil for an additional 2–3 minutes to get a darker color and more crisp on the bacon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5482.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "game-day",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/JalapenoPoppers2.jpg",
+      "path": "images/7d31202ee9d0927820da1101.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5442.jpg",
+      "path": "../../nenaudojama/lunch/images/a12e45a84b43bf62534d6efd.avif",
+      "archived": true,
+      "originalPath": "images/a12e45a84b43bf62534d6efd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5452.jpg",
+      "path": "../../nenaudojama/lunch/images/7e5322ac508ae88fccbe7dc7.avif",
+      "archived": true,
+      "originalPath": "images/7e5322ac508ae88fccbe7dc7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5458.jpg",
+      "path": "../../nenaudojama/lunch/images/dbd530a8bd24d94a3c3b4a68.avif",
+      "archived": true,
+      "originalPath": "images/dbd530a8bd24d94a3c3b4a68.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5460.jpg",
+      "path": "../../nenaudojama/lunch/images/0bd82de9f9082ba857761ab6.avif",
+      "archived": true,
+      "originalPath": "images/0bd82de9f9082ba857761ab6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5469.jpg",
+      "path": "../../nenaudojama/lunch/images/3cb39016e22be5072778558c.jpg",
+      "archived": true,
+      "originalPath": "images/3cb39016e22be5072778558c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5475.jpg",
+      "path": "../../nenaudojama/lunch/images/ed628ef2a4305035c8f96d52.avif",
+      "archived": true,
+      "originalPath": "images/ed628ef2a4305035c8f96d52.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5477.jpg",
+      "path": "../../nenaudojama/lunch/images/d01991486d32b04666200dfa.avif",
+      "archived": true,
+      "originalPath": "images/d01991486d32b04666200dfa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5482.jpg",
+      "path": "../../nenaudojama/lunch/images/727657754fc12655b2ebd0e0.jpg",
+      "archived": true,
+      "originalPath": "images/727657754fc12655b2ebd0e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/JalapenoPoppersSecond.jpg",
+      "path": "../../nenaudojama/lunch/images/b2cc1e96b2ff0bbc6fd32b14.avif",
+      "archived": true,
+      "originalPath": "images/b2cc1e96b2ff0bbc6fd32b14.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/JalapenoPoppersLong.jpg",
+      "path": "../../nenaudojama/lunch/images/3fb62727ad85fd8a80a949bc.avif",
+      "archived": true,
+      "originalPath": "images/3fb62727ad85fd8a80a949bc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5442-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e0052fb20b25dca75297d00f.jpg",
+      "archived": true,
+      "originalPath": "images/e0052fb20b25dca75297d00f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5452-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/facc845cf0517d19aec1b1af.jpg",
+      "archived": true,
+      "originalPath": "images/facc845cf0517d19aec1b1af.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5458-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/62b52fd94f55dcf1a53d346a.jpg",
+      "archived": true,
+      "originalPath": "images/62b52fd94f55dcf1a53d346a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5460-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/43050c9632e22ff7ba7e8374.jpg",
+      "archived": true,
+      "originalPath": "images/43050c9632e22ff7ba7e8374.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5469-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/31993b199582e3b9e1f03394.jpg",
+      "archived": true,
+      "originalPath": "images/31993b199582e3b9e1f03394.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5475-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2f8942b1902b97cbf0dd5886.jpg",
+      "archived": true,
+      "originalPath": "images/2f8942b1902b97cbf0dd5886.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5477-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8a9804bee34b2bed2f3ae100.jpg",
+      "archived": true,
+      "originalPath": "images/8a9804bee34b2bed2f3ae100.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5482-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9ed1aa1e1215ed2ee574355b.avif",
+      "archived": true,
+      "originalPath": "images/9ed1aa1e1215ed2ee574355b.avif"
+    }
+  ],
+  "featuredImage": "images/7d31202ee9d0927820da1101.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spicy Jalapeno Poppers",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Spicy Jalapeno Poppers. Each serving comes out to be 194 calories, 18.1g fats, 1.8g net carbs, and 5.6g protein.",
+    "datePublished": "2014-06-03T16:12:06+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/06/JalapenoPoppers2.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "5 ounce cream cheese (softened)",
+      "1/4 cup mozzarella cheese (grated)",
+      "8 medium jalapeno pepper",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon all-purpose seasoning (like mrs. dash)",
+      "8 ounce bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Wash the jalapeño peppers. Line a baking sheet with foil and remove the stems from the peppers.",
+        "name": "Preheat oven to 400F. Wash the jalapeño peppers. Line a baking sheet with foil and remove the stems from the peppers.",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5442.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice each pepper in half, cutting them as evenly as possible.",
+        "name": "Slice each pepper in half, cutting them as evenly as possible.",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5452.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a spoon to scrape out the insides of the peppers (you can leave a few seeds for extra heat if you'd like).",
+        "name": "Use a spoon to scrape out the insides of the peppers (you can leave a few seeds for extra heat if you'd like).",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5458.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the cream cheese, mozzarella, and spices — I used salt, pepper, and Mrs. Dash, but feel free to mix these up!",
+        "name": "In a bowl, combine the cream cheese, mozzarella, and spices — I used salt, pepper, and Mrs. Dash, but feel free to mix these up!",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5460.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fill half of the pepper halves with the cream cheese mixture, creating a mound that the other halves will fit on top of.",
+        "name": "Fill half of the pepper halves with the cream cheese mixture, creating a mound that the other halves will fit on top of.",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5469.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Close the peppers back up by pressing the empty halves on top.",
+        "name": "Close the peppers back up by pressing the empty halves on top.",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5475.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wrap each pepper in bacon, starting from the bottom and working your way up to the top.",
+        "name": "Wrap each pepper in bacon, starting from the bottom and working your way up to the top.",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5477.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20–25 minutes or until the bacon is cooked through and beginning to crisp up. Broil for an additional 2–3 minutes to get a darker color and more crisp on the bacon.",
+        "name": "Bake for 20–25 minutes or until the bacon is cooked through and beginning to crisp up. Broil for an additional 2–3 minutes to get a darker color and more crisp on the bacon.",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5482.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/spicy-jalapeno-poppers/#wprm-recipe-51161-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, game-day, gluten-free, keto, low-carb, nut-free, oven-baked, party-food, pork, simple &amp; easy, simple-and-easy, spicy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "194 kcal",
+      "fatContent": "18.1 g",
+      "proteinContent": "5.6 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spicy-jalapeno-poppers/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spicy-jalapeno-poppers/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spicy-jalapeno-poppers/"
+  },
+  "sourceIndex": {
+    "id": 15874,
+    "rid": 51161,
+    "t": "Spicy Jalapeno Poppers",
+    "u": "/spicy-jalapeno-poppers/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/06/JalapenoPoppers2.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 1.8,
+    "cal": 194,
+    "pr": 5.6,
+    "fa": 18.1,
+    "tm": 35,
+    "sv": 8,
+    "kw": [
+      "egg-free",
+      "game-day",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2014-06-03",
+    "cm": 8,
+    "ex": "Jalapeno poppers are a great way to get flavor and fats into your dinner. If you're tired of oily meals and fatty soups, then this will be the perfect break for you. The cream cheese stays soft and",
+    "pv": 702
+  },
+  "sourceHtml": "pages/spicy-jalapeno-poppers.html",
+  "scrapedAt": "2026-11-07T08:18:05.774Z"
+}

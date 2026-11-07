@@ -1,0 +1,307 @@
+{
+  "id": "ruled-7808",
+  "slug": "spicy-pulled-pork-lettuce-wraps",
+  "title": "Spicy Pulled Pork Lettuce Wraps",
+  "url": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This will make 6 whole rolled lettuce wraps. You can chop them in half and come out with 3 total servings. Each serving is 2 whole lettuce wraps (halved) and comes out to: 338 Calories, 25.6g Fats, 2.4g Net Carbs, and 23.7g Protein.",
+  "servings": 6,
+  "yield": [
+    "6"
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "totalMinutes": null,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "338 kcal",
+    "fatContent": "25.6 g",
+    "proteinContent": "23.7 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 338,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 23.7,
+    "fatGrams": 25.6
+  },
+  "ingredients": [
+    "5 Leftover Pork Loin Ribs with Keto BBQ Sauce",
+    "6 Pieces Butter Lettuce",
+    "1/3 Yellow Bell Pepper",
+    "1/4 Medium Onion",
+    "2 tsp. Chili Garlic Paste",
+    "1/2 tsp. Red Pepper Flakes"
+  ],
+  "instructions": [
+    {
+      "text": "Chop up your peppers and onion into thin strips.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-01.jpg"
+    },
+    {
+      "text": "Break your ribs apart, taking the meat off the bone. You can use them cold or heated, whichever you prefer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-04.jpg"
+    },
+    {
+      "text": "Shred your meat into small pieces using a knife.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-06.jpg"
+    },
+    {
+      "text": "Lay your meat, some chili paste, onion and peppers onto a piece of butter lettuce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-08.jpg"
+    },
+    {
+      "text": "Roll the lettuce up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "pork",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "make-ahead",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/46618ccb65fa269e2cc5c3ed.avif",
+      "archived": true,
+      "originalPath": "images/46618ccb65fa269e2cc5c3ed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-featured.jpg",
+      "path": "images/37eb99088d04a3de7d44d21e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-01.jpg",
+      "path": "../../nenaudojama/lunch/images/feefe9842603739f899466da.jpg",
+      "archived": true,
+      "originalPath": "images/feefe9842603739f899466da.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-04.jpg",
+      "path": "../../nenaudojama/lunch/images/05af7d45ca27bc6557ebb472.jpg",
+      "archived": true,
+      "originalPath": "images/05af7d45ca27bc6557ebb472.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-06.jpg",
+      "path": "../../nenaudojama/lunch/images/f7b1b7f0293ddfa2ab3260ee.jpg",
+      "archived": true,
+      "originalPath": "images/f7b1b7f0293ddfa2ab3260ee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-08.jpg",
+      "path": "../../nenaudojama/lunch/images/86a08118a1b84a282a179b9a.jpg",
+      "archived": true,
+      "originalPath": "images/86a08118a1b84a282a179b9a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-03.jpg",
+      "path": "../../nenaudojama/lunch/images/3d17e7f4a96a3f3bcc7ce9ac.jpg",
+      "archived": true,
+      "originalPath": "images/3d17e7f4a96a3f3bcc7ce9ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-05.jpg",
+      "path": "../../nenaudojama/lunch/images/2a2068774f06109990bbc0e8.jpg",
+      "archived": true,
+      "originalPath": "images/2a2068774f06109990bbc0e8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/44cf52857fc6fbb23c7bfef4.jpg",
+      "archived": true,
+      "originalPath": "images/44cf52857fc6fbb23c7bfef4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/50f870688adc00573f743eab.jpg",
+      "archived": true,
+      "originalPath": "images/50f870688adc00573f743eab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/685cdae0f52b93d0b5469da5.jpg",
+      "archived": true,
+      "originalPath": "images/685cdae0f52b93d0b5469da5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/27fdefb9ef11339da589e327.jpg",
+      "archived": true,
+      "originalPath": "images/27fdefb9ef11339da589e327.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-08-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fe7b6b1716d921055ca846ac.jpg",
+      "archived": true,
+      "originalPath": "images/fe7b6b1716d921055ca846ac.jpg"
+    }
+  ],
+  "featuredImage": "images/37eb99088d04a3de7d44d21e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spicy Pulled Pork Lettuce Wraps",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This will make 6 whole rolled lettuce wraps. You can chop them in half and come out with 3 total servings. Each serving is 2 whole lettuce wraps (halved) and comes out to: 338 Calories, 25.6g Fats, 2.4g Net Carbs, and 23.7g Protein.",
+    "datePublished": "2014-02-03T16:19:15+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-featured.jpg"
+    ],
+    "recipeYield": [
+      "6"
+    ],
+    "recipeIngredient": [
+      "5 Leftover Pork Loin Ribs with Keto BBQ Sauce",
+      "6 Pieces Butter Lettuce",
+      "1/3 Yellow Bell Pepper",
+      "1/4 Medium Onion",
+      "2 tsp. Chili Garlic Paste",
+      "1/2 tsp. Red Pepper Flakes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop up your peppers and onion into thin strips.",
+        "name": "Chop up your peppers and onion into thin strips.",
+        "url": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Break your ribs apart, taking the meat off the bone. You can use them cold or heated, whichever you prefer.",
+        "name": "Break your ribs apart, taking the meat off the bone. You can use them cold or heated, whichever you prefer.",
+        "url": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred your meat into small pieces using a knife.",
+        "name": "Shred your meat into small pieces using a knife.",
+        "url": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay your meat, some chili paste, onion and peppers onto a piece of butter lettuce.",
+        "name": "Lay your meat, some chili paste, onion and peppers onto a piece of butter lettuce.",
+        "url": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll the lettuce up.",
+        "name": "Roll the lettuce up.",
+        "url": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#wprm-recipe-50797-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, packed-lunch, pork, simple-and-easy, spicy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "338 kcal",
+      "fatContent": "25.6 g",
+      "proteinContent": "23.7 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spicy-pulled-pork-lettuce-wraps/"
+  },
+  "sourceIndex": {
+    "id": 7808,
+    "rid": 50797,
+    "t": "Spicy Pulled Pork Lettuce Wraps",
+    "u": "/spicy-pulled-pork-lettuce-wraps/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/keto-pulled-pork-lettuce-wraps-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 2.4,
+    "cal": 338,
+    "pr": 23.7,
+    "fa": 25.6,
+    "tm": null,
+    "sv": 6,
+    "kw": [
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "pork",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "make-ahead",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-02-03",
+    "cm": 0,
+    "ex": "So I had the ribs that I made last week sitting in my fridge and I thought it was about time I put them to use. I figured a spicy, yet refreshing lettuce wrap would be awesome! And boy...was I right",
+    "pv": 127
+  },
+  "sourceHtml": "pages/spicy-pulled-pork-lettuce-wraps.html",
+  "scrapedAt": "2026-11-07T08:18:20.560Z"
+}

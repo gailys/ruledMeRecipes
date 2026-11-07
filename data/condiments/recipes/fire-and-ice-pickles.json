@@ -1,0 +1,283 @@
+{
+  "id": "ruled-26701",
+  "slug": "fire-and-ice-pickles",
+  "title": "Fire & Ice Pickles",
+  "url": "https://www.ruled.me/fire-and-ice-pickles/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Fire & Ice Pickles. Each serving comes out to be 7 calories, 0.1g fats, 0.8g net carbs, and 0.2g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT720M",
+  "totalTime": "PT730M",
+  "totalMinutes": 730,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "7 kcal",
+    "fatContent": "0.1 g",
+    "proteinContent": "0.2 g",
+    "carbohydrateContent": "0.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 7,
+    "netCarbsGrams": 0.8,
+    "proteinGrams": 0.2,
+    "fatGrams": 0.1
+  },
+  "ingredients": [
+    "6 ounce cucumber",
+    "1/2 cup water",
+    "1/2 cup white vinegar",
+    "1/4 cup erythritol",
+    "1/2 teaspoon crushed red pepper flakes",
+    "1/2 teaspoon cayenne pepper",
+    "1/4 teaspoon celery seed",
+    "15 drop liquid stevia",
+    "2 tablespoon onion (chopped)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Use a mandoline or knife to cut the cucumbers into very thin slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_68301.jpg"
+    },
+    {
+      "text": "Add the water, vinegar, and erythritol together and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_68361.jpg"
+    },
+    {
+      "text": "Finally, add the remaining spices, liquid stevia, and onion to the container. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_68401.jpg"
+    },
+    {
+      "text": "Transfer the pickles to a sealed jar and refrigerate for at least 12 hours. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/fireicepickles1.jpg",
+      "path": "../../nenaudojama/condiments/images/e143382d73ef0b1acdbfab4a.avif",
+      "archived": true,
+      "originalPath": "images/e143382d73ef0b1acdbfab4a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_68301.jpg",
+      "path": "../../nenaudojama/condiments/images/16e8b26002173cad3f60882b.jpg",
+      "archived": true,
+      "originalPath": "images/16e8b26002173cad3f60882b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_68361.jpg",
+      "path": "../../nenaudojama/condiments/images/8bc7395702a6ae3a3dd6a59c.jpg",
+      "archived": true,
+      "originalPath": "images/8bc7395702a6ae3a3dd6a59c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_68401.jpg",
+      "path": "../../nenaudojama/condiments/images/f305bf19cbd088585b8f4ff0.jpg",
+      "archived": true,
+      "originalPath": "images/f305bf19cbd088585b8f4ff0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/fireicepicklessecond.jpg",
+      "path": "../../nenaudojama/condiments/images/47b124ae1d46159f03e6b84b.jpg",
+      "archived": true,
+      "originalPath": "images/47b124ae1d46159f03e6b84b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/fireicepickleslong1.jpg",
+      "path": "../../nenaudojama/condiments/images/513b46d0418da7955fa8463c.jpg",
+      "archived": true,
+      "originalPath": "images/513b46d0418da7955fa8463c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_68301-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/ee9d6014af42f6c96f947991.jpg",
+      "archived": true,
+      "originalPath": "images/ee9d6014af42f6c96f947991.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_68361-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/aa781bb0a817c8c8f429c29d.jpg",
+      "archived": true,
+      "originalPath": "images/aa781bb0a817c8c8f429c29d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_68401-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/bc0887b028c966b683aee066.jpg",
+      "archived": true,
+      "originalPath": "images/bc0887b028c966b683aee066.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/e143382d73ef0b1acdbfab4a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fire & Ice Pickles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 10 servings of Fire &amp; Ice Pickles. Each serving comes out to be 7 calories, 0.1g fats, 0.8g net carbs, and 0.2g protein.",
+    "datePublished": "2015-08-11T17:21:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/08/fireicepickles1.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT720M",
+    "totalTime": "PT730M",
+    "recipeIngredient": [
+      "6 ounce cucumber",
+      "1/2 cup water",
+      "1/2 cup white vinegar",
+      "1/4 cup erythritol",
+      "1/2 teaspoon crushed red pepper flakes",
+      "1/2 teaspoon cayenne pepper",
+      "1/4 teaspoon celery seed",
+      "15 drop liquid stevia",
+      "2 tablespoon onion (chopped)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Use a mandoline or knife to cut the cucumbers into very thin slices.",
+        "name": "Use a mandoline or knife to cut the cucumbers into very thin slices.",
+        "url": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_68301.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the water, vinegar, and erythritol together and mix well.",
+        "name": "Add the water, vinegar, and erythritol together and mix well.",
+        "url": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_68361.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, add the remaining spices, liquid stevia, and onion to the container. Season with salt and pepper to taste.",
+        "name": "Finally, add the remaining spices, liquid stevia, and onion to the container. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_68401.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the pickles to a sealed jar and refrigerate for at least 12 hours. Enjoy!",
+        "name": "Transfer the pickles to a sealed jar and refrigerate for at least 12 hours. Enjoy!",
+        "url": "https://www.ruled.me/fire-and-ice-pickles/#wprm-recipe-51797-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, simple &amp; easy, simple-and-easy, spicy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "7 kcal",
+      "fatContent": "0.1 g",
+      "proteinContent": "0.2 g",
+      "carbohydrateContent": "0.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fire-and-ice-pickles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fire-and-ice-pickles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fire-and-ice-pickles/"
+  },
+  "sourceIndex": {
+    "id": 26701,
+    "rid": 51797,
+    "t": "Fire and Ice Pickles",
+    "u": "/fire-and-ice-pickles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/08/fireicepickles1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.8,
+    "cal": 7,
+    "pr": 0.2,
+    "fa": 0.1,
+    "tm": 730,
+    "sv": 10,
+    "kw": [
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2015-08-11",
+    "cm": 9,
+    "ex": "Sweet, sour, spicy, and absolutely addicting. These pickles combine multiple layers of flavor into a simplistic pickle that you can add to almost any dish. Grill up a burger, some hotdogs, or just",
+    "pv": 194
+  },
+  "sourceHtml": "pages/fire-and-ice-pickles.html",
+  "scrapedAt": "2026-11-07T08:33:30.211Z"
+}

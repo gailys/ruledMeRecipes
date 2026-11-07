@@ -1,0 +1,353 @@
+{
+  "id": "ruled-37483",
+  "slug": "garlic-butter-braised-cabbage",
+  "title": "Garlic Butter Braised Cabbage",
+  "url": "https://www.ruled.me/garlic-butter-braised-cabbage/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Garlic Butter Braised Cabbage. Each serving comes out to be 110 calories, 8.6g fats, 5.7g net carbs, and 1.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "fatContent": "8.6 g",
+    "proteinContent": "1.5 g",
+    "carbohydrateContent": "5.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 110,
+    "netCarbsGrams": 5.7,
+    "proteinGrams": 1.5,
+    "fatGrams": 8.6
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "1/4 cup onion (diced)",
+    "2 teaspoon fresh garlic (minced)",
+    "1 cup vegetable broth",
+    "1/4 medium green cabbage (cut in 1-inch thick slices)",
+    "2 tablespoon worcestershire sauce",
+    "1/4 cup sour cream",
+    "salt (to taste)",
+    "garlic powder (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Melt the butter in a large skillet. Be sure to use a skillet or frying pan with a lid to properly braise!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-01.jpg"
+    },
+    {
+      "text": "Add chopped onion and minced garlic to the butter and sauté on medium heat until the onion is translucent and the garlic is fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-02.jpg"
+    },
+    {
+      "text": "Add broth and bring to a simmer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-03.jpg"
+    },
+    {
+      "text": "Reduce heat to medium-low and add cabbage slices in an even layer. If they don’t all fit, stacking them will work, too. You may also want to cut one slice in half to make it all fit! Cover with the lid and let the cabbage cook for about 20 minutes or until very tender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-04.jpg"
+    },
+    {
+      "text": "Once tender, carefully remove the cabbage from the pan and set aside while you make the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-05.jpg"
+    },
+    {
+      "text": "Add the Worcestershire sauce to the pan and bring the sauce back to a simmer. Stir in the sour cream and mix until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-06.jpg"
+    },
+    {
+      "text": "Pour the cream sauce over the braised cabbage and garnish with optional salt and garlic powder. A garlic-herb blend seasoning works very well with this dish. Portion into four equal servings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "budget-friendly",
+    "comfort-food",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/ec8e671aeaf3ec2bf882184c.jpg",
+      "archived": true,
+      "originalPath": "images/ec8e671aeaf3ec2bf882184c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/a5f8f23a2c9a3e8479847d67.avif",
+      "archived": true,
+      "originalPath": "images/a5f8f23a2c9a3e8479847d67.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-01.jpg",
+      "path": "../../nenaudojama/side-items/images/efb066f8f5f37811a93db25d.avif",
+      "archived": true,
+      "originalPath": "images/efb066f8f5f37811a93db25d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-02.jpg",
+      "path": "../../nenaudojama/side-items/images/9b0511ed9c2842d9ac23a47c.avif",
+      "archived": true,
+      "originalPath": "images/9b0511ed9c2842d9ac23a47c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-03.jpg",
+      "path": "../../nenaudojama/side-items/images/8993aff1bab8714e69d2fb42.jpg",
+      "archived": true,
+      "originalPath": "images/8993aff1bab8714e69d2fb42.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-04.jpg",
+      "path": "../../nenaudojama/side-items/images/fb294e987d7631443c33a0c5.jpg",
+      "archived": true,
+      "originalPath": "images/fb294e987d7631443c33a0c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-05.jpg",
+      "path": "../../nenaudojama/side-items/images/94037e79f1d2c49b8e721b37.jpg",
+      "archived": true,
+      "originalPath": "images/94037e79f1d2c49b8e721b37.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-06.jpg",
+      "path": "../../nenaudojama/side-items/images/69d2f2ad468c33feead72ada.avif",
+      "archived": true,
+      "originalPath": "images/69d2f2ad468c33feead72ada.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-second.jpg",
+      "path": "../../nenaudojama/side-items/images/0d2cceac4c91e14e4ef07550.jpg",
+      "archived": true,
+      "originalPath": "images/0d2cceac4c91e14e4ef07550.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-07.jpg",
+      "path": "../../nenaudojama/side-items/images/2999456fa36d5734ed82f070.avif",
+      "archived": true,
+      "originalPath": "images/2999456fa36d5734ed82f070.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/7babf4c37bc844dd849720a1.avif",
+      "archived": true,
+      "originalPath": "images/7babf4c37bc844dd849720a1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/ae8116ad90d56ccac0f843d5.avif",
+      "archived": true,
+      "originalPath": "images/ae8116ad90d56ccac0f843d5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/91efdab2675c415fb4bb1817.avif",
+      "archived": true,
+      "originalPath": "images/91efdab2675c415fb4bb1817.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3f02de769579fccc1358ed93.avif",
+      "archived": true,
+      "originalPath": "images/3f02de769579fccc1358ed93.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/247ad9144377705b3a75bcf5.jpg",
+      "archived": true,
+      "originalPath": "images/247ad9144377705b3a75bcf5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/22d62d3918343aa6968747f5.jpg",
+      "archived": true,
+      "originalPath": "images/22d62d3918343aa6968747f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-06-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/492f85c62768543ff5a752af.jpg",
+      "archived": true,
+      "originalPath": "images/492f85c62768543ff5a752af.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/a5f8f23a2c9a3e8479847d67.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Garlic Butter Braised Cabbage",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Garlic Butter Braised Cabbage. Each serving comes out to be 110 calories, 8.6g fats, 5.7g net carbs, and 1.5g protein.",
+    "datePublished": "2018-06-26T11:00:20+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "1/4 cup onion (diced)",
+      "2 teaspoon fresh garlic (minced)",
+      "1 cup vegetable broth",
+      "1/4 medium green cabbage (cut in 1-inch thick slices)",
+      "2 tablespoon worcestershire sauce",
+      "1/4 cup sour cream",
+      "salt (to taste)",
+      "garlic powder (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a large skillet. Be sure to use a skillet or frying pan with a lid to properly braise!",
+        "name": "Melt the butter in a large skillet. Be sure to use a skillet or frying pan with a lid to properly braise!",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add chopped onion and minced garlic to the butter and sauté on medium heat until the onion is translucent and the garlic is fragrant.",
+        "name": "Add chopped onion and minced garlic to the butter and sauté on medium heat until the onion is translucent and the garlic is fragrant.",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add broth and bring to a simmer.",
+        "name": "Add broth and bring to a simmer.",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce heat to medium-low and add cabbage slices in an even layer. If they don’t all fit, stacking them will work, too. You may also want to cut one slice in half to make it all fit! Cover with the lid and let the cabbage cook for about 20 minutes or until very tender.",
+        "name": "Reduce heat to medium-low and add cabbage slices in an even layer. If they don’t all fit, stacking them will work, too. You may also want to cut one slice in half to make it all fit! Cover with the lid and let the cabbage cook for about 20 minutes or until very tender.",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once tender, carefully remove the cabbage from the pan and set aside while you make the sauce.",
+        "name": "Once tender, carefully remove the cabbage from the pan and set aside while you make the sauce.",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Worcestershire sauce to the pan and bring the sauce back to a simmer. Stir in the sour cream and mix until well combined.",
+        "name": "Add the Worcestershire sauce to the pan and bring the sauce back to a simmer. Stir in the sour cream and mix until well combined.",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the cream sauce over the braised cabbage and garnish with optional salt and garlic powder. A garlic-herb blend seasoning works very well with this dish. Portion into four equal servings.",
+        "name": "Pour the cream sauce over the braised cabbage and garnish with optional salt and garlic powder. A garlic-herb blend seasoning works very well with this dish. Portion into four equal servings.",
+        "url": "https://www.ruled.me/garlic-butter-braised-cabbage/#wprm-recipe-52631-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, budget-friendly, comfort-food, egg-free, keto, low-carb, nut-free, simple-and-easy, stovetop, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "110 kcal",
+      "fatContent": "8.6 g",
+      "proteinContent": "1.5 g",
+      "carbohydrateContent": "5.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/garlic-butter-braised-cabbage/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/garlic-butter-braised-cabbage/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/garlic-butter-braised-cabbage/"
+  },
+  "sourceIndex": {
+    "id": 37483,
+    "rid": 52631,
+    "t": "Garlic Butter Braised Cabbage",
+    "u": "/garlic-butter-braised-cabbage/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-butter-braised-cabbage-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 5.7,
+    "cal": 110,
+    "pr": 1.5,
+    "fa": 8.6,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "budget-friendly",
+      "comfort-food",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2018-06-26",
+    "cm": 0,
+    "ex": "It seems like I am continually trying to find the perfect side dish to keep me from sneaking and snacking on the carb-laden foods that my family provides for parties. I’m always tempted with the",
+    "pv": 458
+  },
+  "sourceHtml": "pages/garlic-butter-braised-cabbage.html",
+  "scrapedAt": "2026-11-07T08:32:24.144Z"
+}

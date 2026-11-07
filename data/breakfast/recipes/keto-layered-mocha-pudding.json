@@ -1,0 +1,335 @@
+{
+  "id": "ruled-47368",
+  "slug": "keto-layered-mocha-pudding",
+  "title": "Keto Layered Mocha Pudding",
+  "url": "https://www.ruled.me/keto-layered-mocha-pudding/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Layered Mocha Pudding. Each serving comes out to be 344 calories, 21.9g fats, 6g net carbs, and 11.9g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "344 kcal",
+    "fatContent": "21.9 g",
+    "proteinContent": "11.9 g",
+    "carbohydrateContent": "6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 344,
+    "netCarbsGrams": 6,
+    "proteinGrams": 11.9,
+    "fatGrams": 21.9
+  },
+  "ingredients": [
+    "2/3 cup chia seeds",
+    "1 1/2 cup unsweetened almond milk",
+    "1 cup brewed coffee",
+    "4 tablespoon erythritol",
+    "1/3 cup chia seeds",
+    "1 cup unsweetened almond milk",
+    "2 tablespoon erythritol",
+    "1 tablespoon cocoa powder"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-1.jpg"
+    },
+    {
+      "text": "Start with the coffee layer by adding the chia seeds to a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-2.jpg"
+    },
+    {
+      "text": "Add in the almond milk, brewed coffee, and erythritol for the coffee layer. Pulse until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-3.jpg"
+    },
+    {
+      "text": "Pour evenly into jars while blending the cocoa layer together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-4.jpg"
+    },
+    {
+      "text": "Blend the chia seeds, almond milk, erythritol, and cocoa powder. Evenly layer on top of the coffee layer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-bake",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/35bb6cd455a9e4ae09ce6140.jpg",
+      "archived": true,
+      "originalPath": "images/35bb6cd455a9e4ae09ce6140.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Featured.jpg",
+      "path": "images/dac009431a7cc44fcfc38e45.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/faeea8a79643b4bdff25bd0d.jpg",
+      "archived": true,
+      "originalPath": "images/faeea8a79643b4bdff25bd0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/60bf284322ab9e22dd43b530.avif",
+      "archived": true,
+      "originalPath": "images/60bf284322ab9e22dd43b530.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/4dd90a28fcf3fc1a2e0773a6.jpg",
+      "archived": true,
+      "originalPath": "images/4dd90a28fcf3fc1a2e0773a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/4b6a1ab8858a915463a3087a.avif",
+      "archived": true,
+      "originalPath": "images/4b6a1ab8858a915463a3087a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/e4400778cb5edafc52b30ff4.jpg",
+      "archived": true,
+      "originalPath": "images/e4400778cb5edafc52b30ff4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/350c4c504529ba6defe82d96.avif",
+      "archived": true,
+      "originalPath": "images/350c4c504529ba6defe82d96.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/e148dd96b4a84adbf981f284.avif",
+      "archived": true,
+      "originalPath": "images/e148dd96b4a84adbf981f284.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/e58a1e9d4c17bc3ba46536f2.avif",
+      "archived": true,
+      "originalPath": "images/e58a1e9d4c17bc3ba46536f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c5481ebe44f046d0d44dbefc.avif",
+      "archived": true,
+      "originalPath": "images/c5481ebe44f046d0d44dbefc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/939dc8a069a0c66855c3a605.avif",
+      "archived": true,
+      "originalPath": "images/939dc8a069a0c66855c3a605.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/19df47c1aa450e8c1030bafe.avif",
+      "archived": true,
+      "originalPath": "images/19df47c1aa450e8c1030bafe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ef714d8635962d2963fc0aca.avif",
+      "archived": true,
+      "originalPath": "images/ef714d8635962d2963fc0aca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8148176b0969725c358d123a.avif",
+      "archived": true,
+      "originalPath": "images/8148176b0969725c358d123a.avif"
+    }
+  ],
+  "featuredImage": "images/dac009431a7cc44fcfc38e45.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Layered Mocha Pudding",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 3 servings of Keto Layered Mocha Pudding. Each serving comes out to be 344 calories, 21.9g fats, 6g net carbs, and 11.9g protein.",
+    "datePublished": "2022-07-19T09:00:19+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2/3 cup chia seeds",
+      "1 1/2 cup unsweetened almond milk",
+      "1 cup brewed coffee",
+      "4 tablespoon erythritol",
+      "1/3 cup chia seeds",
+      "1 cup unsweetened almond milk",
+      "2 tablespoon erythritol",
+      "1 tablespoon cocoa powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start with the coffee layer by adding the chia seeds to a blender.",
+        "name": "Start with the coffee layer by adding the chia seeds to a blender.",
+        "url": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the almond milk, brewed coffee, and erythritol for the coffee layer. Pulse until smooth.",
+        "name": "Add in the almond milk, brewed coffee, and erythritol for the coffee layer. Pulse until smooth.",
+        "url": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour evenly into jars while blending the cocoa layer together.",
+        "name": "Pour evenly into jars while blending the cocoa layer together.",
+        "url": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend the chia seeds, almond milk, erythritol, and cocoa powder. Evenly layer on top of the coffee layer.",
+        "name": "Blend the chia seeds, almond milk, erythritol, and cocoa powder. Evenly layer on top of the coffee layer.",
+        "url": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-layered-mocha-pudding/#wprm-recipe-54271-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, no-bake, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "344 kcal",
+      "fatContent": "21.9 g",
+      "proteinContent": "11.9 g",
+      "carbohydrateContent": "6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-layered-mocha-pudding/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-layered-mocha-pudding/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-layered-mocha-pudding/"
+  },
+  "sourceIndex": {
+    "id": 47368,
+    "rid": 54271,
+    "t": "Keto Layered Mocha Pudding",
+    "u": "/keto-layered-mocha-pudding/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Layered-Mocha-Pudding-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 6,
+    "cal": 344,
+    "pr": 11.9,
+    "fa": 21.9,
+    "tm": 15,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-bake",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2022-07-19",
+    "cm": 0,
+    "ex": "Going keto doesn’t mean giving up tasty desserts. This layered mocha pudding is easy to make and tastes amazing. It’s great for a dessert or to make as a snack during the day. Whipping up this",
+    "pv": 91
+  },
+  "sourceHtml": "pages/keto-layered-mocha-pudding.html",
+  "scrapedAt": "2026-11-07T08:11:12.244Z"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "ruled-44377",
+  "slug": "bacon-loaded-cauliflower-casserole",
+  "title": "Loaded Cauliflower Casserole",
+  "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Loaded Cauliflower Casserole . Each serving comes out to be 451 calories, 38.1g fats, 6.4g net carbs, and 19.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "451 kcal",
+    "fatContent": "38.1 g",
+    "proteinContent": "19.7 g",
+    "carbohydrateContent": "6.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 451,
+    "netCarbsGrams": 6.4,
+    "proteinGrams": 19.7,
+    "fatGrams": 38.1
+  },
+  "ingredients": [
+    "4 ounce bacon",
+    "16 ounce cauliflower",
+    "2/3 cup sour cream",
+    "8 ounce cheddar cheese (shredded)",
+    "2 tablespoon fresh chives",
+    "2 teaspoon fresh garlic (minced)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 375F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-1.jpg"
+    },
+    {
+      "text": "Chop the bacon into small pieces. Fry in a pan over medium-high heat until crispy. Set aside, reserving the bacon fat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-2.jpg"
+    },
+    {
+      "text": "Bring a pot of salted water to a boil. Add the cauliflower into the boiling water, breaking into smaller pieces as you place them into the pot. Boil until fork-tender. When done, drain completely.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-3.jpg"
+    },
+    {
+      "text": "Chop the cooked cauliflower into smaller pieces. In a bowl, combine the chopped cauliflower, sour cream, and minced garlic. Then, mix in about half of the cheese, half of the bacon fat, and half of the chives. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-4.jpg"
+    },
+    {
+      "text": "Add this mixture to a baking pan and top it off with the remaining cheddar cheese. Bake in the oven for 10-15 minutes or until the cheese has melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-5.jpg"
+    },
+    {
+      "text": "Top with bacon, remaining bacon fat, remaining chives, and season with additional salt and pepper if desired. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/fdbdb5cb46ec8bd0b7731d83.jpg",
+      "archived": true,
+      "originalPath": "images/fdbdb5cb46ec8bd0b7731d83.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Featured.jpg",
+      "path": "images/81880d12ac51b9ba1efcf907.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-1.jpg",
+      "path": "../../nenaudojama/dinner/images/d05f2ea46463747dcc2b4aee.jpg",
+      "archived": true,
+      "originalPath": "images/d05f2ea46463747dcc2b4aee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-2.jpg",
+      "path": "../../nenaudojama/dinner/images/0c0ff3302a02b2f9e2fc8c6a.jpg",
+      "archived": true,
+      "originalPath": "images/0c0ff3302a02b2f9e2fc8c6a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-3.jpg",
+      "path": "../../nenaudojama/dinner/images/c38807c1049eab866341585b.jpg",
+      "archived": true,
+      "originalPath": "images/c38807c1049eab866341585b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-4.jpg",
+      "path": "../../nenaudojama/dinner/images/b1f58211d13ff005d3cc6f8a.jpg",
+      "archived": true,
+      "originalPath": "images/b1f58211d13ff005d3cc6f8a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-5.jpg",
+      "path": "../../nenaudojama/dinner/images/fe90ef24b4a514340a7798a3.jpg",
+      "archived": true,
+      "originalPath": "images/fe90ef24b4a514340a7798a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/0e8679542461fbf023c84e0f.jpg",
+      "archived": true,
+      "originalPath": "images/0e8679542461fbf023c84e0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/2d9076ec723099b50f2b7f10.jpg",
+      "archived": true,
+      "originalPath": "images/2d9076ec723099b50f2b7f10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/0bf971801e254af9a7fb335e.jpg",
+      "archived": true,
+      "originalPath": "images/0bf971801e254af9a7fb335e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b29bbeddc9a213921f6c8495.jpg",
+      "archived": true,
+      "originalPath": "images/b29bbeddc9a213921f6c8495.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/79a6dcae4ed0bd5ea2b9c5c5.avif",
+      "archived": true,
+      "originalPath": "images/79a6dcae4ed0bd5ea2b9c5c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e6d633509c143dcdc0e350c0.jpg",
+      "archived": true,
+      "originalPath": "images/e6d633509c143dcdc0e350c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6a4f27f16d46b70b9bae0fef.avif",
+      "archived": true,
+      "originalPath": "images/6a4f27f16d46b70b9bae0fef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/11a58b50774a57428fb77710.avif",
+      "archived": true,
+      "originalPath": "images/11a58b50774a57428fb77710.avif"
+    }
+  ],
+  "featuredImage": "images/81880d12ac51b9ba1efcf907.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Loaded Cauliflower Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Loaded Cauliflower Casserole . Each serving comes out to be 451 calories, 38.1g fats, 6.4g net carbs, and 19.7g protein.",
+    "datePublished": "2020-12-08T10:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "4 ounce bacon",
+      "16 ounce cauliflower",
+      "2/3 cup sour cream",
+      "8 ounce cheddar cheese (shredded)",
+      "2 tablespoon fresh chives",
+      "2 teaspoon fresh garlic (minced)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 375F.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 375F.",
+        "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the bacon into small pieces. Fry in a pan over medium-high heat until crispy. Set aside, reserving the bacon fat.",
+        "name": "Chop the bacon into small pieces. Fry in a pan over medium-high heat until crispy. Set aside, reserving the bacon fat.",
+        "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of salted water to a boil. Add the cauliflower into the boiling water, breaking into smaller pieces as you place them into the pot. Boil until fork-tender. When done, drain completely.",
+        "name": "Bring a pot of salted water to a boil. Add the cauliflower into the boiling water, breaking into smaller pieces as you place them into the pot. Boil until fork-tender. When done, drain completely.",
+        "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the cooked cauliflower into smaller pieces. In a bowl, combine the chopped cauliflower, sour cream, and minced garlic. Then, mix in about half of the cheese, half of the bacon fat, and half of the chives. Season with salt and pepper to taste.",
+        "name": "Chop the cooked cauliflower into smaller pieces. In a bowl, combine the chopped cauliflower, sour cream, and minced garlic. Then, mix in about half of the cheese, half of the bacon fat, and half of the chives. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add this mixture to a baking pan and top it off with the remaining cheddar cheese. Bake in the oven for 10-15 minutes or until the cheese has melted.",
+        "name": "Add this mixture to a baking pan and top it off with the remaining cheddar cheese. Bake in the oven for 10-15 minutes or until the cheese has melted.",
+        "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with bacon, remaining bacon fat, remaining chives, and season with additional salt and pepper if desired. Enjoy!",
+        "name": "Top with bacon, remaining bacon fat, remaining chives, and season with additional salt and pepper if desired. Enjoy!",
+        "url": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#wprm-recipe-53581-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner",
+      "Lunch",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "451 kcal",
+      "fatContent": "38.1 g",
+      "proteinContent": "19.7 g",
+      "carbohydrateContent": "6.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-loaded-cauliflower-casserole/"
+  },
+  "sourceIndex": {
+    "id": 44377,
+    "rid": 53581,
+    "t": "Bacon Loaded Cauliflower Casserole",
+    "u": "/bacon-loaded-cauliflower-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/11/Loaded-Cauliflower-Casserole-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.4,
+    "cal": 451,
+    "pr": 19.7,
+    "fa": 38.1,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop"
+    ],
+    "d": "2020-12-08",
+    "cm": 0,
+    "ex": "The creamy cauliflower in this dish is paired perfectly with the shredded cheddar cheese, sour cream, and the crispy bacon. I like to keep the bacon fat in the pan after the bacon is finished cooking",
+    "pv": 230
+  },
+  "sourceHtml": "pages/bacon-loaded-cauliflower-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.272Z"
+}

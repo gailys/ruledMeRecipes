@@ -1,0 +1,356 @@
+{
+  "id": "ruled-12059",
+  "slug": "cheesy-creamed-spinach",
+  "title": "Cheesy Creamed Spinach",
+  "url": "https://www.ruled.me/cheesy-creamed-spinach/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Cheesy Creamed Spinach. Each serving comes out to be 313 calories, 28.1g fats, 2.6g net carbs, and 12.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": null,
+  "cookTime": "PT10M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "313 kcal",
+    "fatContent": "28.1 g",
+    "proteinContent": "12.5 g",
+    "carbohydrateContent": "2.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 313,
+    "netCarbsGrams": 2.6,
+    "proteinGrams": 12.5,
+    "fatGrams": 28.1
+  },
+  "ingredients": [
+    "3 tablespoon butter",
+    "1 1/2 cup cheddar cheese",
+    "7 cup spinach",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "1/2 teaspoon all-purpose seasoning (such as Mrs. Dash)",
+    "3 tablespoon heavy whipping cream"
+  ],
+  "instructions": [
+    {
+      "text": "Melt the butter in a pan over medium-low heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-04.jpg"
+    },
+    {
+      "text": "Shred the cheddar cheese as the butter mets.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-03.jpg"
+    },
+    {
+      "text": "Once the butter has melted, add the spinach to the pan. Next, add the seasonings: salt, pepper, and Mrs. Dash Table Blend.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-06.jpg"
+    },
+    {
+      "text": "Allow the spinach to wilt, then add in the shredded cheddar cheese and heavy cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-08.jpg"
+    },
+    {
+      "text": "Mix everything well until the cheese melts down and the sauce is smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-09.jpg"
+    },
+    {
+      "text": "Move the spinach to one side of the pan and turn the heat up to medium-high. Allow the sauce to reduce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-12.jpg"
+    },
+    {
+      "text": "Once reduced, mix again and serve hot. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-11.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/d24fe2393c968629d9f9400e.avif",
+      "archived": true,
+      "originalPath": "images/d24fe2393c968629d9f9400e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/6a946efa15f4bc832df45729.jpg",
+      "archived": true,
+      "originalPath": "images/6a946efa15f4bc832df45729.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-04.jpg",
+      "path": "../../nenaudojama/side-items/images/000b1a9dd11c03a7dcbe1030.jpg",
+      "archived": true,
+      "originalPath": "images/000b1a9dd11c03a7dcbe1030.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-03.jpg",
+      "path": "../../nenaudojama/side-items/images/6dd569937522fc69b8ebe76b.avif",
+      "archived": true,
+      "originalPath": "images/6dd569937522fc69b8ebe76b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-06.jpg",
+      "path": "../../nenaudojama/side-items/images/59f7dc70e99c4a31d64ff1ec.jpg",
+      "archived": true,
+      "originalPath": "images/59f7dc70e99c4a31d64ff1ec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-08.jpg",
+      "path": "../../nenaudojama/side-items/images/5c3cc88c2e7f75f1d3c309fb.avif",
+      "archived": true,
+      "originalPath": "images/5c3cc88c2e7f75f1d3c309fb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-09.jpg",
+      "path": "../../nenaudojama/side-items/images/848acb747c19f8fa5bab6768.avif",
+      "archived": true,
+      "originalPath": "images/848acb747c19f8fa5bab6768.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-12.jpg",
+      "path": "../../nenaudojama/side-items/images/eb7991f8eecfe21c6a2d9a29.avif",
+      "archived": true,
+      "originalPath": "images/eb7991f8eecfe21c6a2d9a29.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-11.jpg",
+      "path": "../../nenaudojama/side-items/images/ead530bfb1ab62ff40d3c433.jpg",
+      "archived": true,
+      "originalPath": "images/ead530bfb1ab62ff40d3c433.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/8c64f95ffd4b7c9d7899fe04.avif",
+      "archived": true,
+      "originalPath": "images/8c64f95ffd4b7c9d7899fe04.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/09c58fd1c67061b395e4bf23.jpg",
+      "archived": true,
+      "originalPath": "images/09c58fd1c67061b395e4bf23.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/53d1d2535149bae78a6f40d2.avif",
+      "archived": true,
+      "originalPath": "images/53d1d2535149bae78a6f40d2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-06-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/803bb0e541bfc7148dc0137d.avif",
+      "archived": true,
+      "originalPath": "images/803bb0e541bfc7148dc0137d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-08-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/aa6cbf0cefd7cbc48d98a0b4.jpg",
+      "archived": true,
+      "originalPath": "images/aa6cbf0cefd7cbc48d98a0b4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-09-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/8c1e8120892cdaa77f639151.avif",
+      "archived": true,
+      "originalPath": "images/8c1e8120892cdaa77f639151.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-12-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7d53c73758f2365e8e15df5a.jpg",
+      "archived": true,
+      "originalPath": "images/7d53c73758f2365e8e15df5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-11-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/8ae3c8a46ff2124eddf41dc8.avif",
+      "archived": true,
+      "originalPath": "images/8ae3c8a46ff2124eddf41dc8.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/6a946efa15f4bc832df45729.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheesy Creamed Spinach",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Cheesy Creamed Spinach. Each serving comes out to be 313 calories, 28.1g fats, 2.6g net carbs, and 12.5g protein.",
+    "datePublished": "2014-03-27T16:15:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "cookTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "3 tablespoon butter",
+      "1 1/2 cup cheddar cheese",
+      "7 cup spinach",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon all-purpose seasoning (such as Mrs. Dash)",
+      "3 tablespoon heavy whipping cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a pan over medium-low heat.",
+        "name": "Melt the butter in a pan over medium-low heat.",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the cheddar cheese as the butter mets.",
+        "name": "Shred the cheddar cheese as the butter mets.",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the butter has melted, add the spinach to the pan. Next, add the seasonings: salt, pepper, and Mrs. Dash Table Blend.",
+        "name": "Once the butter has melted, add the spinach to the pan. Next, add the seasonings: salt, pepper, and Mrs. Dash Table Blend.",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow the spinach to wilt, then add in the shredded cheddar cheese and heavy cream.",
+        "name": "Allow the spinach to wilt, then add in the shredded cheddar cheese and heavy cream.",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything well until the cheese melts down and the sauce is smooth.",
+        "name": "Mix everything well until the cheese melts down and the sauce is smooth.",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Move the spinach to one side of the pan and turn the heat up to medium-high. Allow the sauce to reduce.",
+        "name": "Move the spinach to one side of the pan and turn the heat up to medium-high. Allow the sauce to reduce.",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once reduced, mix again and serve hot. Enjoy!",
+        "name": "Once reduced, mix again and serve hot. Enjoy!",
+        "url": "https://www.ruled.me/cheesy-creamed-spinach/#wprm-recipe-50989-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-11.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "313 kcal",
+      "fatContent": "28.1 g",
+      "proteinContent": "12.5 g",
+      "carbohydrateContent": "2.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheesy-creamed-spinach/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheesy-creamed-spinach/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheesy-creamed-spinach/"
+  },
+  "sourceIndex": {
+    "id": 12059,
+    "rid": 50989,
+    "t": "Cheesy Creamed Spinach",
+    "u": "/cheesy-creamed-spinach/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/cheesy-creamed-spinach-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 2.6,
+    "cal": 313,
+    "pr": 12.5,
+    "fa": 28.1,
+    "tm": 10,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2014-03-27",
+    "cm": 12,
+    "ex": "A great pairing to almost any meal, this creamed spinach recipe is just ridiculously simple to make. Taking about 7 minutes in total, you'll have a fatty, delicious, micronutrient dense side dish in",
+    "pv": 496
+  },
+  "sourceHtml": "pages/cheesy-creamed-spinach.html",
+  "scrapedAt": "2026-11-07T08:33:01.897Z"
+}

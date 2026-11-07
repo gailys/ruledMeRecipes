@@ -1,0 +1,325 @@
+{
+  "id": "ruled-47454",
+  "slug": "keto-almond-mocha-frappuccino",
+  "title": "Keto Almond Mocha Frappuccino",
+  "url": "https://www.ruled.me/keto-almond-mocha-frappuccino/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Almond Mocha Frappuccino. Each serving comes out to be 305 calories, 23g fats, 4.8g net carbs, and 21.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "fatContent": "23 g",
+    "proteinContent": "21.4 g",
+    "carbohydrateContent": "4.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 305,
+    "netCarbsGrams": 4.8,
+    "proteinGrams": 21.4,
+    "fatGrams": 23
+  },
+  "ingredients": [
+    "3/4 cup canned coconut milk",
+    "1/4 cup brewed coffee (cooled)",
+    "1 tablespoon almond butter",
+    "1 tablespoon cocoa powder",
+    "45 gram pea protein",
+    "2 cup ice cubes"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-1.jpg"
+    },
+    {
+      "text": "Combine all of the ingredients into a blender. Blend until you reach your desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-2.jpg"
+    },
+    {
+      "text": "Using a spoon, drizzle extra almond butter onto the sides of the glass.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-3.jpg"
+    },
+    {
+      "text": "Pour into serving glasses and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/000afc25c4d8033b2fed145b.jpg",
+      "archived": true,
+      "originalPath": "images/000afc25c4d8033b2fed145b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Featured.jpg",
+      "path": "images/232fd409b7d87f7b6fcaa6cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/19a64110e63f78b44e35a4c5.jpg",
+      "archived": true,
+      "originalPath": "images/19a64110e63f78b44e35a4c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/8fc76807d732fdaaf2816980.avif",
+      "archived": true,
+      "originalPath": "images/8fc76807d732fdaaf2816980.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/5dba8b0dab1dc63bd8f65e50.avif",
+      "archived": true,
+      "originalPath": "images/5dba8b0dab1dc63bd8f65e50.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/cac2deebbd843ee658aa97ac.avif",
+      "archived": true,
+      "originalPath": "images/cac2deebbd843ee658aa97ac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/9682110e02b20f5611685dd3.jpg",
+      "archived": true,
+      "originalPath": "images/9682110e02b20f5611685dd3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/dea9746d2729e853dcd26ad6.avif",
+      "archived": true,
+      "originalPath": "images/dea9746d2729e853dcd26ad6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/930393f13d506d1210e35f7a.avif",
+      "archived": true,
+      "originalPath": "images/930393f13d506d1210e35f7a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f0143efe50d414043f83d2ba.avif",
+      "archived": true,
+      "originalPath": "images/f0143efe50d414043f83d2ba.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/49f8ddb8a174165096135f2c.avif",
+      "archived": true,
+      "originalPath": "images/49f8ddb8a174165096135f2c.avif"
+    }
+  ],
+  "featuredImage": "images/232fd409b7d87f7b6fcaa6cb.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Almond Mocha Frappuccino",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Almond Mocha Frappuccino. Each serving comes out to be 305 calories, 23g fats, 4.8g net carbs, and 21.4g protein.",
+    "datePublished": "2022-08-11T09:00:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Almond Mocha Frappuccino",
+      "description": "This recipe is a great way to transform an iced coffee into a protein-packed glass of deliciousness. It’s perfect for a snack, especially on a hot summer’s day. It will leave you both refreshed and energized.\n\nMaking this keto-friendly mocha Frappuccino is super easy and you most likely have all of the ingredients in your fridge and pantry already. Start by brewing up some coffee, followed by placing all of the ingredients (including the coffee) into a food processor and then blitzing it until it’s at your desired consistency. Pour it into a glass, and you’ve got yourself a delicious, keto-friendly treat. For some extra richness, add some whipped cream or coconut cream on top.\n\nThe main protein source in this concoction is pea protein powder. High-quality pea protein is a great source of iron and can help improve muscle growth and heart health. Putting it into a tasty drink like this is one of the best ways to consume it. The almond butter is also added to give you an extra hit of dairy-free protein.\n\nIf you’re looking for a keto-friendly sweet treat, why not make an almond mocha Frappuccino? It just might end up becoming your favorite way to consume your afternoon cup of joe!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n3/4 cup canned coconut milk\n1/4 cup brewed coffee, cooled\n1 tablespoon almond butter\n1 tablespoon cocoa powder\n45 gram pea protein\n2 cup ice cubes\n\nNutrition Summary: This makes a total of 2 servings of Keto Almond Mocha Frappuccino. Each serving comes out to be 305 calories, 23.1g fat, 4.8g net carbs, and 21.5g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-11-10T16:00:04+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 6960
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 374
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 13
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5hb5hA7fL5Y/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5hb5hA7fL5Y?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=5hb5hA7fL5Y",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup canned coconut milk",
+      "1/4 cup brewed coffee (cooled)",
+      "1 tablespoon almond butter",
+      "1 tablespoon cocoa powder",
+      "45 gram pea protein",
+      "2 cup ice cubes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all of the ingredients into a blender. Blend until you reach your desired consistency.",
+        "name": "Combine all of the ingredients into a blender. Blend until you reach your desired consistency.",
+        "url": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a spoon, drizzle extra almond butter onto the sides of the glass.",
+        "name": "Using a spoon, drizzle extra almond butter onto the sides of the glass.",
+        "url": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into serving glasses and enjoy!",
+        "name": "Pour into serving glasses and enjoy!",
+        "url": "https://www.ruled.me/keto-almond-mocha-frappuccino/#wprm-recipe-54291-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-bake, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "305 kcal",
+      "fatContent": "23 g",
+      "proteinContent": "21.4 g",
+      "carbohydrateContent": "4.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-almond-mocha-frappuccino/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-almond-mocha-frappuccino/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-almond-mocha-frappuccino/"
+  },
+  "sourceIndex": {
+    "id": 47454,
+    "rid": 54291,
+    "t": "Keto Almond Mocha Frappuccino",
+    "u": "/keto-almond-mocha-frappuccino/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Almond-Mocha-Frappuccino-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.8,
+    "cal": 305,
+    "pr": 21.4,
+    "fa": 23,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2022-08-11",
+    "cm": 0,
+    "ex": "This recipe is a great way to transform an iced coffee into a protein-packed glass of deliciousness. It's perfect for a snack, especially on a hot summer’s day. It will leave you both refreshed and",
+    "pv": 85
+  },
+  "sourceHtml": "pages/keto-almond-mocha-frappuccino.html",
+  "scrapedAt": "2026-11-07T08:11:12.211Z"
+}

@@ -1,0 +1,347 @@
+{
+  "id": "ruled-30774",
+  "slug": "feta-bacon-bites",
+  "title": "Feta and Bacon Bites",
+  "url": "https://www.ruled.me/feta-bacon-bites/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Feta and Bacon Bites. Each serving comes out to be 82 calories, 6.9g fats, 0.7g net carbs, and 4g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "fatContent": "6.9 g",
+    "proteinContent": "4 g",
+    "carbohydrateContent": "0.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 82,
+    "netCarbsGrams": 0.7,
+    "proteinGrams": 4,
+    "fatGrams": 6.9
+  },
+  "ingredients": [
+    "3/4 cup almond flour",
+    "2 cup mozzarella cheese (shredded)",
+    "8 slice cooked bacon (chopped bite-sized)",
+    "1/4 cup feta cheese (crumbled)",
+    "1/4 cup green onion (sliced)",
+    "3 tablespoon sriracha mayonnaise (such as Sarayo)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Gather ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step1.jpg"
+    },
+    {
+      "text": "In a nonstick pan over medium heat, combine the almond flour and mozzarella, stirring constantly. The mixture should take on a dough-like consistency after about 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step2.jpg"
+    },
+    {
+      "text": "Place the dough between two pieces of parchment paper and roll flat with a rolling pin.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step4.jpg"
+    },
+    {
+      "text": "Use a cookie cutter or glass to cut out one circle per bite. If you run out of dough, form the remaining pieces into a ball, reheat it on stove, and roll it out again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step5.jpg"
+    },
+    {
+      "text": "Place the circles of dough into a muffin pan using liners (or on a lined cookie sheet).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step6.jpg"
+    },
+    {
+      "text": "Top with the bacon, feta, and green onions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/feta-flathead-bites-step-9.jpg"
+    },
+    {
+      "text": "Bake for about 15 minutes or until the edges are browned. Let cool, peel off the liners and top with Sriracha mayo. (Or you can make your own by mixing Sriracha and mayo.) Season to taste and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/5f9e8343f1ac2f14b2979cfe.avif",
+      "archived": true,
+      "originalPath": "images/5f9e8343f1ac2f14b2979cfe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-featured.jpg",
+      "path": "../../nenaudojama/snacks/images/019fcd8e053d54240dc90319.jpg",
+      "archived": true,
+      "originalPath": "images/019fcd8e053d54240dc90319.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step1.jpg",
+      "path": "../../nenaudojama/snacks/images/42ecc4e5bc915993f251185b.jpg",
+      "archived": true,
+      "originalPath": "images/42ecc4e5bc915993f251185b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step2.jpg",
+      "path": "../../nenaudojama/snacks/images/338fb6051362c9163942ea45.avif",
+      "archived": true,
+      "originalPath": "images/338fb6051362c9163942ea45.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step4.jpg",
+      "path": "../../nenaudojama/snacks/images/258926e8e59a6edf1501a3b1.jpg",
+      "archived": true,
+      "originalPath": "images/258926e8e59a6edf1501a3b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step5.jpg",
+      "path": "../../nenaudojama/snacks/images/4fc8995d33971411a9981b2c.jpg",
+      "archived": true,
+      "originalPath": "images/4fc8995d33971411a9981b2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step6.jpg",
+      "path": "../../nenaudojama/snacks/images/1b140ebd09b816d134083f1f.jpg",
+      "archived": true,
+      "originalPath": "images/1b140ebd09b816d134083f1f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-flathead-bites-step-9.jpg",
+      "path": "../../nenaudojama/snacks/images/d5cf333c0aed5b984b5fad09.jpg",
+      "archived": true,
+      "originalPath": "images/d5cf333c0aed5b984b5fad09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-2nd.jpg",
+      "path": "../../nenaudojama/snacks/images/1797bb4fc7fbc0cf4e3934b6.jpg",
+      "archived": true,
+      "originalPath": "images/1797bb4fc7fbc0cf4e3934b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step3.jpg",
+      "path": "../../nenaudojama/snacks/images/243d4c44428a664f15548655.jpg",
+      "archived": true,
+      "originalPath": "images/243d4c44428a664f15548655.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/88155d705a0404c61c1adf60.jpg",
+      "archived": true,
+      "originalPath": "images/88155d705a0404c61c1adf60.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/eb7c7543912f6c531d0fcd60.jpg",
+      "archived": true,
+      "originalPath": "images/eb7c7543912f6c531d0fcd60.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/232fabbf64b405e36566d5cd.avif",
+      "archived": true,
+      "originalPath": "images/232fabbf64b405e36566d5cd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4352ba992ffdab66968c12b8.jpg",
+      "archived": true,
+      "originalPath": "images/4352ba992ffdab66968c12b8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step5-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/d8a66f9c7a7837dfa4bb067a.avif",
+      "archived": true,
+      "originalPath": "images/d8a66f9c7a7837dfa4bb067a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step6-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/acb40e3adbd3fb49f31bbeca.jpg",
+      "archived": true,
+      "originalPath": "images/acb40e3adbd3fb49f31bbeca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/feta-flathead-bites-step-9-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/023533cf9e76837ebf7e6795.avif",
+      "archived": true,
+      "originalPath": "images/023533cf9e76837ebf7e6795.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/019fcd8e053d54240dc90319.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Feta and Bacon Bites",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 24 servings of Feta and Bacon Bites. Each serving comes out to be 82 calories, 6.9g fats, 0.7g net carbs, and 4g protein.",
+    "datePublished": "2017-05-30T11:00:20+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-featured.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "3/4 cup almond flour",
+      "2 cup mozzarella cheese (shredded)",
+      "8 slice cooked bacon (chopped bite-sized)",
+      "1/4 cup feta cheese (crumbled)",
+      "1/4 cup green onion (sliced)",
+      "3 tablespoon sriracha mayonnaise (such as Sarayo)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Gather ingredients.",
+        "name": "Preheat oven to 350F. Gather ingredients.",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a nonstick pan over medium heat, combine the almond flour and mozzarella, stirring constantly. The mixture should take on a dough-like consistency after about 5 minutes.",
+        "name": "In a nonstick pan over medium heat, combine the almond flour and mozzarella, stirring constantly. The mixture should take on a dough-like consistency after about 5 minutes.",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the dough between two pieces of parchment paper and roll flat with a rolling pin.",
+        "name": "Place the dough between two pieces of parchment paper and roll flat with a rolling pin.",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a cookie cutter or glass to cut out one circle per bite. If you run out of dough, form the remaining pieces into a ball, reheat it on stove, and roll it out again.",
+        "name": "Use a cookie cutter or glass to cut out one circle per bite. If you run out of dough, form the remaining pieces into a ball, reheat it on stove, and roll it out again.",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the circles of dough into a muffin pan using liners (or on a lined cookie sheet).",
+        "name": "Place the circles of dough into a muffin pan using liners (or on a lined cookie sheet).",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-step6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the bacon, feta, and green onions.",
+        "name": "Top with the bacon, feta, and green onions.",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/feta-flathead-bites-step-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for about 15 minutes or until the edges are browned. Let cool, peel off the liners and top with Sriracha mayo. (Or you can make your own by mixing Sriracha and mayo.) Season to taste and enjoy!",
+        "name": "Bake for about 15 minutes or until the edges are browned. Let cool, peel off the liners and top with Sriracha mayo. (Or you can make your own by mixing Sriracha and mayo.) Season to taste and enjoy!",
+        "url": "https://www.ruled.me/feta-bacon-bites/#wprm-recipe-52205-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, gluten-free, keto, low-carb, oven-baked, party-food, pork, quick, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "82 kcal",
+      "fatContent": "6.9 g",
+      "proteinContent": "4 g",
+      "carbohydrateContent": "0.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/feta-bacon-bites/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/feta-bacon-bites/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/feta-bacon-bites/"
+  },
+  "sourceIndex": {
+    "id": 30774,
+    "rid": 52205,
+    "t": "Feta and Bacon Bites",
+    "u": "/feta-bacon-bites/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/05/feta-fathead-bites-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 0.7,
+    "cal": 82,
+    "pr": 4,
+    "fa": 6.9,
+    "tm": 30,
+    "sv": 24,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2017-05-30",
+    "cm": 9,
+    "ex": "One of my favorite keto things to make is cheese based dough. It is incredibly versatile. These feta and bacon bites are just one of many things that you can make with this type of dough. Not only",
+    "pv": 313
+  },
+  "sourceHtml": "pages/feta-bacon-bites.html",
+  "scrapedAt": "2026-11-07T08:31:16.880Z"
+}

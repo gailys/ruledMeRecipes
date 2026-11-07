@@ -1,0 +1,309 @@
+{
+  "id": "ruled-44259",
+  "slug": "keto-pickle-sandwiches",
+  "title": "Keto Pickle Sandwiches",
+  "url": "https://www.ruled.me/keto-pickle-sandwiches/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Pickle Sandwiches . Each serving comes out to be 494 calories, 40.6g fats, 8.3g net carbs, and 21.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "494 kcal",
+    "fatContent": "40.6 g",
+    "proteinContent": "21.8 g",
+    "carbohydrateContent": "8.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 494,
+    "netCarbsGrams": 8.3,
+    "proteinGrams": 21.8,
+    "fatGrams": 40.6
+  },
+  "ingredients": [
+    "4 large dill pickle",
+    "4 tablespoon mayonnaise",
+    "1 1/2 teaspoon yellow mustard",
+    "2 ounce deli sliced turkey",
+    "2 ounce italian dry salami",
+    "1 medium fresh tomatoes (sliced)",
+    "2 ounce iceberg lettuce",
+    "2 ounce cheddar cheese",
+    "1/4 medium red onion (sliced)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-1.jpg"
+    },
+    {
+      "text": "Cut each pickle in half, lengthwise. Scoop out the seeds of the pickle and then some so it makes a little boat where you can easily put the mayonnaise and mustard without it squeezing out the sides of the sandwich.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-2.jpg"
+    },
+    {
+      "text": "In a bowl, mix the mayonnaise and mustard together. Put this on one side of the pickle, where you scooped the seeds out from.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-3.jpg"
+    },
+    {
+      "text": "Place the turkey, salami, tomato slices, lettuce leaves, cheese, and onion on top of the sauce. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-4.jpg"
+    },
+    {
+      "text": "Place the other half of the pickle on top. Secure it down with a toothpick, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/8b21ed9d9a9560c96ccbbda2.jpg",
+      "archived": true,
+      "originalPath": "images/8b21ed9d9a9560c96ccbbda2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/f51441543e74b30b1365c0ef.jpg",
+      "archived": true,
+      "originalPath": "images/f51441543e74b30b1365c0ef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-1.jpg",
+      "path": "../../nenaudojama/snacks/images/dad3633675ec9d5a335b227e.jpg",
+      "archived": true,
+      "originalPath": "images/dad3633675ec9d5a335b227e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-2.jpg",
+      "path": "../../nenaudojama/snacks/images/1798a13bbd6b9d70d06c1917.jpg",
+      "archived": true,
+      "originalPath": "images/1798a13bbd6b9d70d06c1917.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-3.jpg",
+      "path": "../../nenaudojama/snacks/images/0554fd070891845d2fa59022.jpg",
+      "archived": true,
+      "originalPath": "images/0554fd070891845d2fa59022.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-4.jpg",
+      "path": "../../nenaudojama/snacks/images/d8cea6894077880c35435b7b.jpg",
+      "archived": true,
+      "originalPath": "images/d8cea6894077880c35435b7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/bc16fbd4c1916d72513e965d.jpg",
+      "archived": true,
+      "originalPath": "images/bc16fbd4c1916d72513e965d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/b78f700c41c9afa1ab859ef9.jpg",
+      "archived": true,
+      "originalPath": "images/b78f700c41c9afa1ab859ef9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/73bd4430d2e473ba1d666cf5.jpg",
+      "archived": true,
+      "originalPath": "images/73bd4430d2e473ba1d666cf5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/ad5b68a192e51f7b9d5f7e24.jpg",
+      "archived": true,
+      "originalPath": "images/ad5b68a192e51f7b9d5f7e24.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/f95a702983e63c1707b87ce2.avif",
+      "archived": true,
+      "originalPath": "images/f95a702983e63c1707b87ce2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/0c7e282a1fe972fb1faa9071.jpg",
+      "archived": true,
+      "originalPath": "images/0c7e282a1fe972fb1faa9071.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/17f338b4ecb395e1b30fcc80.avif",
+      "archived": true,
+      "originalPath": "images/17f338b4ecb395e1b30fcc80.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/f51441543e74b30b1365c0ef.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pickle Sandwiches",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Pickle Sandwiches . Each serving comes out to be 494 calories, 40.6g fats, 8.3g net carbs, and 21.8g protein.",
+    "datePublished": "2020-11-19T10:00:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "4 large dill pickle",
+      "4 tablespoon mayonnaise",
+      "1 1/2 teaspoon yellow mustard",
+      "2 ounce deli sliced turkey",
+      "2 ounce italian dry salami",
+      "1 medium fresh tomatoes (sliced)",
+      "2 ounce iceberg lettuce",
+      "2 ounce cheddar cheese",
+      "1/4 medium red onion (sliced)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut each pickle in half, lengthwise. Scoop out the seeds of the pickle and then some so it makes a little boat where you can easily put the mayonnaise and mustard without it squeezing out the sides of the sandwich.",
+        "name": "Cut each pickle in half, lengthwise. Scoop out the seeds of the pickle and then some so it makes a little boat where you can easily put the mayonnaise and mustard without it squeezing out the sides of the sandwich.",
+        "url": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the mayonnaise and mustard together. Put this on one side of the pickle, where you scooped the seeds out from.",
+        "name": "In a bowl, mix the mayonnaise and mustard together. Put this on one side of the pickle, where you scooped the seeds out from.",
+        "url": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the turkey, salami, tomato slices, lettuce leaves, cheese, and onion on top of the sauce. Season with salt and pepper to taste.",
+        "name": "Place the turkey, salami, tomato slices, lettuce leaves, cheese, and onion on top of the sauce. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the other half of the pickle on top. Secure it down with a toothpick, and enjoy!",
+        "name": "Place the other half of the pickle on top. Secure it down with a toothpick, and enjoy!",
+        "url": "https://www.ruled.me/keto-pickle-sandwiches/#wprm-recipe-53577-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, no-cook, nut-free, packed-lunch, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "494 kcal",
+      "fatContent": "40.6 g",
+      "proteinContent": "21.8 g",
+      "carbohydrateContent": "8.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-pickle-sandwiches/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pickle-sandwiches/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pickle-sandwiches/"
+  },
+  "sourceIndex": {
+    "id": 44259,
+    "rid": 53577,
+    "t": "Keto Pickle Sandwiches",
+    "u": "/keto-pickle-sandwiches/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 8.3,
+    "cal": 494,
+    "pr": 21.8,
+    "fa": 40.6,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2020-11-19",
+    "cm": 0,
+    "ex": "Craving sandwiches, but haven't had anything to replace the bread since you started keto? Well, look no further than these savory pickle sandwiches! All the classics of a \"regular\" sandwich, just",
+    "pv": 287
+  },
+  "sourceHtml": "pages/keto-pickle-sandwiches.html",
+  "scrapedAt": "2026-11-07T08:30:55.265Z"
+}

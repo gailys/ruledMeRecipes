@@ -1,0 +1,348 @@
+{
+  "id": "ruled-43133",
+  "slug": "one-pan-keto-salmon-and-asparagus",
+  "title": "One-Pan Keto Salmon and Asparagus",
+  "url": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of One-Pan Keto Salmon and Asparagus. Each serving comes out to be 495 calories, 39g fats, 3.4g net carbs, and 31.2g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "495 kcal",
+    "fatContent": "39 g",
+    "proteinContent": "31.2 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 495,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 31.2,
+    "fatGrams": 39
+  },
+  "ingredients": [
+    "8 ounce asparagus spears",
+    "4 tablespoon butter",
+    "9 ounce salmon (skin removed)",
+    "salt and pepper",
+    "1/2 medium lemon"
+  ],
+  "instructions": [
+    {
+      "text": "Rinse the asparagus and cut the bottoms of the spears off.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-02.jpg"
+    },
+    {
+      "text": "Heat half of the butter in a pan (that can fit the asparagus and salmon) over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-03.jpg"
+    },
+    {
+      "text": "Fry the asparagus for 4-5 minutes until cooked but not soft. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-04.jpg"
+    },
+    {
+      "text": "Add the remaining butter to the pan, then add the salmon. Season with salt and pepper. Cook the salmon on both sides until cooked through. Stir the asparagus occasionally.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-05.jpg"
+    },
+    {
+      "text": "Serve in a bowl with the pan drippings. Squeeze lemon over salmon and asparagus.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/92ff5adf1b9508270d2faa40.jpg",
+      "archived": true,
+      "originalPath": "images/92ff5adf1b9508270d2faa40.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-featured.jpg",
+      "path": "images/1301ba8ea8c3c3cc0a6b96a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-02.jpg",
+      "path": "../../nenaudojama/dinner/images/77f9224d486dcd0c4acc0714.avif",
+      "archived": true,
+      "originalPath": "images/77f9224d486dcd0c4acc0714.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-03.jpg",
+      "path": "../../nenaudojama/dinner/images/6d76f363aaae362206a7508a.avif",
+      "archived": true,
+      "originalPath": "images/6d76f363aaae362206a7508a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-04.jpg",
+      "path": "../../nenaudojama/dinner/images/734d9861ce6d38d8fc91c0c1.avif",
+      "archived": true,
+      "originalPath": "images/734d9861ce6d38d8fc91c0c1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-05.jpg",
+      "path": "../../nenaudojama/dinner/images/5c456520f31fe83079450c0e.avif",
+      "archived": true,
+      "originalPath": "images/5c456520f31fe83079450c0e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-second.jpg",
+      "path": "../../nenaudojama/dinner/images/1fa721112dac093bc3a1c305.avif",
+      "archived": true,
+      "originalPath": "images/1fa721112dac093bc3a1c305.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-pin.png",
+      "path": "../../nenaudojama/dinner/images/1324024928ef4acb37559cda.png",
+      "archived": true,
+      "originalPath": "images/1324024928ef4acb37559cda.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/8dd9a78873aba5c81d7c2b28.jpg",
+      "archived": true,
+      "originalPath": "images/8dd9a78873aba5c81d7c2b28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0363666af3bd0fb30d954db5.avif",
+      "archived": true,
+      "originalPath": "images/0363666af3bd0fb30d954db5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1afbc6c685bf8ea6a27add7b.jpg",
+      "archived": true,
+      "originalPath": "images/1afbc6c685bf8ea6a27add7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ca57a409547397e440a91c51.avif",
+      "archived": true,
+      "originalPath": "images/ca57a409547397e440a91c51.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/65b3d0edf80da3d3db882ec6.avif",
+      "archived": true,
+      "originalPath": "images/65b3d0edf80da3d3db882ec6.avif"
+    }
+  ],
+  "featuredImage": "images/1301ba8ea8c3c3cc0a6b96a0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "One-Pan Keto Salmon and Asparagus",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of One-Pan Keto Salmon and Asparagus. Each serving comes out to be 495 calories, 39g fats, 3.4g net carbs, and 31.2g protein.",
+    "datePublished": "2020-05-19T09:14:20+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - One Pan Salmon and Asparagus",
+      "description": "Asparagus and salmon is a classic pairing that goes together exceptionally well. If you’re looking for a simple and easy dinner to create at home when you’re running low on time (but still want to stay healthy), consider adding this dish to your rotation. It’s a perfect keto meal that can be scaled up easily based on how many people you’re cooking for.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 ounce asparagus spears\n4 tablespoon butter\n9 ounce salmon\nsalt and pepper, to taste\n1/2 medium lemon\n\nNutrition Summary:\nMakes a total of 2 servings of One-Pan Keto Salmon and Asparagus. Each serving comes out to be 495 calories, 39g fat, 3.4g net carbs, and 31.2g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-10-05T15:00:03+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M2S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 80107
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 1234
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 20
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CECbmxjd5oc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CECbmxjd5oc?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=CECbmxjd5oc",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "8 ounce asparagus spears",
+      "4 tablespoon butter",
+      "9 ounce salmon (skin removed)",
+      "salt and pepper",
+      "1/2 medium lemon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the asparagus and cut the bottoms of the spears off.",
+        "name": "Rinse the asparagus and cut the bottoms of the spears off.",
+        "url": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat half of the butter in a pan (that can fit the asparagus and salmon) over medium heat.",
+        "name": "Heat half of the butter in a pan (that can fit the asparagus and salmon) over medium heat.",
+        "url": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the asparagus for 4-5 minutes until cooked but not soft. Season with salt and pepper.",
+        "name": "Fry the asparagus for 4-5 minutes until cooked but not soft. Season with salt and pepper.",
+        "url": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the remaining butter to the pan, then add the salmon. Season with salt and pepper. Cook the salmon on both sides until cooked through. Stir the asparagus occasionally.",
+        "name": "Add the remaining butter to the pan, then add the salmon. Season with salt and pepper. Cook the salmon on both sides until cooked through. Stir the asparagus occasionally.",
+        "url": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve in a bowl with the pan drippings. Squeeze lemon over salmon and asparagus.",
+        "name": "Serve in a bowl with the pan drippings. Squeeze lemon over salmon and asparagus.",
+        "url": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#wprm-recipe-53357-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, fish, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, one-pan meals, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "495 kcal",
+      "fatContent": "39 g",
+      "proteinContent": "31.2 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/one-pan-keto-salmon-and-asparagus/"
+  },
+  "sourceIndex": {
+    "id": 43133,
+    "rid": 53357,
+    "t": "One-Pan Keto Salmon and Asparagus",
+    "u": "/one-pan-keto-salmon-and-asparagus/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/05/salmon-and-asparagus-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.4,
+    "cal": 495,
+    "pr": 31.2,
+    "fa": 39,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2020-05-19",
+    "cm": 0,
+    "ex": "Asparagus and salmon is a classic pairing that goes together exceptionally well. If you're looking for a simple and easy dinner to create at home when you're running low on time (but still want to",
+    "pv": 488
+  },
+  "sourceHtml": "pages/one-pan-keto-salmon-and-asparagus.html",
+  "scrapedAt": "2026-11-07T08:27:44.395Z"
+}

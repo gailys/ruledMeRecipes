@@ -1,0 +1,330 @@
+{
+  "id": "ruled-645",
+  "slug": "fluffy-buttermilk-pancakes",
+  "title": "Fluffy Buttermilk Pancakes",
+  "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Fluffy Buttermilk Pancakes. The serving comes out to be 402 calories, 18.5g fats, 13.8g net carbs, and 38.5g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "402 kcal",
+    "fatContent": "18.5 g",
+    "proteinContent": "38.5 g",
+    "carbohydrateContent": "13.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 402,
+    "netCarbsGrams": 13.8,
+    "proteinGrams": 38.5,
+    "fatGrams": 18.5
+  },
+  "ingredients": [
+    "2 large egg (seperated)",
+    "1/2 cup egg white (or egg substitute*)",
+    "1/2 cup buttermilk",
+    "1 teaspoon vanilla extract",
+    "1/4 cup coconut flour",
+    "1 tablespoon low-carb protein powder (like isopure)",
+    "1 teaspoon baking powder",
+    "1/4 teaspoon ground cinnamon",
+    "1 tablespoon stevia/erythritol blend",
+    "cooking spray"
+  ],
+  "instructions": [
+    {
+      "text": "Beat the egg whites (from the whole eggs) with a pinch of salt until they have soft peaks. For the lazy (me), use a hand mixer with whisk attachment.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1.jpg"
+    },
+    {
+      "text": "Mix the buttermilk, egg yolks, liquid egg whites, and vanilla extract in a bowl (make sure it is mixed well).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-2.jpg"
+    },
+    {
+      "text": "In a separate bowl, whisk the coconut flour, protein powder, baking powder, and cinnamon. Add the dry ingredients to the wet and mix until combined!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-5.jpg"
+    },
+    {
+      "text": "Fold the whipped egg whites into the batter; make sure not to deflate the whites!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-6.jpg"
+    },
+    {
+      "text": "Preheat a nonstick skillet over medium-low heat. For each pancake, lightly grease the pan with butter. Then pour 1/4 cup of batter into the skillet, moving it slightly to distribute batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-7.jpg"
+    },
+    {
+      "text": "Cook until bubbles are visible on top, then flip the pancake over and cook until the other side is golden brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-8.jpg"
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1_featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/150d82f52e461423bdfc5ac6.jpg",
+      "archived": true,
+      "originalPath": "images/150d82f52e461423bdfc5ac6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1_featured.jpg",
+      "path": "images/d7027e89aa260578d61cddf8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/2b3cf817444c9fd148aed01e.avif",
+      "archived": true,
+      "originalPath": "images/2b3cf817444c9fd148aed01e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/4defa3738e7ea01028c991a5.avif",
+      "archived": true,
+      "originalPath": "images/4defa3738e7ea01028c991a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/827ca8bc83344f5637a5267e.avif",
+      "archived": true,
+      "originalPath": "images/827ca8bc83344f5637a5267e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/2f844a1bf71527ccfef82fb6.avif",
+      "archived": true,
+      "originalPath": "images/2f844a1bf71527ccfef82fb6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-7.jpg",
+      "path": "../../nenaudojama/breakfast/images/8936e007f43399452d982981.avif",
+      "archived": true,
+      "originalPath": "images/8936e007f43399452d982981.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-8.jpg",
+      "path": "../../nenaudojama/breakfast/images/9133dc96ef3f36b95e70cd76.avif",
+      "archived": true,
+      "originalPath": "images/9133dc96ef3f36b95e70cd76.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-13_2nd.jpg",
+      "path": "../../nenaudojama/breakfast/images/3bd3316d0b79afbde545c035.avif",
+      "archived": true,
+      "originalPath": "images/3bd3316d0b79afbde545c035.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-12.jpg",
+      "path": "../../nenaudojama/breakfast/images/c8bffc6a1f6afa24abfb74a8.avif",
+      "archived": true,
+      "originalPath": "images/c8bffc6a1f6afa24abfb74a8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1e1e09cdbab444741712569a.jpg",
+      "archived": true,
+      "originalPath": "images/1e1e09cdbab444741712569a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7673c79c6196f2f489cbb7eb.avif",
+      "archived": true,
+      "originalPath": "images/7673c79c6196f2f489cbb7eb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0ac61e7c8ca546d595946841.jpg",
+      "archived": true,
+      "originalPath": "images/0ac61e7c8ca546d595946841.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ac377f9f79acdf682f108820.avif",
+      "archived": true,
+      "originalPath": "images/ac377f9f79acdf682f108820.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-7-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/950411f081b4a6f79e0479f9.jpg",
+      "archived": true,
+      "originalPath": "images/950411f081b4a6f79e0479f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-8-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2b076168fe428591d17ba76e.jpg",
+      "archived": true,
+      "originalPath": "images/2b076168fe428591d17ba76e.jpg"
+    }
+  ],
+  "featuredImage": "images/d7027e89aa260578d61cddf8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fluffy Buttermilk Pancakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Fluffy Buttermilk Pancakes. The serving comes out to be 402 calories, 18.5g fats, 13.8g net carbs, and 38.5g protein.",
+    "datePublished": "2013-10-09T21:46:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1_featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "2 large egg (seperated)",
+      "1/2 cup egg white (or egg substitute*)",
+      "1/2 cup buttermilk",
+      "1 teaspoon vanilla extract",
+      "1/4 cup coconut flour",
+      "1 tablespoon low-carb protein powder (like isopure)",
+      "1 teaspoon baking powder",
+      "1/4 teaspoon ground cinnamon",
+      "1 tablespoon stevia/erythritol blend",
+      "cooking spray"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg whites (from the whole eggs) with a pinch of salt until they have soft peaks. For the lazy (me), use a hand mixer with whisk attachment.",
+        "name": "Beat the egg whites (from the whole eggs) with a pinch of salt until they have soft peaks. For the lazy (me), use a hand mixer with whisk attachment.",
+        "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the buttermilk, egg yolks, liquid egg whites, and vanilla extract in a bowl (make sure it is mixed well).",
+        "name": "Mix the buttermilk, egg yolks, liquid egg whites, and vanilla extract in a bowl (make sure it is mixed well).",
+        "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, whisk the coconut flour, protein powder, baking powder, and cinnamon. Add the dry ingredients to the wet and mix until combined!",
+        "name": "In a separate bowl, whisk the coconut flour, protein powder, baking powder, and cinnamon. Add the dry ingredients to the wet and mix until combined!",
+        "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold the whipped egg whites into the batter; make sure not to deflate the whites!",
+        "name": "Fold the whipped egg whites into the batter; make sure not to deflate the whites!",
+        "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a nonstick skillet over medium-low heat.  For each pancake, lightly grease the pan with butter.  Then pour 1/4 cup of batter into the skillet, moving it slightly to distribute batter.",
+        "name": "Preheat a nonstick skillet over medium-low heat.  For each pancake, lightly grease the pan with butter.  Then pour 1/4 cup of batter into the skillet, moving it slightly to distribute batter.",
+        "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until bubbles are visible on top, then flip the pancake over and cook until the other side is golden brown.",
+        "name": "Cook until bubbles are visible on top, then flip the pancake over and cook until the other side is golden brown.",
+        "url": "https://www.ruled.me/fluffy-buttermilk-pancakes/#wprm-recipe-50323-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-8.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, high-protein, keto, low-carb, simple &amp; easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "402 kcal",
+      "fatContent": "18.5 g",
+      "proteinContent": "38.5 g",
+      "carbohydrateContent": "13.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fluffy-buttermilk-pancakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fluffy-buttermilk-pancakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fluffy-buttermilk-pancakes/"
+  },
+  "sourceIndex": {
+    "id": 645,
+    "rid": 50323,
+    "t": "Keto Recipe: Fluffy Buttermilk Pancakes",
+    "u": "/fluffy-buttermilk-pancakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/Fluffy_Buttermilk_Pancakes-1_featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 13.8,
+    "cal": 402,
+    "pr": 38.5,
+    "fa": 18.5,
+    "tm": 35,
+    "sv": 1,
+    "kw": [
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "stovetop",
+      "high-protein"
+    ],
+    "d": "2013-10-09",
+    "cm": 29,
+    "ex": "You love 'em, I love 'em, we all love 'em. The little disks of joy have slipped into more than one of our dreams with their warm, fluffy texture and intoxicating smell. Even the most successful",
+    "pv": 239
+  },
+  "sourceHtml": "pages/fluffy-buttermilk-pancakes.html",
+  "scrapedAt": "2026-11-07T08:11:13.354Z"
+}

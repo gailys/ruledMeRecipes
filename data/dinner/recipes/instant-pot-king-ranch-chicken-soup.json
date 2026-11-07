@@ -1,0 +1,388 @@
+{
+  "id": "ruled-38366",
+  "slug": "instant-pot-king-ranch-chicken-soup",
+  "title": "Instant Pot King Ranch Chicken Soup",
+  "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Instant Pot King Ranch Chicken Soup. Each serving comes out to be 533 calories, 31.9g fats, 5g net carbs, and 53.8g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "533 kcal",
+    "fatContent": "31.9 g",
+    "proteinContent": "53.8 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 533,
+    "netCarbsGrams": 5,
+    "proteinGrams": 53.8,
+    "fatGrams": 31.9
+  },
+  "ingredients": [
+    "8 tablespoon butter",
+    "1/2 cup coconut flour",
+    "4 cup chicken broth",
+    "4 teaspoon chili powder",
+    "1 tablespoon cumin",
+    "1 tablespoon garlic powder",
+    "salt and pepper (To taste)",
+    "40 ounce boneless, skinless chicken breast",
+    "10 ounce canned tomatoes with green chiles",
+    "1 medium jalapeno pepper (diced, seeds removed)",
+    "1/2 cup heavy whipping cream",
+    "1 1/2 teaspoon xanthan gum",
+    "2 cup shredded mexican blend cheese",
+    "fresh cilantro (chopped, to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Turn the Instant Pot on to the low saute setting. Melt the butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-01.jpg"
+    },
+    {
+      "text": "Whisk in the coconut flour and cook for a few minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-02.jpg"
+    },
+    {
+      "text": "Stir in the chicken broth, then add chili powder, ground cumin, garlic powder, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-05.jpg"
+    },
+    {
+      "text": "Place the chicken breasts into the pot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-06.jpg"
+    },
+    {
+      "text": "Add the canned tomatoes with green chilies, along with the jalapeno.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-08.jpg"
+    },
+    {
+      "text": "Seal the Instant Pot, then pressure cook for 15 minutes. Once it's finished, do a manual release.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-09.jpg"
+    },
+    {
+      "text": "Stir in the heavy whipping cream and xanthan gum, then mix in the cheese. Top with chopped fresh cilantro, to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-11.jpg"
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "instant-pot",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/3b57d1763c6e8d6ea3c77b6c.jpg",
+      "archived": true,
+      "originalPath": "images/3b57d1763c6e8d6ea3c77b6c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-featured.jpg",
+      "path": "images/17da546f1897450a97a3b453.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-01.jpg",
+      "path": "../../nenaudojama/dinner/images/573ffda75f4d16ef63d43c9b.avif",
+      "archived": true,
+      "originalPath": "images/573ffda75f4d16ef63d43c9b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-02.jpg",
+      "path": "../../nenaudojama/dinner/images/16079710c88f7acaef19fb62.avif",
+      "archived": true,
+      "originalPath": "images/16079710c88f7acaef19fb62.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-05.jpg",
+      "path": "../../nenaudojama/dinner/images/86ce4f16c32a883cd5a89e78.avif",
+      "archived": true,
+      "originalPath": "images/86ce4f16c32a883cd5a89e78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-06.jpg",
+      "path": "../../nenaudojama/dinner/images/2b95d01e169c5c4dd1083247.avif",
+      "archived": true,
+      "originalPath": "images/2b95d01e169c5c4dd1083247.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-08.jpg",
+      "path": "../../nenaudojama/dinner/images/11011cf6265d17be29482e3b.jpg",
+      "archived": true,
+      "originalPath": "images/11011cf6265d17be29482e3b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-09.jpg",
+      "path": "../../nenaudojama/dinner/images/fefe5356dc72a8e332a18237.jpg",
+      "archived": true,
+      "originalPath": "images/fefe5356dc72a8e332a18237.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-11.jpg",
+      "path": "../../nenaudojama/dinner/images/cde4075aafcfd5bb326bbf56.jpg",
+      "archived": true,
+      "originalPath": "images/cde4075aafcfd5bb326bbf56.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-second.jpg",
+      "path": "../../nenaudojama/dinner/images/912b25e62a488429040bcf8b.avif",
+      "archived": true,
+      "originalPath": "images/912b25e62a488429040bcf8b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/a39f7835ce4915e9eafca777.jpg",
+      "archived": true,
+      "originalPath": "images/a39f7835ce4915e9eafca777.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/05a5699fd72644798ec16fff.jpg",
+      "archived": true,
+      "originalPath": "images/05a5699fd72644798ec16fff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4933dbb3b42cfdec30860c74.jpg",
+      "archived": true,
+      "originalPath": "images/4933dbb3b42cfdec30860c74.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5a7641a2b1114ba57997b7d3.jpg",
+      "archived": true,
+      "originalPath": "images/5a7641a2b1114ba57997b7d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f713b89c1d7035f0b5425003.jpg",
+      "archived": true,
+      "originalPath": "images/f713b89c1d7035f0b5425003.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dd5b7adfcc6a40e517ccb1ab.jpg",
+      "archived": true,
+      "originalPath": "images/dd5b7adfcc6a40e517ccb1ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0bd752809e2463fe8216db90.jpg",
+      "archived": true,
+      "originalPath": "images/0bd752809e2463fe8216db90.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-11-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2c7ddb56f82393799c435741.jpg",
+      "archived": true,
+      "originalPath": "images/2c7ddb56f82393799c435741.jpg"
+    }
+  ],
+  "featuredImage": "images/17da546f1897450a97a3b453.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Instant Pot King Ranch Chicken Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Instant Pot King Ranch Chicken Soup. Each serving comes out to be 533 calories, 31.9g fats, 5g net carbs, and 53.8g protein.",
+    "datePublished": "2018-10-25T11:00:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto King Ranch Chicken Soup [Instant Pot]",
+      "description": "This spicy chicken soup is wonderfully hearty and so easy to create. Chicken, butter, and spices are simmered in the Instant Pot then thickened up with cream, xanthan gum, and cheese. If you don’t have an Instant Pot you can also cook in a slow cooker for 4-6 hours.\n\nThis soup smells amazing! I always get compliments from other people in the house when I create it. I think you’ll like this if you enjoy our King Ranch Chicken Casserole, but don’t have a lot of time to create the low-carb tortillas.\n\nThis is great served with sour cream, cilantro, and extra cheese!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 tablespoons butter\n½ cup coconut flour\n4 cups chicken broth\n4 teaspoons chili powder\n1 tablespoon ground cumin\n1 tablespoon garlic powder\n1 teaspoon salt\nPepper to taste\n2.5 pounds boneless, skinless, chicken breasts\n1 (10-ounce) can diced tomatoes with green chilies\n1 medium jalapeno, diced with seeds removed\n½ cup heavy whipping cream\n1 ½ teaspoons xanthan gum\n2 cups shredded Mexican blend cheese\nChopped cilantro, to taste\n\nNutrition Summary: This makes a total of 8 (1-cup) servings of Instant Pot King Ranch Chicken Soup. Each serving comes out to be 463.13 Calories, 29.84g Fats, 4.62g Net Carbs, and 41.22g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-08-01T14:00:30+00:00",
+      "duration": "PT2M37S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zgmazV0a2zU/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/zgmazV0a2zU?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=zgmazV0a2zU",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "8 tablespoon butter",
+      "1/2 cup coconut flour",
+      "4 cup chicken broth",
+      "4 teaspoon chili powder",
+      "1 tablespoon cumin",
+      "1 tablespoon garlic powder",
+      "salt and pepper (To taste)",
+      "40 ounce boneless, skinless chicken breast",
+      "10 ounce canned tomatoes with green chiles",
+      "1 medium jalapeno pepper (diced, seeds removed)",
+      "1/2 cup heavy whipping cream",
+      "1 1/2 teaspoon xanthan gum",
+      "2 cup shredded mexican blend cheese",
+      "fresh cilantro (chopped, to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Turn the Instant Pot on to the low saute setting. Melt the butter.",
+        "name": "Turn the Instant Pot on to the low saute setting. Melt the butter.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in the coconut flour and cook for a few minutes.",
+        "name": "Whisk in the coconut flour and cook for a few minutes.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the chicken broth, then add chili powder, ground cumin, garlic powder, salt, and pepper.",
+        "name": "Stir in the chicken broth, then add chili powder, ground cumin, garlic powder, salt, and pepper.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken breasts into the pot.",
+        "name": "Place the chicken breasts into the pot.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the canned tomatoes with green chilies, along with the jalapeno.",
+        "name": "Add the canned tomatoes with green chilies, along with the jalapeno.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Seal the Instant Pot, then pressure cook for 15 minutes. Once it's finished, do a manual release.",
+        "name": "Seal the Instant Pot, then pressure cook for 15 minutes. Once it's finished, do a manual release.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the heavy whipping cream and xanthan gum, then mix in the cheese. Top with chopped fresh cilantro, to taste.",
+        "name": "Stir in the heavy whipping cream and xanthan gum, then mix in the cheese. Top with chopped fresh cilantro, to taste.",
+        "url": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#wprm-recipe-52766-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-11.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, comfort-food, egg-free, family-friendly, gluten-free, high-fat, high-protein, instant pot, keto, low-carb, nut-free, poultry, simple &amp; easy, simple-and-easy, spicy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "533 kcal",
+      "fatContent": "31.9 g",
+      "proteinContent": "53.8 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/instant-pot-king-ranch-chicken-soup/"
+  },
+  "sourceIndex": {
+    "id": 38366,
+    "rid": 52766,
+    "t": "Instant Pot King Ranch Chicken Soup",
+    "u": "/instant-pot-king-ranch-chicken-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/10/instant-pot-king-ranch-chicken-soup-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5,
+    "cal": 533,
+    "pr": 53.8,
+    "fa": 31.9,
+    "tm": 35,
+    "sv": 8,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "instant-pot",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free"
+    ],
+    "ni": 14,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2018-10-25",
+    "cm": 8,
+    "ex": "This spicy chicken soup is wonderfully hearty and so easy to create. Chicken, butter, and spices are simmered in the Instant Pot then thickened up with cream, xanthan gum, and cheese. If you don't",
+    "pv": 192
+  },
+  "sourceHtml": "pages/instant-pot-king-ranch-chicken-soup.html",
+  "scrapedAt": "2026-11-07T08:27:44.525Z"
+}

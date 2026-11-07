@@ -1,0 +1,344 @@
+{
+  "id": "ruled-14811",
+  "slug": "ginger-sesame-glazed-salmon",
+  "title": "Ginger Sesame Glazed Salmon",
+  "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Ginger Sesame Glazed Salmon. Each serving comes out to be 367 calories, 22.2g fats, 2.9g net carbs, and 33.3g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT15M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "367 kcal",
+    "fatContent": "22.2 g",
+    "proteinContent": "33.3 g",
+    "carbohydrateContent": "2.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 367,
+    "netCarbsGrams": 2.9,
+    "proteinGrams": 33.3,
+    "fatGrams": 22.2
+  },
+  "ingredients": [
+    "10 ounce salmon",
+    "2 tablespoon soy sauce (or coconut aminos)",
+    "2 teaspoon sesame oil",
+    "1 tablespoon unseasoned rice vinegar",
+    "1 teaspoon fresh ginger (minced)",
+    "2 teaspoon fresh garlic (minced)",
+    "1 tablespoon fish sauce",
+    "1 tablespoon low-carb ketchup",
+    "2 tablespoon dry white wine"
+  ],
+  "instructions": [
+    {
+      "text": "In a food storage container, combine soy sauce (or coconut aminos), rice vinegar, minced ginger, minced garlic, and fish sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2944.jpg"
+    },
+    {
+      "text": "Slice salmon filet into size of your choosing and place in marinade liquid, skin side up. Coat both sides and let fish sit in marinade for about 10-15 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2946.jpg"
+    },
+    {
+      "text": "Bring a pan to high heat and add sesame oil. Swirl pan to distribute oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2949.jpg"
+    },
+    {
+      "text": "Once you see the first wisp of smoke from the oil, add fish skin side down.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2950.jpg"
+    },
+    {
+      "text": "Cook fish skin side down until crisp, then flip and cook on the other side. This should take 3-4 minutes per side. Once you flip the fish, add all marinade ingredients to the pan and let it boil with the fish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2955.jpg"
+    },
+    {
+      "text": "Remove fish from pan and add sugar-free ketchup and white wine to the marinade sauce. Let simmer for 4-5 minutes to reduce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2961.jpg"
+    },
+    {
+      "text": "Serve sauce on the side and chop fresh cilantro to sprinkle on top. You can also garnish with black sesame seeds if you like!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SoySearedSalmon.jpg",
+      "path": "images/ba8228b3929f0daf9c869367.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2944.jpg",
+      "path": "../../nenaudojama/dinner/images/3a623a35462466c8acf75afd.jpg",
+      "archived": true,
+      "originalPath": "images/3a623a35462466c8acf75afd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2946.jpg",
+      "path": "../../nenaudojama/dinner/images/d2e119026a9649ab73cac439.avif",
+      "archived": true,
+      "originalPath": "images/d2e119026a9649ab73cac439.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2949.jpg",
+      "path": "../../nenaudojama/dinner/images/5c9dc444b43412e36ebcf490.avif",
+      "archived": true,
+      "originalPath": "images/5c9dc444b43412e36ebcf490.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2950.jpg",
+      "path": "../../nenaudojama/dinner/images/c372de837df9a9f7b9e3ca71.jpg",
+      "archived": true,
+      "originalPath": "images/c372de837df9a9f7b9e3ca71.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2955.jpg",
+      "path": "../../nenaudojama/dinner/images/666acd9f27d1818b849f9407.jpg",
+      "archived": true,
+      "originalPath": "images/666acd9f27d1818b849f9407.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2961.jpg",
+      "path": "../../nenaudojama/dinner/images/91bbf3422f2ba791bc54f338.jpg",
+      "archived": true,
+      "originalPath": "images/91bbf3422f2ba791bc54f338.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SoySearedSalmonSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/ca5b49d77d63bb6d8550804d.avif",
+      "archived": true,
+      "originalPath": "images/ca5b49d77d63bb6d8550804d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SoySearedSalmonLong.jpg",
+      "path": "../../nenaudojama/dinner/images/034f10d45f158f6f839e95ea.jpg",
+      "archived": true,
+      "originalPath": "images/034f10d45f158f6f839e95ea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2944-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/256ca712d97359927cf2c011.jpg",
+      "archived": true,
+      "originalPath": "images/256ca712d97359927cf2c011.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2946-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8176dbd3d056e175965f5d15.jpg",
+      "archived": true,
+      "originalPath": "images/8176dbd3d056e175965f5d15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2949-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e58da728819676f7f00e6ad3.jpg",
+      "archived": true,
+      "originalPath": "images/e58da728819676f7f00e6ad3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2950-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cf3dcd8eeab2b5c1952c3d47.jpg",
+      "archived": true,
+      "originalPath": "images/cf3dcd8eeab2b5c1952c3d47.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2955-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/085a41b03b66450f221e1546.jpg",
+      "archived": true,
+      "originalPath": "images/085a41b03b66450f221e1546.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2961-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/04109d262444ab35686cf0da.jpg",
+      "archived": true,
+      "originalPath": "images/04109d262444ab35686cf0da.jpg"
+    }
+  ],
+  "featuredImage": "images/ba8228b3929f0daf9c869367.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ginger Sesame Glazed Salmon",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Ginger Sesame Glazed Salmon. Each serving comes out to be 367 calories, 22.2g fats, 2.9g net carbs, and 33.3g protein.",
+    "datePublished": "2014-05-13T17:15:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/05/SoySearedSalmon.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "10 ounce salmon",
+      "2 tablespoon soy sauce (or coconut aminos)",
+      "2 teaspoon sesame oil",
+      "1 tablespoon unseasoned rice vinegar",
+      "1 teaspoon fresh ginger (minced)",
+      "2 teaspoon fresh garlic (minced)",
+      "1 tablespoon fish sauce",
+      "1 tablespoon low-carb ketchup",
+      "2 tablespoon dry white wine"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a food storage container, combine soy sauce (or coconut aminos), rice vinegar, minced ginger, minced garlic, and fish sauce.",
+        "name": "In a food storage container, combine soy sauce (or coconut aminos), rice vinegar, minced ginger, minced garlic, and fish sauce.",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2944.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice salmon filet into size of your choosing and place in marinade liquid, skin side up. Coat both sides and let fish sit in marinade for about 10-15 minutes.",
+        "name": "Slice salmon filet into size of your choosing and place in marinade liquid, skin side up. Coat both sides and let fish sit in marinade for about 10-15 minutes.",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2946.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pan to high heat and add sesame oil. Swirl pan to distribute oil.",
+        "name": "Bring a pan to high heat and add sesame oil. Swirl pan to distribute oil.",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2949.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once you see the first wisp of smoke from the oil, add fish skin side down.",
+        "name": "Once you see the first wisp of smoke from the oil, add fish skin side down.",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2950.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook fish skin side down until crisp, then flip and cook on the other side. This should take 3-4 minutes per side. Once you flip the fish, add all marinade ingredients to the pan and let it boil with the fish.",
+        "name": "Cook fish skin side down until crisp, then flip and cook on the other side. This should take 3-4 minutes per side. Once you flip the fish, add all marinade ingredients to the pan and let it boil with the fish.",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2955.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove fish from pan and add sugar-free ketchup and white wine to the marinade sauce. Let simmer for 4-5 minutes to reduce.",
+        "name": "Remove fish from pan and add sugar-free ketchup and white wine to the marinade sauce. Let simmer for 4-5 minutes to reduce.",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2961.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve sauce on the side and chop fresh cilantro to sprinkle on top. You can also garnish with black sesame seeds if you like!",
+        "name": "Serve sauce on the side and chop fresh cilantro to sprinkle on top. You can also garnish with black sesame seeds if you like!",
+        "url": "https://www.ruled.me/ginger-sesame-glazed-salmon/#wprm-recipe-51105-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "dairy-free, egg-free, fish, high-protein, keto, low-carb, nut-free, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "367 kcal",
+      "fatContent": "22.2 g",
+      "proteinContent": "33.3 g",
+      "carbohydrateContent": "2.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/ginger-sesame-glazed-salmon/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ginger-sesame-glazed-salmon/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ginger-sesame-glazed-salmon/"
+  },
+  "sourceIndex": {
+    "id": 14811,
+    "rid": 51105,
+    "t": "Ginger Sesame Glazed Salmon",
+    "u": "/ginger-sesame-glazed-salmon/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/05/SoySearedSalmon.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.9,
+    "cal": 367,
+    "pr": 33.3,
+    "fa": 22.2,
+    "tm": 35,
+    "sv": 2,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2014-05-13",
+    "cm": 11,
+    "ex": "As most of you know, salmon is packed full of fantastic omega-3 fatty acids. Omega-3 fatty acids are an important part of our body and overall health, and consuming them can lead to a myriad of",
+    "pv": 355
+  },
+  "sourceHtml": "pages/ginger-sesame-glazed-salmon.html",
+  "scrapedAt": "2026-11-07T08:27:45.080Z"
+}

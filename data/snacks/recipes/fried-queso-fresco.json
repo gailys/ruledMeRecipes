@@ -1,0 +1,242 @@
+{
+  "id": "ruled-8936",
+  "slug": "fried-queso-fresco",
+  "title": "Fried Queso Fresco",
+  "url": "https://www.ruled.me/fried-queso-fresco/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Fried Queso Fresco. Each serving comes out to be 307 calories, 25.7g fats, 2.7g net carbs, and 16.4g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "307 kcal",
+    "fatContent": "25.7 g",
+    "proteinContent": "16.4 g",
+    "carbohydrateContent": "2.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 307,
+    "netCarbsGrams": 2.7,
+    "proteinGrams": 16.4,
+    "fatGrams": 25.7
+  },
+  "ingredients": [
+    "16 ounce queso fresco",
+    "1 tablespoon coconut oil",
+    "1/2 tablespoon olive oil"
+  ],
+  "instructions": [
+    {
+      "text": "Chop the queso fresco into squares or rectangles.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-queso-fresco/#wprm-recipe-50845-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-03.jpg"
+    },
+    {
+      "text": "Heat up the coconut and olive oils in a pan over high heat. Add in the cheese as soon as the oils begin smoking. Let the cheese cook on one side, then flip it over to the other side and continue cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-queso-fresco/#wprm-recipe-50845-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-06.jpg"
+    },
+    {
+      "text": "Remove the cheese from the pan and rest on paper towels to cool and let any excess oil drain off. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-queso-fresco/#wprm-recipe-50845-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/fb7aa4e0034f9d5aa7708518.jpg",
+      "archived": true,
+      "originalPath": "images/fb7aa4e0034f9d5aa7708518.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-featured.jpg",
+      "path": "../../nenaudojama/snacks/images/6c8386465110cc4dafd558d5.jpg",
+      "archived": true,
+      "originalPath": "images/6c8386465110cc4dafd558d5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-03.jpg",
+      "path": "../../nenaudojama/snacks/images/cb5209dc4bd06289f9493618.avif",
+      "archived": true,
+      "originalPath": "images/cb5209dc4bd06289f9493618.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-06.jpg",
+      "path": "../../nenaudojama/snacks/images/d180586cb7a2bfa7fc8e6d5c.avif",
+      "archived": true,
+      "originalPath": "images/d180586cb7a2bfa7fc8e6d5c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-01.jpg",
+      "path": "../../nenaudojama/snacks/images/91327aaa420eb11da2baa14b.jpg",
+      "archived": true,
+      "originalPath": "images/91327aaa420eb11da2baa14b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/83420e5473f6054900264cf8.avif",
+      "archived": true,
+      "originalPath": "images/83420e5473f6054900264cf8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-03-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/3a684d07a80b8e043d47ef6d.jpg",
+      "archived": true,
+      "originalPath": "images/3a684d07a80b8e043d47ef6d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-06-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/c3f3a5a9c68cde82d880ea63.jpg",
+      "archived": true,
+      "originalPath": "images/c3f3a5a9c68cde82d880ea63.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/6c8386465110cc4dafd558d5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fried Queso Fresco",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 5 servings of Fried Queso Fresco. Each serving comes out to be 307 calories, 25.7g fats, 2.7g net carbs, and 16.4g protein.",
+    "datePublished": "2014-02-17T15:47:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "16 ounce queso fresco",
+      "1 tablespoon coconut oil",
+      "1/2 tablespoon olive oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the queso fresco into squares or rectangles.",
+        "name": "Chop the queso fresco into squares or rectangles.",
+        "url": "https://www.ruled.me/fried-queso-fresco/#wprm-recipe-50845-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the coconut and olive oils in a pan over high heat. Add in the cheese as soon as the oils begin smoking. Let the cheese cook on one side, then flip it over to the other side and continue cooking.",
+        "name": "Heat up the coconut and olive oils in a pan over high heat. Add in the cheese as soon as the oils begin smoking. Let the cheese cook on one side, then flip it over to the other side and continue cooking.",
+        "url": "https://www.ruled.me/fried-queso-fresco/#wprm-recipe-50845-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the cheese from the pan and rest on paper towels to cool and let any excess oil drain off. Enjoy!",
+        "name": "Remove the cheese from the pan and rest on paper towels to cool and let any excess oil drain off. Enjoy!",
+        "url": "https://www.ruled.me/fried-queso-fresco/#wprm-recipe-50845-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "307 kcal",
+      "fatContent": "25.7 g",
+      "proteinContent": "16.4 g",
+      "carbohydrateContent": "2.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fried-queso-fresco/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fried-queso-fresco/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fried-queso-fresco/"
+  },
+  "sourceIndex": {
+    "id": 8936,
+    "rid": 50845,
+    "t": "Fried Queso Fresco",
+    "u": "/fried-queso-fresco/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/fried-queso-fresco-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 2.7,
+    "cal": 307,
+    "pr": 16.4,
+    "fa": 25.7,
+    "tm": 15,
+    "sv": 5,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2014-02-17",
+    "cm": 19,
+    "ex": "These ooey gooey squares of goodness are one of the best ways to get a side in when you need a lot of fat. By itself, this cheese isn't the best - but it has the solubility to stand up to the high",
+    "pv": 188
+  },
+  "sourceHtml": "pages/fried-queso-fresco.html",
+  "scrapedAt": "2026-11-07T08:31:41.086Z"
+}

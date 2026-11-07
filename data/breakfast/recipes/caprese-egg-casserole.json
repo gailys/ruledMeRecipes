@@ -1,0 +1,368 @@
+{
+  "id": "ruled-37032",
+  "slug": "caprese-egg-casserole",
+  "title": "Caprese Egg Casserole",
+  "url": "https://www.ruled.me/caprese-egg-casserole/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Caprese Egg Casserole. Each serving comes out to be 129 calories, 9.1g fats, 1.7g net carbs, and 9.2g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "129 kcal",
+    "fatContent": "9.1 g",
+    "proteinContent": "9.2 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 129,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 9.2,
+    "fatGrams": 9.1
+  },
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "2 cup cherry tomatoes",
+    "8 large egg",
+    "13 gram fresh basil",
+    "4 ounce mozzarella pearls",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Chop the cherry tomatoes into halves or quarters. Fry up in a skillet with the olive oil until the tomatoes have softened somewhat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-02.jpg"
+    },
+    {
+      "text": "Set the cooked tomatoes and the liquid from the pan aside, so everything can cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-03.jpg"
+    },
+    {
+      "text": "Add the eggs to a mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-01.jpg"
+    },
+    {
+      "text": "Chop up the fresh basil, then add to the eggs. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-05.jpg"
+    },
+    {
+      "text": "Whisk the eggs together until the yolks and whites are well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-06.jpg"
+    },
+    {
+      "text": "Pour the eggs into a greased casserole dish. Add the cooked tomatoes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-07.jpg"
+    },
+    {
+      "text": "Add the fresh mozzarella balls, distributing evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-09.jpg"
+    },
+    {
+      "text": "Bake for 25-30 minutes, or until the eggs are cooked throughout, making sure they have completely set in the middle of the dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "oven-baked",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/845606413a547760173ab992.avif",
+      "archived": true,
+      "originalPath": "images/845606413a547760173ab992.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-featured.jpg",
+      "path": "images/29abdcd7f000cb78a16f9237.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/38d40480545539703a861365.jpg",
+      "archived": true,
+      "originalPath": "images/38d40480545539703a861365.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/a3f9c3ef2ac81273cf9f7f59.avif",
+      "archived": true,
+      "originalPath": "images/a3f9c3ef2ac81273cf9f7f59.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/7d54e37c9c479d0736fb90bf.jpg",
+      "archived": true,
+      "originalPath": "images/7d54e37c9c479d0736fb90bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/f1666437eb4cb575d73357ca.avif",
+      "archived": true,
+      "originalPath": "images/f1666437eb4cb575d73357ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-06.jpg",
+      "path": "../../nenaudojama/breakfast/images/a026d090e2f6f20224830ea8.avif",
+      "archived": true,
+      "originalPath": "images/a026d090e2f6f20224830ea8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-07.jpg",
+      "path": "../../nenaudojama/breakfast/images/bd7a473510e0034d9a8dd962.avif",
+      "archived": true,
+      "originalPath": "images/bd7a473510e0034d9a8dd962.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-09.jpg",
+      "path": "../../nenaudojama/breakfast/images/ef8a7f939053f135d1f07e18.avif",
+      "archived": true,
+      "originalPath": "images/ef8a7f939053f135d1f07e18.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/f500a323a5766aa3546d5100.jpg",
+      "archived": true,
+      "originalPath": "images/f500a323a5766aa3546d5100.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/1e744aaf95c19f4c509c38ae.avif",
+      "archived": true,
+      "originalPath": "images/1e744aaf95c19f4c509c38ae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e445b8672b58f11993e95332.jpg",
+      "archived": true,
+      "originalPath": "images/e445b8672b58f11993e95332.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/53a8d2779e49adffe1655618.jpg",
+      "archived": true,
+      "originalPath": "images/53a8d2779e49adffe1655618.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ef4938b387265702b39b60ed.jpg",
+      "archived": true,
+      "originalPath": "images/ef4938b387265702b39b60ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/047f095f1b2a162088167542.jpg",
+      "archived": true,
+      "originalPath": "images/047f095f1b2a162088167542.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-06-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/132fd8f709c2097edd6142d0.avif",
+      "archived": true,
+      "originalPath": "images/132fd8f709c2097edd6142d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-07-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e0bed6b6e1abc643ec038aa4.avif",
+      "archived": true,
+      "originalPath": "images/e0bed6b6e1abc643ec038aa4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-09-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9e3782b897e56772f26376c1.jpg",
+      "archived": true,
+      "originalPath": "images/9e3782b897e56772f26376c1.jpg"
+    }
+  ],
+  "featuredImage": "images/29abdcd7f000cb78a16f9237.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Caprese Egg Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Caprese Egg Casserole. Each serving comes out to be 129 calories, 9.1g fats, 1.7g net carbs, and 9.2g protein.",
+    "datePublished": "2018-05-15T11:00:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1 tablespoon olive oil",
+      "2 cup cherry tomatoes",
+      "8 large egg",
+      "13 gram fresh basil",
+      "4 ounce mozzarella pearls",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Chop the cherry tomatoes into halves or quarters. Fry up in a skillet with the olive oil until the tomatoes have softened somewhat.",
+        "name": "Preheat oven to 350F. Chop the cherry tomatoes into halves or quarters. Fry up in a skillet with the olive oil until the tomatoes have softened somewhat.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set the cooked tomatoes and the liquid from the pan aside, so everything can cool.",
+        "name": "Set the cooked tomatoes and the liquid from the pan aside, so everything can cool.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs to a mixing bowl.",
+        "name": "Add the eggs to a mixing bowl.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop up the fresh basil, then add to the eggs. Season with salt and pepper.",
+        "name": "Chop up the fresh basil, then add to the eggs. Season with salt and pepper.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the eggs together until the yolks and whites are well combined.",
+        "name": "Whisk the eggs together until the yolks and whites are well combined.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the eggs into a greased casserole dish. Add the cooked tomatoes.",
+        "name": "Pour the eggs into a greased casserole dish. Add the cooked tomatoes.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the fresh mozzarella balls, distributing evenly.",
+        "name": "Add the fresh mozzarella balls, distributing evenly.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 25-30 minutes, or until the eggs are cooked throughout, making sure they have completely set in the middle of the dish.",
+        "name": "Bake for 25-30 minutes, or until the eggs are cooked throughout, making sure they have completely set in the middle of the dish.",
+        "url": "https://www.ruled.me/caprese-egg-casserole/#wprm-recipe-52583-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Frittata"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "beginner-friendly, eggs, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "129 kcal",
+      "fatContent": "9.1 g",
+      "proteinContent": "9.2 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/caprese-egg-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/caprese-egg-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/caprese-egg-casserole/"
+  },
+  "sourceIndex": {
+    "id": 37032,
+    "rid": 52583,
+    "t": "Caprese Egg Casserole",
+    "u": "/caprese-egg-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/05/caprese-egg-casserole-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.7,
+    "cal": 129,
+    "pr": 9.2,
+    "fa": 9.1,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "oven-baked",
+      "eggs"
+    ],
+    "d": "2018-05-15",
+    "cm": 7,
+    "ex": "This casserole dish whisks eggs up with fresh basil, fresh mozzarella balls, and tomatoes quickly simmered in olive oil. It's a caprese turned into breakfast! This recipe is a simple option, that's",
+    "pv": 303
+  },
+  "sourceHtml": "pages/caprese-egg-casserole.html",
+  "scrapedAt": "2026-11-07T08:11:12.674Z"
+}

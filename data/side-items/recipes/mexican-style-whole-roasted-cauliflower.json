@@ -1,0 +1,262 @@
+{
+  "id": "ruled-59379",
+  "slug": "mexican-style-whole-roasted-cauliflower",
+  "title": "Mexican Style Whole Roasted Cauliflower",
+  "url": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Mexican Style Whole Roasted Cauliflower. Each serving comes out to be 171 calories, 14.7g fats, 4.3g net carbs, and 4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT90M",
+  "totalTime": "PT95M",
+  "totalMinutes": 95,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "171 kcal",
+    "fatContent": "14.7 g",
+    "proteinContent": "4 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 171,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 4,
+    "fatGrams": 14.7
+  },
+  "ingredients": [
+    "1 large cauliflower",
+    "1/4 cup olive oil",
+    "1 teaspoon salt",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon cumin",
+    "1/4 teaspoon onion powder",
+    "1/2 teaspoon chili powder"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Remove the leaves from the cauliflower and remove the core. Place it in a cast iron skillet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#wprm-recipe-59376-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-01.jpg"
+    },
+    {
+      "text": "Mix the spices with the oil and brush over the cauliflower head. Cover and bake for 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#wprm-recipe-59376-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-02.jpg"
+    },
+    {
+      "text": "Remove the foil and cook for another hour or until it's tender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#wprm-recipe-59376-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-03.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/4861b5d638d985a5e6d2a4c4.jpg",
+      "archived": true,
+      "originalPath": "images/4861b5d638d985a5e6d2a4c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147.jpg",
+      "path": "../../nenaudojama/side-items/images/2ac22b2b620e66ea06f17241.jpg",
+      "archived": true,
+      "originalPath": "images/2ac22b2b620e66ea06f17241.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-01.jpg",
+      "path": "../../nenaudojama/side-items/images/6352099b11c9326cc47bf50f.jpg",
+      "archived": true,
+      "originalPath": "images/6352099b11c9326cc47bf50f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-02.jpg",
+      "path": "../../nenaudojama/side-items/images/e9f24d90c1d249558fee0465.jpg",
+      "archived": true,
+      "originalPath": "images/e9f24d90c1d249558fee0465.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-03.jpg",
+      "path": "../../nenaudojama/side-items/images/b9cc7e4dfbaa20acab94cc06.jpg",
+      "archived": true,
+      "originalPath": "images/b9cc7e4dfbaa20acab94cc06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/26604b816d2c491effe9163c.jpg",
+      "archived": true,
+      "originalPath": "images/26604b816d2c491effe9163c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/01af6bbb95211cf90e380360.jpg",
+      "archived": true,
+      "originalPath": "images/01af6bbb95211cf90e380360.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d29d57f146f3fa8b6e8d121a.jpg",
+      "archived": true,
+      "originalPath": "images/d29d57f146f3fa8b6e8d121a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-03-241x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c9a0193c55436f17ae907474.jpg",
+      "archived": true,
+      "originalPath": "images/c9a0193c55436f17ae907474.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/2ac22b2b620e66ea06f17241.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mexican Style Whole Roasted Cauliflower",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Mexican Style Whole Roasted Cauliflower. Each serving comes out to be 171 calories, 14.7g fats, 4.3g net carbs, and 4g protein.",
+    "datePublished": "2026-08-04T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT90M",
+    "totalTime": "PT95M",
+    "recipeIngredient": [
+      "1 large cauliflower",
+      "1/4 cup olive oil",
+      "1 teaspoon salt",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon cumin",
+      "1/4 teaspoon onion powder",
+      "1/2 teaspoon chili powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Remove the leaves from the cauliflower and remove the core. Place it in a cast iron skillet.",
+        "name": "Preheat oven to 375F. Remove the leaves from the cauliflower and remove the core. Place it in a cast iron skillet.",
+        "url": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#wprm-recipe-59376-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the spices with the oil and brush over the cauliflower head.  Cover and bake for 30 minutes.",
+        "name": "Mix the spices with the oil and brush over the cauliflower head.  Cover and bake for 30 minutes.",
+        "url": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#wprm-recipe-59376-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the foil and cook for another hour or until it's tender.",
+        "name": "Remove the foil and cook for another hour or until it's tender.",
+        "url": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#wprm-recipe-59376-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/mexican-style-whole-roasted-cauliflower-step-03.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "171 kcal",
+      "fatContent": "14.7 g",
+      "proteinContent": "4 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/mexican-style-whole-roasted-cauliflower/"
+  },
+  "sourceIndex": {
+    "id": 59379,
+    "rid": 59376,
+    "t": "Mexican Style Whole Roasted Cauliflower",
+    "u": "/mexican-style-whole-roasted-cauliflower/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/e0031bd1af566b29edeef66e78c98147-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.3,
+    "cal": 171,
+    "pr": 4,
+    "fa": 14.7,
+    "tm": 95,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2026-08-04",
+    "cm": 0,
+    "ex": "This Mexican Style Whole Roasted Cauliflower is a show-stopping side dish that brings bold, smoky flavors to your keto table without any of the extra carbs. By roasting the cauliflower whole, you",
+    "pv": 31
+  },
+  "sourceHtml": "pages/mexican-style-whole-roasted-cauliflower.html",
+  "scrapedAt": "2026-11-07T08:31:55.145Z"
+}

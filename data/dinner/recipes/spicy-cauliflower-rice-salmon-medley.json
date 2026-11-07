@@ -1,0 +1,331 @@
+{
+  "id": "ruled-30679",
+  "slug": "spicy-cauliflower-rice-salmon-medley",
+  "title": "Spicy Cauliflower Rice & Salmon Medley",
+  "url": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Spicy Cauliflower Rice & Salmon Medley. Each serving comes out to be 164 calories, 12.2g fats, 4.9g net carbs, and 7.4g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164 kcal",
+    "fatContent": "12.2 g",
+    "proteinContent": "7.4 g",
+    "carbohydrateContent": "4.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 164,
+    "netCarbsGrams": 4.9,
+    "proteinGrams": 7.4,
+    "fatGrams": 12.2
+  },
+  "ingredients": [
+    "2 tablespoon olive oil",
+    "4 ounce salmon (cubed into 2-inch pieces)",
+    "50 gram carrot (chopped)",
+    "119 gram orange bell pepper (chopped)",
+    "20 gram shallot (diced)",
+    "4 tablespoon soy sauce (or coconut aminos)",
+    "2 tablespoon sesame oil",
+    "2 tablespoon japanese seven-spice powder ((shachimi togarashi))",
+    "588 gram cauliflower (riced)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "In a medium-sized stock pot, heat up the olive oil over medium heat. Sauté the cubed salmon for about 5 minutes, stirring occasionally, until they have gone from pink to white.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-4.jpg"
+    },
+    {
+      "text": "Add the carrot, peppers, and shallots. Sauté for another 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-6.jpg"
+    },
+    {
+      "text": "Stir in the soy sauce and sesame oil, making sure to thoroughly coat the vegetables and fish. Season with the 7-spice powder and stir for 2–3 minutes, letting the fish soak up the soy and sesame.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-7.jpg"
+    },
+    {
+      "text": "Add the cauliflower rice and stir it in with a wooden spoon. Turn the heat up to medium-high and fry the cauliflower, stirring occasionally, until desired doneness. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-8.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/f8d5d617510064476903cc95.avif",
+      "archived": true,
+      "originalPath": "images/f8d5d617510064476903cc95.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-featured.jpg",
+      "path": "images/9db698892a8549a4875c8a17.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-4.jpg",
+      "path": "../../nenaudojama/dinner/images/23beaf783a0a2809f858a2a2.avif",
+      "archived": true,
+      "originalPath": "images/23beaf783a0a2809f858a2a2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-6.jpg",
+      "path": "../../nenaudojama/dinner/images/c0a219f568a014745cb0239f.avif",
+      "archived": true,
+      "originalPath": "images/c0a219f568a014745cb0239f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-7.jpg",
+      "path": "../../nenaudojama/dinner/images/6e270bb0c3446fe272572aea.avif",
+      "archived": true,
+      "originalPath": "images/6e270bb0c3446fe272572aea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-8.jpg",
+      "path": "../../nenaudojama/dinner/images/ebd54ddc5f8288c012d68933.avif",
+      "archived": true,
+      "originalPath": "images/ebd54ddc5f8288c012d68933.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-2nd.jpg",
+      "path": "../../nenaudojama/dinner/images/716e1813bba793013b26eef7.avif",
+      "archived": true,
+      "originalPath": "images/716e1813bba793013b26eef7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-9.jpg",
+      "path": "../../nenaudojama/dinner/images/a96741eeef71f930e79b91ce.avif",
+      "archived": true,
+      "originalPath": "images/a96741eeef71f930e79b91ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/pin.jpg",
+      "path": "../../nenaudojama/dinner/images/b0e110843f98e41d666e6775.avif",
+      "archived": true,
+      "originalPath": "images/b0e110843f98e41d666e6775.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b5d120732faa6692246b1f30.avif",
+      "archived": true,
+      "originalPath": "images/b5d120732faa6692246b1f30.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/59eab5ce11ddc3c3921370d7.avif",
+      "archived": true,
+      "originalPath": "images/59eab5ce11ddc3c3921370d7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cf59985aa3d1dd5b7f5514b5.avif",
+      "archived": true,
+      "originalPath": "images/cf59985aa3d1dd5b7f5514b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-8-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/394fda8c582142720ce92a99.avif",
+      "archived": true,
+      "originalPath": "images/394fda8c582142720ce92a99.avif"
+    }
+  ],
+  "featuredImage": "images/9db698892a8549a4875c8a17.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spicy Cauliflower Rice & Salmon Medley",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Spicy Cauliflower Rice &amp; Salmon Medley. Each serving comes out to be 164 calories, 12.2g fats, 4.9g net carbs, and 7.4g protein.",
+    "datePublished": "2017-05-18T11:00:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 tablespoon olive oil",
+      "4 ounce salmon (cubed into 2-inch pieces)",
+      "50 gram carrot (chopped)",
+      "119 gram orange bell pepper (chopped)",
+      "20 gram shallot (diced)",
+      "4 tablespoon soy sauce (or coconut aminos)",
+      "2 tablespoon sesame oil",
+      "2 tablespoon japanese seven-spice powder ((shachimi togarashi))",
+      "588 gram cauliflower (riced)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a medium-sized stock pot, heat up the olive oil over medium heat. Sauté the cubed salmon for about 5 minutes, stirring occasionally, until they have gone from pink to white.",
+        "name": "In a medium-sized stock pot, heat up the olive oil over medium heat. Sauté the cubed salmon for about 5 minutes, stirring occasionally, until they have gone from pink to white.",
+        "url": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the carrot, peppers, and shallots. Sauté for another 5 minutes.",
+        "name": "Add the carrot, peppers, and shallots. Sauté for another 5 minutes.",
+        "url": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the soy sauce and sesame oil, making sure to thoroughly coat the vegetables and fish. Season with the 7-spice powder and stir for 2–3 minutes, letting the fish soak up the soy and sesame.",
+        "name": "Stir in the soy sauce and sesame oil, making sure to thoroughly coat the vegetables and fish. Season with the 7-spice powder and stir for 2–3 minutes, letting the fish soak up the soy and sesame.",
+        "url": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cauliflower rice and stir it in with a wooden spoon. Turn the heat up to medium-high and fry the cauliflower, stirring occasionally, until desired doneness. Season with salt and pepper to taste.",
+        "name": "Add the cauliflower rice and stir it in with a wooden spoon. Turn the heat up to medium-high and fry the cauliflower, stirring occasionally, until desired doneness. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-step-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#wprm-recipe-52173-step-0-4"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "I have been making this awesomely delish recipe at least once a month for a long time. It may not look fancy, but it is so tasty! It's fast and easy and uses one skillet, making clean up a breeze. I've eaten the leftovers both hot and cold - love this dish!",
+        "author": {
+          "@type": "Person",
+          "name": "Sandi M"
+        },
+        "datePublished": "2025-02-04"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, fish, keto, low-carb, nut-free, quick, simple &amp; easy, spicy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "164 kcal",
+      "fatContent": "12.2 g",
+      "proteinContent": "7.4 g",
+      "carbohydrateContent": "4.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spicy-cauliflower-rice-salmon-medley/"
+  },
+  "sourceIndex": {
+    "id": 30679,
+    "rid": 52173,
+    "t": "Spicy Cauliflower Rice & Salmon Medley",
+    "u": "/spicy-cauliflower-rice-salmon-medley/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/05/spicy-fried-cauliflower-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.9,
+    "cal": 164,
+    "pr": 7.4,
+    "fa": 12.2,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "seafood"
+    ],
+    "d": "2017-05-18",
+    "cm": 8,
+    "ex": "Ah, cauliflower! So versatile in the keto world. Just one simple technique can get it into the consistency of rice. Don't worry, this spicy cauliflower rice isn’t too spicy! It packs a little heat",
+    "pv": 95
+  },
+  "sourceHtml": "pages/spicy-cauliflower-rice-salmon-medley.html",
+  "scrapedAt": "2026-11-07T08:27:44.711Z"
+}

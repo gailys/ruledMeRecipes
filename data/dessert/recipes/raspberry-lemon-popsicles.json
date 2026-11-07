@@ -1,0 +1,320 @@
+{
+  "id": "ruled-26276",
+  "slug": "raspberry-lemon-popsicles",
+  "title": "Raspberry Lemon Popsicles",
+  "url": "https://www.ruled.me/raspberry-lemon-popsicles/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Raspberry Lemon Popsicles. Each serving comes out to be 152 calories, 15.2g fats, 1.8g net carbs, and 0.8g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "fatContent": "15.2 g",
+    "proteinContent": "0.8 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 152,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 0.8,
+    "fatGrams": 15.2
+  },
+  "ingredients": [
+    "100 gram raspberries",
+    "1 tablespoon lemon juice",
+    "1/4 cup coconut oil",
+    "1 cup unsweetened carton coconut milk",
+    "1/4 cup sour cream",
+    "1/4 cup heavy whipping cream",
+    "1/2 teaspoon guar gum",
+    "20 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Add all ingredients into a container and use an immersion blender to blend the mixture together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8274.jpg"
+    },
+    {
+      "text": "Continue blending until the raspberries are completely mixed in with the rest of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8276.jpg"
+    },
+    {
+      "text": "Strain the mixture, making sure to discard all raspberry seeds. I tried making a batch with the seeds still in, and they started to irritate my tongue as I was eating it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8283.jpg"
+    },
+    {
+      "text": "Pour the mixture into molds. I use this mold for my popsicles. Set the popsicles in the freezer for a minimum of 2 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8288.jpg"
+    },
+    {
+      "text": "Run the mold under hot water to dislodge the popsicles.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8656.jpg"
+    },
+    {
+      "text": "Serve and eat whenever you want!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/raspberrylemonpopsicles.jpg",
+      "path": "images/825847c0801b4ac18cefe09a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8274.jpg",
+      "path": "../../nenaudojama/dessert/images/e76259ca8db0edad2b4cbc89.avif",
+      "archived": true,
+      "originalPath": "images/e76259ca8db0edad2b4cbc89.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8276.jpg",
+      "path": "../../nenaudojama/dessert/images/b53c43eac9f6417fce52e684.avif",
+      "archived": true,
+      "originalPath": "images/b53c43eac9f6417fce52e684.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8283.jpg",
+      "path": "../../nenaudojama/dessert/images/46f0416208932c796788725a.avif",
+      "archived": true,
+      "originalPath": "images/46f0416208932c796788725a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8288.jpg",
+      "path": "../../nenaudojama/dessert/images/113000be569f864b9881c62d.avif",
+      "archived": true,
+      "originalPath": "images/113000be569f864b9881c62d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8656.jpg",
+      "path": "../../nenaudojama/dessert/images/f692ea801237a97cecc49634.avif",
+      "archived": true,
+      "originalPath": "images/f692ea801237a97cecc49634.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/raspberrylemonpopsiclessecond.jpg",
+      "path": "../../nenaudojama/dessert/images/ca2dd4b124ba46155944fef6.jpg",
+      "archived": true,
+      "originalPath": "images/ca2dd4b124ba46155944fef6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/raspberrylemonpopsicleslong.jpg",
+      "path": "../../nenaudojama/dessert/images/30bfdf773290e44abb7d900b.avif",
+      "archived": true,
+      "originalPath": "images/30bfdf773290e44abb7d900b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8274-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6ed9c8945ee42e6492c7fea1.avif",
+      "archived": true,
+      "originalPath": "images/6ed9c8945ee42e6492c7fea1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8276-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7e382f51c7193ed726ab1dd2.jpg",
+      "archived": true,
+      "originalPath": "images/7e382f51c7193ed726ab1dd2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8283-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c8a7b12f3730a77d997a4fdb.avif",
+      "archived": true,
+      "originalPath": "images/c8a7b12f3730a77d997a4fdb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8288-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1a8e46bc753d9932df8adf52.avif",
+      "archived": true,
+      "originalPath": "images/1a8e46bc753d9932df8adf52.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8656-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/80372054c093f18037118bd9.avif",
+      "archived": true,
+      "originalPath": "images/80372054c093f18037118bd9.avif"
+    }
+  ],
+  "featuredImage": "images/825847c0801b4ac18cefe09a.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Raspberry Lemon Popsicles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Raspberry Lemon Popsicles. Each serving comes out to be 152 calories, 15.2g fats, 1.8g net carbs, and 0.8g protein.",
+    "datePublished": "2015-07-08T15:46:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/raspberrylemonpopsicles.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT20M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "100 gram raspberries",
+      "1 tablespoon lemon juice",
+      "1/4 cup coconut oil",
+      "1 cup unsweetened carton coconut milk",
+      "1/4 cup sour cream",
+      "1/4 cup heavy whipping cream",
+      "1/2 teaspoon guar gum",
+      "20 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients into a container and use an immersion blender to blend the mixture together.",
+        "name": "Add all ingredients into a container and use an immersion blender to blend the mixture together.",
+        "url": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8274.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue blending until the raspberries are completely mixed in with the rest of the ingredients.",
+        "name": "Continue blending until the raspberries are completely mixed in with the rest of the ingredients.",
+        "url": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8276.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Strain the mixture, making sure to discard all raspberry seeds. I tried making a batch with the seeds still in, and they started to irritate my tongue as I was eating it.",
+        "name": "Strain the mixture, making sure to discard all raspberry seeds. I tried making a batch with the seeds still in, and they started to irritate my tongue as I was eating it.",
+        "url": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8283.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into molds. I use this mold for my popsicles. Set the popsicles in the freezer for a minimum of 2 hours.",
+        "name": "Pour the mixture into molds. I use this mold for my popsicles. Set the popsicles in the freezer for a minimum of 2 hours.",
+        "url": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8288.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Run the mold under hot water to dislodge the popsicles.",
+        "name": "Run the mold under hot water to dislodge the popsicles.",
+        "url": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8656.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and eat whenever you want!",
+        "name": "Serve and eat whenever you want!",
+        "url": "https://www.ruled.me/raspberry-lemon-popsicles/#wprm-recipe-51757-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "30-minute, egg-free, freezer-friendly, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "152 kcal",
+      "fatContent": "15.2 g",
+      "proteinContent": "0.8 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/raspberry-lemon-popsicles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/raspberry-lemon-popsicles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/raspberry-lemon-popsicles/"
+  },
+  "sourceIndex": {
+    "id": 26276,
+    "rid": 51757,
+    "t": "Raspberry Lemon Popsicles",
+    "u": "/raspberry-lemon-popsicles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/raspberrylemonpopsicles.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.8,
+    "cal": 152,
+    "pr": 0.8,
+    "fa": 15.2,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2015-07-08",
+    "cm": 17,
+    "ex": "Being that the weather is heating up, the humidity is rising, and it seems like some days are just too hot - these popsicles will do just the trick. We went out to the Hmong Sheboygan Summer Festival",
+    "pv": 347
+  },
+  "sourceHtml": "pages/raspberry-lemon-popsicles.html",
+  "scrapedAt": "2026-11-07T08:30:47.432Z"
+}

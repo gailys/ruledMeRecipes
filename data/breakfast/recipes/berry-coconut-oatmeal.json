@@ -1,0 +1,230 @@
+{
+  "id": "ruled-39053",
+  "slug": "berry-coconut-oatmeal",
+  "title": "Berry Coconut Oatmeal",
+  "url": "https://www.ruled.me/berry-coconut-oatmeal/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Berry Coconut Oatmeal. The serving comes out to be 206 calories, 15.5g fats, 4.3g net carbs, and 5.5g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": null,
+  "cookTime": "PT15M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "fatContent": "15.5 g",
+    "proteinContent": "5.5 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 206,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 5.5,
+    "fatGrams": 15.5
+  },
+  "ingredients": [
+    "2 tablespoon flaxseed meal",
+    "1 tablespoon almond flour",
+    "1 tablespoon unsweetened shredded coconut",
+    "1/2 teaspoon vanilla extract",
+    "1/2 teaspoon ground cinnamon",
+    "1/3 cup unsweetened carton coconut milk",
+    "1/2 cup unsweetened almond milk",
+    "1/4 cup raspberries",
+    "1 teaspoon pumpkin seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat saucepan on the stove. Add flaxseed, almond meal, desiccated coconut, vanilla, cinnamon, coconut milk, and almond milk to the saucepan. Warm mixture to a medium heat, stirring continuously until the mixture is hot and thickens to resemble oatmeal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/berry-coconut-oatmeal/#wprm-recipe-52890-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-01.jpg"
+    },
+    {
+      "text": "Pour the mixture into a bowl and top with the mixed berries and pumpkin seeds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/berry-coconut-oatmeal/#wprm-recipe-52890-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-pinresized.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/016efb9f778112238aea5633.jpg",
+      "archived": true,
+      "originalPath": "images/016efb9f778112238aea5633.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-featured.jpg",
+      "path": "images/81a9596e9761fd6189059495.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/b54a442cf2f9f930af3c857d.jpg",
+      "archived": true,
+      "originalPath": "images/b54a442cf2f9f930af3c857d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-pinresized.jpg",
+      "path": "../../nenaudojama/breakfast/images/30e9bea3d53640940a362d61.jpg",
+      "archived": true,
+      "originalPath": "images/30e9bea3d53640940a362d61.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/e597be400af4c5e2670e3717.avif",
+      "archived": true,
+      "originalPath": "images/e597be400af4c5e2670e3717.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b99971153c2686337328bb3e.jpg",
+      "archived": true,
+      "originalPath": "images/b99971153c2686337328bb3e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-pinresized-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/99ea825044d22ad97bab242d.jpg",
+      "archived": true,
+      "originalPath": "images/99ea825044d22ad97bab242d.jpg"
+    }
+  ],
+  "featuredImage": "images/81a9596e9761fd6189059495.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Berry Coconut Oatmeal",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Berry Coconut Oatmeal. The serving comes out to be 206 calories, 15.5g fats, 4.3g net carbs, and 5.5g protein.",
+    "datePublished": "2019-02-19T12:00:35+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "cookTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 tablespoon flaxseed meal",
+      "1 tablespoon almond flour",
+      "1 tablespoon unsweetened shredded coconut",
+      "1/2 teaspoon vanilla extract",
+      "1/2 teaspoon ground cinnamon",
+      "1/3 cup unsweetened carton coconut milk",
+      "1/2 cup unsweetened almond milk",
+      "1/4 cup raspberries",
+      "1 teaspoon pumpkin seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat saucepan on the stove. Add flaxseed, almond meal, desiccated coconut, vanilla, cinnamon, coconut milk, and almond milk to the saucepan. Warm mixture to a medium heat, stirring continuously until the mixture is hot and thickens to resemble oatmeal.",
+        "name": "Preheat saucepan on the stove. Add flaxseed, almond meal, desiccated coconut, vanilla, cinnamon, coconut milk, and almond milk to the saucepan. Warm mixture to a medium heat, stirring continuously until the mixture is hot and thickens to resemble oatmeal.",
+        "url": "https://www.ruled.me/berry-coconut-oatmeal/#wprm-recipe-52890-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into a bowl and top with the mixed berries and pumpkin seeds.",
+        "name": "Pour the mixture into a bowl and top with the mixed berries and pumpkin seeds.",
+        "url": "https://www.ruled.me/berry-coconut-oatmeal/#wprm-recipe-52890-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-pinresized.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "206 kcal",
+      "fatContent": "15.5 g",
+      "proteinContent": "5.5 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/berry-coconut-oatmeal/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/berry-coconut-oatmeal/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/berry-coconut-oatmeal/"
+  },
+  "sourceIndex": {
+    "id": 39053,
+    "rid": 52890,
+    "t": "Berry Coconut Oatmeal",
+    "u": "/berry-coconut-oatmeal/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/berry-coconut-oatmeal-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.3,
+    "cal": 206,
+    "pr": 5.5,
+    "fa": 15.5,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2019-02-19",
+    "cm": 4,
+    "ex": "This keto oatmeal is great for cold mornings, or when you need to change up your breakfast from bacon and eggs. Berry coconut oatmeal is an easy recipe that is also bright, colorful, and delicious!",
+    "pv": 110
+  },
+  "sourceHtml": "pages/berry-coconut-oatmeal.html",
+  "scrapedAt": "2026-11-07T08:11:12.600Z"
+}

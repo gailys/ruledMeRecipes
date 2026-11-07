@@ -1,0 +1,432 @@
+{
+  "id": "ruled-48508",
+  "slug": "keto-meatloaf",
+  "title": "Keto Meatloaf",
+  "url": "https://www.ruled.me/keto-meatloaf/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Keto Meatloaf. Each serving comes out to be 691 calories, 53.6g fats, 5.6g net carbs, and 41.6g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT60M",
+  "totalTime": "PT80M",
+  "totalMinutes": 80,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "691 kcal",
+    "fatContent": "53.6 g",
+    "proteinContent": "41.6 g",
+    "carbohydrateContent": "5.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 691,
+    "netCarbsGrams": 5.6,
+    "proteinGrams": 41.6,
+    "fatGrams": 53.6
+  },
+  "ingredients": [
+    "1 tablespoon avocado oil",
+    "1 medium onion (chopped)",
+    "3/4 cup celery (diced)",
+    "3 teaspoon fresh garlic (minced)",
+    "1 teaspoon chili powder",
+    "1 1/2 teaspoon italian seasoning",
+    "16 ounce ground beef (80/20)",
+    "16 ounce ground pork",
+    "3/4 cup cheddar cheese (shredded)",
+    "1/3 cup almond flour",
+    "1/4 cup grated parmesan cheese",
+    "2 large egg",
+    "1 tablespoon soy sauce",
+    "1 tablespoon worcestershire sauce",
+    "salt and pepper (to taste)",
+    "1/4 cup low-carb ketchup"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Grease a meatloaf baking pan and preheat oven to 400F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-1.jpg"
+    },
+    {
+      "text": "In a frying pan over medium heat, add the avocado oil and let that heat up. Add the chopped onion and celery. Cook until fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-2.jpg"
+    },
+    {
+      "text": "Now add in the garlic, oregano, chili powder, and Italian seasoning. Mix to combine. Let cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-3.jpg"
+    },
+    {
+      "text": "In a bowl, combine all of the rest of the ingredients besides the zero sugar ketchup. Scoop the seasoned onion and celery into the bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-4.jpg"
+    },
+    {
+      "text": "Stir together with a wooden spoon or hands, if needed until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-5.jpg"
+    },
+    {
+      "text": "Using a spoon, mash the mixture into the pre-greased baking pan. Place in the pre-heated oven for 40 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-6.jpg"
+    },
+    {
+      "text": "Take out and smother the top of the meatloaf with ketchup. Place back in the oven for 20 minutes. The meatloaf is done when internal temperature reaches 165F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-7.jpg"
+    },
+    {
+      "text": "Let cool for 10 minutes before slicing. Serve with oregano. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "pork",
+    "red-meat",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "oven-baked",
+    "make-ahead",
+    "high-protein",
+    "pork",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/28f3fa4894fdbec91525d98e.avif",
+      "archived": true,
+      "originalPath": "images/28f3fa4894fdbec91525d98e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Featured.jpg",
+      "path": "images/c4ebb0e3941bfe0073dadb1e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-1.jpg",
+      "path": "../../nenaudojama/dinner/images/793e1810293c679ebd494e21.avif",
+      "archived": true,
+      "originalPath": "images/793e1810293c679ebd494e21.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-2.jpg",
+      "path": "../../nenaudojama/dinner/images/3cb35f84ef7c0b07b156e74e.avif",
+      "archived": true,
+      "originalPath": "images/3cb35f84ef7c0b07b156e74e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-3.jpg",
+      "path": "../../nenaudojama/dinner/images/99e1151ba036dcad8888b885.jpg",
+      "archived": true,
+      "originalPath": "images/99e1151ba036dcad8888b885.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-4.jpg",
+      "path": "../../nenaudojama/dinner/images/9b00612f7999f10e142ca21e.jpg",
+      "archived": true,
+      "originalPath": "images/9b00612f7999f10e142ca21e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-5.jpg",
+      "path": "../../nenaudojama/dinner/images/9833404a6ee701f0708bf87f.jpg",
+      "archived": true,
+      "originalPath": "images/9833404a6ee701f0708bf87f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-6.jpg",
+      "path": "../../nenaudojama/dinner/images/ac8b43c8659a9f36a2dfa3b0.jpg",
+      "archived": true,
+      "originalPath": "images/ac8b43c8659a9f36a2dfa3b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-7.jpg",
+      "path": "../../nenaudojama/dinner/images/748fce26dbc4cb063b8de8f6.jpg",
+      "archived": true,
+      "originalPath": "images/748fce26dbc4cb063b8de8f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/f29c63b9a3f73ce5bec39f0f.jpg",
+      "archived": true,
+      "originalPath": "images/f29c63b9a3f73ce5bec39f0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/b346b257b0daa9e47188c753.jpg",
+      "archived": true,
+      "originalPath": "images/b346b257b0daa9e47188c753.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/60cec60275595c5380f10489.jpg",
+      "archived": true,
+      "originalPath": "images/60cec60275595c5380f10489.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/424b9504bb2c038824fa192c.jpg",
+      "archived": true,
+      "originalPath": "images/424b9504bb2c038824fa192c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c570e97927b0e8d7c74fdf24.jpg",
+      "archived": true,
+      "originalPath": "images/c570e97927b0e8d7c74fdf24.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/24c862448636148bf65d424c.jpg",
+      "archived": true,
+      "originalPath": "images/24c862448636148bf65d424c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9ea41a7d55620b4a62c92f1d.jpg",
+      "archived": true,
+      "originalPath": "images/9ea41a7d55620b4a62c92f1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3b60123a55ffb7f658427ab7.jpg",
+      "archived": true,
+      "originalPath": "images/3b60123a55ffb7f658427ab7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2be6517897eac774da9e0d39.jpg",
+      "archived": true,
+      "originalPath": "images/2be6517897eac774da9e0d39.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7d8316496138fc903d6aabdb.avif",
+      "archived": true,
+      "originalPath": "images/7d8316496138fc903d6aabdb.avif"
+    }
+  ],
+  "featuredImage": "images/c4ebb0e3941bfe0073dadb1e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Meatloaf",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 5 servings of Keto Meatloaf. Each serving comes out to be 691 calories, 53.6g fats, 5.6g net carbs, and 41.6g protein.",
+    "datePublished": "2023-03-07T10:00:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Featured.jpg"
+    ],
+    "video": {
+      "name": "Easy Keto Meatloaf [Made with Beef & Pork]",
+      "description": "This meatloaf is super easy to make and tastes amazing. When you mix ground beef, spices, cheese, eggs, and vegetables, the end result is a flavor-packed meatloaf that everyone will love.\n\nCooking this meatloaf does take some effort, but we guarantee it’s worth it. Once you’ve mixed all of the ingredients and formed the loaf, it needs to be baked in the oven for about an hour. Once cooked, serve big thick slices of the meatloaf with vegetables or salad. To keep it low carb, use keto-friendly vegetables like leafy greens, tomatoes, kumara, and mushrooms.\n\nThis meatloaf recipe is a great dish if you want to have leftovers the next day. When sliced and served cold with salad and your favorite condiments, it tastes great and provides a hassle-free meal that you can whip up in minutes.\n\nThis meatloaf provides you with lots of iron and other important vitamins and minerals, all the while being low-carb—only a small amount of almond flour and cheese keep the meatloaf firm. If you’re looking for a new keto-friendly dinner to add to your weekly meal list, why not give this one a go? It’s tasty, healthy, and pretty easy to make.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 tablespoon avocado oil\n1 medium onion, chopped\n3/4 cup celery, diced\n3 teaspoon fresh garlic, minced\n1 teaspoon chili powder\n1 1/2 teaspoon Italian seasoning\n16 ounce ground beef (80/20)\n16 ounce ground pork\n3/4 cup shredded cheddar cheese\n1/3 cup almond flour\n1/4 cup grated parmesan cheese\n2 large egg\n1 tablespoon soy sauce\n1 tablespoon Worcestershire sauce\nSalt and pepper to taste\n1/4 cup low-carb ketcup\n\nNutrition Summary: This makes a total of 5 servings of Keto Meatloaf. Each serving comes out to be 691 calories, 53.6g fat, 5.6g net carbs, and 41.6g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-05-03T14:00:06+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M35S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 8676
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 343
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 24
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/F23eebEJHtQ/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/F23eebEJHtQ?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=F23eebEJHtQ",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT60M",
+    "totalTime": "PT80M",
+    "recipeIngredient": [
+      "1 tablespoon avocado oil",
+      "1 medium onion (chopped)",
+      "3/4 cup celery (diced)",
+      "3 teaspoon fresh garlic (minced)",
+      "1 teaspoon chili powder",
+      "1 1/2 teaspoon italian seasoning",
+      "16 ounce ground beef (80/20)",
+      "16 ounce ground pork",
+      "3/4 cup cheddar cheese (shredded)",
+      "1/3 cup almond flour",
+      "1/4 cup grated parmesan cheese",
+      "2 large egg",
+      "1 tablespoon soy sauce",
+      "1 tablespoon worcestershire sauce",
+      "salt and pepper (to taste)",
+      "1/4 cup low-carb ketchup"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Grease a meatloaf baking pan and preheat oven to 400F.",
+        "name": "Measure out and prepare all of the ingredients. Grease a meatloaf baking pan and preheat oven to 400F.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium heat, add the avocado oil and let that heat up. Add the chopped onion and celery. Cook until fragrant.",
+        "name": "In a frying pan over medium heat, add the avocado oil and let that heat up. Add the chopped onion and celery. Cook until fragrant.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Now add in the garlic, oregano, chili powder, and Italian seasoning. Mix to combine. Let cool.",
+        "name": "Now add in the garlic, oregano, chili powder, and Italian seasoning. Mix to combine. Let cool.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine all of the rest of the ingredients besides the zero sugar ketchup. Scoop the seasoned onion and celery into the bowl.",
+        "name": "In a bowl, combine all of the rest of the ingredients besides the zero sugar ketchup. Scoop the seasoned onion and celery into the bowl.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir together with a wooden spoon or hands, if needed until combined well.",
+        "name": "Stir together with a wooden spoon or hands, if needed until combined well.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a spoon, mash the mixture into the pre-greased baking pan. Place in the pre-heated oven for 40 minutes.",
+        "name": "Using a spoon, mash the mixture into the pre-greased baking pan. Place in the pre-heated oven for 40 minutes.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Take out and smother the top of the meatloaf with ketchup. Place back in the oven for 20 minutes. The meatloaf is done when internal temperature reaches 165F.",
+        "name": "Take out and smother the top of the meatloaf with ketchup. Place back in the oven for 20 minutes. The meatloaf is done when internal temperature reaches 165F.",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool for 10 minutes before slicing. Serve with oregano. Enjoy!",
+        "name": "Let cool for 10 minutes before slicing. Serve with oregano. Enjoy!",
+        "url": "https://www.ruled.me/keto-meatloaf/#wprm-recipe-54535-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, family-friendly, high-fat, high-protein, keto, low-carb, make-ahead, oven-baked, pork, red meat, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "691 kcal",
+      "fatContent": "53.6 g",
+      "proteinContent": "41.6 g",
+      "carbohydrateContent": "5.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-meatloaf/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-meatloaf/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-meatloaf/"
+  },
+  "sourceIndex": {
+    "id": 48508,
+    "rid": 54535,
+    "t": "Keto Meatloaf",
+    "u": "/keto-meatloaf/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/12/Keto-Meatloaf-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.6,
+    "cal": 691,
+    "pr": 41.6,
+    "fa": 53.6,
+    "tm": 80,
+    "sv": 5,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "pork",
+      "red-meat",
+      "weeknight-dinner"
+    ],
+    "ni": 16,
+    "fk": [
+      "oven-baked",
+      "make-ahead",
+      "high-protein",
+      "pork",
+      "red-meat"
+    ],
+    "d": "2023-03-07",
+    "cm": 0,
+    "ex": "This meatloaf is super easy to make and tastes amazing. When you mix ground beef, spices, cheese, eggs, and vegetables, the end result is a flavor-packed meatloaf that everyone will love. Cooking",
+    "pv": 455
+  },
+  "sourceHtml": "pages/keto-meatloaf.html",
+  "scrapedAt": "2026-11-07T08:27:43.741Z"
+}

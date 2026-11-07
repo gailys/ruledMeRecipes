@@ -1,0 +1,428 @@
+{
+  "id": "ruled-30138",
+  "slug": "keto-gyros",
+  "title": "Keto Gyros",
+  "url": "https://www.ruled.me/keto-gyros/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Gyros. Each serving comes out to be 390 calories, 30.7g fats, 2.4g net carbs, and 24g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT80M",
+  "cookTime": "PT70M",
+  "totalTime": "PT150M",
+  "totalMinutes": 150,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "390 kcal",
+    "fatContent": "30.7 g",
+    "proteinContent": "24 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 390,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 24,
+    "fatGrams": 30.7
+  },
+  "ingredients": [
+    "1 ounce pork rinds",
+    "1 tablespoon dried oregano",
+    "2 teaspoon onion powder",
+    "2 teaspoon salt",
+    "1 teaspoon black pepper",
+    "4 teaspoon fresh garlic",
+    "16 ounce ground beef",
+    "16 ounce ground lamb",
+    "1 cup full-fat plain greek yogurt",
+    "1 teaspoon garlic powder",
+    "1 tablespoon white vinegar",
+    "2 tablespoon olive oil",
+    "2 1/2 ounce cucumber (seeded and grated)",
+    "2 tablespoon fresh dill (minced)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Pulse the pork rinds in a food processor until they are fully crushed. Add the oregano, onion powder, salt, pepper, garlic, and then pulse again so that all the spices are mixed into the crumbs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0789.jpg"
+    },
+    {
+      "text": "Add the ground beef and lamb to the food processor and process into a paste. If your processor is not large enough, you may need to take some of the meat out and do it in batches. If you have to batch it, then knead everything together in a large bowl when you are done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0794.jpg"
+    },
+    {
+      "text": "Wrap the meat up tightly and allow to chill in the refrigerator for 1 hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0804.jpg"
+    },
+    {
+      "text": "Preheat the oven to 350F. Unwrap the gyro loaf and place it on a pan to bake. Flatten it out a bit, so that it’s not more than 3 inches thick. I like using a casserole dish, just in case some of the juices come out.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0813.jpg"
+    },
+    {
+      "text": "Bake for 40-60 minutes, until it’s browned and internal temperature has reached 165F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0818.jpg"
+    },
+    {
+      "text": "Meanwhile, mix all of the ingredients for the Tzatziki sauce together and also store in the fridge. Be sure to squeeze all of the water out of the cucumber after you grate it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0807.jpg"
+    },
+    {
+      "text": "Allow to rest for ten minutes and set your oven to broil. Then thinly slice all of the meat on a bias. Broil for 5-10 minutes or until the edges start to crisp up. Weigh all of the gyro meat and then divide by the number of servings in order to know how many ounces of cooked meat to serve on each flatbread.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0821.jpg"
+    },
+    {
+      "text": "Serve the meat on the coconut flatbreads with the tzatziki sauce, and any additional toppings that you would like. You will get 1.5-2 tablespoons of sauce per serving, so I like to spread it on the inside of the bread before loading the meat in.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0830.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "red-meat",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0825-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/f1ed49e139e0bd756a3f4290.jpg",
+      "archived": true,
+      "originalPath": "images/f1ed49e139e0bd756a3f4290.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0825.jpg",
+      "path": "images/03f62d823eaeee79da1fa60d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0789.jpg",
+      "path": "../../nenaudojama/dinner/images/fcbb8f4202ebb5bc32396dc5.jpg",
+      "archived": true,
+      "originalPath": "images/fcbb8f4202ebb5bc32396dc5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0794.jpg",
+      "path": "../../nenaudojama/dinner/images/8fc261ff71e825288116e204.jpg",
+      "archived": true,
+      "originalPath": "images/8fc261ff71e825288116e204.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0804.jpg",
+      "path": "../../nenaudojama/dinner/images/9d0d5c899fcc1a2a3ec5a5b5.avif",
+      "archived": true,
+      "originalPath": "images/9d0d5c899fcc1a2a3ec5a5b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0813.jpg",
+      "path": "../../nenaudojama/dinner/images/1ffec433202581bfb97ab4ab.avif",
+      "archived": true,
+      "originalPath": "images/1ffec433202581bfb97ab4ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0818.jpg",
+      "path": "../../nenaudojama/dinner/images/fd6259ec93140fca18bbbbb9.avif",
+      "archived": true,
+      "originalPath": "images/fd6259ec93140fca18bbbbb9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0807.jpg",
+      "path": "../../nenaudojama/dinner/images/06383db0902136ac337a7bd7.avif",
+      "archived": true,
+      "originalPath": "images/06383db0902136ac337a7bd7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0821.jpg",
+      "path": "../../nenaudojama/dinner/images/0c5f86befff9a41019a8f280.jpg",
+      "archived": true,
+      "originalPath": "images/0c5f86befff9a41019a8f280.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0830.jpg",
+      "path": "../../nenaudojama/dinner/images/b10678343b8fff9c84c2da49.avif",
+      "archived": true,
+      "originalPath": "images/b10678343b8fff9c84c2da49.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0834.jpg",
+      "path": "../../nenaudojama/dinner/images/931b5291da53ec493ce584e9.jpg",
+      "archived": true,
+      "originalPath": "images/931b5291da53ec493ce584e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0789-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/871f2b44c8ef733601b19ae4.avif",
+      "archived": true,
+      "originalPath": "images/871f2b44c8ef733601b19ae4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0794-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/45e19568fe26eedd5a6ad67a.avif",
+      "archived": true,
+      "originalPath": "images/45e19568fe26eedd5a6ad67a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0804-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c1ed73315a7d2493f3c86985.avif",
+      "archived": true,
+      "originalPath": "images/c1ed73315a7d2493f3c86985.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0813-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f4c086a938d338bb4e4d550b.avif",
+      "archived": true,
+      "originalPath": "images/f4c086a938d338bb4e4d550b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0818-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/db00234fe8b102dc0f389943.jpg",
+      "archived": true,
+      "originalPath": "images/db00234fe8b102dc0f389943.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0807-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c63712b8e0c302ca3f148bd0.avif",
+      "archived": true,
+      "originalPath": "images/c63712b8e0c302ca3f148bd0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0821-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/67e2c8dbbe680ef7f8080982.jpg",
+      "archived": true,
+      "originalPath": "images/67e2c8dbbe680ef7f8080982.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0830-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3e513c5d4303f988f7c48557.avif",
+      "archived": true,
+      "originalPath": "images/3e513c5d4303f988f7c48557.avif"
+    }
+  ],
+  "featuredImage": "images/03f62d823eaeee79da1fa60d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Gyros",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Keto Gyros. Each serving comes out to be 390 calories, 30.7g fats, 2.4g net carbs, and 24g protein.",
+    "datePublished": "2017-03-30T11:00:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0825.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Beef and Lamb Gyros",
+      "description": "I had a craving the other day for some nice, big, Gyro sandwiches. You know the ones I’m talking about: hot fluffy bread stuffed with thinly shaved meat, veggies, and of course that yogurt sauce. I’m not even sure what the best part of a Gyro is, they’re so good.\n\nSo I created this keto-friendly version that makes use of our coconut flour tortilla recipe. You can easily bake the meat in your oven, so you do not need to own a rotisserie. The meat mixture is put through a food processor in order to get a texture that is similar to what you experience at a restaurant. If you do not own a food processor then don’t worry. You can simply mix by hand too.\n\nI used a mixture of half beef and half lamb because I like the flavor and because lamb is very expensive in my area. You could also do full beef, or full lamb if you’d like.\n\nI think it is very important to use fresh dill in the tzatziki sauce, dried will simply not do except as a true last resort.\n\nIf you’d like to prepare this recipe but serve at a later time, then skip the broiling step until it’s time to serve. Alternatively, you could also pan-fry single servings of the meat slices if you just want to make a quick sandwich for lunch.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nGyro Meat\n1 ounce pork rinds\n1 tablespoon oregano\n2 teaspoons onion powder\n2 teaspoons salt\n1 teaspoon pepper\n4 cloves garlic, (3/8 ounce)\n1 pound ground beef\n1 pound ground lamb\n\nTzatziki Sauce\n1 cup full-fat plain Greek yogurt\n1 teaspoon garlic powder\n1 tablespoon white vinegar\n2 tablespoons olive oil\n2.5 ounces cucumber, seeded and grated, ~1/4 whole\n2 tablespoons fresh dill, minced\nSalt and pepper to taste\n\nFlatbreads\nUse recipe for our coconut flour tortillas, but use a smaller pot lid and roll the tortillas a little thicker. You will want to end up with the same number of servings so that the nutrition per flatbread does not change. You will end up with two extra breads since the meat recipe is for 8 servings. You could reserve them for another recipe, or even freeze for future use.\n\nToppings\nAdd these at your preference, but don’t forget to calculate their nutrition.\n\nCrumbled feta cheese\nKalamata olives\nLettuce\nThinly sliced red onion\n\nNutrition Summary:\nThis makes a total of 8 servings of Keto Gyros. Each serving comes out to be 440.5 Calories, 36.69g Fats, 2.85g Net Carbs, and 23.06g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-10-07T14:00:04+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 16022
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 515
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 34
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/finZ-zrmZ6A/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/finZ-zrmZ6A?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=finZ-zrmZ6A",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT80M",
+    "cookTime": "PT70M",
+    "totalTime": "PT150M",
+    "recipeIngredient": [
+      "1 ounce pork rinds",
+      "1 tablespoon dried oregano",
+      "2 teaspoon onion powder",
+      "2 teaspoon salt",
+      "1 teaspoon black pepper",
+      "4 teaspoon fresh garlic",
+      "16 ounce ground beef",
+      "16 ounce ground lamb",
+      "1 cup full-fat plain greek yogurt",
+      "1 teaspoon garlic powder",
+      "1 tablespoon white vinegar",
+      "2 tablespoon olive oil",
+      "2 1/2 ounce cucumber (seeded and grated)",
+      "2 tablespoon fresh dill (minced)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pulse the pork rinds in a food processor until they are fully crushed. Add the oregano, onion powder, salt, pepper, garlic, and then pulse again so that all the spices are mixed into the crumbs.",
+        "name": "Pulse the pork rinds in a food processor until they are fully crushed. Add the oregano, onion powder, salt, pepper, garlic, and then pulse again so that all the spices are mixed into the crumbs.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0789.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ground beef and lamb to the food processor and process into a paste. If your processor is not large enough, you may need to take some of the meat out and do it in batches. If you have to batch it, then knead everything together in a large bowl when you are done.",
+        "name": "Add the ground beef and lamb to the food processor and process into a paste. If your processor is not large enough, you may need to take some of the meat out and do it in batches. If you have to batch it, then knead everything together in a large bowl when you are done.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0794.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wrap the meat up tightly and allow to chill in the refrigerator for 1 hour.",
+        "name": "Wrap the meat up tightly and allow to chill in the refrigerator for 1 hour.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0804.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350F. Unwrap the gyro loaf and place it on a pan to bake. Flatten it out a bit, so that it’s not more than 3 inches thick. I like using a casserole dish, just in case some of the juices come out.",
+        "name": "Preheat the oven to 350F. Unwrap the gyro loaf and place it on a pan to bake. Flatten it out a bit, so that it’s not more than 3 inches thick. I like using a casserole dish, just in case some of the juices come out.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0813.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 40-60 minutes, until it’s browned and internal temperature has reached 165F.",
+        "name": "Bake for 40-60 minutes, until it’s browned and internal temperature has reached 165F.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0818.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, mix all of the ingredients for the Tzatziki sauce together and also store in the fridge. Be sure to squeeze all of the water out of the cucumber after you grate it.",
+        "name": "Meanwhile, mix all of the ingredients for the Tzatziki sauce together and also store in the fridge. Be sure to squeeze all of the water out of the cucumber after you grate it.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0807.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow to rest for ten minutes and set your oven to broil. Then thinly slice all of the meat on a bias. Broil for 5-10 minutes or until the edges start to crisp up. Weigh all of the gyro meat and then divide by the number of servings in order to know how many ounces of cooked meat to serve on each flatbread.",
+        "name": "Allow to rest for ten minutes and set your oven to broil. Then thinly slice all of the meat on a bias. Broil for 5-10 minutes or until the edges start to crisp up. Weigh all of the gyro meat and then divide by the number of servings in order to know how many ounces of cooked meat to serve on each flatbread.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0821.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the meat on the coconut flatbreads with the tzatziki sauce, and any additional toppings that you would like. You will get 1.5-2 tablespoons of sauce per serving, so I like to spread it on the inside of the bread before loading the meat in.",
+        "name": "Serve the meat on the coconut flatbreads with the tzatziki sauce, and any additional toppings that you would like. You will get 1.5-2 tablespoons of sauce per serving, so I like to spread it on the inside of the bread before loading the meat in.",
+        "url": "https://www.ruled.me/keto-gyros/#wprm-recipe-52139-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0830.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Greek"
+    ],
+    "keywords": "comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, red meat, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "390 kcal",
+      "fatContent": "30.7 g",
+      "proteinContent": "24 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-gyros/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-gyros/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-gyros/"
+  },
+  "sourceIndex": {
+    "id": 30138,
+    "rid": 52139,
+    "t": "Keto Gyros",
+    "u": "/keto-gyros/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0825-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.4,
+    "cal": 390,
+    "pr": 24,
+    "fa": 30.7,
+    "tm": 150,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "red-meat",
+      "sugar-free"
+    ],
+    "ni": 15,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2017-03-30",
+    "cm": 15,
+    "ex": "I had a craving the other day for some nice, big, Gyro sandwiches. You know the ones I'm talking about: hot fluffy bread stuffed with thinly shaved meat, veggies, and of course that yogurt sauce. I'm",
+    "pv": 822
+  },
+  "sourceHtml": "pages/keto-gyros.html",
+  "scrapedAt": "2026-11-07T08:27:44.741Z"
+}

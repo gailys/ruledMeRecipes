@@ -1,0 +1,342 @@
+{
+  "id": "ruled-46076",
+  "slug": "keto-lemon-mahi-mahi",
+  "title": "Keto Lemon Mahi Mahi",
+  "url": "https://www.ruled.me/keto-lemon-mahi-mahi/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Lemon Mahi Mahi . Each serving comes out to be 356 calories, 26.1g fats, 5.5g net carbs, and 24.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "356 kcal",
+    "fatContent": "26.1 g",
+    "proteinContent": "24.8 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 356,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 24.8,
+    "fatGrams": 26.1
+  },
+  "ingredients": [
+    "4 tablespoon butter",
+    "4 tablespoon olive oil",
+    "16 ounce mahi mahi",
+    "salt and pepper (to taste)",
+    "16 ounce asparagus spears",
+    "3 teaspoon fresh garlic (minced)",
+    "1/4 teaspoon crushed red pepper flakes",
+    "1 medium lemon (sliced)",
+    "1 medium lemon (juice + zest)",
+    "1 tablespoon fresh parsley"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-1.jpg"
+    },
+    {
+      "text": "Use quarter of the butter and olive oil and add to the frying pan. Fry the fish on medium heat and season with salt and pepper. Cook the fish until golden brown on both sides. Remove from heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-2.jpg"
+    },
+    {
+      "text": "Using another quarter of the butter and olive oil, cook the asparagus spears until tender. Remove from pan and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-3.jpg"
+    },
+    {
+      "text": "Use the rest of the butter and olive oil in the pan. Add the minced garlic and crushed red pepper flakes and sautee for 30 seconds. Add in the lemon slices, lemon zest + juice, and chopped parsley. Sautee for 30 seconds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-4.jpg"
+    },
+    {
+      "text": "Add the mahi mahi and asparagus spears back into the pan. Stir well to combine the lemon butter sauce on top of the asparagus and fish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "summer",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/0c7396a6268819cbcbd4d304.jpg",
+      "archived": true,
+      "originalPath": "images/0c7396a6268819cbcbd4d304.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Featured.jpg",
+      "path": "images/3f79b50a8a4f56b2085127fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-1.jpg",
+      "path": "../../nenaudojama/dinner/images/d8e2bb7b6d3a6c078941c7ce.jpg",
+      "archived": true,
+      "originalPath": "images/d8e2bb7b6d3a6c078941c7ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-2.jpg",
+      "path": "../../nenaudojama/dinner/images/d4d3033e9e8c9e61153c362d.jpg",
+      "archived": true,
+      "originalPath": "images/d4d3033e9e8c9e61153c362d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-3.jpg",
+      "path": "../../nenaudojama/dinner/images/ddadc8cf09527a886e8e4690.jpg",
+      "archived": true,
+      "originalPath": "images/ddadc8cf09527a886e8e4690.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-4.jpg",
+      "path": "../../nenaudojama/dinner/images/384d577c10d6f03676f10cd3.jpg",
+      "archived": true,
+      "originalPath": "images/384d577c10d6f03676f10cd3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-5.jpg",
+      "path": "../../nenaudojama/dinner/images/56a5bbc650c7be046d8ad7a7.avif",
+      "archived": true,
+      "originalPath": "images/56a5bbc650c7be046d8ad7a7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/66e2a9768c5ebcd112f902ef.jpg",
+      "archived": true,
+      "originalPath": "images/66e2a9768c5ebcd112f902ef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/2861f180e8116102b025079b.avif",
+      "archived": true,
+      "originalPath": "images/2861f180e8116102b025079b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/33568b81e44a82dedf8ab9c2.jpg",
+      "archived": true,
+      "originalPath": "images/33568b81e44a82dedf8ab9c2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/95045335984ceba83bc20e35.jpg",
+      "archived": true,
+      "originalPath": "images/95045335984ceba83bc20e35.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1431f195e9b64a19b17aeea9.avif",
+      "archived": true,
+      "originalPath": "images/1431f195e9b64a19b17aeea9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a940827800cbb263aa86e317.jpg",
+      "archived": true,
+      "originalPath": "images/a940827800cbb263aa86e317.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d2bbe132a542bc715c60613d.jpg",
+      "archived": true,
+      "originalPath": "images/d2bbe132a542bc715c60613d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1e35833eafd5231566e37e1b.avif",
+      "archived": true,
+      "originalPath": "images/1e35833eafd5231566e37e1b.avif"
+    }
+  ],
+  "featuredImage": "images/3f79b50a8a4f56b2085127fb.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Lemon Mahi Mahi",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Lemon Mahi Mahi . Each serving comes out to be 356 calories, 26.1g fats, 5.5g net carbs, and 24.8g protein.",
+    "datePublished": "2021-09-30T09:00:42+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "4 tablespoon butter",
+      "4 tablespoon olive oil",
+      "16 ounce mahi mahi",
+      "salt and pepper (to taste)",
+      "16 ounce asparagus spears",
+      "3 teaspoon fresh garlic (minced)",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1 medium lemon (sliced)",
+      "1 medium lemon (juice + zest)",
+      "1 tablespoon fresh parsley"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use quarter of the butter and olive oil and add to the frying pan. Fry the fish on medium heat and season with salt and pepper. Cook the fish until golden brown on both sides. Remove from heat.",
+        "name": "Use quarter of the butter and olive oil and add to the frying pan. Fry the fish on medium heat and season with salt and pepper. Cook the fish until golden brown on both sides. Remove from heat.",
+        "url": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using another quarter of the butter and olive oil, cook the asparagus spears until tender. Remove from pan and set aside.",
+        "name": "Using another quarter of the butter and olive oil, cook the asparagus spears until tender. Remove from pan and set aside.",
+        "url": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use the rest of the butter and olive oil in the pan. Add the minced garlic and crushed red pepper flakes and sautee for 30 seconds. Add in the lemon slices, lemon zest + juice, and chopped parsley. Sautee for 30 seconds.",
+        "name": "Use the rest of the butter and olive oil in the pan. Add the minced garlic and crushed red pepper flakes and sautee for 30 seconds. Add in the lemon slices, lemon zest + juice, and chopped parsley. Sautee for 30 seconds.",
+        "url": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mahi mahi and asparagus spears back into the pan. Stir well to combine the lemon butter sauce on top of the asparagus and fish.",
+        "name": "Add the mahi mahi and asparagus spears back into the pan. Stir well to combine the lemon butter sauce on top of the asparagus and fish.",
+        "url": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-lemon-mahi-mahi/#wprm-recipe-53937-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, fish, gluten-free, keto, low-carb, nut-free, one-pan, one-pan meals, quick, simple-and-easy, stovetop, sugar-free, summer, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "356 kcal",
+      "fatContent": "26.1 g",
+      "proteinContent": "24.8 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-lemon-mahi-mahi/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-lemon-mahi-mahi/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-lemon-mahi-mahi/"
+  },
+  "sourceIndex": {
+    "id": 46076,
+    "rid": 53937,
+    "t": "Keto Lemon Mahi Mahi",
+    "u": "/keto-lemon-mahi-mahi/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/08/Lemon-Mahi-Mahi-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.5,
+    "cal": 356,
+    "pr": 24.8,
+    "fa": 26.1,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "summer",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2021-09-30",
+    "cm": 0,
+    "ex": "This recipe is light, fresh, and perfect for a quick lunchtime option or dinner during the warmer months. Mahi-mahi is a fish that works well when searing or pan-grilling. It has a firm texture",
+    "pv": 85
+  },
+  "sourceHtml": "pages/keto-lemon-mahi-mahi.html",
+  "scrapedAt": "2026-11-07T08:27:44.025Z"
+}

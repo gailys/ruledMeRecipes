@@ -1,0 +1,332 @@
+{
+  "id": "ruled-34562",
+  "slug": "tomato-basil-and-mozzarella-galette",
+  "title": "Tomato Basil and Mozzarella Galette",
+  "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Tomato Basil and Mozzarella Galette. Each serving comes out to be 237 calories, 19g fats, 4.3g net carbs, and 10.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "3",
+    "calories": "237 kcal",
+    "fatContent": "19 g",
+    "proteinContent": "10.9 g",
+    "carbohydrateContent": "4.3 g"
+  },
+  "nutritionPerServing": {
+    "calories": 237,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 10.9,
+    "fatGrams": 19
+  },
+  "ingredients": [
+    "1 cup almond flour",
+    "1 teaspoon garlic powder",
+    "3 tablespoon mozzarella liquid",
+    "1 large egg",
+    "1/4 cup parmesan cheese (shredded)",
+    "2 tablespoon pesto",
+    "2 tablespoon fresh basil",
+    "1/2 ounce mozzarella pearls",
+    "4 medium cherry tomatoes"
+  ],
+  "instructions": [
+    {
+      "text": "Heat oven to 375F and line a cookie sheet with parchment. Spray with non stick spray. Combine the almond flour, garlic powder, and mozzarella liquid in a bowl, then stir gently.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-01.jpg"
+    },
+    {
+      "text": "Add the egg and Parmesan cheese, then mix well until dough forms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-02.jpg"
+    },
+    {
+      "text": "Form the dough mixture into a large ball and place on the prepared parchment.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-03.jpg"
+    },
+    {
+      "text": "Press the dough ball into a circle, working to keep the thickness uniform. It should press out to about ½ inch thick. It may be sticky, so wetting your hands with a little water can help keep the dough from sticking to your fingers.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-04.jpg"
+    },
+    {
+      "text": "Spread pesto evenly over the center of the crust, leaving room to fold in the edges. Layer mozzarella, basil leaves, and tomatoes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-05.jpg"
+    },
+    {
+      "text": "Using the edge of the parchment, fold the edges of the crust up and over the filling. Work in a circle around the edge until all of the edges are folded up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-07.jpg"
+    },
+    {
+      "text": "Bake for 20 to 25 minutes or until crust browns and cheese is melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/7449bd4d8eba82897d5759ea.jpg",
+      "archived": true,
+      "originalPath": "images/7449bd4d8eba82897d5759ea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-featured.jpg",
+      "path": "images/780a7a0775f3a4f9983e5bbc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-01.jpg",
+      "path": "../../nenaudojama/lunch/images/34f4b418dcc3f9dc7c3c9c6a.jpg",
+      "archived": true,
+      "originalPath": "images/34f4b418dcc3f9dc7c3c9c6a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-02.jpg",
+      "path": "../../nenaudojama/lunch/images/db6afd1ec03123875c19dda8.avif",
+      "archived": true,
+      "originalPath": "images/db6afd1ec03123875c19dda8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-03.jpg",
+      "path": "../../nenaudojama/lunch/images/1b3729ea7b881d8a58341f9d.avif",
+      "archived": true,
+      "originalPath": "images/1b3729ea7b881d8a58341f9d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-04.jpg",
+      "path": "../../nenaudojama/lunch/images/0faa5ec8164e68eafe56ae48.avif",
+      "archived": true,
+      "originalPath": "images/0faa5ec8164e68eafe56ae48.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-05.jpg",
+      "path": "../../nenaudojama/lunch/images/c58a7b95e3649d52fabc1aed.avif",
+      "archived": true,
+      "originalPath": "images/c58a7b95e3649d52fabc1aed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-07.jpg",
+      "path": "../../nenaudojama/lunch/images/f719fbc6a3e9fa16fbfb5fac.jpg",
+      "archived": true,
+      "originalPath": "images/f719fbc6a3e9fa16fbfb5fac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-second.jpg",
+      "path": "../../nenaudojama/lunch/images/3af352c29816b6487ae1013b.avif",
+      "archived": true,
+      "originalPath": "images/3af352c29816b6487ae1013b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/3503f7744a740cd6a2983e8a.avif",
+      "archived": true,
+      "originalPath": "images/3503f7744a740cd6a2983e8a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9ce0559a57150d8104cc45bb.jpg",
+      "archived": true,
+      "originalPath": "images/9ce0559a57150d8104cc45bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f6697e9d1968253d0085f287.avif",
+      "archived": true,
+      "originalPath": "images/f6697e9d1968253d0085f287.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8c7437bf30d2ca38ceaf5023.avif",
+      "archived": true,
+      "originalPath": "images/8c7437bf30d2ca38ceaf5023.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/67611434f8876f6df24331e5.avif",
+      "archived": true,
+      "originalPath": "images/67611434f8876f6df24331e5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/1f4b1593e960236c8344d39f.avif",
+      "archived": true,
+      "originalPath": "images/1f4b1593e960236c8344d39f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/540f48eb8bc3c63ebe560f49.avif",
+      "archived": true,
+      "originalPath": "images/540f48eb8bc3c63ebe560f49.avif"
+    }
+  ],
+  "featuredImage": "images/780a7a0775f3a4f9983e5bbc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Tomato Basil and Mozzarella Galette",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Tomato Basil and Mozzarella Galette. Each serving comes out to be 237 calories, 19g fats, 4.3g net carbs, and 10.9g protein.",
+    "datePublished": "2017-12-14T12:00:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "1 cup almond flour",
+      "1 teaspoon garlic powder",
+      "3 tablespoon mozzarella liquid",
+      "1 large egg",
+      "1/4 cup parmesan cheese (shredded)",
+      "2 tablespoon pesto",
+      "2 tablespoon fresh basil",
+      "1/2 ounce mozzarella pearls",
+      "4 medium cherry tomatoes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat oven to 375F and line a cookie sheet with parchment. Spray with non stick spray. Combine the almond flour, garlic powder, and mozzarella liquid in a bowl, then stir gently.",
+        "name": "Heat oven to 375F and line a cookie sheet with parchment. Spray with non stick spray. Combine the almond flour, garlic powder, and mozzarella liquid in a bowl, then stir gently.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the egg and Parmesan cheese, then mix well until dough forms.",
+        "name": "Add the egg and Parmesan cheese, then mix well until dough forms.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the dough mixture into a large ball and place on the prepared parchment.",
+        "name": "Form the dough mixture into a large ball and place on the prepared parchment.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Press the dough ball into a circle, working to keep the thickness uniform. It should press out to about ½ inch thick. It may be sticky, so wetting your hands with a little water can help keep the dough from sticking to your fingers.",
+        "name": "Press the dough ball into a circle, working to keep the thickness uniform. It should press out to about ½ inch thick. It may be sticky, so wetting your hands with a little water can help keep the dough from sticking to your fingers.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread pesto evenly over the center of the crust, leaving room to fold in the edges. Layer mozzarella, basil leaves, and tomatoes.",
+        "name": "Spread pesto evenly over the center of the crust, leaving room to fold in the edges. Layer mozzarella, basil leaves, and tomatoes.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using the edge of the parchment, fold the edges of the crust up and over the filling. Work in a circle around the edge until all of the edges are folded up.",
+        "name": "Using the edge of the parchment, fold the edges of the crust up and over the filling. Work in a circle around the edge until all of the edges are folded up.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20 to 25 minutes or until crust browns and cheese is melted.",
+        "name": "Bake for 20 to 25 minutes or until crust browns and cheese is melted.",
+        "url": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#wprm-recipe-52361-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "3",
+      "calories": "237 kcal",
+      "fatContent": "19 g",
+      "proteinContent": "10.9 g",
+      "carbohydrateContent": "4.3 g"
+    },
+    "@id": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/tomato-basil-and-mozzarella-galette/"
+  },
+  "sourceIndex": {
+    "id": 34562,
+    "rid": 52361,
+    "t": "Tomato Basil and Mozzarella Galette",
+    "u": "/tomato-basil-and-mozzarella-galette/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/tomato-basil-n-mozzarella-galette-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.3,
+    "cal": 237,
+    "pr": 10.9,
+    "fa": 19,
+    "tm": 50,
+    "sv": 4,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2017-12-14",
+    "cm": 16,
+    "ex": "The beauty in a galette is that they don’t have to be beautiful to be delicious. In fact, the more rustic they look, the fancier the appear. This imperfect crust method is great for gluten free",
+    "pv": 590
+  },
+  "sourceHtml": "pages/tomato-basil-and-mozzarella-galette.html",
+  "scrapedAt": "2026-11-07T08:17:18.898Z"
+}

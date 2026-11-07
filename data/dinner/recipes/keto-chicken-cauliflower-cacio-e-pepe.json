@@ -1,0 +1,376 @@
+{
+  "id": "ruled-47063",
+  "slug": "keto-chicken-cauliflower-cacio-e-pepe",
+  "title": "Keto Chicken & Cauliflower Cacio e Pepe",
+  "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Chicken & Cauliflower Cacio e Pepe . Each serving comes out to be 413 calories, 35.3g fats, 3.4g net carbs, and 19.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "413 kcal",
+    "fatContent": "35.3 g",
+    "proteinContent": "19.7 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 413,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 19.7,
+    "fatGrams": 35.3
+  },
+  "ingredients": [
+    "12 ounce cooked chicken (shredded )",
+    "2 tablespoon olive oil",
+    "4 tablespoon unsalted butter (divided)",
+    "1 medium cauliflower (cut into bite-sized florets)",
+    "2 teaspoon fresh garlic (minced)",
+    "salt and pepper (to taste)",
+    "3/4 cup heavy cream",
+    "3/4 cup unsweetened almond milk",
+    "1 cup pecorino romano"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-1.jpg"
+    },
+    {
+      "text": "In a saucepan over medium heat, heat olive oil and half of the butter until the butter is melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-2.jpg"
+    },
+    {
+      "text": "Pour this into a frying pan with the cauliflower. Cook for about 10 minutes until the cauliflower turns soft.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-3.jpg"
+    },
+    {
+      "text": "Add in the minced garlic, salt, and pepper. Stir to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-4.jpg"
+    },
+    {
+      "text": "In a saucepan over medium heat, add the rest of the butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-5.jpg"
+    },
+    {
+      "text": "Whisk together the heavy cream and unsweetened almond milk. Remove from heat then add pecorino romano.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-6.jpg"
+    },
+    {
+      "text": "Add the milk sauce to the cauliflower and top with the shredded cooked chicken. Stir well to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-7.jpg"
+    },
+    {
+      "text": "Serve hot and season with more black pepper. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "poultry",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "egg-free",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/ced9fa951e4b325a9caafd30.jpg",
+      "archived": true,
+      "originalPath": "images/ced9fa951e4b325a9caafd30.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Featured.jpg",
+      "path": "images/9d23424f32cffe944d1a6358.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-1.jpg",
+      "path": "../../nenaudojama/dinner/images/e9f022ad6d93dcaebc9c2dd8.jpg",
+      "archived": true,
+      "originalPath": "images/e9f022ad6d93dcaebc9c2dd8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-2.jpg",
+      "path": "../../nenaudojama/dinner/images/24a87fc5132cec3fb38f5788.jpg",
+      "archived": true,
+      "originalPath": "images/24a87fc5132cec3fb38f5788.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-3.jpg",
+      "path": "../../nenaudojama/dinner/images/2a9c194ceab6efbd496cb9fe.jpg",
+      "archived": true,
+      "originalPath": "images/2a9c194ceab6efbd496cb9fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-4.jpg",
+      "path": "../../nenaudojama/dinner/images/0fcda513322d4ea88a96b83b.jpg",
+      "archived": true,
+      "originalPath": "images/0fcda513322d4ea88a96b83b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-5.jpg",
+      "path": "../../nenaudojama/dinner/images/7003b29b090bb2aab4138aeb.jpg",
+      "archived": true,
+      "originalPath": "images/7003b29b090bb2aab4138aeb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-6.jpg",
+      "path": "../../nenaudojama/dinner/images/32e714ce8edb29656c8b76fa.jpg",
+      "archived": true,
+      "originalPath": "images/32e714ce8edb29656c8b76fa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-7.jpg",
+      "path": "../../nenaudojama/dinner/images/dafe75b889e62c7baf5e6606.jpg",
+      "archived": true,
+      "originalPath": "images/dafe75b889e62c7baf5e6606.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/d1240e605e8880718425d0b3.avif",
+      "archived": true,
+      "originalPath": "images/d1240e605e8880718425d0b3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/09087853685eb0b4e5c74a0a.jpg",
+      "archived": true,
+      "originalPath": "images/09087853685eb0b4e5c74a0a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/d264cf4cb217ab2ef5dcf9d5.jpg",
+      "archived": true,
+      "originalPath": "images/d264cf4cb217ab2ef5dcf9d5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fb2dc1e413ee938a419ab1e1.jpg",
+      "archived": true,
+      "originalPath": "images/fb2dc1e413ee938a419ab1e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3c488f384370475884028849.jpg",
+      "archived": true,
+      "originalPath": "images/3c488f384370475884028849.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e8ace9bbb57634ffd1a757d6.jpg",
+      "archived": true,
+      "originalPath": "images/e8ace9bbb57634ffd1a757d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/751eb170b28b60b69adcc0b3.jpg",
+      "archived": true,
+      "originalPath": "images/751eb170b28b60b69adcc0b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7ab8725d619ac1cf786311d0.jpg",
+      "archived": true,
+      "originalPath": "images/7ab8725d619ac1cf786311d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ed9e3eb46fccfadc467353c9.jpg",
+      "archived": true,
+      "originalPath": "images/ed9e3eb46fccfadc467353c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3a77617c6b726f8133b68821.jpg",
+      "archived": true,
+      "originalPath": "images/3a77617c6b726f8133b68821.jpg"
+    }
+  ],
+  "featuredImage": "images/9d23424f32cffe944d1a6358.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken &amp; Cauliflower Cacio e Pepe",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 6 servings of Keto Chicken &amp; Cauliflower Cacio e Pepe . Each serving comes out to be 413 calories, 35.3g fats, 3.4g net carbs, and 19.7g protein.",
+    "datePublished": "2022-05-05T09:00:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "12 ounce cooked chicken (shredded )",
+      "2 tablespoon olive oil",
+      "4 tablespoon unsalted butter (divided)",
+      "1 medium cauliflower (cut into bite-sized florets)",
+      "2 teaspoon fresh garlic (minced)",
+      "salt and pepper (to taste)",
+      "3/4 cup heavy cream",
+      "3/4 cup unsweetened almond milk",
+      "1 cup pecorino romano"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over medium heat, heat olive oil and half of the butter until the butter is melted.",
+        "name": "In a saucepan over medium heat, heat olive oil and half of the butter until the butter is melted.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour this into a frying pan with the cauliflower. Cook for about 10 minutes until the cauliflower turns soft.",
+        "name": "Pour this into a frying pan with the cauliflower. Cook for about 10 minutes until the cauliflower turns soft.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the minced garlic, salt, and pepper. Stir to combine well.",
+        "name": "Add in the minced garlic, salt, and pepper. Stir to combine well.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over medium heat, add the rest of the butter.",
+        "name": "In a saucepan over medium heat, add the rest of the butter.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together the heavy cream and unsweetened almond milk. Remove from heat then add pecorino romano.",
+        "name": "Whisk together the heavy cream and unsweetened almond milk. Remove from heat then add pecorino romano.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the milk sauce to the cauliflower and top with the shredded cooked chicken. Stir well to combine.",
+        "name": "Add the milk sauce to the cauliflower and top with the shredded cooked chicken. Stir well to combine.",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and season with more black pepper. Enjoy!",
+        "name": "Serve hot and season with more black pepper. Enjoy!",
+        "url": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#wprm-recipe-54187-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "egg-free, family-friendly, gluten-free, high-fat, keto, low-carb, poultry, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "413 kcal",
+      "fatContent": "35.3 g",
+      "proteinContent": "19.7 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-cauliflower-cacio-e-pepe/"
+  },
+  "sourceIndex": {
+    "id": 47063,
+    "rid": 54187,
+    "t": "Keto Chicken & Cauliflower Cacio e Pepe",
+    "u": "/keto-chicken-cauliflower-cacio-e-pepe/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/02/Cauliflower-Cacio-e-Pepe-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.4,
+    "cal": 413,
+    "pr": 19.7,
+    "fa": 35.3,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "poultry",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "egg-free",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2022-05-05",
+    "cm": 0,
+    "ex": "This chicken & cauliflower cacio e pepe recipe is a flavor-packed and keto-friendly dish that can be whipped up quickly. The term “cacio e pepe” is Italian for “cheese and pepper,” which are the two",
+    "pv": 52
+  },
+  "sourceHtml": "pages/keto-chicken-cauliflower-cacio-e-pepe.html",
+  "scrapedAt": "2026-11-07T08:27:43.839Z"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "ruled-39902",
+  "slug": "keto-broccoli-and-cheese-soup",
+  "title": "Keto Broccoli and Cheese Soup",
+  "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Broccoli and Cheese Soup. Each serving comes out to be 434 calories, 39.8g fats, 5.9g net carbs, and 13.3g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "434 kcal",
+    "fatContent": "39.8 g",
+    "proteinContent": "13.3 g",
+    "carbohydrateContent": "5.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 434,
+    "netCarbsGrams": 5.9,
+    "proteinGrams": 13.3,
+    "fatGrams": 39.8
+  },
+  "ingredients": [
+    "1 tablespoon butter",
+    "3/4 medium onion (diced)",
+    "2 teaspoon fresh garlic (minced)",
+    "salt and pepper (to taste)",
+    "1/4 teaspoon xanthan gum",
+    "1/2 cup chicken broth",
+    "1 cup broccoli (chopped)",
+    "1 cup heavy cream",
+    "1 1/2 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat the pot on the stove. In the pot, place the onions, minced garlic, salt, and pepper. Sauté on medium until the onions are clear.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-01.jpg"
+    },
+    {
+      "text": "Sprinkle xanthan gum over the butter and onions. Stir in the chicken broth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-03.jpg"
+    },
+    {
+      "text": "Put the broccoli in the pot. Ensure the vegetables are coated with broth mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-04.jpg"
+    },
+    {
+      "text": "Quickly stir in the cream. Stir frequently so the xanthan gum mixes in and thickens. Bring the soup up to a boil, then reduce heat and simmer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-05.jpg"
+    },
+    {
+      "text": "Once simmering, slowly begin whisking the cheese into the pot. If preferred, add additional chicken broth to achieve desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-06.jpg"
+    },
+    {
+      "text": "Serve warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/de1ed53d70ee21bd57aedea5.jpg",
+      "archived": true,
+      "originalPath": "images/de1ed53d70ee21bd57aedea5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-featured.jpg",
+      "path": "images/c2c05485b23fb29788aea27f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-01.jpg",
+      "path": "../../nenaudojama/dinner/images/a72969f6d815489d5082c784.jpg",
+      "archived": true,
+      "originalPath": "images/a72969f6d815489d5082c784.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-03.jpg",
+      "path": "../../nenaudojama/dinner/images/ecb0093ff7d45b00dd513f37.jpg",
+      "archived": true,
+      "originalPath": "images/ecb0093ff7d45b00dd513f37.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-04.jpg",
+      "path": "../../nenaudojama/dinner/images/06c062712535ac95eb8f4495.jpg",
+      "archived": true,
+      "originalPath": "images/06c062712535ac95eb8f4495.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-05.jpg",
+      "path": "../../nenaudojama/dinner/images/af1541097600c024e3189d57.jpg",
+      "archived": true,
+      "originalPath": "images/af1541097600c024e3189d57.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-06.jpg",
+      "path": "../../nenaudojama/dinner/images/848c9035ba42796c3df7c5ad.avif",
+      "archived": true,
+      "originalPath": "images/848c9035ba42796c3df7c5ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-02-1.jpg",
+      "path": "../../nenaudojama/dinner/images/877dc4c302857a7132a0c0c6.avif",
+      "archived": true,
+      "originalPath": "images/877dc4c302857a7132a0c0c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/d0e5a13b929b71742b3c5147.avif",
+      "archived": true,
+      "originalPath": "images/d0e5a13b929b71742b3c5147.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/010fa1d0f6c6e71d1a76a723.avif",
+      "archived": true,
+      "originalPath": "images/010fa1d0f6c6e71d1a76a723.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b8e645453dfd8768da8674b0.jpg",
+      "archived": true,
+      "originalPath": "images/b8e645453dfd8768da8674b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e4262f68bccd398e0b6d3c0f.jpg",
+      "archived": true,
+      "originalPath": "images/e4262f68bccd398e0b6d3c0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f88c8115912f1656834c7f67.avif",
+      "archived": true,
+      "originalPath": "images/f88c8115912f1656834c7f67.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d59c8d5c4a62ab864092f00c.jpg",
+      "archived": true,
+      "originalPath": "images/d59c8d5c4a62ab864092f00c.jpg"
+    }
+  ],
+  "featuredImage": "images/c2c05485b23fb29788aea27f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Broccoli and Cheese Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Broccoli and Cheese Soup. Each serving comes out to be 434 calories, 39.8g fats, 5.9g net carbs, and 13.3g protein.",
+    "datePublished": "2019-03-12T11:00:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 tablespoon butter",
+      "3/4 medium onion (diced)",
+      "2 teaspoon fresh garlic (minced)",
+      "salt and pepper (to taste)",
+      "1/4 teaspoon xanthan gum",
+      "1/2 cup chicken broth",
+      "1 cup broccoli (chopped)",
+      "1 cup heavy cream",
+      "1 1/2 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat the pot on the stove. In the pot, place the onions, minced garlic, salt, and pepper. Sauté on medium until the onions are clear.",
+        "name": "Pre-heat the pot on the stove. In the pot, place the onions, minced garlic, salt, and pepper. Sauté on medium until the onions are clear.",
+        "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle xanthan gum over the butter and onions. Stir in the chicken broth.",
+        "name": "Sprinkle xanthan gum over the butter and onions. Stir in the chicken broth.",
+        "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the broccoli in the pot. Ensure the vegetables are coated with broth mixture.",
+        "name": "Put the broccoli in the pot. Ensure the vegetables are coated with broth mixture.",
+        "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Quickly stir in the cream. Stir frequently so the xanthan gum mixes in and thickens. Bring the soup up to a boil, then reduce heat and simmer.",
+        "name": "Quickly stir in the cream. Stir frequently so the xanthan gum mixes in and thickens. Bring the soup up to a boil, then reduce heat and simmer.",
+        "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once simmering, slowly begin whisking the cheese into the pot. If preferred, add additional chicken broth to achieve desired consistency.",
+        "name": "Once simmering, slowly begin whisking the cheese into the pot. If preferred, add additional chicken broth to achieve desired consistency.",
+        "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve warm.",
+        "name": "Serve warm.",
+        "url": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#wprm-recipe-52918-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, fall, gluten-free, high-fat, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "434 kcal",
+      "fatContent": "39.8 g",
+      "proteinContent": "13.3 g",
+      "carbohydrateContent": "5.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-broccoli-and-cheese-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-broccoli-and-cheese-soup/"
+  },
+  "sourceIndex": {
+    "id": 39902,
+    "rid": 52918,
+    "t": "Keto Broccoli and Cheese Soup",
+    "u": "/keto-broccoli-and-cheese-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/broccoli-n-cheese-soup-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.9,
+    "cal": 434,
+    "pr": 13.3,
+    "fa": 39.8,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2019-03-12",
+    "cm": 7,
+    "ex": "It’s time to get comfy and cozy with a delicious bowl of cheese and broccoli soup! This keto recipe is pretty easy to prep and execute. It is a great meal to make quickly before relaxing by the fire",
+    "pv": 206
+  },
+  "sourceHtml": "pages/keto-broccoli-and-cheese-soup.html",
+  "scrapedAt": "2026-11-07T08:27:44.487Z"
+}

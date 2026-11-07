@@ -1,0 +1,377 @@
+{
+  "id": "ruled-43701",
+  "slug": "keto-chicken-salad",
+  "title": "Keto Chicken Salad",
+  "url": "https://www.ruled.me/keto-chicken-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Chicken Salad. Each serving comes out to be 539 calories, 46.4g fat, 6.5g net carbs, and 21.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT30M",
+  "cookTime": "PT0M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "539 kcal",
+    "fatContent": "46.4 g",
+    "proteinContent": "21.1 g",
+    "carbohydrateContent": "6.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 539,
+    "netCarbsGrams": 6.5,
+    "proteinGrams": 21.1,
+    "fatGrams": 46.4
+  },
+  "ingredients": [
+    "8 ounce chicken thighs (cooked and cubed)",
+    "2 large eggs (hard-boiled to your preference)",
+    "2/3 cup mayonnaise",
+    "1 medium avocado",
+    "1 tablespoon lime juice",
+    "1/4 medium red onion (diced)",
+    "1 stalk celery (diced)",
+    "salt and pepper (to taste)",
+    "1/4 cup cilantro (to garnish)",
+    "4 low carb tortillas"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. Hard-boil the eggs and cook the chicken if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-01.jpg"
+    },
+    {
+      "text": "In a food processor or blender, combine the mayonnaise, lime juice, and half of the avocado. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-03.jpg"
+    },
+    {
+      "text": "Cube the remaining half of the avocado and chop the hard-boiled eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-05.jpg"
+    },
+    {
+      "text": "In a bowl, combine the chicken, onion, celery, avocado, egg, and mayonnaise dressing. Season with additional salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-11.jpg"
+    },
+    {
+      "text": "Mix together until combined and dressing is coating all ingredients evenly. Place in the refrigerator until ready to serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-12.jpg"
+    },
+    {
+      "text": "Toast tortilla up in a pan, then serve the cold chicken salad over the top. Garnish with cilantro, if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "nut-free",
+    "poultry",
+    "quick",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/cda6ef004c569f8543171959.avif",
+      "archived": true,
+      "originalPath": "images/cda6ef004c569f8543171959.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Featured.jpg",
+      "path": "images/15cf76cab0041fb5c94bc9e0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-01.jpg",
+      "path": "../../nenaudojama/lunch/images/387aa6779e45e672b01c525b.jpg",
+      "archived": true,
+      "originalPath": "images/387aa6779e45e672b01c525b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-03.jpg",
+      "path": "../../nenaudojama/lunch/images/ab83032dd7ecc38b66a039f3.jpg",
+      "archived": true,
+      "originalPath": "images/ab83032dd7ecc38b66a039f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-05.jpg",
+      "path": "../../nenaudojama/lunch/images/10d219d0bd8854de1007525e.avif",
+      "archived": true,
+      "originalPath": "images/10d219d0bd8854de1007525e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-11.jpg",
+      "path": "../../nenaudojama/lunch/images/2889ea84bf01ce54379337df.jpg",
+      "archived": true,
+      "originalPath": "images/2889ea84bf01ce54379337df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-12.jpg",
+      "path": "../../nenaudojama/lunch/images/a697997e568474252f8d8f9c.jpg",
+      "archived": true,
+      "originalPath": "images/a697997e568474252f8d8f9c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/0cb84c4f9d33979f6c8945c1.jpg",
+      "archived": true,
+      "originalPath": "images/0cb84c4f9d33979f6c8945c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Pin.jpg",
+      "path": "../../nenaudojama/lunch/images/76d355d2a12bffb5691ab58a.jpg",
+      "archived": true,
+      "originalPath": "images/76d355d2a12bffb5691ab58a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/878b65debb69668cfdcd2f05.jpg",
+      "archived": true,
+      "originalPath": "images/878b65debb69668cfdcd2f05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9fb0975fc09b1ad4b78aff64.jpg",
+      "archived": true,
+      "originalPath": "images/9fb0975fc09b1ad4b78aff64.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ad83e05c18fdce29ce4d16f2.jpg",
+      "archived": true,
+      "originalPath": "images/ad83e05c18fdce29ce4d16f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/304a65f81cb12006202a51f4.avif",
+      "archived": true,
+      "originalPath": "images/304a65f81cb12006202a51f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-11-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fe3e87a63be9e653438ccd30.avif",
+      "archived": true,
+      "originalPath": "images/fe3e87a63be9e653438ccd30.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-12-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/54e41c65df8d3e887611556d.avif",
+      "archived": true,
+      "originalPath": "images/54e41c65df8d3e887611556d.avif"
+    }
+  ],
+  "featuredImage": "images/15cf76cab0041fb5c94bc9e0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Chicken Salad. Each serving comes out to be 539 calories, 46.4g fat, 6.5g net carbs, and 21.1g protein.",
+    "datePublished": "2020-08-25T08:54:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Chicken Salad Recipe [Easy, Creamy, Low-Carb]",
+      "description": "Chicken salad is one of the best keto staples. With the right ingredients, it checks all the boxes for a perfect keto-friendly meal: satisfying, delicious, healthy, convenient, and versatile.\n\nThe only problem is that all chicken salads aren’t made the same. Some are too rich, some have too much vinegar, and others come with unnecessary high-carb ingredients.\n\nFinding the right balance of flavors and textures is a challenge, so we decided to take chicken salad to the keto kitchen for a makeover. The result left me speechless (mostly because I couldn’t keep myself from taking another bite).\n\nIs Chicken Salad Keto?\nIt depends on what kind of chicken salad you are having. Classic chicken salad — with mayo, celery, red onion, chicken, and a little dijon mustard — is keto-friendly.\n\nHowever, as soon as you throw in any fresh or dried fruit, such as craisins, apples, or grapes, there will be too many carbs in your chicken salad for keto. This is why is best to stick with a keto-approved recipe for chicken salad that you know will hit the spot every time.\n\nTop Tips for Making the Best Keto Chicken Salad\nAfter experimenting with dozens of different chicken salad recipes over the years, I’ve found that these three tips to provide the most bang for the buck:\n\nAdd avocado. The avocado gives it some extra creaminess without making it too rich. It also provides us with a great way to sneak in some extra healthy fats, fiber, minerals, and vitamins.\nUse chicken thigh, not breast. Chicken thighs have more fat and flavor, making them the perfect meat for keto chicken salad. Plus, they are much cheaper than chicken breasts.\nDon’t forget the hard-boiled eggs. The unique textures from the hard-boiled yolk and whites gives the chicken salad another dimension that keeps it satisfying through the last bite.\nHow To Store Your Keto Chicken Salad\nIf you’re looking to meal prep for the week or store any leftovers, put each chicken salad serving in an airtight container in the fridge.\n\nBy storing it in this way, you can have quick and delicious keto meals that’ll stay fresh for up to a week.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 ounce chicken thighs, cooked and cubed\n2 large eggs, hard-boiled to your preference\n2/3 cup mayonnaise\n1 medium avocado\n1 tablespoon lime juice\n1/4 medium red onion, diced\n1 stalk celery, diced\nsalt and pepper, to taste\n1/4 cup cilantro, to garnish\n4 low carb tortillas, store-bought or homemade\n\nNutrition Summary: This makes a total of 4 servings of Keto Chicken Salad. Each serving comes out to be 539 calories, 46.4g fat, 6.5g net carbs, and 21.1g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-05-20T14:00:32+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M25S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 18601
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 441
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 22
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yuHxshpZlMY/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yuHxshpZlMY?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=yuHxshpZlMY",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT30M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "8 ounce chicken thighs (cooked and cubed)",
+      "2 large eggs (hard-boiled to your preference)",
+      "2/3 cup mayonnaise",
+      "1 medium avocado",
+      "1 tablespoon lime juice",
+      "1/4 medium red onion (diced)",
+      "1 stalk celery (diced)",
+      "salt and pepper (to taste)",
+      "1/4 cup cilantro (to garnish)",
+      "4 low carb tortillas"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. Hard-boil the eggs and cook the chicken if needed.",
+        "name": "Gather and prep all ingredients. Hard-boil the eggs and cook the chicken if needed.",
+        "url": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor or blender, combine the mayonnaise, lime juice, and half of the avocado. Season with salt and pepper to taste.",
+        "name": "In a food processor or blender, combine the mayonnaise, lime juice, and half of the avocado. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cube the remaining half of the avocado and chop the hard-boiled eggs.",
+        "name": "Cube the remaining half of the avocado and chop the hard-boiled eggs.",
+        "url": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the chicken, onion, celery, avocado, egg, and mayonnaise dressing. Season with additional salt and pepper to taste.",
+        "name": "In a bowl, combine the chicken, onion, celery, avocado, egg, and mayonnaise dressing. Season with additional salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together until combined and dressing is coating all ingredients evenly. Place in the refrigerator until ready to serve.",
+        "name": "Mix together until combined and dressing is coating all ingredients evenly. Place in the refrigerator until ready to serve.",
+        "url": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/keto-chicken-salad-wraps-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toast tortilla up in a pan, then serve the cold chicken salad over the top. Garnish with cilantro, if desired.",
+        "name": "Toast tortilla up in a pan, then serve the cold chicken salad over the top. Garnish with cilantro, if desired.",
+        "url": "https://www.ruled.me/keto-chicken-salad/#wprm-recipe-53461-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, dairy-free, high-fat, keto, low-carb, make-ahead, meal-prep, nut-free, poultry, quick, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "539 kcal",
+      "fatContent": "46.4 g",
+      "proteinContent": "21.1 g",
+      "carbohydrateContent": "6.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-chicken-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-salad/"
+  },
+  "sourceIndex": {
+    "id": 43701,
+    "rid": 53461,
+    "t": "Keto Chicken Salad",
+    "u": "/keto-chicken-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Chicken-Salad-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.5,
+    "cal": 539,
+    "pr": 21.1,
+    "fa": 46.4,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "nut-free",
+      "poultry",
+      "quick",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-08-25",
+    "cm": 2,
+    "ex": "Chicken salad is one of the best keto staples. With the right ingredients, it checks all the boxes for a perfect keto-friendly meal: satisfying, delicious, healthy, convenient, and versatile. Another",
+    "pv": 345
+  },
+  "sourceHtml": "pages/keto-chicken-salad.html",
+  "scrapedAt": "2026-11-07T08:15:55.226Z"
+}

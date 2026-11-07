@@ -1,0 +1,296 @@
+{
+  "id": "ruled-35306",
+  "slug": "tomato-asiago-soup",
+  "title": "Tomato Asiago Soup",
+  "url": "https://www.ruled.me/tomato-asiago-soup/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Tomato Asiago Soup. Each serving comes out to be 300 calories, 25.6g fats, 9.2g net carbs, and 9.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300 kcal",
+    "fatContent": "25.6 g",
+    "proteinContent": "9.1 g",
+    "carbohydrateContent": "9.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 300,
+    "netCarbsGrams": 9.2,
+    "proteinGrams": 9.1,
+    "fatGrams": 25.6
+  },
+  "ingredients": [
+    "6 ounce tomato paste",
+    "1 teaspoon fresh garlic (minced)",
+    "1/4 medium onion (minced)",
+    "salt and pepper",
+    "1 cup heavy whipping cream",
+    "3/4 cup asiago cheese (shredded)",
+    "1/4 cup water",
+    "1 teaspoon dried oregano"
+  ],
+  "instructions": [
+    {
+      "text": "Place your tomato paste, minced onion, and garlic into a pot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-01.jpg"
+    },
+    {
+      "text": "Turn on the heat to medium and pour in your cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-02.jpg"
+    },
+    {
+      "text": "Bring to a boil while you whisk the mixture together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-03.jpg"
+    },
+    {
+      "text": "Once it’s boiling, add in your Asiago cheese little by little. It should start thickening up. Add in the water and cook for an additional 4-5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-04.jpg"
+    },
+    {
+      "text": "Serve and top with pepper. You can optimally add some green onions too.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/d41f5d55d77143adf8b0c05c.avif",
+      "archived": true,
+      "originalPath": "images/d41f5d55d77143adf8b0c05c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-featured.jpg",
+      "path": "images/7a56d70a847b30e79b33e9fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-01.jpg",
+      "path": "../../nenaudojama/lunch/images/c9c46de278868d307dc60505.jpg",
+      "archived": true,
+      "originalPath": "images/c9c46de278868d307dc60505.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-02.jpg",
+      "path": "../../nenaudojama/lunch/images/b55e348e3463c7766fac338c.jpg",
+      "archived": true,
+      "originalPath": "images/b55e348e3463c7766fac338c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-03.jpg",
+      "path": "../../nenaudojama/lunch/images/0e47441de53631c1a05c9013.jpg",
+      "archived": true,
+      "originalPath": "images/0e47441de53631c1a05c9013.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-04.jpg",
+      "path": "../../nenaudojama/lunch/images/efa9e317fce01987d6098233.jpg",
+      "archived": true,
+      "originalPath": "images/efa9e317fce01987d6098233.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-second.jpg",
+      "path": "../../nenaudojama/lunch/images/b08d875eb90585a874f2f726.jpg",
+      "archived": true,
+      "originalPath": "images/b08d875eb90585a874f2f726.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/d48dfc4c01a861baf2ca7296.jpg",
+      "archived": true,
+      "originalPath": "images/d48dfc4c01a861baf2ca7296.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bda15ff1a50b76770f008685.jpg",
+      "archived": true,
+      "originalPath": "images/bda15ff1a50b76770f008685.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2dc3d89c6f74fb311a34f577.jpg",
+      "archived": true,
+      "originalPath": "images/2dc3d89c6f74fb311a34f577.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/41ad40624b7d8f162e40f2b5.jpg",
+      "archived": true,
+      "originalPath": "images/41ad40624b7d8f162e40f2b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ffa1875f4531e00f7235372f.jpg",
+      "archived": true,
+      "originalPath": "images/ffa1875f4531e00f7235372f.jpg"
+    }
+  ],
+  "featuredImage": "images/7a56d70a847b30e79b33e9fb.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Tomato Asiago Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Tomato Asiago Soup. Each serving comes out to be 300 calories, 25.6g fats, 9.2g net carbs, and 9.1g protein.",
+    "datePublished": "2018-01-23T12:00:08+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "6 ounce tomato paste",
+      "1 teaspoon fresh garlic (minced)",
+      "1/4 medium onion (minced)",
+      "salt and pepper",
+      "1 cup heavy whipping cream",
+      "3/4 cup asiago cheese (shredded)",
+      "1/4 cup water",
+      "1 teaspoon dried oregano"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place your tomato paste, minced onion, and garlic into a pot.",
+        "name": "Place your tomato paste, minced onion, and garlic into a pot.",
+        "url": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn on the heat to medium and pour in your cream.",
+        "name": "Turn on the heat to medium and pour in your cream.",
+        "url": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring to a boil while you whisk the mixture together.",
+        "name": "Bring to a boil while you whisk the mixture together.",
+        "url": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once it’s boiling, add in your Asiago cheese little by little. It should start thickening up. Add in the water and cook for an additional 4-5 minutes.",
+        "name": "Once it’s boiling, add in your Asiago cheese little by little. It should start thickening up. Add in the water and cook for an additional 4-5 minutes.",
+        "url": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and top with pepper. You can optimally add some green onions too.",
+        "name": "Serve and top with pepper. You can optimally add some green onions too.",
+        "url": "https://www.ruled.me/tomato-asiago-soup/#wprm-recipe-52457-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "keywords": "30-minute, beginner-friendly, comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "300 kcal",
+      "fatContent": "25.6 g",
+      "proteinContent": "9.1 g",
+      "carbohydrateContent": "9.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/tomato-asiago-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/tomato-asiago-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/tomato-asiago-soup/"
+  },
+  "sourceIndex": {
+    "id": 35306,
+    "rid": 52457,
+    "t": "Tomato Asiago Soup",
+    "u": "/tomato-asiago-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/tomato-asiago-soup-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 9.2,
+    "cal": 300,
+    "pr": 9.1,
+    "fa": 25.6,
+    "tm": 20,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2018-01-23",
+    "cm": 15,
+    "ex": "One of the best things to do on a frosty day is sit back and enjoy a nice cup of tomato soup, but with all the sugar added in store bought cans, it’s hard to find one to eat while keto. So I knew I",
+    "pv": 469
+  },
+  "sourceHtml": "pages/tomato-asiago-soup.html",
+  "scrapedAt": "2026-11-07T08:17:15.939Z"
+}

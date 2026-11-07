@@ -1,0 +1,302 @@
+{
+  "id": "ruled-26334",
+  "slug": "brown-butter-pecan-keto-ice-cream",
+  "title": "Browned Butter Pecan Keto Ice Cream",
+  "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Browned Butter Pecan Keto Ice Cream. Each serving comes out to be 321 calories, 34.6g fats, 0.9g net carbs, and 1.6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "321 kcal",
+    "fatContent": "34.6 g",
+    "proteinContent": "1.6 g",
+    "carbohydrateContent": "0.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 321,
+    "netCarbsGrams": 0.9,
+    "proteinGrams": 1.6,
+    "fatGrams": 34.6
+  },
+  "ingredients": [
+    "5 tablespoon butter",
+    "1/4 cup pecans (crushed)",
+    "1/4 cup heavy whipping cream",
+    "25 drop liquid stevia",
+    "1 1/2 cup unsweetened carton coconut milk",
+    "1/4 teaspoon xanthan gum"
+  ],
+  "instructions": [
+    {
+      "text": "Add the butter to a pan over low heat, stirring until melted and beginning to take on a deep amber color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7636.jpg"
+    },
+    {
+      "text": "Put the pecans in a plastic bag and crush (you can use a rolling pin for this).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7642.jpg"
+    },
+    {
+      "text": "Once the butter is browned, add in the heavy cream, stevia, and pecans. Stir together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7648.jpg"
+    },
+    {
+      "text": "Add the coconut milk, butter mixture, and xanthan gum to a container. Whisk everything together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7656.jpg"
+    },
+    {
+      "text": "Add the mixture to your ice cream machine and follow the manufacturer's instructions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7659.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/brownbutterpecanicecream.jpg",
+      "path": "images/86e2c9f61516a357f74f7e08.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7636.jpg",
+      "path": "../../nenaudojama/dessert/images/ab4d1551e2652415d376e484.jpg",
+      "archived": true,
+      "originalPath": "images/ab4d1551e2652415d376e484.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7642.jpg",
+      "path": "../../nenaudojama/dessert/images/a59c3cd2c6feea6fdbc4bc66.avif",
+      "archived": true,
+      "originalPath": "images/a59c3cd2c6feea6fdbc4bc66.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7648.jpg",
+      "path": "../../nenaudojama/dessert/images/17f79cb7e0f1055e6f9389e6.avif",
+      "archived": true,
+      "originalPath": "images/17f79cb7e0f1055e6f9389e6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7656.jpg",
+      "path": "../../nenaudojama/dessert/images/9115c095eca4efcc35facfb3.avif",
+      "archived": true,
+      "originalPath": "images/9115c095eca4efcc35facfb3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7659.jpg",
+      "path": "../../nenaudojama/dessert/images/b6a1e94d8223a833d43c8d97.jpg",
+      "archived": true,
+      "originalPath": "images/b6a1e94d8223a833d43c8d97.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/brownbutterpecanicecreamsecond.jpg",
+      "path": "../../nenaudojama/dessert/images/f26fbc39e74f1cc63ad8f46e.avif",
+      "archived": true,
+      "originalPath": "images/f26fbc39e74f1cc63ad8f46e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/brownbutterpecanicecreamlong.jpg",
+      "path": "../../nenaudojama/dessert/images/441ea89315c99e8bb23e29e3.avif",
+      "archived": true,
+      "originalPath": "images/441ea89315c99e8bb23e29e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7636-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/efdbae329ecc02372d71468c.avif",
+      "archived": true,
+      "originalPath": "images/efdbae329ecc02372d71468c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7642-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/69a350c4bf877375f4cb3b62.avif",
+      "archived": true,
+      "originalPath": "images/69a350c4bf877375f4cb3b62.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7648-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ca0c7ef7ac88771a4a015998.avif",
+      "archived": true,
+      "originalPath": "images/ca0c7ef7ac88771a4a015998.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7656-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5c9e3023f6e5b1f3ba8b4967.avif",
+      "archived": true,
+      "originalPath": "images/5c9e3023f6e5b1f3ba8b4967.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7659-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c77d743a76735193e1d7b67b.avif",
+      "archived": true,
+      "originalPath": "images/c77d743a76735193e1d7b67b.avif"
+    }
+  ],
+  "featuredImage": "images/86e2c9f61516a357f74f7e08.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Browned Butter Pecan Keto Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Browned Butter Pecan Keto Ice Cream. Each serving comes out to be 321 calories, 34.6g fats, 0.9g net carbs, and 1.6g protein.",
+    "datePublished": "2015-07-19T16:16:13+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/brownbutterpecanicecream.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "5 tablespoon butter",
+      "1/4 cup pecans (crushed)",
+      "1/4 cup heavy whipping cream",
+      "25 drop liquid stevia",
+      "1 1/2 cup unsweetened carton coconut milk",
+      "1/4 teaspoon xanthan gum"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter to a pan over low heat, stirring until melted and beginning to take on a deep amber color.",
+        "name": "Add the butter to a pan over low heat, stirring until melted and beginning to take on a deep amber color.",
+        "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7636.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the pecans in a plastic bag and crush (you can use a rolling pin for this).",
+        "name": "Put the pecans in a plastic bag and crush (you can use a rolling pin for this).",
+        "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7642.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the butter is browned, add in the heavy cream, stevia, and pecans. Stir together well.",
+        "name": "Once the butter is browned, add in the heavy cream, stevia, and pecans. Stir together well.",
+        "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7648.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut milk, butter mixture, and xanthan gum to a container. Whisk everything together well.",
+        "name": "Add the coconut milk, butter mixture, and xanthan gum to a container. Whisk everything together well.",
+        "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7656.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mixture to your ice cream machine and follow the manufacturer's instructions.",
+        "name": "Add the mixture to your ice cream machine and follow the manufacturer's instructions.",
+        "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7659.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#wprm-recipe-51765-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, keto, low-carb, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "321 kcal",
+      "fatContent": "34.6 g",
+      "proteinContent": "1.6 g",
+      "carbohydrateContent": "0.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/brown-butter-pecan-keto-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 26334,
+    "rid": 51765,
+    "t": "Brown Butter Pecan Keto Ice Cream",
+    "u": "/brown-butter-pecan-keto-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/brownbutterpecanicecream.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 0.9,
+    "cal": 321,
+    "pr": 1.6,
+    "fa": 34.6,
+    "tm": 50,
+    "sv": 3,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2015-07-19",
+    "cm": 42,
+    "ex": "In honor of National Ice Cream Day (yes, it's a thing!), I made one of my favorite flavoring of ice cream. Plus, it's one of the lowest carb ice creams that I have made before. It's almost pure fat -",
+    "pv": 522
+  },
+  "sourceHtml": "pages/brown-butter-pecan-keto-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.426Z"
+}

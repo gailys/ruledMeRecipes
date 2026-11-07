@@ -1,0 +1,352 @@
+{
+  "id": "ruled-1225",
+  "slug": "low-carb-mashed-potatoes",
+  "title": "Low Carb Mashed Potatoes",
+  "url": "https://www.ruled.me/low-carb-mashed-potatoes/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Low Carb Mashed Potatoes. Each serving comes out to be 139 calories, 10.9g fats, 4.5g net carbs, and 4.3g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139 kcal",
+    "fatContent": "10.9 g",
+    "proteinContent": "4.3 g",
+    "carbohydrateContent": "4.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 139,
+    "netCarbsGrams": 4.5,
+    "proteinGrams": 4.3,
+    "fatGrams": 10.9
+  },
+  "ingredients": [
+    "1 large cauliflower",
+    "2 tablespoon heavy whipping cream",
+    "2 tablespoon butter",
+    "2 tablespoon sour cream",
+    "1/4 teaspoon garlic powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Add a cup of water to a saucepan, then set it over medium heat and bring it to a simmer. Separate the cauliflower into florets. Save the cores!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-1.jpg"
+    },
+    {
+      "text": "Chop the cauliflower cores into small pieces (dice it).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-2.jpg"
+    },
+    {
+      "text": "Add all the cauliflower to the pot, and cover.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-3.jpg"
+    },
+    {
+      "text": "Cook for 12-15 minutes, until cauliflower is very tender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-4.jpg"
+    },
+    {
+      "text": "Drain all water and add heavy cream, butter, sour cream, salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-6.jpg"
+    },
+    {
+      "text": "Grab your masher and go to town on these tasty, tender morsels.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-7.jpg"
+    },
+    {
+      "text": "Top with chives, cheese, or bacon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "budget-friendly",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/497eac86a385b1ab53ee1640.jpg",
+      "archived": true,
+      "originalPath": "images/497eac86a385b1ab53ee1640.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/c1eb0da2088130f4e2940ffb.avif",
+      "archived": true,
+      "originalPath": "images/c1eb0da2088130f4e2940ffb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-1.jpg",
+      "path": "../../nenaudojama/side-items/images/a08cb331a2968aeb9593b12e.avif",
+      "archived": true,
+      "originalPath": "images/a08cb331a2968aeb9593b12e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-2.jpg",
+      "path": "../../nenaudojama/side-items/images/dba370934647ccbc0c8a32d7.jpg",
+      "archived": true,
+      "originalPath": "images/dba370934647ccbc0c8a32d7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-3.jpg",
+      "path": "../../nenaudojama/side-items/images/f30509d51c9ba3e96d8af72b.jpg",
+      "archived": true,
+      "originalPath": "images/f30509d51c9ba3e96d8af72b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-4.jpg",
+      "path": "../../nenaudojama/side-items/images/6cc02ffc72e4cc545705de67.jpg",
+      "archived": true,
+      "originalPath": "images/6cc02ffc72e4cc545705de67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-6.jpg",
+      "path": "../../nenaudojama/side-items/images/8bc1dd74010851da2e436bc1.jpg",
+      "archived": true,
+      "originalPath": "images/8bc1dd74010851da2e436bc1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-7.jpg",
+      "path": "../../nenaudojama/side-items/images/23916e06bf7d91bc9138c21a.jpg",
+      "archived": true,
+      "originalPath": "images/23916e06bf7d91bc9138c21a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-2nd.jpg",
+      "path": "../../nenaudojama/side-items/images/b8a5085845b67a4e4b6cd543.jpg",
+      "archived": true,
+      "originalPath": "images/b8a5085845b67a4e4b6cd543.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/517b5f6f49c6be8550c77991.jpg",
+      "archived": true,
+      "originalPath": "images/517b5f6f49c6be8550c77991.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/672c3b59572d3c6a2d617408.jpg",
+      "archived": true,
+      "originalPath": "images/672c3b59572d3c6a2d617408.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/cfcb5475f08cc8fb466e0413.jpg",
+      "archived": true,
+      "originalPath": "images/cfcb5475f08cc8fb466e0413.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-3-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7ba7265336be5e006b8d7ef7.jpg",
+      "archived": true,
+      "originalPath": "images/7ba7265336be5e006b8d7ef7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-4-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/39ebde9fdd6d10fda67ce92c.jpg",
+      "archived": true,
+      "originalPath": "images/39ebde9fdd6d10fda67ce92c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-6-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/70b6be79b5cbcbbc5b869ec3.jpg",
+      "archived": true,
+      "originalPath": "images/70b6be79b5cbcbbc5b869ec3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-7-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/940212b815890054983b363a.jpg",
+      "archived": true,
+      "originalPath": "images/940212b815890054983b363a.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/c1eb0da2088130f4e2940ffb.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Mashed Potatoes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Low Carb Mashed Potatoes. Each serving comes out to be 139 calories, 10.9g fats, 4.5g net carbs, and 4.3g protein.",
+    "datePublished": "2013-10-31T20:22:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1 large cauliflower",
+      "2 tablespoon heavy whipping cream",
+      "2 tablespoon butter",
+      "2 tablespoon sour cream",
+      "1/4 teaspoon garlic powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add a cup of water to a saucepan, then set it over medium heat and bring it to a simmer. Separate the cauliflower into florets. Save the cores!",
+        "name": "Add a cup of water to a saucepan, then set it over medium heat and bring it to a simmer. Separate the cauliflower into florets. Save the cores!",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the cauliflower cores into small pieces (dice it).",
+        "name": "Chop the cauliflower cores into small pieces (dice it).",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all the cauliflower to the pot, and cover.",
+        "name": "Add all the cauliflower to the pot, and cover.",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook for 12-15 minutes, until cauliflower is very tender.",
+        "name": "Cook for 12-15 minutes, until cauliflower is very tender.",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain all water and add heavy cream, butter, sour cream, salt and pepper.",
+        "name": "Drain all water and add heavy cream, butter, sour cream, salt and pepper.",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grab your masher and go to town on these tasty, tender morsels.",
+        "name": "Grab your masher and go to town on these tasty, tender morsels.",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with chives, cheese, or bacon.",
+        "name": "Top with chives, cheese, or bacon.",
+        "url": "https://www.ruled.me/low-carb-mashed-potatoes/#wprm-recipe-50371-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, budget-friendly, comfort-food, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, simple-and-easy, stovetop, sugar-free, vegetarian, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "139 kcal",
+      "fatContent": "10.9 g",
+      "proteinContent": "4.3 g",
+      "carbohydrateContent": "4.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-mashed-potatoes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-mashed-potatoes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-mashed-potatoes/"
+  },
+  "sourceIndex": {
+    "id": 1225,
+    "rid": 50371,
+    "t": "Low Carb Mashed Potatoes",
+    "u": "/low-carb-mashed-potatoes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/cauliflower-mashed-potatoes-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.5,
+    "cal": 139,
+    "pr": 4.3,
+    "fa": 10.9,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "budget-friendly",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2013-10-31",
+    "cm": 2,
+    "ex": "Got a craving for starch? Missing the good ol’ meat and mashed potatoes? One quick search for the carbs in potatoes, and you’ll know exactly why mashed potatoes should be avoided on the keto diet",
+    "pv": 457
+  },
+  "sourceHtml": "pages/low-carb-mashed-potatoes.html",
+  "scrapedAt": "2026-11-07T08:33:20.595Z"
+}

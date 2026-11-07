@@ -1,0 +1,428 @@
+{
+  "id": "ruled-46287",
+  "slug": "keto-spinach-shakshuka",
+  "title": "Keto Spinach Shakshuka",
+  "url": "https://www.ruled.me/keto-spinach-shakshuka/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Spinach Shakshuka. Each serving comes out to be 318 calories, 23.3g fats, 5.3g net carbs, and 19g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "318 kcal",
+    "fatContent": "23.3 g",
+    "proteinContent": "19 g",
+    "carbohydrateContent": "5.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 318,
+    "netCarbsGrams": 5.3,
+    "proteinGrams": 19,
+    "fatGrams": 23.3
+  },
+  "ingredients": [
+    "3 tablespoon olive oil",
+    "1/2 medium onion (minced)",
+    "2 teaspoon fresh garlic (minced)",
+    "1 medium jalapeno pepper (seeded + minced)",
+    "16 ounce frozen spinach (thawed)",
+    "1 teaspoon cumin",
+    "3/4 teaspoon ground coriander",
+    "2 tablespoon harissa",
+    "salt and pepper (to taste)",
+    "1/2 cup vegetable broth",
+    "8 large egg",
+    "1/4 cup fresh parsley (chopped, for garnish)",
+    "1 teaspoon crushed red pepper flakes (for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 350F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-1.jpg"
+    },
+    {
+      "text": "In a skillet, add the olive oil to the skillet over medium heat. Saute the minced onion in until fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-2.jpg"
+    },
+    {
+      "text": "Add the thawed spinach into the skillet and let it cook until it's wilted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-3.jpg"
+    },
+    {
+      "text": "Add the cumin, coriander, harissa, and salt and pepper. Stir together well and let cook for another 1-2 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-4.jpg"
+    },
+    {
+      "text": "Transfer the seasoned spinach mixture to a food processor. Pulse until coarse. Then, add the vegetable broth and pulse until smooth. Wipe out your skillet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-5.jpg"
+    },
+    {
+      "text": "Drizzle oil in the bottom of the skillet or spray some cooking spray. Pour the smooth spinach mixture into the skillet. Using a spoon, press the back of the spoon into parts of the spinach mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-6.jpg"
+    },
+    {
+      "text": "Gently crack the eggs into these parts of the mixture. Cook in the oven until the egg whites are set and the yolk is a little runny. This should take about 20-25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-7.jpg"
+    },
+    {
+      "text": "Top with parsley and crushed red pepper flakes. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/540fa60a8bdf3ab035a20f50.jpg",
+      "archived": true,
+      "originalPath": "images/540fa60a8bdf3ab035a20f50.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Featured.jpg",
+      "path": "images/df8c849474b3b8d89a21497b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/d582548261ac79062a862da0.jpg",
+      "archived": true,
+      "originalPath": "images/d582548261ac79062a862da0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/6d7726c7a9f30e1cbbf16d5a.jpg",
+      "archived": true,
+      "originalPath": "images/6d7726c7a9f30e1cbbf16d5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/289f13595611478202c367d8.jpg",
+      "archived": true,
+      "originalPath": "images/289f13595611478202c367d8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/77d07c6a3a8f9d7532fb3e3e.jpg",
+      "archived": true,
+      "originalPath": "images/77d07c6a3a8f9d7532fb3e3e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/563188e1dfc3af156827af25.jpg",
+      "archived": true,
+      "originalPath": "images/563188e1dfc3af156827af25.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/81c0612411f38d877dfc5d7e.jpg",
+      "archived": true,
+      "originalPath": "images/81c0612411f38d877dfc5d7e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-7.jpg",
+      "path": "../../nenaudojama/breakfast/images/d3fb6260445782b4914ce5dc.jpg",
+      "archived": true,
+      "originalPath": "images/d3fb6260445782b4914ce5dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/35c16498ceac2efe6aeb35f2.jpg",
+      "archived": true,
+      "originalPath": "images/35c16498ceac2efe6aeb35f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/2177aa811ebb69f6a3a63538.jpg",
+      "archived": true,
+      "originalPath": "images/2177aa811ebb69f6a3a63538.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/a81672c620625c106609165a.jpg",
+      "archived": true,
+      "originalPath": "images/a81672c620625c106609165a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/76e26aa88987a4b49a7c5102.jpg",
+      "archived": true,
+      "originalPath": "images/76e26aa88987a4b49a7c5102.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3433bb88ebd1b0db1a1ae302.jpg",
+      "archived": true,
+      "originalPath": "images/3433bb88ebd1b0db1a1ae302.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bc163d42243787a144918825.jpg",
+      "archived": true,
+      "originalPath": "images/bc163d42243787a144918825.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1a72083a2f8cad6e9eb9eb77.jpg",
+      "archived": true,
+      "originalPath": "images/1a72083a2f8cad6e9eb9eb77.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1ff5a0dd9c7c2610d3c67f29.jpg",
+      "archived": true,
+      "originalPath": "images/1ff5a0dd9c7c2610d3c67f29.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6221d497deddfeeae3d9aad8.jpg",
+      "archived": true,
+      "originalPath": "images/6221d497deddfeeae3d9aad8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-7-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/34afbd1f643cc67d40722bd5.jpg",
+      "archived": true,
+      "originalPath": "images/34afbd1f643cc67d40722bd5.jpg"
+    }
+  ],
+  "featuredImage": "images/df8c849474b3b8d89a21497b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Spinach Shakshuka",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Spinach Shakshuka. Each serving comes out to be 318 calories, 23.3g fats, 5.3g net carbs, and 19g protein.",
+    "datePublished": "2021-11-11T10:00:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Featured.jpg"
+    ],
+    "video": {
+      "name": "Quick Keto Spinach Shakshuka Recipe [Low Carb]",
+      "description": "Are you trying to find a breakfast substitute for your usual eggs on toast? This spinach shakshuka is a healthy and delicious alternative that requires minimal prep.\n\nEggs are a breakfast classic and for good reason. Egg whites are incredibly high in protein, and when eaten without the yolk, eggs are low in fat and great if you’re mainly focusing on your macros and adding in more protein. However, the whole egg is keto-friendly, and the yolk not only tastes fantastic but has essential minerals like zinc, iron, and copper.\n\nEnter shakshuka, an elevated version of poached eggs and an affordable and filling meal. While it’s traditionally served for breakfast, it can be eaten any time of the day.\n\nUnlike the original, tomato-based shakshuka, this version is vibrantly colored and slightly spicy with frozen spinach and a jalapeno. Frozen spinach is convenient and can be found in most supermarkets, but if you have fresh spinach, feel free to use that instead. Spinach is high in folic acid and iron to keep you strong and healthy.\n\nDon’t forget to add the herbs and spices! Eggs and spinach have tons of natural flavor, but the cumin, coriander, and harissa bring out the umami elements of the dish to elevate it to the next level.\n\nBefore serving, garnish the shakshuka with chopped fresh parsley and a pinch of red pepper flakes. Enjoy!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n3 tablespoon olive oil\n1/2 medium onion, minced\n2 teaspoon fresh garlic, minced\n1 medium jalapeno pepper, seeded + minced\n16 ounce frozen spinach, thawed\n1 teaspoon cumin\n3/4 teaspoon ground coriander\n2 tablespoon harissa\nSalt and pepper to taste\n1/2 cup vegetable broth\n8 large eggs\n1/4 cup fresh parsley, chopped, for garnish\n1 teaspoon crushed red pepper flakes, for garnish\n\nNutrition Summary:\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-03-14T14:00:12+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M29S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 10064
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 346
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 28
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RuuO3jiExls/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RuuO3jiExls?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=RuuO3jiExls",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "3 tablespoon olive oil",
+      "1/2 medium onion (minced)",
+      "2 teaspoon fresh garlic (minced)",
+      "1 medium jalapeno pepper (seeded + minced)",
+      "16 ounce frozen spinach (thawed)",
+      "1 teaspoon cumin",
+      "3/4 teaspoon ground coriander",
+      "2 tablespoon harissa",
+      "salt and pepper (to taste)",
+      "1/2 cup vegetable broth",
+      "8 large egg",
+      "1/4 cup fresh parsley (chopped, for garnish)",
+      "1 teaspoon crushed red pepper flakes (for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 350F.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 350F.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, add the olive oil to the skillet over medium heat. Saute the minced onion in until fragrant.",
+        "name": "In a skillet, add the olive oil to the skillet over medium heat. Saute the minced onion in until fragrant.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the thawed spinach into the skillet and let it cook until it's wilted.",
+        "name": "Add the thawed spinach into the skillet and let it cook until it's wilted.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cumin, coriander, harissa, and salt and pepper. Stir together well and let cook for another 1-2 minutes.",
+        "name": "Add the cumin, coriander, harissa, and salt and pepper. Stir together well and let cook for another 1-2 minutes.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the seasoned spinach mixture to a food processor. Pulse until coarse. Then, add the vegetable broth and pulse until smooth. Wipe out your skillet.",
+        "name": "Transfer the seasoned spinach mixture to a food processor. Pulse until coarse. Then, add the vegetable broth and pulse until smooth. Wipe out your skillet.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle oil in the bottom of the skillet or spray some cooking spray. Pour the smooth spinach mixture into the skillet. Using a spoon, press the back of the spoon into parts of the spinach mixture.",
+        "name": "Drizzle oil in the bottom of the skillet or spray some cooking spray. Pour the smooth spinach mixture into the skillet. Using a spoon, press the back of the spoon into parts of the spinach mixture.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently crack the eggs into these parts of the mixture. Cook in the oven until the egg whites are set and the yolk is a little runny. This should take about 20-25 minutes.",
+        "name": "Gently crack the eggs into these parts of the mixture. Cook in the oven until the egg whites are set and the yolk is a little runny. This should take about 20-25 minutes.",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with parsley and crushed red pepper flakes. Serve and enjoy!",
+        "name": "Top with parsley and crushed red pepper flakes. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-spinach-shakshuka/#wprm-recipe-53985-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Middle Eastern"
+    ],
+    "keywords": "dairy-free, eggs, gluten-free, keto, low-carb, nut-free, oven-baked, spicy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "318 kcal",
+      "fatContent": "23.3 g",
+      "proteinContent": "19 g",
+      "carbohydrateContent": "5.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-spinach-shakshuka/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-spinach-shakshuka/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-spinach-shakshuka/"
+  },
+  "sourceIndex": {
+    "id": 46287,
+    "rid": 53985,
+    "t": "Keto Spinach Shakshuka",
+    "u": "/keto-spinach-shakshuka/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/10/Spinach-Shakshuka-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.3,
+    "cal": 318,
+    "pr": 19,
+    "fa": 23.3,
+    "tm": 45,
+    "sv": 4,
+    "kw": [
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 13,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "eggs"
+    ],
+    "d": "2021-11-11",
+    "cm": 0,
+    "ex": "Are you trying to find a breakfast substitute for your usual eggs on toast? This spinach shakshuka is a healthy and delicious alternative that requires minimal prep. Eggs are a breakfast classic and",
+    "pv": 582
+  },
+  "sourceHtml": "pages/keto-spinach-shakshuka.html",
+  "scrapedAt": "2026-11-07T08:11:12.328Z"
+}

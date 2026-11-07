@@ -1,0 +1,311 @@
+{
+  "id": "ruled-47677",
+  "slug": "keto-five-ingredient-breakfast",
+  "title": "Keto Five Ingredient Breakfast",
+  "url": "https://www.ruled.me/keto-five-ingredient-breakfast/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Five Ingredient Breakfast. The serving comes out to be 535 calories, 46.3g fats, 3.5g net carbs, and 22.2g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "535 kcal",
+    "fatContent": "46.3 g",
+    "proteinContent": "22.2 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 535,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 22.2,
+    "fatGrams": 46.3
+  },
+  "ingredients": [
+    "1 tablespoon butter",
+    "2 large egg",
+    "1/2 medium avocado",
+    "1 ounce kale",
+    "2 slice bacon"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-1.jpg"
+    },
+    {
+      "text": "In a frying pan over medium heat, add in the butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-2.jpg"
+    },
+    {
+      "text": "Crack and cook the eggs sunny side up. Remove from pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-3.jpg"
+    },
+    {
+      "text": "In the same frying pan, cook the kale.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-4.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "few-ingredients",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/a34771ae5b51a1f812d42db0.jpg",
+      "archived": true,
+      "originalPath": "images/a34771ae5b51a1f812d42db0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Featured.jpg",
+      "path": "images/43f64897026a361ea5eed437.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/e427957eb3edde18bb2ba294.jpg",
+      "archived": true,
+      "originalPath": "images/e427957eb3edde18bb2ba294.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/644ecd952f8e69703b0497e6.jpg",
+      "archived": true,
+      "originalPath": "images/644ecd952f8e69703b0497e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/4be8aed97f513db56d90d626.jpg",
+      "archived": true,
+      "originalPath": "images/4be8aed97f513db56d90d626.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/d3d88b4ee475f4ab26809374.jpg",
+      "archived": true,
+      "originalPath": "images/d3d88b4ee475f4ab26809374.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/4d46af9629e476119702f9f4.jpg",
+      "archived": true,
+      "originalPath": "images/4d46af9629e476119702f9f4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/035d8fbe858802c9a0006be0.jpg",
+      "archived": true,
+      "originalPath": "images/035d8fbe858802c9a0006be0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/6bd6be5e05d46ade2ab3e0a5.jpg",
+      "archived": true,
+      "originalPath": "images/6bd6be5e05d46ade2ab3e0a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d3c42fa1990c569a829702ac.jpg",
+      "archived": true,
+      "originalPath": "images/d3c42fa1990c569a829702ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d77be603bca469121f9e83cb.jpg",
+      "archived": true,
+      "originalPath": "images/d77be603bca469121f9e83cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/98f0bf169ebf17d7de8bac7d.jpg",
+      "archived": true,
+      "originalPath": "images/98f0bf169ebf17d7de8bac7d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/85c4b7e57b69a8107521ac30.jpg",
+      "archived": true,
+      "originalPath": "images/85c4b7e57b69a8107521ac30.jpg"
+    }
+  ],
+  "featuredImage": "images/43f64897026a361ea5eed437.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Five Ingredient Breakfast",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Five Ingredient Breakfast. The serving comes out to be 535 calories, 46.3g fats, 3.5g net carbs, and 22.2g protein.",
+    "datePublished": "2022-09-29T09:00:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "1 tablespoon butter",
+      "2 large egg",
+      "1/2 medium avocado",
+      "1 ounce kale",
+      "2 slice bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium heat, add in the butter.",
+        "name": "In a frying pan over medium heat, add in the butter.",
+        "url": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack and cook the eggs sunny side up. Remove from pan.",
+        "name": "Crack and cook the eggs sunny side up. Remove from pan.",
+        "url": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same frying pan, cook the kale.",
+        "name": "In the same frying pan, cook the kale.",
+        "url": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-five-ingredient-breakfast/#wprm-recipe-54355-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "535 kcal",
+      "fatContent": "46.3 g",
+      "proteinContent": "22.2 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-five-ingredient-breakfast/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-five-ingredient-breakfast/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-five-ingredient-breakfast/"
+  },
+  "sourceIndex": {
+    "id": 47677,
+    "rid": 54355,
+    "t": "Keto Five Ingredient Breakfast",
+    "u": "/keto-five-ingredient-breakfast/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/06/Keto-Five-Ingredient-Breakfast-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.5,
+    "cal": 535,
+    "pr": 22.2,
+    "fa": 46.3,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "few-ingredients",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2022-09-29",
+    "cm": 0,
+    "ex": "One of the best ways to embrace and stick to a keto diet is to find recipes that are easy to make and don’t require many specialty ingredients. That way, you’ll always have some good go-to recipes",
+    "pv": 167
+  },
+  "sourceHtml": "pages/keto-five-ingredient-breakfast.html",
+  "scrapedAt": "2026-11-07T08:11:12.148Z"
+}

@@ -1,0 +1,405 @@
+{
+  "id": "ruled-43526",
+  "slug": "keto-peanut-butter-cups",
+  "title": "Keto Peanut Butter Cups",
+  "url": "https://www.ruled.me/keto-peanut-butter-cups/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Peanut Butter Cups. Each serving comes out to be 198 calories, 18.6g fats, 8g net carbs, and 4.4g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "198 kcal",
+    "fatContent": "18.6 g",
+    "proteinContent": "4.4 g",
+    "carbohydrateContent": "8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 198,
+    "netCarbsGrams": 8,
+    "proteinGrams": 4.4,
+    "fatGrams": 18.6
+  },
+  "ingredients": [
+    "1/4 cup butter",
+    "1/3 cup powdered stevia/erythritol blend",
+    "1/2 cup peanut butter",
+    "1/2 teaspoon vanilla extract",
+    "4 ounce low-carb milk chocolate"
+  ],
+  "instructions": [
+    {
+      "text": "Prep and measure all ingredients out for ease of use.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-1.jpg"
+    },
+    {
+      "text": "Line a cupcake tray with parchment paper liners. Alternatively, you can use silicone cupcake molds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-2.jpg"
+    },
+    {
+      "text": "Add the butter, powdered stevia/erythritol blend (you can powder it using a small blender or coffee grinder), peanut butter, and vanilla extract to a pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-5.jpg"
+    },
+    {
+      "text": "Heat the mixture over medium-low heat, stirring occasionally, until the mixture is smooth and has no lumps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-6.jpg"
+    },
+    {
+      "text": "Evenly distribute the peanut butter mixture between the cupcake tray liners. Place in the fridge for 5-10 minutes to slightly firm up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-8.jpg"
+    },
+    {
+      "text": "In a microwave-safe container, melt the chocolate in the microwave in 30-second intervals until smooth and glossy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-10.jpg"
+    },
+    {
+      "text": "Evenly distribute a thin chocolate layer to the top of each peanut butter layer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-12.jpg"
+    },
+    {
+      "text": "Place the cupcake tray into the refrigerator for 30 minutes or until set completely. These will last several weeks stored in an airtight container in the fridge.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/02adf4e6d4e80553cc94a010.jpg",
+      "archived": true,
+      "originalPath": "images/02adf4e6d4e80553cc94a010.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Featured.jpg",
+      "path": "images/71cf69bd145ea6bafb6fbc1c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-1.jpg",
+      "path": "../../nenaudojama/dessert/images/b3c7c92c808c0ef8685293f2.avif",
+      "archived": true,
+      "originalPath": "images/b3c7c92c808c0ef8685293f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-2.jpg",
+      "path": "../../nenaudojama/dessert/images/df5c06cab4131cac9b4ba4cf.avif",
+      "archived": true,
+      "originalPath": "images/df5c06cab4131cac9b4ba4cf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-5.jpg",
+      "path": "../../nenaudojama/dessert/images/80730493a40fd92399e2bafd.avif",
+      "archived": true,
+      "originalPath": "images/80730493a40fd92399e2bafd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-6.jpg",
+      "path": "../../nenaudojama/dessert/images/3fd19afb5b7b3156f5270f0e.avif",
+      "archived": true,
+      "originalPath": "images/3fd19afb5b7b3156f5270f0e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-8.jpg",
+      "path": "../../nenaudojama/dessert/images/f53d4db6fcc01318b4b55306.jpg",
+      "archived": true,
+      "originalPath": "images/f53d4db6fcc01318b4b55306.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-10.jpg",
+      "path": "../../nenaudojama/dessert/images/426f31b7290cb286b512a64e.avif",
+      "archived": true,
+      "originalPath": "images/426f31b7290cb286b512a64e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-12.jpg",
+      "path": "../../nenaudojama/dessert/images/207b03480352b55c55d0a7db.jpg",
+      "archived": true,
+      "originalPath": "images/207b03480352b55c55d0a7db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Second.jpg",
+      "path": "../../nenaudojama/dessert/images/5fc2c28acf7aee762ecdda93.avif",
+      "archived": true,
+      "originalPath": "images/5fc2c28acf7aee762ecdda93.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Long.jpg",
+      "path": "../../nenaudojama/dessert/images/109aadec558065463edb6ca3.avif",
+      "archived": true,
+      "originalPath": "images/109aadec558065463edb6ca3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/365fb402d60144e629d89092.jpg",
+      "archived": true,
+      "originalPath": "images/365fb402d60144e629d89092.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8a790846f319a2067ecb1828.avif",
+      "archived": true,
+      "originalPath": "images/8a790846f319a2067ecb1828.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0706f88e861826f1416c3320.jpg",
+      "archived": true,
+      "originalPath": "images/0706f88e861826f1416c3320.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0accf46c40191529848e0877.jpg",
+      "archived": true,
+      "originalPath": "images/0accf46c40191529848e0877.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-6-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d6704bc66d87e475d95f4d5e.jpg",
+      "archived": true,
+      "originalPath": "images/d6704bc66d87e475d95f4d5e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-8-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/42ba75b20acf8afb341b2906.avif",
+      "archived": true,
+      "originalPath": "images/42ba75b20acf8afb341b2906.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-10-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a5512357f31973c31f55495f.jpg",
+      "archived": true,
+      "originalPath": "images/a5512357f31973c31f55495f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-12-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/76a1a2341b1ed36a70830c1e.jpg",
+      "archived": true,
+      "originalPath": "images/76a1a2341b1ed36a70830c1e.jpg"
+    }
+  ],
+  "featuredImage": "images/71cf69bd145ea6bafb6fbc1c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Peanut Butter Cups",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Keto Peanut Butter Cups. Each serving comes out to be 198 calories, 18.6g fats, 8g net carbs, and 4.4g protein.",
+    "datePublished": "2020-07-23T08:31:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Featured.jpg"
+    ],
+    "video": {
+      "name": "Easy Keto Peanut Butter Cups [5 Ingredients, Ready in 30 Mins]",
+      "description": "There’s nothing like a classic Reese’s peanut butter cup. The combination of peanut butter and chocolate with sugary sweetness balancing the flavors is such a heavenly treat. Unfortunately, as with most commercial candies, health was an afterthought when they picked the ingredients.\n\nThis is why it is best to make them yourself to get your chocolate peanut butter fix. All it takes is three ingredient substitutions and a few simple steps to make crave-worthy keto peanut butter cups.\n\nThough there are several store-bought “keto-approved” or “healthy” peanut butter cup products, they also have several flaws.\n\nAtkins Peanut Butter Cups, for example, use maltitol as their primary sweetener and ingredient. Since maltitol has a similar glycemic index as an apple and is composed of 67% net carbs, we recommend avoiding any product that uses it on keto.\n\nYou may also come across SlimFast Keto Peanut Butter Cups. At first, their ingredients and carb counts look good, but many keto dieters find that the texture, flavor, and quality of ingredients fall short (especially when you consider the cost).\n\nAll in all, I’ve yet to find a keto peanut butter cup product with high-quality ingredients at a reasonable price. Since it is easy to make them yourself, homemade is the way to go.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1/4 cup butter\n1/3 cup stevia/erythritol blend, powdered\n1/2 cup peanut butter\n1/2 teaspoon vanilla extract\n4 ounce low-carb milk chocolate\n\nNutrition Summary: Makes a total of 8 Keto Peanut Butter Cups. Each peanut butter cup comes out to be 205 calories, 19.3g fats, 3.4g net carbs, and 4.1g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-04-08T14:00:03+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M31S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 37218
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 1130
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 53
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Q54DJEJiiM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/6Q54DJEJiiM?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=6Q54DJEJiiM",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1/4 cup butter",
+      "1/3 cup powdered stevia/erythritol blend",
+      "1/2 cup peanut butter",
+      "1/2 teaspoon vanilla extract",
+      "4 ounce low-carb milk chocolate"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep and measure all ingredients out for ease of use.",
+        "name": "Prep and measure all ingredients out for ease of use.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a cupcake tray with parchment paper liners. Alternatively, you can use silicone cupcake molds.",
+        "name": "Line a cupcake tray with parchment paper liners. Alternatively, you can use silicone cupcake molds.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter, powdered stevia/erythritol blend (you can powder it using a small blender or coffee grinder), peanut butter, and vanilla extract to a pan.",
+        "name": "Add the butter, powdered stevia/erythritol blend (you can powder it using a small blender or coffee grinder), peanut butter, and vanilla extract to a pan.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the mixture over medium-low heat, stirring occasionally, until the mixture is smooth and has no lumps.",
+        "name": "Heat the mixture over medium-low heat, stirring occasionally, until the mixture is smooth and has no lumps.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Evenly distribute the peanut butter mixture between the cupcake tray liners. Place in the fridge for 5-10 minutes to slightly firm up.",
+        "name": "Evenly distribute the peanut butter mixture between the cupcake tray liners. Place in the fridge for 5-10 minutes to slightly firm up.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a microwave-safe container, melt the chocolate in the microwave in 30-second intervals until smooth and glossy.",
+        "name": "In a microwave-safe container, melt the chocolate in the microwave in 30-second intervals until smooth and glossy.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Evenly distribute a thin chocolate layer to the top of each peanut butter layer.",
+        "name": "Evenly distribute a thin chocolate layer to the top of each peanut butter layer.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/07/Easy-peanut-butter-cups-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the cupcake tray into the refrigerator for 30 minutes or until set completely. These will last several weeks stored in an airtight container in the fridge.",
+        "name": "Place the cupcake tray into the refrigerator for 30 minutes or until set completely. These will last several weeks stored in an airtight container in the fridge.",
+        "url": "https://www.ruled.me/keto-peanut-butter-cups/#wprm-recipe-53425-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Side Items"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, make-ahead, simple &amp; easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "198 kcal",
+      "fatContent": "18.6 g",
+      "proteinContent": "4.4 g",
+      "carbohydrateContent": "8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-peanut-butter-cups/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-peanut-butter-cups/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-peanut-butter-cups/"
+  },
+  "sourceIndex": {
+    "id": 43526,
+    "rid": 53425,
+    "t": "Keto Peanut Butter Cups",
+    "u": "/keto-peanut-butter-cups/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/07/Keto-Peanut-Butter-Cups-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 8,
+    "cal": 198,
+    "pr": 4.4,
+    "fa": 18.6,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2020-07-23",
+    "cm": 4,
+    "ex": "There’s nothing like a classic Reese’s peanut butter cup. The combination of peanut butter and chocolate with sugary sweetness balancing the flavors is such a heavenly treat. Unfortunately, as with",
+    "pv": 1013
+  },
+  "sourceHtml": "pages/keto-peanut-butter-cups.html",
+  "scrapedAt": "2026-11-07T08:30:47.100Z"
+}

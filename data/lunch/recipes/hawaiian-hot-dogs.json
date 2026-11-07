@@ -1,0 +1,301 @@
+{
+  "id": "ruled-31619",
+  "slug": "hawaiian-hot-dogs",
+  "title": "Hawaiian Hot Dogs",
+  "url": "https://www.ruled.me/hawaiian-hot-dogs/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Hawaiian Hot Dogs. Each serving comes out to be 727 calories, 61.1g fats, 8.8g net carbs, and 33.6g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "727 kcal",
+    "fatContent": "61.1 g",
+    "proteinContent": "33.6 g",
+    "carbohydrateContent": "8.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 727,
+    "netCarbsGrams": 8.8,
+    "proteinGrams": 33.6,
+    "fatGrams": 61.1
+  },
+  "ingredients": [
+    "2 cup mozzarella cheese (shredded)",
+    "3/4 cup almond flour",
+    "1/2 cup fresh pineapple chunks",
+    "2 ounce ham (diced)",
+    "6 ounce cooked bacon (chopped)",
+    "6 tablespoon sriracha mayonnaise (like sarayo)",
+    "20 ounce jumbo beef hot dogs (such as Applegate)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. In a non-stick pan over medium heat, melt the mozzarella cheese and stir in the almond flour to form a dough.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-01.jpg"
+    },
+    {
+      "text": "Place the dough between two pieces of parchment paper and roll until flat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-03.jpg"
+    },
+    {
+      "text": "Cut the dough into circles large enough to fit your hot dogs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-04.jpg"
+    },
+    {
+      "text": "Place the dough circles on a baking sheet lined with parchment paper. Bake for 10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-05.jpg"
+    },
+    {
+      "text": "Place a hot dog in the middle and wrap the bread around it. Top with sriracha mayo, pineapple, ham, and bacon. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "quick",
+    "red-meat",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "oven-baked",
+    "high-protein",
+    "pork",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/9a3ffae9d1973b570e863917.jpg",
+      "archived": true,
+      "originalPath": "images/9a3ffae9d1973b570e863917.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-featured.jpg",
+      "path": "images/b848a9c48da8753315d96297.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-01.jpg",
+      "path": "../../nenaudojama/lunch/images/392b56769a992f9685f2c383.avif",
+      "archived": true,
+      "originalPath": "images/392b56769a992f9685f2c383.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-03.jpg",
+      "path": "../../nenaudojama/lunch/images/8fcd7aeffeeed3e41b0bbc13.avif",
+      "archived": true,
+      "originalPath": "images/8fcd7aeffeeed3e41b0bbc13.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-04.jpg",
+      "path": "../../nenaudojama/lunch/images/67ffd1a59bc2feb0d7914a41.jpg",
+      "archived": true,
+      "originalPath": "images/67ffd1a59bc2feb0d7914a41.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-05.jpg",
+      "path": "../../nenaudojama/lunch/images/6a5d9f20440561adc034615b.avif",
+      "archived": true,
+      "originalPath": "images/6a5d9f20440561adc034615b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-second.jpg",
+      "path": "../../nenaudojama/lunch/images/57e21c46763c2ce3edaa2b81.avif",
+      "archived": true,
+      "originalPath": "images/57e21c46763c2ce3edaa2b81.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/5a6397b429ef0d44cd13f488.avif",
+      "archived": true,
+      "originalPath": "images/5a6397b429ef0d44cd13f488.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/85150186b39f35dd7a0939fe.avif",
+      "archived": true,
+      "originalPath": "images/85150186b39f35dd7a0939fe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8162960a7b37fc7d596f85a6.jpg",
+      "archived": true,
+      "originalPath": "images/8162960a7b37fc7d596f85a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ed6cbed72b9254518e5fd451.avif",
+      "archived": true,
+      "originalPath": "images/ed6cbed72b9254518e5fd451.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-05-571x350.jpg",
+      "path": "../../nenaudojama/lunch/images/1a47e85b7e7ef3f37a87bec6.jpg",
+      "archived": true,
+      "originalPath": "images/1a47e85b7e7ef3f37a87bec6.jpg"
+    }
+  ],
+  "featuredImage": "images/b848a9c48da8753315d96297.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Hawaiian Hot Dogs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Hawaiian Hot Dogs. Each serving comes out to be 727 calories, 61.1g fats, 8.8g net carbs, and 33.6g protein.",
+    "datePublished": "2017-08-15T11:00:55+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "2 cup mozzarella cheese (shredded)",
+      "3/4 cup almond flour",
+      "1/2 cup fresh pineapple chunks",
+      "2 ounce ham (diced)",
+      "6 ounce cooked bacon (chopped)",
+      "6 tablespoon sriracha mayonnaise (like sarayo)",
+      "20 ounce jumbo beef hot dogs (such as Applegate)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. In a non-stick pan over medium heat, melt the mozzarella cheese and stir in the almond flour to form a dough.",
+        "name": "Preheat oven to 350F. In a non-stick pan over medium heat, melt the mozzarella cheese and stir in the almond flour to form a dough.",
+        "url": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the dough between two pieces of parchment paper and roll until flat.",
+        "name": "Place the dough between two pieces of parchment paper and roll until flat.",
+        "url": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the dough into circles large enough to fit your hot dogs.",
+        "name": "Cut the dough into circles large enough to fit your hot dogs.",
+        "url": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the dough circles on a baking sheet lined with parchment paper. Bake for 10 minutes.",
+        "name": "Place the dough circles on a baking sheet lined with parchment paper. Bake for 10 minutes.",
+        "url": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place a hot dog in the middle and wrap the bread around it. Top with sriracha mayo, pineapple, ham, and bacon. Enjoy!",
+        "name": "Place a hot dog in the middle and wrap the bread around it. Top with sriracha mayo, pineapple, ham, and bacon. Enjoy!",
+        "url": "https://www.ruled.me/hawaiian-hot-dogs/#wprm-recipe-52301-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, family-friendly, game-day, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, party-food, pork, quick, red meat, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "727 kcal",
+      "fatContent": "61.1 g",
+      "proteinContent": "33.6 g",
+      "carbohydrateContent": "8.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/hawaiian-hot-dogs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/hawaiian-hot-dogs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/hawaiian-hot-dogs/"
+  },
+  "sourceIndex": {
+    "id": 31619,
+    "rid": 52301,
+    "t": "Hawaiian Hot Dogs",
+    "u": "/hawaiian-hot-dogs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/07/hawaiian-hot-dogs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.8,
+    "cal": 727,
+    "pr": 33.6,
+    "fa": 61.1,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "quick",
+      "red-meat",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 7,
+    "fk": [
+      "oven-baked",
+      "high-protein",
+      "pork",
+      "red-meat"
+    ],
+    "d": "2017-08-15",
+    "cm": 6,
+    "ex": "It’s time to bust out the BBQ. Hot dogs are a staple of the summer season, but with keto many people decide to skip the bun. Using cheese based dough to wrap around your hot dog is an ideal option to",
+    "pv": 111
+  },
+  "sourceHtml": "pages/hawaiian-hot-dogs.html",
+  "scrapedAt": "2026-11-07T08:17:30.009Z"
+}

@@ -1,0 +1,328 @@
+{
+  "id": "ruled-44365",
+  "slug": "keto-salad-sandwiches",
+  "title": "Keto Salad Sandwiches",
+  "url": "https://www.ruled.me/keto-salad-sandwiches/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Salad Sandwiches . Each serving comes out to be 354 calories, 32.4g fats, 5.2g net carbs, and 9.2g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "354 kcal",
+    "fatContent": "32.4 g",
+    "proteinContent": "9.2 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 354,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 9.2,
+    "fatGrams": 32.4
+  },
+  "ingredients": [
+    "2 ounce romaine lettuce",
+    "2 ounce cream cheese",
+    "2 tablespoon butter",
+    "1/2 medium avocado",
+    "4 ounce cherry tomatoes (sliced)",
+    "1/4 medium cucumber (sliced)",
+    "1 ounce parmesan cheese (shaved)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-1.jpg"
+    },
+    {
+      "text": "Rinse and dry the lettuce. Lay it out on a plate, this will be the base of your sandwich.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-2.jpg"
+    },
+    {
+      "text": "In a bowl, combine the cream cheese and butter. Mix together thoroughly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-3.png"
+    },
+    {
+      "text": "Spread the cream cheese and butter mixture onto the lettuce leaves.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-4.jpg"
+    },
+    {
+      "text": "Top with avocado slices, cherry tomatoes, cucumber slices, and parmesan cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/eee7f254952d3bebd70b6e61.jpg",
+      "archived": true,
+      "originalPath": "images/eee7f254952d3bebd70b6e61.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Featured.jpg",
+      "path": "images/6a85bde36dbbeebcdb06550b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-1.jpg",
+      "path": "../../nenaudojama/lunch/images/ab80e669d8895e15aa32cdf4.jpg",
+      "archived": true,
+      "originalPath": "images/ab80e669d8895e15aa32cdf4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-2.jpg",
+      "path": "../../nenaudojama/lunch/images/d6e6ae75c46dfa6576a33015.jpg",
+      "archived": true,
+      "originalPath": "images/d6e6ae75c46dfa6576a33015.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-3.png",
+      "path": "../../nenaudojama/lunch/images/c71d9d60968504c7b49ed23f.webp",
+      "archived": true,
+      "originalPath": "images/c71d9d60968504c7b49ed23f.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-4.jpg",
+      "path": "../../nenaudojama/lunch/images/ba0880ce34c1bccadf0fcc3c.jpg",
+      "archived": true,
+      "originalPath": "images/ba0880ce34c1bccadf0fcc3c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-5.jpg",
+      "path": "../../nenaudojama/lunch/images/77ee3c394e60b2f91d569004.jpg",
+      "archived": true,
+      "originalPath": "images/77ee3c394e60b2f91d569004.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/94a9e22f9628c9f0c7ba7dce.jpg",
+      "archived": true,
+      "originalPath": "images/94a9e22f9628c9f0c7ba7dce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/56ee53ba1543da8d32c6bd4f.jpg",
+      "archived": true,
+      "originalPath": "images/56ee53ba1543da8d32c6bd4f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/28098ff6b3bd108a460fba54.jpg",
+      "archived": true,
+      "originalPath": "images/28098ff6b3bd108a460fba54.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2c0f6dfdeb5c032119afcd60.avif",
+      "archived": true,
+      "originalPath": "images/2c0f6dfdeb5c032119afcd60.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0334a28b8a7a970e9529b7d0.avif",
+      "archived": true,
+      "originalPath": "images/0334a28b8a7a970e9529b7d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-3-525x350.png",
+      "path": "../../nenaudojama/lunch/images/44977a79e844280574e91576.webp",
+      "archived": true,
+      "originalPath": "images/44977a79e844280574e91576.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d9e62a3d80935310bd298ef8.jpg",
+      "archived": true,
+      "originalPath": "images/d9e62a3d80935310bd298ef8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-5-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e21977e3b3a2278cd04a543a.avif",
+      "archived": true,
+      "originalPath": "images/e21977e3b3a2278cd04a543a.avif"
+    }
+  ],
+  "featuredImage": "images/6a85bde36dbbeebcdb06550b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Salad Sandwiches",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Salad Sandwiches . Each serving comes out to be 354 calories, 32.4g fats, 5.2g net carbs, and 9.2g protein.",
+    "datePublished": "2020-12-03T10:00:58+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "2 ounce romaine lettuce",
+      "2 ounce cream cheese",
+      "2 tablespoon butter",
+      "1/2 medium avocado",
+      "4 ounce cherry tomatoes (sliced)",
+      "1/4 medium cucumber (sliced)",
+      "1 ounce parmesan cheese (shaved)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse and dry the lettuce. Lay it out on a plate, this will be the base of your sandwich.",
+        "name": "Rinse and dry the lettuce. Lay it out on a plate, this will be the base of your sandwich.",
+        "url": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the cream cheese and butter. Mix together thoroughly.",
+        "name": "In a bowl, combine the cream cheese and butter. Mix together thoroughly.",
+        "url": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-3.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the cream cheese and butter mixture onto the lettuce leaves.",
+        "name": "Spread the cream cheese and butter mixture onto the lettuce leaves.",
+        "url": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with avocado slices, cherry tomatoes, cucumber slices, and parmesan cheese.",
+        "name": "Top with avocado slices, cherry tomatoes, cucumber slices, and parmesan cheese.",
+        "url": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-salad-sandwiches/#wprm-recipe-53585-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Salad",
+      "Side Items",
+      "Snacks"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "354 kcal",
+      "fatContent": "32.4 g",
+      "proteinContent": "9.2 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-salad-sandwiches/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-salad-sandwiches/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-salad-sandwiches/"
+  },
+  "sourceIndex": {
+    "id": 44365,
+    "rid": 53585,
+    "t": "Keto Salad Sandwiches",
+    "u": "/keto-salad-sandwiches/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/11/Salad-Sandwiches-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.2,
+    "cal": 354,
+    "pr": 9.2,
+    "fa": 32.4,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2020-12-03",
+    "cm": 0,
+    "ex": "These salad sandwiches are a fun way to have a refreshing and delightful sandwich without all the carbs. The crisp tasting romaine lettuce is the base for these \"sandwiches.\" These are then topped",
+    "pv": 121
+  },
+  "sourceHtml": "pages/keto-salad-sandwiches.html",
+  "scrapedAt": "2026-11-07T08:15:49.131Z"
+}

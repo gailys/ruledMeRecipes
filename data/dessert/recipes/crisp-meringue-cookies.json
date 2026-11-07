@@ -1,0 +1,325 @@
+{
+  "id": "ruled-35408",
+  "slug": "crisp-meringue-cookies",
+  "title": "Crisp Meringue Cookies",
+  "url": "https://www.ruled.me/crisp-meringue-cookies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 18 servings of Crisp Meringue Cookies. Each serving comes out to be 4 calories, 0g fats, 0.1g net carbs, and 0.8g protein.",
+  "servings": 18,
+  "yield": [
+    "18",
+    "18 servings"
+  ],
+  "prepTime": "PT40M",
+  "cookTime": "PT40M",
+  "totalTime": "PT80M",
+  "totalMinutes": 80,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "4 kcal",
+    "proteinContent": "0.8 g",
+    "carbohydrateContent": "0.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 4,
+    "netCarbsGrams": 0.1,
+    "proteinGrams": 0.8,
+    "fatGrams": 0
+  },
+  "ingredients": [
+    "4 large egg white",
+    "1/4 teaspoon cream of tartar",
+    "1/2 teaspoon almond extract",
+    "6 tablespoon powdered stevia/erythritol blend",
+    "salt (pinch)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 210F. Pour egg whites into your mixing bowl, then add the cream of tartar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-01.jpg"
+    },
+    {
+      "text": "Start the mixer, then slowly increase towards a medium speed. When the egg whites start to look frothy, stop the mixer and add half of the sweetener, the almond extract, and the salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-02.jpg"
+    },
+    {
+      "text": "Mix on a low speed until sweetener is incorporated enough to not fly out everywhere, then mix on high speed until the egg whites whip up to a medium consistency. Stop the mixer and add the remaining half of the sweetener. As before, mix on low just enough to blend sweetener.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-03.jpg"
+    },
+    {
+      "text": "Increase speed to high and whip until the meringue becomes very stiff and starts to pull away from the sides of the bowl. Stop the mixer and scrape the meringue out of the whisk and down the sides of the bowl, then mix it again to make sure that everything is mixed evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-04.jpg"
+    },
+    {
+      "text": "Load the meringue into a piping bag fitted with a large star-shaped tip. Depending on the size of your bag, you may need to refill the bag a few times to work your way through the entire batch.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-05.jpg"
+    },
+    {
+      "text": "Place sheets of parchment paper on 2-3 baking sheets. How many you need will depend on how closely you can comfortably pipe the cookies next to each other. Pipe out 18 rosette shapes, or whatever shape you are comfortable creating.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-07.jpg"
+    },
+    {
+      "text": "Bake the meringue cookies for 40 minutes. Once they are done, turn the oven off and crack the door open, then allow them to cool for another half hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/2babac154a406d60eb725e63.jpg",
+      "archived": true,
+      "originalPath": "images/2babac154a406d60eb725e63.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-featured.jpg",
+      "path": "images/11770ad3ad3d6944ae0619b4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-01.jpg",
+      "path": "../../nenaudojama/dessert/images/7a09a84a73531b05f7d44e90.jpg",
+      "archived": true,
+      "originalPath": "images/7a09a84a73531b05f7d44e90.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-02.jpg",
+      "path": "../../nenaudojama/dessert/images/d58c8a6d4dd0acc31fe8f1ff.avif",
+      "archived": true,
+      "originalPath": "images/d58c8a6d4dd0acc31fe8f1ff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-03.jpg",
+      "path": "../../nenaudojama/dessert/images/5d33f284d8118866396a4494.avif",
+      "archived": true,
+      "originalPath": "images/5d33f284d8118866396a4494.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-04.jpg",
+      "path": "../../nenaudojama/dessert/images/48f50f123db4069350bf905b.avif",
+      "archived": true,
+      "originalPath": "images/48f50f123db4069350bf905b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-05.jpg",
+      "path": "../../nenaudojama/dessert/images/accc59c980bba4a755dfbdab.avif",
+      "archived": true,
+      "originalPath": "images/accc59c980bba4a755dfbdab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-07.jpg",
+      "path": "../../nenaudojama/dessert/images/34da0ddd85ef4bc44a5effa6.avif",
+      "archived": true,
+      "originalPath": "images/34da0ddd85ef4bc44a5effa6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-second.jpg",
+      "path": "../../nenaudojama/dessert/images/221fbaac04a817132b35443f.avif",
+      "archived": true,
+      "originalPath": "images/221fbaac04a817132b35443f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/d19213dcd5902e265381d64c.avif",
+      "archived": true,
+      "originalPath": "images/d19213dcd5902e265381d64c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c0489fad75346a06202d25bf.avif",
+      "archived": true,
+      "originalPath": "images/c0489fad75346a06202d25bf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b88cc950a2a94bc96ffcb89f.avif",
+      "archived": true,
+      "originalPath": "images/b88cc950a2a94bc96ffcb89f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b544c142f4c7fd526f295d6e.jpg",
+      "archived": true,
+      "originalPath": "images/b544c142f4c7fd526f295d6e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5c82b9b5ab00bb26d3d55a24.avif",
+      "archived": true,
+      "originalPath": "images/5c82b9b5ab00bb26d3d55a24.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/45fee2bc44e0e959a85d1325.avif",
+      "archived": true,
+      "originalPath": "images/45fee2bc44e0e959a85d1325.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-07-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/36dbed78d420ba87f7629097.jpg",
+      "archived": true,
+      "originalPath": "images/36dbed78d420ba87f7629097.jpg"
+    }
+  ],
+  "featuredImage": "images/11770ad3ad3d6944ae0619b4.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Crisp Meringue Cookies",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 18 servings of Crisp Meringue Cookies. Each serving comes out to be 4 calories, 0g fats, 0.1g net carbs, and 0.8g protein.",
+    "datePublished": "2018-02-01T12:00:53+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-featured.jpg"
+    ],
+    "recipeYield": [
+      "18",
+      "18 servings"
+    ],
+    "prepTime": "PT40M",
+    "cookTime": "PT40M",
+    "totalTime": "PT80M",
+    "recipeIngredient": [
+      "4 large egg white",
+      "1/4 teaspoon cream of tartar",
+      "1/2 teaspoon almond extract",
+      "6 tablespoon powdered stevia/erythritol blend",
+      "salt (pinch)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 210F. Pour egg whites into your mixing bowl, then add the cream of tartar.",
+        "name": "Preheat oven to 210F. Pour egg whites into your mixing bowl, then add the cream of tartar.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start the mixer, then slowly increase towards a medium speed. When the egg whites start to look frothy, stop the mixer and add half of the sweetener, the almond extract, and the salt.",
+        "name": "Start the mixer, then slowly increase towards a medium speed. When the egg whites start to look frothy, stop the mixer and add half of the sweetener, the almond extract, and the salt.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix on a low speed until sweetener is incorporated enough to not fly out everywhere, then mix on high speed until the egg whites whip up to a medium consistency. Stop the mixer and add the remaining half of the sweetener. As before, mix on low just enough to blend sweetener.",
+        "name": "Mix on a low speed until sweetener is incorporated enough to not fly out everywhere, then mix on high speed until the egg whites whip up to a medium consistency. Stop the mixer and add the remaining half of the sweetener. As before, mix on low just enough to blend sweetener.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase speed to high and whip until the meringue becomes very stiff and starts to pull away from the sides of the bowl. Stop the mixer and scrape the meringue out of the whisk and down the sides of the bowl, then mix it again to make sure that everything is mixed evenly.",
+        "name": "Increase speed to high and whip until the meringue becomes very stiff and starts to pull away from the sides of the bowl. Stop the mixer and scrape the meringue out of the whisk and down the sides of the bowl, then mix it again to make sure that everything is mixed evenly.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Load the meringue into a piping bag fitted with a large star-shaped tip. Depending on the size of your bag, you may need to refill the bag a few times to work your way through the entire batch.",
+        "name": "Load the meringue into a piping bag fitted with a large star-shaped tip. Depending on the size of your bag, you may need to refill the bag a few times to work your way through the entire batch.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place sheets of parchment paper on 2-3 baking sheets. How many you need will depend on how closely you can comfortably pipe the cookies next to each other. Pipe out 18 rosette shapes, or whatever shape you are comfortable creating.",
+        "name": "Place sheets of parchment paper on 2-3 baking sheets. How many you need will depend on how closely you can comfortably pipe the cookies next to each other. Pipe out 18 rosette shapes, or whatever shape you are comfortable creating.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the meringue cookies for 40 minutes. Once they are done, turn the oven off and crack the door open, then allow them to cool for another half hour.",
+        "name": "Bake the meringue cookies for 40 minutes. Once they are done, turn the oven off and crack the door open, then allow them to cool for another half hour.",
+        "url": "https://www.ruled.me/crisp-meringue-cookies/#wprm-recipe-52473-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "dairy-free, gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "4 kcal",
+      "proteinContent": "0.8 g",
+      "carbohydrateContent": "0.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/crisp-meringue-cookies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/crisp-meringue-cookies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/crisp-meringue-cookies/"
+  },
+  "sourceIndex": {
+    "id": 35408,
+    "rid": 52473,
+    "t": "Crisp Meringue Cookies",
+    "u": "/crisp-meringue-cookies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/crisp-meringue-cookies-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 0.1,
+    "cal": 4,
+    "pr": 0.8,
+    "fa": 0,
+    "tm": 80,
+    "sv": 18,
+    "kw": [
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2018-02-01",
+    "cm": 15,
+    "ex": "This dessert is an airy treat. Sweet meringue cookies melt in your mouth, with a touch of almond flavor and almost no carbs per cookie. You can quickly whip up a batch of these when you are in the",
+    "pv": 223
+  },
+  "sourceHtml": "pages/crisp-meringue-cookies.html",
+  "scrapedAt": "2026-11-07T08:30:47.207Z"
+}

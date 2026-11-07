@@ -1,0 +1,329 @@
+{
+  "id": "ruled-24869",
+  "slug": "italian-stuffed-meatballs",
+  "title": "Italian Stuffed Meatballs",
+  "url": "https://www.ruled.me/italian-stuffed-meatballs/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Italian Stuffed Meatballs. Each serving comes out to be 599 calories, 46.1g fats, 4g net carbs, and 38.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "599 kcal",
+    "fatContent": "46.1 g",
+    "proteinContent": "38.2 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 599,
+    "netCarbsGrams": 4,
+    "proteinGrams": 38.2,
+    "fatGrams": 46.1
+  },
+  "ingredients": [
+    "24 ounce ground beef (80/20)",
+    "1 teaspoon dried oregano",
+    "1/2 teaspoon italian seasoning",
+    "salt and pepper (to taste)",
+    "2 teaspoon fresh garlic (minced)",
+    "1/2 teaspoon onion powder",
+    "2 large egg",
+    "3 tablespoon tomato paste",
+    "3 tablespoon flaxseed meal",
+    "1 teaspoon worcestershire sauce",
+    "1/2 cup green olive (sliced)",
+    "1/2 cup mozzarella cheese",
+    "4 cup spinach"
+  ],
+  "instructions": [
+    {
+      "text": "Combine the ground beef, oregano, Italian seasoning, salt and pepper, garlic, and onion powder in a mixing bowl. Mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8499.jpg"
+    },
+    {
+      "text": "Add the eggs, tomato paste, flaxseed, and Worcestershire sauce to the meat and mix well to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8509.jpg"
+    },
+    {
+      "text": "Finally, dice the olives and add them to the meat along with shredded mozzarella cheese. Season and mix everything together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8511.jpg"
+    },
+    {
+      "text": "Preheat oven to 400F. Meanwhile, form the meat mixture into balls by hand (about the size of a golf ball). Place them on a foil-lined cookie sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8517.jpg"
+    },
+    {
+      "text": "Bake for 16–20 minutes or until the desired doneness is reached.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8528.jpg"
+    },
+    {
+      "text": "Serve with a simple spinach salad underneath, drizzling the excess fat from the cookie sheet on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "family-friendly",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "red-meat",
+    "simple-and-easy",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/italianmeatball.jpg",
+      "path": "images/837936732b127cb271bf10b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8499.jpg",
+      "path": "../../nenaudojama/dinner/images/dac3c8dcc1edc888d65f540e.avif",
+      "archived": true,
+      "originalPath": "images/dac3c8dcc1edc888d65f540e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8509.jpg",
+      "path": "../../nenaudojama/dinner/images/373891bfa9830e634141acb6.jpg",
+      "archived": true,
+      "originalPath": "images/373891bfa9830e634141acb6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8511.jpg",
+      "path": "../../nenaudojama/dinner/images/95dd6c8479ea18853c0e1722.avif",
+      "archived": true,
+      "originalPath": "images/95dd6c8479ea18853c0e1722.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8517.jpg",
+      "path": "../../nenaudojama/dinner/images/45ce34797c497723020e4dcd.jpg",
+      "archived": true,
+      "originalPath": "images/45ce34797c497723020e4dcd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8528.jpg",
+      "path": "../../nenaudojama/dinner/images/743af116f4a30869d714480f.jpg",
+      "archived": true,
+      "originalPath": "images/743af116f4a30869d714480f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/italianmeatballssecond.jpg",
+      "path": "../../nenaudojama/dinner/images/d2bfb14acdd9b1bb35dd7f19.avif",
+      "archived": true,
+      "originalPath": "images/d2bfb14acdd9b1bb35dd7f19.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/italianmeatballslong.jpg",
+      "path": "../../nenaudojama/dinner/images/bc72cec66153a7c9054bca73.jpg",
+      "archived": true,
+      "originalPath": "images/bc72cec66153a7c9054bca73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8499-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/721c51d5736ddefe0bc45922.jpg",
+      "archived": true,
+      "originalPath": "images/721c51d5736ddefe0bc45922.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8509-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2dbc034c16c2b19ff9cf5545.jpg",
+      "archived": true,
+      "originalPath": "images/2dbc034c16c2b19ff9cf5545.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8511-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8881a9649f6e49af4419bf81.jpg",
+      "archived": true,
+      "originalPath": "images/8881a9649f6e49af4419bf81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8517-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c98eea4271792968b26cbd0b.jpg",
+      "archived": true,
+      "originalPath": "images/c98eea4271792968b26cbd0b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8528-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5aaa9bad8a05b92fdc93d646.avif",
+      "archived": true,
+      "originalPath": "images/5aaa9bad8a05b92fdc93d646.avif"
+    }
+  ],
+  "featuredImage": "images/837936732b127cb271bf10b0.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Italian Stuffed Meatballs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Italian Stuffed Meatballs. Each serving comes out to be 599 calories, 46.1g fats, 4g net carbs, and 38.2g protein.",
+    "datePublished": "2014-11-03T16:31:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/11/italianmeatball.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "24 ounce ground beef (80/20)",
+      "1 teaspoon dried oregano",
+      "1/2 teaspoon italian seasoning",
+      "salt and pepper (to taste)",
+      "2 teaspoon fresh garlic (minced)",
+      "1/2 teaspoon onion powder",
+      "2 large egg",
+      "3 tablespoon tomato paste",
+      "3 tablespoon flaxseed meal",
+      "1 teaspoon worcestershire sauce",
+      "1/2 cup green olive (sliced)",
+      "1/2 cup mozzarella cheese",
+      "4 cup spinach"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the ground beef, oregano, Italian seasoning, salt and pepper, garlic, and onion powder in a mixing bowl. Mix together well.",
+        "name": "Combine the ground beef, oregano, Italian seasoning, salt and pepper, garlic, and onion powder in a mixing bowl. Mix together well.",
+        "url": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8499.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs, tomato paste, flaxseed, and Worcestershire sauce to the meat and mix well to combine.",
+        "name": "Add the eggs, tomato paste, flaxseed, and Worcestershire sauce to the meat and mix well to combine.",
+        "url": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8509.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, dice the olives and add them to the meat along with shredded mozzarella cheese. Season and mix everything together well.",
+        "name": "Finally, dice the olives and add them to the meat along with shredded mozzarella cheese. Season and mix everything together well.",
+        "url": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8511.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Meanwhile, form the meat mixture into balls by hand (about the size of a golf ball). Place them on a foil-lined cookie sheet.",
+        "name": "Preheat oven to 400F. Meanwhile, form the meat mixture into balls by hand (about the size of a golf ball). Place them on a foil-lined cookie sheet.",
+        "url": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8517.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 16–20 minutes or until the desired doneness is reached.",
+        "name": "Bake for 16–20 minutes or until the desired doneness is reached.",
+        "url": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8528.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a simple spinach salad underneath, drizzling the excess fat from the cookie sheet on top.",
+        "name": "Serve with a simple spinach salad underneath, drizzling the excess fat from the cookie sheet on top.",
+        "url": "https://www.ruled.me/italian-stuffed-meatballs/#wprm-recipe-51459-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, beginner-friendly, family-friendly, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, quick, red meat, simple &amp; easy, simple-and-easy, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "599 kcal",
+      "fatContent": "46.1 g",
+      "proteinContent": "38.2 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/italian-stuffed-meatballs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/italian-stuffed-meatballs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/italian-stuffed-meatballs/"
+  },
+  "sourceIndex": {
+    "id": 24869,
+    "rid": 51459,
+    "t": "Italian Stuffed Meatballs",
+    "u": "/italian-stuffed-meatballs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/11/italianmeatball.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4,
+    "cal": 599,
+    "pr": 38.2,
+    "fa": 46.1,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "family-friendly",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "red-meat",
+      "simple-and-easy",
+      "weeknight-dinner"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2014-11-03",
+    "cm": 12,
+    "ex": "A simple meatball recipe that both tastes delicious and takes less than 30 minutes to make is something that must be a staple in your household. Whether you're just too tired to spend much time on",
+    "pv": 136
+  },
+  "sourceHtml": "pages/italian-stuffed-meatballs.html",
+  "scrapedAt": "2026-11-07T08:27:44.992Z"
+}

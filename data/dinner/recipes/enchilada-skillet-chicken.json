@@ -1,0 +1,398 @@
+{
+  "id": "ruled-34504",
+  "slug": "enchilada-skillet-chicken",
+  "title": "Enchilada Skillet Chicken",
+  "url": "https://www.ruled.me/enchilada-skillet-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Enchilada Skillet Chicken. Each serving comes out to be 371 calories, 18.4g fats, 4.4g net carbs, and 43.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "4",
+    "calories": "371 kcal",
+    "fatContent": "18.4 g",
+    "proteinContent": "43.6 g",
+    "carbohydrateContent": "4.4 g"
+  },
+  "nutritionPerServing": {
+    "calories": 371,
+    "netCarbsGrams": 4.4,
+    "proteinGrams": 43.6,
+    "fatGrams": 18.4
+  },
+  "ingredients": [
+    "16 ounce boneless, skinless chicken breast",
+    "salt and pepper",
+    "1/2 cup almond flour",
+    "2 large egg",
+    "1 tablespoon butter",
+    "1/2 cup red enchilada sauce",
+    "1/4 cup shredded mexican blend cheese",
+    "1/4 cup red onion (diced)"
+  ],
+  "instructions": [
+    {
+      "text": "Split the chicken breasts, horizontally, into two even pieces. (I had another small piece of chicken in this package, so there are some extra pieces here.) Preheat your skillet over medium-high heat and add butter. Turn your oven on to 400F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-01.jpg"
+    },
+    {
+      "text": "Season both sides of the chicken with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-02.jpg"
+    },
+    {
+      "text": "Press into the almond flour and evenly coat both sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-03.jpg"
+    },
+    {
+      "text": "Whisk the eggs together, then dip the chicken into the egg and coat both sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-04.jpg"
+    },
+    {
+      "text": "Lay the chicken down into the pan and brown on both sides. I do two at a time then place the finished pieces on a plate while I cook the next batch. Don’t worry about cooking the chicken through, just brown the coating.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-06.jpg"
+    },
+    {
+      "text": "If some of the egg has gotten stuck on the pan you will want to deglaze it with some water and wipe it out. When all the pieces are browned, return the chicken to the skillet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-08.jpg"
+    },
+    {
+      "text": "Pour the red enchilada sauce over the top of the chicken pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-09.jpg"
+    },
+    {
+      "text": "Sprinkle on the diced onion, and shredded cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-10.jpg"
+    },
+    {
+      "text": "Bake for 15-20 minutes, until hot and bubbly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "one-pan",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/f29be9789dd080eaaffbd376.avif",
+      "archived": true,
+      "originalPath": "images/f29be9789dd080eaaffbd376.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-featured.jpg",
+      "path": "images/83ee3881c2a302515b4f0d7e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-01.jpg",
+      "path": "../../nenaudojama/dinner/images/4b2e35ce3124021bb0c56392.avif",
+      "archived": true,
+      "originalPath": "images/4b2e35ce3124021bb0c56392.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-02.jpg",
+      "path": "../../nenaudojama/dinner/images/c786d78dd3519cad1ee052c6.avif",
+      "archived": true,
+      "originalPath": "images/c786d78dd3519cad1ee052c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-03.jpg",
+      "path": "../../nenaudojama/dinner/images/6e096ddc5ff3f7e505ff7b06.jpg",
+      "archived": true,
+      "originalPath": "images/6e096ddc5ff3f7e505ff7b06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-04.jpg",
+      "path": "../../nenaudojama/dinner/images/c806107a80da940d38d008b9.avif",
+      "archived": true,
+      "originalPath": "images/c806107a80da940d38d008b9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-06.jpg",
+      "path": "../../nenaudojama/dinner/images/2a3d8e199d102eebe858e3bb.avif",
+      "archived": true,
+      "originalPath": "images/2a3d8e199d102eebe858e3bb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-08.jpg",
+      "path": "../../nenaudojama/dinner/images/eb6fba4271fe275dd04660e3.avif",
+      "archived": true,
+      "originalPath": "images/eb6fba4271fe275dd04660e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-09.jpg",
+      "path": "../../nenaudojama/dinner/images/1ff3e5b410386341546384a0.jpg",
+      "archived": true,
+      "originalPath": "images/1ff3e5b410386341546384a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-10.jpg",
+      "path": "../../nenaudojama/dinner/images/e28c0caa665494e8e78124e7.avif",
+      "archived": true,
+      "originalPath": "images/e28c0caa665494e8e78124e7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-second.jpg",
+      "path": "../../nenaudojama/dinner/images/9d7f0c3b461f29c64e49d6e4.avif",
+      "archived": true,
+      "originalPath": "images/9d7f0c3b461f29c64e49d6e4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/3058df492159b426ad8b3b7e.avif",
+      "archived": true,
+      "originalPath": "images/3058df492159b426ad8b3b7e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a73dec8fd67bd663bd02a08a.avif",
+      "archived": true,
+      "originalPath": "images/a73dec8fd67bd663bd02a08a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0de68114828102c316e64cbf.avif",
+      "archived": true,
+      "originalPath": "images/0de68114828102c316e64cbf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1dc38b755861fc3c8d69e192.avif",
+      "archived": true,
+      "originalPath": "images/1dc38b755861fc3c8d69e192.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cd8d30d7cdc5178f6a3218ea.avif",
+      "archived": true,
+      "originalPath": "images/cd8d30d7cdc5178f6a3218ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1b0dcbf31db0478f1dda7dd0.jpg",
+      "archived": true,
+      "originalPath": "images/1b0dcbf31db0478f1dda7dd0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/186d041753b2142a14f0bee3.avif",
+      "archived": true,
+      "originalPath": "images/186d041753b2142a14f0bee3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4423a8ece91ec9fe922fdf77.avif",
+      "archived": true,
+      "originalPath": "images/4423a8ece91ec9fe922fdf77.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-10-233x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1685d077bff307d61740b1a0.avif",
+      "archived": true,
+      "originalPath": "images/1685d077bff307d61740b1a0.avif"
+    }
+  ],
+  "featuredImage": "images/83ee3881c2a302515b4f0d7e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Enchilada Skillet Chicken",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Enchilada Skillet Chicken. Each serving comes out to be 371 calories, 18.4g fats, 4.4g net carbs, and 43.6g protein.",
+    "datePublished": "2017-11-21T12:00:32+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "16 ounce boneless, skinless chicken breast",
+      "salt and pepper",
+      "1/2 cup almond flour",
+      "2 large egg",
+      "1 tablespoon butter",
+      "1/2 cup red enchilada sauce",
+      "1/4 cup shredded mexican blend cheese",
+      "1/4 cup red onion (diced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Split the chicken breasts, horizontally, into two even pieces. (I had another small piece of chicken in this package, so there are some extra pieces here.) Preheat your skillet over medium-high heat and add butter. Turn your oven on to 400F.",
+        "name": "Split the chicken breasts, horizontally, into two even pieces. (I had another small piece of chicken in this package, so there are some extra pieces here.) Preheat your skillet over medium-high heat and add butter. Turn your oven on to 400F.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season both sides of the chicken with salt and pepper.",
+        "name": "Season both sides of the chicken with salt and pepper.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Press into the almond flour and evenly coat both sides.",
+        "name": "Press into the almond flour and evenly coat both sides.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the eggs together, then dip the chicken into the egg and coat both sides.",
+        "name": "Whisk the eggs together, then dip the chicken into the egg and coat both sides.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay the chicken down into the pan and brown on both sides. I do two at a time then place the finished pieces on a plate while I cook the next batch. Don’t worry about cooking the chicken through, just brown the coating.",
+        "name": "Lay the chicken down into the pan and brown on both sides. I do two at a time then place the finished pieces on a plate while I cook the next batch. Don’t worry about cooking the chicken through, just brown the coating.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If some of the egg has gotten stuck on the pan you will want to deglaze it with some water and wipe it out. When all the pieces are browned, return the chicken to the skillet.",
+        "name": "If some of the egg has gotten stuck on the pan you will want to deglaze it with some water and wipe it out. When all the pieces are browned, return the chicken to the skillet.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the red enchilada sauce over the top of the chicken pieces.",
+        "name": "Pour the red enchilada sauce over the top of the chicken pieces.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle on the diced onion, and shredded cheese.",
+        "name": "Sprinkle on the diced onion, and shredded cheese.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 15-20 minutes, until hot and bubbly.",
+        "name": "Bake for 15-20 minutes, until hot and bubbly.",
+        "url": "https://www.ruled.me/enchilada-skillet-chicken/#wprm-recipe-52373-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "comfort-food, family-friendly, high-protein, keto, low-carb, one-pan, one-pan meals, oven-baked, poultry, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "4",
+      "calories": "371 kcal",
+      "fatContent": "18.4 g",
+      "proteinContent": "43.6 g",
+      "carbohydrateContent": "4.4 g"
+    },
+    "@id": "https://www.ruled.me/enchilada-skillet-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/enchilada-skillet-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/enchilada-skillet-chicken/"
+  },
+  "sourceIndex": {
+    "id": 34504,
+    "rid": 52373,
+    "t": "Enchilada Skillet Chicken",
+    "u": "/enchilada-skillet-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/enchilada-skillet-chicken-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.4,
+    "cal": 371,
+    "pr": 43.6,
+    "fa": 18.4,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "one-pan",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2017-11-21",
+    "cm": 11,
+    "ex": "This easy dinner recipe lightly \"breads\" chicken breasts and smothers with onions, red enchilada sauce, and cheese! It's all the delicious flavors of homemade chicken enchiladas, but without having",
+    "pv": 271
+  },
+  "sourceHtml": "pages/enchilada-skillet-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:44.653Z"
+}

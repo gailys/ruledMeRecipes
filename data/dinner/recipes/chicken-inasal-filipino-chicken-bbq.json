@@ -1,0 +1,389 @@
+{
+  "id": "ruled-42392",
+  "slug": "chicken-inasal-filipino-chicken-bbq",
+  "title": "Chicken Inasal (Filipino Chicken BBQ)",
+  "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Chicken Inasal (Filipino Chicken BBQ). Each serving comes out to be 677 calories, 48g fats, 1.8g net carbs, and 54.8g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT180M",
+  "cookTime": "PT25M",
+  "totalTime": "PT205M",
+  "totalMinutes": 205,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "677 kcal",
+    "fatContent": "48 g",
+    "proteinContent": "54.8 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 677,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 54.8,
+    "fatGrams": 48
+  },
+  "ingredients": [
+    "48 ounce bone-in chicken wings",
+    "1 medium lemongrass",
+    "3 teaspoon fresh garlic",
+    "1/4 cup coconut vinegar",
+    "2 tablespoon calamansi juice",
+    "2 tablespoon water",
+    "1 tablespoon low-carb brown sugar replacement",
+    "1 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1 tablespoon fresh ginger",
+    "1/4 cup duck fat",
+    "2 tablespoon annatto seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Portion chicken wings into wingettes and drumettes, discard tips.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-01.jpg"
+    },
+    {
+      "text": "In a food processor (or blender), add lemongrass, garlic, vinegar, calamansi juice, water, sweetener, salt, pepper, and ginger. Pulse until blended and homogenous. Drain to discard fibrous bits.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-02.jpg"
+    },
+    {
+      "text": "Pour marinade over chicken wings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-03.jpg"
+    },
+    {
+      "text": "Transfer to a ziplock bag and refrigerate for about 2 hours, shaking and turning to evenly distribute marinade every hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-04.jpg"
+    },
+    {
+      "text": "To make the basting oil, in a saucepan, warm the duck fat then add annatto seeds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-07.jpg"
+    },
+    {
+      "text": "When it begins to bubble, turn off the heat and allow to steep for at least 30 minutes. Strain through a fine-mesh strainer and let cool. Store in an airtight container. May be refrigerated up to two weeks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-08.jpg"
+    },
+    {
+      "text": "Remove chicken from the marinade. Lightly grease grill and heat over hot coals. Grill chicken, turning once or twice, basting regularly with annatto oil. Remove from heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-09.jpg"
+    },
+    {
+      "text": "Serve with a side of steamed broccoli and spiced vinegar (add crushed garlic, minced shallots, and chopped birds eye chili).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "grilled",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "poultry",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "make-ahead",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/1bdd490ed28acd2884af2845.jpg",
+      "archived": true,
+      "originalPath": "images/1bdd490ed28acd2884af2845.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-featured.jpg",
+      "path": "images/3c023da52aebe4fb76a7e881.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-01.jpg",
+      "path": "../../nenaudojama/dinner/images/01de49cf3ea488cca0606f9c.jpg",
+      "archived": true,
+      "originalPath": "images/01de49cf3ea488cca0606f9c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-02.jpg",
+      "path": "../../nenaudojama/dinner/images/18fe79bfef2986170404f35a.jpg",
+      "archived": true,
+      "originalPath": "images/18fe79bfef2986170404f35a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-03.jpg",
+      "path": "../../nenaudojama/dinner/images/a980241197e0a0a674f4d7ab.jpg",
+      "archived": true,
+      "originalPath": "images/a980241197e0a0a674f4d7ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-04.jpg",
+      "path": "../../nenaudojama/dinner/images/118582efe926b3ecb911bf99.jpg",
+      "archived": true,
+      "originalPath": "images/118582efe926b3ecb911bf99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-07.jpg",
+      "path": "../../nenaudojama/dinner/images/a3154ef3f04351b28fecda37.jpg",
+      "archived": true,
+      "originalPath": "images/a3154ef3f04351b28fecda37.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-08.jpg",
+      "path": "../../nenaudojama/dinner/images/680757af8a072816e864bac1.jpg",
+      "archived": true,
+      "originalPath": "images/680757af8a072816e864bac1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-09.jpg",
+      "path": "../../nenaudojama/dinner/images/bdfa5046eff74d053177b5eb.jpg",
+      "archived": true,
+      "originalPath": "images/bdfa5046eff74d053177b5eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-second.jpg",
+      "path": "../../nenaudojama/dinner/images/520735aa7f7795aa1c505aaa.avif",
+      "archived": true,
+      "originalPath": "images/520735aa7f7795aa1c505aaa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/de7b71c393a16f52df5c1e96.avif",
+      "archived": true,
+      "originalPath": "images/de7b71c393a16f52df5c1e96.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/966ae300cc324ddb2049a8b6.jpg",
+      "archived": true,
+      "originalPath": "images/966ae300cc324ddb2049a8b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d38c021b8226d08256a966f6.jpg",
+      "archived": true,
+      "originalPath": "images/d38c021b8226d08256a966f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6eeac173030a8673239b9fe3.jpg",
+      "archived": true,
+      "originalPath": "images/6eeac173030a8673239b9fe3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/02d553c3caae296178de616f.jpg",
+      "archived": true,
+      "originalPath": "images/02d553c3caae296178de616f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0e5f48574846f2321784b132.jpg",
+      "archived": true,
+      "originalPath": "images/0e5f48574846f2321784b132.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8bc04d8c3e7764741d2752ac.jpg",
+      "archived": true,
+      "originalPath": "images/8bc04d8c3e7764741d2752ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c9f12f51f9f76266e2e8c361.jpg",
+      "archived": true,
+      "originalPath": "images/c9f12f51f9f76266e2e8c361.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/20d66957521bfd135f07c4b3.jpg",
+      "archived": true,
+      "originalPath": "images/20d66957521bfd135f07c4b3.jpg"
+    }
+  ],
+  "featuredImage": "images/3c023da52aebe4fb76a7e881.webp",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicken Inasal (Filipino Chicken BBQ)",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Chicken Inasal (Filipino Chicken BBQ). Each serving comes out to be 677 calories, 48g fats, 1.8g net carbs, and 54.8g protein.",
+    "datePublished": "2020-02-04T12:00:42+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT180M",
+    "cookTime": "PT25M",
+    "totalTime": "PT205M",
+    "recipeIngredient": [
+      "48 ounce bone-in chicken wings",
+      "1 medium lemongrass",
+      "3 teaspoon fresh garlic",
+      "1/4 cup coconut vinegar",
+      "2 tablespoon calamansi juice",
+      "2 tablespoon water",
+      "1 tablespoon low-carb brown sugar replacement",
+      "1 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 tablespoon fresh ginger",
+      "1/4 cup duck fat",
+      "2 tablespoon annatto seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Portion chicken wings into wingettes and drumettes, discard tips.",
+        "name": "Portion chicken wings into wingettes and drumettes, discard tips.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor (or blender), add lemongrass, garlic, vinegar, calamansi juice, water, sweetener, salt, pepper, and ginger. Pulse until blended and homogenous. Drain to discard fibrous bits.",
+        "name": "In a food processor (or blender), add lemongrass, garlic, vinegar, calamansi juice, water, sweetener, salt, pepper, and ginger. Pulse until blended and homogenous. Drain to discard fibrous bits.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour marinade over chicken wings.",
+        "name": "Pour marinade over chicken wings.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer to a ziplock bag and refrigerate for about 2 hours, shaking and turning to evenly distribute marinade every hour.",
+        "name": "Transfer to a ziplock bag and refrigerate for about 2 hours, shaking and turning to evenly distribute marinade every hour.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To make the basting oil, in a saucepan, warm the duck fat then add annatto seeds.",
+        "name": "To make the basting oil, in a saucepan, warm the duck fat then add annatto seeds.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When it begins to bubble, turn off the heat and allow to steep for at least 30 minutes. Strain through a fine-mesh strainer and let cool. Store in an airtight container. May be refrigerated up to two weeks.",
+        "name": "When it begins to bubble, turn off the heat and allow to steep for at least 30 minutes. Strain through a fine-mesh strainer and let cool. Store in an airtight container. May be refrigerated up to two weeks.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove chicken from the marinade. Lightly grease grill and heat over hot coals. Grill chicken, turning once or twice, basting regularly with annatto oil. Remove from heat.",
+        "name": "Remove chicken from the marinade. Lightly grease grill and heat over hot coals. Grill chicken, turning once or twice, basting regularly with annatto oil. Remove from heat.",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a side of steamed broccoli and spiced vinegar (add crushed garlic, minced shallots, and chopped birds eye chili).",
+        "name": "Serve with a side of steamed broccoli and spiced vinegar (add crushed garlic, minced shallots, and chopped birds eye chili).",
+        "url": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#wprm-recipe-53235-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, grilled, high-fat, high-protein, keto, low-carb, make-ahead, nut-free, poultry, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "677 kcal",
+      "fatContent": "48 g",
+      "proteinContent": "54.8 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chicken-inasal-filipino-chicken-bbq/"
+  },
+  "sourceIndex": {
+    "id": 42392,
+    "rid": 53235,
+    "t": "Chicken Inasal (Filipino Chicken BBQ)",
+    "u": "/chicken-inasal-filipino-chicken-bbq/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/01/chicken-inasal-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.8,
+    "cal": 677,
+    "pr": 54.8,
+    "fa": 48,
+    "tm": 205,
+    "sv": 6,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "grilled",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "poultry",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "make-ahead",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-02-04",
+    "cm": 0,
+    "ex": "Tangy, crispy, grilled chicken --- probably the best way to describe Chicken Inasal. Marinated in acids and aromatics, it’s a family favorite! Coconut Sap Vinegar is when coconut trees are tapped for",
+    "pv": 236
+  },
+  "sourceHtml": "pages/chicken-inasal-filipino-chicken-bbq.html",
+  "scrapedAt": "2026-11-07T08:27:44.357Z"
+}

@@ -1,0 +1,479 @@
+{
+  "id": "ruled-20444",
+  "slug": "crispy-chipotle-chicken-thighs",
+  "title": "Crispy Chipotle Chicken Thighs",
+  "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Crispy Chipotle Chicken Thighs. Each serving comes out to be 201 calories, 18g fats, 0.2g net carbs, and 9.5g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "201 kcal",
+    "fatContent": "18 g",
+    "proteinContent": "9.5 g",
+    "carbohydrateContent": "0.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 201,
+    "netCarbsGrams": 0.2,
+    "proteinGrams": 9.5,
+    "fatGrams": 18
+  },
+  "ingredients": [
+    "1/2 teaspoon chipotle seasoning",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon ground coriander",
+    "1/2 teaspoon smoked paprika",
+    "1/4 teaspoon cumin",
+    "1/4 teaspoon dried oregano",
+    "1/8 teaspoon cayenne pepper",
+    "1 tablespoon olive oil",
+    "32 ounce bone-in, skin-on chicken thighs",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Mix the spice blend using all of the ingredients listed (except for the olive oil, chicken, salt, and pepper).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8343.jpg"
+    },
+    {
+      "text": "Start to de-bone the chicken thighs. Using kitchen shears, cut a direct line above the bone going through the thigh.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8369.jpg"
+    },
+    {
+      "text": "Using the scissors, cut around the bone until you can lift it out of the chicken. Make sure to get as close to the bone as possible – you don’t want too much wasted meat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8365.jpg"
+    },
+    {
+      "text": "Cut around the end that is still attached and remove the bone from the chicken. Repeat for all the chicken thighs. Cut off the excess skin as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8379.jpg"
+    },
+    {
+      "text": "Lay the chicken skin-side down on top of paper towels. Season with salt and pepper, then with your seasonings mix. Liberally coat the chicken meat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8381.jpg"
+    },
+    {
+      "text": "Using a meat hammer, lightly pound the chicken to get a consistent width. You want this to cook evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8393.jpg"
+    },
+    {
+      "text": "Flip the chicken over so that the skin is now facing up. Coat with salt and pepper, then cut each thigh in half.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8398.jpg"
+    },
+    {
+      "text": "Heat olive oil in a cast iron skillet over medium-high heat on the stove.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_84065.jpg"
+    },
+    {
+      "text": "Once the pan is hot, add chicken thighs skin-side down into the pan. Let this cook for 8-10 minutes. Do this in two batches.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8415.jpg"
+    },
+    {
+      "text": "Cover your pan with a grease catcher screen to keep the excess grease from going everywhere.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8421.jpg"
+    },
+    {
+      "text": "After 8-10 minutes, flip the chicken over and cook on the other side for 2-4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8429.jpg"
+    },
+    {
+      "text": "Optional: Wilt some spinach down in the remaining chicken fat and serve with lemon to squeeze lightly over the chicken thighs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-11",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/ChickenThigh.jpg",
+      "path": "images/4a1c80682e17fdddc7c3c12e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8343.jpg",
+      "path": "../../nenaudojama/dinner/images/ea5ef3d346817b80e4f86e63.jpg",
+      "archived": true,
+      "originalPath": "images/ea5ef3d346817b80e4f86e63.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8369.jpg",
+      "path": "../../nenaudojama/dinner/images/865611ca09da44afd8f0a240.avif",
+      "archived": true,
+      "originalPath": "images/865611ca09da44afd8f0a240.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8365.jpg",
+      "path": "../../nenaudojama/dinner/images/e2a92b035cb31b34fc70f91c.avif",
+      "archived": true,
+      "originalPath": "images/e2a92b035cb31b34fc70f91c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8379.jpg",
+      "path": "../../nenaudojama/dinner/images/87a21a0ec0e07c04ffcb203d.avif",
+      "archived": true,
+      "originalPath": "images/87a21a0ec0e07c04ffcb203d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8381.jpg",
+      "path": "../../nenaudojama/dinner/images/ec046f0c13c48c3d399ffc24.jpg",
+      "archived": true,
+      "originalPath": "images/ec046f0c13c48c3d399ffc24.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8393.jpg",
+      "path": "../../nenaudojama/dinner/images/29f1578e900cccec045a3a92.avif",
+      "archived": true,
+      "originalPath": "images/29f1578e900cccec045a3a92.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8398.jpg",
+      "path": "../../nenaudojama/dinner/images/66ffa6e77582c28a79944b74.avif",
+      "archived": true,
+      "originalPath": "images/66ffa6e77582c28a79944b74.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_84065.jpg",
+      "path": "../../nenaudojama/dinner/images/f1fd0a96640098552be7ab92.jpg",
+      "archived": true,
+      "originalPath": "images/f1fd0a96640098552be7ab92.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8415.jpg",
+      "path": "../../nenaudojama/dinner/images/cf96a427168b587a4b38ba0d.avif",
+      "archived": true,
+      "originalPath": "images/cf96a427168b587a4b38ba0d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8421.jpg",
+      "path": "../../nenaudojama/dinner/images/df526fc6a5f41d33b4fdc23c.avif",
+      "archived": true,
+      "originalPath": "images/df526fc6a5f41d33b4fdc23c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8429.jpg",
+      "path": "../../nenaudojama/dinner/images/78172005a1ba96f2571a615c.avif",
+      "archived": true,
+      "originalPath": "images/78172005a1ba96f2571a615c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/ChickenThighSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/ee8ce65efc38f2a288ca6b1a.avif",
+      "archived": true,
+      "originalPath": "images/ee8ce65efc38f2a288ca6b1a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8406.jpg",
+      "path": "../../nenaudojama/dinner/images/135df70e097c1ac8ca2c3d8b.jpg",
+      "archived": true,
+      "originalPath": "images/135df70e097c1ac8ca2c3d8b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/ChickenThighLong.jpg",
+      "path": "../../nenaudojama/dinner/images/e22a1b2c30121a3f2e9b25ed.avif",
+      "archived": true,
+      "originalPath": "images/e22a1b2c30121a3f2e9b25ed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8343-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c38e88aa547ce30e3a0b25c9.avif",
+      "archived": true,
+      "originalPath": "images/c38e88aa547ce30e3a0b25c9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8369-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0e648128ba3602ba67f1f832.avif",
+      "archived": true,
+      "originalPath": "images/0e648128ba3602ba67f1f832.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8365-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7610140e54bc6983b344c6e2.jpg",
+      "archived": true,
+      "originalPath": "images/7610140e54bc6983b344c6e2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8379-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b1b31f7641490f9280ca5e3d.avif",
+      "archived": true,
+      "originalPath": "images/b1b31f7641490f9280ca5e3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8381-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/eb8ab76d2f3e9fb1f8b893d3.avif",
+      "archived": true,
+      "originalPath": "images/eb8ab76d2f3e9fb1f8b893d3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8393-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c83cc058eed9956e41d4d4bb.avif",
+      "archived": true,
+      "originalPath": "images/c83cc058eed9956e41d4d4bb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8398-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/59b9a121c987597ed70d3010.avif",
+      "archived": true,
+      "originalPath": "images/59b9a121c987597ed70d3010.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_84065-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/56add365c83295fffcd698c1.jpg",
+      "archived": true,
+      "originalPath": "images/56add365c83295fffcd698c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8415-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f37a9716e2776dca3663edfe.avif",
+      "archived": true,
+      "originalPath": "images/f37a9716e2776dca3663edfe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8421-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/85e03699fb405e33e7de3175.jpg",
+      "archived": true,
+      "originalPath": "images/85e03699fb405e33e7de3175.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8429-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3455b6e9b2920eca9100f5bd.jpg",
+      "archived": true,
+      "originalPath": "images/3455b6e9b2920eca9100f5bd.jpg"
+    }
+  ],
+  "featuredImage": "images/4a1c80682e17fdddc7c3c12e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Crispy Chipotle Chicken Thighs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Crispy Chipotle Chicken Thighs. Each serving comes out to be 201 calories, 18g fats, 0.2g net carbs, and 9.5g protein.",
+    "datePublished": "2014-07-22T16:23:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/07/ChickenThigh.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1/2 teaspoon chipotle seasoning",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon ground coriander",
+      "1/2 teaspoon smoked paprika",
+      "1/4 teaspoon cumin",
+      "1/4 teaspoon dried oregano",
+      "1/8 teaspoon cayenne pepper",
+      "1 tablespoon olive oil",
+      "32 ounce bone-in, skin-on chicken thighs",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix the spice blend using all of the ingredients listed (except for the olive oil, chicken, salt, and pepper).",
+        "name": "Mix the spice blend using all of the ingredients listed (except for the olive oil, chicken, salt, and pepper).",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8343.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start to de-bone the chicken thighs. Using kitchen shears, cut a direct line above the bone going through the thigh.",
+        "name": "Start to de-bone the chicken thighs. Using kitchen shears, cut a direct line above the bone going through the thigh.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8369.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using the scissors, cut around the bone until you can lift it out of the chicken. Make sure to get as close to the bone as possible – you don’t want too much wasted meat.",
+        "name": "Using the scissors, cut around the bone until you can lift it out of the chicken. Make sure to get as close to the bone as possible – you don’t want too much wasted meat.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8365.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut around the end that is still attached and remove the bone from the chicken. Repeat for all the chicken thighs. Cut off the excess skin as needed.",
+        "name": "Cut around the end that is still attached and remove the bone from the chicken. Repeat for all the chicken thighs. Cut off the excess skin as needed.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8379.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay the chicken skin-side down on top of paper towels. Season with salt and pepper, then with your seasonings mix. Liberally coat the chicken meat.",
+        "name": "Lay the chicken skin-side down on top of paper towels. Season with salt and pepper, then with your seasonings mix. Liberally coat the chicken meat.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8381.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a meat hammer, lightly pound the chicken to get a consistent width. You want this to cook evenly.",
+        "name": "Using a meat hammer, lightly pound the chicken to get a consistent width. You want this to cook evenly.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8393.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the chicken over so that the skin is now facing up. Coat with salt and pepper, then cut each thigh in half.",
+        "name": "Flip the chicken over so that the skin is now facing up. Coat with salt and pepper, then cut each thigh in half.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8398.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat olive oil in a cast iron skillet over medium-high heat on the stove.",
+        "name": "Heat olive oil in a cast iron skillet over medium-high heat on the stove.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_84065.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the pan is hot, add chicken thighs skin-side down into the pan. Let this cook for 8-10 minutes. Do this in two batches.",
+        "name": "Once the pan is hot, add chicken thighs skin-side down into the pan. Let this cook for 8-10 minutes. Do this in two batches.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8415.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover your pan with a grease catcher screen to keep the excess grease from going everywhere.",
+        "name": "Cover your pan with a grease catcher screen to keep the excess grease from going everywhere.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8421.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After 8-10 minutes, flip the chicken over and cook on the other side for 2-4 minutes.",
+        "name": "After 8-10 minutes, flip the chicken over and cook on the other side for 2-4 minutes.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/07/IMG_8429.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optional: Wilt some spinach down in the remaining chicken fat and serve with lemon to squeeze lightly over the chicken thighs.",
+        "name": "Optional: Wilt some spinach down in the remaining chicken fat and serve with lemon to squeeze lightly over the chicken thighs.",
+        "url": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#wprm-recipe-51221-step-0-11"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, poultry, spicy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "201 kcal",
+      "fatContent": "18 g",
+      "proteinContent": "9.5 g",
+      "carbohydrateContent": "0.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/crispy-chipotle-chicken-thighs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/crispy-chipotle-chicken-thighs/"
+  },
+  "sourceIndex": {
+    "id": 20444,
+    "rid": 51221,
+    "t": "Crispy Chipotle Chicken Thighs",
+    "u": "/crispy-chipotle-chicken-thighs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/07/ChickenThigh.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 0.2,
+    "cal": 201,
+    "pr": 9.5,
+    "fa": 18,
+    "tm": 40,
+    "sv": 12,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2014-07-22",
+    "cm": 23,
+    "ex": "Chicken is always something you have to scrutinize when on a ketogenic diet. From the high protein content to the low fat content, it's something that most of us opt out of using as a staple in our",
+    "pv": 260
+  },
+  "sourceHtml": "pages/crispy-chipotle-chicken-thighs.html",
+  "scrapedAt": "2026-11-07T08:27:45.066Z"
+}

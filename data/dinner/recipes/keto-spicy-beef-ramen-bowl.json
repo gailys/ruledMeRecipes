@@ -1,0 +1,294 @@
+{
+  "id": "ruled-41205",
+  "slug": "keto-spicy-beef-ramen-bowl",
+  "title": "Keto Spicy Beef Ramen Bowl",
+  "url": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Keto Spicy Beef Ramen Bowl. Each serving comes out to be 147 calories, 6g fats, 3.4g net carbs, and 17.9g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "147 kcal",
+    "fatContent": "6 g",
+    "proteinContent": "17.9 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 147,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 17.9,
+    "fatGrams": 6
+  },
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 small onion (thinly sliced)",
+    "1 tablespoon fresh ginger (grated)",
+    "3 teaspoon fresh garlic (minced)",
+    "1 teaspoon chili paste",
+    "1 tablespoon fish sauce",
+    "1/4 cup soy sauce",
+    "1/4 cup unseasoned rice vinegar",
+    "4 ounce mushrooms (thinly sliced)",
+    "salt and pepper (to taste)",
+    "5 cup beef broth",
+    "3 package shirataki noodles",
+    "10 slice deli-sliced roast beef"
+  ],
+  "instructions": [
+    {
+      "text": "In a large stockpot heat the oil over medium heat. Cook the onions until softened.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-01.jpg"
+    },
+    {
+      "text": "Add the ginger, garlic, chili paste, fish sauce, soy sauce, rice wine vinegar, mushrooms, salt, pepper, and beef broth to the pot. Simmer for 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-08.jpg"
+    },
+    {
+      "text": "Take the noodles out of the package then rinse under cold water. Add to the pot then check the seasoning. Add salt if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-09.jpg"
+    },
+    {
+      "text": "Divide the noodles and broth out into four bowls. Add the beef then the optional toppings if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "simple-and-easy",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/ramen-bowl-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/7270b1dc3f46ab0a9c99ef22.avif",
+      "archived": true,
+      "originalPath": "images/7270b1dc3f46ab0a9c99ef22.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/ramen-bowl-featured.jpg",
+      "path": "images/ea65f5a9db47883382770fc3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-01.jpg",
+      "path": "../../nenaudojama/dinner/images/89c2d3a9c88e4613edd5974e.avif",
+      "archived": true,
+      "originalPath": "images/89c2d3a9c88e4613edd5974e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-08.jpg",
+      "path": "../../nenaudojama/dinner/images/d5c82d716fe31517b265ecc0.avif",
+      "archived": true,
+      "originalPath": "images/d5c82d716fe31517b265ecc0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-09.jpg",
+      "path": "../../nenaudojama/dinner/images/41c047a53e5811889e4d4eff.avif",
+      "archived": true,
+      "originalPath": "images/41c047a53e5811889e4d4eff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/ramen-bowl-second.jpg",
+      "path": "../../nenaudojama/dinner/images/51675f0dfc1d0460a015de41.avif",
+      "archived": true,
+      "originalPath": "images/51675f0dfc1d0460a015de41.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/ramen-bowl-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/56369c7ba7399244726eb02c.avif",
+      "archived": true,
+      "originalPath": "images/56369c7ba7399244726eb02c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/112cf02aec209c228203f59b.jpg",
+      "archived": true,
+      "originalPath": "images/112cf02aec209c228203f59b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c83753ebab6ec6d6a448f329.avif",
+      "archived": true,
+      "originalPath": "images/c83753ebab6ec6d6a448f329.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/95f54dc353819e90e5afc568.avif",
+      "archived": true,
+      "originalPath": "images/95f54dc353819e90e5afc568.avif"
+    }
+  ],
+  "featuredImage": "images/ea65f5a9db47883382770fc3.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Spicy Beef Ramen Bowl",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Keto Spicy Beef Ramen Bowl. Each serving comes out to be 147 calories, 6g fats, 3.4g net carbs, and 17.9g protein.",
+    "datePublished": "2019-09-05T05:54:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/09/ramen-bowl-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Spicy Beef Ramen Bowl Recipe",
+      "description": "Getting a nice hot bowl of ramen is certainly something I miss while eating keto. Thankfully, it’s still something you can have if you replace the carby noodles. We used slices of beef, but you can add any kind of protein you prefer to the finished soup.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nBeefy Ramen\n1 tablespoon olive oil\n1 small onion, thinly sliced\n1 tablespoon freshly grated ginger\n3 cloves garlic, finely minced\n1 teaspoon chili paste\n1 tablespoon fish sauce\n¼ cup soy sauce\n¼ cup rice wine vinegar\n4 ounces thinly sliced mushrooms\nSalt and pepper, to taste\n5 cups beef broth\n3 packets shirataki noodles\n10 slices roast beef\n\nOptional Toppings\nHard-boiled eggs\nCilantro\nSesame seeds\nChopped green onion\nExtra chili sauce\nSeaweed flakes\n\nNutrition Summary:\nThis makes a total of 5 (1-cup) servings of Keto Spicy Beef Ramen Bowl. Each serving comes out to be 110.96 Calories, 4.43g Fats, 3.88g Net Carbs, and 10.43g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-02-17T16:30:00+00:00",
+      "duration": "PT2M20S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oQz_i_H0D20/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/oQz_i_H0D20?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=oQz_i_H0D20",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "1 tablespoon olive oil",
+      "1 small onion (thinly sliced)",
+      "1 tablespoon fresh ginger (grated)",
+      "3 teaspoon fresh garlic (minced)",
+      "1 teaspoon chili paste",
+      "1 tablespoon fish sauce",
+      "1/4 cup soy sauce",
+      "1/4 cup unseasoned rice vinegar",
+      "4 ounce mushrooms (thinly sliced)",
+      "salt and pepper (to taste)",
+      "5 cup beef broth",
+      "3 package shirataki noodles",
+      "10 slice deli-sliced roast beef"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large stockpot heat the oil over medium heat. Cook the onions until softened.",
+        "name": "In a large stockpot heat the oil over medium heat. Cook the onions until softened.",
+        "url": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ginger, garlic, chili paste, fish sauce, soy sauce, rice wine vinegar, mushrooms, salt, pepper, and beef broth to the pot. Simmer for 30 minutes.",
+        "name": "Add the ginger, garlic, chili paste, fish sauce, soy sauce, rice wine vinegar, mushrooms, salt, pepper, and beef broth to the pot. Simmer for 30 minutes.",
+        "url": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Take the noodles out of the package then rinse under cold water. Add to the pot then check the seasoning. Add salt if needed.",
+        "name": "Take the noodles out of the package then rinse under cold water. Add to the pot then check the seasoning. Add salt if needed.",
+        "url": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/spicy-ramen-bowl-2-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the noodles and broth out into four bowls. Add the beef then the optional toppings if desired.",
+        "name": "Divide the noodles and broth out into four bowls. Add the beef then the optional toppings if desired.",
+        "url": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#wprm-recipe-53135-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "comfort-food, dairy-free, egg-free, keto, low-carb, nut-free, red meat, simple &amp; easy, spicy, stovetop, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "147 kcal",
+      "fatContent": "6 g",
+      "proteinContent": "17.9 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-spicy-beef-ramen-bowl/"
+  },
+  "sourceIndex": {
+    "id": 41205,
+    "rid": 53135,
+    "t": "Keto Spicy Beef Ramen Bowl Soup",
+    "u": "/keto-spicy-beef-ramen-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/09/ramen-bowl-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.4,
+    "cal": 147,
+    "pr": 17.9,
+    "fa": 6,
+    "tm": 50,
+    "sv": 5,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "simple-and-easy",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 13,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "red-meat"
+    ],
+    "d": "2019-09-05",
+    "cm": 6,
+    "ex": "Getting a nice hot bowl of ramen is certainly something I miss while eating keto. Thankfully, it’s still something you can have if you replace the carby noodles. We used slices of beef, but you can",
+    "pv": 626
+  },
+  "sourceHtml": "pages/keto-spicy-beef-ramen-bowl.html",
+  "scrapedAt": "2026-11-07T08:27:44.418Z"
+}

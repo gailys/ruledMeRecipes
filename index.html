@@ -8,20 +8,22 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=43" />
+    <link rel="stylesheet" href="./styles.css?v=54" />
+    <link rel="stylesheet" href="./meal-planner.css?v=54" />
     <title>Mano keto receptai</title>
   </head>
   <body>
     <header class="topbar">
-      <a class="brand" href="#recipes" aria-label="Mano keto receptai">
+      <a class="brand" href="#discover" aria-label="Mano keto receptai">
         <span class="brand-mark">K</span>
         <span>Mano keto</span>
       </a>
       <nav aria-label="Pagrindinis meniu">
+        <a href="#discover" data-nav="discover">Meniu</a>
         <a href="#recipes" data-nav="recipes">Receptai</a>
         <a href="#shopping" data-nav="shopping">Pirkiniai <span id="cart-count" class="count">0</span></a>
         <a href="#add" data-nav="add">Pridėti</a>
-        <span id="current-user" class="current-user" hidden></span>
+        <button id="current-user" class="current-user" type="button" title="Keisti vartotoją" hidden></button>
         <button id="manage-dictionary" class="settings-button" type="button" aria-label="Programėlės nustatymai" title="Nustatymai">
           <span aria-hidden="true">⚙</span>
         </button>
@@ -29,6 +31,7 @@
     </header>
 
     <main>
+      <section id="discover-view" class="view" hidden aria-label="Meniu kūrėjas"></section>
       <section id="recipes-view" class="view">
         <div class="library-heading">
           <div><p class="eyebrow">Jūsų kolekcija</p><h1>Mano receptai</h1></div>
@@ -97,6 +100,21 @@
       <div class="settings-content">
         <h2>Nustatymai</h2>
         <p>Pasirinkite, ką norite pakeisti.</p>
+        <div class="planner-setting">
+          <label for="plan-days"><strong>Kelioms dienoms renkame meniu?</strong><span>Kiekvienai dienai: pusryčiai, pietūs, vakarienė ir desertas.</span></label>
+          <select id="plan-days" name="plan-days">
+            <option value="1">1 dienai</option><option value="2">2 dienoms</option><option value="3">3 dienoms</option><option value="4">4 dienoms</option><option value="5">5 dienoms</option><option value="6">6 dienoms</option><option value="7">7 dienoms</option>
+          </select>
+          <small>Pasirinkimai išsaugomi šiame įrenginyje pagal vartotojo profilį.</small>
+        </div>
+        <button id="restart-plan" class="settings-option" type="button"><span class="settings-option-icon" aria-hidden="true">↻</span><span><strong>Rinktis naują meniu</strong><small>Pradėti receptų atranką iš naujo</small></span><span class="settings-option-arrow" aria-hidden="true">›</span></button>
+        <div class="planner-setting menu-reminder-setting">
+          <label class="reminder-toggle" for="menu-reminder-enabled"><strong>Priminti apie naują meniu</strong><input id="menu-reminder-enabled" type="checkbox" checked role="switch"></label>
+          <label for="menu-reminder-days">Parodyti priminimą, kai meniu lieka</label>
+          <select id="menu-reminder-days"><option value="1">1 diena</option><option value="2" selected>2 dienos</option><option value="3">3 dienos</option><option value="4">4 dienos</option><option value="5">5 dienos</option><option value="6">6 dienos</option><option value="7">7 dienos</option></select>
+          <small>Priminimas rodomas programėlėje ne dažniau kaip kartą per dieną. Jį galima išjungti.</small>
+        </div>
+        <button id="clear-plan" class="settings-option clear-plan-option" type="button"><span class="settings-option-icon" aria-hidden="true">×</span><span><strong>Ištrinti visus pasirinktus receptus</strong><small>Išvalyti meniu ir iš naujo pasirinkti laikotarpį bei gamybos pradžią</small></span><span class="settings-option-arrow" aria-hidden="true">›</span></button>
         <button id="open-dictionary" class="settings-option" type="button">
           <span class="settings-option-icon" aria-hidden="true">Aa</span>
           <span><strong>Ingredientų vertimai</strong><small>Peržiūrėti ir taisyti produktų pavadinimus</small></span>
@@ -108,6 +126,31 @@
           <span class="settings-option-arrow" aria-hidden="true">›</span>
         </button>
       </div>
+    </dialog>
+
+    <dialog id="planner-onboarding-dialog" class="add-dialog planner-onboarding-dialog" aria-labelledby="planner-onboarding-title">
+      <form id="planner-onboarding-form">
+        <p class="eyebrow">Pradėkime nuo tavęs</p><h2 id="planner-onboarding-title">Kelioms dienoms renkame meniu?</h2>
+        <p>Pasirink laikotarpį ir kada pradėsi gaminti. Vėliau laikotarpį galėsi pakeisti nustatymuose.</p>
+        <label for="first-plan-days">Meniu laikotarpis</label>
+        <select id="first-plan-days"><option value="1">1 dienai</option><option value="2">2 dienoms</option><option value="3">3 dienoms</option><option value="4">4 dienoms</option><option value="5">5 dienoms</option><option value="6">6 dienoms</option><option value="7">7 dienoms</option></select>
+        <label for="first-plan-start-offset">Po kiek dienų prasidės gamyba?</label>
+        <input id="first-plan-start-offset" type="number" min="0" max="365" step="1" value="1" required aria-describedby="first-plan-start-date">
+        <p id="first-plan-start-date" class="plan-start-preview" aria-live="polite"></p>
+        <button class="primary dark" type="submit">Pradėti rinktis</button>
+      </form>
+    </dialog>
+
+    <dialog id="menu-reminder-dialog" class="add-dialog menu-reminder-dialog" aria-labelledby="menu-reminder-title">
+      <p class="eyebrow">Pasirūpink rytojaus skoniu</p><h2 id="menu-reminder-title">Laikas kitam meniu?</h2>
+      <p id="menu-reminder-message"></p><p>Dabartinis meniu liks galioti iki pabaigos. Naująjį gali susirinkti iš anksto.</p>
+      <div class="planner-confirm-actions"><button type="button" data-menu-reminder="later">Vėliau</button><button type="button" class="primary dark" data-menu-reminder="start">Sudaryti kitą meniu</button></div>
+    </dialog>
+
+    <dialog id="planner-confirm-dialog" class="add-dialog planner-confirm-dialog" aria-labelledby="planner-confirm-title">
+      <h2 id="planner-confirm-title">Pakeisti meniu?</h2>
+      <p class="planner-confirm-message"></p>
+      <div class="planner-confirm-actions"><button type="button" data-plan-confirm="cancel">Palikti kaip yra</button><button type="button" class="primary dark" data-plan-confirm="confirm">Taip, pakeisti</button></div>
     </dialog>
 
     <dialog id="login-dialog" class="add-dialog auth-dialog">
@@ -145,6 +188,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=43"></script>
+    <script type="module" src="./app.js?v=54"></script>
   </body>
 </html>

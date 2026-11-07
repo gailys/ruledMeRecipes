@@ -1,0 +1,311 @@
+{
+  "id": "ruled-40271",
+  "slug": "keto-blt-salad",
+  "title": "Keto BLT Salad",
+  "url": "https://www.ruled.me/keto-blt-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto BLT Salad. Each serving comes out to be 231 calories, 20.4g fats, 4.1g net carbs, and 6.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "fatContent": "20.4 g",
+    "proteinContent": "6.9 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 231,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 6.9,
+    "fatGrams": 20.4
+  },
+  "ingredients": [
+    "500 gram iceberg lettuce",
+    "6 slice bacon",
+    "3 small fresh tomatoes (diced)",
+    "1/4 cup green onion (sliced)",
+    "1/2 cup cheddar cheese (shredded)",
+    "6 tablespoon mayonnaise",
+    "3 tablespoon sour cream",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon dried parsley",
+    "1/2 teaspoon paprika",
+    "1/2 tablespoon apple cider vinegar",
+    "1/2 teaspoon fresh dill",
+    "2 tablespoon water"
+  ],
+  "instructions": [
+    {
+      "text": "In a pan, cook your bacon on medium.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad01.jpg"
+    },
+    {
+      "text": "While your bacon cooks, place your iceberg lettuce, tomatoes, & green onions into a salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad03.jpg"
+    },
+    {
+      "text": "In a smaller bowl, mix together your dressing ingredients, add water for desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad05.jpg"
+    },
+    {
+      "text": "Chop up the cooked bacon and add it into the salad bowl and toss.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad06.jpg"
+    },
+    {
+      "text": "Serve and top with cheddar cheese & dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "packed-lunch",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "meal-prep",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/16756a9ab3beca661de38e0f.avif",
+      "archived": true,
+      "originalPath": "images/16756a9ab3beca661de38e0f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad-featured.jpg",
+      "path": "images/e7f310be8cd373c91c5a4143.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad01.jpg",
+      "path": "../../nenaudojama/lunch/images/f3139d0afbd53f6ac67cb8ae.jpg",
+      "archived": true,
+      "originalPath": "images/f3139d0afbd53f6ac67cb8ae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad03.jpg",
+      "path": "../../nenaudojama/lunch/images/9150df24fe10c9ebb13050fb.jpg",
+      "archived": true,
+      "originalPath": "images/9150df24fe10c9ebb13050fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad05.jpg",
+      "path": "../../nenaudojama/lunch/images/ce7d6bec4142a22fdb28db2b.jpg",
+      "archived": true,
+      "originalPath": "images/ce7d6bec4142a22fdb28db2b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad06.jpg",
+      "path": "../../nenaudojama/lunch/images/5e4b05330eff90efd0e18444.jpg",
+      "archived": true,
+      "originalPath": "images/5e4b05330eff90efd0e18444.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/418fdaf70b0654f20f0a791b.avif",
+      "archived": true,
+      "originalPath": "images/418fdaf70b0654f20f0a791b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/6b99d1b13d36a14253e9dba4.jpg",
+      "archived": true,
+      "originalPath": "images/6b99d1b13d36a14253e9dba4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/13ffb6562cf63ab505c5a8ad.jpg",
+      "archived": true,
+      "originalPath": "images/13ffb6562cf63ab505c5a8ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/27fcff6acb33194c0cebad5b.jpg",
+      "archived": true,
+      "originalPath": "images/27fcff6acb33194c0cebad5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e410b2175002ad63d328a846.jpg",
+      "archived": true,
+      "originalPath": "images/e410b2175002ad63d328a846.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/240429295be44fb67475be4d.jpg",
+      "archived": true,
+      "originalPath": "images/240429295be44fb67475be4d.jpg"
+    }
+  ],
+  "featuredImage": "images/e7f310be8cd373c91c5a4143.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto BLT Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Keto BLT Salad. Each serving comes out to be 231 calories, 20.4g fats, 4.1g net carbs, and 6.9g protein.",
+    "datePublished": "2019-05-07T09:00:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "500 gram iceberg lettuce",
+      "6 slice bacon",
+      "3 small fresh tomatoes (diced)",
+      "1/4 cup green onion (sliced)",
+      "1/2 cup cheddar cheese (shredded)",
+      "6 tablespoon mayonnaise",
+      "3 tablespoon sour cream",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon dried parsley",
+      "1/2 teaspoon paprika",
+      "1/2 tablespoon apple cider vinegar",
+      "1/2 teaspoon fresh dill",
+      "2 tablespoon water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, cook your bacon on medium.",
+        "name": "In a pan, cook your bacon on medium.",
+        "url": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While your bacon cooks, place your iceberg lettuce, tomatoes, & green onions into a salad bowl.",
+        "name": "While your bacon cooks, place your iceberg lettuce, tomatoes, & green onions into a salad bowl.",
+        "url": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a smaller bowl, mix together your dressing ingredients, add water for desired consistency.",
+        "name": "In a smaller bowl, mix together your dressing ingredients, add water for desired consistency.",
+        "url": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop up the cooked bacon and add it into the salad bowl and toss.",
+        "name": "Chop up the cooked bacon and add it into the salad bowl and toss.",
+        "url": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and top with cheddar cheese & dressing.",
+        "name": "Serve and top with cheddar cheese & dressing.",
+        "url": "https://www.ruled.me/keto-blt-salad/#wprm-recipe-52992-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, family-friendly, gluten-free, keto, low-carb, meal-prep, nut-free, packed-lunch, pork, quick, simple-and-easy, stovetop, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231 kcal",
+      "fatContent": "20.4 g",
+      "proteinContent": "6.9 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-blt-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-blt-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-blt-salad/"
+  },
+  "sourceIndex": {
+    "id": 40271,
+    "rid": 52992,
+    "t": "Keto BLT Salad",
+    "u": "/keto-blt-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/04/keto-blt-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.1,
+    "cal": 231,
+    "pr": 6.9,
+    "fa": 20.4,
+    "tm": 30,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "packed-lunch",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "meal-prep",
+      "pork"
+    ],
+    "d": "2019-05-07",
+    "cm": 0,
+    "ex": "Bacon, lettuce and tomatoes - three things that are delicious in a sandwich! Today, we are deconstructing it into a salad with a nice mayonnaise-based garlic dressing. It can’t get any better than",
+    "pv": 283
+  },
+  "sourceHtml": "pages/keto-blt-salad.html",
+  "scrapedAt": "2026-11-07T08:16:28.862Z"
+}

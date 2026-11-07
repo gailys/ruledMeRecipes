@@ -1,0 +1,216 @@
+{
+  "id": "ruled-3700",
+  "slug": "easy-keto-honey-vinaigrette",
+  "title": "Easy Keto Honey Vinaigrette",
+  "url": "https://www.ruled.me/easy-keto-honey-vinaigrette/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Easy Keto Honey Vinaigrette. Each serving comes out to be 83 calories, 9g fats, 0.8g net carbs, and 0g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "fatContent": "9 g",
+    "carbohydrateContent": "0.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 83,
+    "netCarbsGrams": 0.8,
+    "proteinGrams": 0,
+    "fatGrams": 9
+  },
+  "ingredients": [
+    "1 cup olive oil",
+    "1/2 cup apple cider vinegar",
+    "1 tablespoon honey",
+    "1/8 teaspoon liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Simply put everything in your emulsion beaker, put the blender in and blend for a few seconds; just enough for everything to mix.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-honey-vinaigrette/#wprm-recipe-50513-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-03.jpg"
+    },
+    {
+      "text": "Transfer to a jar with a tight lid and use as desired. Be sure to shake it up before serving, as it will tend to separate over time. Something I really enjoy about this dressing is how the flavors intensify with time. Yummy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-honey-vinaigrette/#wprm-recipe-50513-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/bab29d405eb4f32bfa084550.avif",
+      "archived": true,
+      "originalPath": "images/bab29d405eb4f32bfa084550.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/bfbc0b904a0ddd0349048a85.avif",
+      "archived": true,
+      "originalPath": "images/bfbc0b904a0ddd0349048a85.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-03.jpg",
+      "path": "../../nenaudojama/condiments/images/01b20f7a335cb206d312c9d0.jpg",
+      "archived": true,
+      "originalPath": "images/01b20f7a335cb206d312c9d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-01.jpg",
+      "path": "../../nenaudojama/condiments/images/9a9dc4e0411514c17392b127.jpg",
+      "archived": true,
+      "originalPath": "images/9a9dc4e0411514c17392b127.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-pin.jpg",
+      "path": "../../nenaudojama/condiments/images/7a5c401360d5b0dc59a5c996.jpg",
+      "archived": true,
+      "originalPath": "images/7a5c401360d5b0dc59a5c996.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-03-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/eccad50c2e409e70fb2f9eac.jpg",
+      "archived": true,
+      "originalPath": "images/eccad50c2e409e70fb2f9eac.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/bfbc0b904a0ddd0349048a85.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Easy Keto Honey Vinaigrette",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 24 servings of Easy Keto Honey Vinaigrette. Each serving comes out to be 83 calories, 9g fats, 0.8g net carbs, and 0g protein.",
+    "datePublished": "2013-12-07T20:54:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-featured.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 cup olive oil",
+      "1/2 cup apple cider vinegar",
+      "1 tablespoon honey",
+      "1/8 teaspoon liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Simply put everything in your emulsion beaker, put the blender in and blend for a few seconds; just enough for everything to mix.",
+        "name": "Simply put everything in your emulsion beaker, put the blender in and blend for a few seconds; just enough for everything to mix.",
+        "url": "https://www.ruled.me/easy-keto-honey-vinaigrette/#wprm-recipe-50513-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer to a jar with a tight lid and use as desired. Be sure to shake it up before serving, as it will tend to separate over time. Something I really enjoy about this dressing is how the flavors intensify with time. Yummy!",
+        "name": "Transfer to a jar with a tight lid and use as desired. Be sure to shake it up before serving, as it will tend to separate over time. Something I really enjoy about this dressing is how the flavors intensify with time. Yummy!",
+        "url": "https://www.ruled.me/easy-keto-honey-vinaigrette/#wprm-recipe-50513-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "83 kcal",
+      "fatContent": "9 g",
+      "carbohydrateContent": "0.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/easy-keto-honey-vinaigrette/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/easy-keto-honey-vinaigrette/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/easy-keto-honey-vinaigrette/"
+  },
+  "sourceIndex": {
+    "id": 3700,
+    "rid": 50513,
+    "t": "Easy Keto Honey Vinaigrette",
+    "u": "/easy-keto-honey-vinaigrette/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/keto-honey-vinagrette-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.8,
+    "cal": 83,
+    "pr": 0,
+    "fa": 9,
+    "tm": 5,
+    "sv": 24,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2013-12-07",
+    "cm": 0,
+    "ex": "This is the first homemade keto salad dressing I ever made. We use it quite a bit at our house. In fact, I never even refrigerate it, because it's usually gone within two weeks time (though I've had",
+    "pv": 120
+  },
+  "sourceHtml": "pages/easy-keto-honey-vinaigrette.html",
+  "scrapedAt": "2026-11-07T08:33:44.274Z"
+}

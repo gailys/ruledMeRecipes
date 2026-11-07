@@ -1,0 +1,287 @@
+{
+  "id": "ruled-28193",
+  "slug": "savory-sage-cheddar-waffles",
+  "title": "Savory Sage & Cheddar Waffles",
+  "url": "https://www.ruled.me/savory-sage-cheddar-waffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Savory Sage & Cheddar Waffles. Each serving comes out to be 194 calories, 17.7g fats, 3.6g net carbs, and 5.9g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "fatContent": "17.7 g",
+    "proteinContent": "5.9 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 194,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 5.9,
+    "fatGrams": 17.7
+  },
+  "ingredients": [
+    "1 1/3 cup coconut flour (sifted)",
+    "3 teaspoon baking powder",
+    "1 teaspoon dried sage",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon garlic powder",
+    "2 cup canned coconut milk",
+    "1/2 cup water",
+    "2 large egg",
+    "3 tablespoon coconut oil (melted)",
+    "1 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat the waffle iron to a moderate heat according to the manufacturer's instructions. In a large mixing bowl whisk together the coconut flour, baking powder, sage, salt, and garlic powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-01.jpg"
+    },
+    {
+      "text": "Add the coconut milk, water, egg, and coconut oil. Combine to form a stiff batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-02.jpg"
+    },
+    {
+      "text": "Mix in the cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-03.jpg"
+    },
+    {
+      "text": "Liberally grease the top and bottom panels of the waffle iron and scoop a portion of batter into each section. Close the iron and cook until steam is rising from the machine and the top panel opens freely without sticking to the waffle (about two cycles at moderate heat). Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/f33d1a65887e6800be6e180d.jpg",
+      "archived": true,
+      "originalPath": "images/f33d1a65887e6800be6e180d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca.jpg",
+      "path": "images/df8612938a3630674267da04.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/ddbc504691184687c9ed7bf0.jpg",
+      "archived": true,
+      "originalPath": "images/ddbc504691184687c9ed7bf0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/a40d0fb0d73e0339929489b2.jpg",
+      "archived": true,
+      "originalPath": "images/a40d0fb0d73e0339929489b2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/1666ba455c4678f60f996c59.jpg",
+      "archived": true,
+      "originalPath": "images/1666ba455c4678f60f996c59.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/95cac034bb382de6d2b22087.jpg",
+      "archived": true,
+      "originalPath": "images/95cac034bb382de6d2b22087.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/waffles-2nd.jpg",
+      "path": "../../nenaudojama/breakfast/images/c372656e38749c9825e1dcad.avif",
+      "archived": true,
+      "originalPath": "images/c372656e38749c9825e1dcad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/0b4fc968e7ac913b10f62ba4.avif",
+      "archived": true,
+      "originalPath": "images/0b4fc968e7ac913b10f62ba4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/715338e6614900741bf29505.jpg",
+      "archived": true,
+      "originalPath": "images/715338e6614900741bf29505.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/08b897834462c9474db22427.jpg",
+      "archived": true,
+      "originalPath": "images/08b897834462c9474db22427.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ea19c178a913ddf4edeb788a.jpg",
+      "archived": true,
+      "originalPath": "images/ea19c178a913ddf4edeb788a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-04-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/254ff2f40b47e181e958cb90.jpg",
+      "archived": true,
+      "originalPath": "images/254ff2f40b47e181e958cb90.jpg"
+    }
+  ],
+  "featuredImage": "images/df8612938a3630674267da04.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Savory Sage &amp; Cheddar Waffles",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 12 servings of Savory Sage &amp; Cheddar Waffles. Each serving comes out to be 194 calories, 17.7g fats, 3.6g net carbs, and 5.9g protein.",
+    "datePublished": "2016-11-08T15:36:54+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca-480x270.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "1 1/3 cup coconut flour (sifted)",
+      "3 teaspoon baking powder",
+      "1 teaspoon dried sage",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon garlic powder",
+      "2 cup canned coconut milk",
+      "1/2 cup water",
+      "2 large egg",
+      "3 tablespoon coconut oil (melted)",
+      "1 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the waffle iron to a moderate heat according to the manufacturer's instructions. In a large mixing bowl whisk together the coconut flour, baking powder, sage, salt, and garlic powder.",
+        "name": "Preheat the waffle iron to a moderate heat according to the manufacturer's instructions. In a large mixing bowl whisk together the coconut flour, baking powder, sage, salt, and garlic powder.",
+        "url": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut milk, water, egg, and coconut oil. Combine to form a stiff batter.",
+        "name": "Add the coconut milk, water, egg, and coconut oil. Combine to form a stiff batter.",
+        "url": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the cheese.",
+        "name": "Mix in the cheese.",
+        "url": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Liberally grease the top and bottom panels of the waffle iron and scoop a portion of batter into each section. Close the iron and cook until steam is rising from the machine and the top panel opens freely without sticking to the waffle (about two cycles at moderate heat). Serve and enjoy!",
+        "name": "Liberally grease the top and bottom panels of the waffle iron and scoop a portion of batter into each section. Close the iron and cook until steam is rising from the machine and the top panel opens freely without sticking to the waffle (about two cycles at moderate heat). Serve and enjoy!",
+        "url": "https://www.ruled.me/savory-sage-cheddar-waffles/#wprm-recipe-51967-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/savory-sage-and-cheddar-waffles-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, gluten-free, keto, low-carb, make-ahead, nut-free, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "194 kcal",
+      "fatContent": "17.7 g",
+      "proteinContent": "5.9 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/savory-sage-cheddar-waffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/savory-sage-cheddar-waffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/savory-sage-cheddar-waffles/"
+  },
+  "sourceIndex": {
+    "id": 28193,
+    "rid": 51967,
+    "t": "Savory Sage and Cheddar Waffles",
+    "u": "/savory-sage-cheddar-waffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/11/7d16a75bd466d9d5c82dfb62eb7581ca-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.6,
+    "cal": 194,
+    "pr": 5.9,
+    "fa": 17.7,
+    "tm": 20,
+    "sv": 12,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "make-ahead"
+    ],
+    "d": "2016-11-08",
+    "cm": 18,
+    "ex": "Waffles might be a breakfast food, slathered in sweet syrup, but they also make a great savory treat. Waffles are ideal for tartines (open faced stacked sandwiches). They also make great sandwiches",
+    "pv": 56
+  },
+  "sourceHtml": "pages/savory-sage-cheddar-waffles.html",
+  "scrapedAt": "2026-11-07T08:11:12.833Z"
+}

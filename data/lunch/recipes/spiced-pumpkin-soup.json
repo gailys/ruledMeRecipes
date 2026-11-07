@@ -1,0 +1,503 @@
+{
+  "id": "ruled-24104",
+  "slug": "spiced-pumpkin-soup",
+  "title": "Spiced Pumpkin Soup",
+  "url": "https://www.ruled.me/spiced-pumpkin-soup/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Spiced Pumpkin Soup. Each serving comes out to be 473 calories, 45.3g fats, 8.1g net carbs, and 8.1g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT50M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "473 kcal",
+    "fatContent": "45.3 g",
+    "proteinContent": "8.1 g",
+    "carbohydrateContent": "8.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 473,
+    "netCarbsGrams": 8.1,
+    "proteinGrams": 8.1,
+    "fatGrams": 45.3
+  },
+  "ingredients": [
+    "4 tablespoon butter",
+    "1/4 medium onion",
+    "2 teaspoon ruled.me roasted garlic",
+    "1/2 teaspoon fresh ginger",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "1/4 teaspoon ground cinnamon",
+    "1/4 teaspoon ground coriander",
+    "1/8 teaspoon ground nutmeg",
+    "1 whole bay leaf",
+    "1 cup pumpkin puree",
+    "1 1/2 cup chicken broth",
+    "4 ounce bacon",
+    "1/2 cup heavy whipping cream"
+  ],
+  "instructions": [
+    {
+      "text": "In a large saucepan over medium-low heat, add the butter and let it melt completely. You want it to take on a golden color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1548.jpg"
+    },
+    {
+      "text": "Dice the onion and mince the garlic and fresh ginger.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1553.jpg"
+    },
+    {
+      "text": "In a small container, mix the salt, pepper, cinnamon, coriander, nutmeg, and bay leaf.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1558.jpg"
+    },
+    {
+      "text": "Once the butter has turned a dark golden color, add the onion, garlic, and ginger to the pan and stir well. Sauté for about 2–3 minutes, or until the onions are becoming translucent.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1571.jpg"
+    },
+    {
+      "text": "Measure out the pumpkin puree and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1574.jpg"
+    },
+    {
+      "text": "Once the onions are translucent, add the spices to the pan and let cook for 1–2 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1584.jpg"
+    },
+    {
+      "text": "Add the pumpkin puree and mix it in with the onions and spices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1589.jpg"
+    },
+    {
+      "text": "Add the chicken broth and stir to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1601.jpg"
+    },
+    {
+      "text": "Bring to a boil and then reduce the heat to low and let simmer for 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1607.jpg"
+    },
+    {
+      "text": "Once simmered remove bay leaf, then use an immersion blender to blend all of the remaining ingredients together. You want a smooth puree here, so make sure you take your time. Cook for an additional 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1614.jpg"
+    },
+    {
+      "text": "Meanwhile, cook the bacon over medium heat in a separate pan. You can use a splatter guard to keep from making a mess on your stovetop.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1622.jpg"
+    },
+    {
+      "text": "Once the soup is ready, pour in the heavy cream and grease from your cooked bacon. Stir to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1627.jpg"
+    },
+    {
+      "text": "Crumble the bacon over the soup and serve. Optional: Garnish with chopped parsley and a bit of sour cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-12",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pumpkinsoup1a.jpg",
+      "path": "images/9ceaa3043493e022493c3ebe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1548.jpg",
+      "path": "../../nenaudojama/lunch/images/ac74e442390f7aaaffc47e8b.avif",
+      "archived": true,
+      "originalPath": "images/ac74e442390f7aaaffc47e8b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1553.jpg",
+      "path": "../../nenaudojama/lunch/images/998328aa7129e45856a55e77.avif",
+      "archived": true,
+      "originalPath": "images/998328aa7129e45856a55e77.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1558.jpg",
+      "path": "../../nenaudojama/lunch/images/c067cdbd74020c73a224e1ba.jpg",
+      "archived": true,
+      "originalPath": "images/c067cdbd74020c73a224e1ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1571.jpg",
+      "path": "../../nenaudojama/lunch/images/34f310e5c2866bb47ac77a92.avif",
+      "archived": true,
+      "originalPath": "images/34f310e5c2866bb47ac77a92.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1574.jpg",
+      "path": "../../nenaudojama/lunch/images/520206dc95353c757993d72b.avif",
+      "archived": true,
+      "originalPath": "images/520206dc95353c757993d72b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1584.jpg",
+      "path": "../../nenaudojama/lunch/images/9726e5d05aed5047e238f5f1.avif",
+      "archived": true,
+      "originalPath": "images/9726e5d05aed5047e238f5f1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1589.jpg",
+      "path": "../../nenaudojama/lunch/images/f8329466f36428c1ddf40932.jpg",
+      "archived": true,
+      "originalPath": "images/f8329466f36428c1ddf40932.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1601.jpg",
+      "path": "../../nenaudojama/lunch/images/f67ba54347ce0dec12342f62.avif",
+      "archived": true,
+      "originalPath": "images/f67ba54347ce0dec12342f62.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1607.jpg",
+      "path": "../../nenaudojama/lunch/images/ff3f18b90fa49f6975ad9419.avif",
+      "archived": true,
+      "originalPath": "images/ff3f18b90fa49f6975ad9419.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1614.jpg",
+      "path": "../../nenaudojama/lunch/images/c221e4e3a2bec0f10386d808.jpg",
+      "archived": true,
+      "originalPath": "images/c221e4e3a2bec0f10386d808.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1622.jpg",
+      "path": "../../nenaudojama/lunch/images/2fc29bb83051f2f8ddefb607.jpg",
+      "archived": true,
+      "originalPath": "images/2fc29bb83051f2f8ddefb607.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1627.jpg",
+      "path": "../../nenaudojama/lunch/images/c050e4bae52efc4c50c9d380.jpg",
+      "archived": true,
+      "originalPath": "images/c050e4bae52efc4c50c9d380.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pumpkinsoupsecond1.jpg",
+      "path": "../../nenaudojama/lunch/images/98dcaa9b0e215020217dc388.avif",
+      "archived": true,
+      "originalPath": "images/98dcaa9b0e215020217dc388.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/pumpkinsouplong1.jpg",
+      "path": "../../nenaudojama/lunch/images/34f5c6f7f4cce8cd25003c43.jpg",
+      "archived": true,
+      "originalPath": "images/34f5c6f7f4cce8cd25003c43.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1548-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c00fd48e22d878d7d16e01d3.jpg",
+      "archived": true,
+      "originalPath": "images/c00fd48e22d878d7d16e01d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1553-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/cc37750a882c4600b6d50f44.jpg",
+      "archived": true,
+      "originalPath": "images/cc37750a882c4600b6d50f44.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1558-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/40b580bae18bb01da9d93d16.jpg",
+      "archived": true,
+      "originalPath": "images/40b580bae18bb01da9d93d16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1571-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e8ddf46e17ce923e1a136629.jpg",
+      "archived": true,
+      "originalPath": "images/e8ddf46e17ce923e1a136629.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1574-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c2ff521f49464deb2525705d.jpg",
+      "archived": true,
+      "originalPath": "images/c2ff521f49464deb2525705d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1584-233x350.jpg",
+      "path": "../../nenaudojama/lunch/images/512eceadf2ef067732a29344.jpg",
+      "archived": true,
+      "originalPath": "images/512eceadf2ef067732a29344.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1589-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ae621a347539b8db08fae56e.jpg",
+      "archived": true,
+      "originalPath": "images/ae621a347539b8db08fae56e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1601-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6d7dd4101b694c60000139b8.jpg",
+      "archived": true,
+      "originalPath": "images/6d7dd4101b694c60000139b8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1607-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a83e64a78adea2243224e7c0.jpg",
+      "archived": true,
+      "originalPath": "images/a83e64a78adea2243224e7c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1614-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0af03f3960b093073c860625.jpg",
+      "archived": true,
+      "originalPath": "images/0af03f3960b093073c860625.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1622-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/280adf193999718f138c073f.jpg",
+      "archived": true,
+      "originalPath": "images/280adf193999718f138c073f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1627-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fd03fbc912da8fbd4dbb2603.jpg",
+      "archived": true,
+      "originalPath": "images/fd03fbc912da8fbd4dbb2603.jpg"
+    }
+  ],
+  "featuredImage": "images/9ceaa3043493e022493c3ebe.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spiced Pumpkin Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Spiced Pumpkin Soup. Each serving comes out to be 473 calories, 45.3g fats, 8.1g net carbs, and 8.1g protein.",
+    "datePublished": "2014-08-12T15:54:10+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/pumpkinsoup1a.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "4 tablespoon butter",
+      "1/4 medium onion",
+      "2 teaspoon ruled.me roasted garlic",
+      "1/2 teaspoon fresh ginger",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/4 teaspoon ground cinnamon",
+      "1/4 teaspoon ground coriander",
+      "1/8 teaspoon ground nutmeg",
+      "1 whole bay leaf",
+      "1 cup pumpkin puree",
+      "1 1/2 cup chicken broth",
+      "4 ounce bacon",
+      "1/2 cup heavy whipping cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large saucepan over medium-low heat, add the butter and let it melt completely. You want it to take on a golden color.",
+        "name": "In a large saucepan over medium-low heat, add the butter and let it melt completely. You want it to take on a golden color.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1548.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the onion and mince the garlic and fresh ginger.",
+        "name": "Dice the onion and mince the garlic and fresh ginger.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1553.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small container, mix the salt, pepper, cinnamon, coriander, nutmeg, and bay leaf.",
+        "name": "In a small container, mix the salt, pepper, cinnamon, coriander, nutmeg, and bay leaf.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1558.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the butter has turned a dark golden color, add the onion, garlic, and ginger to the pan and stir well. Sauté for about 2–3 minutes, or until the onions are becoming translucent.",
+        "name": "Once the butter has turned a dark golden color, add the onion, garlic, and ginger to the pan and stir well. Sauté for about 2–3 minutes, or until the onions are becoming translucent.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1571.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the pumpkin puree and set aside.",
+        "name": "Measure out the pumpkin puree and set aside.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1574.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the onions are translucent, add the spices to the pan and let cook for 1–2 minutes.",
+        "name": "Once the onions are translucent, add the spices to the pan and let cook for 1–2 minutes.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1584.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pumpkin puree and mix it in with the onions and spices.",
+        "name": "Add the pumpkin puree and mix it in with the onions and spices.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1589.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken broth and stir to combine.",
+        "name": "Add the chicken broth and stir to combine.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1601.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring to a boil and then reduce the heat to low and let simmer for 20 minutes.",
+        "name": "Bring to a boil and then reduce the heat to low and let simmer for 20 minutes.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1607.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once simmered remove bay leaf, then use an immersion blender to blend all of the remaining ingredients together. You want a smooth puree here, so make sure you take your time. Cook for an additional 20 minutes.",
+        "name": "Once simmered remove bay leaf, then use an immersion blender to blend all of the remaining ingredients together. You want a smooth puree here, so make sure you take your time. Cook for an additional 20 minutes.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1614.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, cook the bacon over medium heat in a separate pan. You can use a splatter guard to keep from making a mess on your stovetop.",
+        "name": "Meanwhile, cook the bacon over medium heat in a separate pan. You can use a splatter guard to keep from making a mess on your stovetop.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1622.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the soup is ready, pour in the heavy cream and grease from your cooked bacon. Stir to combine.",
+        "name": "Once the soup is ready, pour in the heavy cream and grease from your cooked bacon. Stir to combine.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1627.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crumble the bacon over the soup and serve. Optional: Garnish with chopped parsley and a bit of sour cream.",
+        "name": "Crumble the bacon over the soup and serve. Optional: Garnish with chopped parsley and a bit of sour cream.",
+        "url": "https://www.ruled.me/spiced-pumpkin-soup/#wprm-recipe-51281-step-0-12"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, fall, gluten-free, keto, low-carb, nut-free, pork, simple &amp; easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "473 kcal",
+      "fatContent": "45.3 g",
+      "proteinContent": "8.1 g",
+      "carbohydrateContent": "8.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spiced-pumpkin-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spiced-pumpkin-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spiced-pumpkin-soup/"
+  },
+  "sourceIndex": {
+    "id": 24104,
+    "rid": 51281,
+    "t": "Spiced Pumpkin Soup",
+    "u": "/spiced-pumpkin-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/pumpkinsoup1a.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.1,
+    "cal": 473,
+    "pr": 8.1,
+    "fa": 45.3,
+    "tm": 60,
+    "sv": 3,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 14,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2014-08-12",
+    "cm": 27,
+    "ex": "As Fall season quickly approaches, the delicious stews and soups seem to emerge from the woodwork! This gives us some hearty and delicious meals for when we just want to curl up near the radiator and",
+    "pv": 366
+  },
+  "sourceHtml": "pages/spiced-pumpkin-soup.html",
+  "scrapedAt": "2026-11-07T08:18:00.669Z"
+}

@@ -1,0 +1,332 @@
+{
+  "id": "ruled-43999",
+  "slug": "keto-mushroom-omelet",
+  "title": "Keto Mushroom Omelette",
+  "url": "https://www.ruled.me/keto-mushroom-omelet/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Mushroom Omelette . The serving comes out to be 587 calories, 48.3g fats, 7g net carbs, and 29.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "587 kcal",
+    "fatContent": "48.3 g",
+    "proteinContent": "29.8 g",
+    "carbohydrateContent": "7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 587,
+    "netCarbsGrams": 7,
+    "proteinGrams": 29.8,
+    "fatGrams": 48.3
+  },
+  "ingredients": [
+    "3 large egg",
+    "2 tablespoon butter",
+    "1 ounce cheddar cheese (shredded)",
+    "1/4 medium red onion (diced)",
+    "80 gram cremini mushrooms (sliced)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Prep ingredients: shred the cheese, slice the mushrooms and chop the onion.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-1.jpg"
+    },
+    {
+      "text": "In a bowl, crack the eggs and add a little salt and pepper to taste. Whisk with a fork until it is all mixed together and slightly frothy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-2.jpg"
+    },
+    {
+      "text": "Melt the butter in a frying pan. Add the chopped red onion and sliced mushrooms to the pan. Season to taste, then cook until the mushrooms are tender, stirring occasionally. Pour in the egg mixture on top, making sure it gets between the onions and mushrooms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-3.jpg"
+    },
+    {
+      "text": "When the omelet is starting to get done around the sides and on the bottom but still raw on top, sprinkle the cheddar cheese over the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-4.jpg"
+    },
+    {
+      "text": "With a spatula, get under the omelette carefully and fold it in half.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-5.jpg"
+    },
+    {
+      "text": "When the omelet is golden brown on the bottom, remove from the pan and serve hot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/ef595232a6ed6ecdd70e7880.jpg",
+      "archived": true,
+      "originalPath": "images/ef595232a6ed6ecdd70e7880.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Featured.jpg",
+      "path": "images/ab48f5be719f0f3e73dbc14e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/9c4fdf513bd667f31ccbf41f.jpg",
+      "archived": true,
+      "originalPath": "images/9c4fdf513bd667f31ccbf41f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/9ba2620865732033e15aeb77.jpg",
+      "archived": true,
+      "originalPath": "images/9ba2620865732033e15aeb77.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/01ab0ad6a61aa17c206d7dad.jpg",
+      "archived": true,
+      "originalPath": "images/01ab0ad6a61aa17c206d7dad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/480c00890a6a57f1fbac3396.jpg",
+      "archived": true,
+      "originalPath": "images/480c00890a6a57f1fbac3396.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/dd6f0e516dc0a54d43342b14.jpg",
+      "archived": true,
+      "originalPath": "images/dd6f0e516dc0a54d43342b14.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/3fc04dea187365799aafb6f9.jpg",
+      "archived": true,
+      "originalPath": "images/3fc04dea187365799aafb6f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/d6d5e7c253cd6c0b0d99458a.jpg",
+      "archived": true,
+      "originalPath": "images/d6d5e7c253cd6c0b0d99458a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/a18816d3276aa7bc3ff92229.jpg",
+      "archived": true,
+      "originalPath": "images/a18816d3276aa7bc3ff92229.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff54d890e667769119e867f7.jpg",
+      "archived": true,
+      "originalPath": "images/ff54d890e667769119e867f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/77b1faa10b1b9a25ecbafd94.jpg",
+      "archived": true,
+      "originalPath": "images/77b1faa10b1b9a25ecbafd94.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/95a485ba6a6b9442da6cac57.jpg",
+      "archived": true,
+      "originalPath": "images/95a485ba6a6b9442da6cac57.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b23d299f0861a28ca9124deb.jpg",
+      "archived": true,
+      "originalPath": "images/b23d299f0861a28ca9124deb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/723fea2afd19f05a2706d62a.jpg",
+      "archived": true,
+      "originalPath": "images/723fea2afd19f05a2706d62a.jpg"
+    }
+  ],
+  "featuredImage": "images/ab48f5be719f0f3e73dbc14e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Mushroom Omelette",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Keto Mushroom Omelette . The serving comes out to be 587 calories, 48.3g fats, 7g net carbs, and 29.8g protein.",
+    "datePublished": "2020-09-29T09:00:44+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3 large egg",
+      "2 tablespoon butter",
+      "1 ounce cheddar cheese (shredded)",
+      "1/4 medium red onion (diced)",
+      "80 gram cremini mushrooms (sliced)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep ingredients: shred the cheese, slice the mushrooms and chop the onion.",
+        "name": "Prep ingredients: shred the cheese, slice the mushrooms and chop the onion.",
+        "url": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, crack the eggs and add a little salt and pepper to taste. Whisk with a fork until it is all mixed together and slightly frothy.",
+        "name": "In a bowl, crack the eggs and add a little salt and pepper to taste. Whisk with a fork until it is all mixed together and slightly frothy.",
+        "url": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a frying pan. Add the chopped red onion and sliced mushrooms to the pan. Season to taste, then cook until the mushrooms are tender, stirring occasionally. Pour in the egg mixture on top, making sure it gets between the onions and mushrooms.",
+        "name": "Melt the butter in a frying pan. Add the chopped red onion and sliced mushrooms to the pan. Season to taste, then cook until the mushrooms are tender, stirring occasionally. Pour in the egg mixture on top, making sure it gets between the onions and mushrooms.",
+        "url": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the omelet is starting to get done around the sides and on the bottom but still raw on top, sprinkle the cheddar cheese over the top.",
+        "name": "When the omelet is starting to get done around the sides and on the bottom but still raw on top, sprinkle the cheddar cheese over the top.",
+        "url": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "With a spatula, get under the omelette carefully and fold it in half.",
+        "name": "With a spatula, get under the omelette carefully and fold it in half.",
+        "url": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the omelet is golden brown on the bottom, remove from the pan and serve hot.",
+        "name": "When the omelet is golden brown on the bottom, remove from the pan and serve hot.",
+        "url": "https://www.ruled.me/keto-mushroom-omelet/#wprm-recipe-53517-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "587 kcal",
+      "fatContent": "48.3 g",
+      "proteinContent": "29.8 g",
+      "carbohydrateContent": "7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-mushroom-omelet/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-mushroom-omelet/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-mushroom-omelet/"
+  },
+  "sourceIndex": {
+    "id": 43999,
+    "rid": 53517,
+    "t": "Keto Mushroom Omelet",
+    "u": "/keto-mushroom-omelet/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7,
+    "cal": 587,
+    "pr": 29.8,
+    "fa": 48.3,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2020-09-29",
+    "cm": 0,
+    "ex": "Omelets are always a great meal to make on the keto diet. Omelets are easy to whip up, full of good fats, filling, and taste so great! I love coming back to this recipe for an easy weeknight dinner",
+    "pv": 535
+  },
+  "sourceHtml": "pages/keto-mushroom-omelet.html",
+  "scrapedAt": "2026-11-07T08:11:12.441Z"
+}

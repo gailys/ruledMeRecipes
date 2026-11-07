@@ -1,0 +1,328 @@
+{
+  "id": "ruled-45190",
+  "slug": "keto-chicken-mushroom-broccoli-stir-fry",
+  "title": "Keto Chicken, Mushroom, & Broccoli Stir Fry",
+  "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Chicken, Mushroom, & Broccoli Stir Fry. Each serving comes out to be 301 calories, 24g fats, 4.4g net carbs, and 17.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301 kcal",
+    "fatContent": "24 g",
+    "proteinContent": "17.5 g",
+    "carbohydrateContent": "4.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 301,
+    "netCarbsGrams": 4.4,
+    "proteinGrams": 17.5,
+    "fatGrams": 24
+  },
+  "ingredients": [
+    "2 tablespoon unsalted butter",
+    "3 tablespoon avocado oil",
+    "12 ounce boneless, skinless chicken thighs",
+    "200 gram shiitake mushrooms (halved)",
+    "140 gram broccoli",
+    "2 teaspoon fresh garlic (minced)",
+    "3 tablespoon soy sauce",
+    "2 teaspoon unseasoned rice vinegar",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Dice the chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-1.jpg"
+    },
+    {
+      "text": "In a frying pan over medium to high heat, heat the butter and avocado oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-2.jpg"
+    },
+    {
+      "text": "Add the diced chicken. and cook until brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-3.jpg"
+    },
+    {
+      "text": "Add the mushrooms and broccoli to the frying pan. Cook for about 5 minutes until everything is done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-4.jpg"
+    },
+    {
+      "text": "Season with minced garlic, soy sauce, and rice vinegar. Stir until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-5.jpg"
+    },
+    {
+      "text": "Season with salt and pepper. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "poultry",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Chicken-Mushroom-Broccoli-Stir-Fry-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/5738dec2668209e22ec47dcc.avif",
+      "archived": true,
+      "originalPath": "images/5738dec2668209e22ec47dcc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Chicken-Mushroom-Broccoli-Stir-Fry-Featured.jpg",
+      "path": "images/7060ba6c4c968e17ea01a0d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-1.jpg",
+      "path": "../../nenaudojama/dinner/images/5bbbd9617b7c2494933e8c20.jpg",
+      "archived": true,
+      "originalPath": "images/5bbbd9617b7c2494933e8c20.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-2.jpg",
+      "path": "../../nenaudojama/dinner/images/4b4600a8bf65e08ba0b29d06.jpg",
+      "archived": true,
+      "originalPath": "images/4b4600a8bf65e08ba0b29d06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-3.jpg",
+      "path": "../../nenaudojama/dinner/images/1d59470dd0be91a69770fb73.jpg",
+      "archived": true,
+      "originalPath": "images/1d59470dd0be91a69770fb73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-4.jpg",
+      "path": "../../nenaudojama/dinner/images/4bc09be614950d418f3169e9.jpg",
+      "archived": true,
+      "originalPath": "images/4bc09be614950d418f3169e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-5.jpg",
+      "path": "../../nenaudojama/dinner/images/757a822a7047f303d06cb264.jpg",
+      "archived": true,
+      "originalPath": "images/757a822a7047f303d06cb264.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/e782184fb2f7964fad26e795.jpg",
+      "archived": true,
+      "originalPath": "images/e782184fb2f7964fad26e795.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/4f6c07e0e589101a1d7223c5.jpg",
+      "archived": true,
+      "originalPath": "images/4f6c07e0e589101a1d7223c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Chicken-Mushroom-Broccoli-Stir-Fry-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/38dc9c2784f9791b7597d997.jpg",
+      "archived": true,
+      "originalPath": "images/38dc9c2784f9791b7597d997.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ac6258de71b8dec174c15ac5.jpg",
+      "archived": true,
+      "originalPath": "images/ac6258de71b8dec174c15ac5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/88ab71a1d15874e8a88986ff.jpg",
+      "archived": true,
+      "originalPath": "images/88ab71a1d15874e8a88986ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/90b2d1d5dd4ea74db5067027.jpg",
+      "archived": true,
+      "originalPath": "images/90b2d1d5dd4ea74db5067027.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e1e3402d67b06a559ddef47e.jpg",
+      "archived": true,
+      "originalPath": "images/e1e3402d67b06a559ddef47e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/28f6e52be49331fece2fa484.jpg",
+      "archived": true,
+      "originalPath": "images/28f6e52be49331fece2fa484.jpg"
+    }
+  ],
+  "featuredImage": "images/7060ba6c4c968e17ea01a0d3.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken, Mushroom, &amp; Broccoli Stir Fry",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Chicken, Mushroom, &amp; Broccoli Stir Fry. Each serving comes out to be 301 calories, 24g fats, 4.4g net carbs, and 17.5g protein.",
+    "datePublished": "2021-05-06T09:00:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Chicken-Mushroom-Broccoli-Stir-Fry-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "2 tablespoon unsalted butter",
+      "3 tablespoon avocado oil",
+      "12 ounce boneless, skinless chicken thighs",
+      "200 gram shiitake mushrooms (halved)",
+      "140 gram broccoli",
+      "2 teaspoon fresh garlic (minced)",
+      "3 tablespoon soy sauce",
+      "2 teaspoon unseasoned rice vinegar",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Dice the chicken.",
+        "name": "Measure out and prepare all the ingredients. Dice the chicken.",
+        "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium to high heat, heat the butter and avocado oil.",
+        "name": "In a frying pan over medium to high heat, heat the butter and avocado oil.",
+        "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced chicken. and cook until brown.",
+        "name": "Add the diced chicken. and cook until brown.",
+        "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mushrooms and broccoli to the frying pan. Cook for about 5 minutes until everything is done.",
+        "name": "Add the mushrooms and broccoli to the frying pan. Cook for about 5 minutes until everything is done.",
+        "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with minced garlic, soy sauce, and rice vinegar. Stir until combined well.",
+        "name": "Season with minced garlic, soy sauce, and rice vinegar. Stir until combined well.",
+        "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Chicken-Mushroom-Broccoli-Stir-Fry-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper. Serve and enjoy!",
+        "name": "Season with salt and pepper. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#wprm-recipe-53769-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "egg-free, keto, low-carb, nut-free, one-pan, one-pan meals, poultry, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "301 kcal",
+      "fatContent": "24 g",
+      "proteinContent": "17.5 g",
+      "carbohydrateContent": "4.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-mushroom-broccoli-stir-fry/"
+  },
+  "sourceIndex": {
+    "id": 45190,
+    "rid": 53769,
+    "t": "Keto Chicken, Mushroom, & Broccoli Stir Fry",
+    "u": "/keto-chicken-mushroom-broccoli-stir-fry/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Chicken-Mushroom-Broccoli-Stir-Fry-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.4,
+    "cal": 301,
+    "pr": 17.5,
+    "fa": 24,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "poultry",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2021-05-06",
+    "cm": 2,
+    "ex": "Who doesn't love a good stir-fry? It’s a great cooking technique since it's a convenient and fast way to whip up dishes. Plus, stir-frying retains more nutrients than other popular cooking",
+    "pv": 1633
+  },
+  "sourceHtml": "pages/keto-chicken-mushroom-broccoli-stir-fry.html",
+  "scrapedAt": "2026-11-07T08:27:44.173Z"
+}

@@ -1,0 +1,320 @@
+{
+  "id": "ruled-47401",
+  "slug": "keto-pork-and-radish-hash",
+  "title": "Keto Pork and Radish Hash",
+  "url": "https://www.ruled.me/keto-pork-and-radish-hash/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Pork and Radish Hash. Each serving comes out to be 558 calories, 44g fats, 3.4g net carbs, and 33.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "558 kcal",
+    "fatContent": "44 g",
+    "proteinContent": "33.1 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 558,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 33.1,
+    "fatGrams": 44
+  },
+  "ingredients": [
+    "2 teaspoon coconut oil",
+    "8 large egg",
+    "2 tablespoon olive oil",
+    "1/2 medium onion (diced)",
+    "8 ounce radish (diced)",
+    "salt and pepper (to taste)",
+    "1 teaspoon oregano",
+    "2 teaspoon chili powder",
+    "2 teaspoon cumin",
+    "16 ounce ground pork"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-1.jpg"
+    },
+    {
+      "text": "In a frying pan over medium heat, add the coconut oil and fry the eggs over easy. Once done, set aside and keep warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-2.jpg"
+    },
+    {
+      "text": "In the same skillet, add in the olive oil, onion, radishes, oregano, chili powder, cumin, salt, and pepper. Stir this together and let cook for 3 - 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-3.jpg"
+    },
+    {
+      "text": "Add the ground pork into the frying pan. Break up and stir. Let cook for 5 - 8 minutes or until there is no more pink.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-4.jpg"
+    },
+    {
+      "text": "Plate the over easy eggs and serve with the ground pork. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "eggs",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/3c7b79bf43763cda62126414.jpg",
+      "archived": true,
+      "originalPath": "images/3c7b79bf43763cda62126414.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Featured.jpg",
+      "path": "images/a60d351f78a514b8931a11c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/72476cfd4dc074094c5343bf.jpg",
+      "archived": true,
+      "originalPath": "images/72476cfd4dc074094c5343bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/a8de5fbbefd3af7a7104163f.jpg",
+      "archived": true,
+      "originalPath": "images/a8de5fbbefd3af7a7104163f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/e4077d35f7ef9065963113b5.jpg",
+      "archived": true,
+      "originalPath": "images/e4077d35f7ef9065963113b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/b9e77de6c5221c56eb03d804.jpg",
+      "archived": true,
+      "originalPath": "images/b9e77de6c5221c56eb03d804.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/81e72f4f226602ccd32b04f5.jpg",
+      "archived": true,
+      "originalPath": "images/81e72f4f226602ccd32b04f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/e83d8fb5a6cb85990985042f.avif",
+      "archived": true,
+      "originalPath": "images/e83d8fb5a6cb85990985042f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/ddfccbbac2b4aad54b3d9a28.jpg",
+      "archived": true,
+      "originalPath": "images/ddfccbbac2b4aad54b3d9a28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a191f154debd6f2ddab85a10.jpg",
+      "archived": true,
+      "originalPath": "images/a191f154debd6f2ddab85a10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ed0847b362e1ab4068ea3c67.jpg",
+      "archived": true,
+      "originalPath": "images/ed0847b362e1ab4068ea3c67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ac24efb356bc5dc9edbe5ab5.jpg",
+      "archived": true,
+      "originalPath": "images/ac24efb356bc5dc9edbe5ab5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/50d005f28b23168d7b92ed90.jpg",
+      "archived": true,
+      "originalPath": "images/50d005f28b23168d7b92ed90.jpg"
+    }
+  ],
+  "featuredImage": "images/a60d351f78a514b8931a11c5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pork and Radish Hash",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Pork and Radish Hash. Each serving comes out to be 558 calories, 44g fats, 3.4g net carbs, and 33.1g protein.",
+    "datePublished": "2022-07-28T09:00:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 teaspoon coconut oil",
+      "8 large egg",
+      "2 tablespoon olive oil",
+      "1/2 medium onion (diced)",
+      "8 ounce radish (diced)",
+      "salt and pepper (to taste)",
+      "1 teaspoon oregano",
+      "2 teaspoon chili powder",
+      "2 teaspoon cumin",
+      "16 ounce ground pork"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium heat, add the coconut oil and fry the eggs over easy. Once done, set aside and keep warm.",
+        "name": "In a frying pan over medium heat, add the coconut oil and fry the eggs over easy. Once done, set aside and keep warm.",
+        "url": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add in the olive oil, onion, radishes, oregano, chili powder, cumin, salt, and pepper. Stir this together and let cook for 3 - 5 minutes.",
+        "name": "In the same skillet, add in the olive oil, onion, radishes, oregano, chili powder, cumin, salt, and pepper. Stir this together and let cook for 3 - 5 minutes.",
+        "url": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ground pork into the frying pan. Break up and stir. Let cook for 5 - 8 minutes or until there is no more pink.",
+        "name": "Add the ground pork into the frying pan. Break up and stir. Let cook for 5 - 8 minutes or until there is no more pink.",
+        "url": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the over easy eggs and serve with the ground pork. Enjoy!",
+        "name": "Plate the over easy eggs and serve with the ground pork. Enjoy!",
+        "url": "https://www.ruled.me/keto-pork-and-radish-hash/#wprm-recipe-54283-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "30-minute, dairy-free, eggs, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, pork, quick, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "558 kcal",
+      "fatContent": "44 g",
+      "proteinContent": "33.1 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pork-and-radish-hash/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pork-and-radish-hash/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pork-and-radish-hash/"
+  },
+  "sourceIndex": {
+    "id": 47401,
+    "rid": 54283,
+    "t": "Keto Pork and Radish Hash",
+    "u": "/keto-pork-and-radish-hash/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Pork-and-Radish-Hash-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.4,
+    "cal": 558,
+    "pr": 33.1,
+    "fa": 44,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "eggs",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2022-07-28",
+    "cm": 0,
+    "ex": "Traditional hash dishes are made with potato (usually leftovers), which means if you go keto, you’ll have to look for new ways to get your fried hash fix for breakfast, lunch, or dinner. It just so",
+    "pv": 62
+  },
+  "sourceHtml": "pages/keto-pork-and-radish-hash.html",
+  "scrapedAt": "2026-11-07T08:11:12.219Z"
+}

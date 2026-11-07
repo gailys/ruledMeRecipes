@@ -1,0 +1,257 @@
+{
+  "id": "ruled-50071",
+  "slug": "smoked-salmon-and-cream-cheese-plate",
+  "title": "Smoked Salmon and Cream Cheese Plate",
+  "url": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Smoked Salmon and Cream Cheese Plate. The serving comes out to be 472 calories, 33.6g fats, 4g net carbs, and 35.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "472 kcal",
+    "fatContent": "33.6 g",
+    "proteinContent": "35.7 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 472,
+    "netCarbsGrams": 4,
+    "proteinGrams": 35.7,
+    "fatGrams": 33.6
+  },
+  "ingredients": [
+    "6 ounce smoked salmon",
+    "2 ounce cream cheese (softened)",
+    "1/4 medium avocado (sliced)",
+    "1 ounce cucumber (sliced)",
+    "1 teaspoon everything bagel seasoning"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#wprm-recipe-54977-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-1.jpg"
+    },
+    {
+      "text": "Mix together cream cheese and everything bagel seasoning until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#wprm-recipe-54977-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-3.jpg"
+    },
+    {
+      "text": "Plate as desired with the smoked salmon, cucumbers, avocado, and cream cheese. Serve immediately and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#wprm-recipe-54977-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/8dcf39b9f365902a6a5736d1.jpg",
+      "archived": true,
+      "originalPath": "images/8dcf39b9f365902a6a5736d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Featured.jpg",
+      "path": "images/20f8554565949e7505ba1331.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/95d462ad4062409dd88ffd00.jpg",
+      "archived": true,
+      "originalPath": "images/95d462ad4062409dd88ffd00.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/c7bf185bfad96b95fd52b9af.jpg",
+      "archived": true,
+      "originalPath": "images/c7bf185bfad96b95fd52b9af.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/530d3c9f59999bdaa23c41fb.jpg",
+      "archived": true,
+      "originalPath": "images/530d3c9f59999bdaa23c41fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/f4bb6087ac23bc097414b4d0.jpg",
+      "archived": true,
+      "originalPath": "images/f4bb6087ac23bc097414b4d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/0a6e7b69abd36d2c0423acb3.jpg",
+      "archived": true,
+      "originalPath": "images/0a6e7b69abd36d2c0423acb3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5ea42a513bfd29aa5ffed295.jpg",
+      "archived": true,
+      "originalPath": "images/5ea42a513bfd29aa5ffed295.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/faa04a0043541e9a65d6a7af.jpg",
+      "archived": true,
+      "originalPath": "images/faa04a0043541e9a65d6a7af.jpg"
+    }
+  ],
+  "featuredImage": "images/20f8554565949e7505ba1331.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Smoked Salmon and Cream Cheese Plate",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Smoked Salmon and Cream Cheese Plate. The serving comes out to be 472 calories, 33.6g fats, 4g net carbs, and 35.7g protein.",
+    "datePublished": "2024-03-26T09:02:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "6 ounce smoked salmon",
+      "2 ounce cream cheese (softened)",
+      "1/4 medium avocado (sliced)",
+      "1 ounce cucumber (sliced)",
+      "1 teaspoon everything bagel seasoning"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#wprm-recipe-54977-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together cream cheese and everything bagel seasoning until well combined.",
+        "name": "Mix together cream cheese and everything bagel seasoning until well combined.",
+        "url": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#wprm-recipe-54977-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate as desired with the smoked salmon, cucumbers, avocado, and cream cheese. Serve immediately and enjoy!",
+        "name": "Plate as desired with the smoked salmon, cucumbers, avocado, and cream cheese. Serve immediately and enjoy!",
+        "url": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#wprm-recipe-54977-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, fish, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "472 kcal",
+      "fatContent": "33.6 g",
+      "proteinContent": "35.7 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/smoked-salmon-and-cream-cheese-plate/"
+  },
+  "sourceIndex": {
+    "id": 50071,
+    "rid": 54977,
+    "t": "Smoked Salmon and Cream Cheese Plate",
+    "u": "/smoked-salmon-and-cream-cheese-plate/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-and-Cream-Cheese-Plate-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4,
+    "cal": 472,
+    "pr": 35.7,
+    "fa": 33.6,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2024-03-26",
+    "cm": 0,
+    "ex": "In a world filled with complexity, our smoked salmon plate offers a refreshing reprieve — a reminder that sometimes, the tastiest dishes can be found in the simplest of things. At the heart of this",
+    "pv": 76
+  },
+  "sourceHtml": "pages/smoked-salmon-and-cream-cheese-plate.html",
+  "scrapedAt": "2026-11-07T08:11:11.861Z"
+}

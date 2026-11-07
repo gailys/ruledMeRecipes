@@ -1,0 +1,258 @@
+{
+  "id": "ruled-43060",
+  "slug": "summer-tuna-avocado-salad",
+  "title": "Summer Tuna Avocado Salad",
+  "url": "https://www.ruled.me/summer-tuna-avocado-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Summer Tuna Avocado Salad. Each serving comes out to be 299 calories, 22.4g fats, 5.2g net carbs, and 15.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT8M",
+  "cookTime": "PT0M",
+  "totalTime": "PT8M",
+  "totalMinutes": 8,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "299 kcal",
+    "fatContent": "22.4 g",
+    "proteinContent": "15.9 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 299,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 15.9,
+    "fatGrams": 22.4
+  },
+  "ingredients": [
+    "1 medium avocado (chopped)",
+    "1 medium cucumber (chopped)",
+    "4 ounce canned tuna (flakes or chunks)",
+    "1/4 cup fresh cilantro (chopped)",
+    "1 tablespoon olive oil",
+    "1 tablespoon lemon juice",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Place the solid ingredients into a salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/summer-tuna-avocado-salad/#wprm-recipe-53345-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-02.jpg"
+    },
+    {
+      "text": "Drizzle with olive oil and lemon juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/summer-tuna-avocado-salad/#wprm-recipe-53345-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-04.jpg"
+    },
+    {
+      "text": "Toss the salad and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/summer-tuna-avocado-salad/#wprm-recipe-53345-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-featired-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/4ae7088a63c3a245e39eb92e.jpg",
+      "archived": true,
+      "originalPath": "images/4ae7088a63c3a245e39eb92e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-featired.jpg",
+      "path": "images/66efee3647f30c15cd7638c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/d55b755510aad22fac0fa2db.jpg",
+      "archived": true,
+      "originalPath": "images/d55b755510aad22fac0fa2db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/eacf536634bd6464d5c3f2c9.jpg",
+      "archived": true,
+      "originalPath": "images/eacf536634bd6464d5c3f2c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/2ae706924c6944c3b285fc1b.jpg",
+      "archived": true,
+      "originalPath": "images/2ae706924c6944c3b285fc1b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/d70591d4fa5a3ec536afb4a4.jpg",
+      "archived": true,
+      "originalPath": "images/d70591d4fa5a3ec536afb4a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-featired-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/98cda1247a6c45f6e881e527.jpg",
+      "archived": true,
+      "originalPath": "images/98cda1247a6c45f6e881e527.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/167d68545832885774085054.jpg",
+      "archived": true,
+      "originalPath": "images/167d68545832885774085054.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d751ffe4a775a9aef3989e16.jpg",
+      "archived": true,
+      "originalPath": "images/d751ffe4a775a9aef3989e16.jpg"
+    }
+  ],
+  "featuredImage": "images/66efee3647f30c15cd7638c0.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Summer Tuna Avocado Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Summer Tuna Avocado Salad. Each serving comes out to be 299 calories, 22.4g fats, 5.2g net carbs, and 15.9g protein.",
+    "datePublished": "2020-05-07T09:54:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-featired.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT8M",
+    "totalTime": "PT8M",
+    "recipeIngredient": [
+      "1 medium avocado (chopped)",
+      "1 medium cucumber (chopped)",
+      "4 ounce canned tuna (flakes or chunks)",
+      "1/4 cup fresh cilantro (chopped)",
+      "1 tablespoon olive oil",
+      "1 tablespoon lemon juice",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the solid ingredients into a salad bowl.",
+        "name": "Place the solid ingredients into a salad bowl.",
+        "url": "https://www.ruled.me/summer-tuna-avocado-salad/#wprm-recipe-53345-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle with olive oil and lemon juice.",
+        "name": "Drizzle with olive oil and lemon juice.",
+        "url": "https://www.ruled.me/summer-tuna-avocado-salad/#wprm-recipe-53345-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the salad and serve!",
+        "name": "Toss the salad and serve!",
+        "url": "https://www.ruled.me/summer-tuna-avocado-salad/#wprm-recipe-53345-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, dairy-free, egg-free, fish, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "299 kcal",
+      "fatContent": "22.4 g",
+      "proteinContent": "15.9 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/summer-tuna-avocado-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/summer-tuna-avocado-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/summer-tuna-avocado-salad/"
+  },
+  "sourceIndex": {
+    "id": 43060,
+    "rid": 53345,
+    "t": "Summer Tuna Avocado Salad",
+    "u": "/summer-tuna-avocado-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/05/keto-tuna-avocado-salad-featired-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.2,
+    "cal": 299,
+    "pr": 15.9,
+    "fa": 22.4,
+    "tm": 8,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook",
+      "seafood"
+    ],
+    "d": "2020-05-07",
+    "cm": 2,
+    "ex": "Who knew avocado and tuna would go so well together!? I’m in awe of just how delicious this salad is. It has a mix of strong flavors complimented by the tart lemon dressing. Not to mention, it",
+    "pv": 197
+  },
+  "sourceHtml": "pages/summer-tuna-avocado-salad.html",
+  "scrapedAt": "2026-11-07T08:15:58.660Z"
+}

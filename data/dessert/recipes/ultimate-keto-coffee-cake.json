@@ -1,0 +1,294 @@
+{
+  "id": "ruled-13127",
+  "slug": "ultimate-keto-coffee-cake",
+  "title": "Ultimate Keto Coffee Cake",
+  "url": "https://www.ruled.me/ultimate-keto-coffee-cake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Ultimate Keto Coffee Cake. Each serving comes out to be 318 calories, 27.1g fats, 3.6g net carbs, and 12.9g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT60M",
+  "totalTime": "PT75M",
+  "totalMinutes": 75,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "318 kcal",
+    "fatContent": "27.1 g",
+    "proteinContent": "12.9 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 318,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 12.9,
+    "fatGrams": 27.1
+  },
+  "ingredients": [
+    "6 large egg (separated)",
+    "1/4 cup erythritol",
+    "6 drop liquid stevia (~25 drops)",
+    "2 teaspoon vanilla extract",
+    "6 ounce cream cheese (softened)",
+    "1/4 cup unflavored low-carb protein powder",
+    "1/4 teaspoon cream of tartar",
+    "1 1/2 cup almond flour",
+    "1 tablespoon ground cinnamon",
+    "1/4 cup butter",
+    "1/4 cup low-carb maple syrup",
+    "1/4 cup erythritol"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 325F (300F if using a glass baking dish). Separate the yolks from the egg whites. Cream the egg yolks together with the erythritol, liquid stevia, and vanilla.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9688.jpg"
+    },
+    {
+      "text": "Once creamed, add the cream cheese and protein powder. Mix well to form a thick batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9691.jpg"
+    },
+    {
+      "text": "Beat the egg whites together with cream of tartar until stiff peaks form. Fold the egg whites into the egg yolk mixture one half at a time. Pour the batter into a round cake pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9693.jpg"
+    },
+    {
+      "text": "Prepare the filling by combining the almond flour, cinnamon, butter, Ruled.Me Maple Syrup, and erythritol to create a dough-like mixture. Take half of this mixture and rip it into little pieces; place them in the cake batter, pushing them down with your fingers if they don't sink.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9698.jpg"
+    },
+    {
+      "text": "Bake for 20 minutes and then top with the remaining cinnamon filling. Bake for another 20–30 minutes or until a toothpick comes out clean. Let cool for 20 minutes before removing from the cake pan. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake3.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake11.jpg",
+      "path": "images/82575755bfda796dab7cc9ed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9688.jpg",
+      "path": "../../nenaudojama/dessert/images/3e42a45eee53d6c060d4ce8e.avif",
+      "archived": true,
+      "originalPath": "images/3e42a45eee53d6c060d4ce8e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9691.jpg",
+      "path": "../../nenaudojama/dessert/images/9452c46d6c1b28aea0fc9522.avif",
+      "archived": true,
+      "originalPath": "images/9452c46d6c1b28aea0fc9522.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9693.jpg",
+      "path": "../../nenaudojama/dessert/images/b73d656696ce64e8be074e33.avif",
+      "archived": true,
+      "originalPath": "images/b73d656696ce64e8be074e33.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9698.jpg",
+      "path": "../../nenaudojama/dessert/images/a6ab18f8fb6d97b3a8795ddc.avif",
+      "archived": true,
+      "originalPath": "images/a6ab18f8fb6d97b3a8795ddc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake3.jpg",
+      "path": "../../nenaudojama/dessert/images/c1e11dcc2261c167bc6a5bd6.avif",
+      "archived": true,
+      "originalPath": "images/c1e11dcc2261c167bc6a5bd6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCakeSecond3.jpg",
+      "path": "../../nenaudojama/dessert/images/ba1c5377398dbd2865ae0bd2.avif",
+      "archived": true,
+      "originalPath": "images/ba1c5377398dbd2865ae0bd2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9688-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/363755254dfecd602c53b8fb.jpg",
+      "archived": true,
+      "originalPath": "images/363755254dfecd602c53b8fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9691-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/dc29726e24b84a98e47f74e1.jpg",
+      "archived": true,
+      "originalPath": "images/dc29726e24b84a98e47f74e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9693-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2ab91a6bf76ce0350d935820.jpg",
+      "archived": true,
+      "originalPath": "images/2ab91a6bf76ce0350d935820.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9698-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4c6ce9cc5eb004a5f6ea4863.avif",
+      "archived": true,
+      "originalPath": "images/4c6ce9cc5eb004a5f6ea4863.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1b72d76b3899f4890a1a79e8.avif",
+      "archived": true,
+      "originalPath": "images/1b72d76b3899f4890a1a79e8.avif"
+    }
+  ],
+  "featuredImage": "images/82575755bfda796dab7cc9ed.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ultimate Keto Coffee Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Ultimate Keto Coffee Cake. Each serving comes out to be 318 calories, 27.1g fats, 3.6g net carbs, and 12.9g protein.",
+    "datePublished": "2014-04-18T17:50:48+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake11.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT60M",
+    "totalTime": "PT75M",
+    "recipeIngredient": [
+      "6 large egg (separated)",
+      "1/4 cup erythritol",
+      "6 drop liquid stevia (~25 drops)",
+      "2 teaspoon vanilla extract",
+      "6 ounce cream cheese (softened)",
+      "1/4 cup unflavored low-carb protein powder",
+      "1/4 teaspoon cream of tartar",
+      "1 1/2 cup almond flour",
+      "1 tablespoon ground cinnamon",
+      "1/4 cup butter",
+      "1/4 cup low-carb maple syrup",
+      "1/4 cup erythritol"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325F (300F if using a glass baking dish). Separate the yolks from the egg whites. Cream the egg yolks together with the erythritol, liquid stevia, and vanilla.",
+        "name": "Preheat oven to 325F (300F if using a glass baking dish). Separate the yolks from the egg whites. Cream the egg yolks together with the erythritol, liquid stevia, and vanilla.",
+        "url": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9688.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once creamed, add the cream cheese and protein powder. Mix well to form a thick batter.",
+        "name": "Once creamed, add the cream cheese and protein powder. Mix well to form a thick batter.",
+        "url": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9691.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg whites together with cream of tartar until stiff peaks form. Fold the egg whites into the egg yolk mixture one half at a time. Pour the batter into a round cake pan.",
+        "name": "Beat the egg whites together with cream of tartar until stiff peaks form. Fold the egg whites into the egg yolk mixture one half at a time. Pour the batter into a round cake pan.",
+        "url": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9693.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the filling by combining the almond flour, cinnamon, butter, Ruled.Me Maple Syrup, and erythritol to create a dough-like mixture. Take half of this mixture and rip it into little pieces; place them in the cake batter, pushing them down with your fingers if they don't sink.",
+        "name": "Prepare the filling by combining the almond flour, cinnamon, butter, Ruled.Me Maple Syrup, and erythritol to create a dough-like mixture. Take half of this mixture and rip it into little pieces; place them in the cake batter, pushing them down with your fingers if they don't sink.",
+        "url": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9698.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20 minutes and then top with the remaining cinnamon filling. Bake for another 20–30 minutes or until a toothpick comes out clean. Let cool for 20 minutes before removing from the cake pan. Enjoy!",
+        "name": "Bake for 20 minutes and then top with the remaining cinnamon filling. Bake for another 20–30 minutes or until a toothpick comes out clean. Let cool for 20 minutes before removing from the cake pan. Enjoy!",
+        "url": "https://www.ruled.me/ultimate-keto-coffee-cake/#wprm-recipe-51045-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake3.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "318 kcal",
+      "fatContent": "27.1 g",
+      "proteinContent": "12.9 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/ultimate-keto-coffee-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ultimate-keto-coffee-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ultimate-keto-coffee-cake/"
+  },
+  "sourceIndex": {
+    "id": 13127,
+    "rid": 51045,
+    "t": "Ultimate Keto Coffee Cake",
+    "u": "/ultimate-keto-coffee-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/CoffeeCake11.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.6,
+    "cal": 318,
+    "pr": 12.9,
+    "fa": 27.1,
+    "tm": 75,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2014-04-18",
+    "cm": 130,
+    "ex": "Now it's not often that I call a recipe \"the ultimate\" version of something, but this one really hits the nail on the head. It's perfect in every way - soft textures mixed with delicious flavors. I",
+    "pv": 727
+  },
+  "sourceHtml": "pages/ultimate-keto-coffee-cake.html",
+  "scrapedAt": "2026-11-07T08:30:47.542Z"
+}

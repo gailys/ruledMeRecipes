@@ -1,0 +1,284 @@
+{
+  "id": "ruled-26146",
+  "slug": "mini-keto-pancake-donuts",
+  "title": "Mini Keto Pancake Donuts",
+  "url": "https://www.ruled.me/mini-keto-pancake-donuts/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 22 servings of Mini Keto Pancake Donuts. Each serving comes out to be 32 calories, 2.7g fats, 0.5g net carbs, and 1.4g protein.",
+  "servings": 22,
+  "yield": [
+    "22",
+    "22 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "32 kcal",
+    "fatContent": "2.7 g",
+    "proteinContent": "1.4 g",
+    "carbohydrateContent": "0.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 32,
+    "netCarbsGrams": 0.5,
+    "proteinGrams": 1.4,
+    "fatGrams": 2.7
+  },
+  "ingredients": [
+    "3 ounce cream cheese",
+    "3 large egg",
+    "4 tablespoon almond flour",
+    "1 tablespoon coconut flour",
+    "1 teaspoon baking powder",
+    "1 teaspoon vanilla extract",
+    "4 tablespoon erythritol",
+    "10 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Combine all ingredients in a large bowl and blend together using an immersion blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5901.jpg"
+    },
+    {
+      "text": "Continue to mix everything for about 45–60 seconds to create a smooth, slightly thickened batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5906.jpg"
+    },
+    {
+      "text": "Heat up your donut maker and spray it with coconut oil to keep them from sticking. Pour the batter into each well, filling them about 90% of the way.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5912.jpg"
+    },
+    {
+      "text": "Let cook for 3 minutes on one side, then flip and cook for an additional 2 minutes. Remove from the donut maker and set aside to cool. Repeat with the rest of the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5918.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "batch-cooking",
+    "beginner-friendly",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/miniketopancakedonuts.jpg",
+      "path": "images/0d7fa1abb134d8eb997fa0de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5901.jpg",
+      "path": "../../nenaudojama/breakfast/images/64cc28c3dcfe599b99288b67.jpg",
+      "archived": true,
+      "originalPath": "images/64cc28c3dcfe599b99288b67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5906.jpg",
+      "path": "../../nenaudojama/breakfast/images/e90a19568035e92ac2198248.jpg",
+      "archived": true,
+      "originalPath": "images/e90a19568035e92ac2198248.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5912.jpg",
+      "path": "../../nenaudojama/breakfast/images/8e20dc5c4daea0b1fcb8f5b2.avif",
+      "archived": true,
+      "originalPath": "images/8e20dc5c4daea0b1fcb8f5b2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5918.jpg",
+      "path": "../../nenaudojama/breakfast/images/9364d257e62b26a06ed91404.avif",
+      "archived": true,
+      "originalPath": "images/9364d257e62b26a06ed91404.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/miniketopancakedonutssecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/7913eda816bba2362a2420f2.avif",
+      "archived": true,
+      "originalPath": "images/7913eda816bba2362a2420f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/miniketopancakedonutslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/a7a1cd88e5672995da1c5db8.jpg",
+      "archived": true,
+      "originalPath": "images/a7a1cd88e5672995da1c5db8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5901-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ce96d2a85eb38fc8701bd5af.jpg",
+      "archived": true,
+      "originalPath": "images/ce96d2a85eb38fc8701bd5af.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5906-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3caa326d18842475845bb0ab.jpg",
+      "archived": true,
+      "originalPath": "images/3caa326d18842475845bb0ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5912-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/26d5279ed27b3ebc55d541db.avif",
+      "archived": true,
+      "originalPath": "images/26d5279ed27b3ebc55d541db.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5918-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3f8f50a5ffe404006dd8e5b8.jpg",
+      "archived": true,
+      "originalPath": "images/3f8f50a5ffe404006dd8e5b8.jpg"
+    }
+  ],
+  "featuredImage": "images/0d7fa1abb134d8eb997fa0de.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mini Keto Pancake Donuts",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 22 servings of Mini Keto Pancake Donuts. Each serving comes out to be 32 calories, 2.7g fats, 0.5g net carbs, and 1.4g protein.",
+    "datePublished": "2015-06-05T13:41:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/06/miniketopancakedonuts.jpg"
+    ],
+    "recipeYield": [
+      "22",
+      "22 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "3 ounce cream cheese",
+      "3 large egg",
+      "4 tablespoon almond flour",
+      "1 tablespoon coconut flour",
+      "1 teaspoon baking powder",
+      "1 teaspoon vanilla extract",
+      "4 tablespoon erythritol",
+      "10 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all ingredients in a large bowl and blend together using an immersion blender.",
+        "name": "Combine all ingredients in a large bowl and blend together using an immersion blender.",
+        "url": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5901.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue to mix everything for about 45–60 seconds to create a smooth, slightly thickened batter.",
+        "name": "Continue to mix everything for about 45–60 seconds to create a smooth, slightly thickened batter.",
+        "url": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5906.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up your donut maker and spray it with coconut oil to keep them from sticking. Pour the batter into each well, filling them about 90% of the way.",
+        "name": "Heat up your donut maker and spray it with coconut oil to keep them from sticking. Pour the batter into each well, filling them about 90% of the way.",
+        "url": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5912.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cook for 3 minutes on one side, then flip and cook for an additional 2 minutes. Remove from the donut maker and set aside to cool. Repeat with the rest of the batter.",
+        "name": "Let cook for 3 minutes on one side, then flip and cook for an additional 2 minutes. Remove from the donut maker and set aside to cool. Repeat with the rest of the batter.",
+        "url": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5918.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/mini-keto-pancake-donuts/#wprm-recipe-51709-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, batch-cooking, beginner-friendly, family-friendly, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "32 kcal",
+      "fatContent": "2.7 g",
+      "proteinContent": "1.4 g",
+      "carbohydrateContent": "0.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/mini-keto-pancake-donuts/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/mini-keto-pancake-donuts/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/mini-keto-pancake-donuts/"
+  },
+  "sourceIndex": {
+    "id": 26146,
+    "rid": 51709,
+    "t": "Mini Keto Pancake Donuts",
+    "u": "/mini-keto-pancake-donuts/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/06/miniketopancakedonuts.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 0.5,
+    "cal": 32,
+    "pr": 1.4,
+    "fa": 2.7,
+    "tm": 25,
+    "sv": 22,
+    "kw": [
+      "30-minute",
+      "batch-cooking",
+      "beginner-friendly",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian"
+    ],
+    "d": "2015-06-05",
+    "cm": 35,
+    "ex": "It's a cause for celebration! Not only is it Friday today, it's also National Donut Day. Time to whip out the donut maker and crank up the heat, because it's donuts for breakfast this morning. These",
+    "pv": 258
+  },
+  "sourceHtml": "pages/mini-keto-pancake-donuts.html",
+  "scrapedAt": "2026-11-07T08:11:12.896Z"
+}

@@ -1,0 +1,515 @@
+{
+  "id": "ruled-38478",
+  "slug": "keto-loco-moco",
+  "title": "Keto Loco Moco",
+  "url": "https://www.ruled.me/keto-loco-moco/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Loco Moco. Each serving comes out to be 319 calories, 26.2g fats, 1.3g net carbs, and 17.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT45M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "319 kcal",
+    "fatContent": "26.2 g",
+    "proteinContent": "17.6 g",
+    "carbohydrateContent": "1.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 319,
+    "netCarbsGrams": 1.3,
+    "proteinGrams": 17.6,
+    "fatGrams": 26.2
+  },
+  "ingredients": [
+    "24 ounce ground beef",
+    "1/3 cup pork rinds (crushed)",
+    "1/2 teaspoon ground nutmeg",
+    "1 teaspoon onion powder",
+    "salt and pepper (To taste)",
+    "1 large egg",
+    "2 tablespoon heavy whipping cream",
+    "3 tablespoon coconut oil",
+    "1 cup beef broth",
+    "1 teaspoon worcestershire sauce",
+    "1 teaspoon soy sauce",
+    "1 tablespoon salted butter",
+    "1 small shallot (diced)",
+    "100 gram oyster mushrooms",
+    "salt and pepper (to taste)",
+    "1/2 teaspoon xanthan gum"
+  ],
+  "instructions": [
+    {
+      "text": "In a large bowl, add the beef, pork rinds, nutmeg, onion powder, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-01.jpg"
+    },
+    {
+      "text": "In a separate bowl, combine heavy whipping cream and egg. Whisk together until the egg batter is a uniform color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-02.jpg"
+    },
+    {
+      "text": "Add the egg mixture to the ground beef.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-03.jpg"
+    },
+    {
+      "text": "Mix well; the beef mixture will feel a bit sticky.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-04.jpg"
+    },
+    {
+      "text": "Divide into equal portions, approximately 3 oz each.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-05.jpg"
+    },
+    {
+      "text": "Make patties by tossing each portion from one hand to the other. This method releases trapped air. Shape into oval patties with a slightly mounded top. Repeat for all of the patties. Refrigerate for at least 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-06.jpg"
+    },
+    {
+      "text": "Heat coconut oil in a skillet over medium heat. Place patties in the skillet and indent the center of each patty a couple of times. This allows for shrinkage during cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-07.jpg"
+    },
+    {
+      "text": "Turn over when first side is browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-08.jpg"
+    },
+    {
+      "text": "Cover the skillet with a lid, then cook for several more minutes to ensure that the patties are cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-09.jpg"
+    },
+    {
+      "text": "Whisk together the stock, Worcestershire sauce, and soy sauce in a cup.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-10.jpg"
+    },
+    {
+      "text": "Heat butter in skillet until melted. Sauté shallots and mushrooms until soft.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-11.jpg"
+    },
+    {
+      "text": "Add the liquid contents of the cup to the pan. Continue cooking until the sauce is somewhat reduced. Taste and season with salt and pepper if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-12.jpg"
+    },
+    {
+      "text": "Sprinkle xanthan gum over the top, then whisk into the sauce to thicken into a gravy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-12",
+      "imageSource": null
+    },
+    {
+      "text": "To serve, spoon gravy over patties and top with optional fried egg.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-13",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "stovetop"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/fe06dce860a6d42db06a4913.jpg",
+      "archived": true,
+      "originalPath": "images/fe06dce860a6d42db06a4913.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-featured.jpg",
+      "path": "images/2c8de19b3909e037ebb4f4f8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-01.jpg",
+      "path": "../../nenaudojama/lunch/images/d8565936609f4d4caa10d1ec.avif",
+      "archived": true,
+      "originalPath": "images/d8565936609f4d4caa10d1ec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-02.jpg",
+      "path": "../../nenaudojama/lunch/images/7ee0173bd1f3445dcf752c1e.jpg",
+      "archived": true,
+      "originalPath": "images/7ee0173bd1f3445dcf752c1e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-03.jpg",
+      "path": "../../nenaudojama/lunch/images/7ba90b9d375c28bf4222ad6b.avif",
+      "archived": true,
+      "originalPath": "images/7ba90b9d375c28bf4222ad6b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-04.jpg",
+      "path": "../../nenaudojama/lunch/images/8fc38b731e4beca7c046e6ad.avif",
+      "archived": true,
+      "originalPath": "images/8fc38b731e4beca7c046e6ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-05.jpg",
+      "path": "../../nenaudojama/lunch/images/5fdfafea7fb68c8c2a8ff752.jpg",
+      "archived": true,
+      "originalPath": "images/5fdfafea7fb68c8c2a8ff752.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-06.jpg",
+      "path": "../../nenaudojama/lunch/images/664bcb701e116dcb5a9e96e4.jpg",
+      "archived": true,
+      "originalPath": "images/664bcb701e116dcb5a9e96e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-07.jpg",
+      "path": "../../nenaudojama/lunch/images/999fa30f9d282f10784173b4.jpg",
+      "archived": true,
+      "originalPath": "images/999fa30f9d282f10784173b4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-08.jpg",
+      "path": "../../nenaudojama/lunch/images/caecaec6a2cc1d3d4d67c470.avif",
+      "archived": true,
+      "originalPath": "images/caecaec6a2cc1d3d4d67c470.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-09.jpg",
+      "path": "../../nenaudojama/lunch/images/eee585544743f22f7df2a543.jpg",
+      "archived": true,
+      "originalPath": "images/eee585544743f22f7df2a543.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-10.jpg",
+      "path": "../../nenaudojama/lunch/images/07dc95942efe7338328b7c8b.jpg",
+      "archived": true,
+      "originalPath": "images/07dc95942efe7338328b7c8b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-11.jpg",
+      "path": "../../nenaudojama/lunch/images/f42b55eca3e4f21215bb6485.avif",
+      "archived": true,
+      "originalPath": "images/f42b55eca3e4f21215bb6485.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-12.jpg",
+      "path": "../../nenaudojama/lunch/images/b05e14a30e752f5c7ef93408.jpg",
+      "archived": true,
+      "originalPath": "images/b05e14a30e752f5c7ef93408.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-second.jpg",
+      "path": "../../nenaudojama/lunch/images/d2b50d94caeae9052279fa33.jpg",
+      "archived": true,
+      "originalPath": "images/d2b50d94caeae9052279fa33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-13.jpg",
+      "path": "../../nenaudojama/lunch/images/ddf9064683c408d7c32faf61.avif",
+      "archived": true,
+      "originalPath": "images/ddf9064683c408d7c32faf61.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/64f0b5ddcab663d4ec4a1d2c.jpg",
+      "archived": true,
+      "originalPath": "images/64f0b5ddcab663d4ec4a1d2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/42c66328bc890c0fdf66d661.jpg",
+      "archived": true,
+      "originalPath": "images/42c66328bc890c0fdf66d661.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5411aa30681eae384735f8e1.jpg",
+      "archived": true,
+      "originalPath": "images/5411aa30681eae384735f8e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/20ebbcc5d048ffb83dc63faf.avif",
+      "archived": true,
+      "originalPath": "images/20ebbcc5d048ffb83dc63faf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b95bc34dd745bad3e0d8ed8f.jpg",
+      "archived": true,
+      "originalPath": "images/b95bc34dd745bad3e0d8ed8f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b225b507ae3add2cf7a8b91c.jpg",
+      "archived": true,
+      "originalPath": "images/b225b507ae3add2cf7a8b91c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2e416bf1f653087ffb95aa74.avif",
+      "archived": true,
+      "originalPath": "images/2e416bf1f653087ffb95aa74.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a1adcaa1e295538100a1cee4.jpg",
+      "archived": true,
+      "originalPath": "images/a1adcaa1e295538100a1cee4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-08-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/26f90e04f5a257cecfe11a3e.avif",
+      "archived": true,
+      "originalPath": "images/26f90e04f5a257cecfe11a3e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-09-263x350.jpg",
+      "path": "../../nenaudojama/lunch/images/75c639126b2e8337ceaf2714.jpg",
+      "archived": true,
+      "originalPath": "images/75c639126b2e8337ceaf2714.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-10-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/438dd93f9d04d9db6522c1c1.avif",
+      "archived": true,
+      "originalPath": "images/438dd93f9d04d9db6522c1c1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-11-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/02c30e3bfd9ad9ab4dcb7cb0.jpg",
+      "archived": true,
+      "originalPath": "images/02c30e3bfd9ad9ab4dcb7cb0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-12-263x350.jpg",
+      "path": "../../nenaudojama/lunch/images/cf1dbfbd43ac4465ac2ad016.avif",
+      "archived": true,
+      "originalPath": "images/cf1dbfbd43ac4465ac2ad016.avif"
+    }
+  ],
+  "featuredImage": "images/2c8de19b3909e037ebb4f4f8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Loco Moco",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Keto Loco Moco. Each serving comes out to be 319 calories, 26.2g fats, 1.3g net carbs, and 17.6g protein.",
+    "datePublished": "2018-11-15T12:00:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT45M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "24 ounce ground beef",
+      "1/3 cup pork rinds (crushed)",
+      "1/2 teaspoon ground nutmeg",
+      "1 teaspoon onion powder",
+      "salt and pepper (To taste)",
+      "1 large egg",
+      "2 tablespoon heavy whipping cream",
+      "3 tablespoon coconut oil",
+      "1 cup beef broth",
+      "1 teaspoon worcestershire sauce",
+      "1 teaspoon soy sauce",
+      "1 tablespoon salted butter",
+      "1 small shallot (diced)",
+      "100 gram oyster mushrooms",
+      "salt and pepper (to taste)",
+      "1/2 teaspoon xanthan gum"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, add the beef, pork rinds, nutmeg, onion powder, salt, and pepper.",
+        "name": "In a large bowl, add the beef, pork rinds, nutmeg, onion powder, salt, and pepper.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, combine heavy whipping cream and egg. Whisk together until the egg batter is a uniform color.",
+        "name": "In a separate bowl, combine heavy whipping cream and egg. Whisk together until the egg batter is a uniform color.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the egg mixture to the ground beef.",
+        "name": "Add the egg mixture to the ground beef.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix well; the beef mixture will feel a bit sticky.",
+        "name": "Mix well; the beef mixture will feel a bit sticky.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide into equal portions, approximately 3 oz each.",
+        "name": "Divide into equal portions, approximately 3 oz each.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make patties by tossing each portion from one hand to the other. This method releases trapped air. Shape into oval patties with a slightly mounded top. Repeat for all of the patties. Refrigerate for at least 30 minutes.",
+        "name": "Make patties by tossing each portion from one hand to the other. This method releases trapped air. Shape into oval patties with a slightly mounded top. Repeat for all of the patties. Refrigerate for at least 30 minutes.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat coconut oil in a skillet over medium heat. Place patties in the skillet and indent the center of each patty a couple of times. This allows for shrinkage during cooking.",
+        "name": "Heat coconut oil in a skillet over medium heat. Place patties in the skillet and indent the center of each patty a couple of times. This allows for shrinkage during cooking.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn over when first side is browned.",
+        "name": "Turn over when first side is browned.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the skillet with a lid, then cook for several more minutes to ensure that the patties are cooked through.",
+        "name": "Cover the skillet with a lid, then cook for several more minutes to ensure that the patties are cooked through.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together the stock, Worcestershire sauce, and soy sauce in a cup.",
+        "name": "Whisk together the stock, Worcestershire sauce, and soy sauce in a cup.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat butter in skillet until melted. Sauté shallots and mushrooms until soft.",
+        "name": "Heat butter in skillet until melted. Sauté shallots and mushrooms until soft.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the liquid contents of the cup to the pan. Continue cooking until the sauce is somewhat reduced. Taste and season with salt and pepper if needed.",
+        "name": "Add the liquid contents of the cup to the pan. Continue cooking until the sauce is somewhat reduced. Taste and season with salt and pepper if needed.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle xanthan gum over the top, then whisk into the sauce to thicken into a gravy.",
+        "name": "Sprinkle xanthan gum over the top, then whisk into the sauce to thicken into a gravy.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-12"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To serve, spoon gravy over patties and top with optional fried egg.",
+        "name": "To serve, spoon gravy over patties and top with optional fried egg.",
+        "url": "https://www.ruled.me/keto-loco-moco/#wprm-recipe-52790-step-0-13"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Hawaiian"
+    ],
+    "keywords": "keto, low-carb, nut-free, red meat, stovetop",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "319 kcal",
+      "fatContent": "26.2 g",
+      "proteinContent": "17.6 g",
+      "carbohydrateContent": "1.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-loco-moco/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-loco-moco/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-loco-moco/"
+  },
+  "sourceIndex": {
+    "id": 38478,
+    "rid": 52790,
+    "t": "Keto Loco Moco",
+    "u": "/keto-loco-moco/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/11/loco-moco-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 1.3,
+    "cal": 319,
+    "pr": 17.6,
+    "fa": 26.2,
+    "tm": 55,
+    "sv": 8,
+    "kw": [
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "stovetop"
+    ],
+    "ni": 16,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "red-meat"
+    ],
+    "d": "2018-11-15",
+    "cm": 6,
+    "ex": "Loco moco is a favorite quick meal option in Hawaii. it’s typically served with rice, fried egg, and smothered in gravy. We all know that burger is a keto staple, but this delightful recipe is a fun",
+    "pv": 222
+  },
+  "sourceHtml": "pages/keto-loco-moco.html",
+  "scrapedAt": "2026-11-07T08:16:57.670Z"
+}

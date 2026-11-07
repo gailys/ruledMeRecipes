@@ -1,0 +1,313 @@
+{
+  "id": "ruled-25987",
+  "slug": "easy-creamy-cauliflower-mashed-potatoes",
+  "title": "Easy, Creamy Cauliflower Mashed Potatoes",
+  "url": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Easy, Creamy Cauliflower Mashed Potatoes. Each serving comes out to be 249 calories, 23.5g fats, 3.6g net carbs, and 6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "249 kcal",
+    "fatContent": "23.5 g",
+    "proteinContent": "6 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 249,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 6,
+    "fatGrams": 23.5
+  },
+  "ingredients": [
+    "10 ounce cauliflower (riced)",
+    "1/4 cup sour cream",
+    "3 tablespoon heavy whipping cream",
+    "3 tablespoon butter",
+    "4 tablespoon parmesan cheese",
+    "1/4 teaspoon garlic powder",
+    "salt and pepper (to taste)",
+    "2 tablespoon fresh chives (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out the riced cauliflower and place in the microwave with a paper towel covering the top and cook for 5 minutes. Alternatively, steam or roast the riced cauliflower.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_2146.jpg"
+    },
+    {
+      "text": "Once finished, it should be soft to the touch but still slightly firm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_2154.jpg"
+    },
+    {
+      "text": "Mix in the remaining ingredients except the chives.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_2156.jpg"
+    },
+    {
+      "text": "Use an immersion blender to pulse the cauliflower together with the other ingredients. Add in half of the chives and mix them in.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_2158.jpg"
+    },
+    {
+      "text": "Garnish with the remaining chives, serve, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/cauliflowermashedpotatoes.jpg",
+      "path": "../../nenaudojama/side-items/images/0898c4c83551a3cf5aeb7406.avif",
+      "archived": true,
+      "originalPath": "images/0898c4c83551a3cf5aeb7406.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2146.jpg",
+      "path": "../../nenaudojama/side-items/images/e7566041a7e049107b2ef7e0.jpg",
+      "archived": true,
+      "originalPath": "images/e7566041a7e049107b2ef7e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2154.jpg",
+      "path": "../../nenaudojama/side-items/images/c5eae25c49336afdabb0f6f9.jpg",
+      "archived": true,
+      "originalPath": "images/c5eae25c49336afdabb0f6f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2156.jpg",
+      "path": "../../nenaudojama/side-items/images/c8cc17757d4d5c6b256c2f5b.jpg",
+      "archived": true,
+      "originalPath": "images/c8cc17757d4d5c6b256c2f5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2158.jpg",
+      "path": "../../nenaudojama/side-items/images/713d85511f9c227194c25121.jpg",
+      "archived": true,
+      "originalPath": "images/713d85511f9c227194c25121.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2143.jpg",
+      "path": "../../nenaudojama/side-items/images/1c6ac9b11961bba9bfa93798.avif",
+      "archived": true,
+      "originalPath": "images/1c6ac9b11961bba9bfa93798.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/cauliflowermashedpotatoeslong.jpg",
+      "path": "../../nenaudojama/side-items/images/99e897a18a42930a0fbac7fc.jpg",
+      "archived": true,
+      "originalPath": "images/99e897a18a42930a0fbac7fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2146-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5fa4f40d1d44abfcd4276c3b.jpg",
+      "archived": true,
+      "originalPath": "images/5fa4f40d1d44abfcd4276c3b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2154-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/0f37a2ecb4bd7a44ce48adea.jpg",
+      "archived": true,
+      "originalPath": "images/0f37a2ecb4bd7a44ce48adea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2156-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/010d77b4decbe2a98bfa552f.jpg",
+      "archived": true,
+      "originalPath": "images/010d77b4decbe2a98bfa552f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_2158-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/48e1b72f40277cb966ce890c.jpg",
+      "archived": true,
+      "originalPath": "images/48e1b72f40277cb966ce890c.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/0898c4c83551a3cf5aeb7406.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Easy, Creamy Cauliflower Mashed Potatoes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Easy, Creamy Cauliflower Mashed Potatoes. Each serving comes out to be 249 calories, 23.5g fats, 3.6g net carbs, and 6g protein.",
+    "datePublished": "2015-04-27T14:17:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/04/cauliflowermashedpotatoes.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "10 ounce cauliflower (riced)",
+      "1/4 cup sour cream",
+      "3 tablespoon heavy whipping cream",
+      "3 tablespoon butter",
+      "4 tablespoon parmesan cheese",
+      "1/4 teaspoon garlic powder",
+      "salt and pepper (to taste)",
+      "2 tablespoon fresh chives (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the riced cauliflower and place in the microwave with a paper towel covering the top and cook for 5 minutes. Alternatively, steam or roast the riced cauliflower.",
+        "name": "Measure out the riced cauliflower and place in the microwave with a paper towel covering the top and cook for 5 minutes. Alternatively, steam or roast the riced cauliflower.",
+        "url": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_2146.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once finished, it should be soft to the touch but still slightly firm.",
+        "name": "Once finished, it should be soft to the touch but still slightly firm.",
+        "url": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_2154.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the remaining ingredients except the chives.",
+        "name": "Mix in the remaining ingredients except the chives.",
+        "url": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_2156.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion blender to pulse the cauliflower together with the other ingredients. Add in half of the chives and mix them in.",
+        "name": "Use an immersion blender to pulse the cauliflower together with the other ingredients. Add in half of the chives and mix them in.",
+        "url": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_2158.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with the remaining chives, serve, and enjoy!",
+        "name": "Garnish with the remaining chives, serve, and enjoy!",
+        "url": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#wprm-recipe-51657-step-0-4"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "This was delicious!  And it was the first time I used my immersion blender.  Works perfectly and tastes great!",
+        "author": {
+          "@type": "Person",
+          "name": "Plumala"
+        },
+        "datePublished": "2025-11-24"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "249 kcal",
+      "fatContent": "23.5 g",
+      "proteinContent": "6 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/easy-creamy-cauliflower-mashed-potatoes/"
+  },
+  "sourceIndex": {
+    "id": 25987,
+    "rid": 51657,
+    "t": "Easy Creamy Cauliflower Mashed Potatoes",
+    "u": "/easy-creamy-cauliflower-mashed-potatoes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/04/cauliflowermashedpotatoes.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.6,
+    "cal": 249,
+    "pr": 6,
+    "fa": 23.5,
+    "tm": 10,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free"
+    ],
+    "d": "2015-04-27",
+    "cm": 24,
+    "ex": "Mashed Cauliflower was never a selling point for me when it came to eating vegetables. I didn't like the idea, and I didn't think the taste was that great. But, I was missing out for a long time",
+    "pv": 1851
+  },
+  "sourceHtml": "pages/easy-creamy-cauliflower-mashed-potatoes.html",
+  "scrapedAt": "2026-11-07T08:32:45.502Z"
+}

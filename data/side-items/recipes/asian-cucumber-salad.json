@@ -1,0 +1,364 @@
+{
+  "id": "ruled-15719",
+  "slug": "asian-cucumber-salad",
+  "title": "Asian Cucumber Salad",
+  "url": "https://www.ruled.me/asian-cucumber-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Asian Cucumber Salad. The serving comes out to be 422 calories, 42.2g fats, 7.5g net carbs, and 2.2g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "422 kcal",
+    "fatContent": "42.2 g",
+    "proteinContent": "2.2 g",
+    "carbohydrateContent": "7.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 422,
+    "netCarbsGrams": 7.5,
+    "proteinGrams": 2.2,
+    "fatGrams": 42.2
+  },
+  "ingredients": [
+    "75 gram shirataki noodles",
+    "2 tablespoon coconut oil",
+    "200 gram cucumber",
+    "15 gram green onion",
+    "1/4 teaspoon crushed red pepper flakes",
+    "1 tablespoon sesame oil",
+    "1 tablespoon unseasoned rice vinegar",
+    "1 teaspoon sesame seeds",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Remove shiritaki noodles from the package and rinse off completely. This may take a few minutes, but make sure that all of the extra water that came in its package is washed off.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9786.jpg"
+    },
+    {
+      "text": "Set noodles on a kitchen towel and thoroughly dry them.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9790.jpg"
+    },
+    {
+      "text": "Bring coconut oil to medium-high heat in a pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9792.jpg"
+    },
+    {
+      "text": "Once the oil is hot, add noodles and cover (it will splatter). Let these fry for 5-7 minutes or until crisp and browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9801.jpg"
+    },
+    {
+      "text": "Remove shiritaki noodles from the pan and set on paper towels to cool and dry.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9804.jpg"
+    },
+    {
+      "text": "Slice cucumber thin and arrange on a plate in the design you’d like.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9808.jpg"
+    },
+    {
+      "text": "Add spring onion, red pepper flakes, sesame oil, rice vinegar, sesame seeds, and salt and pepper to taste. You can also pour over the coconut oil from the pan you fried the noodles in. This will add a salty component, so keep that in mind. Store this in the fridge for at least 30 minutes. Sprinkle fried shiritake noodles over the top just prior to serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad4redo.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "summer",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad3redo.jpg",
+      "path": "../../nenaudojama/side-items/images/31edc76e044976f0db731b8e.avif",
+      "archived": true,
+      "originalPath": "images/31edc76e044976f0db731b8e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9786.jpg",
+      "path": "../../nenaudojama/side-items/images/3e5c04ce22a346a03bd45038.avif",
+      "archived": true,
+      "originalPath": "images/3e5c04ce22a346a03bd45038.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9790.jpg",
+      "path": "../../nenaudojama/side-items/images/85f5c35e2ddbec014d534912.jpg",
+      "archived": true,
+      "originalPath": "images/85f5c35e2ddbec014d534912.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9792.jpg",
+      "path": "../../nenaudojama/side-items/images/5d0a16b0b3f96bf166689079.jpg",
+      "archived": true,
+      "originalPath": "images/5d0a16b0b3f96bf166689079.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9801.jpg",
+      "path": "../../nenaudojama/side-items/images/e51c18b9020b88822f6290d3.avif",
+      "archived": true,
+      "originalPath": "images/e51c18b9020b88822f6290d3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9804.jpg",
+      "path": "../../nenaudojama/side-items/images/3aa714eed79566e2eb0bb3da.jpg",
+      "archived": true,
+      "originalPath": "images/3aa714eed79566e2eb0bb3da.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9808.jpg",
+      "path": "../../nenaudojama/side-items/images/62f29a05988ebb66106282f5.avif",
+      "archived": true,
+      "originalPath": "images/62f29a05988ebb66106282f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad4redo.jpg",
+      "path": "../../nenaudojama/side-items/images/a0952d620a16c57b1a4c3066.jpg",
+      "archived": true,
+      "originalPath": "images/a0952d620a16c57b1a4c3066.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad5.jpg",
+      "path": "../../nenaudojama/side-items/images/852bb2d7cf3b5496b6a0dd74.jpg",
+      "archived": true,
+      "originalPath": "images/852bb2d7cf3b5496b6a0dd74.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9786-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c09ecbf8404cb708e180bc71.avif",
+      "archived": true,
+      "originalPath": "images/c09ecbf8404cb708e180bc71.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9790-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7007b86b92082d49a27c90c7.jpg",
+      "archived": true,
+      "originalPath": "images/7007b86b92082d49a27c90c7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9792-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9289f82fcb433b103a146d40.avif",
+      "archived": true,
+      "originalPath": "images/9289f82fcb433b103a146d40.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9801-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/59d5bdaf1c4786b4e1fa3cec.avif",
+      "archived": true,
+      "originalPath": "images/59d5bdaf1c4786b4e1fa3cec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9804-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/0b391669914a2906b209b08d.jpg",
+      "archived": true,
+      "originalPath": "images/0b391669914a2906b209b08d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9808-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/58b9df210e74f5729d0e79a7.avif",
+      "archived": true,
+      "originalPath": "images/58b9df210e74f5729d0e79a7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad4redo-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/fecd1f4a267d9d155b9cc54e.avif",
+      "archived": true,
+      "originalPath": "images/fecd1f4a267d9d155b9cc54e.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/31edc76e044976f0db731b8e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Asian Cucumber Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Asian Cucumber Salad. The serving comes out to be 422 calories, 42.2g fats, 7.5g net carbs, and 2.2g protein.",
+    "datePublished": "2014-06-01T16:31:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad3redo.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "75 gram shirataki noodles",
+      "2 tablespoon coconut oil",
+      "200 gram cucumber",
+      "15 gram green onion",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1 tablespoon sesame oil",
+      "1 tablespoon unseasoned rice vinegar",
+      "1 teaspoon sesame seeds",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Remove shiritaki noodles from the package and rinse off completely. This may take a few minutes, but make sure that all of the extra water that came in its package is washed off.",
+        "name": "Remove shiritaki noodles from the package and rinse off completely. This may take a few minutes, but make sure that all of the extra water that came in its package is washed off.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9786.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set noodles on a kitchen towel and thoroughly dry them.",
+        "name": "Set noodles on a kitchen towel and thoroughly dry them.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9790.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring coconut oil to medium-high heat in a pan.",
+        "name": "Bring coconut oil to medium-high heat in a pan.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9792.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the oil is hot, add noodles and cover (it will splatter). Let these fry for 5-7 minutes or until crisp and browned.",
+        "name": "Once the oil is hot, add noodles and cover (it will splatter). Let these fry for 5-7 minutes or until crisp and browned.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9801.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove shiritaki noodles from the pan and set on paper towels to cool and dry.",
+        "name": "Remove shiritaki noodles from the pan and set on paper towels to cool and dry.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9804.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice cucumber thin and arrange on a plate in the design you’d like.",
+        "name": "Slice cucumber thin and arrange on a plate in the design you’d like.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_9808.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add spring onion, red pepper flakes, sesame oil, rice vinegar, sesame seeds, and salt and pepper to taste. You can also pour over the coconut oil from the pan you fried the noodles in. This will add a salty component, so keep that in mind. Store this in the fridge for at least 30 minutes. Sprinkle fried shiritake noodles over the top just prior to serving.",
+        "name": "Add spring onion, red pepper flakes, sesame oil, rice vinegar, sesame seeds, and salt and pepper to taste. You can also pour over the coconut oil from the pan you fried the noodles in. This will add a salty component, so keep that in mind. Store this in the fridge for at least 30 minutes. Sprinkle fried shiritake noodles over the top just prior to serving.",
+        "url": "https://www.ruled.me/asian-cucumber-salad/#wprm-recipe-51145-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad4redo.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, quick, simple &amp; easy, stovetop, sugar-free, summer, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "422 kcal",
+      "fatContent": "42.2 g",
+      "proteinContent": "2.2 g",
+      "carbohydrateContent": "7.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/asian-cucumber-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/asian-cucumber-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/asian-cucumber-salad/"
+  },
+  "sourceIndex": {
+    "id": 15719,
+    "rid": 51145,
+    "t": "Asian Cucumber Salad",
+    "u": "/asian-cucumber-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/06/CucumberSalad3redo.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 7.5,
+    "cal": 422,
+    "pr": 2.2,
+    "fa": 42.2,
+    "tm": 20,
+    "sv": 1,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "summer",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2014-06-01",
+    "cm": 8,
+    "ex": "I've bought shiritaki noodles in the past and I'm just the type of person that can't get over the texture of the things. They're just not that delicious pasta that I want when I think of a hearty",
+    "pv": 69
+  },
+  "sourceHtml": "pages/asian-cucumber-salad.html",
+  "scrapedAt": "2026-11-07T08:32:57.570Z"
+}

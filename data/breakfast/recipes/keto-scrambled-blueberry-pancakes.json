@@ -1,0 +1,327 @@
+{
+  "id": "ruled-49254",
+  "slug": "keto-scrambled-blueberry-pancakes",
+  "title": "Keto Scrambled Blueberry Pancakes",
+  "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Scrambled Blueberry Pancakes. The serving comes out to be 548 calories, 43.3g fats, 9.6g net carbs, and 28.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "548 kcal",
+    "fatContent": "43.3 g",
+    "proteinContent": "28.3 g",
+    "carbohydrateContent": "9.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 548,
+    "netCarbsGrams": 9.6,
+    "proteinGrams": 28.3,
+    "fatGrams": 43.3
+  },
+  "ingredients": [
+    "3 large egg",
+    "1/3 cup unsweetened almond milk",
+    "1/4 cup almond flour",
+    "1 tablespoon coconut flour",
+    "1 teaspoon baking powder",
+    "salt (to taste)",
+    "1 tablespoon butter (for frying)",
+    "1 ounce blueberries"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes1.jpg"
+    },
+    {
+      "text": "In a bowl, add all ingredients except for the butter and blueberries.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes2.jpg"
+    },
+    {
+      "text": "Mix the ingredients together well, until smooth and most lumps are gone.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes3.jpg"
+    },
+    {
+      "text": "Heat a pan over medium heat. Once hot, grease pan with butter as needed. Add batter into the pan, ignoring the size and shape of the pancake.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes4.jpg"
+    },
+    {
+      "text": "Using a rubber spatula, stir and fold the dough slowly as it cooks, similar to cooking scrambled eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes5.jpg"
+    },
+    {
+      "text": "Once the batter is cooked through, sprinkle blueberries over the top and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/5a7c437c88d78bfd9547a1e9.avif",
+      "archived": true,
+      "originalPath": "images/5a7c437c88d78bfd9547a1e9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Featured.jpg",
+      "path": "images/9f972b901b2bae745b23ca67.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes1.jpg",
+      "path": "../../nenaudojama/breakfast/images/0a2201d74e946a4a5fd26039.avif",
+      "archived": true,
+      "originalPath": "images/0a2201d74e946a4a5fd26039.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes2.jpg",
+      "path": "../../nenaudojama/breakfast/images/fd2b0bf9ecbb66ad38e67888.avif",
+      "archived": true,
+      "originalPath": "images/fd2b0bf9ecbb66ad38e67888.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes3.jpg",
+      "path": "../../nenaudojama/breakfast/images/a51914c4162b5cf18fb24522.avif",
+      "archived": true,
+      "originalPath": "images/a51914c4162b5cf18fb24522.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes4.jpg",
+      "path": "../../nenaudojama/breakfast/images/ea909e6e94d4cb36fdebdd93.jpg",
+      "archived": true,
+      "originalPath": "images/ea909e6e94d4cb36fdebdd93.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes5.jpg",
+      "path": "../../nenaudojama/breakfast/images/705db4910db7c3a12421e14f.avif",
+      "archived": true,
+      "originalPath": "images/705db4910db7c3a12421e14f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/c9bed4a8442a0ee32f7c6957.avif",
+      "archived": true,
+      "originalPath": "images/c9bed4a8442a0ee32f7c6957.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/335efec9516f031e0edcc5ad.avif",
+      "archived": true,
+      "originalPath": "images/335efec9516f031e0edcc5ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/680181a6560a27f0560e0596.avif",
+      "archived": true,
+      "originalPath": "images/680181a6560a27f0560e0596.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f05948113dfba2de79c01569.jpg",
+      "archived": true,
+      "originalPath": "images/f05948113dfba2de79c01569.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/70336750e2ec158445a0b7b8.avif",
+      "archived": true,
+      "originalPath": "images/70336750e2ec158445a0b7b8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e9f6bff9419b6ca28c2f5763.avif",
+      "archived": true,
+      "originalPath": "images/e9f6bff9419b6ca28c2f5763.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/83cbe12d6645a002cc3c596c.avif",
+      "archived": true,
+      "originalPath": "images/83cbe12d6645a002cc3c596c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/89d03e931ea982768ce072c2.jpg",
+      "archived": true,
+      "originalPath": "images/89d03e931ea982768ce072c2.jpg"
+    }
+  ],
+  "featuredImage": "images/9f972b901b2bae745b23ca67.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Scrambled Blueberry Pancakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Scrambled Blueberry Pancakes. The serving comes out to be 548 calories, 43.3g fats, 9.6g net carbs, and 28.3g protein.",
+    "datePublished": "2023-08-15T09:45:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "3 large egg",
+      "1/3 cup unsweetened almond milk",
+      "1/4 cup almond flour",
+      "1 tablespoon coconut flour",
+      "1 teaspoon baking powder",
+      "salt (to taste)",
+      "1 tablespoon butter (for frying)",
+      "1 ounce blueberries"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, add all ingredients except for the butter and blueberries.",
+        "name": "In a bowl, add all ingredients except for the butter and blueberries.",
+        "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the ingredients together well, until smooth and most lumps are gone.",
+        "name": "Mix the ingredients together well, until smooth and most lumps are gone.",
+        "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a pan over medium heat. Once hot, grease pan with butter as needed. Add batter into the pan, ignoring the size and shape of the pancake.",
+        "name": "Heat a pan over medium heat. Once hot, grease pan with butter as needed. Add batter into the pan, ignoring the size and shape of the pancake.",
+        "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a rubber spatula, stir and fold the dough slowly as it cooks, similar to cooking scrambled eggs.",
+        "name": "Using a rubber spatula, stir and fold the dough slowly as it cooks, similar to cooking scrambled eggs.",
+        "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the batter is cooked through, sprinkle blueberries over the top and enjoy!",
+        "name": "Once the batter is cooked through, sprinkle blueberries over the top and enjoy!",
+        "url": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#wprm-recipe-54709-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, high-protein, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "548 kcal",
+      "fatContent": "43.3 g",
+      "proteinContent": "28.3 g",
+      "carbohydrateContent": "9.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-scrambled-blueberry-pancakes/"
+  },
+  "sourceIndex": {
+    "id": 49254,
+    "rid": 54709,
+    "t": "Keto Scrambled Blueberry Pancakes",
+    "u": "/keto-scrambled-blueberry-pancakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Scrambled-Blueberry-Pancakes-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 9.6,
+    "cal": 548,
+    "pr": 28.3,
+    "fa": 43.3,
+    "tm": 10,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "stovetop",
+      "high-protein"
+    ],
+    "d": "2023-08-15",
+    "cm": 2,
+    "ex": "This mouthwatering scrambled blueberry pancake dish is sure to be a winner. Say goodbye to making pancakes one by one; instead, you’ll just pour the coconut flour-based batter into a pan and scramble",
+    "pv": 180
+  },
+  "sourceHtml": "pages/keto-scrambled-blueberry-pancakes.html",
+  "scrapedAt": "2026-11-07T08:11:11.977Z"
+}

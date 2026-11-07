@@ -1,0 +1,293 @@
+{
+  "id": "ruled-12882",
+  "slug": "succulent-slow-cooked-lamb",
+  "title": "Succulent Slow-Cooked Lamb",
+  "url": "https://www.ruled.me/succulent-slow-cooked-lamb/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Succulent Slow-Cooked Lamb. Each serving comes out to be 474 calories, 34.1g fats, 0.3g net carbs, and 38.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT490M",
+  "totalTime": "PT500M",
+  "totalMinutes": 500,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "474 kcal",
+    "fatContent": "34.1 g",
+    "proteinContent": "38.9 g",
+    "carbohydrateContent": "0.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 474,
+    "netCarbsGrams": 0.3,
+    "proteinGrams": 38.9,
+    "fatGrams": 34.1
+  },
+  "ingredients": [
+    "32 ounce lamb leg",
+    "1/4 cup olive oil",
+    "2 tablespoon whole grain mustard",
+    "1 tablespoon low-carb maple syrup (like Ruled.Me)",
+    "salt and pepper (to taste)",
+    "3/4 teaspoon fresh garlic (sliced)",
+    "3/4 teaspoon dried rosemary",
+    "1 teaspoon fresh thyme",
+    "2 tablespoon fresh mint"
+  ],
+  "instructions": [
+    {
+      "text": "Place the lamb leg in the slow cooker and cut 3 large slits along the top at least 1 1/2\" deep.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-01.jpg"
+    },
+    {
+      "text": "Rub the lamb with the olive oil, mustard, and Ruled.Me Maple Syrup. Add salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-02.jpg"
+    },
+    {
+      "text": "Place the garlic and rosemary inside the slits. Cook on low for 7 hours. Once the lamb is cooked down and surrounded by juices, add the thyme and mint. Cook for an additional 1 hour with the herbs in the juices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-03.jpg"
+    },
+    {
+      "text": "Remove from the slow cooker and let rest for 5–10 minutes. Slice and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/6a9900851607678f6ebfcf04.avif",
+      "archived": true,
+      "originalPath": "images/6a9900851607678f6ebfcf04.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63.jpg",
+      "path": "images/9788794d9baf05431d3a694f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-01.jpg",
+      "path": "../../nenaudojama/dinner/images/bff432f97e6364519ab0b5b3.jpg",
+      "archived": true,
+      "originalPath": "images/bff432f97e6364519ab0b5b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-02.jpg",
+      "path": "../../nenaudojama/dinner/images/7b827ae9b0552fdc78bd3c92.jpg",
+      "archived": true,
+      "originalPath": "images/7b827ae9b0552fdc78bd3c92.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-03.jpg",
+      "path": "../../nenaudojama/dinner/images/5466bfd323cfe4f2db0f59eb.jpg",
+      "archived": true,
+      "originalPath": "images/5466bfd323cfe4f2db0f59eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-04.jpg",
+      "path": "../../nenaudojama/dinner/images/f4edb19455fb4ae268a63e12.jpg",
+      "archived": true,
+      "originalPath": "images/f4edb19455fb4ae268a63e12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/a163c41198950c3b7e3ab293.jpg",
+      "archived": true,
+      "originalPath": "images/a163c41198950c3b7e3ab293.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d8ce5791dbe2bba7a2da7af7.jpg",
+      "archived": true,
+      "originalPath": "images/d8ce5791dbe2bba7a2da7af7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/eacef64ae7aab241bb0689ad.jpg",
+      "archived": true,
+      "originalPath": "images/eacef64ae7aab241bb0689ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fe7b8135ebb4ba853626f8f0.jpg",
+      "archived": true,
+      "originalPath": "images/fe7b8135ebb4ba853626f8f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-04-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a5436cbefb839b72eda83952.jpg",
+      "archived": true,
+      "originalPath": "images/a5436cbefb839b72eda83952.jpg"
+    }
+  ],
+  "featuredImage": "images/9788794d9baf05431d3a694f.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Succulent Slow-Cooked Lamb",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Succulent Slow-Cooked Lamb. Each serving comes out to be 474 calories, 34.1g fats, 0.3g net carbs, and 38.9g protein.",
+    "datePublished": "2014-04-14T14:41:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63.jpg",
+      "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63-480x270.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT490M",
+    "totalTime": "PT500M",
+    "recipeIngredient": [
+      "32 ounce lamb leg",
+      "1/4 cup olive oil",
+      "2 tablespoon whole grain mustard",
+      "1 tablespoon low-carb maple syrup (like Ruled.Me)",
+      "salt and pepper (to taste)",
+      "3/4 teaspoon fresh garlic (sliced)",
+      "3/4 teaspoon dried rosemary",
+      "1 teaspoon fresh thyme",
+      "2 tablespoon fresh mint"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the lamb leg in the slow cooker and cut 3 large slits along the top at least 1 1/2\" deep.",
+        "name": "Place the lamb leg in the slow cooker and cut 3 large slits along the top at least 1 1/2\" deep.",
+        "url": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rub the lamb with the olive oil, mustard, and Ruled.Me Maple Syrup. Add salt and pepper to taste.",
+        "name": "Rub the lamb with the olive oil, mustard, and Ruled.Me Maple Syrup. Add salt and pepper to taste.",
+        "url": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the garlic and rosemary inside the slits. Cook on low for 7 hours. Once the lamb is cooked down and surrounded by juices, add the thyme and mint. Cook for an additional 1 hour with the herbs in the juices.",
+        "name": "Place the garlic and rosemary inside the slits. Cook on low for 7 hours. Once the lamb is cooked down and surrounded by juices, add the thyme and mint. Cook for an additional 1 hour with the herbs in the juices.",
+        "url": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the slow cooker and let rest for 5–10 minutes. Slice and serve!",
+        "name": "Remove from the slow cooker and let rest for 5–10 minutes. Slice and serve!",
+        "url": "https://www.ruled.me/succulent-slow-cooked-lamb/#wprm-recipe-51029-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/succulent-slow-cooked-lamb-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "British"
+    ],
+    "keywords": "beginner-friendly, comfort-food, dairy-free, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, red meat, simple &amp; easy, simple-and-easy, slow cooker, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "474 kcal",
+      "fatContent": "34.1 g",
+      "proteinContent": "38.9 g",
+      "carbohydrateContent": "0.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/succulent-slow-cooked-lamb/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/succulent-slow-cooked-lamb/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/succulent-slow-cooked-lamb/"
+  },
+  "sourceIndex": {
+    "id": 12882,
+    "rid": 51029,
+    "t": "Succulent Slow Cooked Lamb",
+    "u": "/succulent-slow-cooked-lamb/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/19fb66bbfe534869ef65fee5a8ecea63-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 0.3,
+    "cal": 474,
+    "pr": 38.9,
+    "fa": 34.1,
+    "tm": 500,
+    "sv": 6,
+    "kw": [
+      "beginner-friendly",
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2014-04-14",
+    "cm": 6,
+    "ex": "My family traditionally has roast lamb for Easter, which is fine with me because I love the stuff. Normally, we don't have lamb too often other than the few celebratory holiday's and occasional",
+    "pv": 411
+  },
+  "sourceHtml": "pages/succulent-slow-cooked-lamb.html",
+  "scrapedAt": "2026-11-07T08:27:45.119Z"
+}

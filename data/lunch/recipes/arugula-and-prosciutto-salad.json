@@ -1,0 +1,320 @@
+{
+  "id": "ruled-40279",
+  "slug": "arugula-and-prosciutto-salad",
+  "title": "Arugula and Prosciutto Salad",
+  "url": "https://www.ruled.me/arugula-and-prosciutto-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Arugula and Prosciutto Salad. The serving comes out to be 411 calories, 35.3g fats, 5.5g net carbs, and 17.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "411 kcal",
+    "fatContent": "35.3 g",
+    "proteinContent": "17.3 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 411,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 17.3,
+    "fatGrams": 35.3
+  },
+  "ingredients": [
+    "2 cup arugula",
+    "3 slice prosciutto",
+    "1/4 cup onion (chopped)",
+    "1/4 cup mushrooms (chopped)",
+    "2 tablespoon olive oil",
+    "1/8 cup blue cheese (crumbled (15 g))",
+    "2 tablespoon low-carb maple syrup"
+  ],
+  "instructions": [
+    {
+      "text": "n a skillet over medium heat, preheat half of the olive oil. Lay the prosciutto slices in the pan and cook until nice and crispy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-01.jpg"
+    },
+    {
+      "text": "Drop in your mushrooms and onions, sautéing for 3-5 minutes or until the mushrooms have browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-02.jpg"
+    },
+    {
+      "text": "In a smaller bowl or measuring cup, stir together the remaining olive oil and sugar-free maple syrup.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-04.jpg"
+    },
+    {
+      "text": "Place the arugula into a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-05.jpg"
+    },
+    {
+      "text": "Top your arugula with the prosciutto, mushrooms, onions, and blue cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-06.jpg"
+    },
+    {
+      "text": "Pour on the maple dressing then toss the salad to serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/af397b8e7a27cd6a5fcdbba9.jpg",
+      "archived": true,
+      "originalPath": "images/af397b8e7a27cd6a5fcdbba9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-featured.jpg",
+      "path": "images/a1274dd9aee17549cf7f2516.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/199691107fff0a8a20167c5f.avif",
+      "archived": true,
+      "originalPath": "images/199691107fff0a8a20167c5f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/15b7334a4ac8b501f68f7ce1.jpg",
+      "archived": true,
+      "originalPath": "images/15b7334a4ac8b501f68f7ce1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/bcff5005027ba3b2adec882e.jpg",
+      "archived": true,
+      "originalPath": "images/bcff5005027ba3b2adec882e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-05.jpg",
+      "path": "../../nenaudojama/lunch/images/ab3a2b9d64e0bc24d78a5a8c.jpg",
+      "archived": true,
+      "originalPath": "images/ab3a2b9d64e0bc24d78a5a8c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-06.jpg",
+      "path": "../../nenaudojama/lunch/images/d64e78773aa057a3dd1b5c88.jpg",
+      "archived": true,
+      "originalPath": "images/d64e78773aa057a3dd1b5c88.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/758b27fa4a2ef187c6462a2b.avif",
+      "archived": true,
+      "originalPath": "images/758b27fa4a2ef187c6462a2b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/22906cb825a18c5daa31b2f9.jpg",
+      "archived": true,
+      "originalPath": "images/22906cb825a18c5daa31b2f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/87d611dec4c40c6a69b2e639.avif",
+      "archived": true,
+      "originalPath": "images/87d611dec4c40c6a69b2e639.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a44c606043078d230cdad0ca.avif",
+      "archived": true,
+      "originalPath": "images/a44c606043078d230cdad0ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/68a37add3d045171eea449c3.avif",
+      "archived": true,
+      "originalPath": "images/68a37add3d045171eea449c3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a7be2baafcef331525f64606.avif",
+      "archived": true,
+      "originalPath": "images/a7be2baafcef331525f64606.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/02f02b3b6c7e17ce50c76cac.avif",
+      "archived": true,
+      "originalPath": "images/02f02b3b6c7e17ce50c76cac.avif"
+    }
+  ],
+  "featuredImage": "images/a1274dd9aee17549cf7f2516.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Arugula and Prosciutto Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Arugula and Prosciutto Salad. The serving comes out to be 411 calories, 35.3g fats, 5.5g net carbs, and 17.3g protein.",
+    "datePublished": "2019-04-25T09:00:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "2 cup arugula",
+      "3 slice prosciutto",
+      "1/4 cup onion (chopped)",
+      "1/4 cup mushrooms (chopped)",
+      "2 tablespoon olive oil",
+      "1/8 cup blue cheese (crumbled (15 g))",
+      "2 tablespoon low-carb maple syrup"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "n a skillet over medium heat, preheat half of the olive oil. Lay the prosciutto slices in the pan and cook until nice and crispy.",
+        "name": "n a skillet over medium heat, preheat half of the olive oil. Lay the prosciutto slices in the pan and cook until nice and crispy.",
+        "url": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drop in your mushrooms and onions, sautéing for 3-5 minutes or until the mushrooms have browned.",
+        "name": "Drop in your mushrooms and onions, sautéing for 3-5 minutes or until the mushrooms have browned.",
+        "url": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a smaller bowl or measuring cup, stir together the remaining olive oil and sugar-free maple syrup.",
+        "name": "In a smaller bowl or measuring cup, stir together the remaining olive oil and sugar-free maple syrup.",
+        "url": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the arugula into a bowl.",
+        "name": "Place the arugula into a bowl.",
+        "url": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top your arugula with the prosciutto, mushrooms, onions, and blue cheese.",
+        "name": "Top your arugula with the prosciutto, mushrooms, onions, and blue cheese.",
+        "url": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour on the maple dressing then toss the salad to serve.",
+        "name": "Pour on the maple dressing then toss the salad to serve.",
+        "url": "https://www.ruled.me/arugula-and-prosciutto-salad/#wprm-recipe-52978-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, pork, quick, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 kcal",
+      "fatContent": "35.3 g",
+      "proteinContent": "17.3 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/arugula-and-prosciutto-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/arugula-and-prosciutto-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/arugula-and-prosciutto-salad/"
+  },
+  "sourceIndex": {
+    "id": 40279,
+    "rid": 52978,
+    "t": "Arugula and Prosciutto Salad",
+    "u": "/arugula-and-prosciutto-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/04/arugula-and-prosciutto-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.5,
+    "cal": 411,
+    "pr": 17.3,
+    "fa": 35.3,
+    "tm": 30,
+    "sv": 1,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2019-04-25",
+    "cm": 0,
+    "ex": "I am loving prosciutto right now! So, I decided to crisp some up for a delicious single-serving salad. I paired it with a maple syrup dressing and sprinkled on some crumbly blue cheese. Digging into",
+    "pv": 63
+  },
+  "sourceHtml": "pages/arugula-and-prosciutto-salad.html",
+  "scrapedAt": "2026-11-07T08:16:30.646Z"
+}

@@ -1,0 +1,246 @@
+{
+  "id": "ruled-3947",
+  "slug": "tangy-low-carb-tartar-sauce",
+  "title": "Tangy Low Carb Tartar Sauce",
+  "url": "https://www.ruled.me/tangy-low-carb-tartar-sauce/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Tangy Low Carb Tartar Sauce. Each serving comes out to be 94 calories, 10.3g fats, 0.2g net carbs, and 0.2g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "fatContent": "10.3 g",
+    "proteinContent": "0.2 g",
+    "carbohydrateContent": "0.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 94,
+    "netCarbsGrams": 0.2,
+    "proteinGrams": 0.2,
+    "fatGrams": 10.3
+  },
+  "ingredients": [
+    "1/2 cup mayonnaise",
+    "1 teaspoon green onion (diced)",
+    "1 tablespoon unsweetened dill pickle relish",
+    "1/2 teaspoon dried dill",
+    "1 teaspoon lemon juice"
+  ],
+  "instructions": [
+    {
+      "text": "Add the mayonnaise to a mixing bowl. Dice onion and the pickles then add that as well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#wprm-recipe-50553-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-03.jpg"
+    },
+    {
+      "text": "Add dill weed, then add lemon juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#wprm-recipe-50553-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-04.jpg"
+    },
+    {
+      "text": "Stir it all up! It's really that easy! I especially enjoy this with my salmon patties.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#wprm-recipe-50553-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/bf428ff1a681f7d801e50bb2.avif",
+      "archived": true,
+      "originalPath": "images/bf428ff1a681f7d801e50bb2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/d3ef5369387c143a0d674517.jpg",
+      "archived": true,
+      "originalPath": "images/d3ef5369387c143a0d674517.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-03.jpg",
+      "path": "../../nenaudojama/condiments/images/5f9ea55d2d40a6b99a345db4.jpg",
+      "archived": true,
+      "originalPath": "images/5f9ea55d2d40a6b99a345db4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-04.jpg",
+      "path": "../../nenaudojama/condiments/images/10d4c22a707023d3d16f05d9.avif",
+      "archived": true,
+      "originalPath": "images/10d4c22a707023d3d16f05d9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-01.jpg",
+      "path": "../../nenaudojama/condiments/images/2e39412da0bc4db458888dfb.avif",
+      "archived": true,
+      "originalPath": "images/2e39412da0bc4db458888dfb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-pin.jpg",
+      "path": "../../nenaudojama/condiments/images/775a5bf79bfa28f048333cab.avif",
+      "archived": true,
+      "originalPath": "images/775a5bf79bfa28f048333cab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-03-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/622930465c86f2f392d11cc2.jpg",
+      "archived": true,
+      "originalPath": "images/622930465c86f2f392d11cc2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-04-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d233fdf8db3eda89a113b351.jpg",
+      "archived": true,
+      "originalPath": "images/d233fdf8db3eda89a113b351.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/d3ef5369387c143a0d674517.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Tangy Low Carb Tartar Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Tangy Low Carb Tartar Sauce. Each serving comes out to be 94 calories, 10.3g fats, 0.2g net carbs, and 0.2g protein.",
+    "datePublished": "2013-12-10T22:07:10+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 cup mayonnaise",
+      "1 teaspoon green onion (diced)",
+      "1 tablespoon unsweetened dill pickle relish",
+      "1/2 teaspoon dried dill",
+      "1 teaspoon lemon juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the mayonnaise to a mixing bowl. Dice onion and the pickles then add that as well.",
+        "name": "Add the mayonnaise to a mixing bowl. Dice onion and the pickles then add that as well.",
+        "url": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#wprm-recipe-50553-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add dill weed, then add lemon juice.",
+        "name": "Add dill weed, then add lemon juice.",
+        "url": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#wprm-recipe-50553-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir it all up! It's really that easy! I especially enjoy this with my salmon patties.",
+        "name": "Stir it all up! It's really that easy! I especially enjoy this with my salmon patties.",
+        "url": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#wprm-recipe-50553-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "94 kcal",
+      "fatContent": "10.3 g",
+      "proteinContent": "0.2 g",
+      "carbohydrateContent": "0.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/tangy-low-carb-tartar-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/tangy-low-carb-tartar-sauce/"
+  },
+  "sourceIndex": {
+    "id": 3947,
+    "rid": 50553,
+    "t": "Tangy Low Carb Tartar Sauce",
+    "u": "/tangy-low-carb-tartar-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/keto-low-carb-tartar-sauce-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.2,
+    "cal": 94,
+    "pr": 0.2,
+    "fa": 10.3,
+    "tm": 5,
+    "sv": 8,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2013-12-10",
+    "cm": 5,
+    "ex": "Who doesn't love a good tartar sauce to go on their favorite fish? I used to be intimidated by making sauces from scratch, until I realized how easy they are to make. One of the things I like about",
+    "pv": 310
+  },
+  "sourceHtml": "pages/tangy-low-carb-tartar-sauce.html",
+  "scrapedAt": "2026-11-07T08:33:42.285Z"
+}

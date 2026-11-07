@@ -1,0 +1,273 @@
+{
+  "id": "ruled-41232",
+  "slug": "classic-bacon-and-eggs",
+  "title": "Classic Bacon and Eggs",
+  "url": "https://www.ruled.me/classic-bacon-and-eggs/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Classic Bacon and Eggs. Each serving comes out to be 319 calories, 24.7g fats, 3.2g net carbs, and 19g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "319 kcal",
+    "fatContent": "24.7 g",
+    "proteinContent": "19 g",
+    "carbohydrateContent": "3.2 g"
+  },
+  "nutritionPerServing": {
+    "calories": 319,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 19,
+    "fatGrams": 24.7
+  },
+  "ingredients": [
+    "8 large egg",
+    "5 ounce bacon (sliced)",
+    "16 whole cherry tomatoes",
+    "1/4 cup fresh parsley (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Fry the bacon slices over medium-high heat until they’re crispy. Set the bacon aside but leave the bacon fat in the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-02.jpg"
+    },
+    {
+      "text": "Crack the eggs open into the hot bacon grease. Cook them however you like.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-03.jpg"
+    },
+    {
+      "text": "Season the eggs with salt and pepper, then plate with the bacon. Add the cherry tomatoes to the hot skillet and roast for a few minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-04.jpg"
+    },
+    {
+      "text": "Serve the tomatoes with the bacon and eggs, then garnish with the parsley.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "few-ingredients",
+    "stovetop",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-pin-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/116688384d6fd8216682df6d.jpg",
+      "archived": true,
+      "originalPath": "images/116688384d6fd8216682df6d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-pin.jpg",
+      "path": "images/839f3e42dcddb4bc5d077586.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/b292c65bf91b3b24900ece79.avif",
+      "archived": true,
+      "originalPath": "images/b292c65bf91b3b24900ece79.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/74a0d49b887087fe5eec327d.jpg",
+      "archived": true,
+      "originalPath": "images/74a0d49b887087fe5eec327d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/cdf6ae40f04d2a77c0e37c26.avif",
+      "archived": true,
+      "originalPath": "images/cdf6ae40f04d2a77c0e37c26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/70c11b7d224f5a9afe8d7d96.jpg",
+      "archived": true,
+      "originalPath": "images/70c11b7d224f5a9afe8d7d96.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-pin2.jpg",
+      "path": "../../nenaudojama/breakfast/images/21dccf75b493378c53bbfb28.jpg",
+      "archived": true,
+      "originalPath": "images/21dccf75b493378c53bbfb28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-pin-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/4830cb595ae5f9c95e97bd75.avif",
+      "archived": true,
+      "originalPath": "images/4830cb595ae5f9c95e97bd75.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3950859f7c46bf0f3a4d0418.avif",
+      "archived": true,
+      "originalPath": "images/3950859f7c46bf0f3a4d0418.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0abd76a4d4fe1a25e5f14a33.jpg",
+      "archived": true,
+      "originalPath": "images/0abd76a4d4fe1a25e5f14a33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-04-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e2d7a81adbcfa2cc3eb8b13e.avif",
+      "archived": true,
+      "originalPath": "images/e2d7a81adbcfa2cc3eb8b13e.avif"
+    }
+  ],
+  "featuredImage": "images/839f3e42dcddb4bc5d077586.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Classic Bacon and Eggs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Classic Bacon and Eggs. Each serving comes out to be 319 calories, 24.7g fats, 3.2g net carbs, and 19g protein.",
+    "datePublished": "2019-09-10T09:00:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-pin.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "8 large egg",
+      "5 ounce bacon (sliced)",
+      "16 whole cherry tomatoes",
+      "1/4 cup fresh parsley (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Fry the bacon slices over medium-high heat until they’re crispy. Set the bacon aside but leave the bacon fat in the pan.",
+        "name": "Fry the bacon slices over medium-high heat until they’re crispy. Set the bacon aside but leave the bacon fat in the pan.",
+        "url": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs open into the hot bacon grease. Cook them however you like.",
+        "name": "Crack the eggs open into the hot bacon grease. Cook them however you like.",
+        "url": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the eggs with salt and pepper, then plate with the bacon.  Add the cherry tomatoes to the hot skillet and roast for a few minutes.",
+        "name": "Season the eggs with salt and pepper, then plate with the bacon.  Add the cherry tomatoes to the hot skillet and roast for a few minutes.",
+        "url": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the tomatoes with the bacon and eggs, then garnish with the parsley.",
+        "name": "Serve the tomatoes with the bacon and eggs, then garnish with the parsley.",
+        "url": "https://www.ruled.me/classic-bacon-and-eggs/#wprm-recipe-53131-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, budget-friendly, dairy-free, eggs, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "319 kcal",
+      "fatContent": "24.7 g",
+      "proteinContent": "19 g",
+      "carbohydrateContent": "3.2 g"
+    },
+    "@id": "https://www.ruled.me/classic-bacon-and-eggs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/classic-bacon-and-eggs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/classic-bacon-and-eggs/"
+  },
+  "sourceIndex": {
+    "id": 41232,
+    "rid": 53131,
+    "t": "Classic Bacon and Eggs",
+    "u": "/classic-bacon-and-eggs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-pin-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.2,
+    "cal": 319,
+    "pr": 19,
+    "fa": 24.7,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 4,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "few-ingredients",
+      "stovetop",
+      "eggs"
+    ],
+    "d": "2019-09-10",
+    "cm": 0,
+    "ex": "Here’s our method for making the most classic keto breakfast around – bacon and eggs! We love frying up the bacon first, then using the fat to cook up the eggs. Served with fresh parsley and cherry",
+    "pv": 90
+  },
+  "sourceHtml": "pages/classic-bacon-and-eggs.html",
+  "scrapedAt": "2026-11-07T08:11:12.573Z"
+}

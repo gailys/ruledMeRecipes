@@ -1,0 +1,420 @@
+{
+  "id": "ruled-49031",
+  "slug": "keto-fajitas",
+  "title": "Keto Fajitas",
+  "url": "https://www.ruled.me/keto-fajitas/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Fajitas. Each serving comes out to be 281 calories, 17.3g fats, 4.1g net carbs, and 27.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT240M",
+  "totalTime": "PT245M",
+  "totalMinutes": 245,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "fatContent": "17.3 g",
+    "proteinContent": "27.9 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 281,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 27.9,
+    "fatGrams": 17.3
+  },
+  "ingredients": [
+    "32 ounce boneless, skinless chicken thighs",
+    "2 tablespoon lime juice",
+    "1 tablespoon fresh garlic (minced)",
+    "10 ounce canned tomatoes with jalapeno",
+    "1 medium green bell pepper",
+    "1 medium red bell pepper",
+    "1/2 medium red onion",
+    "2 tablespoon sour cream",
+    "1 ounce mexican-style cheese blend",
+    "1/4 medium avocado (sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-1.jpg"
+    },
+    {
+      "text": "Slice the peppers and the red onion.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-2-2.jpg"
+    },
+    {
+      "text": "In a slow cooker, add half of the vegetables then add in the chicken thighs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-3.jpg"
+    },
+    {
+      "text": "Top with the canned tomatoes with jalapenos.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-4.jpg"
+    },
+    {
+      "text": "Add in the rest of the vegetables. Cook on high for 3 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-5.jpg"
+    },
+    {
+      "text": "Shred the chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-6.jpg"
+    },
+    {
+      "text": "Cook in the slow cooker for another hour on low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-7.jpg"
+    },
+    {
+      "text": "When done, serve in bowls. Garnish with sour cream, Mexican-style shredded cheese, and avocado slices. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/38904648d88916106139bb26.avif",
+      "archived": true,
+      "originalPath": "images/38904648d88916106139bb26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-Featured.jpg",
+      "path": "images/b29c6e039d1ce9579aa43b9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-1.jpg",
+      "path": "../../nenaudojama/dinner/images/94637b4d8e1e11bc7a87d2a5.jpg",
+      "archived": true,
+      "originalPath": "images/94637b4d8e1e11bc7a87d2a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-2-2.jpg",
+      "path": "../../nenaudojama/dinner/images/73d6f32d7fa4ff839c8547f3.jpg",
+      "archived": true,
+      "originalPath": "images/73d6f32d7fa4ff839c8547f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-3.jpg",
+      "path": "../../nenaudojama/dinner/images/25c7af40b58fcc0fc8aaa138.jpg",
+      "archived": true,
+      "originalPath": "images/25c7af40b58fcc0fc8aaa138.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-4.jpg",
+      "path": "../../nenaudojama/dinner/images/91f577c03bd4faa0b0a11e63.jpg",
+      "archived": true,
+      "originalPath": "images/91f577c03bd4faa0b0a11e63.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-5.jpg",
+      "path": "../../nenaudojama/dinner/images/4a39e31441b41c7148e6ca23.jpg",
+      "archived": true,
+      "originalPath": "images/4a39e31441b41c7148e6ca23.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-6.jpg",
+      "path": "../../nenaudojama/dinner/images/ed613dd5fe3fcb7bcb52564d.jpg",
+      "archived": true,
+      "originalPath": "images/ed613dd5fe3fcb7bcb52564d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-7.jpg",
+      "path": "../../nenaudojama/dinner/images/e8a9a31fc9f10f19c8be8a67.jpg",
+      "archived": true,
+      "originalPath": "images/e8a9a31fc9f10f19c8be8a67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-second.jpg",
+      "path": "../../nenaudojama/dinner/images/2af3d4d9cfadfbc92b3ef7ed.jpg",
+      "archived": true,
+      "originalPath": "images/2af3d4d9cfadfbc92b3ef7ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-long.jpg",
+      "path": "../../nenaudojama/dinner/images/86766896b122fbc9ee7e40d7.jpg",
+      "archived": true,
+      "originalPath": "images/86766896b122fbc9ee7e40d7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/fc2ad4e721eda0eb02f8fbd6.jpg",
+      "archived": true,
+      "originalPath": "images/fc2ad4e721eda0eb02f8fbd6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dd4a043068d36eff53ab8f80.jpg",
+      "archived": true,
+      "originalPath": "images/dd4a043068d36eff53ab8f80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-2-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/36ee15c4f0584263a3d641fe.jpg",
+      "archived": true,
+      "originalPath": "images/36ee15c4f0584263a3d641fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2d3957888219912a503b9c25.jpg",
+      "archived": true,
+      "originalPath": "images/2d3957888219912a503b9c25.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c5550bd495cd9a2d1866ad47.jpg",
+      "archived": true,
+      "originalPath": "images/c5550bd495cd9a2d1866ad47.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6501adfa04b31ae00252d08c.jpg",
+      "archived": true,
+      "originalPath": "images/6501adfa04b31ae00252d08c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d96a8a70059653d6da66d890.jpg",
+      "archived": true,
+      "originalPath": "images/d96a8a70059653d6da66d890.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7a4bcf76b406f90ec857b168.jpg",
+      "archived": true,
+      "originalPath": "images/7a4bcf76b406f90ec857b168.jpg"
+    }
+  ],
+  "featuredImage": "images/b29c6e039d1ce9579aa43b9d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Fajitas",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 6 servings of Keto Fajitas. Each serving comes out to be 281 calories, 17.3g fats, 4.1g net carbs, and 27.9g protein.",
+    "datePublished": "2023-06-27T09:00:23+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Fajita Bowl [Easy Slow-Cooker Recipe]",
+      "description": "Chicken Fajitas are some of the easiest things to make in the slow cooker. It’s a delicious way to use up your leftovers. The chicken is juicy, tender, and full of flavor from all the marinade.\n\nThis is a great recipe if you like to eat chicken thighs in your meals because it is remarkably easy to shred and very tender. However, you can also substitute it with chicken breast if you prefer a firmer meat.\n\nFajitas are a family favorite, and this recipe is the perfect blend of spices, flavors, and textures to make this meal stand out. There is nothing complicated about it, and you can use up a few extra ingredients you have in the back of your fridge to make this dish. You can also keep it simple with peppers, onions, and jalapenos for a bit more spice.\n\nChicken is one of the best protein options for those on a keto diet. Its mild flavor profile allows it to take on all the spices and herbs used, and chicken is rich in a wide range of essential nutrients, including protein, selenium, and niacin.\n\nDon’t underestimate the convenience of a slow cooker meal! You can throw all the ingredients into your cooker before heading off to work and when you come back you’ll have a meal worth savoring. If you’re looking for a simple yet tasty weeknight meal, look no further.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nChicken:\n32 ounce boneless, skinless chicken thighs\n2 tablespoon lime juice\n1 tablespoon fresh garlic, minced\n10 ounce canned tomatoes with jalapeno\n1 medium green bell pepper\n1 medium red bell pepper\n1/2 medium red onion\n\nGarnish:\n2 tablesoon sour cream\n1 ounce mexican-style cheese blend\n1/4 medium avocado\n\nNutrition Summary: This makes a total of 6 servings of Keto Fajitas. Each serving comes out to be 281 calories, 17g fat, 4.1g net carbs, and 27.9g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-07-30T15:00:13+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 13801
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 304
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 14
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BiBDkoTC9A8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/BiBDkoTC9A8?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=BiBDkoTC9A8",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT240M",
+    "totalTime": "PT245M",
+    "recipeIngredient": [
+      "32 ounce boneless, skinless chicken thighs",
+      "2 tablespoon lime juice",
+      "1 tablespoon fresh garlic (minced)",
+      "10 ounce canned tomatoes with jalapeno",
+      "1 medium green bell pepper",
+      "1 medium red bell pepper",
+      "1/2 medium red onion",
+      "2 tablespoon sour cream",
+      "1 ounce mexican-style cheese blend",
+      "1/4 medium avocado (sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the peppers and the red onion.",
+        "name": "Slice the peppers and the red onion.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-2-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a slow cooker, add half of the vegetables then add in the chicken thighs.",
+        "name": "In a slow cooker, add half of the vegetables then add in the chicken thighs.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the canned tomatoes with jalapenos.",
+        "name": "Top with the canned tomatoes with jalapenos.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the rest of the vegetables. Cook on high for 3 hours.",
+        "name": "Add in the rest of the vegetables. Cook on high for 3 hours.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the chicken.",
+        "name": "Shred the chicken.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook in the slow cooker for another hour on low.",
+        "name": "Cook in the slow cooker for another hour on low.",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When done, serve in bowls. Garnish with sour cream, Mexican-style shredded cheese, and avocado slices. Enjoy!",
+        "name": "When done, serve in bowls. Garnish with sour cream, Mexican-style shredded cheese, and avocado slices. Enjoy!",
+        "url": "https://www.ruled.me/keto-fajitas/#wprm-recipe-54645-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "egg-free, family-friendly, gluten-free, high-protein, keto, low-carb, nut-free, poultry, simple &amp; easy, simple-and-easy, slow cooker, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "281 kcal",
+      "fatContent": "17.3 g",
+      "proteinContent": "27.9 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-fajitas/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-fajitas/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-fajitas/"
+  },
+  "sourceIndex": {
+    "id": 49031,
+    "rid": 54645,
+    "t": "Keto Fajitas",
+    "u": "/keto-fajitas/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Fajitas-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.1,
+    "cal": 281,
+    "pr": 27.9,
+    "fa": 17.3,
+    "tm": 245,
+    "sv": 6,
+    "kw": [
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2023-06-27",
+    "cm": 0,
+    "ex": "Chicken Fajitas are some of the easiest things to make in the slow cooker. It's a delicious way to use up your leftovers. The chicken is juicy, tender, and full of flavor from all the marinade. This",
+    "pv": 123
+  },
+  "sourceHtml": "pages/keto-fajitas.html",
+  "scrapedAt": "2026-11-07T08:27:43.678Z"
+}

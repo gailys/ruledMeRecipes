@@ -1,0 +1,319 @@
+{
+  "id": "ruled-33210",
+  "slug": "cheesy-hearts-palm-dip",
+  "title": "Cheesy Hearts of Palm Dip",
+  "url": "https://www.ruled.me/cheesy-hearts-palm-dip/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 9 servings of Cheesy Hearts of Palm Dip. Each serving comes out to be 107 calories, 8.3g fats, 1.8g net carbs, and 5.5g protein.",
+  "servings": 9,
+  "yield": [
+    "9",
+    "9 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "fatContent": "8.3 g",
+    "proteinContent": "5.5 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 107,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 5.5,
+    "fatGrams": 8.3
+  },
+  "ingredients": [
+    "3 medium green onion",
+    "14 ounce can hearts of palm",
+    "2 tablespoon italian seasoning",
+    "1/2 cup parmesan cheese",
+    "1/4 cup mayonnaise",
+    "1 large egg",
+    "1 large egg yolk",
+    "1/4 cup parmesan cheese"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. Heat oven to 350F and prepare a small baking dish with nonstick spray.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-00.jpg"
+    },
+    {
+      "text": "Chop the bulbs of your green onion and drain your hearts of palm. It is not necessary to cut the palm before adding it to your food processor but it can help if you have an older or less powerful model.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-01.jpg"
+    },
+    {
+      "text": "Combine hearts of palm, onion, seasoning, Parmesan cheese, and mayo in the food processor. Pulse until the mixture is chopped well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-02.jpg"
+    },
+    {
+      "text": "Add the egg and additional egg yolk to the processor. Pulse three to four times to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-03.jpg"
+    },
+    {
+      "text": "Pour the dip into the prepared baking dish and cook for 15 – 20 minutes or until the mixture begins to puff up slightly. Stir and top with more Parmesan cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-04.jpg"
+    },
+    {
+      "text": "Broil until the topping is melted and begins to brown. Serve hot with veggies or keto crackers!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/4d0fee212da506f95ac97078.avif",
+      "archived": true,
+      "originalPath": "images/4d0fee212da506f95ac97078.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-featured.jpg",
+      "path": "../../nenaudojama/snacks/images/cc00ad31d94dadd357c5d1c8.avif",
+      "archived": true,
+      "originalPath": "images/cc00ad31d94dadd357c5d1c8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-00.jpg",
+      "path": "../../nenaudojama/snacks/images/33408eabfca811b9f18385e9.jpg",
+      "archived": true,
+      "originalPath": "images/33408eabfca811b9f18385e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-01.jpg",
+      "path": "../../nenaudojama/snacks/images/47708f832ff164363cbb44e9.jpg",
+      "archived": true,
+      "originalPath": "images/47708f832ff164363cbb44e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-02.jpg",
+      "path": "../../nenaudojama/snacks/images/382242cc23331daf875604c2.jpg",
+      "archived": true,
+      "originalPath": "images/382242cc23331daf875604c2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-03.jpg",
+      "path": "../../nenaudojama/snacks/images/4128b214efbeabcdad647af3.jpg",
+      "archived": true,
+      "originalPath": "images/4128b214efbeabcdad647af3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-04.jpg",
+      "path": "../../nenaudojama/snacks/images/0df037b3bea7b9f8c040110f.jpg",
+      "archived": true,
+      "originalPath": "images/0df037b3bea7b9f8c040110f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-second.jpg",
+      "path": "../../nenaudojama/snacks/images/96c6ecfffc774cf6655d10a1.jpg",
+      "archived": true,
+      "originalPath": "images/96c6ecfffc774cf6655d10a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/0bc1c0a005645318102ebddd.avif",
+      "archived": true,
+      "originalPath": "images/0bc1c0a005645318102ebddd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-00-300x350.jpg",
+      "path": "../../nenaudojama/snacks/images/0f48ee4be7ec6d0853272afe.avif",
+      "archived": true,
+      "originalPath": "images/0f48ee4be7ec6d0853272afe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-01-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/fdb7bceb78d8db5c9d6479d4.avif",
+      "archived": true,
+      "originalPath": "images/fdb7bceb78d8db5c9d6479d4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/52c03f5cb5d6388a8dffc6d4.avif",
+      "archived": true,
+      "originalPath": "images/52c03f5cb5d6388a8dffc6d4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-03-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/26df69168161096b72923ed5.avif",
+      "archived": true,
+      "originalPath": "images/26df69168161096b72923ed5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-04-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/33daad63ddedbb75d77c0318.avif",
+      "archived": true,
+      "originalPath": "images/33daad63ddedbb75d77c0318.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/cc00ad31d94dadd357c5d1c8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheesy Hearts of Palm Dip",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 9 servings of Cheesy Hearts of Palm Dip. Each serving comes out to be 107 calories, 8.3g fats, 1.8g net carbs, and 5.5g protein.",
+    "datePublished": "2017-10-31T11:00:15+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-featured.jpg"
+    ],
+    "recipeYield": [
+      "9",
+      "9 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "3 medium green onion",
+      "14 ounce can hearts of palm",
+      "2 tablespoon italian seasoning",
+      "1/2 cup parmesan cheese",
+      "1/4 cup mayonnaise",
+      "1 large egg",
+      "1 large egg yolk",
+      "1/4 cup parmesan cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. Heat oven to 350F and prepare a small baking dish with nonstick spray.",
+        "name": "Gather all ingredients. Heat oven to 350F and prepare a small baking dish with nonstick spray.",
+        "url": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-00.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the bulbs of your green onion and drain your hearts of palm. It is not necessary to cut the palm before adding it to your food processor but it can help if you have an older or less powerful model.",
+        "name": "Chop the bulbs of your green onion and drain your hearts of palm. It is not necessary to cut the palm before adding it to your food processor but it can help if you have an older or less powerful model.",
+        "url": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine hearts of palm, onion, seasoning, Parmesan cheese, and mayo in the food processor. Pulse until the mixture is chopped well.",
+        "name": "Combine hearts of palm, onion, seasoning, Parmesan cheese, and mayo in the food processor. Pulse until the mixture is chopped well.",
+        "url": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the egg and additional egg yolk to the processor. Pulse three to four times to combine.",
+        "name": "Add the egg and additional egg yolk to the processor. Pulse three to four times to combine.",
+        "url": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the dip into the prepared baking dish and cook for 15 – 20 minutes or until the mixture begins to puff up slightly. Stir and top with more Parmesan cheese.",
+        "name": "Pour the dip into the prepared baking dish and cook for 15 – 20 minutes or until the mixture begins to puff up slightly. Stir and top with more Parmesan cheese.",
+        "url": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Broil until the topping is melted and begins to brown. Serve hot with veggies or keto crackers!",
+        "name": "Broil until the topping is melted and begins to brown. Serve hot with veggies or keto crackers!",
+        "url": "https://www.ruled.me/cheesy-hearts-palm-dip/#wprm-recipe-52349-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, gluten-free, keto, low-carb, nut-free, oven-baked, party-food, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "107 kcal",
+      "fatContent": "8.3 g",
+      "proteinContent": "5.5 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheesy-hearts-palm-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheesy-hearts-palm-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheesy-hearts-palm-dip/"
+  },
+  "sourceIndex": {
+    "id": 33210,
+    "rid": 52349,
+    "t": "Cheesy Hearts of Palm Dip",
+    "u": "/cheesy-hearts-palm-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/09/hearts-of-palm-dip-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 1.8,
+    "cal": 107,
+    "pr": 5.5,
+    "fa": 8.3,
+    "tm": 30,
+    "sv": 9,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked"
+    ],
+    "d": "2017-10-31",
+    "cm": 0,
+    "ex": "If you are sick of missing out on hot, cheesy, dips because you are dairy sensitive then this recipe is for you! If you are toying with the idea of doing less meat or are already a strict vegetarian",
+    "pv": 193
+  },
+  "sourceHtml": "pages/cheesy-hearts-palm-dip.html",
+  "scrapedAt": "2026-11-07T08:31:11.598Z"
+}

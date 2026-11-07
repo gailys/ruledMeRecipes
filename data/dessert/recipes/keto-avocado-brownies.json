@@ -1,0 +1,315 @@
+{
+  "id": "ruled-43381",
+  "slug": "keto-avocado-brownies",
+  "title": "Keto Avocado Brownies",
+  "url": "https://www.ruled.me/keto-avocado-brownies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Avocado Brownies. Each serving comes out to be 174 calories, 15.2g fats, 2.6g net carbs, and 4.5g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "174 kcal",
+    "fatContent": "15.2 g",
+    "proteinContent": "4.5 g",
+    "carbohydrateContent": "2.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 174,
+    "netCarbsGrams": 2.6,
+    "proteinGrams": 4.5,
+    "fatGrams": 15.2
+  },
+  "ingredients": [
+    "2 large egg",
+    "1 medium avocado",
+    "4 tablespoon butter (melted)",
+    "4 tablespoon almond butter",
+    "1/2 teaspoon baking soda",
+    "1/4 teaspoon salt",
+    "1/2 cup stevia/erythritol blend",
+    "1/3 cup cocoa powder",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat oven to 350F. Prepare ingredients as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-1.jpg"
+    },
+    {
+      "text": "Line a loaf pan with parchment paper and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-3.jpg"
+    },
+    {
+      "text": "In a food processor, combine all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-7.jpg"
+    },
+    {
+      "text": "Pulse together until smooth, for about 30-45 seconds in total. Try not to overmix as the final product will become cakey if you do.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-8.jpg"
+    },
+    {
+      "text": "Transfer the batter to the loaf pan and bake for 25 minutes or until the edges begin to separate from the side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-10.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool for 10-15 minutes. Slice into squares and store leftovers in an airtight container in the fridge for up to a week.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/f54dd640b78eb633ee4ae5ba.jpg",
+      "archived": true,
+      "originalPath": "images/f54dd640b78eb633ee4ae5ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Featured.jpg",
+      "path": "images/9f62f9be2d43c61244592801.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-1.jpg",
+      "path": "../../nenaudojama/dessert/images/8b63c4cd041bfec09da5c0a3.avif",
+      "archived": true,
+      "originalPath": "images/8b63c4cd041bfec09da5c0a3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-3.jpg",
+      "path": "../../nenaudojama/dessert/images/275ca83ec7eb40ad1e5e3737.avif",
+      "archived": true,
+      "originalPath": "images/275ca83ec7eb40ad1e5e3737.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-7.jpg",
+      "path": "../../nenaudojama/dessert/images/46b5aec12cb651982c895d57.jpg",
+      "archived": true,
+      "originalPath": "images/46b5aec12cb651982c895d57.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-8.jpg",
+      "path": "../../nenaudojama/dessert/images/45006df857a122b26f075bd9.jpg",
+      "archived": true,
+      "originalPath": "images/45006df857a122b26f075bd9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-10.jpg",
+      "path": "../../nenaudojama/dessert/images/67da27a1055823ce5e2a5f8e.jpg",
+      "archived": true,
+      "originalPath": "images/67da27a1055823ce5e2a5f8e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Second.jpg",
+      "path": "../../nenaudojama/dessert/images/33761306510b6c71106c432c.avif",
+      "archived": true,
+      "originalPath": "images/33761306510b6c71106c432c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Long.jpg",
+      "path": "../../nenaudojama/dessert/images/089b312e5774aea7a3033661.jpg",
+      "archived": true,
+      "originalPath": "images/089b312e5774aea7a3033661.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/e544387abb77d0dcfa16c88f.avif",
+      "archived": true,
+      "originalPath": "images/e544387abb77d0dcfa16c88f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a5232fdb1bfbf755a5cd4ff6.jpg",
+      "archived": true,
+      "originalPath": "images/a5232fdb1bfbf755a5cd4ff6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a347346f477c04bb5b500a06.avif",
+      "archived": true,
+      "originalPath": "images/a347346f477c04bb5b500a06.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-7-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/296340e95b62fb2a2a1722a4.jpg",
+      "archived": true,
+      "originalPath": "images/296340e95b62fb2a2a1722a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-8-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7c73469995911c2770760651.avif",
+      "archived": true,
+      "originalPath": "images/7c73469995911c2770760651.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-10-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/88fa5ccddeaa67909c07b75a.avif",
+      "archived": true,
+      "originalPath": "images/88fa5ccddeaa67909c07b75a.avif"
+    }
+  ],
+  "featuredImage": "images/9f62f9be2d43c61244592801.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Avocado Brownies",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Keto Avocado Brownies. Each serving comes out to be 174 calories, 15.2g fats, 2.6g net carbs, and 4.5g protein.",
+    "datePublished": "2020-06-25T08:58:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "2 large egg",
+      "1 medium avocado",
+      "4 tablespoon butter (melted)",
+      "4 tablespoon almond butter",
+      "1/2 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "1/2 cup stevia/erythritol blend",
+      "1/3 cup cocoa powder",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat oven to 350F. Prepare ingredients as needed.",
+        "name": "Pre-heat oven to 350F. Prepare ingredients as needed.",
+        "url": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a loaf pan with parchment paper and set aside.",
+        "name": "Line a loaf pan with parchment paper and set aside.",
+        "url": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, combine all of the ingredients.",
+        "name": "In a food processor, combine all of the ingredients.",
+        "url": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pulse together until smooth, for about 30-45 seconds in total. Try not to overmix as the final product will become cakey if you do.",
+        "name": "Pulse together until smooth, for about 30-45 seconds in total. Try not to overmix as the final product will become cakey if you do.",
+        "url": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the batter to the loaf pan and bake for 25 minutes or until the edges begin to separate from the side.",
+        "name": "Transfer the batter to the loaf pan and bake for 25 minutes or until the edges begin to separate from the side.",
+        "url": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Flourless-avocado-brownies-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool for 10-15 minutes. Slice into squares and store leftovers in an airtight container in the fridge for up to a week.",
+        "name": "Remove from the oven and let cool for 10-15 minutes. Slice into squares and store leftovers in an airtight container in the fridge for up to a week.",
+        "url": "https://www.ruled.me/keto-avocado-brownies/#wprm-recipe-53409-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "174 kcal",
+      "fatContent": "15.2 g",
+      "proteinContent": "4.5 g",
+      "carbohydrateContent": "2.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-avocado-brownies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-avocado-brownies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-avocado-brownies/"
+  },
+  "sourceIndex": {
+    "id": 43381,
+    "rid": 53409,
+    "t": "Keto Avocado Brownies",
+    "u": "/keto-avocado-brownies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Avocado-Brownies-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.6,
+    "cal": 174,
+    "pr": 4.5,
+    "fa": 15.2,
+    "tm": 50,
+    "sv": 8,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2020-06-25",
+    "cm": 7,
+    "ex": "Your favorite indulgence doesn’t have to be a cheat food. The perfect example of this is keto brownies. Though traditional recipes are loaded with flour and sugar, this doesn't mean these unhealthy",
+    "pv": 548
+  },
+  "sourceHtml": "pages/keto-avocado-brownies.html",
+  "scrapedAt": "2026-11-07T08:30:47.108Z"
+}

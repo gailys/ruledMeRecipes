@@ -1,0 +1,315 @@
+{
+  "id": "ruled-47022",
+  "slug": "keto-beef-tagliata",
+  "title": "Keto Beef Tagliata",
+  "url": "https://www.ruled.me/keto-beef-tagliata/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Beef Tagliata. Each serving comes out to be 571 calories, 41.6g fats, 3.6g net carbs, and 42.4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "571 kcal",
+    "fatContent": "41.6 g",
+    "proteinContent": "42.4 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 571,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 42.4,
+    "fatGrams": 41.6
+  },
+  "ingredients": [
+    "2 tablespoon olive oil",
+    "2 teaspoon fresh garlic (crushed)",
+    "600 gram sirloin steak",
+    "salt and pepper (to taste)",
+    "6 ounce spring mix",
+    "6 ounce kale (leaves trimmed + stems discarded)",
+    "1/4 cup olive oil",
+    "1 teaspoon fresh garlic (crushed)",
+    "2 tablespoon white wine vinegar",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-1.jpg"
+    },
+    {
+      "text": "In a bowl, combine the kale, olive oil, crushed garlic, white wine vinegar, salt, and pepper. Transfer to a pan of boiling water. Let this cook for about 30 seconds. Drain and transfer to ice water. Squeeze and transfer to a food processor. Pulse until it forms a paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-2.png"
+    },
+    {
+      "text": "Prepare the sirloin steaks by drizzling with olive oil, and seasoning with crushed garlic, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-3.jpg"
+    },
+    {
+      "text": "Cook the steaks in a frying pan over medium-high heat for 3 - 4 minutes per side or until cooked to your liking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-4.jpg"
+    },
+    {
+      "text": "Slice the steaks and serve with spring mix. Drizzle with the dressing. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "date-night",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "red-meat",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/cdeb2601557195698d1865c7.avif",
+      "archived": true,
+      "originalPath": "images/cdeb2601557195698d1865c7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Featured.jpg",
+      "path": "images/62e16fa6befb5b3a76d8691b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-1.jpg",
+      "path": "../../nenaudojama/dinner/images/629cc1aefbdaefbeeca639fe.jpg",
+      "archived": true,
+      "originalPath": "images/629cc1aefbdaefbeeca639fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-2.png",
+      "path": "../../nenaudojama/dinner/images/2563ce91efdc93155f81cfd1.png",
+      "archived": true,
+      "originalPath": "images/2563ce91efdc93155f81cfd1.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-3.jpg",
+      "path": "../../nenaudojama/dinner/images/ba4129291ad65906ccd8aa9d.jpg",
+      "archived": true,
+      "originalPath": "images/ba4129291ad65906ccd8aa9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-4.jpg",
+      "path": "../../nenaudojama/dinner/images/e8f00c9082eaa83a2a4495d3.jpg",
+      "archived": true,
+      "originalPath": "images/e8f00c9082eaa83a2a4495d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/7527a5d91767571495480f5c.jpg",
+      "archived": true,
+      "originalPath": "images/7527a5d91767571495480f5c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/f2f5744794dce1472bf2f81e.jpg",
+      "archived": true,
+      "originalPath": "images/f2f5744794dce1472bf2f81e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/bfd4a2f6b2a7c8c4e0a95717.jpg",
+      "archived": true,
+      "originalPath": "images/bfd4a2f6b2a7c8c4e0a95717.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/32c6a58f4df6cce47847e5d2.jpg",
+      "archived": true,
+      "originalPath": "images/32c6a58f4df6cce47847e5d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-2-525x350.png",
+      "path": "../../nenaudojama/dinner/images/ac0fdf9a7607de6fcfc6f76b.png",
+      "archived": true,
+      "originalPath": "images/ac0fdf9a7607de6fcfc6f76b.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/844800b79cd66677ba28a366.jpg",
+      "archived": true,
+      "originalPath": "images/844800b79cd66677ba28a366.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/27c99de1ea2c2f5b4204ff9c.avif",
+      "archived": true,
+      "originalPath": "images/27c99de1ea2c2f5b4204ff9c.avif"
+    }
+  ],
+  "featuredImage": "images/62e16fa6befb5b3a76d8691b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Beef Tagliata",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Beef Tagliata. Each serving comes out to be 571 calories, 41.6g fats, 3.6g net carbs, and 42.4g protein.",
+    "datePublished": "2022-04-26T09:00:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 tablespoon olive oil",
+      "2 teaspoon fresh garlic (crushed)",
+      "600 gram sirloin steak",
+      "salt and pepper (to taste)",
+      "6 ounce spring mix",
+      "6 ounce kale (leaves trimmed + stems discarded)",
+      "1/4 cup olive oil",
+      "1 teaspoon fresh garlic (crushed)",
+      "2 tablespoon white wine vinegar",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the kale, olive oil, crushed garlic, white wine vinegar, salt, and pepper. Transfer to a pan of boiling water. Let this cook for about 30 seconds. Drain and transfer to ice water. Squeeze and transfer to a food processor. Pulse until it forms a paste.",
+        "name": "In a bowl, combine the kale, olive oil, crushed garlic, white wine vinegar, salt, and pepper. Transfer to a pan of boiling water. Let this cook for about 30 seconds. Drain and transfer to ice water. Squeeze and transfer to a food processor. Pulse until it forms a paste.",
+        "url": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-2.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the sirloin steaks by drizzling with olive oil, and seasoning with crushed garlic, salt, and pepper.",
+        "name": "Prepare the sirloin steaks by drizzling with olive oil, and seasoning with crushed garlic, salt, and pepper.",
+        "url": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the steaks in a frying pan over medium-high heat for 3 - 4 minutes per side or until cooked to your liking.",
+        "name": "Cook the steaks in a frying pan over medium-high heat for 3 - 4 minutes per side or until cooked to your liking.",
+        "url": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the steaks and serve with spring mix. Drizzle with the dressing. Serve and enjoy!",
+        "name": "Slice the steaks and serve with spring mix. Drizzle with the dressing. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-beef-tagliata/#wprm-recipe-54175-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, dairy-free, date-night, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, quick, red meat, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "571 kcal",
+      "fatContent": "41.6 g",
+      "proteinContent": "42.4 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-beef-tagliata/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-beef-tagliata/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-beef-tagliata/"
+  },
+  "sourceIndex": {
+    "id": 47022,
+    "rid": 54175,
+    "t": "Keto Beef Tagliata",
+    "u": "/keto-beef-tagliata/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/02/Beef-Tagliata-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.6,
+    "cal": 571,
+    "pr": 42.4,
+    "fa": 41.6,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "date-night",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "red-meat",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2022-04-26",
+    "cm": 0,
+    "ex": "Fancy juicy sirloin steak cooked to perfection, and then served with a flavorful sauce and a fresh crunchy green salad? Then this keto beef tagliata recipe is definitely for you. To make this Italian",
+    "pv": 93
+  },
+  "sourceHtml": "pages/keto-beef-tagliata.html",
+  "scrapedAt": "2026-11-07T08:27:43.848Z"
+}

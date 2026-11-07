@@ -1,0 +1,372 @@
+{
+  "id": "ruled-16083",
+  "slug": "low-carb-pasta-a-la-carbonara",
+  "title": "Low Carb Pasta a la Carbonara",
+  "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes 3 total servings of Low Carb Pasta a la Carbonara. Per serving, it comes out to 553 Calories, 44g Fats, 3.8g Net Carbs, and 21.7g Protein. A perfectly ketogenic meal that includes delicious and realistic tasting pasta!",
+  "servings": 3,
+  "yield": [
+    "3"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "553 kcal",
+    "fatContent": "44 g",
+    "proteinContent": "21.7 g",
+    "carbohydrateContent": "3.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 553,
+    "netCarbsGrams": 3.8,
+    "proteinGrams": 21.7,
+    "fatGrams": 44
+  },
+  "ingredients": [
+    "2/3 Pasta Recipe from Keto-fied!",
+    "5 Oz. Bacon",
+    "2 large Egg Yolks",
+    "1 large Egg",
+    "1 tbsp. Heavy Cream",
+    "1/3 cup Fresh Grated Parmesan (Plus garnish)",
+    "3 tbsp. Fresh Chopped Basil",
+    "Fresh Ground Black Pepper to Taste"
+  ],
+  "instructions": [
+    {
+      "text": "Prepare pasta as described in Keto-fied: Comfort Food Made Low Carb.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/keto-fied-copy1.jpg"
+    },
+    {
+      "text": "Freeze bacon for 15 minutes, then chop into small cubes. Crisp over high heat on stove top. Set bacon aside and set 1/3 grease aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56671.jpg"
+    },
+    {
+      "text": "Mix together egg, egg yolks, Parmesan cheese, heavy cream, and saved bacon grease until a thick mixture is formed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56751.jpg"
+    },
+    {
+      "text": "Cook pasta in remaining bacon grease in pan over high heat until pasta is slightly crisped.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5708.jpg"
+    },
+    {
+      "text": "Mix pasta, sauce, bacon, fresh cracked black pepper and 2 tbsp. fresh basil together in a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5712.jpg"
+    },
+    {
+      "text": "Sperate into servings and top with extra fresh chopped basil and fresh cracked black pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonaraLong.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "pork",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonara3.jpg",
+      "path": "images/481c919de2216c5270f934c8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/keto-fied-copy1.jpg",
+      "path": "../../nenaudojama/dinner/images/cd0762f38c7b70057a1514ec.avif",
+      "archived": true,
+      "originalPath": "images/cd0762f38c7b70057a1514ec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56671.jpg",
+      "path": "../../nenaudojama/dinner/images/6b15d7be136a2f441e814937.avif",
+      "archived": true,
+      "originalPath": "images/6b15d7be136a2f441e814937.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56751.jpg",
+      "path": "../../nenaudojama/dinner/images/e37f7e9b5b741c36b374ba12.avif",
+      "archived": true,
+      "originalPath": "images/e37f7e9b5b741c36b374ba12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5708.jpg",
+      "path": "../../nenaudojama/dinner/images/ad2443fd48af3a491d3f0862.avif",
+      "archived": true,
+      "originalPath": "images/ad2443fd48af3a491d3f0862.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5712.jpg",
+      "path": "../../nenaudojama/dinner/images/48f2e25ce3c7ac854381bd30.avif",
+      "archived": true,
+      "originalPath": "images/48f2e25ce3c7ac854381bd30.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonaraLong.jpg",
+      "path": "../../nenaudojama/dinner/images/a7d9c18df0afc77190ba3696.avif",
+      "archived": true,
+      "originalPath": "images/a7d9c18df0afc77190ba3696.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonara1.jpg",
+      "path": "../../nenaudojama/dinner/images/5e5e97ec75aeb33854537e1d.avif",
+      "archived": true,
+      "originalPath": "images/5e5e97ec75aeb33854537e1d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5689.jpg",
+      "path": "../../nenaudojama/dinner/images/cb492be4ab81c929ba9537fd.avif",
+      "archived": true,
+      "originalPath": "images/cb492be4ab81c929ba9537fd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56841.jpg",
+      "path": "../../nenaudojama/dinner/images/8eb05d86be4a06bf7cef2c3a.avif",
+      "archived": true,
+      "originalPath": "images/8eb05d86be4a06bf7cef2c3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5697.jpg",
+      "path": "../../nenaudojama/dinner/images/0b359e84aff8b8bcac319668.avif",
+      "archived": true,
+      "originalPath": "images/0b359e84aff8b8bcac319668.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5720.jpg",
+      "path": "../../nenaudojama/dinner/images/c87e28411d1320acea956557.jpg",
+      "archived": true,
+      "originalPath": "images/c87e28411d1320acea956557.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/keto-fied-copy1-280x350.jpg",
+      "path": "../../nenaudojama/dinner/images/25b1d50dc6919bbaa035ec82.avif",
+      "archived": true,
+      "originalPath": "images/25b1d50dc6919bbaa035ec82.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56671-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/83e2c0701edbfb58ca10dd68.jpg",
+      "archived": true,
+      "originalPath": "images/83e2c0701edbfb58ca10dd68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56751-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/886dcb1f397c55fda2bc663d.avif",
+      "archived": true,
+      "originalPath": "images/886dcb1f397c55fda2bc663d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5708-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e4415312209948071e7012f2.avif",
+      "archived": true,
+      "originalPath": "images/e4415312209948071e7012f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5712-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/660acdf41b728d0b91d1fd3e.avif",
+      "archived": true,
+      "originalPath": "images/660acdf41b728d0b91d1fd3e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonaraLong-230x350.jpg",
+      "path": "../../nenaudojama/dinner/images/53f88e94f21608d9d455ea86.avif",
+      "archived": true,
+      "originalPath": "images/53f88e94f21608d9d455ea86.avif"
+    }
+  ],
+  "featuredImage": "images/481c919de2216c5270f934c8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Pasta a la Carbonara",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes 3 total servings of Low Carb Pasta a la Carbonara. Per serving, it comes out to 553 Calories, 44g Fats, 3.8g Net Carbs, and 21.7g Protein. A perfectly ketogenic meal that includes delicious and realistic tasting pasta!",
+    "datePublished": "2014-06-13T15:11:12+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonara3.jpg"
+    ],
+    "video": {
+      "name": "Keto Pasta a la Carbonara [with Homemade Noodles]",
+      "description": "So, what if I were to tell you that the pasta you see above is actually low carb and fits well into the keto lifestyle? I know, I was gob-smacked too! Pasta and rice have always been the 2 true things that I miss on keto. Cauliflower rice does the trick (especially when fried, mmmm) for one part, but the keto pasta I never figured out. Zoodles, shirataki noodles, kelp noodles…none of them ever did the trick for me. The resemblance was there, but the taste and texture were never there.\n\nThese noodles from my cookbook ( ), however, taste like the real deal. They taste like whole wheat pasta that was freshly made by an actual chef. Slightly crisp (al dente) on the outside, and perfectly soft on the inside – with the taste that matches the looks. With the addition of a rich and hearty carbonara sauce that’s filled with bacon bits, bacon grease, and delicious fats, you really can’t go wrong with it.\n\nIt comes out to be a total of 72% calories from fats, which is a great meal for keto and a great meal for you. You can grab the recipe for the noodles from my cookbook Keto-fied! Comfort Foods Made Low Carb, along with a bunch of other recipes including bread, Chinese takeout, pizza, gumbo, ice cream as well as a variety of sweet pastries and desserts.\n\nThis pasta is extremely calorie dense, so just watch yourself that you don’t go overboard with it – serve it with a side of roasted broccoli, green beans, or a simple spinach salad. Sit back, relax, and enjoy the food you never thought you’d be eating again!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2/3 recipe pasta, from Keto-fied!\n5 ounces bacon\n2 large egg yolks\n1 large egg\n1 tablespoon heavy whipping cream\n1/3 cup grated Parmesan\n3 tablespoons chopped fresh basil\nGround black pepper to taste\n\nNutrition Summary: This makes 3 total servings of Low Carb Pasta a la Carbonara. Per serving, it comes out to 553 Calories, 44g Fats, 3.8g Net Carbs, and 21.7g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-03-14T15:00:21+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M38S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 7738
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 289
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 18
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HTVLCWZf7cE/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/HTVLCWZf7cE?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=HTVLCWZf7cE",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "2/3 Pasta Recipe from Keto-fied!",
+      "5 Oz. Bacon",
+      "2 large Egg Yolks",
+      "1 large Egg",
+      "1 tbsp. Heavy Cream",
+      "1/3 cup Fresh Grated Parmesan (Plus garnish)",
+      "3 tbsp. Fresh Chopped Basil",
+      "Fresh Ground Black Pepper to Taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare pasta as described in Keto-fied: Comfort Food Made Low Carb.",
+        "name": "Prepare pasta as described in Keto-fied: Comfort Food Made Low Carb.",
+        "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/keto-fied-copy1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Freeze bacon for 15 minutes, then chop into small cubes. Crisp over high heat on stove top. Set bacon aside and set 1/3 grease aside.",
+        "name": "Freeze bacon for 15 minutes, then chop into small cubes. Crisp over high heat on stove top. Set bacon aside and set 1/3 grease aside.",
+        "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56671.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together egg, egg yolks, Parmesan cheese, heavy cream, and saved bacon grease until a thick mixture is formed.",
+        "name": "Mix together egg, egg yolks, Parmesan cheese, heavy cream, and saved bacon grease until a thick mixture is formed.",
+        "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_56751.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook pasta in remaining bacon grease in pan over high heat until pasta is slightly crisped.",
+        "name": "Cook pasta in remaining bacon grease in pan over high heat until pasta is slightly crisped.",
+        "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5708.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix pasta, sauce, bacon, fresh cracked black pepper and 2 tbsp. fresh basil together in a bowl.",
+        "name": "Mix pasta, sauce, bacon, fresh cracked black pepper and 2 tbsp. fresh basil together in a bowl.",
+        "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/IMG_5712.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sperate into servings and top with extra fresh chopped basil and fresh cracked black pepper.",
+        "name": "Sperate into servings and top with extra fresh chopped basil and fresh cracked black pepper.",
+        "url": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#wprm-recipe-51173-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonaraLong.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "comfort-food, high-fat, keto, low-carb, pork, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "553 kcal",
+      "fatContent": "44 g",
+      "proteinContent": "21.7 g",
+      "carbohydrateContent": "3.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-pasta-a-la-carbonara/"
+  },
+  "sourceIndex": {
+    "id": 16083,
+    "rid": 51173,
+    "t": "Low Carb Pasta a la Carbonara",
+    "u": "/low-carb-pasta-a-la-carbonara/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/06/PastaCarbonara3.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.8,
+    "cal": 553,
+    "pr": 21.7,
+    "fa": 44,
+    "tm": 50,
+    "sv": 3,
+    "kw": [
+      "comfort-food",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "pork",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-06-13",
+    "cm": 33,
+    "ex": "So, what if I were to tell you that the pasta you see above is actually low carb and fits well into the keto lifestyle? I know, I was gob-smacked too! Pasta and rice have always been the 2 true",
+    "pv": 567
+  },
+  "sourceHtml": "pages/low-carb-pasta-a-la-carbonara.html",
+  "scrapedAt": "2026-11-07T08:27:45.062Z"
+}

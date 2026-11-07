@@ -1,0 +1,654 @@
+{
+  "id": "ruled-3402",
+  "slug": "cheddar-bacon-bbq-meatballs",
+  "title": "Cheddar and Bacon BBQ Meatballs",
+  "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Cheddar and Bacon BBQ Meatballs. Each serving comes out to be 528 calories, 34.4g fats, 1.8g net carbs, and 49.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "528 kcal",
+    "fatContent": "34.4 g",
+    "proteinContent": "49.5 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 528,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 49.5,
+    "fatGrams": 34.4
+  },
+  "ingredients": [
+    "3/4 cup pork rinds",
+    "24 ounce ground beef (93/7)",
+    "1 large egg",
+    "3/4 teaspoon salt",
+    "3/4 teaspoon black pepper",
+    "3/4 teaspoon cumin",
+    "3/4 teaspoon garlic powder",
+    "3/4 cup cheddar cheese (shredded)",
+    "4 ounce bacon"
+  ],
+  "instructions": [
+    {
+      "text": "Grab your pork rinds. Mine are BBQ flavor which works perfectly for this recipe.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-1-1.jpg"
+    },
+    {
+      "text": "Put the pork rinds into a Ziploc bag and crush them until they are relatively fine. I don’t mind leaving a few bigger pieces in there for texture. You can also use a food processor, as shown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-3.jpg"
+    },
+    {
+      "text": "In a mixing bowl, put your ground beef, egg, salt, pepper, cumin, and garlic powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-1-1.jpg"
+    },
+    {
+      "text": "Add your pork rind crumbs. Mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-2.jpg"
+    },
+    {
+      "text": "Make a small hole in the meat and add your cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-3.jpg"
+    },
+    {
+      "text": "Mix these all together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4.jpg"
+    },
+    {
+      "text": "Cut your bacon into thin strips. Easiest way is to use a pair of scissors. If you plan to use a knife, put your bacon in the freezer for 20 minutes prior to cutting it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4a.jpg"
+    },
+    {
+      "text": "Add your bacon to a hot pan and let it fry up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4b.jpg"
+    },
+    {
+      "text": "Keep cooking your bacon until it reaches a crisp point.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4d.jpg"
+    },
+    {
+      "text": "Remove your bacon and place on a paper towel to dry and crisp up. Keep the pan with the bacon fat in it – we will be using it to cook the meatballs!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4e.jpg"
+    },
+    {
+      "text": "Once your bacon has cooled off a bit, add it to the meat mixture and mix well. Roll out into meatballs and reserve beside your stove.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-5.jpg"
+    },
+    {
+      "text": "Once all the meatballs are rolled out, add enough to a hot pan to cook without crowding each other. I don’t like cooking them all at once because they don’t turn out as well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-10.jpg"
+    },
+    {
+      "text": "Let them brown on one side and then flip them over.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-12",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-8.jpg"
+    },
+    {
+      "text": "Allow them to keep cooking, turning them on their other sides as needed. Remove them from the pan when they are rare (still semi-raw in the middle).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-13",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-9.jpg"
+    },
+    {
+      "text": "Cook the remaining meatballs. Once they are at a rare state, add all the meatballs to the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-14",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-12.jpg"
+    },
+    {
+      "text": "Turn down the heat to low and cover the pan with a lid. Let these cook until they are to desired wellness. I usually let them cook while I am making the BBQ sauce. By the time I’m done, they’re also done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-15",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-11.jpg"
+    },
+    {
+      "text": "Remove the meatballs from the pan and let them rest for about 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-16",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-13.jpg"
+    },
+    {
+      "text": "Serve them out, usually 4-5 meatballs per person.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-17",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-17.jpg"
+    },
+    {
+      "text": "Apply your low-carb BBQ sauce on the top. This is to preference!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-18",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "red-meat",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/bc62c5ed628de5abf31a777d.jpg",
+      "archived": true,
+      "originalPath": "images/bc62c5ed628de5abf31a777d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-featured.jpg",
+      "path": "images/3e12036deaa7381bf9e16080.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-1-1.jpg",
+      "path": "../../nenaudojama/dinner/images/79feb093a28fc6e87034b56b.jpg",
+      "archived": true,
+      "originalPath": "images/79feb093a28fc6e87034b56b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-3.jpg",
+      "path": "../../nenaudojama/dinner/images/3102ac6a266bd4880627f12b.jpg",
+      "archived": true,
+      "originalPath": "images/3102ac6a266bd4880627f12b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-1-1.jpg",
+      "path": "../../nenaudojama/dinner/images/e4f1c644ff5e8598573a034c.jpg",
+      "archived": true,
+      "originalPath": "images/e4f1c644ff5e8598573a034c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-2.jpg",
+      "path": "../../nenaudojama/dinner/images/1cb36e1fc381212223355757.avif",
+      "archived": true,
+      "originalPath": "images/1cb36e1fc381212223355757.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-3.jpg",
+      "path": "../../nenaudojama/dinner/images/fe55bb9fd31332674e07b9fe.jpg",
+      "archived": true,
+      "originalPath": "images/fe55bb9fd31332674e07b9fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4.jpg",
+      "path": "../../nenaudojama/dinner/images/024d094c0da1daec1a1bb49a.avif",
+      "archived": true,
+      "originalPath": "images/024d094c0da1daec1a1bb49a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4a.jpg",
+      "path": "../../nenaudojama/dinner/images/1ddd1925f977d50cf95c2528.avif",
+      "archived": true,
+      "originalPath": "images/1ddd1925f977d50cf95c2528.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4b.jpg",
+      "path": "../../nenaudojama/dinner/images/22637b92c28215ff7930760f.jpg",
+      "archived": true,
+      "originalPath": "images/22637b92c28215ff7930760f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4d.jpg",
+      "path": "../../nenaudojama/dinner/images/15f79a8a4ce28f42d66ca29d.jpg",
+      "archived": true,
+      "originalPath": "images/15f79a8a4ce28f42d66ca29d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4e.jpg",
+      "path": "../../nenaudojama/dinner/images/9436a6d3783db0c3e2a2c6af.jpg",
+      "archived": true,
+      "originalPath": "images/9436a6d3783db0c3e2a2c6af.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-5.jpg",
+      "path": "../../nenaudojama/dinner/images/2ac4b48e1abd1d3caadb01b0.jpg",
+      "archived": true,
+      "originalPath": "images/2ac4b48e1abd1d3caadb01b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-10.jpg",
+      "path": "../../nenaudojama/dinner/images/bf5f87f080b2460faf3defca.jpg",
+      "archived": true,
+      "originalPath": "images/bf5f87f080b2460faf3defca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-8.jpg",
+      "path": "../../nenaudojama/dinner/images/8324cd738fd274ade04003e5.jpg",
+      "archived": true,
+      "originalPath": "images/8324cd738fd274ade04003e5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-9.jpg",
+      "path": "../../nenaudojama/dinner/images/f862d053b6c0dcba2d5ac0d0.jpg",
+      "archived": true,
+      "originalPath": "images/f862d053b6c0dcba2d5ac0d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-12.jpg",
+      "path": "../../nenaudojama/dinner/images/53cdc001d7577621107d3fab.jpg",
+      "archived": true,
+      "originalPath": "images/53cdc001d7577621107d3fab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-11.jpg",
+      "path": "../../nenaudojama/dinner/images/9f74b74288cb7be24049e122.avif",
+      "archived": true,
+      "originalPath": "images/9f74b74288cb7be24049e122.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-13.jpg",
+      "path": "../../nenaudojama/dinner/images/69473580ce2371595a184027.jpg",
+      "archived": true,
+      "originalPath": "images/69473580ce2371595a184027.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-17.jpg",
+      "path": "../../nenaudojama/dinner/images/e3cca5d128432f2cc1657e5c.jpg",
+      "archived": true,
+      "originalPath": "images/e3cca5d128432f2cc1657e5c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-2nd.jpg",
+      "path": "../../nenaudojama/dinner/images/401ae714d75c2e6d69918bd4.jpg",
+      "archived": true,
+      "originalPath": "images/401ae714d75c2e6d69918bd4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/24aa25e856f862aaf3464e02.jpg",
+      "archived": true,
+      "originalPath": "images/24aa25e856f862aaf3464e02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-1-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/daf66cb8f8ad8d7b16353039.avif",
+      "archived": true,
+      "originalPath": "images/daf66cb8f8ad8d7b16353039.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d6370ac0a92e6af73c59ae47.jpg",
+      "archived": true,
+      "originalPath": "images/d6370ac0a92e6af73c59ae47.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-1-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/51930d844f28bf47af5cf4bb.avif",
+      "archived": true,
+      "originalPath": "images/51930d844f28bf47af5cf4bb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dc8b3139cebf0c4cf8f3a4cd.jpg",
+      "archived": true,
+      "originalPath": "images/dc8b3139cebf0c4cf8f3a4cd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4dee0d2979609898a0b4c088.jpg",
+      "archived": true,
+      "originalPath": "images/4dee0d2979609898a0b4c088.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/754d2c537b64bc940784b6d9.avif",
+      "archived": true,
+      "originalPath": "images/754d2c537b64bc940784b6d9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4a-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8f10df6254487c855dcc3216.jpg",
+      "archived": true,
+      "originalPath": "images/8f10df6254487c855dcc3216.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4b-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9b8de8af5ec4ad7583d3f96c.jpg",
+      "archived": true,
+      "originalPath": "images/9b8de8af5ec4ad7583d3f96c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4d-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bc8e12697f88c7464278b451.jpg",
+      "archived": true,
+      "originalPath": "images/bc8e12697f88c7464278b451.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4e-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5c7f1da7201e6212fb31d113.avif",
+      "archived": true,
+      "originalPath": "images/5c7f1da7201e6212fb31d113.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f47c84a15f7fff008d62577a.avif",
+      "archived": true,
+      "originalPath": "images/f47c84a15f7fff008d62577a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-10-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/351794e967bd4abc90ea6c97.avif",
+      "archived": true,
+      "originalPath": "images/351794e967bd4abc90ea6c97.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-8-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/055ab84987b5fa2ab41962bf.avif",
+      "archived": true,
+      "originalPath": "images/055ab84987b5fa2ab41962bf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-9-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4c3f3334d7905bf98fb9d405.avif",
+      "archived": true,
+      "originalPath": "images/4c3f3334d7905bf98fb9d405.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-12-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e689af45a6fc2999f015dd99.avif",
+      "archived": true,
+      "originalPath": "images/e689af45a6fc2999f015dd99.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-11-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e26f608904f37a9c8f4d7189.jpg",
+      "archived": true,
+      "originalPath": "images/e26f608904f37a9c8f4d7189.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-13-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0ece8a1b17658bae44c1af3d.avif",
+      "archived": true,
+      "originalPath": "images/0ece8a1b17658bae44c1af3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-17-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9afd5b955fbce16d6945b60d.avif",
+      "archived": true,
+      "originalPath": "images/9afd5b955fbce16d6945b60d.avif"
+    }
+  ],
+  "featuredImage": "images/3e12036deaa7381bf9e16080.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheddar and Bacon BBQ Meatballs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Cheddar and Bacon BBQ Meatballs. Each serving comes out to be 528 calories, 34.4g fats, 1.8g net carbs, and 49.5g protein.",
+    "datePublished": "2013-12-05T13:06:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "3/4 cup pork rinds",
+      "24 ounce ground beef (93/7)",
+      "1 large egg",
+      "3/4 teaspoon salt",
+      "3/4 teaspoon black pepper",
+      "3/4 teaspoon cumin",
+      "3/4 teaspoon garlic powder",
+      "3/4 cup cheddar cheese (shredded)",
+      "4 ounce bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Grab your pork rinds. Mine are BBQ flavor which works perfectly for this recipe.",
+        "name": "Grab your pork rinds. Mine are BBQ flavor which works perfectly for this recipe.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-1-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the pork rinds into a Ziploc bag and crush them until they are relatively fine. I don’t mind leaving a few bigger pieces in there for texture.  You can also use a food processor, as shown.",
+        "name": "Put the pork rinds into a Ziploc bag and crush them until they are relatively fine. I don’t mind leaving a few bigger pieces in there for texture.  You can also use a food processor, as shown.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/Meatball_Trio-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, put your ground beef, egg, salt, pepper, cumin, and garlic powder.",
+        "name": "In a mixing bowl, put your ground beef, egg, salt, pepper, cumin, and garlic powder.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-1-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add your pork rind crumbs. Mix together well.",
+        "name": "Add your pork rind crumbs. Mix together well.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make a small hole in the meat and add your cheese.",
+        "name": "Make a small hole in the meat and add your cheese.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix these all together well.",
+        "name": "Mix these all together well.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut your bacon into thin strips. Easiest way is to use a pair of scissors. If you plan to use a knife, put your bacon in the freezer for 20 minutes prior to cutting it.",
+        "name": "Cut your bacon into thin strips. Easiest way is to use a pair of scissors. If you plan to use a knife, put your bacon in the freezer for 20 minutes prior to cutting it.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4a.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add your bacon to a hot pan and let it fry up.",
+        "name": "Add your bacon to a hot pan and let it fry up.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4b.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Keep cooking your bacon until it reaches a crisp point.",
+        "name": "Keep cooking your bacon until it reaches a crisp point.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4d.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove your bacon and place on a paper towel to dry and crisp up. Keep the pan with the bacon fat in it – we will be using it to cook the meatballs!",
+        "name": "Remove your bacon and place on a paper towel to dry and crisp up. Keep the pan with the bacon fat in it – we will be using it to cook the meatballs!",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-4e.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once your bacon has cooled off a bit, add it to the meat mixture and mix well. Roll out into meatballs and reserve beside your stove.",
+        "name": "Once your bacon has cooled off a bit, add it to the meat mixture and mix well. Roll out into meatballs and reserve beside your stove.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once all the meatballs are rolled out, add enough to a hot pan to cook without crowding each other. I don’t like cooking them all at once because they don’t turn out as well.",
+        "name": "Once all the meatballs are rolled out, add enough to a hot pan to cook without crowding each other. I don’t like cooking them all at once because they don’t turn out as well.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let them brown on one side and then flip them over.",
+        "name": "Let them brown on one side and then flip them over.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-12",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow them to keep cooking, turning them on their other sides as needed. Remove them from the pan when they are rare (still semi-raw in the middle).",
+        "name": "Allow them to keep cooking, turning them on their other sides as needed. Remove them from the pan when they are rare (still semi-raw in the middle).",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-13",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the remaining meatballs. Once they are at a rare state, add all the meatballs to the pan.",
+        "name": "Cook the remaining meatballs. Once they are at a rare state, add all the meatballs to the pan.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-14",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn down the heat to low and cover the pan with a lid. Let these cook until they are to desired wellness. I usually let them cook while I am making the BBQ sauce. By the time I’m done, they’re also done.",
+        "name": "Turn down the heat to low and cover the pan with a lid. Let these cook until they are to desired wellness. I usually let them cook while I am making the BBQ sauce. By the time I’m done, they’re also done.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-15",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the meatballs from the pan and let them rest for about 5 minutes.",
+        "name": "Remove the meatballs from the pan and let them rest for about 5 minutes.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-16",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve them out, usually 4-5 meatballs per person.",
+        "name": "Serve them out, usually 4-5 meatballs per person.",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-17",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-17.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Apply your low-carb BBQ sauce on the top. This is to preference!",
+        "name": "Apply your low-carb BBQ sauce on the top. This is to preference!",
+        "url": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#wprm-recipe-50473-step-0-18"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, red meat, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "528 kcal",
+      "fatContent": "34.4 g",
+      "proteinContent": "49.5 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheddar-bacon-bbq-meatballs/"
+  },
+  "sourceIndex": {
+    "id": 3402,
+    "rid": 50473,
+    "t": "Cheddar and Bacon BBQ Meatballs",
+    "u": "/cheddar-bacon-bbq-meatballs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/cheddar_and_bacon_bbq_meatballs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.8,
+    "cal": 528,
+    "pr": 49.5,
+    "fa": 34.4,
+    "tm": 45,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "red-meat",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "red-meat"
+    ],
+    "d": "2013-12-05",
+    "cm": 11,
+    "ex": "These are some of the best meatballs I've ever had, keto or not. They're juicy, and they're full of cheese and bacon. What's not to like here? You really have a choice of where to go with this",
+    "pv": 326
+  },
+  "sourceHtml": "pages/cheddar-bacon-bbq-meatballs.html",
+  "scrapedAt": "2026-11-07T08:27:45.352Z"
+}

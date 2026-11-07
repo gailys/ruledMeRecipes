@@ -1,0 +1,332 @@
+{
+  "id": "ruled-24648",
+  "slug": "low-carb-cookie-butter",
+  "title": "Low-Carb Cookie Butter",
+  "url": "https://www.ruled.me/low-carb-cookie-butter/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Low-Carb Cookie Butter. Each serving comes out to be 117 calories, 11.4g fats, 2.5g net carbs, and 1.7g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "fatContent": "11.4 g",
+    "proteinContent": "1.7 g",
+    "carbohydrateContent": "2.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 117,
+    "netCarbsGrams": 2.5,
+    "proteinGrams": 1.7,
+    "fatGrams": 11.4
+  },
+  "ingredients": [
+    "1 cup macadamia nuts",
+    "3/4 cup cashews",
+    "1 teaspoon vanilla extract",
+    "1/4 teaspoon ground cinnamon",
+    "1/4 teaspoon ground ginger",
+    "1/8 teaspoon ground nutmeg",
+    "1/8 teaspoon ground cloves",
+    "salt (to taste)",
+    "2 tablespoon butter",
+    "2 tablespoon stevia/erythritol blend (such as Swerve, powdered)",
+    "2 tablespoon heavy whipping cream"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out the raw macadamias and cashews.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6503.jpg"
+    },
+    {
+      "text": "Pulse the nuts in a food processor until beginning to turn crumbly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6507.jpg"
+    },
+    {
+      "text": "Add in the vanilla, spices, and a pinch of salt, and continue to process until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6523.jpg"
+    },
+    {
+      "text": "In a pan, combine the butter and powdered sweetener. Let the mixture cook down until slightly browned. Once browned, add the heavy cream and remove from the heat. Stir together well to form a thick syrup.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6545.jpg"
+    },
+    {
+      "text": "Slowly pour the syrup into the food processor while it's running.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6570.jpg"
+    },
+    {
+      "text": "Remove the cookie butter from the food processor and enjoy or store in a mason jar for later use.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6579.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/cookiebutter.jpg",
+      "path": "images/22fdf983039e561c7e3d7de1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6503.jpg",
+      "path": "../../nenaudojama/dessert/images/9324b1d680c51c582793cf3d.jpg",
+      "archived": true,
+      "originalPath": "images/9324b1d680c51c582793cf3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6507.jpg",
+      "path": "../../nenaudojama/dessert/images/6f16087c8eadbb52a25f607e.avif",
+      "archived": true,
+      "originalPath": "images/6f16087c8eadbb52a25f607e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6523.jpg",
+      "path": "../../nenaudojama/dessert/images/2e608e5b8b9e8c220d5c1bd3.avif",
+      "archived": true,
+      "originalPath": "images/2e608e5b8b9e8c220d5c1bd3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6545.jpg",
+      "path": "../../nenaudojama/dessert/images/1610e9daa30a022b25942679.avif",
+      "archived": true,
+      "originalPath": "images/1610e9daa30a022b25942679.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6570.jpg",
+      "path": "../../nenaudojama/dessert/images/8293aa02ee9bcee4e73c3e55.jpg",
+      "archived": true,
+      "originalPath": "images/8293aa02ee9bcee4e73c3e55.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6579.jpg",
+      "path": "../../nenaudojama/dessert/images/caa2add0ddfcfafdf248c6ef.avif",
+      "archived": true,
+      "originalPath": "images/caa2add0ddfcfafdf248c6ef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/cookiebuttersecond.jpg",
+      "path": "../../nenaudojama/dessert/images/3ed401b392defe21ad6a8100.avif",
+      "archived": true,
+      "originalPath": "images/3ed401b392defe21ad6a8100.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/cookiebutterlong.jpg",
+      "path": "../../nenaudojama/dessert/images/6d2997299679297e40472e92.avif",
+      "archived": true,
+      "originalPath": "images/6d2997299679297e40472e92.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6503-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/89cd2693ecee0a4a7d9d7905.jpg",
+      "archived": true,
+      "originalPath": "images/89cd2693ecee0a4a7d9d7905.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6507-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c8c74208d5a47b16bb6ebd7f.jpg",
+      "archived": true,
+      "originalPath": "images/c8c74208d5a47b16bb6ebd7f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6523-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c284be88323fbb90ebd8558b.avif",
+      "archived": true,
+      "originalPath": "images/c284be88323fbb90ebd8558b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6545-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b7235d2e0dfea856581a64f8.avif",
+      "archived": true,
+      "originalPath": "images/b7235d2e0dfea856581a64f8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6570-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c43e6138a55a2772afac6731.jpg",
+      "archived": true,
+      "originalPath": "images/c43e6138a55a2772afac6731.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6579-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e31f01858c5d5d73f7447a17.jpg",
+      "archived": true,
+      "originalPath": "images/e31f01858c5d5d73f7447a17.jpg"
+    }
+  ],
+  "featuredImage": "images/22fdf983039e561c7e3d7de1.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Cookie Butter",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 16 servings of Low-Carb Cookie Butter. Each serving comes out to be 117 calories, 11.4g fats, 2.5g net carbs, and 1.7g protein.",
+    "datePublished": "2014-09-18T12:10:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/cookiebutter.jpg"
+    ],
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1 cup macadamia nuts",
+      "3/4 cup cashews",
+      "1 teaspoon vanilla extract",
+      "1/4 teaspoon ground cinnamon",
+      "1/4 teaspoon ground ginger",
+      "1/8 teaspoon ground nutmeg",
+      "1/8 teaspoon ground cloves",
+      "salt (to taste)",
+      "2 tablespoon butter",
+      "2 tablespoon stevia/erythritol blend (such as Swerve, powdered)",
+      "2 tablespoon heavy whipping cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the raw macadamias and cashews.",
+        "name": "Measure out the raw macadamias and cashews.",
+        "url": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6503.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pulse the nuts in a food processor until beginning to turn crumbly.",
+        "name": "Pulse the nuts in a food processor until beginning to turn crumbly.",
+        "url": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6507.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the vanilla, spices, and a pinch of salt, and continue to process until smooth.",
+        "name": "Add in the vanilla, spices, and a pinch of salt, and continue to process until smooth.",
+        "url": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6523.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, combine the butter and powdered sweetener. Let the mixture cook down until slightly browned. Once browned, add the heavy cream and remove from the heat. Stir together well to form a thick syrup.",
+        "name": "In a pan, combine the butter and powdered sweetener. Let the mixture cook down until slightly browned. Once browned, add the heavy cream and remove from the heat. Stir together well to form a thick syrup.",
+        "url": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6545.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly pour the syrup into the food processor while it's running.",
+        "name": "Slowly pour the syrup into the food processor while it's running.",
+        "url": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6570.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the cookie butter from the food processor and enjoy or store in a mason jar for later use.",
+        "name": "Remove the cookie butter from the food processor and enjoy or store in a mason jar for later use.",
+        "url": "https://www.ruled.me/low-carb-cookie-butter/#wprm-recipe-51411-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6579.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, egg-free, fall, gluten-free, keto, low-carb, make-ahead, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "117 kcal",
+      "fatContent": "11.4 g",
+      "proteinContent": "1.7 g",
+      "carbohydrateContent": "2.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/low-carb-cookie-butter/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-cookie-butter/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-cookie-butter/"
+  },
+  "sourceIndex": {
+    "id": 24648,
+    "rid": 51411,
+    "t": "Low Carb Cookie Butter",
+    "u": "/low-carb-cookie-butter/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/cookiebutter.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.5,
+    "cal": 117,
+    "pr": 1.7,
+    "fa": 11.4,
+    "tm": 10,
+    "sv": 16,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2014-09-18",
+    "cm": 15,
+    "ex": "If you've never had cookie butter, then you really missed out! Think about grabbing a spoonful of smooth peanut butter out of the jar, but it's got a Fall-like cinnamon and ginger cookie taste",
+    "pv": 150
+  },
+  "sourceHtml": "pages/low-carb-cookie-butter.html",
+  "scrapedAt": "2026-11-07T08:30:47.452Z"
+}

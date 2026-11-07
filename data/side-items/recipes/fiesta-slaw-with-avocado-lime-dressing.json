@@ -1,0 +1,345 @@
+{
+  "id": "ruled-31210",
+  "slug": "fiesta-slaw-with-avocado-lime-dressing",
+  "title": "Fiesta Slaw with Avocado Lime Dressing",
+  "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Fiesta Slaw with Avocado Lime Dressing. Each serving comes out to be 364 calories, 37.3g fats, 4.3g net carbs, and 2.4g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "364 kcal",
+    "fatContent": "37.3 g",
+    "proteinContent": "2.4 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 364,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 2.4,
+    "fatGrams": 37.3
+  },
+  "ingredients": [
+    "1/2 medium green cabbage",
+    "1/2 cup red cabbage (shredded)",
+    "1 medium red bell pepper",
+    "1 large egg (see note*)",
+    "1 cup avocado oil (or avocado mayonnaise if not using raw egg)",
+    "1/2 medium lime (juiced)",
+    "1 teaspoon fresh garlic (minced)",
+    "1/2 teaspoon chili powder",
+    "1/2 teaspoon cumin",
+    "1 teaspoon salt",
+    "1 tablespoon fresh cilantro (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Shred the cabbage or cut into thin strips. Do the same for the red cabbage, unless using pre-shredded.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-01.jpg"
+    },
+    {
+      "text": "Cut the top and bottom off the red pepper and remove the stem and seeds. Slice or julienne the strips to desired thickness.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-02.jpg"
+    },
+    {
+      "text": "Combine the vegetables in a large bowl and refrigerate while preparing the dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-03.jpg"
+    },
+    {
+      "text": "Crack the egg and pour the oil into a tall, narrow jar or blender cup. Add the lime juice, garlic, chili powder, cumin, salt, and coriander, reserving some of the leaves for garnish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-04.jpg"
+    },
+    {
+      "text": "Blend the mixture on high speed using an immersion blender. Keep the blade at the bottom of the cup, moving it back and forth gently. Once the mixture is well blended, slowly pull the base up and down until the mixture becomes creamy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-07.jpg"
+    },
+    {
+      "text": "Pour the dressing over the salad and toss gently. Garnish with the remaining cilantro and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/3bfeb5d7525cefb3cd1837e3.jpg",
+      "archived": true,
+      "originalPath": "images/3bfeb5d7525cefb3cd1837e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/eebbb39ed843a46603176741.avif",
+      "archived": true,
+      "originalPath": "images/eebbb39ed843a46603176741.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-01.jpg",
+      "path": "../../nenaudojama/side-items/images/b831069539817289d14c194b.jpg",
+      "archived": true,
+      "originalPath": "images/b831069539817289d14c194b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-02.jpg",
+      "path": "../../nenaudojama/side-items/images/81593e27b24cc5bb6b57f0a0.jpg",
+      "archived": true,
+      "originalPath": "images/81593e27b24cc5bb6b57f0a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-03.jpg",
+      "path": "../../nenaudojama/side-items/images/39819e874ce910219d42dc9b.jpg",
+      "archived": true,
+      "originalPath": "images/39819e874ce910219d42dc9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-04.jpg",
+      "path": "../../nenaudojama/side-items/images/abd0bfca089d1ba1d923ed03.jpg",
+      "archived": true,
+      "originalPath": "images/abd0bfca089d1ba1d923ed03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-07.jpg",
+      "path": "../../nenaudojama/side-items/images/20fc392f459dcb5d5e2ac15f.jpg",
+      "archived": true,
+      "originalPath": "images/20fc392f459dcb5d5e2ac15f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-second.jpg",
+      "path": "../../nenaudojama/side-items/images/335662f429c64204abb3e373.jpg",
+      "archived": true,
+      "originalPath": "images/335662f429c64204abb3e373.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-05.jpg",
+      "path": "../../nenaudojama/side-items/images/7fe609b6cac5892837d77b9c.jpg",
+      "archived": true,
+      "originalPath": "images/7fe609b6cac5892837d77b9c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-06.jpg",
+      "path": "../../nenaudojama/side-items/images/ace1205233e120a34ffc78c2.jpg",
+      "archived": true,
+      "originalPath": "images/ace1205233e120a34ffc78c2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-pin1.jpg",
+      "path": "../../nenaudojama/side-items/images/d025737b8ee13aca5ff59fbe.jpg",
+      "archived": true,
+      "originalPath": "images/d025737b8ee13aca5ff59fbe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-01-279x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e5bc3113ec5bdc28abfaa29d.jpg",
+      "archived": true,
+      "originalPath": "images/e5bc3113ec5bdc28abfaa29d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-02-287x350.jpg",
+      "path": "../../nenaudojama/side-items/images/f65cbf8976a41094cd35cd94.jpg",
+      "archived": true,
+      "originalPath": "images/f65cbf8976a41094cd35cd94.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6920ae2330152111a92eefbe.jpg",
+      "archived": true,
+      "originalPath": "images/6920ae2330152111a92eefbe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-04-252x350.jpg",
+      "path": "../../nenaudojama/side-items/images/89a20d5bebc4c469c50d94bf.jpg",
+      "archived": true,
+      "originalPath": "images/89a20d5bebc4c469c50d94bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-07-261x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6be1e6aeb6dbf17596842938.jpg",
+      "archived": true,
+      "originalPath": "images/6be1e6aeb6dbf17596842938.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/eebbb39ed843a46603176741.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fiesta Slaw with Avocado Lime Dressing",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Fiesta Slaw with Avocado Lime Dressing. Each serving comes out to be 364 calories, 37.3g fats, 4.3g net carbs, and 2.4g protein.",
+    "datePublished": "2017-07-27T11:00:55+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1/2 medium green cabbage",
+      "1/2 cup red cabbage (shredded)",
+      "1 medium red bell pepper",
+      "1 large egg (see note*)",
+      "1 cup avocado oil (or avocado mayonnaise if not using raw egg)",
+      "1/2 medium lime (juiced)",
+      "1 teaspoon fresh garlic (minced)",
+      "1/2 teaspoon chili powder",
+      "1/2 teaspoon cumin",
+      "1 teaspoon salt",
+      "1 tablespoon fresh cilantro (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Shred the cabbage or cut into thin strips. Do the same for the red cabbage, unless using pre-shredded.",
+        "name": "Shred the cabbage or cut into thin strips. Do the same for the red cabbage, unless using pre-shredded.",
+        "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the top and bottom off the red pepper and remove the stem and seeds. Slice or julienne the strips to desired thickness.",
+        "name": "Cut the top and bottom off the red pepper and remove the stem and seeds. Slice or julienne the strips to desired thickness.",
+        "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the vegetables in a large bowl and refrigerate while preparing the dressing.",
+        "name": "Combine the vegetables in a large bowl and refrigerate while preparing the dressing.",
+        "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the egg and pour the oil into a tall, narrow jar or blender cup. Add the lime juice, garlic, chili powder, cumin, salt, and coriander, reserving some of the leaves for garnish.",
+        "name": "Crack the egg and pour the oil into a tall, narrow jar or blender cup. Add the lime juice, garlic, chili powder, cumin, salt, and coriander, reserving some of the leaves for garnish.",
+        "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend the mixture on high speed using an immersion blender. Keep the blade at the bottom of the cup, moving it back and forth gently. Once the mixture is well blended, slowly pull the base up and down until the mixture becomes creamy.",
+        "name": "Blend the mixture on high speed using an immersion blender. Keep the blade at the bottom of the cup, moving it back and forth gently. Once the mixture is well blended, slowly pull the base up and down until the mixture becomes creamy.",
+        "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the dressing over the salad and toss gently. Garnish with the remaining cilantro and serve.",
+        "name": "Pour the dressing over the salad and toss gently. Garnish with the remaining cilantro and serve.",
+        "url": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#wprm-recipe-52265-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "15-minute, dairy-free, gluten-free, high-fat, keto, low-carb, no-cook, nut-free, quick, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "364 kcal",
+      "fatContent": "37.3 g",
+      "proteinContent": "2.4 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fiesta-slaw-with-avocado-lime-dressing/"
+  },
+  "sourceIndex": {
+    "id": 31210,
+    "rid": 52265,
+    "t": "Fiesta Slaw with Avocado Lime Dressing",
+    "u": "/fiesta-slaw-with-avocado-lime-dressing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/06/fiesta-slaw-avocado-mayo-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.3,
+    "cal": 364,
+    "pr": 2.4,
+    "fa": 37.3,
+    "tm": 10,
+    "sv": 6,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "no-cook"
+    ],
+    "d": "2017-07-27",
+    "cm": 1,
+    "ex": "Whether its barbecue or snow season, coleslaw is always a staple for an easy salad or side item. Traditional coleslaw is made with sugar, vinegar, and loads of veggies. Though it could be fairly low",
+    "pv": 240
+  },
+  "sourceHtml": "pages/fiesta-slaw-with-avocado-lime-dressing.html",
+  "scrapedAt": "2026-11-07T08:32:35.166Z"
+}

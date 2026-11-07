@@ -1,0 +1,409 @@
+{
+  "id": "ruled-48468",
+  "slug": "low-carb-bagels",
+  "title": "Low Carb Bagels",
+  "url": "https://www.ruled.me/low-carb-bagels/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Low Carb Bagels. Each serving comes out to be 379 calories, 31g fats, 5g net carbs, and 19.4g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "379 kcal",
+    "fatContent": "31 g",
+    "proteinContent": "19.4 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 379,
+    "netCarbsGrams": 5,
+    "proteinGrams": 19.4,
+    "fatGrams": 31
+  },
+  "ingredients": [
+    "1 1/2 cup almond flour",
+    "1 tablespoon baking powder",
+    "1/2 teaspoon garlic salt",
+    "1/2 teaspoon black pepper",
+    "2 1/2 cup mozzarella cheese",
+    "3 ounce cream cheese (diced)",
+    "2 large egg",
+    "1 tablespoon everything bagel seasoning"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Preheat oven to 425F and place parchment paper on a baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-1.jpg"
+    },
+    {
+      "text": "In a bowl, add almond flour, baking powder, garlic salt, and black pepper. Whisk this all together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-2.jpg"
+    },
+    {
+      "text": "In a microwave bowl, combine mozzarella and cream cheese. Place in the microwave for 1 minute, take out and stir, then place back in the microwave for another minute.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-3.jpg"
+    },
+    {
+      "text": "Remove from microwave and stir until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-4.jpg"
+    },
+    {
+      "text": "Pour the almond flour mixture into the mozzarella and cream cheese mixture. Add in the eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-5.jpg"
+    },
+    {
+      "text": "With clean hands, knead the dough until it starts to become thick. Kneading will take a few minutes but the dough will start to take form when the cheese mixture starts to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-6.jpg"
+    },
+    {
+      "text": "On the baking pan with parchment paper, make a bagel shape by evenly dividing the mixture and making a circle with a hole in the middle. Add the everything bagel seasoning on top of the bagels. Bake in the preheated oven for 12 - 15 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-7.jpg"
+    },
+    {
+      "text": "When the bagels are golden brown in color, they are ready! To serve, slice in half and spread with cream cheese. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/0bab6ba329ee68bb7546bf0b.avif",
+      "archived": true,
+      "originalPath": "images/0bab6ba329ee68bb7546bf0b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Featured.jpg",
+      "path": "images/b416e8a601488596351f19c9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/53de5af07899922ffaba42db.avif",
+      "archived": true,
+      "originalPath": "images/53de5af07899922ffaba42db.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/a00ead7c213f2a58b2f9835b.jpg",
+      "archived": true,
+      "originalPath": "images/a00ead7c213f2a58b2f9835b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/7928bb89fdac67a6131f8f76.avif",
+      "archived": true,
+      "originalPath": "images/7928bb89fdac67a6131f8f76.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/dbb42531df0d4b0041655286.jpg",
+      "archived": true,
+      "originalPath": "images/dbb42531df0d4b0041655286.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/86fd06b1e9487d5b6ea6153f.jpg",
+      "archived": true,
+      "originalPath": "images/86fd06b1e9487d5b6ea6153f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/c4bde8b0e8968fef501a8b8b.avif",
+      "archived": true,
+      "originalPath": "images/c4bde8b0e8968fef501a8b8b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-7.jpg",
+      "path": "../../nenaudojama/breakfast/images/ca2edbd482300b3f679a32a7.jpg",
+      "archived": true,
+      "originalPath": "images/ca2edbd482300b3f679a32a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/3cb15e5cb7d695d106e67783.jpg",
+      "archived": true,
+      "originalPath": "images/3cb15e5cb7d695d106e67783.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/81f4cc625e5dbd20eadda9b6.avif",
+      "archived": true,
+      "originalPath": "images/81f4cc625e5dbd20eadda9b6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/640ce6d2c37242dcb29fb9ab.avif",
+      "archived": true,
+      "originalPath": "images/640ce6d2c37242dcb29fb9ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a2071e86f9ec54135d5f0864.jpg",
+      "archived": true,
+      "originalPath": "images/a2071e86f9ec54135d5f0864.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/36447fb1b1c03b7e7d27b2ff.jpg",
+      "archived": true,
+      "originalPath": "images/36447fb1b1c03b7e7d27b2ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/cc66ad5f5b25c5fb5dfc113b.jpg",
+      "archived": true,
+      "originalPath": "images/cc66ad5f5b25c5fb5dfc113b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1b59f64a930e0d725134f81f.avif",
+      "archived": true,
+      "originalPath": "images/1b59f64a930e0d725134f81f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b48910169a71febdba53bc06.jpg",
+      "archived": true,
+      "originalPath": "images/b48910169a71febdba53bc06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b6d01069573ef3fa5aee4ea1.jpg",
+      "archived": true,
+      "originalPath": "images/b6d01069573ef3fa5aee4ea1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-7-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9bf9d2f5a60c377be6f6df62.avif",
+      "archived": true,
+      "originalPath": "images/9bf9d2f5a60c377be6f6df62.avif"
+    }
+  ],
+  "featuredImage": "images/b416e8a601488596351f19c9.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Bagels",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 6 servings of Low Carb Bagels. Each serving comes out to be 379 calories, 31g fats, 5g net carbs, and 19.4g protein.",
+    "datePublished": "2023-02-23T10:00:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Featured.jpg"
+    ],
+    "video": {
+      "name": "Low Carb Everything Bagels [Perfect for Breakfast]",
+      "description": "This is the best keto-friendly bagel recipe going around. They’re made with almond flour so are great for people following a low-carb or keto diet. The bagels can be whipped up in a few simple steps, which makes them a great breakfast or brunch dish for the weekends.\n\nYou start by adding the dry ingredients to a large bowl, then add the melted mozzarella, cream cheese, and eggs. The dough is kneaded until fully formed and then divided into six beautiful bagels. Baking is quick. You’ll have lovely fresh golden bagels in under 15 minutes.\n\nThese bagels are really versatile. You can add anything on top, like cinnamon, poppy seeds, garlic, and other herbs and spices. Our favorite is everything bagel seasoning that can be brought from Trader Joe’s. This seasoning mix contains sesame seeds, dried garlic, poppy seeds, sea salt, and onion powder and really brings the bagels to life.\n\nNext time you want to make bagels for breakfast, whip up a batch of these low-carb wonders and you’ll be all set. Serve them with your favorite savory or sweet toppings—the classic cream cheese and smoked salmon combo is always a winner. These bagels are sure to become one of your favorite recipes to make!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 1/2 cup almond flour\n1 tablespoon baking powder\n1/2 teaspoon garlic salt\n1/2 teaspoon black pepper\n2 1/2 cup mozzarella cheese\n3 ounce cream cheese, diced\n2 large egg\n1 tablespoon everything bagel seasoning\n\nNutrition Summary: This makes a total of 6 servings of Low Carb Bagels. Each serving comes out to be 379 calories, 31g fat, 5g net carbs, and 19.4g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-05-10T14:00:37+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M24S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 19342
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 497
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 21
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pdQBDL7lYUI/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/pdQBDL7lYUI?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=pdQBDL7lYUI",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 1/2 cup almond flour",
+      "1 tablespoon baking powder",
+      "1/2 teaspoon garlic salt",
+      "1/2 teaspoon black pepper",
+      "2 1/2 cup mozzarella cheese",
+      "3 ounce cream cheese (diced)",
+      "2 large egg",
+      "1 tablespoon everything bagel seasoning"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Preheat oven to 425F and place parchment paper on a baking sheet.",
+        "name": "Measure out and prepare all of the ingredients. Preheat oven to 425F and place parchment paper on a baking sheet.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, add almond flour, baking powder, garlic salt, and black pepper. Whisk this all together.",
+        "name": "In a bowl, add almond flour, baking powder, garlic salt, and black pepper. Whisk this all together.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a microwave bowl, combine mozzarella and cream cheese. Place in the microwave for 1 minute, take out and stir, then place back in the microwave for another minute.",
+        "name": "In a microwave bowl, combine mozzarella and cream cheese. Place in the microwave for 1 minute, take out and stir, then place back in the microwave for another minute.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from microwave and stir until combined well.",
+        "name": "Remove from microwave and stir until combined well.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the almond flour mixture into the mozzarella and cream cheese mixture. Add in the eggs.",
+        "name": "Pour the almond flour mixture into the mozzarella and cream cheese mixture. Add in the eggs.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "With clean hands, knead the dough until it starts to become thick. Kneading will take a few minutes but the dough will start to take form when the cheese mixture starts to cool.",
+        "name": "With clean hands, knead the dough until it starts to become thick. Kneading will take a few minutes but the dough will start to take form when the cheese mixture starts to cool.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On the baking pan with parchment paper, make a bagel shape by evenly dividing the mixture and making a circle with a hole in the middle. Add the everything bagel seasoning on top of the bagels. Bake in the preheated oven for 12 - 15 minutes.",
+        "name": "On the baking pan with parchment paper, make a bagel shape by evenly dividing the mixture and making a circle with a hole in the middle. Add the everything bagel seasoning on top of the bagels. Bake in the preheated oven for 12 - 15 minutes.",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the bagels are golden brown in color, they are ready! To serve, slice in half and spread with cream cheese. Enjoy!",
+        "name": "When the bagels are golden brown in color, they are ready! To serve, slice in half and spread with cream cheese. Enjoy!",
+        "url": "https://www.ruled.me/low-carb-bagels/#wprm-recipe-54523-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Breakfast",
+      "Lunch",
+      "Snacks"
+    ],
+    "keywords": "30-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, oven-baked, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "379 kcal",
+      "fatContent": "31 g",
+      "proteinContent": "19.4 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-bagels/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-bagels/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-bagels/"
+  },
+  "sourceIndex": {
+    "id": 48468,
+    "rid": 54523,
+    "t": "Low Carb Bagels",
+    "u": "/low-carb-bagels/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/12/Low-Carb-Bagels-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5,
+    "cal": 379,
+    "pr": 19.4,
+    "fa": 31,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2023-02-23",
+    "cm": 0,
+    "ex": "This is the best keto-friendly bagel recipe going around. They’re made with almond flour so are great for people following a low-carb or keto diet. The bagels can be whipped up in a few simple steps",
+    "pv": 280
+  },
+  "sourceHtml": "pages/low-carb-bagels.html",
+  "scrapedAt": "2026-11-07T08:11:12.039Z"
+}

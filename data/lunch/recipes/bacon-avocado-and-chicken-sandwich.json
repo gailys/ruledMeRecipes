@@ -1,0 +1,408 @@
+{
+  "id": "ruled-26873",
+  "slug": "bacon-avocado-and-chicken-sandwich",
+  "title": "Bacon, Avocado, and Chicken Sandwich",
+  "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Bacon, Avocado, and Chicken Sandwich. Each serving comes out to be 426 calories, 32.3g fats, 3.1g net carbs, and 28.4g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "426 kcal",
+    "fatContent": "32.3 g",
+    "proteinContent": "28.4 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 426,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 28.4,
+    "fatGrams": 32.3
+  },
+  "ingredients": [
+    "3 large egg",
+    "1/8 teaspoon cream of tartar",
+    "1/4 teaspoon salt",
+    "3 ounce cream cheese (cubed)",
+    "1/2 teaspoon garlic powder",
+    "9 ounce boneless, skinless chicken breast",
+    "6 ounce bacon",
+    "3 tablespoon mayonnaise",
+    "3 teaspoon sriracha",
+    "6 ounce pepper jack cheese",
+    "170 gram cherry tomatoes (halved)",
+    "6 ounce avocado meat (mashed)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 300F. Separate the eggs into two clean, dry bowls.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/separate-eggs.jpg"
+    },
+    {
+      "text": "Add the cream of tartar and salt to the egg whites. Using an electric mixer, beat the egg whites until soft, foamy peaks form.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/whip-whites.jpg"
+    },
+    {
+      "text": "In the other bowl, combine the cubed cream cheese with the egg yolks and beat until pale yellow in color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/beat-yolks.jpg"
+    },
+    {
+      "text": "Gently fold the egg whites into the yolk mixture, adding one half at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/fold-in.jpg"
+    },
+    {
+      "text": "Spoon the cloud bread batter onto a baking sheet lined with parchment paper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/spoon-onto-baking-sheet.jpg"
+    },
+    {
+      "text": "Using a spatula, gently press down the tops of the keto cloud bread to form squares. Sprinkle the tops with garlic powder and bake for about 25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/make-them-square.jpg"
+    },
+    {
+      "text": "Meanwhile, cook up the chicken and bacon with some salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/cook-chicken.jpg"
+    },
+    {
+      "text": "To arrange the sandwiches, begin by combining the mayo and Sriracha and spreading it onto the keto cloud bread. Add the chicken on top of the spicy mayo.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/chicken-and-mayo.jpg"
+    },
+    {
+      "text": "Assemble each sandwich with cheese, chicken and bacon, halved grape tomatoes, and mashed avocado, seasoning to taste. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "poultry",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "poultry",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/sandwichedit.jpg",
+      "path": "images/1c499a01b47b87b821409e3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/separate-eggs.jpg",
+      "path": "../../nenaudojama/lunch/images/9b2f24535286c9b02e8a79d6.jpg",
+      "archived": true,
+      "originalPath": "images/9b2f24535286c9b02e8a79d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/whip-whites.jpg",
+      "path": "../../nenaudojama/lunch/images/57f44496abf87bc3dbe8673a.avif",
+      "archived": true,
+      "originalPath": "images/57f44496abf87bc3dbe8673a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/beat-yolks.jpg",
+      "path": "../../nenaudojama/lunch/images/9f2f0fbbc6b7ec60f4f4035a.avif",
+      "archived": true,
+      "originalPath": "images/9f2f0fbbc6b7ec60f4f4035a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/fold-in.jpg",
+      "path": "../../nenaudojama/lunch/images/de30942b045bdf932a863411.avif",
+      "archived": true,
+      "originalPath": "images/de30942b045bdf932a863411.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/spoon-onto-baking-sheet.jpg",
+      "path": "../../nenaudojama/lunch/images/aaa4ae6f08b758d256b37319.avif",
+      "archived": true,
+      "originalPath": "images/aaa4ae6f08b758d256b37319.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/make-them-square.jpg",
+      "path": "../../nenaudojama/lunch/images/ad8b367f7862185e60de8662.avif",
+      "archived": true,
+      "originalPath": "images/ad8b367f7862185e60de8662.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/cook-chicken.jpg",
+      "path": "../../nenaudojama/lunch/images/c991aa29b207f9dc9746ce91.jpg",
+      "archived": true,
+      "originalPath": "images/c991aa29b207f9dc9746ce91.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/chicken-and-mayo.jpg",
+      "path": "../../nenaudojama/lunch/images/a8981e2f61349d0ae1f0e5c1.avif",
+      "archived": true,
+      "originalPath": "images/a8981e2f61349d0ae1f0e5c1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/baconavocadocheesesandwichsecond.jpg",
+      "path": "../../nenaudojama/lunch/images/de32b43de7e437f5416ff170.avif",
+      "archived": true,
+      "originalPath": "images/de32b43de7e437f5416ff170.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/baconavocadocheesesandwichlong.jpg",
+      "path": "../../nenaudojama/lunch/images/8250e36594da8ee5647b2543.avif",
+      "archived": true,
+      "originalPath": "images/8250e36594da8ee5647b2543.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/separate-eggs-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/199517bccc21f28ca5233433.avif",
+      "archived": true,
+      "originalPath": "images/199517bccc21f28ca5233433.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/whip-whites-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/26a687823a1d9eb2855638e3.jpg",
+      "archived": true,
+      "originalPath": "images/26a687823a1d9eb2855638e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/beat-yolks-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6eaf00fc233350929e0f207c.avif",
+      "archived": true,
+      "originalPath": "images/6eaf00fc233350929e0f207c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/fold-in-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e5a39200cfe3bc1247125ad1.avif",
+      "archived": true,
+      "originalPath": "images/e5a39200cfe3bc1247125ad1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/spoon-onto-baking-sheet-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ca0a78c06d146c517977f1ab.avif",
+      "archived": true,
+      "originalPath": "images/ca0a78c06d146c517977f1ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/make-them-square-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e89f1647884bd6c42b6265b5.jpg",
+      "archived": true,
+      "originalPath": "images/e89f1647884bd6c42b6265b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/cook-chicken-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ac0b15cd3733d62093ebdc1c.avif",
+      "archived": true,
+      "originalPath": "images/ac0b15cd3733d62093ebdc1c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/chicken-and-mayo-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6f750eafee2ff294bd6053c3.jpg",
+      "archived": true,
+      "originalPath": "images/6f750eafee2ff294bd6053c3.jpg"
+    }
+  ],
+  "featuredImage": "images/1c499a01b47b87b821409e3a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon, Avocado, and Chicken Sandwich",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Bacon, Avocado, and Chicken Sandwich. Each serving comes out to be 426 calories, 32.3g fats, 3.1g net carbs, and 28.4g protein.",
+    "datePublished": "2015-09-30T19:31:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/09/sandwichedit.jpg"
+    ],
+    "video": {
+      "name": "Bacon, Avocado, and Chicken Sandwich",
+      "description": "Today, we’re going to use keto bread to make delicious and super simple bacon, avocado, and chicken sandwich. It’s a little bit of a play on the classic BLT – made with more fat, more flavor, and the delicious texture you remember!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nKeto Cloud Bread\n3 large eggs\n3 ounces cream cheese\n1/8 teaspoon cream of tartar\n¼ teaspoon salt\n½ teaspoon garlic powder\nThe Filling\n3 tablespoons mayonnaise\n3 teaspoons sriracha\n6 slices bacon\n9 ounces chicken breast\n6 slices pepper jack cheese\n6 whole grape tomatoes\n6 ounces avocado\n\nNutrition Summary:\nThis makes a total of 6 half-sandwich servings of Bacon Avocado Sandwich. Each half comes out to be 405.55 Calories, 31.02g Fats, 4.31g Net Carbs, and 24.8g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-02-11T16:00:03+00:00",
+      "duration": "PT1M39S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NEjdtwWbUtw/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/NEjdtwWbUtw?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=NEjdtwWbUtw",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "3 large egg",
+      "1/8 teaspoon cream of tartar",
+      "1/4 teaspoon salt",
+      "3 ounce cream cheese (cubed)",
+      "1/2 teaspoon garlic powder",
+      "9 ounce boneless, skinless chicken breast",
+      "6 ounce bacon",
+      "3 tablespoon mayonnaise",
+      "3 teaspoon sriracha",
+      "6 ounce pepper jack cheese",
+      "170 gram cherry tomatoes (halved)",
+      "6 ounce avocado meat (mashed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 300F. Separate the eggs into two clean, dry bowls.",
+        "name": "Preheat oven to 300F. Separate the eggs into two clean, dry bowls.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/separate-eggs.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cream of tartar and salt to the egg whites. Using an electric mixer, beat the egg whites until soft, foamy peaks form.",
+        "name": "Add the cream of tartar and salt to the egg whites. Using an electric mixer, beat the egg whites until soft, foamy peaks form.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/whip-whites.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the other bowl, combine the cubed cream cheese with the egg yolks and beat until pale yellow in color.",
+        "name": "In the other bowl, combine the cubed cream cheese with the egg yolks and beat until pale yellow in color.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/beat-yolks.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the egg whites into the yolk mixture, adding one half at a time.",
+        "name": "Gently fold the egg whites into the yolk mixture, adding one half at a time.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/fold-in.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the cloud bread batter onto a baking sheet lined with parchment paper.",
+        "name": "Spoon the cloud bread batter onto a baking sheet lined with parchment paper.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/spoon-onto-baking-sheet.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a spatula, gently press down the tops of the keto cloud bread to form squares. Sprinkle the tops with garlic powder and bake for about 25 minutes.",
+        "name": "Using a spatula, gently press down the tops of the keto cloud bread to form squares. Sprinkle the tops with garlic powder and bake for about 25 minutes.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/make-them-square.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, cook up the chicken and bacon with some salt and pepper.",
+        "name": "Meanwhile, cook up the chicken and bacon with some salt and pepper.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/cook-chicken.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To arrange the sandwiches, begin by combining the mayo and Sriracha and spreading it onto the keto cloud bread. Add the chicken on top of the spicy mayo.",
+        "name": "To arrange the sandwiches, begin by combining the mayo and Sriracha and spreading it onto the keto cloud bread. Add the chicken on top of the spicy mayo.",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/chicken-and-mayo.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble each sandwich with cheese, chicken and bacon, halved grape tomatoes, and mashed avocado, seasoning to taste. Serve and enjoy!",
+        "name": "Assemble each sandwich with cheese, chicken and bacon, halved grape tomatoes, and mashed avocado, seasoning to taste. Serve and enjoy!",
+        "url": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#wprm-recipe-51819-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, pork, poultry, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "426 kcal",
+      "fatContent": "32.3 g",
+      "proteinContent": "28.4 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-avocado-and-chicken-sandwich/"
+  },
+  "sourceIndex": {
+    "id": 26873,
+    "rid": 51819,
+    "t": "Bacon, Avocado, and Chicken Sandwich",
+    "u": "/bacon-avocado-and-chicken-sandwich/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/09/sandwichedit.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.1,
+    "cal": 426,
+    "pr": 28.4,
+    "fa": 32.3,
+    "tm": 40,
+    "sv": 6,
+    "kw": [
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "poultry",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "poultry",
+      "pork"
+    ],
+    "d": "2015-09-30",
+    "cm": 60,
+    "ex": "Bread is something that most of us miss while on keto. From the simplicity of sandwiches, to the gourmet aspect of adding croutons to your soup - it's an ingredient that is both versatile and easy to",
+    "pv": 688
+  },
+  "sourceHtml": "pages/bacon-avocado-and-chicken-sandwich.html",
+  "scrapedAt": "2026-11-07T08:17:47.129Z"
+}

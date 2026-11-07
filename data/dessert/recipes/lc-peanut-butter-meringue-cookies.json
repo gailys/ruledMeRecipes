@@ -1,0 +1,386 @@
+{
+  "id": "ruled-5178",
+  "slug": "lc-peanut-butter-meringue-cookies",
+  "title": "LC Peanut Butter Meringue Cookies",
+  "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 18 servings of LC Peanut Butter Meringue Cookies. Each serving comes out to be 49 calories, 3.6g fats, 1.1g net carbs, and 3.3g protein.",
+  "servings": 18,
+  "yield": [
+    "18",
+    "18 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT120M",
+  "totalTime": "PT140M",
+  "totalMinutes": 140,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "49 kcal",
+    "fatContent": "3.6 g",
+    "proteinContent": "3.3 g",
+    "carbohydrateContent": "1.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 49,
+    "netCarbsGrams": 1.1,
+    "proteinGrams": 3.3,
+    "fatGrams": 3.6
+  },
+  "ingredients": [
+    "1 cup egg white (room temperature)",
+    "1/2 cup peanut butter",
+    "2 tablespoon stevia/erythritol blend"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 200F. Line a baking sheet with parchment paper or a silpat. Pour egg whites into mixer bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Turn on fairly high speed and beat until soft peaks begin to form. Slowly add sweetener by sprinkling on meringue as you beat it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Continue beating until meringue is stiff and does not fall off scraper/spatula/spoon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Add peanut butter and mix on lower speed to blend well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Mixture will be somewhat deflated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "I used a medium Pampered Chef scoop to measure out the cookies. The scoop equals approximately 2 Tbsp. These cookies will not spread, so they don't need much space between them on the baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-5",
+      "imageSource": null
+    },
+    {
+      "text": "Bake for one hour without opening the oven door. Once hour is up, turn off oven and leave cookies in for one more hour. If you open the door during cooking, the cookies will deflate. Remove from oven and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/pb-meringue-cookies-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/cbb2477a7f5cd7289f33d146.avif",
+      "archived": true,
+      "originalPath": "images/cbb2477a7f5cd7289f33d146.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/pb-meringue-cookies-featured.jpg",
+      "path": "images/b798cfe5e9da0ce0f6b6cbeb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/pb-meringue-cookies-second.jpg",
+      "path": "../../nenaudojama/dessert/images/fa5c88b89709222412d9f83e.jpg",
+      "archived": true,
+      "originalPath": "images/fa5c88b89709222412d9f83e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-a110-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/2d88031455869772842a231d.jpg",
+      "archived": true,
+      "originalPath": "images/2d88031455869772842a231d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-a313-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/e5a2a15ff4710ebd778c9eca.jpg",
+      "archived": true,
+      "originalPath": "images/e5a2a15ff4710ebd778c9eca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-a410-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/9625a07d9edcfbf81cf4d027.jpg",
+      "archived": true,
+      "originalPath": "images/9625a07d9edcfbf81cf4d027.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-b-b9-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/325a485ed6d0d07bfba3c59c.jpg",
+      "archived": true,
+      "originalPath": "images/325a485ed6d0d07bfba3c59c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-b8-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/1216399b0a50352e9e78d616.jpg",
+      "archived": true,
+      "originalPath": "images/1216399b0a50352e9e78d616.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a8-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/1ffee865375ce2f0fe397ee8.jpg",
+      "archived": true,
+      "originalPath": "images/1ffee865375ce2f0fe397ee8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-a20-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/d5f7c447cc13809d89b96781.jpg",
+      "archived": true,
+      "originalPath": "images/d5f7c447cc13809d89b96781.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-b-c3-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/73a3ced0b3b1dce15bfb7dad.jpg",
+      "archived": true,
+      "originalPath": "images/73a3ced0b3b1dce15bfb7dad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-b-c-d3-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/e19264d51be9b3bb4979168c.jpg",
+      "archived": true,
+      "originalPath": "images/e19264d51be9b3bb4979168c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/A-beef-jerky2-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/9cf473a2d2fa3ae2a676f47d.jpg",
+      "archived": true,
+      "originalPath": "images/9cf473a2d2fa3ae2a676f47d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/A-candy-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/5ebfe0fb0b414f1629a87bb0.jpg",
+      "archived": true,
+      "originalPath": "images/5ebfe0fb0b414f1629a87bb0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/A-birthday-cake13-660x330.jpg",
+      "path": "../../nenaudojama/dessert/images/61d98a7bff46dd1af6e90480.jpg",
+      "archived": true,
+      "originalPath": "images/61d98a7bff46dd1af6e90480.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/pb-meringue-cookies-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/d7b581e79cdff1ae48dc9ae4.jpg",
+      "archived": true,
+      "originalPath": "images/d7b581e79cdff1ae48dc9ae4.jpg"
+    }
+  ],
+  "featuredImage": "images/b798cfe5e9da0ce0f6b6cbeb.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "LC Peanut Butter Meringue Cookies",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 18 servings of LC Peanut Butter Meringue Cookies. Each serving comes out to be 49 calories, 3.6g fats, 1.1g net carbs, and 3.3g protein.",
+    "datePublished": "2013-12-29T22:10:10+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/pb-meringue-cookies-featured.jpg"
+    ],
+    "video": {
+      "name": "Low Carb Peanut Butter Meringue Cookies",
+      "description": "I meant to post this recipe a while back, but wasn’t able to get it done. I believe this one is worth the wait! It’s very versatile and a good way to use up egg whites if you make homemade mayo like I do. It’s a 3-ingredient recipe, so it comes together quickly and easily. My favorite! The only thing that takes some time is the cooking and cooling.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 cup egg whites, room temp\n½ cup creamy peanut butter\n2 tablespoons sweetener\n\nNutrition Summary: This makes a total of 18 servings of Peanut Butter Meringue Cookies. Each serving comes out to be 49.83 Calories, 3.7g Fats, 1.34g Net Carbs, and 3.06g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-03-19T15:00:30+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 7855
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 295
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 21
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V4YvtXeq-W0/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/V4YvtXeq-W0?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=V4YvtXeq-W0",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "18",
+      "18 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT120M",
+    "totalTime": "PT140M",
+    "recipeIngredient": [
+      "1 cup egg white (room temperature)",
+      "1/2 cup peanut butter",
+      "2 tablespoon stevia/erythritol blend"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 200F. Line a baking sheet with parchment paper or a silpat. Pour egg whites into mixer bowl.",
+        "name": "Preheat oven to 200F. Line a baking sheet with parchment paper or a silpat. Pour egg whites into mixer bowl.",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn on fairly high speed and beat until soft peaks begin to form. Slowly add sweetener by sprinkling on meringue as you beat it.",
+        "name": "Turn on fairly high speed and beat until soft peaks begin to form. Slowly add sweetener by sprinkling on meringue as you beat it.",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue beating until meringue is stiff and does not fall off scraper/spatula/spoon.",
+        "name": "Continue beating until meringue is stiff and does not fall off scraper/spatula/spoon.",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add peanut butter and mix on lower speed to blend well.",
+        "name": "Add peanut butter and mix on lower speed to blend well.",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mixture will be somewhat deflated.",
+        "name": "Mixture will be somewhat deflated.",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "I used a medium Pampered Chef scoop to measure out the cookies. The scoop equals approximately 2 Tbsp. These cookies will not spread, so they don't need much space between them on the baking sheet.",
+        "name": "I used a medium Pampered Chef scoop to measure out the cookies. The scoop equals approximately 2 Tbsp. These cookies will not spread, so they don't need much space between them on the baking sheet.",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-5"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for one hour without opening the oven door. Once hour is up, turn off oven and leave cookies in for one more hour. If you open the door during cooking, the cookies will deflate. Remove from oven and enjoy!",
+        "name": "Bake for one hour without opening the oven door. Once hour is up, turn off oven and leave cookies in for one more hour. If you open the door during cooking, the cookies will deflate. Remove from oven and enjoy!",
+        "url": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#wprm-recipe-50669-step-0-6"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "I made these and they were delicious! Yours seems to be the only recipe for cookies like this on the internet because I was looking for others that I might be able to cook in the air fryer. It’s so hot here and I’m dying to make these cookies but leaving the oven on for an hour is a “no go” 😔 Do you have any other ways to bake them? Also I wondered what kind of peanut butter you used. I have the kind with only peanuts and salt. Thank you for a wonderful cookie recipe 🩷😊",
+        "author": {
+          "@type": "Person",
+          "name": "Rebecca"
+        },
+        "datePublished": "2024-05-26"
+      }
+    ],
+    "recipeCategory": [
+      "Cookies",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, dairy-free, gluten-free, keto, low-carb, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "49 kcal",
+      "fatContent": "3.6 g",
+      "proteinContent": "3.3 g",
+      "carbohydrateContent": "1.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/lc-peanut-butter-meringue-cookies/"
+  },
+  "sourceIndex": {
+    "id": 5178,
+    "rid": 50669,
+    "t": "LC Peanut Butter Meringue Cookies",
+    "u": "/lc-peanut-butter-meringue-cookies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/pb-meringue-cookies-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.1,
+    "cal": 49,
+    "pr": 3.3,
+    "fa": 3.6,
+    "tm": 140,
+    "sv": 18,
+    "kw": [
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2013-12-29",
+    "cm": 24,
+    "ex": "I meant to post this recipe a while back, but wasn't able to get it done. I believe this one is worth the wait! It's very versatile and a good way to use up egg whites if you make homemade mayo like",
+    "pv": 877
+  },
+  "sourceHtml": "pages/lc-peanut-butter-meringue-cookies.html",
+  "scrapedAt": "2026-11-07T08:30:47.652Z"
+}

@@ -1,0 +1,325 @@
+{
+  "id": "ruled-2249",
+  "slug": "fall-season-fat-bombs",
+  "title": "Fall Season Fat Bombs",
+  "url": "https://www.ruled.me/fall-season-fat-bombs/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Fall Season Fat Bombs. Each serving comes out to be 185 calories, 17.6g fats, 2.8g net carbs, and 4.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT120M",
+  "totalTime": "PT125M",
+  "totalMinutes": 125,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "fatContent": "17.6 g",
+    "proteinContent": "4.4 g",
+    "carbohydrateContent": "2.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 185,
+    "netCarbsGrams": 2.8,
+    "proteinGrams": 4.4,
+    "fatGrams": 17.6
+  },
+  "ingredients": [
+    "2 tablespoon peanut butter",
+    "1 tablespoon coconut oil",
+    "1 tablespoon heavy whipping cream",
+    "5 drop liquid sucralose (to taste)",
+    "1 teaspoon unsweetened dark cocoa powder",
+    "1/4 teaspoon ground allspice"
+  ],
+  "instructions": [
+    {
+      "text": "Place the peanut butter into cups or molds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-01.jpg"
+    },
+    {
+      "text": "Add the coconut oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-02.jpg"
+    },
+    {
+      "text": "Pour in the heavy cream and liquid sweetener.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-03.jpg"
+    },
+    {
+      "text": "Measure out the cocoa powder and allspice and add them to the mix.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-04.jpg"
+    },
+    {
+      "text": "Stir well to combine. Clean up the sides a bit to help the fat bombs pop out more easily once frozen.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-05.jpg"
+    },
+    {
+      "text": "Stick in the freezer for about 2 hours, pop them out, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-06.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/bd10e7244193e26c65d506ff.jpg",
+      "archived": true,
+      "originalPath": "images/bd10e7244193e26c65d506ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc.jpg",
+      "path": "images/ce53378e751c9c5aaf4c2156.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-01.jpg",
+      "path": "../../nenaudojama/dessert/images/4cadeee98cd7e24471e11025.jpg",
+      "archived": true,
+      "originalPath": "images/4cadeee98cd7e24471e11025.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-02.jpg",
+      "path": "../../nenaudojama/dessert/images/b14881369c8ed084206e5ff8.jpg",
+      "archived": true,
+      "originalPath": "images/b14881369c8ed084206e5ff8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-03.jpg",
+      "path": "../../nenaudojama/dessert/images/d8963ec98c04be32e203ba78.jpg",
+      "archived": true,
+      "originalPath": "images/d8963ec98c04be32e203ba78.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-04.jpg",
+      "path": "../../nenaudojama/dessert/images/81bb9b5827e0cc4dc000526e.jpg",
+      "archived": true,
+      "originalPath": "images/81bb9b5827e0cc4dc000526e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-05.jpg",
+      "path": "../../nenaudojama/dessert/images/b4acf0de7e79306c16f32dcb.jpg",
+      "archived": true,
+      "originalPath": "images/b4acf0de7e79306c16f32dcb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-06.jpg",
+      "path": "../../nenaudojama/dessert/images/0e8146372aac40ef5b27775b.jpg",
+      "archived": true,
+      "originalPath": "images/0e8146372aac40ef5b27775b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall_season_fat_bombs-2nd.jpg",
+      "path": "../../nenaudojama/dessert/images/e13dca8beecc578819496f71.jpg",
+      "archived": true,
+      "originalPath": "images/e13dca8beecc578819496f71.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/ddbfe0b4c80e5ad7974bad9b.jpg",
+      "archived": true,
+      "originalPath": "images/ddbfe0b4c80e5ad7974bad9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/01044cdb9d4c007c8a1563bf.jpg",
+      "archived": true,
+      "originalPath": "images/01044cdb9d4c007c8a1563bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7cd1bb008b9ba8cd4e32f802.jpg",
+      "archived": true,
+      "originalPath": "images/7cd1bb008b9ba8cd4e32f802.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0d511c04700fb4b7d641eb32.jpg",
+      "archived": true,
+      "originalPath": "images/0d511c04700fb4b7d641eb32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6f26e1ba8ff3fcea1d750760.jpg",
+      "archived": true,
+      "originalPath": "images/6f26e1ba8ff3fcea1d750760.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6cf802f5947ec1dcb667e3d7.jpg",
+      "archived": true,
+      "originalPath": "images/6cf802f5947ec1dcb667e3d7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-06-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0dcda98596ef606da95bd4c5.jpg",
+      "archived": true,
+      "originalPath": "images/0dcda98596ef606da95bd4c5.jpg"
+    }
+  ],
+  "featuredImage": "images/ce53378e751c9c5aaf4c2156.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fall Season Fat Bombs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Fall Season Fat Bombs. Each serving comes out to be 185 calories, 17.6g fats, 2.8g net carbs, and 4.4g protein.",
+    "datePublished": "2013-11-20T20:59:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc.jpg",
+      "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT120M",
+    "totalTime": "PT125M",
+    "recipeIngredient": [
+      "2 tablespoon peanut butter",
+      "1 tablespoon coconut oil",
+      "1 tablespoon heavy whipping cream",
+      "5 drop liquid sucralose (to taste)",
+      "1 teaspoon unsweetened dark cocoa powder",
+      "1/4 teaspoon ground allspice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the peanut butter into cups or molds.",
+        "name": "Place the peanut butter into cups or molds.",
+        "url": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut oil.",
+        "name": "Add the coconut oil.",
+        "url": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the heavy cream and liquid sweetener.",
+        "name": "Pour in the heavy cream and liquid sweetener.",
+        "url": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the cocoa powder and allspice and add them to the mix.",
+        "name": "Measure out the cocoa powder and allspice and add them to the mix.",
+        "url": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir well to combine. Clean up the sides a bit to help the fat bombs pop out more easily once frozen.",
+        "name": "Stir well to combine. Clean up the sides a bit to help the fat bombs pop out more easily once frozen.",
+        "url": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stick in the freezer for about 2 hours, pop them out, and enjoy!",
+        "name": "Stick in the freezer for about 2 hours, pop them out, and enjoy!",
+        "url": "https://www.ruled.me/fall-season-fat-bombs/#wprm-recipe-50437-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/fall-season-fat-bombs-step-06.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "egg-free, fall, gluten-free, keto, low-carb, no-bake, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "185 kcal",
+      "fatContent": "17.6 g",
+      "proteinContent": "4.4 g",
+      "carbohydrateContent": "2.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fall-season-fat-bombs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fall-season-fat-bombs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fall-season-fat-bombs/"
+  },
+  "sourceIndex": {
+    "id": 2249,
+    "rid": 50437,
+    "t": "Fall Season Fat Bombs",
+    "u": "/fall-season-fat-bombs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/11/e7c4dc14bf65aab8f9758f93cc6e9edc-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.8,
+    "cal": 185,
+    "pr": 4.4,
+    "fa": 17.6,
+    "tm": 125,
+    "sv": 2,
+    "kw": [
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients"
+    ],
+    "d": "2013-11-20",
+    "cm": 23,
+    "ex": "I've been seeing more and more people on the keto diet posting their recipes for fat bombs. I decided to jump on the bandwagon and throw mine up too! Since it's Fall, I decided a little bit of",
+    "pv": 185
+  },
+  "sourceHtml": "pages/fall-season-fat-bombs.html",
+  "scrapedAt": "2026-11-07T08:30:47.727Z"
+}

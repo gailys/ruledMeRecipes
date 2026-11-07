@@ -1,0 +1,398 @@
+{
+  "id": "ruled-43676",
+  "slug": "keto-buffalo-chicken-dip",
+  "title": "Keto Buffalo Chicken Dip",
+  "url": "https://www.ruled.me/keto-buffalo-chicken-dip/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Buffalo Chicken Dip. Each serving comes out to be 414 calories, 32.2g fats, 3.6g net carbs, and 27.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "414 kcal",
+    "fatContent": "32.2 g",
+    "proteinContent": "27.7 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 414,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 27.7,
+    "fatGrams": 32.2
+  },
+  "ingredients": [
+    "16 ounce rotisserie chicken (shredded)",
+    "8 ounce cream cheese (cubed)",
+    "1 cup mozzarella cheese (shredded)",
+    "1/3 cup hot sauce (like Frank's)",
+    "1/2 cup ranch dressing (like Ken's )",
+    "1 medium jalapeno pepper (diced)",
+    "1/4 cup green onion (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-1.jpg"
+    },
+    {
+      "text": "Over medium-low heat, add cream cheese and mozzarella cheese to a pan and melt together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-2.jpg"
+    },
+    {
+      "text": "Once the cheese is mixed together well, add in the buffalo hot sauce and shredded chicken. Stir well to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-4.jpg"
+    },
+    {
+      "text": "Add the ranch dressing, jalapeno, and half of the green onion. Mix again until well incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-6.jpg"
+    },
+    {
+      "text": "Continue cooking, stirring occasionally, until mixture is hot. Serve into an insulated serving dish that can keep warm. Top with remaining green onion and (optionally) blue cheese crumbles.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-8.jpg"
+    },
+    {
+      "text": "Pair with keto-friendly accompaniments to dip!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "party-food",
+    "poultry",
+    "quick",
+    "spicy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/670f275a5e157427d8b248fa.avif",
+      "archived": true,
+      "originalPath": "images/670f275a5e157427d8b248fa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Featured.jpg",
+      "path": "../../nenaudojama/side-items/images/15d3815d88a140d326574c62.avif",
+      "archived": true,
+      "originalPath": "images/15d3815d88a140d326574c62.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-1.jpg",
+      "path": "../../nenaudojama/side-items/images/3092adf1716e84af29e995a8.jpg",
+      "archived": true,
+      "originalPath": "images/3092adf1716e84af29e995a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-2.jpg",
+      "path": "../../nenaudojama/side-items/images/1a8e00a94bbf674c9503c8a8.avif",
+      "archived": true,
+      "originalPath": "images/1a8e00a94bbf674c9503c8a8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-4.jpg",
+      "path": "../../nenaudojama/side-items/images/384091b958b0cad10b1a270c.avif",
+      "archived": true,
+      "originalPath": "images/384091b958b0cad10b1a270c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-6.jpg",
+      "path": "../../nenaudojama/side-items/images/8119906d5974e1fa42015d12.avif",
+      "archived": true,
+      "originalPath": "images/8119906d5974e1fa42015d12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-8.jpg",
+      "path": "../../nenaudojama/side-items/images/92be8864c9c00346a8c04f95.jpg",
+      "archived": true,
+      "originalPath": "images/92be8864c9c00346a8c04f95.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Second.jpg",
+      "path": "../../nenaudojama/side-items/images/f06308a89255621026e38175.avif",
+      "archived": true,
+      "originalPath": "images/f06308a89255621026e38175.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Long.jpg",
+      "path": "../../nenaudojama/side-items/images/97b5cfd8e2b053849509226f.avif",
+      "archived": true,
+      "originalPath": "images/97b5cfd8e2b053849509226f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/fe2cbaea2a2b3bc531bca4c8.jpg",
+      "archived": true,
+      "originalPath": "images/fe2cbaea2a2b3bc531bca4c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d6183eb3249d46bac7b80d97.avif",
+      "archived": true,
+      "originalPath": "images/d6183eb3249d46bac7b80d97.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7edb36a006b3a5f9db0bf613.jpg",
+      "archived": true,
+      "originalPath": "images/7edb36a006b3a5f9db0bf613.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-4-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/128f6c963da4a5a04ce2de2f.jpg",
+      "archived": true,
+      "originalPath": "images/128f6c963da4a5a04ce2de2f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-6-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/160fe565bcb99d9e7135497e.avif",
+      "archived": true,
+      "originalPath": "images/160fe565bcb99d9e7135497e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-8-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/a63442a5a925debcd43e1098.jpg",
+      "archived": true,
+      "originalPath": "images/a63442a5a925debcd43e1098.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/15d3815d88a140d326574c62.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Buffalo Chicken Dip",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Keto Buffalo Chicken Dip. Each serving comes out to be 414 calories, 32.2g fats, 3.6g net carbs, and 27.7g protein.",
+    "datePublished": "2020-08-18T09:08:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Buffalo Chicken Dip [Perfect for Parties]",
+      "description": "Keto cooking doesn’t have to be a chore, especially when you’re entertaining non-keto guests. In fact, by simply combining the right mix of keto-friendly ingredients, you can create a satisfying appetizer that everyone will love.\n\nThe perfect example of this is our keto buffalo chicken dip recipe. Essentially, all you have to is melt the cheeses together and fold in the other ingredients — That’s it!\n\nServe with low-carb veggies, pork rinds, or keto tortillas, and no one will notice that it’s keto-friendly.\n\nKeto buffalo chicken dip is typically composed of shredded chicken, Buffalo sauce, cream cheese, shredded cheese, and a creamy keto dressing. As long as you have these components, you’re just a few steps away from making a satisfying keto dip. Though we recommend making it all on the stovetop, there a few other ways to prepare your keto buffalo chicken dip as well.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n16 ounce rotisserie chicken, shredded\n8 ounces cream cheese, cubed\n1 cup mozzarella cheese, shredded\n1/3 cup buffalo hot sauce, like Frank’s\n1/2 cup ranch dressing, like Ken’s\n1 medium jalapeno, diced\n1/4 cup green onion, chopped\n\nNutrition Summary: Makes a total of 6 servings of Keto Buffalo Chicken Dip. Each serving comes out to be 417 calories, 32.3g fat, 4.2g net carbs, and 27.8g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-07-14T14:00:05+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M16S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 5684
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 273
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 14
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9EbqfX99CtM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/9EbqfX99CtM?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=9EbqfX99CtM",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "16 ounce rotisserie chicken (shredded)",
+      "8 ounce cream cheese (cubed)",
+      "1 cup mozzarella cheese (shredded)",
+      "1/3 cup hot sauce (like Frank's)",
+      "1/2 cup ranch dressing (like Ken's )",
+      "1 medium jalapeno pepper (diced)",
+      "1/4 cup green onion (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Over medium-low heat, add cream cheese and mozzarella cheese to a pan and melt together.",
+        "name": "Over medium-low heat, add cream cheese and mozzarella cheese to a pan and melt together.",
+        "url": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cheese is mixed together well, add in the buffalo hot sauce and shredded chicken. Stir well to combine.",
+        "name": "Once the cheese is mixed together well, add in the buffalo hot sauce and shredded chicken. Stir well to combine.",
+        "url": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ranch dressing, jalapeno, and half of the green onion. Mix again until well incorporated.",
+        "name": "Add the ranch dressing, jalapeno, and half of the green onion. Mix again until well incorporated.",
+        "url": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue cooking, stirring occasionally, until mixture is hot. Serve into an insulated serving dish that can keep warm. Top with remaining green onion and (optionally) blue cheese crumbles.",
+        "name": "Continue cooking, stirring occasionally, until mixture is hot. Serve into an insulated serving dish that can keep warm. Top with remaining green onion and (optionally) blue cheese crumbles.",
+        "url": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Low-carb-buffalo-chicken-dip-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pair with keto-friendly accompaniments to dip!",
+        "name": "Pair with keto-friendly accompaniments to dip!",
+        "url": "https://www.ruled.me/keto-buffalo-chicken-dip/#wprm-recipe-53469-step-0-5"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "It tastes wonderful and it is KETO!!!",
+        "author": {
+          "@type": "Person",
+          "name": "Barb West"
+        },
+        "datePublished": "2024-12-03"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, party-food, poultry, quick, spicy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "414 kcal",
+      "fatContent": "32.2 g",
+      "proteinContent": "27.7 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-buffalo-chicken-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-buffalo-chicken-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-buffalo-chicken-dip/"
+  },
+  "sourceIndex": {
+    "id": 43676,
+    "rid": 53469,
+    "t": "Keto Buffalo Chicken Dip",
+    "u": "/keto-buffalo-chicken-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Buffalo-Chicken-Dip-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.6,
+    "cal": 414,
+    "pr": 27.7,
+    "fa": 32.2,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "party-food",
+      "poultry",
+      "quick",
+      "spicy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-08-18",
+    "cm": 1,
+    "ex": "Keto cooking doesn’t have to be a chore, especially when you’re entertaining non-keto guests. In fact, by simply combining the right mix of keto-friendly ingredients, you can create a satisfying",
+    "pv": 210
+  },
+  "sourceHtml": "pages/keto-buffalo-chicken-dip.html",
+  "scrapedAt": "2026-11-07T08:32:06.178Z"
+}

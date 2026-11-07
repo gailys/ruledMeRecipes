@@ -1,0 +1,330 @@
+{
+  "id": "ruled-58001",
+  "slug": "keto-cottage-cheese-pancakes",
+  "title": "Keto Cottage Cheese Pancakes",
+  "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Cottage Cheese Pancakes. Each serving comes out to be 506 calories, 35g fats, 7.9g net carbs, and 35.6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "506 kcal",
+    "fatContent": "35 g",
+    "proteinContent": "35.6 g",
+    "carbohydrateContent": "7.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 506,
+    "netCarbsGrams": 7.9,
+    "proteinGrams": 35.6,
+    "fatGrams": 35
+  },
+  "ingredients": [
+    "1 cup almond flour",
+    "1/2 cup unflavored low-carb protein powder",
+    "3 tablespoon allulose",
+    "1 teaspoon baking powder",
+    "1/2 teaspoon xanthan gum",
+    "1 cup cottage cheese",
+    "3 large egg",
+    "2 teaspoon lemon zest",
+    "1 teaspoon vanilla extract",
+    "2 tablespoon lemon juice",
+    "2 tablespoon butter (for greasing pan)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-1.jpg"
+    },
+    {
+      "text": "In a bowl, whisk together almond flour, protein powder, allulose, baking powder, and xanthan gum. Break up any clumps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-2.jpg"
+    },
+    {
+      "text": "In a blender, combine the cottage cheese, eggs, and vanilla extract. Once smooth, add in the lemon zest and blend again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-3.jpg"
+    },
+    {
+      "text": "Slowly add lemon juice into the batter until just scoopable. Pre-heat pan or griddle over medium heat and brush with oil or butter. Once hot, create pancakes about 4 inches in diameter. Cook until edges are set and bubbles are forming on the top. About 2-4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-5.jpg"
+    },
+    {
+      "text": "Flip and continue to cook until bottom is golden brown, about 2 more minutes. Repeat the process with remaining batter, adding more oil or butter to pan as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-6.jpg"
+    },
+    {
+      "text": "Serve warm with additional lemon and optionally topped with powdered allulose. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "batch-cooking",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/205bb528b200a66a29a0c802.avif",
+      "archived": true,
+      "originalPath": "images/205bb528b200a66a29a0c802.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured.jpg",
+      "path": "images/9d9138196a7f04ec20bd828b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/3a9f828240351fb11ab73a74.avif",
+      "archived": true,
+      "originalPath": "images/3a9f828240351fb11ab73a74.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/a22102b02a5e5c5d0b1bfcb1.avif",
+      "archived": true,
+      "originalPath": "images/a22102b02a5e5c5d0b1bfcb1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/f9104f929287414768de48d0.jpg",
+      "archived": true,
+      "originalPath": "images/f9104f929287414768de48d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/519cdc739c411c78632cbfc0.avif",
+      "archived": true,
+      "originalPath": "images/519cdc739c411c78632cbfc0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/c182bd3d525ec9c49140e855.avif",
+      "archived": true,
+      "originalPath": "images/c182bd3d525ec9c49140e855.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/21db9c71c359b344969cc678.avif",
+      "archived": true,
+      "originalPath": "images/21db9c71c359b344969cc678.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/61cadae77abaac12098458c0.avif",
+      "archived": true,
+      "originalPath": "images/61cadae77abaac12098458c0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/f0f762957e0a7dd541091f39.avif",
+      "archived": true,
+      "originalPath": "images/f0f762957e0a7dd541091f39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7956294e263b0275f5eb2f46.jpg",
+      "archived": true,
+      "originalPath": "images/7956294e263b0275f5eb2f46.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5260a834b7f7ac98b8217045.jpg",
+      "archived": true,
+      "originalPath": "images/5260a834b7f7ac98b8217045.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/355f3bd4116788899c7aa7cc.avif",
+      "archived": true,
+      "originalPath": "images/355f3bd4116788899c7aa7cc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5e978eecedfe674d2bb438cb.jpg",
+      "archived": true,
+      "originalPath": "images/5e978eecedfe674d2bb438cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4a781aec17c232f080d53b92.avif",
+      "archived": true,
+      "originalPath": "images/4a781aec17c232f080d53b92.avif"
+    }
+  ],
+  "featuredImage": "images/9d9138196a7f04ec20bd828b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cottage Cheese Pancakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Cottage Cheese Pancakes. Each serving comes out to be 506 calories, 35g fats, 7.9g net carbs, and 35.6g protein.",
+    "datePublished": "2025-07-23T09:12:23+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured-480x270.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1 cup almond flour",
+      "1/2 cup unflavored low-carb protein powder",
+      "3 tablespoon allulose",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon xanthan gum",
+      "1 cup cottage cheese",
+      "3 large egg",
+      "2 teaspoon lemon zest",
+      "1 teaspoon vanilla extract",
+      "2 tablespoon lemon juice",
+      "2 tablespoon butter (for greasing pan)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients.",
+        "name": "Gather and prep all of your ingredients.",
+        "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, whisk together almond flour, protein powder, allulose, baking powder, and xanthan gum. Break up any clumps.",
+        "name": "In a bowl, whisk together almond flour, protein powder, allulose, baking powder, and xanthan gum. Break up any clumps.",
+        "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender, combine the cottage cheese, eggs, and vanilla extract. Once smooth, add in the lemon zest and blend again.",
+        "name": "In a blender, combine the cottage cheese, eggs, and vanilla extract. Once smooth, add in the lemon zest and blend again.",
+        "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add lemon juice into the batter until just scoopable. Pre-heat pan or griddle over medium heat and brush with oil or butter. Once hot, create pancakes about 4 inches in diameter. Cook until edges are set and bubbles are forming on the top. About 2-4 minutes.",
+        "name": "Slowly add lemon juice into the batter until just scoopable. Pre-heat pan or griddle over medium heat and brush with oil or butter. Once hot, create pancakes about 4 inches in diameter. Cook until edges are set and bubbles are forming on the top. About 2-4 minutes.",
+        "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip and continue to cook until bottom is golden brown, about 2 more minutes. Repeat the process with remaining batter, adding more oil or butter to pan as needed.",
+        "name": "Flip and continue to cook until bottom is golden brown, about 2 more minutes. Repeat the process with remaining batter, adding more oil or butter to pan as needed.",
+        "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve warm with additional lemon and optionally topped with powdered allulose. Enjoy!",
+        "name": "Serve warm with additional lemon and optionally topped with powdered allulose. Enjoy!",
+        "url": "https://www.ruled.me/keto-cottage-cheese-pancakes/#wprm-recipe-58011-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, batch-cooking, gluten-free, high-fat, high-protein, keto, low-carb, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "506 kcal",
+      "fatContent": "35 g",
+      "proteinContent": "35.6 g",
+      "carbohydrateContent": "7.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cottage-cheese-pancakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cottage-cheese-pancakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cottage-cheese-pancakes/"
+  },
+  "sourceIndex": {
+    "id": 58001,
+    "rid": 58011,
+    "t": "Keto Cottage Cheese Pancakes",
+    "u": "/keto-cottage-cheese-pancakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2025/07/Cottage-Cheese-Pancakes-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.9,
+    "cal": 506,
+    "pr": 35.6,
+    "fa": 35,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "batch-cooking",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "stovetop",
+      "high-protein"
+    ],
+    "d": "2025-07-23",
+    "cm": 0,
+    "ex": "Start your morning right with these Keto Cottage Cheese Pancakes, offering a perfect blend of protein, flavor, and low-carb goodness. Whizzed together in a blender, the batter features cottage",
+    "pv": 2124
+  },
+  "sourceHtml": "pages/keto-cottage-cheese-pancakes.html",
+  "scrapedAt": "2026-11-07T08:11:11.719Z"
+}

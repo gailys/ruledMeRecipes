@@ -1,0 +1,346 @@
+{
+  "id": "ruled-2135",
+  "slug": "minute-chocolate-brownie",
+  "title": "1-Minute Molten Chocolate Brownie",
+  "url": "https://www.ruled.me/minute-chocolate-brownie/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of 1-Minute Molten Chocolate Brownie. The serving comes out to be 242 calories, 11g fats, 1.9g net carbs, and 32.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "242 kcal",
+    "fatContent": "11 g",
+    "proteinContent": "32.6 g",
+    "carbohydrateContent": "1.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 242,
+    "netCarbsGrams": 1.9,
+    "proteinGrams": 32.6,
+    "fatGrams": 11
+  },
+  "ingredients": [
+    "1 large egg",
+    "1 tablespoon heavy whipping cream",
+    "2 tablespoon unsweetened almond milk",
+    "5 drop liquid stevia",
+    "33 gram low-carb chocolate protein powder (such as Isopure)"
+  ],
+  "instructions": [
+    {
+      "text": "Crack the egg into a small mug.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/FindingtheRightSizeMug.jpg"
+    },
+    {
+      "text": "Add the heavy cream, almond milk, and stevia. Mix together well, until the mixture is solid in color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/AddSteviaCreamAlmondMilk.jpg"
+    },
+    {
+      "text": "Add half of the protein powder, stir, and then add the other half.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/ProteinPowderScoop.jpg"
+    },
+    {
+      "text": "Mix well to combine. Don't worry if there are still a few little lumps; they tend to dissolve while cooking in the microwave.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/AddProteinPowder.jpg"
+    },
+    {
+      "text": "Microwave for 45–60 seconds on regular power.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/MinuteBrownieMixedTogether.jpg"
+    },
+    {
+      "text": "Keep an eye on the mug as it cooks, stopping the microwave when the mixture begins to rise.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/MicrowavingKetoBrownie.jpg"
+    },
+    {
+      "text": "Mix the brownie up to let the liquid soak into the semi-dry brownie portion. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/FinishedMicrowavingKetoBrownie.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "few-ingredients",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/1MinuteMoltenBrownie-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/22175567a3a2669b2b8f4115.avif",
+      "archived": true,
+      "originalPath": "images/22175567a3a2669b2b8f4115.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/1MinuteMoltenBrownie.jpg",
+      "path": "images/dbb9b715773b7fdbcddf6ec5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/FindingtheRightSizeMug.jpg",
+      "path": "../../nenaudojama/dessert/images/b95001145872558fca44aebc.avif",
+      "archived": true,
+      "originalPath": "images/b95001145872558fca44aebc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/AddSteviaCreamAlmondMilk.jpg",
+      "path": "../../nenaudojama/dessert/images/615e60ad4472b092931c2498.avif",
+      "archived": true,
+      "originalPath": "images/615e60ad4472b092931c2498.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/ProteinPowderScoop.jpg",
+      "path": "../../nenaudojama/dessert/images/41625c165ca25553aaaf15ce.avif",
+      "archived": true,
+      "originalPath": "images/41625c165ca25553aaaf15ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/AddProteinPowder.jpg",
+      "path": "../../nenaudojama/dessert/images/ea9faedff8cf2ef2e0f06b7b.avif",
+      "archived": true,
+      "originalPath": "images/ea9faedff8cf2ef2e0f06b7b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/MinuteBrownieMixedTogether.jpg",
+      "path": "../../nenaudojama/dessert/images/ae27d40120371b43b795f19c.jpg",
+      "archived": true,
+      "originalPath": "images/ae27d40120371b43b795f19c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/MicrowavingKetoBrownie.jpg",
+      "path": "../../nenaudojama/dessert/images/9606f58ceefac19e11b6360c.avif",
+      "archived": true,
+      "originalPath": "images/9606f58ceefac19e11b6360c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/FinishedMicrowavingKetoBrownie.jpg",
+      "path": "../../nenaudojama/dessert/images/3cc405164801df68ea422ca2.avif",
+      "archived": true,
+      "originalPath": "images/3cc405164801df68ea422ca2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/1MinuteMoltenBrownieSecond.jpg",
+      "path": "../../nenaudojama/dessert/images/8f00c7c723d25ec57f4d683d.jpg",
+      "archived": true,
+      "originalPath": "images/8f00c7c723d25ec57f4d683d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/1MinuteMoltenBrownieLong.jpg",
+      "path": "../../nenaudojama/dessert/images/8a68be7ddfcf684991dd9c77.avif",
+      "archived": true,
+      "originalPath": "images/8a68be7ddfcf684991dd9c77.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/FindingtheRightSizeMug-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b37e3e459219441b1670afc6.jpg",
+      "archived": true,
+      "originalPath": "images/b37e3e459219441b1670afc6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/AddSteviaCreamAlmondMilk-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/22017c39a55538b3481ba1dd.avif",
+      "archived": true,
+      "originalPath": "images/22017c39a55538b3481ba1dd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/ProteinPowderScoop-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e1691a42b1c318f25d440fd5.avif",
+      "archived": true,
+      "originalPath": "images/e1691a42b1c318f25d440fd5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/AddProteinPowder-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c7fa7eef1b33f86b683df115.avif",
+      "archived": true,
+      "originalPath": "images/c7fa7eef1b33f86b683df115.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/MinuteBrownieMixedTogether-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f85f6e21f8b658ca064294f4.avif",
+      "archived": true,
+      "originalPath": "images/f85f6e21f8b658ca064294f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/MicrowavingKetoBrownie-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3db0f6f711170a8d6448cecc.avif",
+      "archived": true,
+      "originalPath": "images/3db0f6f711170a8d6448cecc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/FinishedMicrowavingKetoBrownie-523x350.jpg",
+      "path": "../../nenaudojama/dessert/images/72d2110cc65f7acf94b81011.avif",
+      "archived": true,
+      "originalPath": "images/72d2110cc65f7acf94b81011.avif"
+    }
+  ],
+  "featuredImage": "images/dbb9b715773b7fdbcddf6ec5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "1-Minute Molten Chocolate Brownie",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of 1-Minute Molten Chocolate Brownie. The serving comes out to be 242 calories, 11g fats, 1.9g net carbs, and 32.6g protein.",
+    "datePublished": "2013-11-18T04:36:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/11/1MinuteMoltenBrownie.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 large egg",
+      "1 tablespoon heavy whipping cream",
+      "2 tablespoon unsweetened almond milk",
+      "5 drop liquid stevia",
+      "33 gram low-carb chocolate protein powder (such as Isopure)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Crack the egg into a small mug.",
+        "name": "Crack the egg into a small mug.",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/FindingtheRightSizeMug.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the heavy cream, almond milk, and stevia. Mix together well, until the mixture is solid in color.",
+        "name": "Add the heavy cream, almond milk, and stevia. Mix together well, until the mixture is solid in color.",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/AddSteviaCreamAlmondMilk.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add half of the protein powder, stir, and then add the other half.",
+        "name": "Add half of the protein powder, stir, and then add the other half.",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/ProteinPowderScoop.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix well to combine. Don't worry if there are still a few little lumps; they tend to dissolve while cooking in the microwave.",
+        "name": "Mix well to combine. Don't worry if there are still a few little lumps; they tend to dissolve while cooking in the microwave.",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/AddProteinPowder.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave for 45–60 seconds on regular power.",
+        "name": "Microwave for 45–60 seconds on regular power.",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/MinuteBrownieMixedTogether.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Keep an eye on the mug as it cooks, stopping the microwave when the mixture begins to rise.",
+        "name": "Keep an eye on the mug as it cooks, stopping the microwave when the mixture begins to rise.",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/MicrowavingKetoBrownie.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the brownie up to let the liquid soak into the semi-dry brownie portion. Enjoy!",
+        "name": "Mix the brownie up to let the liquid soak into the semi-dry brownie portion. Enjoy!",
+        "url": "https://www.ruled.me/minute-chocolate-brownie/#wprm-recipe-50441-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/FinishedMicrowavingKetoBrownie.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-protein, keto, low-carb, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "242 kcal",
+      "fatContent": "11 g",
+      "proteinContent": "32.6 g",
+      "carbohydrateContent": "1.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/minute-chocolate-brownie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/minute-chocolate-brownie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/minute-chocolate-brownie/"
+  },
+  "sourceIndex": {
+    "id": 2135,
+    "rid": 50441,
+    "t": "1 Minute Molten Chocolate Brownie",
+    "u": "/minute-chocolate-brownie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/11/1MinuteMoltenBrownie-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.9,
+    "cal": 242,
+    "pr": 32.6,
+    "fa": 11,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "few-ingredients",
+      "high-protein"
+    ],
+    "d": "2013-11-17",
+    "cm": 5,
+    "ex": "While it's a rare occasion, I might still have the macros left for a protein-heavy dessert. Or, if I'm hungry midday and want a higher protein option to pair with something fatty, this does a great",
+    "pv": 716
+  },
+  "sourceHtml": "pages/minute-chocolate-brownie.html",
+  "scrapedAt": "2026-11-07T08:30:47.738Z"
+}

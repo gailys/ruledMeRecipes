@@ -1,0 +1,423 @@
+{
+  "id": "ruled-6008",
+  "slug": "homemade-macadamia-nut-butter",
+  "title": "Homemade Macadamia Nut Butter",
+  "url": "https://www.ruled.me/homemade-macadamia-nut-butter/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 40 servings of Homemade Macadamia Nut Butter. Each serving comes out to be 94 calories, 9.9g fats, 0.6g net carbs, and 0.9g protein.",
+  "servings": 40,
+  "yield": [
+    "40",
+    "40 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "fatContent": "9.9 g",
+    "proteinContent": "0.9 g",
+    "carbohydrateContent": "0.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 94,
+    "netCarbsGrams": 0.6,
+    "proteinGrams": 0.9,
+    "fatGrams": 9.9
+  },
+  "ingredients": [
+    "16 ounce macadamia nuts",
+    "4 tablespoon coconut oil",
+    "2 tablespoon erythritol (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out the macadamia nuts using a kitchen scale.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052024.jpg"
+    },
+    {
+      "text": "Place the nuts into a food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052026.jpg"
+    },
+    {
+      "text": "Process the nuts as finely as possible. The nuts will begin to rise up the sides of the food processor. Use a silicone spatula to scrape down the sides to get a consistent texture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052032.jpg"
+    },
+    {
+      "text": "Continue processing the nuts. The natural oils will begin to emerge, creating a creamier mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052035.jpg"
+    },
+    {
+      "text": "Continue scraping down the sides as the nut butter rises up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052037.jpg"
+    },
+    {
+      "text": "The nut butter is finished once it has a very creamy consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052038.jpg"
+    },
+    {
+      "text": "Add in the coconut oil and erythritol. This will help it become a spreadable mixture that will take on a better texture in the fridge.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052040.jpg"
+    },
+    {
+      "text": "Continue processing the mixture until very smooth and creamy. You can taste and add sweetener, if you prefer a sweeter flavor, or would like to add some other addition.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052042.jpg"
+    },
+    {
+      "text": "Pour the nut butter into a container for later use.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/P1052044.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/homemademacadamianutbutter.jpg",
+      "path": "../../nenaudojama/side-items/images/92b03ab47e0b0e8d591a3aac.jpg",
+      "archived": true,
+      "originalPath": "images/92b03ab47e0b0e8d591a3aac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052024.jpg",
+      "path": "../../nenaudojama/side-items/images/1a632d75b463a603113b8dfc.avif",
+      "archived": true,
+      "originalPath": "images/1a632d75b463a603113b8dfc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052026.jpg",
+      "path": "../../nenaudojama/side-items/images/6b324604937de36e6c67adb5.avif",
+      "archived": true,
+      "originalPath": "images/6b324604937de36e6c67adb5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052032.jpg",
+      "path": "../../nenaudojama/side-items/images/5efe92d302f1dd797ab295dc.jpg",
+      "archived": true,
+      "originalPath": "images/5efe92d302f1dd797ab295dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052035.jpg",
+      "path": "../../nenaudojama/side-items/images/7d746fc8d411d5823a8059f9.jpg",
+      "archived": true,
+      "originalPath": "images/7d746fc8d411d5823a8059f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052037.jpg",
+      "path": "../../nenaudojama/side-items/images/b3244a97dc73672cbf529d3f.avif",
+      "archived": true,
+      "originalPath": "images/b3244a97dc73672cbf529d3f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052038.jpg",
+      "path": "../../nenaudojama/side-items/images/1bb25fb6ffc9404457394386.avif",
+      "archived": true,
+      "originalPath": "images/1bb25fb6ffc9404457394386.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052040.jpg",
+      "path": "../../nenaudojama/side-items/images/b83aedaeedad68073f52f02c.avif",
+      "archived": true,
+      "originalPath": "images/b83aedaeedad68073f52f02c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052042.jpg",
+      "path": "../../nenaudojama/side-items/images/0dce9a6d0fa05de27b81b5d5.avif",
+      "archived": true,
+      "originalPath": "images/0dce9a6d0fa05de27b81b5d5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052044.jpg",
+      "path": "../../nenaudojama/side-items/images/967ae4785ac7d9f901d7c9c5.jpg",
+      "archived": true,
+      "originalPath": "images/967ae4785ac7d9f901d7c9c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052079-300x225.jpg",
+      "path": "../../nenaudojama/side-items/images/89210f660c71e967dd63de7c.avif",
+      "archived": true,
+      "originalPath": "images/89210f660c71e967dd63de7c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052033.jpg",
+      "path": "../../nenaudojama/side-items/images/d8f6872f655daff71c3e75c6.avif",
+      "archived": true,
+      "originalPath": "images/d8f6872f655daff71c3e75c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052024-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/04ad84f8bbfb2ba274250f2e.jpg",
+      "archived": true,
+      "originalPath": "images/04ad84f8bbfb2ba274250f2e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052026-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/13a41b6f5cc7ada28ff98722.jpg",
+      "archived": true,
+      "originalPath": "images/13a41b6f5cc7ada28ff98722.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052032-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5f40e7d839248513cedad493.jpg",
+      "archived": true,
+      "originalPath": "images/5f40e7d839248513cedad493.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052035-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6aa3164bb0cd02da3474fd18.jpg",
+      "archived": true,
+      "originalPath": "images/6aa3164bb0cd02da3474fd18.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052037-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/50afc7b08ef616485ebe597e.jpg",
+      "archived": true,
+      "originalPath": "images/50afc7b08ef616485ebe597e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052038-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c3ac783d32fc0f964c7e797f.jpg",
+      "archived": true,
+      "originalPath": "images/c3ac783d32fc0f964c7e797f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052040-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/532732b231f7bbbf01354286.jpg",
+      "archived": true,
+      "originalPath": "images/532732b231f7bbbf01354286.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052042-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/78bc96ccc93d97b333ec8822.jpg",
+      "archived": true,
+      "originalPath": "images/78bc96ccc93d97b333ec8822.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/P1052044-466x350.jpg",
+      "path": "../../nenaudojama/side-items/images/64b31659c69af967225ad555.jpg",
+      "archived": true,
+      "originalPath": "images/64b31659c69af967225ad555.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/92b03ab47e0b0e8d591a3aac.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Homemade Macadamia Nut Butter",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 40 servings of Homemade Macadamia Nut Butter. Each serving comes out to be 94 calories, 9.9g fats, 0.6g net carbs, and 0.9g protein.",
+    "datePublished": "2014-01-08T18:07:36+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/homemademacadamianutbutter.jpg"
+    ],
+    "recipeYield": [
+      "40",
+      "40 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "16 ounce macadamia nuts",
+      "4 tablespoon coconut oil",
+      "2 tablespoon erythritol (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the macadamia nuts using a kitchen scale.",
+        "name": "Measure out the macadamia nuts using a kitchen scale.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052024.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the nuts into a food processor.",
+        "name": "Place the nuts into a food processor.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052026.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Process the nuts as finely as possible. The nuts will begin to rise up the sides of the food processor. Use a silicone spatula to scrape down the sides to get a consistent texture.",
+        "name": "Process the nuts as finely as possible. The nuts will begin to rise up the sides of the food processor. Use a silicone spatula to scrape down the sides to get a consistent texture.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052032.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue processing the nuts. The natural oils will begin to emerge, creating a creamier mixture.",
+        "name": "Continue processing the nuts. The natural oils will begin to emerge, creating a creamier mixture.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052035.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue scraping down the sides as the nut butter rises up.",
+        "name": "Continue scraping down the sides as the nut butter rises up.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052037.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The nut butter is finished once it has a very creamy consistency.",
+        "name": "The nut butter is finished once it has a very creamy consistency.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052038.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the coconut oil and erythritol. This will help it become a spreadable mixture that will take on a better texture in the fridge.",
+        "name": "Add in the coconut oil and erythritol. This will help it become a spreadable mixture that will take on a better texture in the fridge.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052040.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue processing the mixture until very smooth and creamy. You can taste and add sweetener, if you prefer a sweeter flavor, or would like to add some other addition.",
+        "name": "Continue processing the mixture until very smooth and creamy. You can taste and add sweetener, if you prefer a sweeter flavor, or would like to add some other addition.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052042.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the nut butter into a container for later use.",
+        "name": "Pour the nut butter into a container for later use.",
+        "url": "https://www.ruled.me/homemade-macadamia-nut-butter/#wprm-recipe-50705-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/P1052044.jpg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Very delicious",
+        "author": {
+          "@type": "Person",
+          "name": "Mjv"
+        },
+        "datePublished": "2025-11-21"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-bake, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "94 kcal",
+      "fatContent": "9.9 g",
+      "proteinContent": "0.9 g",
+      "carbohydrateContent": "0.6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/homemade-macadamia-nut-butter/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/homemade-macadamia-nut-butter/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/homemade-macadamia-nut-butter/"
+  },
+  "sourceIndex": {
+    "id": 6008,
+    "rid": 50705,
+    "t": "Homemade Macadamia Nut Butter",
+    "u": "/homemade-macadamia-nut-butter/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/homemademacadamianutbutter.jpg",
+    "w": 768,
+    "h": 472,
+    "c": "side-items",
+    "nc": 0.6,
+    "cal": 94,
+    "pr": 0.9,
+    "fa": 9.9,
+    "tm": 10,
+    "sv": 40,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2014-01-08",
+    "cm": 11,
+    "ex": "To be honest I've been seeing everyone telling me to to do a post on how to make your own nut butter for a while now. I'm pretty lazy when it comes to making my own foods that I can easily just buy",
+    "pv": 340
+  },
+  "sourceHtml": "pages/homemade-macadamia-nut-butter.html",
+  "scrapedAt": "2026-11-07T08:33:08.911Z"
+}

@@ -1,0 +1,320 @@
+{
+  "id": "ruled-41567",
+  "slug": "keto-chicken-enchiladas-with-green-chile-sauce",
+  "title": "Keto Chicken Enchiladas with Green Chile Sauce",
+  "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Chicken Enchiladas with Green Chile Sauce. Each serving comes out to be 265 calories, 17.4g fats, 6.9g net carbs, and 17.3g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "265 kcal",
+    "fatContent": "17.4 g",
+    "proteinContent": "17.3 g",
+    "carbohydrateContent": "6.9 g"
+  },
+  "nutritionPerServing": {
+    "calories": 265,
+    "netCarbsGrams": 6.9,
+    "proteinGrams": 17.3,
+    "fatGrams": 17.4
+  },
+  "ingredients": [
+    "3 cup cooked chicken (shredded)",
+    "4 medium green onion (chopped)",
+    "1 cup cheddar cheese (shredded)",
+    "1/3 cup fresh cilantro (chopped)",
+    "1/2 teaspoon cumin",
+    "salt and pepper (to taste)",
+    "1 cup chicken broth",
+    "1 cup sour cream",
+    "14 ounce canned green chile",
+    "3/4 medium green cabbage"
+  ],
+  "instructions": [
+    {
+      "text": "Bring a pot of salted water to a boil. Preheat your oven to 350F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-01.jpg"
+    },
+    {
+      "text": "Mix the shredded chicken with green onion, ¾ of the shredded cheese, cilantro, cumin, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-02.jpg"
+    },
+    {
+      "text": "Pour the chicken broth into a saucepan then bring to a boil. Turn the heat down then stir in the sour cream and green chiles. Let the sauce simmer, stirring often, until the sauce thickens.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Peel the leaves off the cabbage, being careful not to tear them. Plunge the cabbage leaves into the boiling water for a few minutes, before drying them on paper towels.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-03.jpg"
+    },
+    {
+      "text": "Spoon some of the chicken mixture into each of the cabbage leaves, placing a spoonful of green chile sauce on top. Roll the leaves up then place seam side down inside a baking dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-05.jpg"
+    },
+    {
+      "text": "Spread the rest of the green chile sauce on top of the cabbage rolls, then top with the remaining cheese. Bake for 25-30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/10d023e8fca21fde9d0bfffa.avif",
+      "archived": true,
+      "originalPath": "images/10d023e8fca21fde9d0bfffa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-featured.jpg",
+      "path": "images/96e381402fbd6c1f44c0119c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-01.jpg",
+      "path": "../../nenaudojama/dinner/images/a620957b77d141b63d2786c3.avif",
+      "archived": true,
+      "originalPath": "images/a620957b77d141b63d2786c3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-02.jpg",
+      "path": "../../nenaudojama/dinner/images/e2e43df5e0d3766c5b4e0dbd.avif",
+      "archived": true,
+      "originalPath": "images/e2e43df5e0d3766c5b4e0dbd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-03.jpg",
+      "path": "../../nenaudojama/dinner/images/9d520ed74347102d55ed8e84.jpg",
+      "archived": true,
+      "originalPath": "images/9d520ed74347102d55ed8e84.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-05.jpg",
+      "path": "../../nenaudojama/dinner/images/265ca82965fad072bc127deb.jpg",
+      "archived": true,
+      "originalPath": "images/265ca82965fad072bc127deb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-second.jpg",
+      "path": "../../nenaudojama/dinner/images/580386f12354adaa2c220add.jpg",
+      "archived": true,
+      "originalPath": "images/580386f12354adaa2c220add.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/c56b0a75cb0778b7d22f2ee6.jpg",
+      "archived": true,
+      "originalPath": "images/c56b0a75cb0778b7d22f2ee6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/e3e9f5ed54ef15a448046e09.jpg",
+      "archived": true,
+      "originalPath": "images/e3e9f5ed54ef15a448046e09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bb72840116f6e76906eae437.jpg",
+      "archived": true,
+      "originalPath": "images/bb72840116f6e76906eae437.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/961ce1e7b04643c172a739b1.jpg",
+      "archived": true,
+      "originalPath": "images/961ce1e7b04643c172a739b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9bf86a13faef44ad8e61c4f0.jpg",
+      "archived": true,
+      "originalPath": "images/9bf86a13faef44ad8e61c4f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/94d6f4a97075a6390f7b82a3.jpg",
+      "archived": true,
+      "originalPath": "images/94d6f4a97075a6390f7b82a3.jpg"
+    }
+  ],
+  "featuredImage": "images/96e381402fbd6c1f44c0119c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken Enchiladas with Green Chile Sauce",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Keto Chicken Enchiladas with Green Chile Sauce. Each serving comes out to be 265 calories, 17.4g fats, 6.9g net carbs, and 17.3g protein.",
+    "datePublished": "2019-10-08T09:00:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "3 cup cooked chicken (shredded)",
+      "4 medium green onion (chopped)",
+      "1 cup cheddar cheese (shredded)",
+      "1/3 cup fresh cilantro (chopped)",
+      "1/2 teaspoon cumin",
+      "salt and pepper (to taste)",
+      "1 cup chicken broth",
+      "1 cup sour cream",
+      "14 ounce canned green chile",
+      "3/4 medium green cabbage"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of salted water to a boil. Preheat your oven to 350F.",
+        "name": "Bring a pot of salted water to a boil. Preheat your oven to 350F.",
+        "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the shredded chicken with green onion, ¾ of the shredded cheese, cilantro, cumin, salt, and pepper.",
+        "name": "Mix the shredded chicken with green onion, ¾ of the shredded cheese, cilantro, cumin, salt, and pepper.",
+        "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the chicken broth into a saucepan then bring to a boil. Turn the heat down then stir in the sour cream and green chiles. Let the sauce simmer, stirring often, until the sauce thickens.",
+        "name": "Pour the chicken broth into a saucepan then bring to a boil. Turn the heat down then stir in the sour cream and green chiles. Let the sauce simmer, stirring often, until the sauce thickens.",
+        "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the leaves off the cabbage, being careful not to tear them. Plunge the cabbage leaves into the boiling water for a few minutes, before drying them on paper towels.",
+        "name": "Peel the leaves off the cabbage, being careful not to tear them. Plunge the cabbage leaves into the boiling water for a few minutes, before drying them on paper towels.",
+        "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon some of the chicken mixture into each of the cabbage leaves, placing a spoonful of green chile sauce on top. Roll the leaves up then place seam side down inside a baking dish.",
+        "name": "Spoon some of the chicken mixture into each of the cabbage leaves, placing a spoonful of green chile sauce on top. Roll the leaves up then place seam side down inside a baking dish.",
+        "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the rest of the green chile sauce on top of the cabbage rolls, then top with the remaining cheese. Bake for 25-30 minutes.",
+        "name": "Spread the rest of the green chile sauce on top of the cabbage rolls, then top with the remaining cheese. Bake for 25-30 minutes.",
+        "url": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#wprm-recipe-53171-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, oven-baked, poultry, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "265 kcal",
+      "fatContent": "17.4 g",
+      "proteinContent": "17.3 g",
+      "carbohydrateContent": "6.9 g"
+    },
+    "@id": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-enchiladas-with-green-chile-sauce/"
+  },
+  "sourceIndex": {
+    "id": 41567,
+    "rid": 53171,
+    "t": "Keto Chicken Enchiladas with Green Chile Sauce",
+    "u": "/keto-chicken-enchiladas-with-green-chile-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/10/green-chile-cabbage-enchiladas-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.9,
+    "cal": 265,
+    "pr": 17.3,
+    "fa": 17.4,
+    "tm": 50,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2019-10-08",
+    "cm": 0,
+    "ex": "Chicken enchiladas made with a green chile sauce is one of my favorite dinners. Trying to recreate enchiladas with low-carb tortillas can be a pain, especially if you try and make them yourself. With",
+    "pv": 291
+  },
+  "sourceHtml": "pages/keto-chicken-enchiladas-with-green-chile-sauce.html",
+  "scrapedAt": "2026-11-07T08:27:44.407Z"
+}

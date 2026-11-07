@@ -1,0 +1,254 @@
+{
+  "id": "ruled-26167",
+  "slug": "keto-mocha-ice-cream",
+  "title": "Keto Mocha Ice Cream",
+  "url": "https://www.ruled.me/keto-mocha-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Mocha Ice Cream. Each serving comes out to be 166 calories, 13.3g fats, 4.9g net carbs, and 2.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "fatContent": "13.3 g",
+    "proteinContent": "2.8 g",
+    "carbohydrateContent": "4.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 166,
+    "netCarbsGrams": 4.9,
+    "proteinGrams": 2.8,
+    "fatGrams": 13.3
+  },
+  "ingredients": [
+    "1 cup unsweetened carton coconut milk",
+    "1/4 cup heavy whipping cream",
+    "2 tablespoon erythritol",
+    "15 drop liquid stevia",
+    "2 tablespoon unsweetened dark cocoa powder",
+    "1 tablespoon instant coffee",
+    "1/4 teaspoon xanthan gum"
+  ],
+  "instructions": [
+    {
+      "text": "Add all ingredients, except for the xanthan gum, into a container that will fit an immersion blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5885.jpg"
+    },
+    {
+      "text": "Use an immersion blender to combine well. Slowly add in the xanthan gum until the mixture has slightly thickened. Add more xanthan gum if needed, using only a little at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5892.jpg"
+    },
+    {
+      "text": "Pour into an ice cream machine and follow the manufacturer's instructions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_5898.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/ketomochaicecream.jpg",
+      "path": "images/37f9a1339ae31ac63de393dd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5885.jpg",
+      "path": "../../nenaudojama/dessert/images/cec00c5ac864cdb6b8070d9b.avif",
+      "archived": true,
+      "originalPath": "images/cec00c5ac864cdb6b8070d9b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5892.jpg",
+      "path": "../../nenaudojama/dessert/images/37e3dcad19776bb59d4f4a72.avif",
+      "archived": true,
+      "originalPath": "images/37e3dcad19776bb59d4f4a72.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5898.jpg",
+      "path": "../../nenaudojama/dessert/images/378d7c73521cf25b0c940f81.avif",
+      "archived": true,
+      "originalPath": "images/378d7c73521cf25b0c940f81.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/ketomochaicecreamsecond.jpg",
+      "path": "../../nenaudojama/dessert/images/952e3f74c5bd14a6606ae6c0.avif",
+      "archived": true,
+      "originalPath": "images/952e3f74c5bd14a6606ae6c0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/ketomochaicecreamlong.jpg",
+      "path": "../../nenaudojama/dessert/images/2071b22dfaaca28a5b100e6a.avif",
+      "archived": true,
+      "originalPath": "images/2071b22dfaaca28a5b100e6a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5885-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/14ba474f850d117c11c19d6d.avif",
+      "archived": true,
+      "originalPath": "images/14ba474f850d117c11c19d6d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5892-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/519b1f087f3e61475e65ec97.jpg",
+      "archived": true,
+      "originalPath": "images/519b1f087f3e61475e65ec97.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_5898-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4ceed0bbdb76d8aa8b3b07ef.avif",
+      "archived": true,
+      "originalPath": "images/4ceed0bbdb76d8aa8b3b07ef.avif"
+    }
+  ],
+  "featuredImage": "images/37f9a1339ae31ac63de393dd.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Mocha Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Mocha Ice Cream. Each serving comes out to be 166 calories, 13.3g fats, 4.9g net carbs, and 2.8g protein.",
+    "datePublished": "2015-06-10T15:13:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/06/ketomochaicecream.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT30M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1 cup unsweetened carton coconut milk",
+      "1/4 cup heavy whipping cream",
+      "2 tablespoon erythritol",
+      "15 drop liquid stevia",
+      "2 tablespoon unsweetened dark cocoa powder",
+      "1 tablespoon instant coffee",
+      "1/4 teaspoon xanthan gum"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients, except for the xanthan gum, into a container that will fit an immersion blender.",
+        "name": "Add all ingredients, except for the xanthan gum, into a container that will fit an immersion blender.",
+        "url": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5885.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion blender to combine well. Slowly add in the xanthan gum until the mixture has slightly thickened. Add more xanthan gum if needed, using only a little at a time.",
+        "name": "Use an immersion blender to combine well. Slowly add in the xanthan gum until the mixture has slightly thickened. Add more xanthan gum if needed, using only a little at a time.",
+        "url": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5892.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into an ice cream machine and follow the manufacturer's instructions.",
+        "name": "Pour into an ice cream machine and follow the manufacturer's instructions.",
+        "url": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_5898.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-mocha-ice-cream/#wprm-recipe-51721-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, nut-free, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "166 kcal",
+      "fatContent": "13.3 g",
+      "proteinContent": "2.8 g",
+      "carbohydrateContent": "4.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-mocha-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-mocha-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-mocha-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 26167,
+    "rid": 51721,
+    "t": "Keto Mocha Ice Cream",
+    "u": "/keto-mocha-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/06/ketomochaicecream.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.9,
+    "cal": 166,
+    "pr": 2.8,
+    "fa": 13.3,
+    "tm": 35,
+    "sv": 2,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free"
+    ],
+    "d": "2015-06-10",
+    "cm": 14,
+    "ex": "This is one of the simplest ice cream recipes that I know of when it comes to keto. You don't have to make a custard, you don't have to freeze or refrigerate the mixture before adding it to your ice",
+    "pv": 415
+  },
+  "sourceHtml": "pages/keto-mocha-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.436Z"
+}

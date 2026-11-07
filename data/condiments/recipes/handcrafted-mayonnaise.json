@@ -1,0 +1,314 @@
+{
+  "id": "ruled-3551",
+  "slug": "handcrafted-mayonnaise",
+  "title": "Handcrafted Mayonnaise",
+  "url": "https://www.ruled.me/handcrafted-mayonnaise/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 20 servings of Handcrafted Mayonnaise. Each serving comes out to be 130 calories, 14.2g fats, 0.1g net carbs, and 0.6g protein.",
+  "servings": 20,
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "fatContent": "14.2 g",
+    "proteinContent": "0.6 g",
+    "carbohydrateContent": "0.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 130,
+    "netCarbsGrams": 0.1,
+    "proteinGrams": 0.6,
+    "fatGrams": 14.2
+  },
+  "ingredients": [
+    "3/4 cup olive oil",
+    "1/2 cup coconut oil (melted)",
+    "1 large egg (room temperature)",
+    "2 large egg yolk (room temperature)",
+    "1 teaspoon dijon mustard",
+    "salt (to taste)",
+    "1/8 teaspoon smoked paprika",
+    "3 drop liquid stevia (like sweetleaf)",
+    "1 tablespoon whey (from yogurt) (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Begin by putting oils in the emulsion blender container, in order to measure them (or use a glass measuring cup if your container doesn't have markings). Make sure your coconut oil isn't hot or it could cook your eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Add all remaining ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Place immersion blender in container until bottom of blender is on the bottom of the container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Begin to blend without lifting blender. Mayonnaise will begin to emulsify and look as pictured.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Continue blending, holding the blender in place on the bottom of the container until it looks as pictured. It should be about halfway emulsified.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Once it reaches that point, you can begin to move the blender up and down until it is completely emulsified. Put mayonnaise into a glass jar with a lid and place in refrigerator. If using whey (see Intro), leave out on counter for 7 hours, then move to refrigerator.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-5",
+      "imageSource": null
+    },
+    {
+      "text": "Alternate Instructions: If you do not have an immersion blender, place all ingredients except oil in your blender or food processor and turn it on. Very carefully and very slowly, begin to add your oil one drop at a time. (Putting a little oil in a dropper helps) Once the mayo begins to emulsify, you can begin to add the oil a little faster until you have a steady stream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/pinstyle.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/mayo-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/ab553be88d649aa62ce17d5a.jpg",
+      "archived": true,
+      "originalPath": "images/ab553be88d649aa62ce17d5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/mayo-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/f7f4dabce0fb09693aaff69a.avif",
+      "archived": true,
+      "originalPath": "images/f7f4dabce0fb09693aaff69a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/pinstyle.jpg",
+      "path": "../../nenaudojama/condiments/images/a22486977a84c7de0e4f3720.avif",
+      "archived": true,
+      "originalPath": "images/a22486977a84c7de0e4f3720.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/mayo-second.jpg",
+      "path": "../../nenaudojama/condiments/images/4c496bd12140b03591d902d2.avif",
+      "archived": true,
+      "originalPath": "images/4c496bd12140b03591d902d2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaa2-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/d78676a049c81459291ac43a.avif",
+      "archived": true,
+      "originalPath": "images/d78676a049c81459291ac43a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaa3-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/c4ee101c39f0749e157e24be.avif",
+      "archived": true,
+      "originalPath": "images/c4ee101c39f0749e157e24be.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaa4-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/1398dbf2c0b0114a81453135.avif",
+      "archived": true,
+      "originalPath": "images/1398dbf2c0b0114a81453135.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaa5-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/cfdb070a051bdfc3796dbcdb.jpg",
+      "archived": true,
+      "originalPath": "images/cfdb070a051bdfc3796dbcdb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaa6-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/b539cd097b47e1952615cd52.avif",
+      "archived": true,
+      "originalPath": "images/b539cd097b47e1952615cd52.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaa7-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/c0b3b9fadf1418d75720f77e.jpg",
+      "archived": true,
+      "originalPath": "images/c0b3b9fadf1418d75720f77e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/pinstyle-241x350.jpg",
+      "path": "../../nenaudojama/condiments/images/e53c8cfce21daf8f2ab0d350.avif",
+      "archived": true,
+      "originalPath": "images/e53c8cfce21daf8f2ab0d350.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/f7f4dabce0fb09693aaff69a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Handcrafted Mayonnaise",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 20 servings of Handcrafted Mayonnaise. Each serving comes out to be 130 calories, 14.2g fats, 0.1g net carbs, and 0.6g protein.",
+    "datePublished": "2013-12-07T00:14:55+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/mayo-featured.jpg"
+    ],
+    "recipeYield": [
+      "20",
+      "20 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3/4 cup olive oil",
+      "1/2 cup coconut oil (melted)",
+      "1 large egg (room temperature)",
+      "2 large egg yolk (room temperature)",
+      "1 teaspoon dijon mustard",
+      "salt (to taste)",
+      "1/8 teaspoon smoked paprika",
+      "3 drop liquid stevia (like sweetleaf)",
+      "1 tablespoon whey (from yogurt) (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by putting oils in the emulsion blender container, in order to measure them (or use a glass measuring cup if your container doesn't have markings). Make sure your coconut oil isn't hot or it could cook your eggs.",
+        "name": "Begin by putting oils in the emulsion blender container, in order to measure them (or use a glass measuring cup if your container doesn't have markings). Make sure your coconut oil isn't hot or it could cook your eggs.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all remaining ingredients.",
+        "name": "Add all remaining ingredients.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place immersion blender in container until bottom of blender is on the bottom of the container.",
+        "name": "Place immersion blender in container until bottom of blender is on the bottom of the container.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Begin to blend without lifting blender. Mayonnaise will begin to emulsify and look as pictured.",
+        "name": "Begin to blend without lifting blender. Mayonnaise will begin to emulsify and look as pictured.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue blending, holding the blender in place on the bottom of the container until it looks as pictured. It should be about halfway emulsified.",
+        "name": "Continue blending, holding the blender in place on the bottom of the container until it looks as pictured. It should be about halfway emulsified.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once it reaches that point, you can begin to move the blender up and down until it is completely emulsified. Put mayonnaise into a glass jar with a lid and place in refrigerator. If using whey (see Intro), leave out on counter for 7 hours, then move to refrigerator.",
+        "name": "Once it reaches that point, you can begin to move the blender up and down until it is completely emulsified. Put mayonnaise into a glass jar with a lid and place in refrigerator. If using whey (see Intro), leave out on counter for 7 hours, then move to refrigerator.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-5"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Alternate Instructions: If you do not have an immersion blender, place all ingredients except oil in your blender or food processor and turn it on. Very carefully and very slowly, begin to add your oil one drop at a time. (Putting a little oil in a dropper helps) Once the mayo begins to emulsify, you can begin to add the oil a little faster until you have a steady stream.",
+        "name": "Alternate Instructions: If you do not have an immersion blender, place all ingredients except oil in your blender or food processor and turn it on. Very carefully and very slowly, begin to add your oil one drop at a time. (Putting a little oil in a dropper helps) Once the mayo begins to emulsify, you can begin to add the oil a little faster until you have a steady stream.",
+        "url": "https://www.ruled.me/handcrafted-mayonnaise/#wprm-recipe-50485-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/pinstyle.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "130 kcal",
+      "fatContent": "14.2 g",
+      "proteinContent": "0.6 g",
+      "carbohydrateContent": "0.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/handcrafted-mayonnaise/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/handcrafted-mayonnaise/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/handcrafted-mayonnaise/"
+  },
+  "sourceIndex": {
+    "id": 3551,
+    "rid": 50485,
+    "t": "Handcrafted Mayonnaise",
+    "u": "/handcrafted-mayonnaise/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/mayo-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.1,
+    "cal": 130,
+    "pr": 0.6,
+    "fa": 14.2,
+    "tm": 15,
+    "sv": 20,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "no-cook"
+    ],
+    "d": "2013-12-06",
+    "cm": 54,
+    "ex": "Mayonnaise is one of my favorite condiments to make. No matter how many times I make it, there's just something about watching something come together and emulsify like mayo that's always",
+    "pv": 279
+  },
+  "sourceHtml": "pages/handcrafted-mayonnaise.html",
+  "scrapedAt": "2026-11-07T08:33:46.810Z"
+}

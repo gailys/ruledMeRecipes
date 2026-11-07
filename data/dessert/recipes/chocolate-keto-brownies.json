@@ -1,0 +1,329 @@
+{
+  "id": "ruled-1015",
+  "slug": "chocolate-keto-brownies",
+  "title": "Delicious Chocolate Keto Brownies",
+  "url": "https://www.ruled.me/chocolate-keto-brownies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Delicious Chocolate Keto Brownies. Each serving comes out to be 200 calories, 17.6g fats, 2.3g net carbs, and 6.1g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "fatContent": "17.6 g",
+    "proteinContent": "6.1 g",
+    "carbohydrateContent": "2.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 200,
+    "netCarbsGrams": 2.3,
+    "proteinGrams": 6.1,
+    "fatGrams": 17.6
+  },
+  "ingredients": [
+    "6 tablespoon cream cheese (softened)",
+    "3 large egg",
+    "3 tablespoon coconut oil (softened)",
+    "1/2 cup unsweetened almond milk",
+    "1 teaspoon vanilla extract",
+    "2 tablespoon unsweetened dark cocoa powder",
+    "1/4 cup almond flour",
+    "1/4 cup coconut flour",
+    "1/4 teaspoon baking soda",
+    "1/3 cup stevia/erythritol blend",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Combine cream cheese, eggs, coconut oil, almond milk, and vanilla extract in one bowl. Mix well, making sure it's smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-01.jpg"
+    },
+    {
+      "text": "Combine cocoa powder, almond flour, coconut flour, baking soda, sweetener, and salt in a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-02.jpg"
+    },
+    {
+      "text": "Slowly add the wet ingredients to the dry, mixing well as you add.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-03.jpg"
+    },
+    {
+      "text": "Pour batter into a non-stick cake or brownie pan, then put it in the oven.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-04.jpg"
+    },
+    {
+      "text": "Bake about 30 minutes, or until a toothpick comes out clean.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-05.jpg"
+    },
+    {
+      "text": "Let cool for 5 minutes and cut as desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-06.jpg"
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/3ef8e2c109fb4ad65430e223.jpg",
+      "archived": true,
+      "originalPath": "images/3ef8e2c109fb4ad65430e223.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81.jpg",
+      "path": "images/9448711fb7532f5230b1c600.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-01.jpg",
+      "path": "../../nenaudojama/dessert/images/aa6a9c69d955109ce1b412d3.jpg",
+      "archived": true,
+      "originalPath": "images/aa6a9c69d955109ce1b412d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-02.jpg",
+      "path": "../../nenaudojama/dessert/images/7532a300674ca9bff78c0e29.avif",
+      "archived": true,
+      "originalPath": "images/7532a300674ca9bff78c0e29.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-03.jpg",
+      "path": "../../nenaudojama/dessert/images/065cd07fbfe698406cc1e328.jpg",
+      "archived": true,
+      "originalPath": "images/065cd07fbfe698406cc1e328.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-04.jpg",
+      "path": "../../nenaudojama/dessert/images/79f39147b62f9c7003fe8953.jpg",
+      "archived": true,
+      "originalPath": "images/79f39147b62f9c7003fe8953.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-05.jpg",
+      "path": "../../nenaudojama/dessert/images/56b2455dfaeff3f82c203da2.avif",
+      "archived": true,
+      "originalPath": "images/56b2455dfaeff3f82c203da2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-06.jpg",
+      "path": "../../nenaudojama/dessert/images/803765f8cba12a12b34f8448.avif",
+      "archived": true,
+      "originalPath": "images/803765f8cba12a12b34f8448.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Chocolate-Brownies-2nd.jpg",
+      "path": "../../nenaudojama/dessert/images/4e6cb09c2020d49ce798ece8.jpg",
+      "archived": true,
+      "originalPath": "images/4e6cb09c2020d49ce798ece8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/6d1cf2fac5c2d5f5f27ac601.jpg",
+      "archived": true,
+      "originalPath": "images/6d1cf2fac5c2d5f5f27ac601.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0bbdb522d856702c161e9f2e.jpg",
+      "archived": true,
+      "originalPath": "images/0bbdb522d856702c161e9f2e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d4b0ac52f5bf559f72a63ea9.jpg",
+      "archived": true,
+      "originalPath": "images/d4b0ac52f5bf559f72a63ea9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/38535879388d0c6cb5ce654c.jpg",
+      "archived": true,
+      "originalPath": "images/38535879388d0c6cb5ce654c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a66c3554b4fe853200dd8894.jpg",
+      "archived": true,
+      "originalPath": "images/a66c3554b4fe853200dd8894.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/067449c99113396ebe9f3aab.jpg",
+      "archived": true,
+      "originalPath": "images/067449c99113396ebe9f3aab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-06-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c41a61933e74550cf4b37b32.jpg",
+      "archived": true,
+      "originalPath": "images/c41a61933e74550cf4b37b32.jpg"
+    }
+  ],
+  "featuredImage": "images/9448711fb7532f5230b1c600.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Delicious Chocolate Keto Brownies",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Delicious Chocolate Keto Brownies. Each serving comes out to be 200 calories, 17.6g fats, 2.3g net carbs, and 6.1g protein.",
+    "datePublished": "2013-10-26T20:25:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81.jpg",
+      "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81-480x270.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "6 tablespoon cream cheese (softened)",
+      "3 large egg",
+      "3 tablespoon coconut oil (softened)",
+      "1/2 cup unsweetened almond milk",
+      "1 teaspoon vanilla extract",
+      "2 tablespoon unsweetened dark cocoa powder",
+      "1/4 cup almond flour",
+      "1/4 cup coconut flour",
+      "1/4 teaspoon baking soda",
+      "1/3 cup stevia/erythritol blend",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Combine cream cheese, eggs, coconut oil, almond milk, and vanilla extract in one bowl. Mix well, making sure it's smooth.",
+        "name": "Preheat oven to 375F. Combine cream cheese, eggs, coconut oil, almond milk, and vanilla extract in one bowl. Mix well, making sure it's smooth.",
+        "url": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine cocoa powder, almond flour, coconut flour, baking soda, sweetener, and salt in a bowl.",
+        "name": "Combine cocoa powder, almond flour, coconut flour, baking soda, sweetener, and salt in a bowl.",
+        "url": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add the wet ingredients to the dry, mixing well as you add.",
+        "name": "Slowly add the wet ingredients to the dry, mixing well as you add.",
+        "url": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour batter into a non-stick cake or brownie pan, then put it in the oven.",
+        "name": "Pour batter into a non-stick cake or brownie pan, then put it in the oven.",
+        "url": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake about 30 minutes, or until a toothpick comes out clean.",
+        "name": "Bake about 30 minutes, or until a toothpick comes out clean.",
+        "url": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool for 5 minutes and cut as desired.",
+        "name": "Let cool for 5 minutes and cut as desired.",
+        "url": "https://www.ruled.me/chocolate-keto-brownies/#wprm-recipe-50331-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/delicious-chocolate-keto-brownies-step-06.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200 kcal",
+      "fatContent": "17.6 g",
+      "proteinContent": "6.1 g",
+      "carbohydrateContent": "2.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chocolate-keto-brownies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chocolate-keto-brownies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chocolate-keto-brownies/"
+  },
+  "sourceIndex": {
+    "id": 1015,
+    "rid": 50331,
+    "t": "Delicious Chocolate Keto Brownies",
+    "u": "/chocolate-keto-brownies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/059895b2881059e9b6541230d0169e81-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.3,
+    "cal": 200,
+    "pr": 6.1,
+    "fa": 17.6,
+    "tm": 50,
+    "sv": 6,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2013-10-26",
+    "cm": 27,
+    "ex": "These past few days have been tearing me up inside little by little. I've been craving brownies and everything I see has been reminding me of that. I see a blonde at the park, blonde...blondie?",
+    "pv": 305
+  },
+  "sourceHtml": "pages/chocolate-keto-brownies.html",
+  "scrapedAt": "2026-11-07T08:30:47.759Z"
+}

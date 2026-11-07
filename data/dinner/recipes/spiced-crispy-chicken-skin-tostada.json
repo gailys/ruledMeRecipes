@@ -1,0 +1,456 @@
+{
+  "id": "ruled-38942",
+  "slug": "spiced-crispy-chicken-skin-tostada",
+  "title": "Spiced Crispy Chicken Skin Tostada",
+  "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Spiced Crispy Chicken Skin Tostada. Each serving comes out to be 500 calories, 44.9g fats, 2g net carbs, and 21.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 kcal",
+    "fatContent": "44.9 g",
+    "proteinContent": "21.7 g",
+    "carbohydrateContent": "2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 500,
+    "netCarbsGrams": 2,
+    "proteinGrams": 21.7,
+    "fatGrams": 44.9
+  },
+  "ingredients": [
+    "1 1/2 teaspoon chinese five-spice powder",
+    "1/4 teaspoon chili powder",
+    "salt and pepper (to taste)",
+    "24 ounce chicken quarters",
+    "3 teaspoon fresh garlic (minced)",
+    "2 teaspoon fresh ginger (grated)",
+    "1 tablespoon coconut aminos",
+    "1 tablespoon shaoxing cooking wine",
+    "2 teaspoon erythritol",
+    "2 tablespoon olive oil",
+    "1 cup fresh basil"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat oven to 350 degrees Fahrenheit. In a small bowl, combine salt and pepper, half of the five-spice powder, and chili powder. Mix well and set aside; this will be your spice salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-01-1.jpg"
+    },
+    {
+      "text": "Carefully pull chicken skin off thigh over leg bone. The easiest way to do this is to maneuver your thumb in between the chicken skin and meat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-03-1.jpg"
+    },
+    {
+      "text": "Snip the chicken skin with scissors. Trim the chicken skin using a knife or cutters into bite-sized portions. (The chicken skin will shrink, so make allowances.)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-06-1.jpg"
+    },
+    {
+      "text": "Season generously with the spiced salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-09-1.jpg"
+    },
+    {
+      "text": "Layer a baking sheet tray with parchment paper, chicken skin, and then an additional layer of parchment paper. Place an additional baking sheet on top of the final layer of parchment paper. This ensures that the chicken skin will not stick or curl while baking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-10-1.jpg"
+    },
+    {
+      "text": "Bake the chicken skin for 30-35 minutes. Remove the chicken skin from the oven and set aside to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-11-1.jpg"
+    },
+    {
+      "text": "In the Instant Pot, add skinned chicken quarters with garlic, ginger, tamari, Shaoxing, sweetener, salt, and remaining five-spice. Set the Instant Pot to manual high for 30 minutes. Perform a manual release when it’s done, then turn off the Instant Pot and let the chicken cool just long enough to handle.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-13-1.jpg"
+    },
+    {
+      "text": "Shred chicken and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-20-1.jpg"
+    },
+    {
+      "text": "Preheat a pan on the stove. then add olive oil to it. Once the olive oil is hot, scatter basil leaves and cook until translucent.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-22-1.jpg"
+    },
+    {
+      "text": "Remove the basil leaves and drain on paper towels. Set aside. Using the same pan, add shredded chicken. Cook the chicken to give it some color and bring it back up to temp.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-23-1.jpg"
+    },
+    {
+      "text": "To serve, top spiced crispy chicken skin with shredded chicken, remaining spiced salt, and basil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-10",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-featured-1-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/c5d041bb50e3f94a219aeb5c.jpg",
+      "archived": true,
+      "originalPath": "images/c5d041bb50e3f94a219aeb5c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-featured-1.jpg",
+      "path": "images/edc225aed321ef84fd48319d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-01-1.jpg",
+      "path": "../../nenaudojama/dinner/images/f5477e701003054f91834f6a.jpg",
+      "archived": true,
+      "originalPath": "images/f5477e701003054f91834f6a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-03-1.jpg",
+      "path": "../../nenaudojama/dinner/images/e0b3f2f38a08e077e26cfff7.jpg",
+      "archived": true,
+      "originalPath": "images/e0b3f2f38a08e077e26cfff7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-06-1.jpg",
+      "path": "../../nenaudojama/dinner/images/17e8d4d3da3755ae533a3952.jpg",
+      "archived": true,
+      "originalPath": "images/17e8d4d3da3755ae533a3952.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-09-1.jpg",
+      "path": "../../nenaudojama/dinner/images/b119d91d8c25fde9d6e05faf.jpg",
+      "archived": true,
+      "originalPath": "images/b119d91d8c25fde9d6e05faf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-10-1.jpg",
+      "path": "../../nenaudojama/dinner/images/43407e9e4ef73cace0d0da3d.jpg",
+      "archived": true,
+      "originalPath": "images/43407e9e4ef73cace0d0da3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-11-1.jpg",
+      "path": "../../nenaudojama/dinner/images/72d37008531667eac0e127d5.avif",
+      "archived": true,
+      "originalPath": "images/72d37008531667eac0e127d5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-13-1.jpg",
+      "path": "../../nenaudojama/dinner/images/876dce280af686719f2d01d3.jpg",
+      "archived": true,
+      "originalPath": "images/876dce280af686719f2d01d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-20-1.jpg",
+      "path": "../../nenaudojama/dinner/images/5ba6ec64c07de32882785bfc.avif",
+      "archived": true,
+      "originalPath": "images/5ba6ec64c07de32882785bfc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-22-1.jpg",
+      "path": "../../nenaudojama/dinner/images/16c3527d62779f06b5bbaa2e.jpg",
+      "archived": true,
+      "originalPath": "images/16c3527d62779f06b5bbaa2e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-23-1.jpg",
+      "path": "../../nenaudojama/dinner/images/ba410eb1ed1c0798e189ec53.jpg",
+      "archived": true,
+      "originalPath": "images/ba410eb1ed1c0798e189ec53.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-second.jpg",
+      "path": "../../nenaudojama/dinner/images/312241da5293adb2b2299f5b.jpg",
+      "archived": true,
+      "originalPath": "images/312241da5293adb2b2299f5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/2420046b191e48dd7b042a2a.jpg",
+      "archived": true,
+      "originalPath": "images/2420046b191e48dd7b042a2a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-01-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fe33b23ab6fedc51423fe1c6.jpg",
+      "archived": true,
+      "originalPath": "images/fe33b23ab6fedc51423fe1c6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-03-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4cd0072d708db5b2354bd30b.jpg",
+      "archived": true,
+      "originalPath": "images/4cd0072d708db5b2354bd30b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-06-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/28290af745fe2c194c01249b.jpg",
+      "archived": true,
+      "originalPath": "images/28290af745fe2c194c01249b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-09-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9d4cf188f4016048fb106f30.jpg",
+      "archived": true,
+      "originalPath": "images/9d4cf188f4016048fb106f30.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-10-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d71b06aa289be0f368d54584.jpg",
+      "archived": true,
+      "originalPath": "images/d71b06aa289be0f368d54584.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-11-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1f437b85adc640548bd2d800.jpg",
+      "archived": true,
+      "originalPath": "images/1f437b85adc640548bd2d800.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-13-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/008c7edc1a947ffdcdd28bdd.jpg",
+      "archived": true,
+      "originalPath": "images/008c7edc1a947ffdcdd28bdd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-20-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cd9a2976b2d59e5f807a86a2.jpg",
+      "archived": true,
+      "originalPath": "images/cd9a2976b2d59e5f807a86a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-22-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/96dd53f891d6dd9975fad889.jpg",
+      "archived": true,
+      "originalPath": "images/96dd53f891d6dd9975fad889.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-23-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/da7dae52bf901b9fc52cd24f.jpg",
+      "archived": true,
+      "originalPath": "images/da7dae52bf901b9fc52cd24f.jpg"
+    }
+  ],
+  "featuredImage": "images/edc225aed321ef84fd48319d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spiced Crispy Chicken Skin Tostada",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Spiced Crispy Chicken Skin Tostada. Each serving comes out to be 500 calories, 44.9g fats, 2g net carbs, and 21.7g protein.",
+    "datePublished": "2019-02-07T12:00:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-featured-1.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "1 1/2 teaspoon chinese five-spice powder",
+      "1/4 teaspoon chili powder",
+      "salt and pepper (to taste)",
+      "24 ounce chicken quarters",
+      "3 teaspoon fresh garlic (minced)",
+      "2 teaspoon fresh ginger (grated)",
+      "1 tablespoon coconut aminos",
+      "1 tablespoon shaoxing cooking wine",
+      "2 teaspoon erythritol",
+      "2 tablespoon olive oil",
+      "1 cup fresh basil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat oven to 350 degrees Fahrenheit. In a small bowl, combine salt and pepper, half of the five-spice powder, and chili powder. Mix well and set aside; this will be your spice salt.",
+        "name": "Pre-heat oven to 350 degrees Fahrenheit. In a small bowl, combine salt and pepper, half of the five-spice powder, and chili powder. Mix well and set aside; this will be your spice salt.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-01-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully pull chicken skin off thigh over leg bone. The easiest way to do this is to maneuver your thumb in between the chicken skin and meat.",
+        "name": "Carefully pull chicken skin off thigh over leg bone. The easiest way to do this is to maneuver your thumb in between the chicken skin and meat.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-03-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Snip the chicken skin with scissors. Trim the chicken skin using a knife or cutters into bite-sized portions. (The chicken skin will shrink, so make allowances.)",
+        "name": "Snip the chicken skin with scissors. Trim the chicken skin using a knife or cutters into bite-sized portions. (The chicken skin will shrink, so make allowances.)",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-06-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season generously with the spiced salt.",
+        "name": "Season generously with the spiced salt.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-09-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer a baking sheet tray with parchment paper, chicken skin, and then an additional layer of parchment paper. Place an additional baking sheet on top of the final layer of parchment paper. This ensures that the chicken skin will not stick or curl while baking.",
+        "name": "Layer a baking sheet tray with parchment paper, chicken skin, and then an additional layer of parchment paper. Place an additional baking sheet on top of the final layer of parchment paper. This ensures that the chicken skin will not stick or curl while baking.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-10-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the chicken skin for 30-35 minutes. Remove the chicken skin from the oven and set aside to cool.",
+        "name": "Bake the chicken skin for 30-35 minutes. Remove the chicken skin from the oven and set aside to cool.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-11-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the Instant Pot, add skinned chicken quarters with garlic, ginger, tamari, Shaoxing, sweetener, salt, and remaining five-spice.  Set the Instant Pot to manual high for 30 minutes.  Perform a manual release when it’s done, then turn off the Instant Pot and let the chicken cool just long enough to handle.",
+        "name": "In the Instant Pot, add skinned chicken quarters with garlic, ginger, tamari, Shaoxing, sweetener, salt, and remaining five-spice.  Set the Instant Pot to manual high for 30 minutes.  Perform a manual release when it’s done, then turn off the Instant Pot and let the chicken cool just long enough to handle.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-13-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred chicken and set aside.",
+        "name": "Shred chicken and set aside.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-20-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a pan on the stove. then add olive oil to it. Once the olive oil is hot, scatter basil leaves and cook until translucent.",
+        "name": "Preheat a pan on the stove. then add olive oil to it. Once the olive oil is hot, scatter basil leaves and cook until translucent.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-22-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the basil leaves and drain on paper towels. Set aside.  Using the same pan, add shredded chicken.  Cook the chicken to give it some color and bring it back up to temp.",
+        "name": "Remove the basil leaves and drain on paper towels. Set aside.  Using the same pan, add shredded chicken.  Cook the chicken to give it some color and bring it back up to temp.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-23-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To serve, top spiced crispy chicken skin with shredded chicken, remaining spiced salt, and basil.",
+        "name": "To serve, top spiced crispy chicken skin with shredded chicken, remaining spiced salt, and basil.",
+        "url": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#wprm-recipe-52866-step-0-10"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "dairy-free, egg-free, family-friendly, game-day, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, poultry, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "500 kcal",
+      "fatContent": "44.9 g",
+      "proteinContent": "21.7 g",
+      "carbohydrateContent": "2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spiced-crispy-chicken-skin-tostada/"
+  },
+  "sourceIndex": {
+    "id": 38942,
+    "rid": 52866,
+    "t": "Spiced Crispy Chicken Skin Tostada",
+    "u": "/spiced-crispy-chicken-skin-tostada/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/spiced-crispy-chicken-skin-tostada-featured-1-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2,
+    "cal": 500,
+    "pr": 21.7,
+    "fa": 44.9,
+    "tm": 60,
+    "sv": 4,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2019-02-07",
+    "cm": 4,
+    "ex": "Craving tostadas while on Keto? This recipe is for you! It combines the salty spicy crunch of crispy chicken skin with shredded chicken that’s been marinated in sweet, peppery spices. The chicken",
+    "pv": 46
+  },
+  "sourceHtml": "pages/spiced-crispy-chicken-skin-tostada.html",
+  "scrapedAt": "2026-11-07T08:27:44.500Z"
+}

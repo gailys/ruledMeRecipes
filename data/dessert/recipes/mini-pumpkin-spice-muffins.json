@@ -1,0 +1,337 @@
+{
+  "id": "ruled-28068",
+  "slug": "mini-pumpkin-spice-muffins",
+  "title": "Mini Pumpkin Spice Muffins",
+  "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Mini Pumpkin Spice Muffins. Each serving comes out to be 53 calories, 3.9g fats, 1.6g net carbs, and 1.9g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "53 kcal",
+    "fatContent": "3.9 g",
+    "proteinContent": "1.9 g",
+    "carbohydrateContent": "1.6 g"
+  },
+  "nutritionPerServing": {
+    "calories": 53,
+    "netCarbsGrams": 1.6,
+    "proteinGrams": 1.9,
+    "fatGrams": 3.9
+  },
+  "ingredients": [
+    "3/4 cup pumpkin puree",
+    "1/4 cup unsweetened sunflower seed butter",
+    "1 large egg (room temperature)",
+    "1/2 cup erythritol",
+    "1/4 cup coconut flour (sifted)",
+    "2 tablespoon flaxseed meal",
+    "1 teaspoon ground cinnamon",
+    "1/2 teaspoon ground nutmeg",
+    "1/2 teaspoon baking soda",
+    "1/2 teaspoon baking powder",
+    "1/4 teaspoon salt",
+    "3 tablespoon cream cheese (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Lightly grease a mini muffin pan. In a mixing bowl, combine the pumpkin, sunflower seed butter, and egg. Stir until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-01.jpg"
+    },
+    {
+      "text": "Add all of the dry ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-02.jpg"
+    },
+    {
+      "text": "Mix well to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-03.jpg"
+    },
+    {
+      "text": "Using a measuring spoon, scoop batter into the prepared pan. Bake for 15 minutes, then remove the pan from the oven and let cool completely.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-04.jpg"
+    },
+    {
+      "text": "Carefully remove the muffins from the pan and transfer to a serving tray. Optional: Top the muffins with cream cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-05.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/067fbebb8da85dc0387ce8e5.avif",
+      "archived": true,
+      "originalPath": "images/067fbebb8da85dc0387ce8e5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8.jpg",
+      "path": "images/284ebbdbc1517238a25a05ae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-01.jpg",
+      "path": "../../nenaudojama/dessert/images/8242243e207c1d734a5866aa.jpg",
+      "archived": true,
+      "originalPath": "images/8242243e207c1d734a5866aa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-02.jpg",
+      "path": "../../nenaudojama/dessert/images/67a3e34ea5837f92f507de8e.jpg",
+      "archived": true,
+      "originalPath": "images/67a3e34ea5837f92f507de8e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-03.jpg",
+      "path": "../../nenaudojama/dessert/images/be46b504302770f9c149d5da.jpg",
+      "archived": true,
+      "originalPath": "images/be46b504302770f9c149d5da.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-04.jpg",
+      "path": "../../nenaudojama/dessert/images/b71d5758a28f646741e17046.jpg",
+      "archived": true,
+      "originalPath": "images/b71d5758a28f646741e17046.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-05.jpg",
+      "path": "../../nenaudojama/dessert/images/47cc76df13b5acd04795b50f.jpg",
+      "archived": true,
+      "originalPath": "images/47cc76df13b5acd04795b50f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-muffins-2nd.jpg",
+      "path": "../../nenaudojama/dessert/images/a4dae4714c27e24327cb2adf.jpg",
+      "archived": true,
+      "originalPath": "images/a4dae4714c27e24327cb2adf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-06.jpg",
+      "path": "../../nenaudojama/dessert/images/41b0e12d6b15a36a07a0e79a.jpg",
+      "archived": true,
+      "originalPath": "images/41b0e12d6b15a36a07a0e79a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/4a08b204750277663ed666ad.jpg",
+      "archived": true,
+      "originalPath": "images/4a08b204750277663ed666ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f471adfb53ebc8b292f96a50.jpg",
+      "archived": true,
+      "originalPath": "images/f471adfb53ebc8b292f96a50.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f41e4a0cd13c9abe7cad53c3.jpg",
+      "archived": true,
+      "originalPath": "images/f41e4a0cd13c9abe7cad53c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f9b3313acb975a76bd37bea6.jpg",
+      "archived": true,
+      "originalPath": "images/f9b3313acb975a76bd37bea6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b1ae768627f2f3573c56d4ad.jpg",
+      "archived": true,
+      "originalPath": "images/b1ae768627f2f3573c56d4ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/19b5657c669e6bf67c26a58f.jpg",
+      "archived": true,
+      "originalPath": "images/19b5657c669e6bf67c26a58f.jpg"
+    }
+  ],
+  "featuredImage": "images/284ebbdbc1517238a25a05ae.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mini Pumpkin Spice Muffins",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 16 servings of Mini Pumpkin Spice Muffins. Each serving comes out to be 53 calories, 3.9g fats, 1.6g net carbs, and 1.9g protein.",
+    "datePublished": "2016-10-20T13:00:26+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8-480x270.jpg"
+    ],
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "3/4 cup pumpkin puree",
+      "1/4 cup unsweetened sunflower seed butter",
+      "1 large egg (room temperature)",
+      "1/2 cup erythritol",
+      "1/4 cup coconut flour (sifted)",
+      "2 tablespoon flaxseed meal",
+      "1 teaspoon ground cinnamon",
+      "1/2 teaspoon ground nutmeg",
+      "1/2 teaspoon baking soda",
+      "1/2 teaspoon baking powder",
+      "1/4 teaspoon salt",
+      "3 tablespoon cream cheese (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Lightly grease a mini muffin pan. In a mixing bowl, combine the pumpkin, sunflower seed butter, and egg. Stir until smooth.",
+        "name": "Preheat oven to 350F. Lightly grease a mini muffin pan. In a mixing bowl, combine the pumpkin, sunflower seed butter, and egg. Stir until smooth.",
+        "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the dry ingredients.",
+        "name": "Add all of the dry ingredients.",
+        "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix well to combine.",
+        "name": "Mix well to combine.",
+        "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a measuring spoon, scoop batter into the prepared pan. Bake for 15 minutes, then remove the pan from the oven and let cool completely.",
+        "name": "Using a measuring spoon, scoop batter into the prepared pan. Bake for 15 minutes, then remove the pan from the oven and let cool completely.",
+        "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully remove the muffins from the pan and transfer to a serving tray. Optional: Top the muffins with cream cheese.",
+        "name": "Carefully remove the muffins from the pan and transfer to a serving tray. Optional: Top the muffins with cream cheese.",
+        "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/10/mini-pumpkin-spice-muffins-step-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/mini-pumpkin-spice-muffins/#wprm-recipe-51945-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, fall, gluten-free, keto, low-carb, nut-free, oven-baked, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "53 kcal",
+      "fatContent": "3.9 g",
+      "proteinContent": "1.9 g",
+      "carbohydrateContent": "1.6 g"
+    },
+    "@id": "https://www.ruled.me/mini-pumpkin-spice-muffins/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/mini-pumpkin-spice-muffins/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/mini-pumpkin-spice-muffins/"
+  },
+  "sourceIndex": {
+    "id": 28068,
+    "rid": 51945,
+    "t": "Mini Pumpkin Spice Muffins",
+    "u": "/mini-pumpkin-spice-muffins/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/10/c2e7b3be356409c1d40826b44387ebf8-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.6,
+    "cal": 53,
+    "pr": 1.9,
+    "fa": 3.9,
+    "tm": 25,
+    "sv": 16,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked"
+    ],
+    "d": "2016-10-20",
+    "cm": 7,
+    "ex": "In less than half an hour, you can have a generous batch of mini pumpkin spice muffins. This is a great quick breakfast or snack. The best part? These are rich with the pumpkin spice flavors that we",
+    "pv": 82
+  },
+  "sourceHtml": "pages/mini-pumpkin-spice-muffins.html",
+  "scrapedAt": "2026-11-07T08:30:47.368Z"
+}

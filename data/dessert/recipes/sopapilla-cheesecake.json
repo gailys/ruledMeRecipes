@@ -1,0 +1,365 @@
+{
+  "id": "ruled-30664",
+  "slug": "sopapilla-cheesecake",
+  "title": "Sopapilla Cheesecake",
+  "url": "https://www.ruled.me/sopapilla-cheesecake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Sopapilla Cheesecake. Each serving comes out to be 254 calories, 23.4g fats, 2.4g net carbs, and 7.6g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "254 kcal",
+    "fatContent": "23.4 g",
+    "proteinContent": "7.6 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 254,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 7.6,
+    "fatGrams": 23.4
+  },
+  "ingredients": [
+    "1 ounce pork rinds",
+    "5 large egg",
+    "1 1/4 cup water",
+    "4 tablespoon butter (melted)",
+    "2 tablespoon erythritol (granulated)",
+    "1 tablespoon ground cinnamon",
+    "16 ounce cream cheese (softened)",
+    "1/3 cup low-carb white sugar replacement (powdered, such as Swerve)",
+    "2 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Use a food processor to grind the pork rinds into a fine powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2056.jpg"
+    },
+    {
+      "text": "In a large mixing bowl, add the powdered pork rinds, three-fifths of the eggs, and the water. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2058.jpg"
+    },
+    {
+      "text": "Preheat a frying pan over medium heat. Add half of the melted butter. Once hot and no longer foaming, ladle a large scoop of the batter into the pan, spreading it out into a large pancake shape. Wait until the batter is bubbling and brown around the edges before carefully flipping the pancake. Once cooked on both sides, set aside and repeat with the remaining batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2061.jpg"
+    },
+    {
+      "text": "Brush the bottom of pie pan with half of the remaining melted butter and add a layer of the cooked pork rind batter. Break up the other pieces to fully cover the edges, reserving one pancake to place on top of the cake. Brush with the last of the melted butter and sprinkle liberally with the cinnamon/erythritol mixture. Bake for 5–10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2068.jpg"
+    },
+    {
+      "text": "Use a hand mixer to blend the softened cream cheese, powdered sugar replacement, remaining eggs, and vanilla extract.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2069.jpg"
+    },
+    {
+      "text": "Spread the cheesecake mixture over the bottom crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2072.jpg"
+    },
+    {
+      "text": "Cut the remaining piece of pork rind pancake into wedges and arrange them on top of the cheesecake. Combine the cinnamon and erythritol and sprinkle the mixture liberally on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2074.jpg"
+    },
+    {
+      "text": "Bake for 20 minutes and allow to cool before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/featured2-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/1702273fa1240c23da76b56d.jpg",
+      "archived": true,
+      "originalPath": "images/1702273fa1240c23da76b56d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/featured2.jpg",
+      "path": "images/9e15b8746ff835db60e51f4b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2056.jpg",
+      "path": "../../nenaudojama/dessert/images/258c5e04c13b8011ebf63d39.avif",
+      "archived": true,
+      "originalPath": "images/258c5e04c13b8011ebf63d39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2058.jpg",
+      "path": "../../nenaudojama/dessert/images/808fb6c97eaa1da81a2cc266.avif",
+      "archived": true,
+      "originalPath": "images/808fb6c97eaa1da81a2cc266.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2061.jpg",
+      "path": "../../nenaudojama/dessert/images/fd4f68677f833de4969b0dd6.jpg",
+      "archived": true,
+      "originalPath": "images/fd4f68677f833de4969b0dd6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2068.jpg",
+      "path": "../../nenaudojama/dessert/images/432dbc33165b9e4181c6de3f.jpg",
+      "archived": true,
+      "originalPath": "images/432dbc33165b9e4181c6de3f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2069.jpg",
+      "path": "../../nenaudojama/dessert/images/9937885225fcd634171a268a.avif",
+      "archived": true,
+      "originalPath": "images/9937885225fcd634171a268a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2072.jpg",
+      "path": "../../nenaudojama/dessert/images/92810209a8f7808b1c2a0ca3.avif",
+      "archived": true,
+      "originalPath": "images/92810209a8f7808b1c2a0ca3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2074.jpg",
+      "path": "../../nenaudojama/dessert/images/e7e1cb21e77cd476c0e3a84d.jpg",
+      "archived": true,
+      "originalPath": "images/e7e1cb21e77cd476c0e3a84d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/2nd-1.jpg",
+      "path": "../../nenaudojama/dessert/images/18ae8af51a8b02171f23f40a.avif",
+      "archived": true,
+      "originalPath": "images/18ae8af51a8b02171f23f40a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/pin2-1.jpg",
+      "path": "../../nenaudojama/dessert/images/e86bb688a62d81299256350e.avif",
+      "archived": true,
+      "originalPath": "images/e86bb688a62d81299256350e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2056-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6c200816ffe6bce7a19846f5.avif",
+      "archived": true,
+      "originalPath": "images/6c200816ffe6bce7a19846f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2058-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/84a3f701f4a04dc64ec1fca5.avif",
+      "archived": true,
+      "originalPath": "images/84a3f701f4a04dc64ec1fca5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2061-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1f5a37e6299e163cedd999ac.jpg",
+      "archived": true,
+      "originalPath": "images/1f5a37e6299e163cedd999ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2068-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6aaef7877309988b8fc17b97.avif",
+      "archived": true,
+      "originalPath": "images/6aaef7877309988b8fc17b97.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2069-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/69352ba6f5b9e6f900524722.avif",
+      "archived": true,
+      "originalPath": "images/69352ba6f5b9e6f900524722.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2072-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e58e572ff598196bc59f8ee7.jpg",
+      "archived": true,
+      "originalPath": "images/e58e572ff598196bc59f8ee7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2074-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/33f6665c53742c4b95851da4.avif",
+      "archived": true,
+      "originalPath": "images/33f6665c53742c4b95851da4.avif"
+    }
+  ],
+  "featuredImage": "images/9e15b8746ff835db60e51f4b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Sopapilla Cheesecake",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 10 servings of Sopapilla Cheesecake. Each serving comes out to be 254 calories, 23.4g fats, 2.4g net carbs, and 7.6g protein.",
+    "datePublished": "2017-05-16T11:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/05/featured2.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1 ounce pork rinds",
+      "5 large egg",
+      "1 1/4 cup water",
+      "4 tablespoon butter (melted)",
+      "2 tablespoon erythritol (granulated)",
+      "1 tablespoon ground cinnamon",
+      "16 ounce cream cheese (softened)",
+      "1/3 cup low-carb white sugar replacement (powdered, such as Swerve)",
+      "2 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Use a food processor to grind the pork rinds into a fine powder.",
+        "name": "Preheat oven to 350F. Use a food processor to grind the pork rinds into a fine powder.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2056.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, add the powdered pork rinds, three-fifths of the eggs, and the water. Mix well.",
+        "name": "In a large mixing bowl, add the powdered pork rinds, three-fifths of the eggs, and the water. Mix well.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2058.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a frying pan over medium heat. Add half of the melted butter. Once hot and no longer foaming, ladle a large scoop of the batter into the pan, spreading it out into a large pancake shape. Wait until the batter is bubbling and brown around the edges before carefully flipping the pancake. Once cooked on both sides, set aside and repeat with the remaining batter.",
+        "name": "Preheat a frying pan over medium heat. Add half of the melted butter. Once hot and no longer foaming, ladle a large scoop of the batter into the pan, spreading it out into a large pancake shape. Wait until the batter is bubbling and brown around the edges before carefully flipping the pancake. Once cooked on both sides, set aside and repeat with the remaining batter.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2061.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Brush the bottom of pie pan with half of the remaining melted butter and add a layer of the cooked pork rind batter. Break up the other pieces to fully cover the edges, reserving one pancake to place on top of the cake. Brush with the last of the melted butter and sprinkle liberally with the cinnamon/erythritol mixture. Bake for 5–10 minutes.",
+        "name": "Brush the bottom of pie pan with half of the remaining melted butter and add a layer of the cooked pork rind batter. Break up the other pieces to fully cover the edges, reserving one pancake to place on top of the cake. Brush with the last of the melted butter and sprinkle liberally with the cinnamon/erythritol mixture. Bake for 5–10 minutes.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2068.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a hand mixer to blend the softened cream cheese, powdered sugar replacement, remaining eggs, and vanilla extract.",
+        "name": "Use a hand mixer to blend the softened cream cheese, powdered sugar replacement, remaining eggs, and vanilla extract.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2069.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the cheesecake mixture over the bottom crust.",
+        "name": "Spread the cheesecake mixture over the bottom crust.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2072.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the remaining piece of pork rind pancake into wedges and arrange them on top of the cheesecake. Combine the cinnamon and erythritol and sprinkle the mixture liberally on top.",
+        "name": "Cut the remaining piece of pork rind pancake into wedges and arrange them on top of the cheesecake. Combine the cinnamon and erythritol and sprinkle the mixture liberally on top.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2074.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20 minutes and allow to cool before serving.",
+        "name": "Bake for 20 minutes and allow to cool before serving.",
+        "url": "https://www.ruled.me/sopapilla-cheesecake/#wprm-recipe-52177-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "gluten-free, keto, low-carb, nut-free, oven-baked, pork, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "254 kcal",
+      "fatContent": "23.4 g",
+      "proteinContent": "7.6 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/sopapilla-cheesecake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/sopapilla-cheesecake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/sopapilla-cheesecake/"
+  },
+  "sourceIndex": {
+    "id": 30664,
+    "rid": 52177,
+    "t": "Sopapilla Cheesecake",
+    "u": "/sopapilla-cheesecake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/05/featured2-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.4,
+    "cal": 254,
+    "pr": 7.6,
+    "fa": 23.4,
+    "tm": 40,
+    "sv": 10,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2017-05-16",
+    "cm": 13,
+    "ex": "Here's an easy, low-carb, sopapilla cheesecake! Instead of a traditional crust, we will substitute a pork rind based dough. This means that you don't have to blind bake a pie crust. You can pan-fry",
+    "pv": 115
+  },
+  "sourceHtml": "pages/sopapilla-cheesecake.html",
+  "scrapedAt": "2026-11-07T08:30:47.278Z"
+}

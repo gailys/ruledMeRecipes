@@ -1,0 +1,400 @@
+{
+  "id": "ruled-15256",
+  "slug": "spinach-onion-and-goat-cheese-omelette",
+  "title": "Spinach, Onion, and Goat Cheese Omelet",
+  "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Spinach, Onion, and Goat Cheese Omelet. The serving comes out to be 622 calories, 54.2g fats, 5.2g net carbs, and 27.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "622 kcal",
+    "fatContent": "54.2 g",
+    "proteinContent": "27.7 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 622,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 27.7,
+    "fatGrams": 54.2
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "1/4 medium onion",
+    "2 cup spinach",
+    "3 large egg",
+    "2 tablespoon heavy whipping cream",
+    "salt and pepper (to taste)",
+    "1 ounce goat cheese",
+    "15 gram green onion (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Add the butter to a hot pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1531.jpg"
+    },
+    {
+      "text": "As the butter begins to melt, slice the onion into thin strips.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1536.jpg"
+    },
+    {
+      "text": "Once the butter is browned, add the onions and give them some time to caramelize.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1540.jpg"
+    },
+    {
+      "text": "Once the onions are translucent, add the spinach, letting it cook down and wilt. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1541.jpg"
+    },
+    {
+      "text": "Remove the spinach and onion mixture from the pan and set aside. Crack the eggs into a measuring cup or another pourable container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1544.jpg"
+    },
+    {
+      "text": "Add the heavy cream, salt, and pepper to the eggs. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1546.jpg"
+    },
+    {
+      "text": "Reduce the heat to medium-low. Add the egg mixture to the pan and allow it to cook.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1548.jpg"
+    },
+    {
+      "text": "Once the edges begin to set, add the onion and spinach mixture back, placing it on one half of the omelet. Crumble the goat cheese on top of the spinach and season to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1551.jpg"
+    },
+    {
+      "text": "Fold the omelet in half once the top has begun to set, then serve! Optional: Garnish with green onions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SpinachGoatCheeseOmelette.jpg",
+      "path": "images/614978ad6fb592c7b43d360f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1531.jpg",
+      "path": "../../nenaudojama/breakfast/images/af56060e31c23900a002148b.jpg",
+      "archived": true,
+      "originalPath": "images/af56060e31c23900a002148b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1536.jpg",
+      "path": "../../nenaudojama/breakfast/images/2c7519b86c1a3c12a091f995.avif",
+      "archived": true,
+      "originalPath": "images/2c7519b86c1a3c12a091f995.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1540.jpg",
+      "path": "../../nenaudojama/breakfast/images/d12da027e54d6e3c181ee3d2.avif",
+      "archived": true,
+      "originalPath": "images/d12da027e54d6e3c181ee3d2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1541.jpg",
+      "path": "../../nenaudojama/breakfast/images/1169a68a808880d562de5f13.avif",
+      "archived": true,
+      "originalPath": "images/1169a68a808880d562de5f13.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1544.jpg",
+      "path": "../../nenaudojama/breakfast/images/69f9a77c6c109688de0cb294.avif",
+      "archived": true,
+      "originalPath": "images/69f9a77c6c109688de0cb294.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1546.jpg",
+      "path": "../../nenaudojama/breakfast/images/91a297d300514ac689dfb204.jpg",
+      "archived": true,
+      "originalPath": "images/91a297d300514ac689dfb204.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1548.jpg",
+      "path": "../../nenaudojama/breakfast/images/7ff503030ffe77455311f0a3.jpg",
+      "archived": true,
+      "originalPath": "images/7ff503030ffe77455311f0a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1551.jpg",
+      "path": "../../nenaudojama/breakfast/images/adee72346d6baec87228ce80.avif",
+      "archived": true,
+      "originalPath": "images/adee72346d6baec87228ce80.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SpinachGoatCheeseOmeletteSecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/4462d246dafaa5b6095ddb3e.jpg",
+      "archived": true,
+      "originalPath": "images/4462d246dafaa5b6095ddb3e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SpinachGoatCheeseOmeletteLong.jpg",
+      "path": "../../nenaudojama/breakfast/images/b61801b481dceeedb0d5fd25.jpg",
+      "archived": true,
+      "originalPath": "images/b61801b481dceeedb0d5fd25.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1531-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b7526e2b086becf1b4e807bd.avif",
+      "archived": true,
+      "originalPath": "images/b7526e2b086becf1b4e807bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1536-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b2102f1e7a7b797b6203ea76.avif",
+      "archived": true,
+      "originalPath": "images/b2102f1e7a7b797b6203ea76.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1540-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5403f2a944e30b16ff608961.avif",
+      "archived": true,
+      "originalPath": "images/5403f2a944e30b16ff608961.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1541-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d358e7338d273ae1a8c3008a.avif",
+      "archived": true,
+      "originalPath": "images/d358e7338d273ae1a8c3008a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1544-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c218bc625355fe002a8ab103.avif",
+      "archived": true,
+      "originalPath": "images/c218bc625355fe002a8ab103.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1546-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c2afc28925f3961ce381cbf9.avif",
+      "archived": true,
+      "originalPath": "images/c2afc28925f3961ce381cbf9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1548-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/069d097f427e1df7d0e9f047.avif",
+      "archived": true,
+      "originalPath": "images/069d097f427e1df7d0e9f047.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1551-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5051361a6eda9d2861174ace.avif",
+      "archived": true,
+      "originalPath": "images/5051361a6eda9d2861174ace.avif"
+    }
+  ],
+  "featuredImage": "images/614978ad6fb592c7b43d360f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spinach, Onion, and Goat Cheese Omelet",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Spinach, Onion, and Goat Cheese Omelet. The serving comes out to be 622 calories, 54.2g fats, 5.2g net carbs, and 27.7g protein.",
+    "datePublished": "2014-05-22T15:17:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/05/SpinachGoatCheeseOmelette.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "1/4 medium onion",
+      "2 cup spinach",
+      "3 large egg",
+      "2 tablespoon heavy whipping cream",
+      "salt and pepper (to taste)",
+      "1 ounce goat cheese",
+      "15 gram green onion (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter to a hot pan.",
+        "name": "Add the butter to a hot pan.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1531.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "As the butter begins to melt, slice the onion into thin strips.",
+        "name": "As the butter begins to melt, slice the onion into thin strips.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1536.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the butter is browned, add the onions and give them some time to caramelize.",
+        "name": "Once the butter is browned, add the onions and give them some time to caramelize.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1540.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the onions are translucent, add the spinach, letting it cook down and wilt. Season with salt and pepper to taste.",
+        "name": "Once the onions are translucent, add the spinach, letting it cook down and wilt. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1541.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the spinach and onion mixture from the pan and set aside. Crack the eggs into a measuring cup or another pourable container.",
+        "name": "Remove the spinach and onion mixture from the pan and set aside. Crack the eggs into a measuring cup or another pourable container.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1544.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the heavy cream, salt, and pepper to the eggs. Mix well.",
+        "name": "Add the heavy cream, salt, and pepper to the eggs. Mix well.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1546.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat to medium-low. Add the egg mixture to the pan and allow it to cook.",
+        "name": "Reduce the heat to medium-low. Add the egg mixture to the pan and allow it to cook.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1548.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the edges begin to set, add the onion and spinach mixture back, placing it on one half of the omelet. Crumble the goat cheese on top of the spinach and season to taste.",
+        "name": "Once the edges begin to set, add the onion and spinach mixture back, placing it on one half of the omelet. Crumble the goat cheese on top of the spinach and season to taste.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_1551.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold the omelet in half once the top has begun to set, then serve! Optional: Garnish with green onions.",
+        "name": "Fold the omelet in half once the top has begun to set, then serve! Optional: Garnish with green onions.",
+        "url": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#wprm-recipe-51125-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "622 kcal",
+      "fatContent": "54.2 g",
+      "proteinContent": "27.7 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spinach-onion-and-goat-cheese-omelette/"
+  },
+  "sourceIndex": {
+    "id": 15256,
+    "rid": 51125,
+    "t": "Spinach, Onion, and Goat Cheese Omelette",
+    "u": "/spinach-onion-and-goat-cheese-omelette/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/05/SpinachGoatCheeseOmelette.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.2,
+    "cal": 622,
+    "pr": 27.7,
+    "fa": 54.2,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2014-05-22",
+    "cm": 5,
+    "ex": "Eggs are one of my favorite ingredients to use. The versatility of them is astounding, from breakfast to lunch and dinner, and even dessert. There's so many uses for these things, but sometimes we",
+    "pv": 1013
+  },
+  "sourceHtml": "pages/spinach-onion-and-goat-cheese-omelette.html",
+  "scrapedAt": "2026-11-07T08:11:13.094Z"
+}

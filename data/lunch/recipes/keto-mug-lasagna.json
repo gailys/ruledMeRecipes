@@ -1,0 +1,339 @@
+{
+  "id": "ruled-30639",
+  "slug": "keto-mug-lasagna",
+  "title": "Keto Mug Lasagna",
+  "url": "https://www.ruled.me/keto-mug-lasagna/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Mug Lasagna. The serving comes out to be 320 calories, 21.8g fats, 6.6g net carbs, and 23.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "320 kcal",
+    "fatContent": "21.8 g",
+    "proteinContent": "23.8 g",
+    "carbohydrateContent": "6.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 320,
+    "netCarbsGrams": 6.6,
+    "proteinGrams": 23.8,
+    "fatGrams": 21.8
+  },
+  "ingredients": [
+    "1/3 medium zucchini",
+    "3 tablespoon low-carb tomato sauce (such as Rao's)",
+    "2 tablespoon ricotta cheese",
+    "3 ounce mozzarella cheese"
+  ],
+  "instructions": [
+    {
+      "text": "Slice the zucchini into paper-thin rounds using a very sharp knife or mandolin.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2019.jpg"
+    },
+    {
+      "text": "Spoon one-third of the tomato sauce over the bottom of a mug or small dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2027.jpg"
+    },
+    {
+      "text": "Layer some of the zucchini on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2028.jpg"
+    },
+    {
+      "text": "Carefully spread over half of the ricotta, then repeat with a second layer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2029.jpg"
+    },
+    {
+      "text": "Top with any leftover zucchini and the last third of the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2032.jpg"
+    },
+    {
+      "text": "Top with the mozzarella.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2033.jpg"
+    },
+    {
+      "text": "Microwave for 3-4 minutes, depending on the microwave. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2044.jpg",
+      "path": "images/7b19166f4e42bbd54e050f61.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2019.jpg",
+      "path": "../../nenaudojama/lunch/images/2e17dd3fe0d3011c7380e71b.avif",
+      "archived": true,
+      "originalPath": "images/2e17dd3fe0d3011c7380e71b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2027.jpg",
+      "path": "../../nenaudojama/lunch/images/c0612443e9ef3f6556376ecb.jpg",
+      "archived": true,
+      "originalPath": "images/c0612443e9ef3f6556376ecb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2028.jpg",
+      "path": "../../nenaudojama/lunch/images/dd634c61a455f0953f9bb8e5.avif",
+      "archived": true,
+      "originalPath": "images/dd634c61a455f0953f9bb8e5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2029.jpg",
+      "path": "../../nenaudojama/lunch/images/916adae28e83d887549c6810.jpg",
+      "archived": true,
+      "originalPath": "images/916adae28e83d887549c6810.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2032.jpg",
+      "path": "../../nenaudojama/lunch/images/b209939c9c453661d71992dc.jpg",
+      "archived": true,
+      "originalPath": "images/b209939c9c453661d71992dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2033.jpg",
+      "path": "../../nenaudojama/lunch/images/3f1c7a1c7e453a03203bd413.jpg",
+      "archived": true,
+      "originalPath": "images/3f1c7a1c7e453a03203bd413.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2036-feat.jpg",
+      "path": "../../nenaudojama/lunch/images/dfdec4e30d8ba169f8694438.avif",
+      "archived": true,
+      "originalPath": "images/dfdec4e30d8ba169f8694438.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2030.jpg",
+      "path": "../../nenaudojama/lunch/images/84955387dda46f396306b55b.jpg",
+      "archived": true,
+      "originalPath": "images/84955387dda46f396306b55b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/pin2.jpg",
+      "path": "../../nenaudojama/lunch/images/f4816d38e3a4dcd498ae4516.avif",
+      "archived": true,
+      "originalPath": "images/f4816d38e3a4dcd498ae4516.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2019-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/730fccc2ea9a828bf4c500b2.avif",
+      "archived": true,
+      "originalPath": "images/730fccc2ea9a828bf4c500b2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2027-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c77632656b2d4c1ac46cf842.jpg",
+      "archived": true,
+      "originalPath": "images/c77632656b2d4c1ac46cf842.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2028-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/904d98f2b419c2418c486797.avif",
+      "archived": true,
+      "originalPath": "images/904d98f2b419c2418c486797.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2029-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/63e237b7541d472589fa157f.jpg",
+      "archived": true,
+      "originalPath": "images/63e237b7541d472589fa157f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2032-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/875544fe7b1b8daa69d04b53.jpg",
+      "archived": true,
+      "originalPath": "images/875544fe7b1b8daa69d04b53.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2033-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fc05e7cc09013185cc424f81.jpg",
+      "archived": true,
+      "originalPath": "images/fc05e7cc09013185cc424f81.jpg"
+    }
+  ],
+  "featuredImage": "images/7b19166f4e42bbd54e050f61.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Mug Lasagna",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Keto Mug Lasagna. The serving comes out to be 320 calories, 21.8g fats, 6.6g net carbs, and 23.8g protein.",
+    "datePublished": "2017-05-09T11:00:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2044.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1/3 medium zucchini",
+      "3 tablespoon low-carb tomato sauce (such as Rao's)",
+      "2 tablespoon ricotta cheese",
+      "3 ounce mozzarella cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the zucchini into paper-thin rounds using a very sharp knife or mandolin.",
+        "name": "Slice the zucchini into paper-thin rounds using a very sharp knife or mandolin.",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2019.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon one-third of the tomato sauce over the bottom of a mug or small dish.",
+        "name": "Spoon one-third of the tomato sauce over the bottom of a mug or small dish.",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2027.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer some of the zucchini on top.",
+        "name": "Layer some of the zucchini on top.",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2028.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully spread over half of the ricotta, then repeat with a second layer.",
+        "name": "Carefully spread over half of the ricotta, then repeat with a second layer.",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2029.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with any leftover zucchini and the last third of the sauce.",
+        "name": "Top with any leftover zucchini and the last third of the sauce.",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2032.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the mozzarella.",
+        "name": "Top with the mozzarella.",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2033.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave for 3-4 minutes, depending on the microwave. Enjoy!",
+        "name": "Microwave for 3-4 minutes, depending on the microwave. Enjoy!",
+        "url": "https://www.ruled.me/keto-mug-lasagna/#wprm-recipe-52161-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "320 kcal",
+      "fatContent": "21.8 g",
+      "proteinContent": "23.8 g",
+      "carbohydrateContent": "6.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-mug-lasagna/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-mug-lasagna/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-mug-lasagna/"
+  },
+  "sourceIndex": {
+    "id": 30639,
+    "rid": 52161,
+    "t": "Keto Mug Lasagna",
+    "u": "/keto-mug-lasagna/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/05/IMG_2044.jpg",
+    "w": 600,
+    "h": 400,
+    "c": "lunch",
+    "nc": 6.6,
+    "cal": 320,
+    "pr": 23.8,
+    "fa": 21.8,
+    "tm": 10,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "high-protein"
+    ],
+    "d": "2017-05-09",
+    "cm": 25,
+    "ex": "You know that here at Ruled.me, we sure do love cooking things in mugs. I thought that this could be taken one step further and created a keto mug lasagna rather than my normal keto pasta recipes!",
+    "pv": 402
+  },
+  "sourceHtml": "pages/keto-mug-lasagna.html",
+  "scrapedAt": "2026-11-07T08:17:34.888Z"
+}

@@ -1,0 +1,349 @@
+{
+  "id": "ruled-39874",
+  "slug": "balsamic-avocado-bowls",
+  "title": "Balsamic Avocado Bowls",
+  "url": "https://www.ruled.me/balsamic-avocado-bowls/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Balsamic Avocado Bowls. Each serving comes out to be 201 calories, 17.8g fats, 3.5g net carbs, and 3.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "201 kcal",
+    "fatContent": "17.8 g",
+    "proteinContent": "3.5 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 201,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 3.5,
+    "fatGrams": 17.8
+  },
+  "ingredients": [
+    "3 medium avocado (halved)",
+    "50 gram mushrooms (chopped)",
+    "1 medium green onion (diced)",
+    "10 whole cherry tomatoes (chopped)",
+    "45 gram goat cheese (crumbled)",
+    "1 tablespoon olive oil",
+    "1 tablespoon liquid smoke",
+    "1/2 teaspoon paprika",
+    "3 tablespoon balsamic vinegar"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a frying pan over medium heat. Add mushrooms, green onions, and tomatoes to a mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-03.jpg"
+    },
+    {
+      "text": "Heat the olive oil, liquid smoke, and paprika in the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-04.jpg"
+    },
+    {
+      "text": "Add in the goat cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-06.jpg"
+    },
+    {
+      "text": "Sauté until the cheese is nicely browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-07.jpg"
+    },
+    {
+      "text": "Remove the pan from the stove. Add goat cheese to the mixing bowl and mix together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-08.jpg"
+    },
+    {
+      "text": "Scoop out a small portion of flesh from inside the avocado halves to create enough room for the filling. Set aside the scooped out avocado.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-10.jpg"
+    },
+    {
+      "text": "Spoon the salad mix into the avocado shells. Garnish with the scooped out avocado. Pour a half teaspoon of balsamic vinegar onto each.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "game-day",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/96ecb2c5a66f04cf032615c1.jpg",
+      "archived": true,
+      "originalPath": "images/96ecb2c5a66f04cf032615c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-featured.jpg",
+      "path": "images/68b0bb0ea8667d8c7934618d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-03.jpg",
+      "path": "../../nenaudojama/lunch/images/9ed04ff3d53f0e7479b25fe4.avif",
+      "archived": true,
+      "originalPath": "images/9ed04ff3d53f0e7479b25fe4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-04.jpg",
+      "path": "../../nenaudojama/lunch/images/aac700a0be292179aaac9916.jpg",
+      "archived": true,
+      "originalPath": "images/aac700a0be292179aaac9916.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-06.jpg",
+      "path": "../../nenaudojama/lunch/images/4df1d8ee3767d112e7c2b746.jpg",
+      "archived": true,
+      "originalPath": "images/4df1d8ee3767d112e7c2b746.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-07.jpg",
+      "path": "../../nenaudojama/lunch/images/56f66704f0878751c6384f15.jpg",
+      "archived": true,
+      "originalPath": "images/56f66704f0878751c6384f15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-08.jpg",
+      "path": "../../nenaudojama/lunch/images/a6f3c20f434b425c26dfe952.avif",
+      "archived": true,
+      "originalPath": "images/a6f3c20f434b425c26dfe952.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-10.jpg",
+      "path": "../../nenaudojama/lunch/images/95bf19cb56265963f01da014.jpg",
+      "archived": true,
+      "originalPath": "images/95bf19cb56265963f01da014.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-second.jpg",
+      "path": "../../nenaudojama/lunch/images/5fb53474231d0d252f0dbac9.avif",
+      "archived": true,
+      "originalPath": "images/5fb53474231d0d252f0dbac9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/48e07ed6b4a7b1f8415e9e6e.jpg",
+      "archived": true,
+      "originalPath": "images/48e07ed6b4a7b1f8415e9e6e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/dcd4d15b2653af83f81ea92b.jpg",
+      "archived": true,
+      "originalPath": "images/dcd4d15b2653af83f81ea92b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/17dad7669d0cf670003071e2.avif",
+      "archived": true,
+      "originalPath": "images/17dad7669d0cf670003071e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/96499dd8d6e59ca13dcb8517.avif",
+      "archived": true,
+      "originalPath": "images/96499dd8d6e59ca13dcb8517.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/289c3cd9d5ca6491652a58bf.jpg",
+      "archived": true,
+      "originalPath": "images/289c3cd9d5ca6491652a58bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-08-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/325d64662cf23f50d6d2ae04.jpg",
+      "archived": true,
+      "originalPath": "images/325d64662cf23f50d6d2ae04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-10-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/116a2f79ef9495ea64be96ac.jpg",
+      "archived": true,
+      "originalPath": "images/116a2f79ef9495ea64be96ac.jpg"
+    }
+  ],
+  "featuredImage": "images/68b0bb0ea8667d8c7934618d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Balsamic Avocado Bowls",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Balsamic Avocado Bowls. Each serving comes out to be 201 calories, 17.8g fats, 3.5g net carbs, and 3.5g protein.",
+    "datePublished": "2019-03-07T12:00:55+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "3 medium avocado (halved)",
+      "50 gram mushrooms (chopped)",
+      "1 medium green onion (diced)",
+      "10 whole cherry tomatoes (chopped)",
+      "45 gram goat cheese (crumbled)",
+      "1 tablespoon olive oil",
+      "1 tablespoon liquid smoke",
+      "1/2 teaspoon paprika",
+      "3 tablespoon balsamic vinegar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a frying pan over medium heat. Add mushrooms, green onions, and tomatoes to a mixing bowl.",
+        "name": "Preheat a frying pan over medium heat. Add mushrooms, green onions, and tomatoes to a mixing bowl.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil, liquid smoke, and paprika in the pan.",
+        "name": "Heat the olive oil, liquid smoke, and paprika in the pan.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the goat cheese.",
+        "name": "Add in the goat cheese.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sauté until the cheese is nicely browned.",
+        "name": "Sauté until the cheese is nicely browned.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pan from the stove. Add goat cheese to the mixing bowl and mix together.",
+        "name": "Remove the pan from the stove. Add goat cheese to the mixing bowl and mix together.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop out a small portion of flesh from inside the avocado halves to create enough room for the filling. Set aside the scooped out avocado.",
+        "name": "Scoop out a small portion of flesh from inside the avocado halves to create enough room for the filling. Set aside the scooped out avocado.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the salad mix into the avocado shells. Garnish with the scooped out avocado. Pour a half teaspoon of balsamic vinegar onto each.",
+        "name": "Spoon the salad mix into the avocado shells. Garnish with the scooped out avocado. Pour a half teaspoon of balsamic vinegar onto each.",
+        "url": "https://www.ruled.me/balsamic-avocado-bowls/#wprm-recipe-52906-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "keywords": "30-minute, egg-free, game-day, gluten-free, keto, low-carb, nut-free, party-food, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "201 kcal",
+      "fatContent": "17.8 g",
+      "proteinContent": "3.5 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/balsamic-avocado-bowls/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/balsamic-avocado-bowls/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/balsamic-avocado-bowls/"
+  },
+  "sourceIndex": {
+    "id": 39874,
+    "rid": 52906,
+    "t": "Balsamic Avocado Bowls",
+    "u": "/balsamic-avocado-bowls/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/balsamic-avocado-bowls-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 201,
+    "pr": 3.5,
+    "fa": 17.8,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "game-day",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2019-03-07",
+    "cm": 0,
+    "ex": "Move over, avocado toast! These bowls are great for a cookout, picnics, or game day. Balsamic vinegar and goat cheese is one of my favorite combinations for salads. It’s just too tasty! For this",
+    "pv": 90
+  },
+  "sourceHtml": "pages/balsamic-avocado-bowls.html",
+  "scrapedAt": "2026-11-07T08:16:40.268Z"
+}

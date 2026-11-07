@@ -1,0 +1,332 @@
+{
+  "id": "ruled-45244",
+  "slug": "italian-chicken-skillet",
+  "title": "Italian Chicken Skillet",
+  "url": "https://www.ruled.me/italian-chicken-skillet/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Italian Chicken Skillet. Each serving comes out to be 296 calories, 22.8g fats, 6.1g net carbs, and 16.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296 kcal",
+    "fatContent": "22.8 g",
+    "proteinContent": "16.8 g",
+    "carbohydrateContent": "6.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 296,
+    "netCarbsGrams": 6.1,
+    "proteinGrams": 16.8,
+    "fatGrams": 22.8
+  },
+  "ingredients": [
+    "3 tablespoon avocado oil",
+    "12 ounce boneless, skinless chicken thighs (diced)",
+    "salt and pepper (to taste)",
+    "280 gram broccoli (florets)",
+    "2 ounce baby spinach",
+    "6 tablespoon italian dressing",
+    "3 ounce cherry tomatoes"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-1.jpg"
+    },
+    {
+      "text": "In a skillet over medium to high heat, add the avocado oil, chicken, and salt and pepper. Fry until done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-2.jpg"
+    },
+    {
+      "text": "Add in the broccoli florets, cook for 3-5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-3.jpg"
+    },
+    {
+      "text": "The, add in the spinach and cook for another 2-3 minutes until the spinach gets hot and starts to wilt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-4.jpg"
+    },
+    {
+      "text": "Add the cherry tomatoes with the Italian dressing and cook until tomatoes are hot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/6dd1553c7c171f137b15c7fa.jpg",
+      "archived": true,
+      "originalPath": "images/6dd1553c7c171f137b15c7fa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Featured.jpg",
+      "path": "images/4ff1f467e8d5859e00b58a99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-1.jpg",
+      "path": "../../nenaudojama/dinner/images/9595fe8c6967923b9ef4e548.jpg",
+      "archived": true,
+      "originalPath": "images/9595fe8c6967923b9ef4e548.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-2.jpg",
+      "path": "../../nenaudojama/dinner/images/bcb4e3ea2050c88229d11c77.jpg",
+      "archived": true,
+      "originalPath": "images/bcb4e3ea2050c88229d11c77.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-3.jpg",
+      "path": "../../nenaudojama/dinner/images/898d9c5903c1373bd45c2bcf.jpg",
+      "archived": true,
+      "originalPath": "images/898d9c5903c1373bd45c2bcf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-4.jpg",
+      "path": "../../nenaudojama/dinner/images/b6a7ad8db9be40ddb7c1c73d.jpg",
+      "archived": true,
+      "originalPath": "images/b6a7ad8db9be40ddb7c1c73d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-5.jpg",
+      "path": "../../nenaudojama/dinner/images/2608f1bddb5cd599b12b93b8.jpg",
+      "archived": true,
+      "originalPath": "images/2608f1bddb5cd599b12b93b8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/58dcfc12084ca94f92668212.jpg",
+      "archived": true,
+      "originalPath": "images/58dcfc12084ca94f92668212.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/2b027816829ef7abb5a4ff82.jpg",
+      "archived": true,
+      "originalPath": "images/2b027816829ef7abb5a4ff82.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/8655f19cc4d5e4cbf950cfc6.jpg",
+      "archived": true,
+      "originalPath": "images/8655f19cc4d5e4cbf950cfc6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a5917a0a57a5910b67ec0c78.jpg",
+      "archived": true,
+      "originalPath": "images/a5917a0a57a5910b67ec0c78.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7f31f71e46fc1b8674ea3467.jpg",
+      "archived": true,
+      "originalPath": "images/7f31f71e46fc1b8674ea3467.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/32a1d7dc66880048bde2cf18.jpg",
+      "archived": true,
+      "originalPath": "images/32a1d7dc66880048bde2cf18.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cbcb6f553dab2934ba6d22b6.jpg",
+      "archived": true,
+      "originalPath": "images/cbcb6f553dab2934ba6d22b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4351209e6286e77d2d462784.jpg",
+      "archived": true,
+      "originalPath": "images/4351209e6286e77d2d462784.jpg"
+    }
+  ],
+  "featuredImage": "images/4ff1f467e8d5859e00b58a99.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Italian Chicken Skillet",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Italian Chicken Skillet. Each serving comes out to be 296 calories, 22.8g fats, 6.1g net carbs, and 16.8g protein.",
+    "datePublished": "2021-05-18T09:00:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "3 tablespoon avocado oil",
+      "12 ounce boneless, skinless chicken thighs (diced)",
+      "salt and pepper (to taste)",
+      "280 gram broccoli (florets)",
+      "2 ounce baby spinach",
+      "6 tablespoon italian dressing",
+      "3 ounce cherry tomatoes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium to high heat, add the avocado oil, chicken, and salt and pepper. Fry until done.",
+        "name": "In a skillet over medium to high heat, add the avocado oil, chicken, and salt and pepper. Fry until done.",
+        "url": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the broccoli florets, cook for 3-5 minutes.",
+        "name": "Add in the broccoli florets, cook for 3-5 minutes.",
+        "url": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The, add in the spinach and cook for another 2-3 minutes until the spinach gets hot and starts to wilt.",
+        "name": "The, add in the spinach and cook for another 2-3 minutes until the spinach gets hot and starts to wilt.",
+        "url": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cherry tomatoes with the Italian dressing and cook until tomatoes are hot.",
+        "name": "Add the cherry tomatoes with the Italian dressing and cook until tomatoes are hot.",
+        "url": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/italian-chicken-skillet/#wprm-recipe-53781-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, keto, low-carb, nut-free, one-pan, one-pan meals, poultry, quick, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "296 kcal",
+      "fatContent": "22.8 g",
+      "proteinContent": "16.8 g",
+      "carbohydrateContent": "6.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/italian-chicken-skillet/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/italian-chicken-skillet/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/italian-chicken-skillet/"
+  },
+  "sourceIndex": {
+    "id": 45244,
+    "rid": 53781,
+    "t": "Italian Chicken Skillet",
+    "u": "/italian-chicken-skillet/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Italian-Chicken-Skillet-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.1,
+    "cal": 296,
+    "pr": 16.8,
+    "fa": 22.8,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2021-05-18",
+    "cm": 2,
+    "ex": "This Italian chicken meal is an easy, one-pan dinner! I kept the ingredients minimal to keep this recipe simple. What ties this chicken skillet all together is the Italian dressing. The dressing",
+    "pv": 385
+  },
+  "sourceHtml": "pages/italian-chicken-skillet.html",
+  "scrapedAt": "2026-11-07T08:27:44.152Z"
+}

@@ -1,0 +1,354 @@
+{
+  "id": "ruled-25621",
+  "slug": "jalapeno-popper-egg-cups",
+  "title": "Jalapeno Popper Egg Cups",
+  "url": "https://www.ruled.me/jalapeno-popper-egg-cups/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Jalapeno Popper Egg Cups. Each serving comes out to be 235 calories, 20.3g fats, 1.5g net carbs, and 10.9g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "fatContent": "20.3 g",
+    "proteinContent": "10.9 g",
+    "carbohydrateContent": "1.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 235,
+    "netCarbsGrams": 1.5,
+    "proteinGrams": 10.9,
+    "fatGrams": 20.3
+  },
+  "ingredients": [
+    "4 ounce cheddar cheese",
+    "4 medium jalapeno pepper (deseeded and diced)",
+    "12 ounce bacon",
+    "8 large egg",
+    "3 ounce cream cheese",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon onion powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Get all of the ingredients ready. Measure out and grate the cheddar. Prep the jalapeños by deseeding and dicing them, saving one to cut into rings as a garnish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/img_5292.jpg"
+    },
+    {
+      "text": "Partially cook the bacon so that it's semi-crisp but still pliable. Save the bacon grease in the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/img_5295.jpg"
+    },
+    {
+      "text": "Using a hand mixer, blend the eggs, cream cheese, chopped and seeded jalapeño peppers, reserved bacon grease, garlic powder, onion powder, and salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/img_5301.jpg"
+    },
+    {
+      "text": "Grease a muffin tin and line each well with a strip of partially cooked bacon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/img_5308.jpg"
+    },
+    {
+      "text": "Pour in the egg mixture, making sure not to fill them any more than two-thirds full, as these rise quite a bit.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/img_5430.jpg"
+    },
+    {
+      "text": "Add the cheddar cheese on the top of the muffins along with a slice of jalapeño. Bake for 20–25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/img_5437.jpg"
+    },
+    {
+      "text": "Once cooked, remove from the oven and let cool. They will slowly deflate and turn into a delicious treat. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "eggs",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "meal-prep",
+    "make-ahead",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/jalapenopoppereggcup.jpg",
+      "path": "images/a01c294063dcd2aae554eff5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5292.jpg",
+      "path": "../../nenaudojama/breakfast/images/513597fe257c96c5026be911.avif",
+      "archived": true,
+      "originalPath": "images/513597fe257c96c5026be911.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5295.jpg",
+      "path": "../../nenaudojama/breakfast/images/8dae4ea30feef8d0d0bc5b13.jpg",
+      "archived": true,
+      "originalPath": "images/8dae4ea30feef8d0d0bc5b13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5301.jpg",
+      "path": "../../nenaudojama/breakfast/images/7188c23369c0ab9e22c48d97.avif",
+      "archived": true,
+      "originalPath": "images/7188c23369c0ab9e22c48d97.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5308.jpg",
+      "path": "../../nenaudojama/breakfast/images/bfa0e30c54aa9dc3bea5980a.avif",
+      "archived": true,
+      "originalPath": "images/bfa0e30c54aa9dc3bea5980a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5430.jpg",
+      "path": "../../nenaudojama/breakfast/images/9dbe024080307b3eeaa7b7e6.avif",
+      "archived": true,
+      "originalPath": "images/9dbe024080307b3eeaa7b7e6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5437.jpg",
+      "path": "../../nenaudojama/breakfast/images/b0703e052c38a37a66fadf7a.avif",
+      "archived": true,
+      "originalPath": "images/b0703e052c38a37a66fadf7a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/jalapenopoppereggcupssecond1.jpg",
+      "path": "../../nenaudojama/breakfast/images/7a3f353a7e60bc455be4a16d.avif",
+      "archived": true,
+      "originalPath": "images/7a3f353a7e60bc455be4a16d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/jalapenopoppereggcupssecond2.jpg",
+      "path": "../../nenaudojama/breakfast/images/3f4ad21a8ffb089b4ba7af89.avif",
+      "archived": true,
+      "originalPath": "images/3f4ad21a8ffb089b4ba7af89.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/jalapenopoppereggcuplong.jpg",
+      "path": "../../nenaudojama/breakfast/images/058995f116aa3376d1d620e3.avif",
+      "archived": true,
+      "originalPath": "images/058995f116aa3376d1d620e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5292-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bb3c12cf9c1d103351187ea9.avif",
+      "archived": true,
+      "originalPath": "images/bb3c12cf9c1d103351187ea9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5295-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d5f1cc7ceac3657a7d1ef52f.avif",
+      "archived": true,
+      "originalPath": "images/d5f1cc7ceac3657a7d1ef52f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5301-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7b8953c36b8e801a963299d9.avif",
+      "archived": true,
+      "originalPath": "images/7b8953c36b8e801a963299d9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5308-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/75a0d3ddb98c556d8fc429b1.avif",
+      "archived": true,
+      "originalPath": "images/75a0d3ddb98c556d8fc429b1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5430-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/57ecb223abe8f2a8634527e4.avif",
+      "archived": true,
+      "originalPath": "images/57ecb223abe8f2a8634527e4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/img_5437-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5fc09b67a26253db6a1f0bd6.avif",
+      "archived": true,
+      "originalPath": "images/5fc09b67a26253db6a1f0bd6.avif"
+    }
+  ],
+  "featuredImage": "images/a01c294063dcd2aae554eff5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Jalapeno Popper Egg Cups",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Jalapeno Popper Egg Cups. Each serving comes out to be 235 calories, 20.3g fats, 1.5g net carbs, and 10.9g protein.",
+    "datePublished": "2015-03-05T16:45:10+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/03/jalapenopoppereggcup.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "4 ounce cheddar cheese",
+      "4 medium jalapeno pepper (deseeded and diced)",
+      "12 ounce bacon",
+      "8 large egg",
+      "3 ounce cream cheese",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Get all of the ingredients ready. Measure out and grate the cheddar. Prep the jalapeños by deseeding and dicing them, saving one to cut into rings as a garnish.",
+        "name": "Preheat oven to 375F. Get all of the ingredients ready. Measure out and grate the cheddar. Prep the jalapeños by deseeding and dicing them, saving one to cut into rings as a garnish.",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/img_5292.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Partially cook the bacon so that it's semi-crisp but still pliable. Save the bacon grease in the pan.",
+        "name": "Partially cook the bacon so that it's semi-crisp but still pliable. Save the bacon grease in the pan.",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/img_5295.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a hand mixer, blend the eggs, cream cheese, chopped and seeded jalapeño peppers, reserved bacon grease, garlic powder, onion powder, and salt and pepper to taste.",
+        "name": "Using a hand mixer, blend the eggs, cream cheese, chopped and seeded jalapeño peppers, reserved bacon grease, garlic powder, onion powder, and salt and pepper to taste.",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/img_5301.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grease a muffin tin and line each well with a strip of partially cooked bacon.",
+        "name": "Grease a muffin tin and line each well with a strip of partially cooked bacon.",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/img_5308.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the egg mixture, making sure not to fill them any more than two-thirds full, as these rise quite a bit.",
+        "name": "Pour in the egg mixture, making sure not to fill them any more than two-thirds full, as these rise quite a bit.",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/img_5430.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cheddar cheese on the top of the muffins along with a slice of jalapeño. Bake for 20–25 minutes.",
+        "name": "Add the cheddar cheese on the top of the muffins along with a slice of jalapeño. Bake for 20–25 minutes.",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/img_5437.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once cooked, remove from the oven and let cool. They will slowly deflate and turn into a delicious treat. Serve and enjoy!",
+        "name": "Once cooked, remove from the oven and let cool. They will slowly deflate and turn into a delicious treat. Serve and enjoy!",
+        "url": "https://www.ruled.me/jalapeno-popper-egg-cups/#wprm-recipe-51619-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, eggs, family-friendly, gluten-free, keto, low-carb, make-ahead, meal-prep, nut-free, oven-baked, pork, simple &amp; easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235 kcal",
+      "fatContent": "20.3 g",
+      "proteinContent": "10.9 g",
+      "carbohydrateContent": "1.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/jalapeno-popper-egg-cups/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/jalapeno-popper-egg-cups/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/jalapeno-popper-egg-cups/"
+  },
+  "sourceIndex": {
+    "id": 25621,
+    "rid": 51619,
+    "t": "Jalapeno Popper Egg Cups",
+    "u": "/jalapeno-popper-egg-cups/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/03/jalapenopoppereggcup.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.5,
+    "cal": 235,
+    "pr": 10.9,
+    "fa": 20.3,
+    "tm": 40,
+    "sv": 12,
+    "kw": [
+      "batch-cooking",
+      "eggs",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "meal-prep",
+      "make-ahead",
+      "pork",
+      "eggs"
+    ],
+    "d": "2015-03-05",
+    "cm": 45,
+    "ex": "My girlfriend and I have been on a serious jalapeno popper binge for the last few weeks. We love the spicy, creamy, and awesome flavors that come along with fresh jalapenos. Add some cheese, cream",
+    "pv": 2464
+  },
+  "sourceHtml": "pages/jalapeno-popper-egg-cups.html",
+  "scrapedAt": "2026-11-07T08:11:12.916Z"
+}

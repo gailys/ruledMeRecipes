@@ -1,0 +1,391 @@
+{
+  "id": "ruled-12086",
+  "slug": "keto-paprika-chicken",
+  "title": "Keto Paprika Chicken",
+  "url": "https://www.ruled.me/keto-paprika-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Paprika Chicken. Each serving comes out to be 336 calories, 15.7g fats, 1.5g net carbs, and 44.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "fatContent": "15.7 g",
+    "proteinContent": "44.6 g",
+    "carbohydrateContent": "1.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 336,
+    "netCarbsGrams": 1.5,
+    "proteinGrams": 44.6,
+    "fatGrams": 15.7
+  },
+  "ingredients": [
+    "20 ounce boneless, skinless chicken breast",
+    "3 tablespoon olive oil",
+    "2 tablespoon smoked paprika",
+    "2 tablespoon lemon juice",
+    "1 tablespoon low-carb maple syrup",
+    "2 teaspoon fresh garlic (minced)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Pat the chicken breasts dry with a paper towel.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-01.jpg"
+    },
+    {
+      "text": "Cut the chicken into large chunks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-03.jpg"
+    },
+    {
+      "text": "In a small ramekin, add the olive oil, paprika, lemon juice, maple syrup, and garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-06.jpg"
+    },
+    {
+      "text": "Season the chunks of chicken with salt and pepper on both sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-07.jpg"
+    },
+    {
+      "text": "Spread about one-third of the sauce over the bottom of a casserole dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-08.jpg"
+    },
+    {
+      "text": "Add the chicken to the casserole dish, lightly tossing it in the sauce to coat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-10.jpg"
+    },
+    {
+      "text": "Add the remainder of the sauce on top of the chicken and rub it in well, making sure that each piece is coated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-11.jpg"
+    },
+    {
+      "text": "Bake in the oven for 30–35 minutes. Once done, broil for an additional 4–5 minutes. Let cool for 4–7 minutes. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-12.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/dd6a11bacf53ec21db44a4b1.jpg",
+      "archived": true,
+      "originalPath": "images/dd6a11bacf53ec21db44a4b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-featured.jpg",
+      "path": "images/1493ff26c8c7a351c52a02bb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-01.jpg",
+      "path": "../../nenaudojama/dinner/images/4dffd7aa43e15fbd6dff05c2.avif",
+      "archived": true,
+      "originalPath": "images/4dffd7aa43e15fbd6dff05c2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-03.jpg",
+      "path": "../../nenaudojama/dinner/images/9401d36d943024423763a211.jpg",
+      "archived": true,
+      "originalPath": "images/9401d36d943024423763a211.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-06.jpg",
+      "path": "../../nenaudojama/dinner/images/bb3316a35fc870d90931ec57.jpg",
+      "archived": true,
+      "originalPath": "images/bb3316a35fc870d90931ec57.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-07.jpg",
+      "path": "../../nenaudojama/dinner/images/4d6102467035c3078bf605fa.jpg",
+      "archived": true,
+      "originalPath": "images/4d6102467035c3078bf605fa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-08.jpg",
+      "path": "../../nenaudojama/dinner/images/71324bc3dfe43fb51e992a0b.jpg",
+      "archived": true,
+      "originalPath": "images/71324bc3dfe43fb51e992a0b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-10.jpg",
+      "path": "../../nenaudojama/dinner/images/40247bccd844731b24c8e037.avif",
+      "archived": true,
+      "originalPath": "images/40247bccd844731b24c8e037.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-11.jpg",
+      "path": "../../nenaudojama/dinner/images/247bdac0c42b296cdf42f2d3.jpg",
+      "archived": true,
+      "originalPath": "images/247bdac0c42b296cdf42f2d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-12.jpg",
+      "path": "../../nenaudojama/dinner/images/8de8c5782c30acc954f16ae3.jpg",
+      "archived": true,
+      "originalPath": "images/8de8c5782c30acc954f16ae3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-13.jpg",
+      "path": "../../nenaudojama/dinner/images/fe2870d0b787a5a218f33d6b.jpg",
+      "archived": true,
+      "originalPath": "images/fe2870d0b787a5a218f33d6b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/84b406eea43b7c39a3bde056.jpg",
+      "archived": true,
+      "originalPath": "images/84b406eea43b7c39a3bde056.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/08c7872e80edb23748217c2d.jpg",
+      "archived": true,
+      "originalPath": "images/08c7872e80edb23748217c2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6c3bb2090f3b00427ad01535.jpg",
+      "archived": true,
+      "originalPath": "images/6c3bb2090f3b00427ad01535.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/eac3f9a36702c4e435d9cc34.jpg",
+      "archived": true,
+      "originalPath": "images/eac3f9a36702c4e435d9cc34.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3eb7e250786c3d1a5a27de37.jpg",
+      "archived": true,
+      "originalPath": "images/3eb7e250786c3d1a5a27de37.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9a523fd5af989d2761003c04.jpg",
+      "archived": true,
+      "originalPath": "images/9a523fd5af989d2761003c04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-10-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2094389ec41b0ef2fca2f2e3.jpg",
+      "archived": true,
+      "originalPath": "images/2094389ec41b0ef2fca2f2e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-11-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0d105b1891063f3ba82cfc26.jpg",
+      "archived": true,
+      "originalPath": "images/0d105b1891063f3ba82cfc26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-12-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b7b11c446145d5a074dc6edc.jpg",
+      "archived": true,
+      "originalPath": "images/b7b11c446145d5a074dc6edc.jpg"
+    }
+  ],
+  "featuredImage": "images/1493ff26c8c7a351c52a02bb.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Paprika Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Paprika Chicken. Each serving comes out to be 336 calories, 15.7g fats, 1.5g net carbs, and 44.6g protein.",
+    "datePublished": "2014-03-27T16:42:52+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "20 ounce boneless, skinless chicken breast",
+      "3 tablespoon olive oil",
+      "2 tablespoon smoked paprika",
+      "2 tablespoon lemon juice",
+      "1 tablespoon low-carb maple syrup",
+      "2 teaspoon fresh garlic (minced)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Pat the chicken breasts dry with a paper towel.",
+        "name": "Preheat oven to 350F. Pat the chicken breasts dry with a paper towel.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into large chunks.",
+        "name": "Cut the chicken into large chunks.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small ramekin, add the olive oil, paprika, lemon juice, maple syrup, and garlic.",
+        "name": "In a small ramekin, add the olive oil, paprika, lemon juice, maple syrup, and garlic.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chunks of chicken with salt and pepper on both sides.",
+        "name": "Season the chunks of chicken with salt and pepper on both sides.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread about one-third of the sauce over the bottom of a casserole dish.",
+        "name": "Spread about one-third of the sauce over the bottom of a casserole dish.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken to the casserole dish, lightly tossing it in the sauce to coat.",
+        "name": "Add the chicken to the casserole dish, lightly tossing it in the sauce to coat.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the remainder of the sauce on top of the chicken and rub it in well, making sure that each piece is coated.",
+        "name": "Add the remainder of the sauce on top of the chicken and rub it in well, making sure that each piece is coated.",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven for 30–35 minutes. Once done, broil for an additional 4–5 minutes. Let cool for 4–7 minutes. Serve and enjoy!",
+        "name": "Bake in the oven for 30–35 minutes. Once done, broil for an additional 4–5 minutes. Let cool for 4–7 minutes. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-paprika-chicken/#wprm-recipe-51005-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-12.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, dairy-free, egg-free, gluten-free, high-protein, keto, low-carb, nut-free, oven-baked, poultry, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "336 kcal",
+      "fatContent": "15.7 g",
+      "proteinContent": "44.6 g",
+      "carbohydrateContent": "1.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-paprika-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-paprika-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-paprika-chicken/"
+  },
+  "sourceIndex": {
+    "id": 12086,
+    "rid": 51005,
+    "t": "Keto Paprika Chicken",
+    "u": "/keto-paprika-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/keto-paprika-chicken-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.5,
+    "cal": 336,
+    "pr": 44.6,
+    "fa": 15.7,
+    "tm": 50,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-03-27",
+    "cm": 9,
+    "ex": "A delicious, smokey, and savory sauce to accompany chicken whenever you want. This is a super simple recipe that brings all the flavors you're looking for in 10 minutes of prep or less! Pair this",
+    "pv": 345
+  },
+  "sourceHtml": "pages/keto-paprika-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:45.125Z"
+}

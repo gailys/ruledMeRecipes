@@ -1,0 +1,350 @@
+{
+  "id": "ruled-11089",
+  "slug": "maple-pecan-keto-mug-cake",
+  "title": "Keto Maple Pecan Mug Cake",
+  "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Maple Pecan Mug Cake. The serving comes out to be 457 calories, 44.1g fats, 3.3g net carbs, and 10.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "457 kcal",
+    "fatContent": "44.1 g",
+    "proteinContent": "10.7 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 457,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 10.7,
+    "fatGrams": 44.1
+  },
+  "ingredients": [
+    "1 large egg",
+    "2 tablespoon butter (room temperature)",
+    "2 tablespoon almond flour",
+    "1 tablespoon erythritol",
+    "7 drop liquid stevia",
+    "1/2 teaspoon baking powder",
+    "2 tablespoon pecans (crushed)",
+    "1/2 teaspoon maple extract",
+    "1/4 teaspoon ground cinnamon"
+  ],
+  "instructions": [
+    {
+      "text": "Get a mug ready! This should be at least a 12 oz size.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4302.jpg"
+    },
+    {
+      "text": "Mix together the egg, almond flour, erythritol, liquid stevia, and baking powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4316.jpg"
+    },
+    {
+      "text": "Add in the softened butter and mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4325.jpg"
+    },
+    {
+      "text": "Add the spices and flavorings: crushed pecans, maple extract, and cinnamon. Mix together until everything is well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4343.jpg"
+    },
+    {
+      "text": "Microwave on high for 55 seconds (Power Level 10).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4422.jpg"
+    },
+    {
+      "text": "Turn the mug upside down and lightly tap it on a plate. It should slide out of the mug. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/maplepecan.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/maplepecan.jpg",
+      "path": "images/ec8f3a82043a9b3a14ac1f32.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4302.jpg",
+      "path": "../../nenaudojama/dessert/images/d158b5ad620d784df97f3d8d.jpg",
+      "archived": true,
+      "originalPath": "images/d158b5ad620d784df97f3d8d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4316.jpg",
+      "path": "../../nenaudojama/dessert/images/06807b155b37f16e8b6177ce.jpg",
+      "archived": true,
+      "originalPath": "images/06807b155b37f16e8b6177ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4325.jpg",
+      "path": "../../nenaudojama/dessert/images/716d9d1dce6f184b023890d1.jpg",
+      "archived": true,
+      "originalPath": "images/716d9d1dce6f184b023890d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4343.jpg",
+      "path": "../../nenaudojama/dessert/images/97c2a872997a0dfba12c6247.avif",
+      "archived": true,
+      "originalPath": "images/97c2a872997a0dfba12c6247.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4422.jpg",
+      "path": "../../nenaudojama/dessert/images/dd55a9babcd62b8ee861771a.jpg",
+      "archived": true,
+      "originalPath": "images/dd55a9babcd62b8ee861771a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/maplepecansecond.jpg",
+      "path": "../../nenaudojama/dessert/images/b065b9805f21cdc1ea24e8d5.jpg",
+      "archived": true,
+      "originalPath": "images/b065b9805f21cdc1ea24e8d5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4302-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8372d982b77de5e97939971d.avif",
+      "archived": true,
+      "originalPath": "images/8372d982b77de5e97939971d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4316-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5c4f8fe2fff282e5db1f170e.jpg",
+      "archived": true,
+      "originalPath": "images/5c4f8fe2fff282e5db1f170e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4325-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6c661bc667d0cc4b16efdf68.jpg",
+      "archived": true,
+      "originalPath": "images/6c661bc667d0cc4b16efdf68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4343-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5f0fbb36b13f25fbab02bbd7.jpg",
+      "archived": true,
+      "originalPath": "images/5f0fbb36b13f25fbab02bbd7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4422-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/671d402e7f7c6caa27511f39.jpg",
+      "archived": true,
+      "originalPath": "images/671d402e7f7c6caa27511f39.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/maplepecan-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5b233ed2e1f4636622c082ae.avif",
+      "archived": true,
+      "originalPath": "images/5b233ed2e1f4636622c082ae.avif"
+    }
+  ],
+  "featuredImage": "images/ec8f3a82043a9b3a14ac1f32.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Maple Pecan Mug Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Maple Pecan Mug Cake. The serving comes out to be 457 calories, 44.1g fats, 3.3g net carbs, and 10.7g protein.",
+    "datePublished": "2014-03-11T16:19:06+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/maplepecan.jpg"
+    ],
+    "video": {
+      "name": "90-Second Keto Cake Recipe [Maple Pecan]",
+      "description": "ou can’t really go wrong with a maple pecan mug cake…I mean a delicious, moist, and easy to make cake ready in under 1 minute? Count me in on that one!\n\nTo crush your pecans, it’s pretty easy. Just take a few pecans and put them in a plastic bag, then take your rolling pin to it like it’s got carbs. Not just carbs, pretend it’s a 100g carb piece of cake that is tempting you, really nail the suckers! Get them into small pieces so they’ll distribute all over the cake, giving you some pecan in each and every bite.\n\nI absolutely had to put some of my homemade zero carb maple syrup ( ) on the top of this – and it was a definite winner!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 large egg\n2 tablespoons butter\n2 tablespoons almond flour\n1 tablespoon erythritol\n7 drops liquid Stevia\n½ teaspoon baking powder\n2 tablespoons crushed pecans\n½ teaspoon maple extract\n¼ teaspoon cinnamon\n\nNutrition Summary: Per the mug cake, you’re looking at 459 Calories, 44.61g Fats, 3.6g Net Carbs, and 10.8g Protein. You can easily split this into 2 portions for dessert for 2 days or to share!\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-09-06T15:00:00+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M24S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 34565
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 366
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 25
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-5-O6I94Bc4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-5-O6I94Bc4?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=-5-O6I94Bc4",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 large egg",
+      "2 tablespoon butter (room temperature)",
+      "2 tablespoon almond flour",
+      "1 tablespoon erythritol",
+      "7 drop liquid stevia",
+      "1/2 teaspoon baking powder",
+      "2 tablespoon pecans (crushed)",
+      "1/2 teaspoon maple extract",
+      "1/4 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get a mug ready! This should be at least a 12 oz size.",
+        "name": "Get a mug ready! This should be at least a 12 oz size.",
+        "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4302.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the egg, almond flour, erythritol, liquid stevia, and baking powder.",
+        "name": "Mix together the egg, almond flour, erythritol, liquid stevia, and baking powder.",
+        "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4316.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the softened butter and mix together well.",
+        "name": "Add in the softened butter and mix together well.",
+        "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4325.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the spices and flavorings: crushed pecans, maple extract, and cinnamon. Mix together until everything is well combined.",
+        "name": "Add the spices and flavorings: crushed pecans, maple extract, and cinnamon. Mix together until everything is well combined.",
+        "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4343.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave on high for 55 seconds (Power Level 10).",
+        "name": "Microwave on high for 55 seconds (Power Level 10).",
+        "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4422.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the mug upside down and lightly tap it on a plate. It should slide out of the mug. Enjoy!",
+        "name": "Turn the mug upside down and lightly tap it on a plate. It should slide out of the mug. Enjoy!",
+        "url": "https://www.ruled.me/maple-pecan-keto-mug-cake/#wprm-recipe-50949-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/maplepecan.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Cakes",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "457 kcal",
+      "fatContent": "44.1 g",
+      "proteinContent": "10.7 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/maple-pecan-keto-mug-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/maple-pecan-keto-mug-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/maple-pecan-keto-mug-cake/"
+  },
+  "sourceIndex": {
+    "id": 11089,
+    "rid": 50949,
+    "t": "Maple Pecan Keto Mug Cake",
+    "u": "/maple-pecan-keto-mug-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/maplepecan.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.3,
+    "cal": 457,
+    "pr": 10.7,
+    "fa": 44.1,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian"
+    ],
+    "d": "2014-03-11",
+    "cm": 14,
+    "ex": "Okay, so I know that this thing looks like a caked out version of the sorting hat from Harry Potter, but that definitely doesn't take away from its deliciousness! You can't really go wrong with a",
+    "pv": 199
+  },
+  "sourceHtml": "pages/maple-pecan-keto-mug-cake.html",
+  "scrapedAt": "2026-11-07T08:30:47.586Z"
+}

@@ -1,0 +1,365 @@
+{
+  "id": "ruled-24710",
+  "slug": "breakfast-cauliflower-waffles",
+  "title": "Cauliflower Breakfast Waffles",
+  "url": "https://www.ruled.me/breakfast-cauliflower-waffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Cauliflower Breakfast Waffles. Each serving comes out to be 344 calories, 25.3g fats, 3.6g net carbs, and 24.3g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "344 kcal",
+    "fatContent": "25.3 g",
+    "proteinContent": "24.3 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 344,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 24.3,
+    "fatGrams": 25.3
+  },
+  "ingredients": [
+    "160 gram cauliflower (grated)",
+    "3 tablespoon fresh chives (chopped)",
+    "1/2 cup mozzarella cheese (grated)",
+    "1/4 cup parmesan cheese (grated)",
+    "1/2 cup cheddar cheese (grated)",
+    "3 large egg",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon crushed red pepper flakes",
+    "salt and pepper (to taste)",
+    "2 large egg",
+    "2 ounce prosciutto",
+    "2 tablespoon hollandaise sauce (such as Trader Joe's)",
+    "1.2 ounce smoked salmon",
+    "1 ounce cream cheese",
+    "1 tablespoon sour cream",
+    "2 teaspoon fresh chives (chopped)",
+    "1/2 teaspoon dried dill",
+    "1/8 teaspoon garlic powder",
+    "1/8 teaspoon onion powder"
+  ],
+  "instructions": [
+    {
+      "text": "Get out the fresh cauliflower and chives. Break the cauliflower into florets. Finely chop the chives.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_7112.jpg"
+    },
+    {
+      "text": "Grate the cauliflower and cheese using a food processor, and then remove the bowl from the base.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_7127.jpg"
+    },
+    {
+      "text": "Add the chopped chives, eggs, and seasonings. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_7135.jpg"
+    },
+    {
+      "text": "Heat up a Belgian-style waffle maker and when it's ready, spoon the cauliflower mixture inside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_7138.jpg"
+    },
+    {
+      "text": "Let cook, flip, and cook on the other side. This should take around 8–10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_7145.jpg"
+    },
+    {
+      "text": "Make these eggs Benedict–style by adding poached eggs, prosciutto, and hollandaise sauce; OR:",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffleslong1.jpg"
+    },
+    {
+      "text": "Mix the ingredients for the salmon spread to create a deliciously smoky, herby breakfast waffle. Both variations taste delicious. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "fish",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "seafood",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffles.jpg",
+      "path": "images/3bc3e4e3871b3aa95224a52d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7112.jpg",
+      "path": "../../nenaudojama/breakfast/images/933ef6cacf4d9a0199c3601d.jpg",
+      "archived": true,
+      "originalPath": "images/933ef6cacf4d9a0199c3601d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7127.jpg",
+      "path": "../../nenaudojama/breakfast/images/4a53d8945c76b3d2d36b4a59.avif",
+      "archived": true,
+      "originalPath": "images/4a53d8945c76b3d2d36b4a59.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7135.jpg",
+      "path": "../../nenaudojama/breakfast/images/f33dd51fa904f4224ef53de1.jpg",
+      "archived": true,
+      "originalPath": "images/f33dd51fa904f4224ef53de1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7138.jpg",
+      "path": "../../nenaudojama/breakfast/images/cb854d652f27dbbde5414ba4.jpg",
+      "archived": true,
+      "originalPath": "images/cb854d652f27dbbde5414ba4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7145.jpg",
+      "path": "../../nenaudojama/breakfast/images/522348265f0354d3e9be0ec9.avif",
+      "archived": true,
+      "originalPath": "images/522348265f0354d3e9be0ec9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffleslong1.jpg",
+      "path": "../../nenaudojama/breakfast/images/22598f52bab65017cb396241.jpg",
+      "archived": true,
+      "originalPath": "images/22598f52bab65017cb396241.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwafflessecond1.jpg",
+      "path": "../../nenaudojama/breakfast/images/4342569d64a18cb09866e2ce.avif",
+      "archived": true,
+      "originalPath": "images/4342569d64a18cb09866e2ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffleslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/e4f8ee37f7c1afb36f7b39b5.avif",
+      "archived": true,
+      "originalPath": "images/e4f8ee37f7c1afb36f7b39b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7112-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ced293e3c20e0fdd8d6f6636.jpg",
+      "archived": true,
+      "originalPath": "images/ced293e3c20e0fdd8d6f6636.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7127-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/060a552586c0189d248ae77e.avif",
+      "archived": true,
+      "originalPath": "images/060a552586c0189d248ae77e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7135-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d03eca0c6365d0f4690e020b.avif",
+      "archived": true,
+      "originalPath": "images/d03eca0c6365d0f4690e020b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7138-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e8842eebb922a8b58b1da323.avif",
+      "archived": true,
+      "originalPath": "images/e8842eebb922a8b58b1da323.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_7145-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/698e5e432677a6c47891afab.jpg",
+      "archived": true,
+      "originalPath": "images/698e5e432677a6c47891afab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffleslong1-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1f5c0517424d310cdadc0409.jpg",
+      "archived": true,
+      "originalPath": "images/1f5c0517424d310cdadc0409.jpg"
+    }
+  ],
+  "featuredImage": "images/3bc3e4e3871b3aa95224a52d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cauliflower Breakfast Waffles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Cauliflower Breakfast Waffles. Each serving comes out to be 344 calories, 25.3g fats, 3.6g net carbs, and 24.3g protein.",
+    "datePublished": "2014-10-07T14:04:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffles.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "160 gram cauliflower (grated)",
+      "3 tablespoon fresh chives (chopped)",
+      "1/2 cup mozzarella cheese (grated)",
+      "1/4 cup parmesan cheese (grated)",
+      "1/2 cup cheddar cheese (grated)",
+      "3 large egg",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon crushed red pepper flakes",
+      "salt and pepper (to taste)",
+      "2 large egg",
+      "2 ounce prosciutto",
+      "2 tablespoon hollandaise sauce (such as Trader Joe's)",
+      "1.2 ounce smoked salmon",
+      "1 ounce cream cheese",
+      "1 tablespoon sour cream",
+      "2 teaspoon fresh chives (chopped)",
+      "1/2 teaspoon dried dill",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon onion powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get out the fresh cauliflower and chives. Break the cauliflower into florets. Finely chop the chives.",
+        "name": "Get out the fresh cauliflower and chives. Break the cauliflower into florets. Finely chop the chives.",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_7112.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the cauliflower and cheese using a food processor, and then remove the bowl from the base.",
+        "name": "Grate the cauliflower and cheese using a food processor, and then remove the bowl from the base.",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_7127.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped chives, eggs, and seasonings. Mix well.",
+        "name": "Add the chopped chives, eggs, and seasonings. Mix well.",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_7135.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up a Belgian-style waffle maker and when it's ready, spoon the cauliflower mixture inside.",
+        "name": "Heat up a Belgian-style waffle maker and when it's ready, spoon the cauliflower mixture inside.",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_7138.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cook, flip, and cook on the other side. This should take around 8–10 minutes.",
+        "name": "Let cook, flip, and cook on the other side. This should take around 8–10 minutes.",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_7145.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make these eggs Benedict–style by adding poached eggs, prosciutto, and hollandaise sauce; OR:",
+        "name": "Make these eggs Benedict–style by adding poached eggs, prosciutto, and hollandaise sauce; OR:",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffleslong1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the ingredients for the salmon spread to create a deliciously smoky, herby breakfast waffle. Both variations taste delicious. Enjoy!",
+        "name": "Mix the ingredients for the salmon spread to create a deliciously smoky, herby breakfast waffle. Both variations taste delicious. Enjoy!",
+        "url": "https://www.ruled.me/breakfast-cauliflower-waffles/#wprm-recipe-51427-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "30-minute, eggs, fish, gluten-free, keto, low-carb, nut-free, pork, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "344 kcal",
+      "fatContent": "25.3 g",
+      "proteinContent": "24.3 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/breakfast-cauliflower-waffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/breakfast-cauliflower-waffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/breakfast-cauliflower-waffles/"
+  },
+  "sourceIndex": {
+    "id": 24710,
+    "rid": 51427,
+    "t": "Breakfast Cauliflower Waffles",
+    "u": "/breakfast-cauliflower-waffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/10/purplecauliflowerwaffles.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.6,
+    "cal": 344,
+    "pr": 24.3,
+    "fa": 25.3,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "fish",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 20,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "seafood",
+      "eggs"
+    ],
+    "d": "2014-10-07",
+    "cm": 12,
+    "ex": "I had the opportunity to go to my first proper Farmer's Market last weekend - and wow, did it ever live up to my expectations! Garlic, peppers of all kinds and assortments (stuffed poblanos",
+    "pv": 170
+  },
+  "sourceHtml": "pages/breakfast-cauliflower-waffles.html",
+  "scrapedAt": "2026-11-07T08:11:12.993Z"
+}

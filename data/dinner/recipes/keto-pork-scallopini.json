@@ -1,0 +1,342 @@
+{
+  "id": "ruled-57971",
+  "slug": "keto-pork-scallopini",
+  "title": "Keto Pork Scallopini",
+  "url": "https://www.ruled.me/keto-pork-scallopini/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Pork Scallopini. Each serving comes out to be 551 calories, 38.4g fats, 4.6g net carbs, and 47g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "551 kcal",
+    "fatContent": "38.4 g",
+    "proteinContent": "47 g",
+    "carbohydrateContent": "4.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 551,
+    "netCarbsGrams": 4.6,
+    "proteinGrams": 47,
+    "fatGrams": 38.4
+  },
+  "ingredients": [
+    "24 ounce boneless pork chops (thinly cut)",
+    "salt and pepper (to taste)",
+    "1 tablespoon olive oil",
+    "4 tablespoon butter",
+    "2 tablespoon capers",
+    "1 medium yellow bell pepper (sliced)",
+    "1 cup chicken broth",
+    "2 tablespoon lemon juice",
+    "12 ounce cherry tomatoes",
+    "2 tablespoon fresh parsley (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-1.jpg"
+    },
+    {
+      "text": "Heat olive oil in a pan over medium-high heat. Season pork with salt and pepper on both sides. Once pan is hot, add pork and cook until browned on both sides, about 90 seconds per side. Remove from the pan and cover with foil to keep warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-2.jpg"
+    },
+    {
+      "text": "Reduce heat to medium and add in the butter, capers, and yellow bell pepper. Cook until bell pepper is softened and capers are sizzling.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-3.jpg"
+    },
+    {
+      "text": "Add in the chicken broth and lemon juice, scraping the bottom of the pan to deglaze. Bring to a boil and reduce by half, stirring occasionally.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-4.jpg"
+    },
+    {
+      "text": "Once sauce has reduced, add in the tomatoes and cook until softened and slightly blistered.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-5.jpg"
+    },
+    {
+      "text": "Plate the pork and pour the sauce over the top. Garnish with fresh parsley and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/4ebcc7cf2cf7366d230aae4d.jpg",
+      "archived": true,
+      "originalPath": "images/4ebcc7cf2cf7366d230aae4d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured.jpg",
+      "path": "images/63d5228211b567653c627056.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-1.jpg",
+      "path": "../../nenaudojama/dinner/images/d6fc28476a18042f1f660aed.jpg",
+      "archived": true,
+      "originalPath": "images/d6fc28476a18042f1f660aed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-2.jpg",
+      "path": "../../nenaudojama/dinner/images/d8c08427c81788862d117908.avif",
+      "archived": true,
+      "originalPath": "images/d8c08427c81788862d117908.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-3.jpg",
+      "path": "../../nenaudojama/dinner/images/6b8aaad3dc836e317c664a63.avif",
+      "archived": true,
+      "originalPath": "images/6b8aaad3dc836e317c664a63.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-4.jpg",
+      "path": "../../nenaudojama/dinner/images/5ec06bc931555b83c910c0d3.jpg",
+      "archived": true,
+      "originalPath": "images/5ec06bc931555b83c910c0d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-5.jpg",
+      "path": "../../nenaudojama/dinner/images/c5717eba2f02cecf6bde327a.jpg",
+      "archived": true,
+      "originalPath": "images/c5717eba2f02cecf6bde327a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/354358e2c075ef2fa8b2a876.avif",
+      "archived": true,
+      "originalPath": "images/354358e2c075ef2fa8b2a876.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/c67e964f05c573d0dc113f6d.jpg",
+      "archived": true,
+      "originalPath": "images/c67e964f05c573d0dc113f6d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/bb7709206a8a2507e3af1c93.jpg",
+      "archived": true,
+      "originalPath": "images/bb7709206a8a2507e3af1c93.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4d1b576a2513b90974ad050f.jpg",
+      "archived": true,
+      "originalPath": "images/4d1b576a2513b90974ad050f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/10750ab768e9d2d0e442b9b0.avif",
+      "archived": true,
+      "originalPath": "images/10750ab768e9d2d0e442b9b0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/19739fa30d9289ddf04046e4.jpg",
+      "archived": true,
+      "originalPath": "images/19739fa30d9289ddf04046e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5e7daed01a2641203fd45d25.avif",
+      "archived": true,
+      "originalPath": "images/5e7daed01a2641203fd45d25.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7616a40f2214b45bb61a819b.jpg",
+      "archived": true,
+      "originalPath": "images/7616a40f2214b45bb61a819b.jpg"
+    }
+  ],
+  "featuredImage": "images/63d5228211b567653c627056.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pork Scallopini",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Pork Scallopini. Each serving comes out to be 551 calories, 38.4g fats, 4.6g net carbs, and 47g protein.",
+    "datePublished": "2025-07-09T09:55:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "24 ounce boneless pork chops (thinly cut)",
+      "salt and pepper (to taste)",
+      "1 tablespoon olive oil",
+      "4 tablespoon butter",
+      "2 tablespoon capers",
+      "1 medium yellow bell pepper (sliced)",
+      "1 cup chicken broth",
+      "2 tablespoon lemon juice",
+      "12 ounce cherry tomatoes",
+      "2 tablespoon fresh parsley (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients.",
+        "name": "Gather and prep all of your ingredients.",
+        "url": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat olive oil in a pan over medium-high heat. Season pork with salt and pepper on both sides. Once pan is hot, add pork and cook until browned on both sides, about 90 seconds per side. Remove from the pan and cover with foil to keep warm.",
+        "name": "Heat olive oil in a pan over medium-high heat. Season pork with salt and pepper on both sides. Once pan is hot, add pork and cook until browned on both sides, about 90 seconds per side. Remove from the pan and cover with foil to keep warm.",
+        "url": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce heat to medium and add in the butter, capers, and yellow bell pepper. Cook until bell pepper is softened and capers are sizzling.",
+        "name": "Reduce heat to medium and add in the butter, capers, and yellow bell pepper. Cook until bell pepper is softened and capers are sizzling.",
+        "url": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the chicken broth and lemon juice, scraping the bottom of the pan to deglaze. Bring to a boil and reduce by half, stirring occasionally.",
+        "name": "Add in the chicken broth and lemon juice, scraping the bottom of the pan to deglaze. Bring to a boil and reduce by half, stirring occasionally.",
+        "url": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once sauce has reduced, add in the tomatoes and cook until softened and slightly blistered.",
+        "name": "Once sauce has reduced, add in the tomatoes and cook until softened and slightly blistered.",
+        "url": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the pork and pour the sauce over the top. Garnish with fresh parsley and enjoy!",
+        "name": "Plate the pork and pour the sauce over the top. Garnish with fresh parsley and enjoy!",
+        "url": "https://www.ruled.me/keto-pork-scallopini/#wprm-recipe-57980-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "551 kcal",
+      "fatContent": "38.4 g",
+      "proteinContent": "47 g",
+      "carbohydrateContent": "4.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pork-scallopini/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pork-scallopini/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pork-scallopini/"
+  },
+  "sourceIndex": {
+    "id": 57971,
+    "rid": 57980,
+    "t": "Keto Pork Scallopini",
+    "u": "/keto-pork-scallopini/",
+    "img": "https://www.ruled.me/wp-content/uploads/2025/07/Keto-Scallopini-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.6,
+    "cal": 551,
+    "pr": 47,
+    "fa": 38.4,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2025-07-09",
+    "cm": 0,
+    "ex": "Elevate your dinner rotation with this elegant yet effortless Keto Pork Scallopini, a dish that delivers restaurant-quality flavor right at home. Tender, thin-cut pork chops are seared to a golden",
+    "pv": 704
+  },
+  "sourceHtml": "pages/keto-pork-scallopini.html",
+  "scrapedAt": "2026-11-07T08:27:43.369Z"
+}

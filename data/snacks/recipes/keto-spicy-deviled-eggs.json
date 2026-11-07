@@ -1,0 +1,340 @@
+{
+  "id": "ruled-42302",
+  "slug": "keto-spicy-deviled-eggs",
+  "title": "Spicy Keto Deviled Eggs",
+  "url": "https://www.ruled.me/keto-spicy-deviled-eggs/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Spicy Keto Deviled Eggs. Each serving comes out to be 609 calories, 56.4g fats, 3.2g net carbs, and 20g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "2",
+    "calories": "609 kcal",
+    "fatContent": "56.4 g",
+    "proteinContent": "20 g",
+    "carbohydrateContent": "3.2 g"
+  },
+  "nutritionPerServing": {
+    "calories": 609,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 20,
+    "fatGrams": 56.4
+  },
+  "ingredients": [
+    "6 large egg",
+    "1 tablespoon sriracha",
+    "1/2 cup mayonnaise",
+    "salt and pepper (to taste)",
+    "1/2 tablespoon poppy seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Place the eggs in a pot and add enough water to just cover the eggs. Bring the water to a boil over medium-high heat without the lid.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-02.jpg"
+    },
+    {
+      "text": "Let the eggs simmer for about 7-8 minutes, then quickly cool the eggs in an ice-water bath.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-03.jpg"
+    },
+    {
+      "text": "Remove the egg shells. Cut the eggs in half and scoop out the yolk portion, placing them in a separate bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-04.jpg"
+    },
+    {
+      "text": "Mix the egg yolks, sriracha, mayonnaise, and salt and pepper together until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-06.jpg"
+    },
+    {
+      "text": "Scoop or pipe the yolk mixture back into the hollows of the egg whites.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-07.jpg"
+    },
+    {
+      "text": "Garnish with poppy seeds and serve. Optionally you can put them into the refrigerator to get a firmer texture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "spicy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "few-ingredients",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/c56ccb8a796dac24db68cdea.avif",
+      "archived": true,
+      "originalPath": "images/c56ccb8a796dac24db68cdea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-08.jpg",
+      "path": "../../nenaudojama/snacks/images/dceefb0d38cc9ac003f7abc1.jpg",
+      "archived": true,
+      "originalPath": "images/dceefb0d38cc9ac003f7abc1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-02.jpg",
+      "path": "../../nenaudojama/snacks/images/f782ac327102ec6e8f8ba37f.avif",
+      "archived": true,
+      "originalPath": "images/f782ac327102ec6e8f8ba37f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-03.jpg",
+      "path": "../../nenaudojama/snacks/images/7665b353f6d2ee9e4062c2b7.avif",
+      "archived": true,
+      "originalPath": "images/7665b353f6d2ee9e4062c2b7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-04.jpg",
+      "path": "../../nenaudojama/snacks/images/3380ae63d8843dedab510d13.jpg",
+      "archived": true,
+      "originalPath": "images/3380ae63d8843dedab510d13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-06.jpg",
+      "path": "../../nenaudojama/snacks/images/5404d99ec5eb183392f6d022.jpg",
+      "archived": true,
+      "originalPath": "images/5404d99ec5eb183392f6d022.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-07.jpg",
+      "path": "../../nenaudojama/snacks/images/5655fc1e2f3f5f68379f260b.jpg",
+      "archived": true,
+      "originalPath": "images/5655fc1e2f3f5f68379f260b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-second.jpg",
+      "path": "../../nenaudojama/snacks/images/a16da7e02bc4ea6bf2f9f82e.avif",
+      "archived": true,
+      "originalPath": "images/a16da7e02bc4ea6bf2f9f82e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-05.jpg",
+      "path": "../../nenaudojama/snacks/images/0313ed578d0d4ef2b6a1ce0e.jpg",
+      "archived": true,
+      "originalPath": "images/0313ed578d0d4ef2b6a1ce0e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/0fc6a831d1956074e29c8c9e.jpg",
+      "archived": true,
+      "originalPath": "images/0fc6a831d1956074e29c8c9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-08-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/e1ce78f91b8b5b041c5cbece.avif",
+      "archived": true,
+      "originalPath": "images/e1ce78f91b8b5b041c5cbece.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/03d1e1e0b58a8f7ec4afc578.jpg",
+      "archived": true,
+      "originalPath": "images/03d1e1e0b58a8f7ec4afc578.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-03-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/ab545f28d06fc889a9ef6813.avif",
+      "archived": true,
+      "originalPath": "images/ab545f28d06fc889a9ef6813.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-04-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/e66343d9afb40ebb3076da03.avif",
+      "archived": true,
+      "originalPath": "images/e66343d9afb40ebb3076da03.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-06-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4dde5ec042cfe87e5f4df670.avif",
+      "archived": true,
+      "originalPath": "images/4dde5ec042cfe87e5f4df670.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-07-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/647ad3a0c0e5b09a453bb7aa.jpg",
+      "archived": true,
+      "originalPath": "images/647ad3a0c0e5b09a453bb7aa.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/dceefb0d38cc9ac003f7abc1.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spicy Keto Deviled Eggs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Spicy Keto Deviled Eggs. Each serving comes out to be 609 calories, 56.4g fats, 3.2g net carbs, and 20g protein.",
+    "datePublished": "2020-01-23T12:00:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-08.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "6 large egg",
+      "1 tablespoon sriracha",
+      "1/2 cup mayonnaise",
+      "salt and pepper (to taste)",
+      "1/2 tablespoon poppy seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the eggs in a pot and add enough water to just cover the eggs. Bring the water to a boil over medium-high heat without the lid.",
+        "name": "Place the eggs in a pot and add enough water to just cover the eggs. Bring the water to a boil over medium-high heat without the lid.",
+        "url": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the eggs simmer for about 7-8 minutes, then quickly cool the eggs in an ice-water bath.",
+        "name": "Let the eggs simmer for about 7-8 minutes, then quickly cool the eggs in an ice-water bath.",
+        "url": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the egg shells. Cut the eggs in half and scoop out the yolk portion, placing them in a separate bowl.",
+        "name": "Remove the egg shells. Cut the eggs in half and scoop out the yolk portion, placing them in a separate bowl.",
+        "url": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the egg yolks, sriracha, mayonnaise, and salt and pepper together until smooth.",
+        "name": "Mix the egg yolks, sriracha, mayonnaise, and salt and pepper together until smooth.",
+        "url": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop or pipe the yolk mixture back into the hollows of the egg whites.",
+        "name": "Scoop or pipe the yolk mixture back into the hollows of the egg whites.",
+        "url": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with poppy seeds and serve. Optionally you can put them into the refrigerator to get a firmer texture.",
+        "name": "Garnish with poppy seeds and serve. Optionally you can put them into the refrigerator to get a firmer texture.",
+        "url": "https://www.ruled.me/keto-spicy-deviled-eggs/#wprm-recipe-53223-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, eggs, gluten-free, high-fat, keto, low-carb, nut-free, party-food, quick, simple &amp; easy, simple-and-easy, spicy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "2",
+      "calories": "609 kcal",
+      "fatContent": "56.4 g",
+      "proteinContent": "20 g",
+      "carbohydrateContent": "3.2 g"
+    },
+    "@id": "https://www.ruled.me/keto-spicy-deviled-eggs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-spicy-deviled-eggs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-spicy-deviled-eggs/"
+  },
+  "sourceIndex": {
+    "id": 42302,
+    "rid": 53223,
+    "t": "Keto Spicy Deviled Eggs",
+    "u": "/keto-spicy-deviled-eggs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.2,
+    "cal": 609,
+    "pr": 20,
+    "fa": 56.4,
+    "tm": 30,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "spicy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "few-ingredients",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2020-01-23",
+    "cm": 0,
+    "ex": "I know most people just want to scroll down to the recipe, so I will make this quick, but these spicy deviled eggs are delicious! This recipe is perfect for anyone who loves spicy finger foods. The",
+    "pv": 106
+  },
+  "sourceHtml": "pages/keto-spicy-deviled-eggs.html",
+  "scrapedAt": "2026-11-07T08:30:58.002Z"
+}

@@ -1,0 +1,231 @@
+{
+  "id": "ruled-3708",
+  "slug": "zesty-keto-italian-dressing",
+  "title": "Zesty Keto Italian Dressing",
+  "url": "https://www.ruled.me/zesty-keto-italian-dressing/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Zesty Keto Italian Dressing. Each serving comes out to be 85 calories, 9g fats, 1.1g net carbs, and 0.1g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "85 kcal",
+    "fatContent": "9 g",
+    "proteinContent": "0.1 g",
+    "carbohydrateContent": "1.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 85,
+    "netCarbsGrams": 1.1,
+    "proteinGrams": 0.1,
+    "fatGrams": 9
+  },
+  "ingredients": [
+    "1 tablespoon fresh oregano",
+    "1 tablespoon sea salt",
+    "1/2 tablespoon dried parsley",
+    "1/2 tablespoon garlic powder",
+    "1/2 tablespoon onion powder",
+    "1/2 teaspoon basil",
+    "1/2 teaspoon black pepper",
+    "1 cup olive oil",
+    "1/2 cup apple cider vinegar",
+    "1 tablespoon honey",
+    "1 tablespoon ruled.me dry mix (from above)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out all of the herb ingredients into a bowl (or jar). Stir herbs all together to mix well. Store in an airtight jar. Shake to mix before using. Set aside for later use in the dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/zesty-keto-italian-dressing/#wprm-recipe-50509-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-04.jpg"
+    },
+    {
+      "text": "Pour all dressing ingredients into emulsion beaker. With emulsion blender, blend for just a few seconds until well mixed. Pour mixture into jar and let flavors meld. The longer they meld, the better it will taste. This is shelf stable for 2 weeks. If you put it in the refrigerator, be sure to take it out ahead of time, as it will solidify in the refrigerator.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/zesty-keto-italian-dressing/#wprm-recipe-50509-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/4db6124c31c6b3734690ba5c.jpg",
+      "archived": true,
+      "originalPath": "images/4db6124c31c6b3734690ba5c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/546114eeedc96ef558d50e38.jpg",
+      "archived": true,
+      "originalPath": "images/546114eeedc96ef558d50e38.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-04.jpg",
+      "path": "../../nenaudojama/condiments/images/a1a71cad4cc83a5101118bf6.jpg",
+      "archived": true,
+      "originalPath": "images/a1a71cad4cc83a5101118bf6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-pin.jpg",
+      "path": "../../nenaudojama/condiments/images/156dacefc53e81acd27957b2.jpg",
+      "archived": true,
+      "originalPath": "images/156dacefc53e81acd27957b2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-04-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/044f6c177aa586b3a942d68e.jpg",
+      "archived": true,
+      "originalPath": "images/044f6c177aa586b3a942d68e.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/546114eeedc96ef558d50e38.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Zesty Keto Italian Dressing",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 24 servings of Zesty Keto Italian Dressing. Each serving comes out to be 85 calories, 9g fats, 1.1g net carbs, and 0.1g protein.",
+    "datePublished": "2013-12-07T23:37:12+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-featured.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 tablespoon fresh oregano",
+      "1 tablespoon sea salt",
+      "1/2 tablespoon dried parsley",
+      "1/2 tablespoon garlic powder",
+      "1/2 tablespoon onion powder",
+      "1/2 teaspoon basil",
+      "1/2 teaspoon black pepper",
+      "1 cup olive oil",
+      "1/2 cup apple cider vinegar",
+      "1 tablespoon honey",
+      "1 tablespoon ruled.me dry mix (from above)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out all of the herb ingredients into a bowl (or jar). Stir herbs all together to mix well. Store in an airtight jar. Shake to mix before using. Set aside for later use in the dressing.",
+        "name": "Measure out all of the herb ingredients into a bowl (or jar). Stir herbs all together to mix well. Store in an airtight jar. Shake to mix before using. Set aside for later use in the dressing.",
+        "url": "https://www.ruled.me/zesty-keto-italian-dressing/#wprm-recipe-50509-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour all dressing ingredients into emulsion beaker. With emulsion blender, blend for just a few seconds until well mixed. Pour mixture into jar and let flavors meld. The longer they meld, the better it will taste. This is shelf stable for 2 weeks. If you put it in the refrigerator, be sure to take it out ahead of time, as it will solidify in the refrigerator.",
+        "name": "Pour all dressing ingredients into emulsion beaker. With emulsion blender, blend for just a few seconds until well mixed. Pour mixture into jar and let flavors meld. The longer they meld, the better it will taste. This is shelf stable for 2 weeks. If you put it in the refrigerator, be sure to take it out ahead of time, as it will solidify in the refrigerator.",
+        "url": "https://www.ruled.me/zesty-keto-italian-dressing/#wprm-recipe-50509-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "85 kcal",
+      "fatContent": "9 g",
+      "proteinContent": "0.1 g",
+      "carbohydrateContent": "1.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/zesty-keto-italian-dressing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/zesty-keto-italian-dressing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/zesty-keto-italian-dressing/"
+  },
+  "sourceIndex": {
+    "id": 3708,
+    "rid": 50509,
+    "t": "Zesty Keto Italian Dressing",
+    "u": "/zesty-keto-italian-dressing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/zesty-keto-italian-dressing-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 1.1,
+    "cal": 85,
+    "pr": 0.1,
+    "fa": 9,
+    "tm": 5,
+    "sv": 24,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2013-12-07",
+    "cm": 3,
+    "ex": "This recipe is very similar to my honey vinaigrette recipe. In fact, I just add the herb mix that I keep on hand to the honey vinaigrette if I already have that keto salad dressing made. Also, like",
+    "pv": 172
+  },
+  "sourceHtml": "pages/zesty-keto-italian-dressing.html",
+  "scrapedAt": "2026-11-07T08:33:43.277Z"
+}

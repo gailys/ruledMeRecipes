@@ -1,0 +1,322 @@
+{
+  "id": "ruled-25001",
+  "slug": "crockpot-buffalo-chicken-soup",
+  "title": "Crock-Pot Buffalo Chicken Soup",
+  "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Crock-Pot Buffalo Chicken Soup. Each serving comes out to be 654 calories, 61.5g fats, 2.9g net carbs, and 23.4g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT360M",
+  "totalTime": "PT370M",
+  "totalMinutes": 370,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "654 kcal",
+    "fatContent": "61.5 g",
+    "proteinContent": "23.4 g",
+    "carbohydrateContent": "2.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 654,
+    "netCarbsGrams": 2.9,
+    "proteinGrams": 23.4,
+    "fatGrams": 61.5
+  },
+  "ingredients": [
+    "24 ounce bone-in, skin-on chicken thighs (deboned)",
+    "1 teaspoon onion powder",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon celery seed",
+    "1/4 cup butter",
+    "1/2 cup hot sauce",
+    "3 cup beef broth",
+    "1 cup heavy whipping cream",
+    "2 ounce cream cheese",
+    "1/4 teaspoon xanthan gum",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Debone the chicken thighs (I find it easiest to do this with scissors). Cut or slice the chicken into chunks and drop them in the slow cooker.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9050.jpg"
+    },
+    {
+      "text": "Add in the rest of the ingredients to the crockpot except for the cream, cheese, and xanthan gum. Set the slow cooker on low for 6 hours (or high for 3 hours) and let cook completely.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9053.jpg"
+    },
+    {
+      "text": "Once everything is cooked, remove the chicken from the slow cooker and shred using a fork.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9223.jpg"
+    },
+    {
+      "text": "Add the cream, cheese, and xanthan gum to the slow cooker. Using an immersion blender, mix the ingredients together until emulsified. This will help keep the soup from separating.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9229.jpg"
+    },
+    {
+      "text": "Place the chicken back into the slow cooker and stir everything together. Season to taste with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_9241.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "slow-cooker",
+    "spicy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/buffalochickensoup.jpg",
+      "path": "images/3754d1ccc2d4eabc869e350b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9050.jpg",
+      "path": "../../nenaudojama/dinner/images/8f60b49989bc65d569f9af54.jpg",
+      "archived": true,
+      "originalPath": "images/8f60b49989bc65d569f9af54.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9053.jpg",
+      "path": "../../nenaudojama/dinner/images/439b409d0ffe88b4af882da3.avif",
+      "archived": true,
+      "originalPath": "images/439b409d0ffe88b4af882da3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9223.jpg",
+      "path": "../../nenaudojama/dinner/images/9a7b866d216fb42108c341de.avif",
+      "archived": true,
+      "originalPath": "images/9a7b866d216fb42108c341de.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9229.jpg",
+      "path": "../../nenaudojama/dinner/images/e55d5241aae4af87fc6d6dd8.jpg",
+      "archived": true,
+      "originalPath": "images/e55d5241aae4af87fc6d6dd8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9241.jpg",
+      "path": "../../nenaudojama/dinner/images/800a2481ca4bdb1d36fc5dd1.avif",
+      "archived": true,
+      "originalPath": "images/800a2481ca4bdb1d36fc5dd1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/buffalochickensoupsecond.jpg",
+      "path": "../../nenaudojama/dinner/images/4f5ce064d8a9d9092f66ec11.avif",
+      "archived": true,
+      "originalPath": "images/4f5ce064d8a9d9092f66ec11.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/buffalochickensouplong.jpg",
+      "path": "../../nenaudojama/dinner/images/1a78be10b470982991435f5b.avif",
+      "archived": true,
+      "originalPath": "images/1a78be10b470982991435f5b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9050-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5e3df9aa0548a391cbbd89c5.avif",
+      "archived": true,
+      "originalPath": "images/5e3df9aa0548a391cbbd89c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9053-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/86e024fe328a0b8f9f6de700.avif",
+      "archived": true,
+      "originalPath": "images/86e024fe328a0b8f9f6de700.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9223-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/406fcae141d3c683dcaa8500.avif",
+      "archived": true,
+      "originalPath": "images/406fcae141d3c683dcaa8500.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9229-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/21ade9db4f23b5f787c60e36.jpg",
+      "archived": true,
+      "originalPath": "images/21ade9db4f23b5f787c60e36.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_9241-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d810dc60345ccb31bcd999a3.avif",
+      "archived": true,
+      "originalPath": "images/d810dc60345ccb31bcd999a3.avif"
+    }
+  ],
+  "featuredImage": "images/3754d1ccc2d4eabc869e350b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Crock-Pot Buffalo Chicken Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 5 servings of Crock-Pot Buffalo Chicken Soup. Each serving comes out to be 654 calories, 61.5g fats, 2.9g net carbs, and 23.4g protein.",
+    "datePublished": "2014-11-29T16:13:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/11/buffalochickensoup.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT360M",
+    "totalTime": "PT370M",
+    "recipeIngredient": [
+      "24 ounce bone-in, skin-on chicken thighs (deboned)",
+      "1 teaspoon onion powder",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon celery seed",
+      "1/4 cup butter",
+      "1/2 cup hot sauce",
+      "3 cup beef broth",
+      "1 cup heavy whipping cream",
+      "2 ounce cream cheese",
+      "1/4 teaspoon xanthan gum",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Debone the chicken thighs (I find it easiest to do this with scissors). Cut or slice the chicken into chunks and drop them in the slow cooker.",
+        "name": "Debone the chicken thighs (I find it easiest to do this with scissors). Cut or slice the chicken into chunks and drop them in the slow cooker.",
+        "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9050.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the rest of the ingredients to the crockpot except for the cream, cheese, and xanthan gum. Set the slow cooker on low for 6 hours (or high for 3 hours) and let cook completely.",
+        "name": "Add in the rest of the ingredients to the crockpot except for the cream, cheese, and xanthan gum. Set the slow cooker on low for 6 hours (or high for 3 hours) and let cook completely.",
+        "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9053.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once everything is cooked, remove the chicken from the slow cooker and shred using a fork.",
+        "name": "Once everything is cooked, remove the chicken from the slow cooker and shred using a fork.",
+        "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9223.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cream, cheese, and xanthan gum to the slow cooker. Using an immersion blender, mix the ingredients together until emulsified. This will help keep the soup from separating.",
+        "name": "Add the cream, cheese, and xanthan gum to the slow cooker. Using an immersion blender, mix the ingredients together until emulsified. This will help keep the soup from separating.",
+        "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9229.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken back into the slow cooker and stir everything together. Season to taste with salt and pepper.",
+        "name": "Place the chicken back into the slow cooker and stir everything together. Season to taste with salt and pepper.",
+        "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_9241.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#wprm-recipe-51491-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, poultry, slow cooker, spicy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "654 kcal",
+      "fatContent": "61.5 g",
+      "proteinContent": "23.4 g",
+      "carbohydrateContent": "2.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/crockpot-buffalo-chicken-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/crockpot-buffalo-chicken-soup/"
+  },
+  "sourceIndex": {
+    "id": 25001,
+    "rid": 51491,
+    "t": "Crockpot Buffalo Chicken Soup",
+    "u": "/crockpot-buffalo-chicken-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/11/buffalochickensoup.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.9,
+    "cal": 654,
+    "pr": 23.4,
+    "fa": 61.5,
+    "tm": 370,
+    "sv": 5,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "slow-cooker",
+      "spicy",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-11-29",
+    "cm": 46,
+    "ex": "With the weather cooling down, soup season has definitely arrived. And...we're going to take full advantage of that! During the warmer summer days, making a hot soup is one of the last things that",
+    "pv": 903
+  },
+  "sourceHtml": "pages/crockpot-buffalo-chicken-soup.html",
+  "scrapedAt": "2026-11-07T08:27:44.965Z"
+}

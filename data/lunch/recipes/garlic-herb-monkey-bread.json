@@ -1,0 +1,317 @@
+{
+  "id": "ruled-32954",
+  "slug": "garlic-herb-monkey-bread",
+  "title": "Garlic and Herb Monkey \"Bread\"",
+  "url": "https://www.ruled.me/garlic-herb-monkey-bread/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Garlic and Herb Monkey \"Bread\". Each serving comes out to be 209 calories, 14.3g fats, 10.8g net carbs, and 7.8g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "fatContent": "14.3 g",
+    "proteinContent": "7.8 g",
+    "carbohydrateContent": "10.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 209,
+    "netCarbsGrams": 10.8,
+    "proteinGrams": 7.8,
+    "fatGrams": 14.3
+  },
+  "ingredients": [
+    "1 teaspoon garlic powder",
+    "1/4 teaspoon dried basil",
+    "2 tablespoon butter (melted)",
+    "458 gram baby eggplant (ends removed and cubed)",
+    "3/4 cup mozzarella cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Heat oven to 375F. Combine the garlic powder and dried basil and add to melted butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-01.jpg"
+    },
+    {
+      "text": "Layer 7-10 cubes of eggplant in the bottom of each mini bundt pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-03.jpg"
+    },
+    {
+      "text": "Sprinkle a layer of mozzarella cheese over each layer of eggplant and drizzle with about 1 teaspoon of the butter garlic mixture. Don’t worry about being precise as it will all bake together!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-04.jpg"
+    },
+    {
+      "text": "Follow with another layer of eggplant, then cheese, and any remaining garlic butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-05.jpg"
+    },
+    {
+      "text": "Top with the remaining cheese and bake for about 20 minutes or until cheese is brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-07.jpg"
+    },
+    {
+      "text": "Let cool for 5 minutes before removing from the pans. Serve warm with low-carb marinara sauce!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/5e4cb4c0b747e1b195cb0976.avif",
+      "archived": true,
+      "originalPath": "images/5e4cb4c0b747e1b195cb0976.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-featured.jpg",
+      "path": "images/c56b17ea617ab614d7a248c7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-01.jpg",
+      "path": "../../nenaudojama/lunch/images/1928c326764053903f4f8251.jpg",
+      "archived": true,
+      "originalPath": "images/1928c326764053903f4f8251.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-03.jpg",
+      "path": "../../nenaudojama/lunch/images/f722026ca0ba540d49c8d0d5.jpg",
+      "archived": true,
+      "originalPath": "images/f722026ca0ba540d49c8d0d5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-04.jpg",
+      "path": "../../nenaudojama/lunch/images/91ed7785b42f17e383baa1a9.jpg",
+      "archived": true,
+      "originalPath": "images/91ed7785b42f17e383baa1a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-05.jpg",
+      "path": "../../nenaudojama/lunch/images/d0d3757f043cd5eff4ec4621.jpg",
+      "archived": true,
+      "originalPath": "images/d0d3757f043cd5eff4ec4621.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-07.jpg",
+      "path": "../../nenaudojama/lunch/images/a7500a7c650d8d7b6d83eb16.jpg",
+      "archived": true,
+      "originalPath": "images/a7500a7c650d8d7b6d83eb16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-second.jpg",
+      "path": "../../nenaudojama/lunch/images/fd03a65fb98af80fdff5ff93.avif",
+      "archived": true,
+      "originalPath": "images/fd03a65fb98af80fdff5ff93.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/72617ba068e338b5c23892d2.avif",
+      "archived": true,
+      "originalPath": "images/72617ba068e338b5c23892d2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9e36721b9f24602f34217238.jpg",
+      "archived": true,
+      "originalPath": "images/9e36721b9f24602f34217238.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/b5ea2e07fb777af46ec0ae6c.jpg",
+      "archived": true,
+      "originalPath": "images/b5ea2e07fb777af46ec0ae6c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/1e2d0652a79da3fbf40f72c2.jpg",
+      "archived": true,
+      "originalPath": "images/1e2d0652a79da3fbf40f72c2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f4817b4e8f159b0a8029059c.jpg",
+      "archived": true,
+      "originalPath": "images/f4817b4e8f159b0a8029059c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/4393e58d79a75663bb48e404.jpg",
+      "archived": true,
+      "originalPath": "images/4393e58d79a75663bb48e404.jpg"
+    }
+  ],
+  "featuredImage": "images/c56b17ea617ab614d7a248c7.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Garlic and Herb Monkey \"Bread\"",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Garlic and Herb Monkey &quot;Bread&quot;. Each serving comes out to be 209 calories, 14.3g fats, 10.8g net carbs, and 7.8g protein.",
+    "datePublished": "2017-09-14T11:00:13+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1 teaspoon garlic powder",
+      "1/4 teaspoon dried basil",
+      "2 tablespoon butter (melted)",
+      "458 gram baby eggplant (ends removed and cubed)",
+      "3/4 cup mozzarella cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat oven to 375F. Combine the garlic powder and dried basil and add to melted butter.",
+        "name": "Heat oven to 375F. Combine the garlic powder and dried basil and add to melted butter.",
+        "url": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer 7-10 cubes of eggplant in the bottom of each mini bundt pan.",
+        "name": "Layer 7-10 cubes of eggplant in the bottom of each mini bundt pan.",
+        "url": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle a layer of mozzarella cheese over each layer of eggplant and drizzle with about 1 teaspoon of the butter garlic mixture. Don’t worry about being precise as it will all bake together!",
+        "name": "Sprinkle a layer of mozzarella cheese over each layer of eggplant and drizzle with about 1 teaspoon of the butter garlic mixture. Don’t worry about being precise as it will all bake together!",
+        "url": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Follow with another layer of eggplant, then cheese, and any remaining garlic butter.",
+        "name": "Follow with another layer of eggplant, then cheese, and any remaining garlic butter.",
+        "url": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the remaining cheese and bake for about 20 minutes or until cheese is brown.",
+        "name": "Top with the remaining cheese and bake for about 20 minutes or until cheese is brown.",
+        "url": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool for 5 minutes before removing from the pans. Serve warm with low-carb marinara sauce!",
+        "name": "Let cool for 5 minutes before removing from the pans. Serve warm with low-carb marinara sauce!",
+        "url": "https://www.ruled.me/garlic-herb-monkey-bread/#wprm-recipe-51241-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "209 kcal",
+      "fatContent": "14.3 g",
+      "proteinContent": "7.8 g",
+      "carbohydrateContent": "10.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/garlic-herb-monkey-bread/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/garlic-herb-monkey-bread/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/garlic-herb-monkey-bread/"
+  },
+  "sourceIndex": {
+    "id": 32954,
+    "rid": 51241,
+    "t": "Garlic and Herb Monkey “Bread”",
+    "u": "/garlic-herb-monkey-bread/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/09/low-carb-garlic-n-herb-monkey-bread-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 10.8,
+    "cal": 209,
+    "pr": 7.8,
+    "fa": 14.3,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2017-09-14",
+    "cm": 11,
+    "ex": "Yes, I know that it is sort of a stretch to compare eggplant to bread. Once it’s covered in cheese I can say with certainty that you won’t miss the gluten. Especially when it comes to this keto spin",
+    "pv": 177
+  },
+  "sourceHtml": "pages/garlic-herb-monkey-bread.html",
+  "scrapedAt": "2026-11-07T08:17:27.852Z"
+}

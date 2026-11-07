@@ -1,0 +1,316 @@
+{
+  "id": "ruled-25667",
+  "slug": "homemade-sambal",
+  "title": "Homemade Sambal",
+  "url": "https://www.ruled.me/homemade-sambal/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Homemade Sambal. Each serving comes out to be 33 calories, 2.7g fats, 1.3g net carbs, and 0.2g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT40M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "33 kcal",
+    "fatContent": "2.7 g",
+    "proteinContent": "0.2 g",
+    "carbohydrateContent": "1.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 33,
+    "netCarbsGrams": 1.3,
+    "proteinGrams": 0.2,
+    "fatGrams": 2.7
+  },
+  "ingredients": [
+    "1 large onion",
+    "0.35 ounce bird's eye chile pepper",
+    "2 tablespoon coconut oil",
+    "3 tablespoon low-carb ketchup",
+    "1/2 teaspoon salt (or to taste)",
+    "2 drop liquid sucralose"
+  ],
+  "instructions": [
+    {
+      "text": "Roughly chop the onion and blend in a blender until smooth. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-01.jpg"
+    },
+    {
+      "text": "To prepare chili paste, roughly cut the dried chilis and remove seeds. Boil them for about 30 minutes or until soft.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-02.jpg"
+    },
+    {
+      "text": "Once soft and cooled, blend to a paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-03.jpg"
+    },
+    {
+      "text": "In a pan over medium heat, melt the coconut oil. Once it becomes hot add in the blended onion, chilies, reduced sugar ketchup, and salt. Let simmer for a few minutes until the oil separates from the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-04.jpg"
+    },
+    {
+      "text": "Use this sambal as a sauce or a cooking seasoning in future recipes! This sauce is featured in the Ketogenic Nasi Lemak recipe.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-05.jpg"
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/2384047f8fabcca999f95ff0.jpg",
+      "archived": true,
+      "originalPath": "images/2384047f8fabcca999f95ff0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683.jpg",
+      "path": "../../nenaudojama/condiments/images/772ae4f0b2fd77b03aae65cb.jpg",
+      "archived": true,
+      "originalPath": "images/772ae4f0b2fd77b03aae65cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-01.jpg",
+      "path": "../../nenaudojama/condiments/images/57767e00806b460bc4877bae.jpg",
+      "archived": true,
+      "originalPath": "images/57767e00806b460bc4877bae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-02.jpg",
+      "path": "../../nenaudojama/condiments/images/e5de30767fed49aefe3f7fc7.jpg",
+      "archived": true,
+      "originalPath": "images/e5de30767fed49aefe3f7fc7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-03.jpg",
+      "path": "../../nenaudojama/condiments/images/0758d8bb04f38b912e11c0d9.jpg",
+      "archived": true,
+      "originalPath": "images/0758d8bb04f38b912e11c0d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-04.jpg",
+      "path": "../../nenaudojama/condiments/images/eacc689d89146a3af2d0780d.jpg",
+      "archived": true,
+      "originalPath": "images/eacc689d89146a3af2d0780d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-05.jpg",
+      "path": "../../nenaudojama/condiments/images/999218f6e8626334e8187997.jpg",
+      "archived": true,
+      "originalPath": "images/999218f6e8626334e8187997.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683-300x300.jpg",
+      "path": "../../nenaudojama/condiments/images/6074877592ce5172c697f4f5.avif",
+      "archived": true,
+      "originalPath": "images/6074877592ce5172c697f4f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-01-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/cd74f284bfafdb4ec4f41b2c.jpg",
+      "archived": true,
+      "originalPath": "images/cd74f284bfafdb4ec4f41b2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-02-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/3cc9fe00ce104ef9551a7080.jpg",
+      "archived": true,
+      "originalPath": "images/3cc9fe00ce104ef9551a7080.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-03-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/5f48ee612ca668d4e41bf536.jpg",
+      "archived": true,
+      "originalPath": "images/5f48ee612ca668d4e41bf536.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-04-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/95a71a6712a0f40a4a67fa21.jpg",
+      "archived": true,
+      "originalPath": "images/95a71a6712a0f40a4a67fa21.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-05-241x350.jpg",
+      "path": "../../nenaudojama/condiments/images/9f798812b696c887439b325f.jpg",
+      "archived": true,
+      "originalPath": "images/9f798812b696c887439b325f.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/772ae4f0b2fd77b03aae65cb.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Homemade Sambal",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 10 servings of Homemade Sambal. Each serving comes out to be 33 calories, 2.7g fats, 1.3g net carbs, and 0.2g protein.",
+    "datePublished": "2015-03-07T17:16:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683.jpg",
+      "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683-480x270.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT40M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "1 large onion",
+      "0.35 ounce bird's eye chile pepper",
+      "2 tablespoon coconut oil",
+      "3 tablespoon low-carb ketchup",
+      "1/2 teaspoon salt (or to taste)",
+      "2 drop liquid sucralose"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Roughly chop the onion and blend in a blender until smooth. Set aside.",
+        "name": "Roughly chop the onion and blend in a blender until smooth. Set aside.",
+        "url": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To prepare chili paste, roughly cut the dried chilis and remove seeds. Boil them for about 30 minutes or until soft.",
+        "name": "To prepare chili paste, roughly cut the dried chilis and remove seeds. Boil them for about 30 minutes or until soft.",
+        "url": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once soft and cooled, blend to a paste.",
+        "name": "Once soft and cooled, blend to a paste.",
+        "url": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, melt the coconut oil. Once it becomes hot add in the blended onion, chilies, reduced sugar ketchup, and salt. Let simmer for a few minutes until the oil separates from the sauce.",
+        "name": "In a pan over medium heat, melt the coconut oil. Once it becomes hot add in the blended onion, chilies, reduced sugar ketchup, and salt. Let simmer for a few minutes until the oil separates from the sauce.",
+        "url": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use this sambal as a sauce or a cooking seasoning in future recipes! This sauce is featured in the Ketogenic Nasi Lemak recipe.",
+        "name": "Use this sambal as a sauce or a cooking seasoning in future recipes! This sauce is featured in the Ketogenic Nasi Lemak recipe.",
+        "url": "https://www.ruled.me/homemade-sambal/#wprm-recipe-51615-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/homemade-sambal-step-05.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "Malaysian"
+    ],
+    "keywords": "batch-cooking, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, nut-free, spicy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "33 kcal",
+      "fatContent": "2.7 g",
+      "proteinContent": "0.2 g",
+      "carbohydrateContent": "1.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/homemade-sambal/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/homemade-sambal/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/homemade-sambal/"
+  },
+  "sourceIndex": {
+    "id": 25667,
+    "rid": 51615,
+    "t": "Homemade Sambal",
+    "u": "/homemade-sambal/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/03/eac6d74f92def8499420a6b54de49683-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 1.3,
+    "cal": 33,
+    "pr": 0.2,
+    "fa": 2.7,
+    "tm": 45,
+    "sv": 10,
+    "kw": [
+      "batch-cooking",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2015-03-07",
+    "cm": 2,
+    "ex": "Sambal is a sauce or condiment typically made from chili peppers and combined with secondary ingredients such as shrimp paste, garlic, ginger, scallion, sugar, and vinegar. Tamarind can also be seen",
+    "pv": 256
+  },
+  "sourceHtml": "pages/homemade-sambal.html",
+  "scrapedAt": "2026-11-07T08:33:33.448Z"
+}

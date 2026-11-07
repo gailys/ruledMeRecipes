@@ -1,0 +1,231 @@
+{
+  "id": "ruled-16043",
+  "slug": "simple-and-delicious-caprese-salad",
+  "title": "Simple and Delicious Caprese Salad",
+  "url": "https://www.ruled.me/simple-and-delicious-caprese-salad/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Simple and Delicious Caprese Salad. Each serving comes out to be 446 calories, 39.4g fats, 3.6g net carbs, and 19.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "446 kcal",
+    "fatContent": "39.4 g",
+    "proteinContent": "19.5 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 446,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 19.5,
+    "fatGrams": 39.4
+  },
+  "ingredients": [
+    "1 medium fresh tomatoes",
+    "6 ounce mozzarella cheese",
+    "1/4 cup fresh basil (chopped)",
+    "3 tablespoon olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "In a food processor, pulse chopped fresh basil leaves with 2/3 of the olive oil to make the basil paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Slice tomato into 1/4″ slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Cut Mozzarella into 1-ounce slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Assemble the Caprese salad by layering tomato, mozzarella, and basil paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Season with salt, pepper, and extra olive oil. Optional: Reduce balsamic vinegar for balsamic reduction (be careful of carb count).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/06/CapreseSalad.jpg",
+      "path": "../../nenaudojama/snacks/images/b5b1d31f03c3d04a0bc09338.jpg",
+      "archived": true,
+      "originalPath": "images/b5b1d31f03c3d04a0bc09338.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/b5b1d31f03c3d04a0bc09338.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple and Delicious Caprese Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Simple and Delicious Caprese Salad. Each serving comes out to be 446 calories, 39.4g fats, 3.6g net carbs, and 19.5g protein.",
+    "datePublished": "2014-06-11T16:04:03+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/06/CapreseSalad.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1 medium fresh tomatoes",
+      "6 ounce mozzarella cheese",
+      "1/4 cup fresh basil (chopped)",
+      "3 tablespoon olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, pulse chopped fresh basil leaves with 2/3 of the olive oil to make the basil paste.",
+        "name": "In a food processor, pulse chopped fresh basil leaves with 2/3 of the olive oil to make the basil paste.",
+        "url": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice tomato into 1/4″ slices.",
+        "name": "Slice tomato into 1/4″ slices.",
+        "url": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut Mozzarella into 1-ounce slices.",
+        "name": "Cut Mozzarella into 1-ounce slices.",
+        "url": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the Caprese salad by layering tomato, mozzarella, and basil paste.",
+        "name": "Assemble the Caprese salad by layering tomato, mozzarella, and basil paste.",
+        "url": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt, pepper, and extra olive oil. Optional: Reduce balsamic vinegar for balsamic reduction (be careful of carb count).",
+        "name": "Season with salt, pepper, and extra olive oil. Optional: Reduce balsamic vinegar for balsamic reduction (be careful of carb count).",
+        "url": "https://www.ruled.me/simple-and-delicious-caprese-salad/#wprm-recipe-51177-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "446 kcal",
+      "fatContent": "39.4 g",
+      "proteinContent": "19.5 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/simple-and-delicious-caprese-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-and-delicious-caprese-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-and-delicious-caprese-salad/"
+  },
+  "sourceIndex": {
+    "id": 16043,
+    "rid": 51177,
+    "t": "Simple and Delicious Caprese Salad",
+    "u": "/simple-and-delicious-caprese-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/06/CapreseSalad.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.6,
+    "cal": 446,
+    "pr": 19.5,
+    "fa": 39.4,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2014-06-11",
+    "cm": 0,
+    "ex": "A quick and simple snack that can easily be altered and turned into dinner. I wanted to put together a quick recipe today that can be used in a pinch of when you're out of time or have no time to",
+    "pv": 91
+  },
+  "sourceHtml": "pages/simple-and-delicious-caprese-salad.html",
+  "scrapedAt": "2026-11-07T08:31:31.018Z"
+}

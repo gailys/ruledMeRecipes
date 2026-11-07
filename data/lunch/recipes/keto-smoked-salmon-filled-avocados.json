@@ -1,0 +1,250 @@
+{
+  "id": "ruled-42563",
+  "slug": "keto-smoked-salmon-filled-avocados",
+  "title": "Keto Smoked Salmon Filled Avocados",
+  "url": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Smoked Salmon Filled Avocados. The serving comes out to be 517 calories, 42.6g fats, 6.7g net carbs, and 20.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "517 kcal",
+    "fatContent": "42.6 g",
+    "proteinContent": "20.6 g",
+    "carbohydrateContent": "6.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 517,
+    "netCarbsGrams": 6.7,
+    "proteinGrams": 20.6,
+    "fatGrams": 42.6
+  },
+  "ingredients": [
+    "1 medium avocado",
+    "3 ounce smoked salmon",
+    "4 tablespoon sour cream",
+    "salt and pepper (to taste)",
+    "1 tablespoon lemon juice"
+  ],
+  "instructions": [
+    {
+      "text": "Cut the avocado(s) in half and discard the pit.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#wprm-recipe-53271-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-02.jpg"
+    },
+    {
+      "text": "Place equal amounts of sour cream in the hollow parts of the avocado. Add smoked salmon on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#wprm-recipe-53271-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-03.jpg"
+    },
+    {
+      "text": "Season with salt and pepper, then squeeze lemon juice over the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#wprm-recipe-53271-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/f13b27dc7d3775db180dd9c5.avif",
+      "archived": true,
+      "originalPath": "images/f13b27dc7d3775db180dd9c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-featured.jpg",
+      "path": "images/90bada5f220cf768853b6a10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-02.jpg",
+      "path": "../../nenaudojama/lunch/images/eef318fe83f30d6e85697313.jpg",
+      "archived": true,
+      "originalPath": "images/eef318fe83f30d6e85697313.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-03.jpg",
+      "path": "../../nenaudojama/lunch/images/30534d4687d5962b11616496.jpg",
+      "archived": true,
+      "originalPath": "images/30534d4687d5962b11616496.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-second.jpg",
+      "path": "../../nenaudojama/lunch/images/592cc6f87605134a73336c40.jpg",
+      "archived": true,
+      "originalPath": "images/592cc6f87605134a73336c40.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/42e2343db59d38c2485c84e7.jpg",
+      "archived": true,
+      "originalPath": "images/42e2343db59d38c2485c84e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/6ec618cd22cfda10bb7d1fe5.jpg",
+      "archived": true,
+      "originalPath": "images/6ec618cd22cfda10bb7d1fe5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2833d8721cf57a72aebfe61e.jpg",
+      "archived": true,
+      "originalPath": "images/2833d8721cf57a72aebfe61e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5f38653643da0e3c72c459e4.jpg",
+      "archived": true,
+      "originalPath": "images/5f38653643da0e3c72c459e4.jpg"
+    }
+  ],
+  "featuredImage": "images/90bada5f220cf768853b6a10.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Smoked Salmon Filled Avocados",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Keto Smoked Salmon Filled Avocados. The serving comes out to be 517 calories, 42.6g fats, 6.7g net carbs, and 20.6g protein.",
+    "datePublished": "2020-03-05T10:00:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 medium avocado",
+      "3 ounce smoked salmon",
+      "4 tablespoon sour cream",
+      "salt and pepper (to taste)",
+      "1 tablespoon lemon juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the avocado(s) in half and discard the pit.",
+        "name": "Cut the avocado(s) in half and discard the pit.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#wprm-recipe-53271-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place equal amounts of sour cream in the hollow parts of the avocado. Add smoked salmon on top.",
+        "name": "Place equal amounts of sour cream in the hollow parts of the avocado. Add smoked salmon on top.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#wprm-recipe-53271-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper, then squeeze lemon juice over the top.",
+        "name": "Season with salt and pepper, then squeeze lemon juice over the top.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#wprm-recipe-53271-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, fish, gluten-free, high-fat, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "517 kcal",
+      "fatContent": "42.6 g",
+      "proteinContent": "20.6 g",
+      "carbohydrateContent": "6.7 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-smoked-salmon-filled-avocados/"
+  },
+  "sourceIndex": {
+    "id": 42563,
+    "rid": 53271,
+    "t": "Keto Smoked Salmon Filled Avocados",
+    "u": "/keto-smoked-salmon-filled-avocados/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/03/salmon-stuffed-avocados-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.7,
+    "cal": 517,
+    "pr": 20.6,
+    "fa": 42.6,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2020-03-05",
+    "cm": 0,
+    "ex": "Smoked salmon-filled avocados are one of the most effortless keto lunches that you could make. All you need is the salmon, sour cream, avocados, and seasoning! This recipe is excellent for those of",
+    "pv": 410
+  },
+  "sourceHtml": "pages/keto-smoked-salmon-filled-avocados.html",
+  "scrapedAt": "2026-11-07T08:16:08.523Z"
+}

@@ -1,0 +1,381 @@
+{
+  "id": "ruled-25442",
+  "slug": "low-carb-chicken-curry",
+  "title": "Low-Carb Chicken Curry",
+  "url": "https://www.ruled.me/low-carb-chicken-curry/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Low-Carb Chicken Curry. Each serving comes out to be 553 calories, 35.1g fats, 7.1g net carbs, and 49.6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "553 kcal",
+    "fatContent": "35.1 g",
+    "proteinContent": "49.6 g",
+    "carbohydrateContent": "7.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 553,
+    "netCarbsGrams": 7.1,
+    "proteinGrams": 49.6,
+    "fatGrams": 35.1
+  },
+  "ingredients": [
+    "5 gram lemongrass",
+    "1 tablespoon fresh ginger",
+    "1 medium fresh green chile",
+    "2 medium shallot",
+    "2 teaspoon fresh garlic",
+    "2 tablespoon coconut oil",
+    "2 teaspoon turmeric powder",
+    "21 ounce bone-in, skin-on chicken drumsticks",
+    "1/2 cup canned coconut milk",
+    "1/2 cup water",
+    "1/2 teaspoon salt",
+    "1 tablespoon fresh cilantro (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Bruise the lemongrass. (Lightly crush it with a pestle or meat mallet.) This will help release its aroma while cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-1.jpg"
+    },
+    {
+      "text": "Using a food processor or pestle and mortar, combine the ginger, green chile, shallots, and garlic into a paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-2.jpg"
+    },
+    {
+      "text": "Melt the coconut oil in a preheated pot over medium heat. Once hot, add in the crushed ingredients and sauté.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-3.jpg"
+    },
+    {
+      "text": "After 3–4 minutes, add the turmeric powder and smashed lemongrass and sauté once again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-4.jpg"
+    },
+    {
+      "text": "Add in the chicken meat and mix well with the sautéed ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-5.jpg"
+    },
+    {
+      "text": "Once the meat is coated, pour in the coconut milk and water.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-6.jpg"
+    },
+    {
+      "text": "Add salt and cover the pot. Let everything cook for about 20 minutes or until the desired thickness is reached and the chicken is cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/5-7.jpg"
+    },
+    {
+      "text": "Garnish with chopped cilantro and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/currychicken.jpg",
+      "path": "images/51de6342868842c9ae3d482c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-1.jpg",
+      "path": "../../nenaudojama/dinner/images/5e6d43af480d4d24a58f93e2.avif",
+      "archived": true,
+      "originalPath": "images/5e6d43af480d4d24a58f93e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-2.jpg",
+      "path": "../../nenaudojama/dinner/images/e0508b8f1dfd6e3405561be7.avif",
+      "archived": true,
+      "originalPath": "images/e0508b8f1dfd6e3405561be7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-3.jpg",
+      "path": "../../nenaudojama/dinner/images/87a8b002ad18ff907141abb6.avif",
+      "archived": true,
+      "originalPath": "images/87a8b002ad18ff907141abb6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-4.jpg",
+      "path": "../../nenaudojama/dinner/images/47d28c934b8dcbb1470f99b1.jpg",
+      "archived": true,
+      "originalPath": "images/47d28c934b8dcbb1470f99b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-5.jpg",
+      "path": "../../nenaudojama/dinner/images/deb8b8c543599c3e560fdab5.jpg",
+      "archived": true,
+      "originalPath": "images/deb8b8c543599c3e560fdab5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-6.jpg",
+      "path": "../../nenaudojama/dinner/images/c7eb8af974f6ff19b7c68ab5.jpg",
+      "archived": true,
+      "originalPath": "images/c7eb8af974f6ff19b7c68ab5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-7.jpg",
+      "path": "../../nenaudojama/dinner/images/00bf3f7af309f5801249435f.avif",
+      "archived": true,
+      "originalPath": "images/00bf3f7af309f5801249435f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/currychickensecond.jpg",
+      "path": "../../nenaudojama/dinner/images/ac105d2104058d73adcea410.avif",
+      "archived": true,
+      "originalPath": "images/ac105d2104058d73adcea410.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/currychickenlong.jpg",
+      "path": "../../nenaudojama/dinner/images/727a90973ae91caae3dcd7dd.jpg",
+      "archived": true,
+      "originalPath": "images/727a90973ae91caae3dcd7dd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0f43aaeeaa60318b48c3b613.jpg",
+      "archived": true,
+      "originalPath": "images/0f43aaeeaa60318b48c3b613.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b6d3537a97686226c6453101.avif",
+      "archived": true,
+      "originalPath": "images/b6d3537a97686226c6453101.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7291f7d6f23603e0898a16d0.jpg",
+      "archived": true,
+      "originalPath": "images/7291f7d6f23603e0898a16d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/40d30886261e6563e3955ca1.avif",
+      "archived": true,
+      "originalPath": "images/40d30886261e6563e3955ca1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/59ee82d2064bd6492a301814.avif",
+      "archived": true,
+      "originalPath": "images/59ee82d2064bd6492a301814.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0093e862485005604c89d830.avif",
+      "archived": true,
+      "originalPath": "images/0093e862485005604c89d830.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/5-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e55758a7829c7d995aa38adb.avif",
+      "archived": true,
+      "originalPath": "images/e55758a7829c7d995aa38adb.avif"
+    }
+  ],
+  "featuredImage": "images/51de6342868842c9ae3d482c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Chicken Curry",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Low-Carb Chicken Curry. Each serving comes out to be 553 calories, 35.1g fats, 7.1g net carbs, and 49.6g protein.",
+    "datePublished": "2015-02-06T16:29:16+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/02/currychicken.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "5 gram lemongrass",
+      "1 tablespoon fresh ginger",
+      "1 medium fresh green chile",
+      "2 medium shallot",
+      "2 teaspoon fresh garlic",
+      "2 tablespoon coconut oil",
+      "2 teaspoon turmeric powder",
+      "21 ounce bone-in, skin-on chicken drumsticks",
+      "1/2 cup canned coconut milk",
+      "1/2 cup water",
+      "1/2 teaspoon salt",
+      "1 tablespoon fresh cilantro (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Bruise the lemongrass. (Lightly crush it with a pestle or meat mallet.) This will help release its aroma while cooking.",
+        "name": "Bruise the lemongrass. (Lightly crush it with a pestle or meat mallet.) This will help release its aroma while cooking.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a food processor or pestle and mortar, combine the ginger, green chile, shallots, and garlic into a paste.",
+        "name": "Using a food processor or pestle and mortar, combine the ginger, green chile, shallots, and garlic into a paste.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the coconut oil in a preheated pot over medium heat. Once hot, add in the crushed ingredients and sauté.",
+        "name": "Melt the coconut oil in a preheated pot over medium heat. Once hot, add in the crushed ingredients and sauté.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After 3–4 minutes, add the turmeric powder and smashed lemongrass and sauté once again.",
+        "name": "After 3–4 minutes, add the turmeric powder and smashed lemongrass and sauté once again.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the chicken meat and mix well with the sautéed ingredients.",
+        "name": "Add in the chicken meat and mix well with the sautéed ingredients.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the meat is coated, pour in the coconut milk and water.",
+        "name": "Once the meat is coated, pour in the coconut milk and water.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add salt and cover the pot. Let everything cook for about 20 minutes or until the desired thickness is reached and the chicken is cooked through.",
+        "name": "Add salt and cover the pot. Let everything cook for about 20 minutes or until the desired thickness is reached and the chicken is cooked through.",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/5-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with chopped cilantro and serve!",
+        "name": "Garnish with chopped cilantro and serve!",
+        "url": "https://www.ruled.me/low-carb-chicken-curry/#wprm-recipe-51583-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, poultry, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "553 kcal",
+      "fatContent": "35.1 g",
+      "proteinContent": "49.6 g",
+      "carbohydrateContent": "7.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-chicken-curry/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-chicken-curry/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-chicken-curry/"
+  },
+  "sourceIndex": {
+    "id": 25442,
+    "rid": 51583,
+    "t": "Low-Carb Chicken Curry",
+    "u": "/low-carb-chicken-curry/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/02/currychicken.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 7.1,
+    "cal": 553,
+    "pr": 49.6,
+    "fa": 35.1,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2015-02-06",
+    "cm": 1,
+    "ex": "Probably one of the easiest Malaysian curries, Ayam Masak Lemak has been turned low-carb! It's missing a few high-carb ingredients from the original style, but this speaks for itself in terms of",
+    "pv": 91
+  },
+  "sourceHtml": "pages/low-carb-chicken-curry.html",
+  "scrapedAt": "2026-11-07T08:27:44.915Z"
+}

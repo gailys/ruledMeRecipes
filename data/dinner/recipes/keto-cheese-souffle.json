@@ -1,0 +1,324 @@
+{
+  "id": "ruled-41827",
+  "slug": "keto-cheese-souffle",
+  "title": "Keto Cheese Souffle",
+  "url": "https://www.ruled.me/keto-cheese-souffle/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Cheese Souffle. Each serving comes out to be 274 calories, 23.2g fats, 1.7g net carbs, and 14.4g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "274 kcal",
+    "fatContent": "23.2 g",
+    "proteinContent": "14.4 g",
+    "carbohydrateContent": "1.7 g"
+  },
+  "nutritionPerServing": {
+    "calories": 274,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 14.4,
+    "fatGrams": 23.2
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "1 1/2 tablespoon almond flour",
+    "1/4 teaspoon salt",
+    "1/3 cup unsweetened almond milk",
+    "2 teaspoon dijon mustard",
+    "1/2 cup cheddar cheese (shredded)",
+    "3 tablespoon parmesan cheese (grated)",
+    "3 large egg"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 350 degrees Fahrenheit. Grease the insides of the ramekins you’ll be using.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-01.jpg"
+    },
+    {
+      "text": "In a saucepan over medium-low heat, melt the butter. Stir in the almond flour and salt, until well combined. It should thicken a little, but not as much as a higher carb roux. Whisk in the almond milk and mustard, then continue to simmer for 5 minutes or until the mixture has thickened a bit more.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-02.jpg"
+    },
+    {
+      "text": "Remove from the heat then mix in the cheddar cheese and about 2/3 of the Parmesan cheese. Whisk in the egg yolks, taking care not to curdle them.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-03.jpg"
+    },
+    {
+      "text": "Beat the egg whites with a mixer until stiff peaks form. Gently fold into the egg and cheese mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-04.jpg"
+    },
+    {
+      "text": "Divide the souffle batter among the ramekins then top with the remaining Parmesan cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-05.jpg"
+    },
+    {
+      "text": "Transfer the ramekins to the oven then bake for 15-20 minutes or until puffy and browned. Serve immediately.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "date-night",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "quick",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/c5e6acdfd81112dc57d712e6.avif",
+      "archived": true,
+      "originalPath": "images/c5e6acdfd81112dc57d712e6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-featured.jpg",
+      "path": "images/d76a2a400344f59224aa6e97.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-01.jpg",
+      "path": "../../nenaudojama/dinner/images/460c3c7b7e127d08c1565a12.jpg",
+      "archived": true,
+      "originalPath": "images/460c3c7b7e127d08c1565a12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-02.jpg",
+      "path": "../../nenaudojama/dinner/images/f7b25de9caf7fa35d96e1a9f.jpg",
+      "archived": true,
+      "originalPath": "images/f7b25de9caf7fa35d96e1a9f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-03.jpg",
+      "path": "../../nenaudojama/dinner/images/4264482be5f440442517d249.avif",
+      "archived": true,
+      "originalPath": "images/4264482be5f440442517d249.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-04.jpg",
+      "path": "../../nenaudojama/dinner/images/564efcd9c5a4963e02a4a572.jpg",
+      "archived": true,
+      "originalPath": "images/564efcd9c5a4963e02a4a572.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-05.jpg",
+      "path": "../../nenaudojama/dinner/images/ba347e637ed9cb78f0da741d.avif",
+      "archived": true,
+      "originalPath": "images/ba347e637ed9cb78f0da741d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-second.png",
+      "path": "../../nenaudojama/dinner/images/d911010fd02226bc9c6ba819.webp",
+      "archived": true,
+      "originalPath": "images/d911010fd02226bc9c6ba819.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/6916185e99ee6c9f8464d642.avif",
+      "archived": true,
+      "originalPath": "images/6916185e99ee6c9f8464d642.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/d9637feb0bf89ecb20c39fa8.avif",
+      "archived": true,
+      "originalPath": "images/d9637feb0bf89ecb20c39fa8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fe8f431ca28c83006eb89fe0.jpg",
+      "archived": true,
+      "originalPath": "images/fe8f431ca28c83006eb89fe0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e4e420d4b8a94ea63282a14e.jpg",
+      "archived": true,
+      "originalPath": "images/e4e420d4b8a94ea63282a14e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e8e4ae718a54fb451aba0fe6.avif",
+      "archived": true,
+      "originalPath": "images/e8e4ae718a54fb451aba0fe6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1a3f650ea419c80bb0466943.jpg",
+      "archived": true,
+      "originalPath": "images/1a3f650ea419c80bb0466943.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1931367fb726f287fae11b67.jpg",
+      "archived": true,
+      "originalPath": "images/1931367fb726f287fae11b67.jpg"
+    }
+  ],
+  "featuredImage": "images/d76a2a400344f59224aa6e97.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cheese Souffle",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Keto Cheese Souffle. Each serving comes out to be 274 calories, 23.2g fats, 1.7g net carbs, and 14.4g protein.",
+    "datePublished": "2019-10-31T17:32:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "1 1/2 tablespoon almond flour",
+      "1/4 teaspoon salt",
+      "1/3 cup unsweetened almond milk",
+      "2 teaspoon dijon mustard",
+      "1/2 cup cheddar cheese (shredded)",
+      "3 tablespoon parmesan cheese (grated)",
+      "3 large egg"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350 degrees Fahrenheit. Grease the insides of the ramekins you’ll be using.",
+        "name": "Preheat your oven to 350 degrees Fahrenheit. Grease the insides of the ramekins you’ll be using.",
+        "url": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over medium-low heat, melt the butter. Stir in the almond flour and salt, until well combined. It should thicken a little, but not as much as a higher carb roux. Whisk in the almond milk and mustard, then continue to simmer for 5 minutes or until the mixture has thickened a bit more.",
+        "name": "In a saucepan over medium-low heat, melt the butter. Stir in the almond flour and salt, until well combined. It should thicken a little, but not as much as a higher carb roux. Whisk in the almond milk and mustard, then continue to simmer for 5 minutes or until the mixture has thickened a bit more.",
+        "url": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the heat then mix in the cheddar cheese and about 2/3 of the Parmesan cheese. Whisk in the egg yolks, taking care not to curdle them.",
+        "name": "Remove from the heat then mix in the cheddar cheese and about 2/3 of the Parmesan cheese. Whisk in the egg yolks, taking care not to curdle them.",
+        "url": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg whites with a mixer until stiff peaks form. Gently fold into the egg and cheese mixture.",
+        "name": "Beat the egg whites with a mixer until stiff peaks form. Gently fold into the egg and cheese mixture.",
+        "url": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the souffle batter among the ramekins then top with the remaining Parmesan cheese.",
+        "name": "Divide the souffle batter among the ramekins then top with the remaining Parmesan cheese.",
+        "url": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the ramekins to the oven then bake for 15-20 minutes or until puffy and browned. Serve immediately.",
+        "name": "Transfer the ramekins to the oven then bake for 15-20 minutes or until puffy and browned. Serve immediately.",
+        "url": "https://www.ruled.me/keto-cheese-souffle/#wprm-recipe-53191-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "French"
+    ],
+    "keywords": "30-minute, beginner-friendly, date-night, gluten-free, keto, low-carb, oven-baked, quick, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "274 kcal",
+      "fatContent": "23.2 g",
+      "proteinContent": "14.4 g",
+      "carbohydrateContent": "1.7 g"
+    },
+    "@id": "https://www.ruled.me/keto-cheese-souffle/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cheese-souffle/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cheese-souffle/"
+  },
+  "sourceIndex": {
+    "id": 41827,
+    "rid": 53191,
+    "t": "Keto Cheese Soufflé",
+    "u": "/keto-cheese-souffle/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-souffle-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.7,
+    "cal": 274,
+    "pr": 14.4,
+    "fa": 23.2,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "date-night",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "quick",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "oven-baked",
+      "stovetop"
+    ],
+    "d": "2019-10-31",
+    "cm": 6,
+    "ex": "Creating a soufflé was something that I thought would be impossible. I've watched enough Food Network to know that these things are temperamental and the downfall of many contestants. Is a soufflé",
+    "pv": 290
+  },
+  "sourceHtml": "pages/keto-cheese-souffle.html",
+  "scrapedAt": "2026-11-07T08:27:44.396Z"
+}

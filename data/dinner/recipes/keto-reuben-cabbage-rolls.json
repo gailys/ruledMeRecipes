@@ -1,0 +1,338 @@
+{
+  "id": "ruled-40904",
+  "slug": "keto-reuben-cabbage-rolls",
+  "title": "Keto Reuben Cabbage Rolls",
+  "url": "https://www.ruled.me/keto-reuben-cabbage-rolls/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Reuben Cabbage Rolls. Each serving comes out to be 512 calories, 37.5g fats, 5.3g net carbs, and 25.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "512 kcal",
+    "fatContent": "37.5 g",
+    "proteinContent": "25.8 g",
+    "carbohydrateContent": "5.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 512,
+    "netCarbsGrams": 5.3,
+    "proteinGrams": 25.8,
+    "fatGrams": 37.5
+  },
+  "ingredients": [
+    "8 whole green cabbage leaves",
+    "8 ounce pastrami (chopped up)",
+    "1 1/2 cup swiss cheese (shredded)",
+    "1/2 cup sauerkraut (drained)",
+    "1/2 cup mayonnaise",
+    "1/4 cup low-carb ketchup",
+    "1 teaspoon fresh garlic (minced)",
+    "2 tablespoon lemon juice",
+    "1 tablespoon sriracha",
+    "1 teaspoon onion powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 350F and boil some water. Place the cabbage leaves in a large bowl then pour the boiling water over the top. Allow the leaves to sit for 3-5 minutes before removing them. You want the leaves to have a structure to them but be soft enough to manipulate and roll. Set the leaves aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-02.jpg"
+    },
+    {
+      "text": "In a bowl mix together the mayonnaise, ketchup, garlic, lemon juice, sriracha, onion powder, salt, and pepper to create the thousand island dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-04.jpg"
+    },
+    {
+      "text": "In a medium bowl mix together the pastrami, cheese, sauerkraut, and half of the Thousand Island Dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-05.jpg"
+    },
+    {
+      "text": "Lay a cabbage leaf out on a cutting board. Spoon 1/8 of the meat mixture into the center of the leaf. Roll up like it’s a burrito, then place seam side down into a baking dish. Repeat this step with the rest of the leaves.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-06.jpg"
+    },
+    {
+      "text": "Spread the rest of the dressing across the top of the cabbage rolls, then place the baking dish into the oven and cook for 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "red-meat",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/7a9bcee330cb1e32bb2b94c9.avif",
+      "archived": true,
+      "originalPath": "images/7a9bcee330cb1e32bb2b94c9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-featured.jpg",
+      "path": "images/c43567f08886b7c91ac6e510.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-02.jpg",
+      "path": "../../nenaudojama/dinner/images/40036ffecd6881753d79bafb.jpg",
+      "archived": true,
+      "originalPath": "images/40036ffecd6881753d79bafb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-04.jpg",
+      "path": "../../nenaudojama/dinner/images/78976debabdb61e3349766ad.jpg",
+      "archived": true,
+      "originalPath": "images/78976debabdb61e3349766ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-05.jpg",
+      "path": "../../nenaudojama/dinner/images/710255365d8c63eb2ffca4cf.avif",
+      "archived": true,
+      "originalPath": "images/710255365d8c63eb2ffca4cf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-06.jpg",
+      "path": "../../nenaudojama/dinner/images/57dacca992908e21087cda26.avif",
+      "archived": true,
+      "originalPath": "images/57dacca992908e21087cda26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-second.jpg",
+      "path": "../../nenaudojama/dinner/images/a2ba4b829c8746075037d630.jpg",
+      "archived": true,
+      "originalPath": "images/a2ba4b829c8746075037d630.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/e7b0d745cf0137a09d6b1a15.avif",
+      "archived": true,
+      "originalPath": "images/e7b0d745cf0137a09d6b1a15.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8f90c1e926fa58fa63a28452.jpg",
+      "archived": true,
+      "originalPath": "images/8f90c1e926fa58fa63a28452.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/78c7eccce19242626ea02655.jpg",
+      "archived": true,
+      "originalPath": "images/78c7eccce19242626ea02655.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/690071718bc453eaf3936d91.jpg",
+      "archived": true,
+      "originalPath": "images/690071718bc453eaf3936d91.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/73cd6a7722c20499b7cbadf2.jpg",
+      "archived": true,
+      "originalPath": "images/73cd6a7722c20499b7cbadf2.jpg"
+    }
+  ],
+  "featuredImage": "images/c43567f08886b7c91ac6e510.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Reuben Cabbage Rolls",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Reuben Cabbage Rolls. Each serving comes out to be 512 calories, 37.5g fats, 5.3g net carbs, and 25.8g protein.",
+    "datePublished": "2019-08-22T08:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Reuben Cabbage Rolls Recipe",
+      "description": "Do you love Reuben sandwiches? I love this adult version of grilled cheese. The classic Reuben piles meat, Swiss, sauerkraut, and dressing between slices of grilled rye bread. For simplicity, we replace the bread with cabbage rolls and turn the whole thing into a delicious casserole.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nCabbage rolls:\n8 large cabbage leaves\n8 ounces pastrami, chopped up\n1½ cups shredded Swiss cheese\n½ cup drained sauerkraut\n\nThousand Island Dressing:\n½ cup mayonnaise\n¼ cup sugar-free ketchup\n1 clove garlic, minced\n2 tablespoons fresh lemon juice\n1 tablespoon Sriracha sauce\n1 teaspoon onion powder\nSalt and pepper, to taste\n\nNutrition Summary:\nThis makes a total of 8 servings of Keto Reuben Cabbage Rolls. Each serving comes out to be 230.28 Calories, 17.6g Fats, 3.85g Net Carbs, and 12.52g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-10-28T14:00:02+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 31911
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 796
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 29
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7ngj0oifdZg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7ngj0oifdZg?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=7ngj0oifdZg",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "8 whole green cabbage leaves",
+      "8 ounce pastrami (chopped up)",
+      "1 1/2 cup swiss cheese (shredded)",
+      "1/2 cup sauerkraut (drained)",
+      "1/2 cup mayonnaise",
+      "1/4 cup low-carb ketchup",
+      "1 teaspoon fresh garlic (minced)",
+      "2 tablespoon lemon juice",
+      "1 tablespoon sriracha",
+      "1 teaspoon onion powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350F and boil some water. Place the cabbage leaves in a large bowl then pour the boiling water over the top. Allow the leaves to sit for 3-5 minutes before removing them. You want the leaves to have a structure to them but be soft enough to manipulate and roll. Set the leaves aside.",
+        "name": "Preheat your oven to 350F and boil some water. Place the cabbage leaves in a large bowl then pour the boiling water over the top. Allow the leaves to sit for 3-5 minutes before removing them. You want the leaves to have a structure to them but be soft enough to manipulate and roll. Set the leaves aside.",
+        "url": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl mix together the mayonnaise, ketchup, garlic, lemon juice, sriracha, onion powder, salt, and pepper to create the thousand island dressing.",
+        "name": "In a bowl mix together the mayonnaise, ketchup, garlic, lemon juice, sriracha, onion powder, salt, and pepper to create the thousand island dressing.",
+        "url": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl mix together the pastrami, cheese, sauerkraut, and half of the Thousand Island Dressing.",
+        "name": "In a medium bowl mix together the pastrami, cheese, sauerkraut, and half of the Thousand Island Dressing.",
+        "url": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay a cabbage leaf out on a cutting board. Spoon 1/8 of the meat mixture into the center of the leaf. Roll up like it’s a burrito, then place seam side down into a baking dish. Repeat this step with the rest of the leaves.",
+        "name": "Lay a cabbage leaf out on a cutting board. Spoon 1/8 of the meat mixture into the center of the leaf. Roll up like it’s a burrito, then place seam side down into a baking dish. Repeat this step with the rest of the leaves.",
+        "url": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the rest of the dressing across the top of the cabbage rolls, then place the baking dish into the oven and cook for 30 minutes.",
+        "name": "Spread the rest of the dressing across the top of the cabbage rolls, then place the baking dish into the oven and cook for 30 minutes.",
+        "url": "https://www.ruled.me/keto-reuben-cabbage-rolls/#wprm-recipe-53119-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, red meat, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "512 kcal",
+      "fatContent": "37.5 g",
+      "proteinContent": "25.8 g",
+      "carbohydrateContent": "5.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-reuben-cabbage-rolls/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-reuben-cabbage-rolls/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-reuben-cabbage-rolls/"
+  },
+  "sourceIndex": {
+    "id": 40904,
+    "rid": 53119,
+    "t": "Keto Reuben Cabbage Rolls",
+    "u": "/keto-reuben-cabbage-rolls/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/07/keto-reuben-cabbage-rolls-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.3,
+    "cal": 512,
+    "pr": 25.8,
+    "fa": 37.5,
+    "tm": 50,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "red-meat",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2019-08-22",
+    "cm": 2,
+    "ex": "Do you love Reuben sandwiches? I love this adult version of grilled cheese. The classic Reuben piles meat, Swiss, sauerkraut, and dressing between slices of grilled rye bread. For simplicity, we",
+    "pv": 401
+  },
+  "sourceHtml": "pages/keto-reuben-cabbage-rolls.html",
+  "scrapedAt": "2026-11-07T08:27:44.435Z"
+}

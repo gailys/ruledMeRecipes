@@ -1,0 +1,381 @@
+{
+  "id": "ruled-7904",
+  "slug": "thai-style-low-carb-peanut-chicken",
+  "title": "Thai-Style Low-Carb Peanut Chicken",
+  "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Thai-Style Low-Carb Peanut Chicken. Each serving comes out to be 409 calories, 28.6g fats, 4.5g net carbs, and 36.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "409 kcal",
+    "fatContent": "28.6 g",
+    "proteinContent": "36.9 g",
+    "carbohydrateContent": "4.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 409,
+    "netCarbsGrams": 4.5,
+    "proteinGrams": 36.9,
+    "fatGrams": 28.6
+  },
+  "ingredients": [
+    "1/4 cup chicken broth",
+    "6 tablespoon peanut butter",
+    "2 tablespoon soy sauce (or coconut aminos)",
+    "1 tablespoon fresh orange juice",
+    "1 tablespoon lemon juice",
+    "1/2 teaspoon sesame oil",
+    "1/4 teaspoon ground coriander",
+    "1/4 teaspoon cayenne pepper",
+    "2 teaspoon chili paste (such as sambal oelek)",
+    "25 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Add all of the ingredients except the chicken, salt, and pepper to a tall container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/1-Add-Sauce-Ingredients-into-Container.jpg"
+    },
+    {
+      "text": "Use an immersion blender to blend the ingredients, ensuring that the sauce has a smooth consistency throughout. Set aside until needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/2-Immersion-Blend-Sauce-until-Smooth.jpg"
+    },
+    {
+      "text": "Cube the chicken thighs and season to taste. Don't use too much salt, as the peanut sauce already contains salt from the soy sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/3-Cube-Chicken-and-Season.jpg"
+    },
+    {
+      "text": "Heat a dry pan over high heat. Once hot, add the chicken and sauté for about a minute.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/4-Add-Chicken-to-Hot-Pan.jpg"
+    },
+    {
+      "text": "There should be quite a lot of excess moisture coming out of the chicken — simply pat it dry with a paper towel.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/5-Drain-Excess-Moisture-from-Chicken.jpg"
+    },
+    {
+      "text": "Continue cooking the chicken (and removing any excess moisture) until well browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/6-Continue-Cooking-Chicken-until-Browned.jpg"
+    },
+    {
+      "text": "Once browned and cooked through, remove the pan from the heat. Pour the peanut sauce over the chicken and mix well to combine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/7-Remove-from-Heat-and-Stir-in-Sauce.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/ThaiPeanutChicken-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/a6b70688eeccb9fd35e66cd3.avif",
+      "archived": true,
+      "originalPath": "images/a6b70688eeccb9fd35e66cd3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/ThaiPeanutChicken.jpg",
+      "path": "images/13aa9a02d551496ca7fe2136.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/1-Add-Sauce-Ingredients-into-Container.jpg",
+      "path": "../../nenaudojama/dinner/images/f24b5454f5b40425145c7c5b.avif",
+      "archived": true,
+      "originalPath": "images/f24b5454f5b40425145c7c5b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/2-Immersion-Blend-Sauce-until-Smooth.jpg",
+      "path": "../../nenaudojama/dinner/images/dbb4e3c040fd185ebd4ff2c1.avif",
+      "archived": true,
+      "originalPath": "images/dbb4e3c040fd185ebd4ff2c1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/3-Cube-Chicken-and-Season.jpg",
+      "path": "../../nenaudojama/dinner/images/1be1bb721b9291c7daa8f641.avif",
+      "archived": true,
+      "originalPath": "images/1be1bb721b9291c7daa8f641.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/4-Add-Chicken-to-Hot-Pan.jpg",
+      "path": "../../nenaudojama/dinner/images/48d42eecc029f1ce73ea962a.avif",
+      "archived": true,
+      "originalPath": "images/48d42eecc029f1ce73ea962a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/5-Drain-Excess-Moisture-from-Chicken.jpg",
+      "path": "../../nenaudojama/dinner/images/882cb96d31b95bf69411a6a6.avif",
+      "archived": true,
+      "originalPath": "images/882cb96d31b95bf69411a6a6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/6-Continue-Cooking-Chicken-until-Browned.jpg",
+      "path": "../../nenaudojama/dinner/images/668cddc40f3683adca90c605.avif",
+      "archived": true,
+      "originalPath": "images/668cddc40f3683adca90c605.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/7-Remove-from-Heat-and-Stir-in-Sauce.jpg",
+      "path": "../../nenaudojama/dinner/images/914e755824b7293e579a5e81.avif",
+      "archived": true,
+      "originalPath": "images/914e755824b7293e579a5e81.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/ThaiPeanutChickenSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/dff435409613531a44177859.avif",
+      "archived": true,
+      "originalPath": "images/dff435409613531a44177859.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/ThaiPeanutChickenLong.jpg",
+      "path": "../../nenaudojama/dinner/images/8bde404cb19cd0f093e4d163.avif",
+      "archived": true,
+      "originalPath": "images/8bde404cb19cd0f093e4d163.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/1-Add-Sauce-Ingredients-into-Container-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/602860bbf0ab1d3830520240.jpg",
+      "archived": true,
+      "originalPath": "images/602860bbf0ab1d3830520240.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/2-Immersion-Blend-Sauce-until-Smooth-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4b32e2d9cad019ffece89b8d.jpg",
+      "archived": true,
+      "originalPath": "images/4b32e2d9cad019ffece89b8d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/3-Cube-Chicken-and-Season-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/69ba14ea9c0df699bf8fc236.avif",
+      "archived": true,
+      "originalPath": "images/69ba14ea9c0df699bf8fc236.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/4-Add-Chicken-to-Hot-Pan-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/256810f294a166dec3f7e5cd.avif",
+      "archived": true,
+      "originalPath": "images/256810f294a166dec3f7e5cd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/5-Drain-Excess-Moisture-from-Chicken-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f2f4ac584464d34f240b0892.avif",
+      "archived": true,
+      "originalPath": "images/f2f4ac584464d34f240b0892.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/6-Continue-Cooking-Chicken-until-Browned-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7e5c2ebef3363a2960b3abf5.avif",
+      "archived": true,
+      "originalPath": "images/7e5c2ebef3363a2960b3abf5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/7-Remove-from-Heat-and-Stir-in-Sauce-523x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3c138b6231701cb6797d4ec4.avif",
+      "archived": true,
+      "originalPath": "images/3c138b6231701cb6797d4ec4.avif"
+    }
+  ],
+  "featuredImage": "images/13aa9a02d551496ca7fe2136.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Thai-Style Low-Carb Peanut Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Thai-Style Low-Carb Peanut Chicken. Each serving comes out to be 409 calories, 28.6g fats, 4.5g net carbs, and 36.9g protein.",
+    "datePublished": "2014-02-04T17:28:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/ThaiPeanutChicken.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "1/4 cup chicken broth",
+      "6 tablespoon peanut butter",
+      "2 tablespoon soy sauce (or coconut aminos)",
+      "1 tablespoon fresh orange juice",
+      "1 tablespoon lemon juice",
+      "1/2 teaspoon sesame oil",
+      "1/4 teaspoon ground coriander",
+      "1/4 teaspoon cayenne pepper",
+      "2 teaspoon chili paste (such as sambal oelek)",
+      "25 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the ingredients except the chicken, salt, and pepper to a tall container.",
+        "name": "Add all of the ingredients except the chicken, salt, and pepper to a tall container.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/1-Add-Sauce-Ingredients-into-Container.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion blender to blend the ingredients, ensuring that the sauce has a smooth consistency throughout. Set aside until needed.",
+        "name": "Use an immersion blender to blend the ingredients, ensuring that the sauce has a smooth consistency throughout. Set aside until needed.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/2-Immersion-Blend-Sauce-until-Smooth.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cube the chicken thighs and season to taste. Don't use too much salt, as the peanut sauce already contains salt from the soy sauce.",
+        "name": "Cube the chicken thighs and season to taste. Don't use too much salt, as the peanut sauce already contains salt from the soy sauce.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/3-Cube-Chicken-and-Season.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a dry pan over high heat. Once hot, add the chicken and sauté for about a minute.",
+        "name": "Heat a dry pan over high heat. Once hot, add the chicken and sauté for about a minute.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/4-Add-Chicken-to-Hot-Pan.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "There should be quite a lot of excess moisture coming out of the chicken — simply pat it dry with a paper towel.",
+        "name": "There should be quite a lot of excess moisture coming out of the chicken — simply pat it dry with a paper towel.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/5-Drain-Excess-Moisture-from-Chicken.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue cooking the chicken (and removing any excess moisture) until well browned.",
+        "name": "Continue cooking the chicken (and removing any excess moisture) until well browned.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/6-Continue-Cooking-Chicken-until-Browned.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once browned and cooked through, remove the pan from the heat. Pour the peanut sauce over the chicken and mix well to combine.",
+        "name": "Once browned and cooked through, remove the pan from the heat. Pour the peanut sauce over the chicken and mix well to combine.",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/7-Remove-from-Heat-and-Stir-in-Sauce.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#wprm-recipe-50817-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, high-protein, keto, low-carb, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "409 kcal",
+      "fatContent": "28.6 g",
+      "proteinContent": "36.9 g",
+      "carbohydrateContent": "4.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/thai-style-low-carb-peanut-chicken/"
+  },
+  "sourceIndex": {
+    "id": 7904,
+    "rid": 50817,
+    "t": "Thai Style Low Carb Peanut Chicken",
+    "u": "/thai-style-low-carb-peanut-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/ThaiPeanutChicken-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.5,
+    "cal": 409,
+    "pr": 36.9,
+    "fa": 28.6,
+    "tm": 20,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-02-04",
+    "cm": 33,
+    "ex": "This is a beautiful dish that combines elements of earthy peanuts, acidic citrus, and umami; finishing off with a slightly sweet and spice from the chili. If you're a fan of Asian style peanut sauces",
+    "pv": 652
+  },
+  "sourceHtml": "pages/thai-style-low-carb-peanut-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:45.209Z"
+}

@@ -1,0 +1,331 @@
+{
+  "id": "ruled-37549",
+  "slug": "vegan-teriyaki-grilled-eggplant",
+  "title": "Vegan Teriyaki Grilled Eggplant",
+  "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Vegan Teriyaki Grilled Eggplant. Each serving comes out to be 182 calories, 12.3g fats, 8.7g net carbs, and 4.7g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "fatContent": "12.3 g",
+    "proteinContent": "4.7 g",
+    "carbohydrateContent": "8.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 182,
+    "netCarbsGrams": 8.7,
+    "proteinGrams": 4.7,
+    "fatGrams": 12.3
+  },
+  "ingredients": [
+    "1/4 cup sesame oil",
+    "1/2 cup soy sauce",
+    "2 teaspoon fresh garlic (peeled and smashed)",
+    "1 tablespoon ground ginger",
+    "2 tablespoon stevia/erythritol blend",
+    "2 medium eggplant",
+    "1 tablespoon toasted sesame seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Combine sesame oil, soy sauce (or liquid aminos), garlic, ginger, and sweetener into a sauce pan and whisk together over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-02.jpg"
+    },
+    {
+      "text": "Bring the sauce to a light simmer, stirring frequently until it begins to thicken slightly. Remove from heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-03.jpg"
+    },
+    {
+      "text": "Remove the stems from the eggplants and slice into 1/8 in slices. You will get approximately five full slices from each eggplant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-05.jpg"
+    },
+    {
+      "text": "Brush each slice of eggplant with the teriyaki sauce and place on a hot grill.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-06.jpg"
+    },
+    {
+      "text": "Sear each side, brushing with more sauce as it caramelizes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-08.jpg"
+    },
+    {
+      "text": "Garnish with toasted sesame seeds and serve with remaining sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "grilled",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "summer",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/93d4ccf78f4214964679fc5e.jpg",
+      "archived": true,
+      "originalPath": "images/93d4ccf78f4214964679fc5e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/d458ed6c30aed01b9556da0e.jpg",
+      "archived": true,
+      "originalPath": "images/d458ed6c30aed01b9556da0e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-02.jpg",
+      "path": "../../nenaudojama/side-items/images/7bd5f5cd59732db07b846c81.jpg",
+      "archived": true,
+      "originalPath": "images/7bd5f5cd59732db07b846c81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-03.jpg",
+      "path": "../../nenaudojama/side-items/images/bbccaf3336de122ebd17275f.jpg",
+      "archived": true,
+      "originalPath": "images/bbccaf3336de122ebd17275f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-05.jpg",
+      "path": "../../nenaudojama/side-items/images/5fc2877c3a306f34e16e1a9b.jpg",
+      "archived": true,
+      "originalPath": "images/5fc2877c3a306f34e16e1a9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-06.jpg",
+      "path": "../../nenaudojama/side-items/images/0fcb76ec78677389f8509b1a.jpg",
+      "archived": true,
+      "originalPath": "images/0fcb76ec78677389f8509b1a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-08.jpg",
+      "path": "../../nenaudojama/side-items/images/dc74acde629ac78bc9b7a310.avif",
+      "archived": true,
+      "originalPath": "images/dc74acde629ac78bc9b7a310.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-second.jpg",
+      "path": "../../nenaudojama/side-items/images/337c3351b730cded705ad10e.jpg",
+      "archived": true,
+      "originalPath": "images/337c3351b730cded705ad10e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/d0afc7a4a0acffb719e5402a.jpg",
+      "archived": true,
+      "originalPath": "images/d0afc7a4a0acffb719e5402a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/51acaf94ec2395a45f364d98.avif",
+      "archived": true,
+      "originalPath": "images/51acaf94ec2395a45f364d98.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/4782886f12923798cbaaa44f.avif",
+      "archived": true,
+      "originalPath": "images/4782886f12923798cbaaa44f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/14ba10b253d40c52d74c975f.jpg",
+      "archived": true,
+      "originalPath": "images/14ba10b253d40c52d74c975f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-06-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/439c898cadffd08a49bba48d.avif",
+      "archived": true,
+      "originalPath": "images/439c898cadffd08a49bba48d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-08-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/dd5c8dce7d3b95c9a805dcc0.jpg",
+      "archived": true,
+      "originalPath": "images/dd5c8dce7d3b95c9a805dcc0.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/d458ed6c30aed01b9556da0e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Vegan Teriyaki Grilled Eggplant",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Vegan Teriyaki Grilled Eggplant. Each serving comes out to be 182 calories, 12.3g fats, 8.7g net carbs, and 4.7g protein.",
+    "datePublished": "2018-07-05T11:00:32+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1/4 cup sesame oil",
+      "1/2 cup soy sauce",
+      "2 teaspoon fresh garlic (peeled and smashed)",
+      "1 tablespoon ground ginger",
+      "2 tablespoon stevia/erythritol blend",
+      "2 medium eggplant",
+      "1 tablespoon toasted sesame seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine sesame oil, soy sauce (or liquid aminos), garlic, ginger, and sweetener into a sauce pan and whisk together over medium heat.",
+        "name": "Combine sesame oil, soy sauce (or liquid aminos), garlic, ginger, and sweetener into a sauce pan and whisk together over medium heat.",
+        "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the sauce to a light simmer, stirring frequently until it begins to thicken slightly. Remove from heat.",
+        "name": "Bring the sauce to a light simmer, stirring frequently until it begins to thicken slightly. Remove from heat.",
+        "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the stems from the eggplants and slice into 1/8 in slices. You will get approximately five full slices from each eggplant.",
+        "name": "Remove the stems from the eggplants and slice into 1/8 in slices. You will get approximately five full slices from each eggplant.",
+        "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Brush each slice of eggplant with the teriyaki sauce and place on a hot grill.",
+        "name": "Brush each slice of eggplant with the teriyaki sauce and place on a hot grill.",
+        "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sear each side, brushing with more sauce as it caramelizes.",
+        "name": "Sear each side, brushing with more sauce as it caramelizes.",
+        "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with toasted sesame seeds and serve with remaining sauce.",
+        "name": "Garnish with toasted sesame seeds and serve with remaining sauce.",
+        "url": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#wprm-recipe-52643-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, egg-free, grilled, keto, low-carb, nut-free, quick, simple-and-easy, stovetop, sugar-free, summer, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "182 kcal",
+      "fatContent": "12.3 g",
+      "proteinContent": "4.7 g",
+      "carbohydrateContent": "8.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/vegan-teriyaki-grilled-eggplant/"
+  },
+  "sourceIndex": {
+    "id": 37549,
+    "rid": 52643,
+    "t": "Vegan Teriyaki Grilled Eggplant",
+    "u": "/vegan-teriyaki-grilled-eggplant/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/07/vegan-grilled-terriyaki-eggplant-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 8.7,
+    "cal": 182,
+    "pr": 4.7,
+    "fa": 12.3,
+    "tm": 25,
+    "sv": 5,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "grilled",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "summer",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2018-07-05",
+    "cm": 0,
+    "ex": "Satisfy your teriyaki cravings with this light and low-carb grilled eggplant! Perfect as a vegan side dish to pair with stir-fry cauli-rice or pan-seared tofu, this quick and simple veggie puts an",
+    "pv": 1544
+  },
+  "sourceHtml": "pages/vegan-teriyaki-grilled-eggplant.html",
+  "scrapedAt": "2026-11-07T08:32:22.893Z"
+}

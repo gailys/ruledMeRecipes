@@ -1,0 +1,424 @@
+{
+  "id": "ruled-15537",
+  "slug": "portobello-personal-pizzas",
+  "title": "Personal Portobello Pizzas",
+  "url": "https://www.ruled.me/portobello-personal-pizzas/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Personal Portobello Pizzas. Each serving comes out to be 339 calories, 31.8g fats, 3.4g net carbs, and 10.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "339 kcal",
+    "fatContent": "31.8 g",
+    "proteinContent": "10.1 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 339,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 10.1,
+    "fatGrams": 31.8
+  },
+  "ingredients": [
+    "4 large portobello mushrooms",
+    "6 tablespoon olive oil",
+    "salt and pepper (to taste)",
+    "1 medium fresh tomatoes",
+    "1/4 cup fresh basil",
+    "1 1/2 ounce pepperoni",
+    "4 ounce mozzarella cheese (cubed)"
+  ],
+  "instructions": [
+    {
+      "text": "Prep the mushrooms by removing the stems.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4563.jpg"
+    },
+    {
+      "text": "Scrape out all of the innards and dig into the flesh to get the mushrooms quite thin on the bottom (about 1/2\").",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4572.jpg"
+    },
+    {
+      "text": "Set the oven to broil on high and rub the insides of each mushroom with half of the olive oil. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4579.jpg"
+    },
+    {
+      "text": "Broil for about 4–5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4584.jpg"
+    },
+    {
+      "text": "Flip the mushrooms over and rub with the remaining olive oil. Season with salt and pepper to taste. Broil for another 3–4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4597.jpg"
+    },
+    {
+      "text": "Thinly slice the tomato and chop the basil into long, thin strips.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4592.jpg"
+    },
+    {
+      "text": "Flip the mushroom caps back over and fill them with the tomato slices and basil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4598.jpg"
+    },
+    {
+      "text": "Distribute the pepperoni evenly over the mushrooms and top with fresh cubes of mozzarella cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4607.jpg"
+    },
+    {
+      "text": "Broil again for 2–4 minutes, or until the cheese is melted and beginning to brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4616.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizzaLong.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizza.jpg",
+      "path": "images/ff6d75304e6537e04ebfbe77.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4563.jpg",
+      "path": "../../nenaudojama/lunch/images/e4217c1263079685523e3366.jpg",
+      "archived": true,
+      "originalPath": "images/e4217c1263079685523e3366.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4572.jpg",
+      "path": "../../nenaudojama/lunch/images/d520fa644786ce83e36553f4.avif",
+      "archived": true,
+      "originalPath": "images/d520fa644786ce83e36553f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4579.jpg",
+      "path": "../../nenaudojama/lunch/images/e122ff3b455d1bb231f4825a.avif",
+      "archived": true,
+      "originalPath": "images/e122ff3b455d1bb231f4825a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4584.jpg",
+      "path": "../../nenaudojama/lunch/images/bae2d295a4bb6331d59c8471.avif",
+      "archived": true,
+      "originalPath": "images/bae2d295a4bb6331d59c8471.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4597.jpg",
+      "path": "../../nenaudojama/lunch/images/49dc29015822e7a5a10f9f7c.jpg",
+      "archived": true,
+      "originalPath": "images/49dc29015822e7a5a10f9f7c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4592.jpg",
+      "path": "../../nenaudojama/lunch/images/efb70131a0ff0fa2d0ae2dd8.jpg",
+      "archived": true,
+      "originalPath": "images/efb70131a0ff0fa2d0ae2dd8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4598.jpg",
+      "path": "../../nenaudojama/lunch/images/a9d81b06dcb9f37805b8c352.avif",
+      "archived": true,
+      "originalPath": "images/a9d81b06dcb9f37805b8c352.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4607.jpg",
+      "path": "../../nenaudojama/lunch/images/a66b75de312e08e1015eadf6.jpg",
+      "archived": true,
+      "originalPath": "images/a66b75de312e08e1015eadf6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4616.jpg",
+      "path": "../../nenaudojama/lunch/images/6ed4ee12cef2d6eabd4b588d.jpg",
+      "archived": true,
+      "originalPath": "images/6ed4ee12cef2d6eabd4b588d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizzaLong.jpg",
+      "path": "../../nenaudojama/lunch/images/c387ffb39da9df670c9c5fcd.jpg",
+      "archived": true,
+      "originalPath": "images/c387ffb39da9df670c9c5fcd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizzaSecond.jpg",
+      "path": "../../nenaudojama/lunch/images/637f2ae519236908a5298965.avif",
+      "archived": true,
+      "originalPath": "images/637f2ae519236908a5298965.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4563-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/81977281802b0d103c19dcb6.avif",
+      "archived": true,
+      "originalPath": "images/81977281802b0d103c19dcb6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4572-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/458328f3ababff0e4e9fdd02.jpg",
+      "archived": true,
+      "originalPath": "images/458328f3ababff0e4e9fdd02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4579-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/110f519dea6102794c1600dc.avif",
+      "archived": true,
+      "originalPath": "images/110f519dea6102794c1600dc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4584-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/04d1021b6e4f03804d9bef9d.jpg",
+      "archived": true,
+      "originalPath": "images/04d1021b6e4f03804d9bef9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4597-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3b37676a7b2914da12e75bb7.jpg",
+      "archived": true,
+      "originalPath": "images/3b37676a7b2914da12e75bb7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4592-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e0e9826f4cb512f491e6d2ed.jpg",
+      "archived": true,
+      "originalPath": "images/e0e9826f4cb512f491e6d2ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4598-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d915f2c1b90f9ad15dd4808f.jpg",
+      "archived": true,
+      "originalPath": "images/d915f2c1b90f9ad15dd4808f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4607-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/14eb5ff368d6d337b8b35c67.jpg",
+      "archived": true,
+      "originalPath": "images/14eb5ff368d6d337b8b35c67.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4616-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/46ab7c82b97a15c03d00d9bd.jpg",
+      "archived": true,
+      "originalPath": "images/46ab7c82b97a15c03d00d9bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizzaLong-230x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7325a45d171f366c7a76f855.avif",
+      "archived": true,
+      "originalPath": "images/7325a45d171f366c7a76f855.avif"
+    }
+  ],
+  "featuredImage": "images/ff6d75304e6537e04ebfbe77.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Personal Portobello Pizzas",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Personal Portobello Pizzas. Each serving comes out to be 339 calories, 31.8g fats, 3.4g net carbs, and 10.1g protein.",
+    "datePublished": "2014-05-28T15:59:15+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizza.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "4 large portobello mushrooms",
+      "6 tablespoon olive oil",
+      "salt and pepper (to taste)",
+      "1 medium fresh tomatoes",
+      "1/4 cup fresh basil",
+      "1 1/2 ounce pepperoni",
+      "4 ounce mozzarella cheese (cubed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep the mushrooms by removing the stems.",
+        "name": "Prep the mushrooms by removing the stems.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4563.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scrape out all of the innards and dig into the flesh to get the mushrooms quite thin on the bottom (about 1/2\").",
+        "name": "Scrape out all of the innards and dig into the flesh to get the mushrooms quite thin on the bottom (about 1/2\").",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4572.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set the oven to broil on high and rub the insides of each mushroom with half of the olive oil. Season with salt and pepper to taste.",
+        "name": "Set the oven to broil on high and rub the insides of each mushroom with half of the olive oil. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4579.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Broil for about 4–5 minutes.",
+        "name": "Broil for about 4–5 minutes.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4584.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the mushrooms over and rub with the remaining olive oil. Season with salt and pepper to taste. Broil for another 3–4 minutes.",
+        "name": "Flip the mushrooms over and rub with the remaining olive oil. Season with salt and pepper to taste. Broil for another 3–4 minutes.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4597.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the tomato and chop the basil into long, thin strips.",
+        "name": "Thinly slice the tomato and chop the basil into long, thin strips.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4592.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the mushroom caps back over and fill them with the tomato slices and basil.",
+        "name": "Flip the mushroom caps back over and fill them with the tomato slices and basil.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4598.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Distribute the pepperoni evenly over the mushrooms and top with fresh cubes of mozzarella cheese.",
+        "name": "Distribute the pepperoni evenly over the mushrooms and top with fresh cubes of mozzarella cheese.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4607.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Broil again for 2–4 minutes, or until the cheese is melted and beginning to brown.",
+        "name": "Broil again for 2–4 minutes, or until the cheese is melted and beginning to brown.",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_4616.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/portobello-personal-pizzas/#wprm-recipe-51133-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizzaLong.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, pork, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "339 kcal",
+      "fatContent": "31.8 g",
+      "proteinContent": "10.1 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/portobello-personal-pizzas/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/portobello-personal-pizzas/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/portobello-personal-pizzas/"
+  },
+  "sourceIndex": {
+    "id": 15537,
+    "rid": 51133,
+    "t": "Portobello Personal Pizzas",
+    "u": "/portobello-personal-pizzas/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/05/PortobelloPersonalPizza.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.4,
+    "cal": 339,
+    "pr": 10.1,
+    "fa": 31.8,
+    "tm": 20,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2014-05-28",
+    "cm": 6,
+    "ex": "A super simple and easy way to make lunch ahead of time. No making dough, no microwaves, just simple ingredients and great taste. If you don't have basil, you can skip it - but be warned that",
+    "pv": 110
+  },
+  "sourceHtml": "pages/portobello-personal-pizzas.html",
+  "scrapedAt": "2026-11-07T08:18:07.156Z"
+}

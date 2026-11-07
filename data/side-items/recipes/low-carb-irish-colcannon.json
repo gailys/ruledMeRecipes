@@ -1,0 +1,253 @@
+{
+  "id": "ruled-28450",
+  "slug": "low-carb-irish-colcannon",
+  "title": "Low-Carb Irish Colcannon",
+  "url": "https://www.ruled.me/low-carb-irish-colcannon/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Low-Carb Irish Colcannon. Each serving comes out to be 186 calories, 17.7g fats, 2.8g net carbs, and 3.2g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "fatContent": "17.7 g",
+    "proteinContent": "3.2 g",
+    "carbohydrateContent": "2.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 186,
+    "netCarbsGrams": 2.8,
+    "proteinGrams": 3.2,
+    "fatGrams": 17.7
+  },
+  "ingredients": [
+    "315 gram cauliflower",
+    "1 cup frozen spinach (thawed)",
+    "1/4 cup heavy whipping cream",
+    "1/2 medium avocado",
+    "4 tablespoon butter",
+    "1/2 cup sour cream (plus extra for topping)",
+    "1/2 teaspoon salt",
+    "black pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Combine the cauliflower and spinach in a microwave-safe bowl or saucepan and cook until cauliflower is very tender, about 15 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-irish-colcannon/#wprm-recipe-52011-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-combine-ingred_.jpg"
+    },
+    {
+      "text": "Add in the cream, avocado, butter, sour cream, and seasonings, and blend until smooth using an immersion blender or food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-irish-colcannon/#wprm-recipe-52011-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-stir-in-sour-cream_.jpg"
+    },
+    {
+      "text": "Serve immediately.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-irish-colcannon/#wprm-recipe-52011-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-vertical-1_.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-ldsc1_-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/6e4a200fb0c53150044faadd.jpg",
+      "archived": true,
+      "originalPath": "images/6e4a200fb0c53150044faadd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-ldsc1_.jpg",
+      "path": "../../nenaudojama/side-items/images/b043b5d7e9a634b0349f2998.avif",
+      "archived": true,
+      "originalPath": "images/b043b5d7e9a634b0349f2998.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-combine-ingred_.jpg",
+      "path": "../../nenaudojama/side-items/images/17241b87a93d3f82107dd249.jpg",
+      "archived": true,
+      "originalPath": "images/17241b87a93d3f82107dd249.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-stir-in-sour-cream_.jpg",
+      "path": "../../nenaudojama/side-items/images/522c150e1c33ff3656e497b1.jpg",
+      "archived": true,
+      "originalPath": "images/522c150e1c33ff3656e497b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-vertical-1_.jpg",
+      "path": "../../nenaudojama/side-items/images/8fc1998c62d88b348050e492.jpg",
+      "archived": true,
+      "originalPath": "images/8fc1998c62d88b348050e492.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-ldsc2_.jpg",
+      "path": "../../nenaudojama/side-items/images/6e3108acabdea6cbe711b6d8.avif",
+      "archived": true,
+      "originalPath": "images/6e3108acabdea6cbe711b6d8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-combine-ingred_-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/012a9d0b1a406005db84e1ba.jpg",
+      "archived": true,
+      "originalPath": "images/012a9d0b1a406005db84e1ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-stir-in-sour-cream_-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c94a3e9ddc4b858654286333.avif",
+      "archived": true,
+      "originalPath": "images/c94a3e9ddc4b858654286333.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-vertical-1_-241x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6cd140f4d1f934f0f1ab3ad9.avif",
+      "archived": true,
+      "originalPath": "images/6cd140f4d1f934f0f1ab3ad9.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/b043b5d7e9a634b0349f2998.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Irish Colcannon",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Low-Carb Irish Colcannon. Each serving comes out to be 186 calories, 17.7g fats, 2.8g net carbs, and 3.2g protein.",
+    "datePublished": "2016-12-20T12:00:08+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-ldsc1_.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "315 gram cauliflower",
+      "1 cup frozen spinach (thawed)",
+      "1/4 cup heavy whipping cream",
+      "1/2 medium avocado",
+      "4 tablespoon butter",
+      "1/2 cup sour cream (plus extra for topping)",
+      "1/2 teaspoon salt",
+      "black pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cauliflower and spinach in a microwave-safe bowl or saucepan and cook until cauliflower is very tender, about 15 minutes.",
+        "name": "Combine the cauliflower and spinach in a microwave-safe bowl or saucepan and cook until cauliflower is very tender, about 15 minutes.",
+        "url": "https://www.ruled.me/low-carb-irish-colcannon/#wprm-recipe-52011-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-combine-ingred_.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the cream, avocado, butter, sour cream, and seasonings, and blend until smooth using an immersion blender or food processor.",
+        "name": "Add in the cream, avocado, butter, sour cream, and seasonings, and blend until smooth using an immersion blender or food processor.",
+        "url": "https://www.ruled.me/low-carb-irish-colcannon/#wprm-recipe-52011-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-stir-in-sour-cream_.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately.",
+        "name": "Serve immediately.",
+        "url": "https://www.ruled.me/low-carb-irish-colcannon/#wprm-recipe-52011-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-vertical-1_.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "Irish"
+    ],
+    "keywords": "30-minute, beginner-friendly, comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "186 kcal",
+      "fatContent": "17.7 g",
+      "proteinContent": "3.2 g",
+      "carbohydrateContent": "2.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-irish-colcannon/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-irish-colcannon/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-irish-colcannon/"
+  },
+  "sourceIndex": {
+    "id": 28450,
+    "rid": 52011,
+    "t": "Low Carb Irish Colcannon",
+    "u": "/low-carb-irish-colcannon/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/12/Colcannon-ldsc1_-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 2.8,
+    "cal": 186,
+    "pr": 3.2,
+    "fa": 17.7,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free"
+    ],
+    "d": "2016-12-20",
+    "cm": 2,
+    "ex": "Colcannon is a traditional Irish dish made with mashed potatoes and kale. In our version we leave the potatoes behind and sub cauliflower as the base of the dish. Next we add in spinach for a",
+    "pv": 95
+  },
+  "sourceHtml": "pages/low-carb-irish-colcannon.html",
+  "scrapedAt": "2026-11-07T08:32:40.647Z"
+}

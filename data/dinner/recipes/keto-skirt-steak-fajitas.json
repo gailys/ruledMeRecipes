@@ -1,0 +1,342 @@
+{
+  "id": "ruled-13437",
+  "slug": "keto-skirt-steak-fajitas",
+  "title": "Keto Skirt Steak Fajitas",
+  "url": "https://www.ruled.me/keto-skirt-steak-fajitas/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Skirt Steak Fajitas. Each serving comes out to be 444 calories, 27.1g fats, 4.4g net carbs, and 39.6g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT240M",
+  "totalTime": "PT255M",
+  "totalMinutes": 255,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "fatContent": "27.1 g",
+    "proteinContent": "39.6 g",
+    "carbohydrateContent": "4.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 444,
+    "netCarbsGrams": 4.4,
+    "proteinGrams": 39.6,
+    "fatGrams": 27.1
+  },
+  "ingredients": [
+    "1 medium onion",
+    "1 medium green bell pepper",
+    "3 medium jalapeno pepper",
+    "1 medium bird's eye chile pepper",
+    "32 ounce skirt steak",
+    "2 teaspoon cumin",
+    "6 ounce canned whole tomatoes",
+    "1 tablespoon apple cider vinegar",
+    "3 tablespoon low-carb ketchup",
+    "1 teaspoon liquid smoke",
+    "1 teaspoon fresh garlic (minced)",
+    "1/4 cup coconut flour",
+    "1 tablespoon psyllium husk powder",
+    "2 tablespoon butter",
+    "1/2 cup beef broth",
+    "1/8 teaspoon garlic powder",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Start by doing all the prep. Slice onion, bell pepper, jalapenos, and red chili pepper. Remove the silver skin from the skirt steak if you need to.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9775.jpg"
+    },
+    {
+      "text": "In a crockpot, add all of the ingredients (spices included). I made a small layer of the canned tomatoes, added some onions, layered the steak on top, and then added the rest of the vegetables.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9782.jpg"
+    },
+    {
+      "text": "Cook everything for 3-4 hours on low and stir it all up. Replace the lid and cook for an additional 3-4 hours on low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9881.jpg"
+    },
+    {
+      "text": "Once your steak is finished, shred it all with 2 forks and start on your tortillas.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_98866.jpg"
+    },
+    {
+      "text": "Use our low carb tortilla recipe. Boil the chicken or beef broth and mix it with all the other tortilla ingredients. Once you form a dough, cut out small (or large, depending) circles and fry them in a frying pan on medium-low heat. Stuff the tortillas with whatever mixture you want (I used cream cheese and sriracha) and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas3.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "slow-cooker",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas.jpg",
+      "path": "images/3e873a4e929b61839f2695f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9775.jpg",
+      "path": "../../nenaudojama/dinner/images/ad51d130c21767754de84e42.jpg",
+      "archived": true,
+      "originalPath": "images/ad51d130c21767754de84e42.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9782.jpg",
+      "path": "../../nenaudojama/dinner/images/dd5d1439215fa999c4b5e070.jpg",
+      "archived": true,
+      "originalPath": "images/dd5d1439215fa999c4b5e070.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9881.jpg",
+      "path": "../../nenaudojama/dinner/images/2acd3f768c4f88728581dfc5.jpg",
+      "archived": true,
+      "originalPath": "images/2acd3f768c4f88728581dfc5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_98866.jpg",
+      "path": "../../nenaudojama/dinner/images/603d90412675143ecce31b80.jpg",
+      "archived": true,
+      "originalPath": "images/603d90412675143ecce31b80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas3.jpg",
+      "path": "../../nenaudojama/dinner/images/74043aa5b1cfd1db444932be.avif",
+      "archived": true,
+      "originalPath": "images/74043aa5b1cfd1db444932be.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas2Second.jpg",
+      "path": "../../nenaudojama/dinner/images/00617ea0779fa6108937d490.jpg",
+      "archived": true,
+      "originalPath": "images/00617ea0779fa6108937d490.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9775-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2704fe748185edc7ed5e06a1.jpg",
+      "archived": true,
+      "originalPath": "images/2704fe748185edc7ed5e06a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9782-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5e0b99e5b412b162b352189e.avif",
+      "archived": true,
+      "originalPath": "images/5e0b99e5b412b162b352189e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9881-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1bb29cc4dd396e2f4c296118.jpg",
+      "archived": true,
+      "originalPath": "images/1bb29cc4dd396e2f4c296118.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_98866-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2a6400187d7efb5da8a005b1.jpg",
+      "archived": true,
+      "originalPath": "images/2a6400187d7efb5da8a005b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas3-228x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4ac787c6f2feb5c40b85c9d4.jpg",
+      "archived": true,
+      "originalPath": "images/4ac787c6f2feb5c40b85c9d4.jpg"
+    }
+  ],
+  "featuredImage": "images/3e873a4e929b61839f2695f9.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Skirt Steak Fajitas",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Keto Skirt Steak Fajitas. Each serving comes out to be 444 calories, 27.1g fats, 4.4g net carbs, and 39.6g protein.",
+    "datePublished": "2014-04-23T16:15:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT240M",
+    "totalTime": "PT255M",
+    "recipeIngredient": [
+      "1 medium onion",
+      "1 medium green bell pepper",
+      "3 medium jalapeno pepper",
+      "1 medium bird's eye chile pepper",
+      "32 ounce skirt steak",
+      "2 teaspoon cumin",
+      "6 ounce canned whole tomatoes",
+      "1 tablespoon apple cider vinegar",
+      "3 tablespoon low-carb ketchup",
+      "1 teaspoon liquid smoke",
+      "1 teaspoon fresh garlic (minced)",
+      "1/4 cup coconut flour",
+      "1 tablespoon psyllium husk powder",
+      "2 tablespoon butter",
+      "1/2 cup beef broth",
+      "1/8 teaspoon garlic powder",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by doing all the prep. Slice onion, bell pepper, jalapenos, and red chili pepper. Remove the silver skin from the skirt steak if you need to.",
+        "name": "Start by doing all the prep. Slice onion, bell pepper, jalapenos, and red chili pepper. Remove the silver skin from the skirt steak if you need to.",
+        "url": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9775.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a crockpot, add all of the ingredients (spices included). I made a small layer of the canned tomatoes, added some onions, layered the steak on top, and then added the rest of the vegetables.",
+        "name": "In a crockpot, add all of the ingredients (spices included). I made a small layer of the canned tomatoes, added some onions, layered the steak on top, and then added the rest of the vegetables.",
+        "url": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9782.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook everything for 3-4 hours on low and stir it all up. Replace the lid and cook for an additional 3-4 hours on low.",
+        "name": "Cook everything for 3-4 hours on low and stir it all up. Replace the lid and cook for an additional 3-4 hours on low.",
+        "url": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9881.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once your steak is finished, shred it all with 2 forks and start on your tortillas.",
+        "name": "Once your steak is finished, shred it all with 2 forks and start on your tortillas.",
+        "url": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_98866.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use our low carb tortilla recipe. Boil the chicken or beef broth and mix it with all the other tortilla ingredients. Once you form a dough, cut out small (or large, depending) circles and fry them in a frying pan on medium-low heat. Stuff the tortillas with whatever mixture you want (I used cream cheese and sriracha) and serve!",
+        "name": "Use our low carb tortilla recipe. Boil the chicken or beef broth and mix it with all the other tortilla ingredients. Once you form a dough, cut out small (or large, depending) circles and fry them in a frying pan on medium-low heat. Stuff the tortillas with whatever mixture you want (I used cream cheese and sriracha) and serve!",
+        "url": "https://www.ruled.me/keto-skirt-steak-fajitas/#wprm-recipe-51037-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas3.jpg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "This was my first time using skirt steak but oh my goodness, did this work out so well! It was easy to put together and let the crock pot do the work while I was out galavanting for the day. Came home to a delicious dinner all ready for us. I added a few more seasonings using chili powder and smoked paprika. And since I was running short on time I served it over cauli rice rather than make tortillas. Wow, so much flavor!!! Hubby loved it too. The only problem is we were fighting over who gets the leftovers for lunch this week! Absolutely will make this again - and again - and again.",
+        "author": {
+          "@type": "Person",
+          "name": "Joyce K"
+        },
+        "datePublished": "2026-05-11"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, high-protein, keto, low-carb, nut-free, red meat, slow cooker, spicy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "444 kcal",
+      "fatContent": "27.1 g",
+      "proteinContent": "39.6 g",
+      "carbohydrateContent": "4.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-skirt-steak-fajitas/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-skirt-steak-fajitas/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-skirt-steak-fajitas/"
+  },
+  "sourceIndex": {
+    "id": 13437,
+    "rid": 51037,
+    "t": "Keto Skirt Steak Fajitas",
+    "u": "/keto-skirt-steak-fajitas/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/Fajitas.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.4,
+    "cal": 444,
+    "pr": 39.6,
+    "fa": 27.1,
+    "tm": 255,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "slow-cooker",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 17,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2014-04-23",
+    "cm": 1,
+    "ex": "Fajitas are something that I've been REALLY craving lately, so I set out to make some that weren't going to disappoint. Low and behold, these fajitas did the trick! They'll serve around 6 people, but",
+    "pv": 375
+  },
+  "sourceHtml": "pages/keto-skirt-steak-fajitas.html",
+  "scrapedAt": "2026-11-07T08:27:45.108Z"
+}

@@ -1,0 +1,344 @@
+{
+  "id": "ruled-48453",
+  "slug": "keto-pizza-sauce",
+  "title": "Keto Pizza Sauce",
+  "url": "https://www.ruled.me/keto-pizza-sauce/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Pizza Sauce . Each serving comes out to be 109 calories, 9.4g fats, 3.7g net carbs, and 1.3g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "fatContent": "9.4 g",
+    "proteinContent": "1.3 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 109,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 1.3,
+    "fatGrams": 9.4
+  },
+  "ingredients": [
+    "28 ounce canned whole tomatoes (San Marzano)",
+    "1 cup vegetable stock",
+    "1/4 cup olive oil",
+    "8 teaspoon fresh garlic (slivered crosswise)",
+    "1 teaspoon kosher salt (to taste)",
+    "crushed red pepper flakes (to taste)",
+    "1/2 teaspoon dried oregano",
+    "2 tablespoon fresh basil (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-1.jpg"
+    },
+    {
+      "text": "Slice the fresh garlic cloves crosswise in slivers.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-2.jpg"
+    },
+    {
+      "text": "Pour the canned whole tomatoes into a bowl. Smash the tomatoes with your hands to create bits.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-3.jpg"
+    },
+    {
+      "text": "Add olive oil to a frying pan over medium heat. Then add in the silvered garlic. Stir this around for a minute or so.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-4.jpg"
+    },
+    {
+      "text": "Add in the crushed tomatoes to the pan along with kosher salt, crushed red pepper flakes, dried oregano, and basil. Turn the temperature down to low and let simmer for 15 minutes, stirring occasionally. Once you see a yellow oil on the surface, the marinara sauce is done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "batch-cooking",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/9e5878217b780d0d1e0ee71e.jpg",
+      "archived": true,
+      "originalPath": "images/9e5878217b780d0d1e0ee71e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Featured.jpg",
+      "path": "../../nenaudojama/condiments/images/6c02020816fbf9005a3e116c.jpg",
+      "archived": true,
+      "originalPath": "images/6c02020816fbf9005a3e116c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-1.jpg",
+      "path": "../../nenaudojama/condiments/images/9dc8481b9096b164f4638884.jpg",
+      "archived": true,
+      "originalPath": "images/9dc8481b9096b164f4638884.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-2.jpg",
+      "path": "../../nenaudojama/condiments/images/a75f0b434d8299561396ccf2.jpg",
+      "archived": true,
+      "originalPath": "images/a75f0b434d8299561396ccf2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-3.jpg",
+      "path": "../../nenaudojama/condiments/images/b11100ff97300de2da9565b6.jpg",
+      "archived": true,
+      "originalPath": "images/b11100ff97300de2da9565b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-4.jpg",
+      "path": "../../nenaudojama/condiments/images/0ec9f1186684f299ee288039.jpg",
+      "archived": true,
+      "originalPath": "images/0ec9f1186684f299ee288039.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-5.jpg",
+      "path": "../../nenaudojama/condiments/images/7dec114407eb6e06c89406e9.jpg",
+      "archived": true,
+      "originalPath": "images/7dec114407eb6e06c89406e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Second.jpg",
+      "path": "../../nenaudojama/condiments/images/73a70d7fda464fd284928e37.jpg",
+      "archived": true,
+      "originalPath": "images/73a70d7fda464fd284928e37.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Long.jpg",
+      "path": "../../nenaudojama/condiments/images/9533a4d1986c49f43345985f.jpg",
+      "archived": true,
+      "originalPath": "images/9533a4d1986c49f43345985f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Featured-300x300.jpg",
+      "path": "../../nenaudojama/condiments/images/6e350c99381344569f1153e6.avif",
+      "archived": true,
+      "originalPath": "images/6e350c99381344569f1153e6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-1-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d44d7537ef20a9054feceeb0.avif",
+      "archived": true,
+      "originalPath": "images/d44d7537ef20a9054feceeb0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-2-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/abe0814439d9816f16ac3d50.jpg",
+      "archived": true,
+      "originalPath": "images/abe0814439d9816f16ac3d50.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-3-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d7165ad4230a9a374352e301.jpg",
+      "archived": true,
+      "originalPath": "images/d7165ad4230a9a374352e301.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-4-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/f25ef81517d3b488085a2af4.avif",
+      "archived": true,
+      "originalPath": "images/f25ef81517d3b488085a2af4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-5-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/3148a1347268518bff16d4bf.jpg",
+      "archived": true,
+      "originalPath": "images/3148a1347268518bff16d4bf.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/6c02020816fbf9005a3e116c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pizza Sauce",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 6 servings of Keto Pizza Sauce . Each serving comes out to be 109 calories, 9.4g fats, 3.7g net carbs, and 1.3g protein.",
+    "datePublished": "2023-02-21T10:00:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "28 ounce canned whole tomatoes (San Marzano)",
+      "1 cup vegetable stock",
+      "1/4 cup olive oil",
+      "8 teaspoon fresh garlic (slivered crosswise)",
+      "1 teaspoon kosher salt (to taste)",
+      "crushed red pepper flakes (to taste)",
+      "1/2 teaspoon dried oregano",
+      "2 tablespoon fresh basil (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the fresh garlic cloves crosswise in slivers.",
+        "name": "Slice the fresh garlic cloves crosswise in slivers.",
+        "url": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the canned whole tomatoes into a bowl. Smash the tomatoes with your hands to create bits.",
+        "name": "Pour the canned whole tomatoes into a bowl. Smash the tomatoes with your hands to create bits.",
+        "url": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add olive oil to a frying pan over medium heat. Then add in the silvered garlic. Stir this around for a minute or so.",
+        "name": "Add olive oil to a frying pan over medium heat. Then add in the silvered garlic. Stir this around for a minute or so.",
+        "url": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the crushed tomatoes to the pan along with kosher salt, crushed red pepper flakes, dried oregano, and basil. Turn the temperature down to low and let simmer for 15 minutes, stirring occasionally. Once you see a yellow oil on the surface, the marinara sauce is done.",
+        "name": "Add in the crushed tomatoes to the pan along with kosher salt, crushed red pepper flakes, dried oregano, and basil. Turn the temperature down to low and let simmer for 15 minutes, stirring occasionally. Once you see a yellow oil on the surface, the marinara sauce is done.",
+        "url": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy.",
+        "name": "Serve and enjoy.",
+        "url": "https://www.ruled.me/keto-pizza-sauce/#wprm-recipe-54503-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, batch-cooking, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "109 kcal",
+      "fatContent": "9.4 g",
+      "proteinContent": "1.3 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pizza-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pizza-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pizza-sauce/"
+  },
+  "sourceIndex": {
+    "id": 48453,
+    "rid": 54503,
+    "t": "Keto Pizza Sauce",
+    "u": "/keto-pizza-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/12/Marinara-Sauce-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 3.7,
+    "cal": 109,
+    "pr": 1.3,
+    "fa": 9.4,
+    "tm": 30,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "batch-cooking",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2023-02-21",
+    "cm": 0,
+    "ex": "This keto pizza sauce recipe is simple to make and tastes amazing. All you need are some quality canned tomatoes, stock, olive oil, and a few herbs and spices and you’re good to go. It makes an",
+    "pv": 197
+  },
+  "sourceHtml": "pages/keto-pizza-sauce.html",
+  "scrapedAt": "2026-11-07T08:33:26.985Z"
+}

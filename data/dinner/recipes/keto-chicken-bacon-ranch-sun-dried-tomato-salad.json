@@ -1,0 +1,282 @@
+{
+  "id": "ruled-40896",
+  "slug": "keto-chicken-bacon-ranch-sun-dried-tomato-salad",
+  "title": "Keto Chicken, Bacon, Ranch & Sun-Dried Tomato Salad",
+  "url": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Chicken, Bacon, Ranch & Sun-Dried Tomato Salad. Each serving comes out to be 618 calories, 44.6g fats, 6.8g net carbs, and 44.3g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "618 kcal",
+    "fatContent": "44.6 g",
+    "proteinContent": "44.3 g",
+    "carbohydrateContent": "6.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 618,
+    "netCarbsGrams": 6.8,
+    "proteinGrams": 44.3,
+    "fatGrams": 44.6
+  },
+  "ingredients": [
+    "2 tablespoon olive oil",
+    "17 ounce boneless, skinless chicken breast",
+    "1 teaspoon fresh garlic",
+    "5 slice bacon (chopped)",
+    "1 cup mushrooms (sliced)",
+    "1/3 cup fresh basil",
+    "5 ounce spinach",
+    "4 whole sun-dried tomatoes",
+    "1 cup ranch dressing"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a frying pan over medium heat. Add the olive oil and once it’s hot, brown the chicken. When the chicken is nearly done, mix in the garlic then cook until the chicken is completely cooked through. Remove the chicken and garlic from the pan then set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-04.jpg"
+    },
+    {
+      "text": "Add the bacon to the pan, then cook until it’s crisped up. Add the bacon to the bowl of chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-05.jpg"
+    },
+    {
+      "text": "Add the raw mushrooms, basil, and a handful of the spinach. Mix together until the spinach wilts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-07.jpg"
+    },
+    {
+      "text": "Add the remaining spinach to a serving bowl. Spoon the chicken onto the top of the salad. Garnish with the sun-dried tomatoes and serve with ranch dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "pork",
+    "poultry",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "stovetop",
+    "meal-prep",
+    "high-protein",
+    "poultry",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/8b3dc0671d6440fa4bc95c16.jpg",
+      "archived": true,
+      "originalPath": "images/8b3dc0671d6440fa4bc95c16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-featured.jpg",
+      "path": "images/489a4a2bf48169509e183f9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-04.jpg",
+      "path": "../../nenaudojama/dinner/images/44881768bbda1af684cf5292.avif",
+      "archived": true,
+      "originalPath": "images/44881768bbda1af684cf5292.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-05.jpg",
+      "path": "../../nenaudojama/dinner/images/1c2a3feedcb601916d0d1a02.jpg",
+      "archived": true,
+      "originalPath": "images/1c2a3feedcb601916d0d1a02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-07.jpg",
+      "path": "../../nenaudojama/dinner/images/84f4f1118f27ae5d7dea2abd.avif",
+      "archived": true,
+      "originalPath": "images/84f4f1118f27ae5d7dea2abd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-second.jpg",
+      "path": "../../nenaudojama/dinner/images/3ed72eed11dfbc1cdf08771b.avif",
+      "archived": true,
+      "originalPath": "images/3ed72eed11dfbc1cdf08771b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/6c42aa1dd12e8c58dcb97b7e.avif",
+      "archived": true,
+      "originalPath": "images/6c42aa1dd12e8c58dcb97b7e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e1262f32046fff65d0cb59a1.jpg",
+      "archived": true,
+      "originalPath": "images/e1262f32046fff65d0cb59a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/59da1fe65187672ea80c9cc5.jpg",
+      "archived": true,
+      "originalPath": "images/59da1fe65187672ea80c9cc5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/86bbe5f8b8eb4fe88bbc7298.avif",
+      "archived": true,
+      "originalPath": "images/86bbe5f8b8eb4fe88bbc7298.avif"
+    }
+  ],
+  "featuredImage": "images/489a4a2bf48169509e183f9b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken, Bacon, Ranch &amp; Sun-Dried Tomato Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Chicken, Bacon, Ranch &amp; Sun-Dried Tomato Salad. Each serving comes out to be 618 calories, 44.6g fats, 6.8g net carbs, and 44.3g protein.",
+    "datePublished": "2019-07-18T08:00:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "2 tablespoon olive oil",
+      "17 ounce boneless, skinless chicken breast",
+      "1 teaspoon fresh garlic",
+      "5 slice bacon (chopped)",
+      "1 cup mushrooms (sliced)",
+      "1/3 cup fresh basil",
+      "5 ounce spinach",
+      "4 whole sun-dried tomatoes",
+      "1 cup ranch dressing"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a frying pan over medium heat. Add the olive oil and once it’s hot, brown the chicken. When the chicken is nearly done, mix in the garlic then cook until the chicken is completely cooked through. Remove the chicken and garlic from the pan then set aside.",
+        "name": "Preheat a frying pan over medium heat. Add the olive oil and once it’s hot, brown the chicken. When the chicken is nearly done, mix in the garlic then cook until the chicken is completely cooked through. Remove the chicken and garlic from the pan then set aside.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the bacon to the pan, then cook until it’s crisped up. Add the bacon to the bowl of chicken.",
+        "name": "Add the bacon to the pan, then cook until it’s crisped up. Add the bacon to the bowl of chicken.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the raw mushrooms, basil, and a handful of the spinach. Mix together until the spinach wilts.",
+        "name": "Add the raw mushrooms, basil, and a handful of the spinach. Mix together until the spinach wilts.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the remaining spinach to a serving bowl. Spoon the chicken onto the top of the salad. Garnish with the sun-dried tomatoes and serve with ranch dressing.",
+        "name": "Add the remaining spinach to a serving bowl. Spoon the chicken onto the top of the salad. Garnish with the sun-dried tomatoes and serve with ranch dressing.",
+        "url": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#wprm-recipe-53080-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, nut-free, pork, poultry, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "618 kcal",
+      "fatContent": "44.6 g",
+      "proteinContent": "44.3 g",
+      "carbohydrateContent": "6.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-bacon-ranch-sun-dried-tomato-salad/"
+  },
+  "sourceIndex": {
+    "id": 40896,
+    "rid": 53080,
+    "t": "Keto Chicken, Bacon, Ranch & Sun-Dried Tomato Salad",
+    "u": "/keto-chicken-bacon-ranch-sun-dried-tomato-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/07/keto-chicken-bacon-spinach-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.8,
+    "cal": 618,
+    "pr": 44.3,
+    "fa": 44.6,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "dairy-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "pork",
+      "poultry",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "stovetop",
+      "meal-prep",
+      "high-protein",
+      "poultry",
+      "pork"
+    ],
+    "d": "2019-07-18",
+    "cm": 0,
+    "ex": "What if I told you that you could make this amazing chicken, bacon, ranch, and sun-dried tomato salad then serve it either hot on top of zoodles or cold on top of a bed of lettuce? Fortunately",
+    "pv": 97
+  },
+  "sourceHtml": "pages/keto-chicken-bacon-ranch-sun-dried-tomato-salad.html",
+  "scrapedAt": "2026-11-07T08:27:44.459Z"
+}

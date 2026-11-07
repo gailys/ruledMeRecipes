@@ -1,0 +1,287 @@
+{
+  "id": "ruled-45145",
+  "slug": "keto-blueberry-smoothie",
+  "title": "Keto Blueberry Smoothie",
+  "url": "https://www.ruled.me/keto-blueberry-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Blueberry Smoothie. The serving comes out to be 485 calories, 37.5g fats, 7.9g net carbs, and 26.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "485 kcal",
+    "fatContent": "37.5 g",
+    "proteinContent": "26.3 g",
+    "carbohydrateContent": "7.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 485,
+    "netCarbsGrams": 7.9,
+    "proteinGrams": 26.3,
+    "fatGrams": 37.5
+  },
+  "ingredients": [
+    "3/4 cup unsweetened almond milk",
+    "1/4 cup heavy cream",
+    "1/4 cup blueberries",
+    "1 teaspoon vanilla extract",
+    "1 tablespoon mct oil",
+    "30 gram low-carb protein powder"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-smoothie/#wprm-recipe-53737-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-1.jpg"
+    },
+    {
+      "text": "Put everything into the blender and blend until you get your desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-smoothie/#wprm-recipe-53737-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-2.jpg"
+    },
+    {
+      "text": "Serve immediately.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-smoothie/#wprm-recipe-53737-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/8e36843cc2eb46eb4b63d9a6.jpg",
+      "archived": true,
+      "originalPath": "images/8e36843cc2eb46eb4b63d9a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Featured.jpg",
+      "path": "images/35f4ec480a1c29c54147dbf5.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/a760dcb0a44a46b52a3c9d74.jpg",
+      "archived": true,
+      "originalPath": "images/a760dcb0a44a46b52a3c9d74.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/9048c0db5e325e4d043c80dc.jpg",
+      "archived": true,
+      "originalPath": "images/9048c0db5e325e4d043c80dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/7efc447e7fd60a87ff97e082.jpg",
+      "archived": true,
+      "originalPath": "images/7efc447e7fd60a87ff97e082.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/ee0017ca3648d7300af18b83.jpg",
+      "archived": true,
+      "originalPath": "images/ee0017ca3648d7300af18b83.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/8281658b637edd6bf3b20181.avif",
+      "archived": true,
+      "originalPath": "images/8281658b637edd6bf3b20181.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/537949a8e4a93a93cb0ab12d.jpg",
+      "archived": true,
+      "originalPath": "images/537949a8e4a93a93cb0ab12d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b60137612f565d1741acd478.jpg",
+      "archived": true,
+      "originalPath": "images/b60137612f565d1741acd478.jpg"
+    }
+  ],
+  "featuredImage": "images/35f4ec480a1c29c54147dbf5.webp",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Blueberry Smoothie",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Keto Blueberry Smoothie. The serving comes out to be 485 calories, 37.5g fats, 7.9g net carbs, and 26.3g protein.",
+    "datePublished": "2021-04-22T09:00:03+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Featured.jpg"
+    ],
+    "video": {
+      "name": "Quick & Easy Keto Smoothie Recipe [Made with Blueberries]",
+      "description": "I love making this keto blueberry smoothie on mornings I feel like I am running behind and don’t have time to make breakfast. Putting protein powder in this smoothie really helps to keep me full until lunchtime and transforms this into a full meal replacement.\n\nBlueberries are a superfood, so this smoothie has some great nutritional properties. Blueberries are a great source of vitamin C and a fantastic source of antioxidants, too. Instead of making a plain protein shake after working out, you could make this instead - though I still prefer it for breakfast!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n3/4 cup unsweetened almond milk\n1/4 cup heavy cream\n1/4 cup blueberries\n1 teaspoon vanilla extract\n1 tablespoon MCT oil\n30 gram low-carb protein powder\n\nNutrition Summary: This makes a total of 1 serving of Keto Blueberry Smoothie. Each serving comes out to be 485 calories, 37.5g fat, 7.9g net carbs, and 26.3g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-08-02T14:00:07+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 30289
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 673
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 23
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JUgEjlmcwww/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JUgEjlmcwww?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=JUgEjlmcwww",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup unsweetened almond milk",
+      "1/4 cup heavy cream",
+      "1/4 cup blueberries",
+      "1 teaspoon vanilla extract",
+      "1 tablespoon mct oil",
+      "30 gram low-carb protein powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-blueberry-smoothie/#wprm-recipe-53737-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put everything into the blender and blend until you get your desired consistency.",
+        "name": "Put everything into the blender and blend until you get your desired consistency.",
+        "url": "https://www.ruled.me/keto-blueberry-smoothie/#wprm-recipe-53737-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately.",
+        "name": "Serve immediately.",
+        "url": "https://www.ruled.me/keto-blueberry-smoothie/#wprm-recipe-53737-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "15-minute, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "485 kcal",
+      "fatContent": "37.5 g",
+      "proteinContent": "26.3 g",
+      "carbohydrateContent": "7.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-blueberry-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-blueberry-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-blueberry-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 45145,
+    "rid": 53737,
+    "t": "Keto Blueberry Smoothie",
+    "u": "/keto-blueberry-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Blueberry-Smoothie-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.9,
+    "cal": 485,
+    "pr": 26.3,
+    "fa": 37.5,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2021-04-22",
+    "cm": 6,
+    "ex": "I love making this keto blueberry smoothie on mornings I feel like I am running behind and don't have time to make breakfast. Putting protein powder in this smoothie really helps to keep me full",
+    "pv": 669
+  },
+  "sourceHtml": "pages/keto-blueberry-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:12.381Z"
+}

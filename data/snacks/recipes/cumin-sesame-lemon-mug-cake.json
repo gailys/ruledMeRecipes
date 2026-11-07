@@ -1,0 +1,213 @@
+{
+  "id": "ruled-11761",
+  "slug": "cumin-sesame-lemon-mug-cake",
+  "title": "Lemon Mug Cake with Cumin & Sesame",
+  "url": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Lemon Mug Cake with Cumin & Sesame. The serving comes out to be 407 calories, 38.8g fats, 3.8g net carbs, and 11g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407 kcal",
+    "fatContent": "38.8 g",
+    "proteinContent": "11 g",
+    "carbohydrateContent": "3.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 407,
+    "netCarbsGrams": 3.8,
+    "proteinGrams": 11,
+    "fatGrams": 38.8
+  },
+  "ingredients": [
+    "1 large egg",
+    "2 tablespoon almond flour",
+    "2 tablespoon butter",
+    "1/2 teaspoon baking powder",
+    "1 tablespoon sesame seeds",
+    "1 teaspoon lemon juice",
+    "1/4 teaspoon cumin",
+    "1/4 teaspoon black pepper",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Get a mug ready! Mix the egg, almond flour, butter, baking powder, sesame seeds, lemon juice, cumin, black pepper, and a pinch of salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/#wprm-recipe-50993-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4688.jpg"
+    },
+    {
+      "text": "Microwave for 75 seconds on high (power level 10). When finished, lightly tap the mug upside down against a plate to slide it out. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/#wprm-recipe-50993-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemon.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemon.jpg",
+      "path": "../../nenaudojama/snacks/images/90a295dcdfedce2ecc19f252.jpg",
+      "archived": true,
+      "originalPath": "images/90a295dcdfedce2ecc19f252.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4688.jpg",
+      "path": "../../nenaudojama/snacks/images/2b40a4eb134d3930267e45e9.jpg",
+      "archived": true,
+      "originalPath": "images/2b40a4eb134d3930267e45e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemonSecond.jpg",
+      "path": "../../nenaudojama/snacks/images/6de8aec431a98d551af95e37.avif",
+      "archived": true,
+      "originalPath": "images/6de8aec431a98d551af95e37.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4688-524x350.jpg",
+      "path": "../../nenaudojama/snacks/images/8f6ab82b8d2b5cadd5fe1daa.jpg",
+      "archived": true,
+      "originalPath": "images/8f6ab82b8d2b5cadd5fe1daa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemon-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4669c427b1b447cff0c3c058.jpg",
+      "archived": true,
+      "originalPath": "images/4669c427b1b447cff0c3c058.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/90a295dcdfedce2ecc19f252.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Lemon Mug Cake with Cumin &amp; Sesame",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Lemon Mug Cake with Cumin &amp; Sesame. The serving comes out to be 407 calories, 38.8g fats, 3.8g net carbs, and 11g protein.",
+    "datePublished": "2014-03-24T21:55:05+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemon.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 large egg",
+      "2 tablespoon almond flour",
+      "2 tablespoon butter",
+      "1/2 teaspoon baking powder",
+      "1 tablespoon sesame seeds",
+      "1 teaspoon lemon juice",
+      "1/4 teaspoon cumin",
+      "1/4 teaspoon black pepper",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get a mug ready! Mix the egg, almond flour, butter, baking powder, sesame seeds, lemon juice, cumin, black pepper, and a pinch of salt.",
+        "name": "Get a mug ready! Mix the egg, almond flour, butter, baking powder, sesame seeds, lemon juice, cumin, black pepper, and a pinch of salt.",
+        "url": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/#wprm-recipe-50993-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4688.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave for 75 seconds on high (power level 10). When finished, lightly tap the mug upside down against a plate to slide it out. Enjoy!",
+        "name": "Microwave for 75 seconds on high (power level 10). When finished, lightly tap the mug upside down against a plate to slide it out. Enjoy!",
+        "url": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/#wprm-recipe-50993-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemon.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "407 kcal",
+      "fatContent": "38.8 g",
+      "proteinContent": "11 g",
+      "carbohydrateContent": "3.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cumin-sesame-lemon-mug-cake/"
+  },
+  "sourceIndex": {
+    "id": 11761,
+    "rid": 50993,
+    "t": "Cumin Sesame Lemon Mug Cake",
+    "u": "/cumin-sesame-lemon-mug-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/SesameCuminLemon.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.8,
+    "cal": 407,
+    "pr": 11,
+    "fa": 38.8,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian"
+    ],
+    "d": "2014-03-24",
+    "cm": 2,
+    "ex": "Cumin is one of my all-time favorite spices to use with meat, but without the meat portion it seems weird to use. I had to come up with something that could accent the earthy qualities needed for",
+    "pv": 52
+  },
+  "sourceHtml": "pages/cumin-sesame-lemon-mug-cake.html",
+  "scrapedAt": "2026-11-07T08:31:37.607Z"
+}

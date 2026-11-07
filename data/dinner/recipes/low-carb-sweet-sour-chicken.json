@@ -1,0 +1,438 @@
+{
+  "id": "ruled-4798",
+  "slug": "low-carb-sweet-sour-chicken",
+  "title": "Low Carb Sweet & Sour Chicken",
+  "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Low Carb Sweet & Sour Chicken. Each serving comes out to be 477 calories, 28.4g fats, 3.6g net carbs, and 44.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "477 kcal",
+    "fatContent": "28.4 g",
+    "proteinContent": "44.9 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 477,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 44.9,
+    "fatGrams": 28.4
+  },
+  "ingredients": [
+    "14 ounce boneless, skinless chicken breast",
+    "1 cup pork rinds (crushed)",
+    "1/3 cup parmesan cheese",
+    "1/2 cup almond flour",
+    "2 large egg (beaten)",
+    "2 tablespoon olive oil",
+    "1 tablespoon coconut oil",
+    "1 teaspoon kosher salt",
+    "1 teaspoon black pepper",
+    "1/2 cup erythritol",
+    "1/2 cup unseasoned rice vinegar",
+    "4 tablespoon low-carb ketchup",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "1 teaspoon garlic powder"
+  ],
+  "instructions": [
+    {
+      "text": "Cube chicken into ~1″ chunks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/img_4114.jpg"
+    },
+    {
+      "text": "In a food processor, combine pork rinds, parmesan cheese, and almond flour. Grind until a meal-like substance is formed. Then, dip the chicken in the egg and coat in the pork rind mixture and set on a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/img_4120.jpg"
+    },
+    {
+      "text": "Heat the oils in a cast iron skillet over medium heat. Once hot, add the chicken (in small batches) and cook.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/img_4125.jpg"
+    },
+    {
+      "text": "In the meantime, combine all the sauce ingredients into a saucepan and whisk over high heat while it boils down.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/img_4137.jpg"
+    },
+    {
+      "text": "Once the chicken is cooked, remove from the pan and continue cooking the rest of your batches.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/img_4147.jpg"
+    },
+    {
+      "text": "In a bowl, pour the sauce over the chicken and mix together to coat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/img_4148.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "high-protein",
+    "keto",
+    "low-carb",
+    "poultry",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/sweetsourchicken.jpg",
+      "path": "images/c42c77605efbf86ed2e0aea3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4114.jpg",
+      "path": "../../nenaudojama/dinner/images/48c36260413aff3ee1fd2ddb.avif",
+      "archived": true,
+      "originalPath": "images/48c36260413aff3ee1fd2ddb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4120.jpg",
+      "path": "../../nenaudojama/dinner/images/56e1349ce436c921fb620d76.jpg",
+      "archived": true,
+      "originalPath": "images/56e1349ce436c921fb620d76.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4125.jpg",
+      "path": "../../nenaudojama/dinner/images/b375b748aceb9ecbcb8b812f.jpg",
+      "archived": true,
+      "originalPath": "images/b375b748aceb9ecbcb8b812f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4137.jpg",
+      "path": "../../nenaudojama/dinner/images/622beb07bfee575d40cdab57.avif",
+      "archived": true,
+      "originalPath": "images/622beb07bfee575d40cdab57.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4147.jpg",
+      "path": "../../nenaudojama/dinner/images/1b6f3099caabef60a4b005f6.avif",
+      "archived": true,
+      "originalPath": "images/1b6f3099caabef60a4b005f6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4148.jpg",
+      "path": "../../nenaudojama/dinner/images/d047fcf95e358b02000985f0.avif",
+      "archived": true,
+      "originalPath": "images/d047fcf95e358b02000985f0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/sweetsourchickensecond.jpg",
+      "path": "../../nenaudojama/dinner/images/b43f68266aa1dd266200cbd0.avif",
+      "archived": true,
+      "originalPath": "images/b43f68266aa1dd266200cbd0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/NowFoodsErythritol.jpg",
+      "path": "../../nenaudojama/dinner/images/1d0f2a501b5ae081c169bacf.avif",
+      "archived": true,
+      "originalPath": "images/1d0f2a501b5ae081c169bacf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_174418.jpg",
+      "path": "../../nenaudojama/dinner/images/7ae77b929bf3166e47c5f031.avif",
+      "archived": true,
+      "originalPath": "images/7ae77b929bf3166e47c5f031.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_175218.jpg",
+      "path": "../../nenaudojama/dinner/images/f220ad07662ca274c64c124f.avif",
+      "archived": true,
+      "originalPath": "images/f220ad07662ca274c64c124f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_175509.jpg",
+      "path": "../../nenaudojama/dinner/images/523a8b96db157a92d89c96e9.jpg",
+      "archived": true,
+      "originalPath": "images/523a8b96db157a92d89c96e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_175726.jpg",
+      "path": "../../nenaudojama/dinner/images/80cc38f0e61500d9127f41ea.avif",
+      "archived": true,
+      "originalPath": "images/80cc38f0e61500d9127f41ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_180245.jpg",
+      "path": "../../nenaudojama/dinner/images/bd7a99536cd72d0a28f44565.jpg",
+      "archived": true,
+      "originalPath": "images/bd7a99536cd72d0a28f44565.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_181410.jpg",
+      "path": "../../nenaudojama/dinner/images/6070521a8623857db7cca000.avif",
+      "archived": true,
+      "originalPath": "images/6070521a8623857db7cca000.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_182008.jpg",
+      "path": "../../nenaudojama/dinner/images/28a299c1f9748588fd94077e.jpg",
+      "archived": true,
+      "originalPath": "images/28a299c1f9748588fd94077e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_182405.jpg",
+      "path": "../../nenaudojama/dinner/images/f23ef951dadd33a72915eb69.avif",
+      "archived": true,
+      "originalPath": "images/f23ef951dadd33a72915eb69.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_182621.jpg",
+      "path": "../../nenaudojama/dinner/images/a01af862e1a4fb31d84cfcb6.avif",
+      "archived": true,
+      "originalPath": "images/a01af862e1a4fb31d84cfcb6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_182713.jpg",
+      "path": "../../nenaudojama/dinner/images/a070806555cd755d59c81cec.avif",
+      "archived": true,
+      "originalPath": "images/a070806555cd755d59c81cec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_182836.jpg",
+      "path": "../../nenaudojama/dinner/images/26353b594947709fb637e8cf.jpg",
+      "archived": true,
+      "originalPath": "images/26353b594947709fb637e8cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_191834.jpg",
+      "path": "../../nenaudojama/dinner/images/f7377e98a6cb6afcc9c8131f.jpg",
+      "archived": true,
+      "originalPath": "images/f7377e98a6cb6afcc9c8131f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_191919.jpg",
+      "path": "../../nenaudojama/dinner/images/ba86b69e61ccd4efd2476d0f.jpg",
+      "archived": true,
+      "originalPath": "images/ba86b69e61ccd4efd2476d0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_192002.jpg",
+      "path": "../../nenaudojama/dinner/images/6b06bcc612720b195460aa8d.jpg",
+      "archived": true,
+      "originalPath": "images/6b06bcc612720b195460aa8d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/20131220_193528.jpg",
+      "path": "../../nenaudojama/dinner/images/e0853e90e7d00479e6e534ad.jpg",
+      "archived": true,
+      "originalPath": "images/e0853e90e7d00479e6e534ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/sweetsourchickenlong.jpg",
+      "path": "../../nenaudojama/dinner/images/5261dce85d6d15dda8a9ad07.avif",
+      "archived": true,
+      "originalPath": "images/5261dce85d6d15dda8a9ad07.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4114-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/72bb0914cc7451543cf87a13.avif",
+      "archived": true,
+      "originalPath": "images/72bb0914cc7451543cf87a13.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4120-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bf2da4b3521863b5350b9d29.avif",
+      "archived": true,
+      "originalPath": "images/bf2da4b3521863b5350b9d29.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4125-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b79910c15f458baa7caba591.avif",
+      "archived": true,
+      "originalPath": "images/b79910c15f458baa7caba591.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4137-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/856f2b0d7524a87a0c0863ff.avif",
+      "archived": true,
+      "originalPath": "images/856f2b0d7524a87a0c0863ff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4147-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c82f89e6cb217442a28fba8c.avif",
+      "archived": true,
+      "originalPath": "images/c82f89e6cb217442a28fba8c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/img_4148-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/254994b51ce7931fb6471513.jpg",
+      "archived": true,
+      "originalPath": "images/254994b51ce7931fb6471513.jpg"
+    }
+  ],
+  "featuredImage": "images/c42c77605efbf86ed2e0aea3.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Sweet &amp; Sour Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Low Carb Sweet &amp; Sour Chicken. Each serving comes out to be 477 calories, 28.4g fats, 3.6g net carbs, and 44.9g protein.",
+    "datePublished": "2013-12-21T16:00:52+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/sweetsourchicken.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "14 ounce boneless, skinless chicken breast",
+      "1 cup pork rinds (crushed)",
+      "1/3 cup parmesan cheese",
+      "1/2 cup almond flour",
+      "2 large egg (beaten)",
+      "2 tablespoon olive oil",
+      "1 tablespoon coconut oil",
+      "1 teaspoon kosher salt",
+      "1 teaspoon black pepper",
+      "1/2 cup erythritol",
+      "1/2 cup unseasoned rice vinegar",
+      "4 tablespoon low-carb ketchup",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "1 teaspoon garlic powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cube chicken into ~1″ chunks.",
+        "name": "Cube chicken into ~1″ chunks.",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/img_4114.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, combine pork rinds, parmesan cheese, and almond flour. Grind until a meal-like substance is formed. Then, dip the chicken in the egg and coat in the pork rind mixture and set on a plate.",
+        "name": "In a food processor, combine pork rinds, parmesan cheese, and almond flour. Grind until a meal-like substance is formed. Then, dip the chicken in the egg and coat in the pork rind mixture and set on a plate.",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/img_4120.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the oils in a cast iron skillet over medium heat. Once hot, add the chicken (in small batches) and cook.",
+        "name": "Heat the oils in a cast iron skillet over medium heat. Once hot, add the chicken (in small batches) and cook.",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/img_4125.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the meantime, combine all the sauce ingredients into a saucepan and whisk  over high heat while it boils down.",
+        "name": "In the meantime, combine all the sauce ingredients into a saucepan and whisk  over high heat while it boils down.",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/img_4137.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the chicken is cooked, remove from the pan and continue cooking the rest of your batches.",
+        "name": "Once the chicken is cooked, remove from the pan and continue cooking the rest of your batches.",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/img_4147.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, pour the sauce over the chicken and mix together to coat.",
+        "name": "In a bowl, pour the sauce over the chicken and mix together to coat.",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/img_4148.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/low-carb-sweet-sour-chicken/#wprm-recipe-50637-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Chinese"
+    ],
+    "keywords": "high-protein, keto, low-carb, poultry, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "477 kcal",
+      "fatContent": "28.4 g",
+      "proteinContent": "44.9 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-sweet-sour-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-sweet-sour-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-sweet-sour-chicken/"
+  },
+  "sourceIndex": {
+    "id": 4798,
+    "rid": 50637,
+    "t": "Low Carb Sweet & Sour Chicken",
+    "u": "/low-carb-sweet-sour-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/sweetsourchicken.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.6,
+    "cal": 477,
+    "pr": 44.9,
+    "fa": 28.4,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "high-protein",
+      "keto",
+      "low-carb",
+      "poultry",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 14,
+    "fk": [
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2013-12-21",
+    "cm": 76,
+    "ex": "Chinese food has been a weakness for me since I first tasted it. Fried rice, sweet and sour chicken, general tso's, chow mein. Everything I can't have on a ketogenic diet. If you're missing the fried",
+    "pv": 1206
+  },
+  "sourceHtml": "pages/low-carb-sweet-sour-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:45.302Z"
+}

@@ -1,0 +1,315 @@
+{
+  "id": "ruled-24608",
+  "slug": "southwestern-pork-stew",
+  "title": "Mexican Pork Stew",
+  "url": "https://www.ruled.me/southwestern-pork-stew/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings. Each serving comes out to be 386 Calories, 28.9g Fats, 6.4g Net Carbs, and 19.9g Protein. Feel free to add butter or sour cream on the finish to extra fats.",
+  "servings": 4,
+  "yield": [
+    "4"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT360M",
+  "totalTime": "PT380M",
+  "totalMinutes": 380,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "386 kcal",
+    "fatContent": "28.9 g",
+    "proteinContent": "19.9 g",
+    "carbohydrateContent": "6.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 386,
+    "netCarbsGrams": 6.4,
+    "proteinGrams": 19.9,
+    "fatGrams": 28.9
+  },
+  "ingredients": [
+    "1 lb. Cooked Pork Shoulder (sliced (Recipe Here))",
+    "2 tsp. Chili Powder",
+    "2 tsp. Cumin",
+    "1 tsp. Minced Garlic",
+    "1/2 tsp. Salt",
+    "1/2 tsp. Pepper",
+    "1 tsp. Paprika",
+    "1 tsp. Oregano",
+    "1/4 tsp. Cinnamon",
+    "2 Bay Leafs",
+    "6 oz. Button Mushrooms",
+    "1/2 sliced Jalapeno",
+    "1/2 medium Onion",
+    "1/2 Green Bell Pepper (sliced)",
+    "1/2 Red Bell Pepper (sliced)",
+    "Juice 1/2 Lime (to finish)",
+    "2 cups Gelatinous Bone Broth",
+    "2 cup Chicken Broth",
+    "1/2 cup Strong Coffee",
+    "1/4 cup Tomato Paste"
+  ],
+  "instructions": [
+    {
+      "text": "Chop vegetables and saute in a pan over high heat with the olive oil. Once aromatic, remove from the heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/southwestern-pork-stew/#wprm-recipe-51395-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4830.jpg"
+    },
+    {
+      "text": "Chop pork and add to slow cooker along with mushrooms, bone broth, chicken broth, and coffee.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/southwestern-pork-stew/#wprm-recipe-51395-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4848.jpg"
+    },
+    {
+      "text": "Add spices and other vegetables to the slow cooker and mix together. Replace lid and cook on low for 4-10 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/southwestern-pork-stew/#wprm-recipe-51395-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4873.jpg"
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "slow-cooker",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porkstew.jpg",
+      "path": "images/4e87db2d92462f7339962c75.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4830.jpg",
+      "path": "../../nenaudojama/dinner/images/bff0ac7a0cd36469411f6241.avif",
+      "archived": true,
+      "originalPath": "images/bff0ac7a0cd36469411f6241.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4848.jpg",
+      "path": "../../nenaudojama/dinner/images/b1d330887053a627e50b7fd2.jpg",
+      "archived": true,
+      "originalPath": "images/b1d330887053a627e50b7fd2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4873.jpg",
+      "path": "../../nenaudojama/dinner/images/59bcbfd2be3d11e1539cee88.jpg",
+      "archived": true,
+      "originalPath": "images/59bcbfd2be3d11e1539cee88.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porkstewsecond.jpg",
+      "path": "../../nenaudojama/dinner/images/a07bb05dafc17a458d6c07f9.avif",
+      "archived": true,
+      "originalPath": "images/a07bb05dafc17a458d6c07f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4834.jpg",
+      "path": "../../nenaudojama/dinner/images/24bb3782c64f11492b983a73.jpg",
+      "archived": true,
+      "originalPath": "images/24bb3782c64f11492b983a73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4837.jpg",
+      "path": "../../nenaudojama/dinner/images/fe05e21cfe730195729bef41.jpg",
+      "archived": true,
+      "originalPath": "images/fe05e21cfe730195729bef41.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4839.jpg",
+      "path": "../../nenaudojama/dinner/images/3f8149649e64cb953bf4d53c.jpg",
+      "archived": true,
+      "originalPath": "images/3f8149649e64cb953bf4d53c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4852.jpg",
+      "path": "../../nenaudojama/dinner/images/2339051a41d84382a87a7f76.jpg",
+      "archived": true,
+      "originalPath": "images/2339051a41d84382a87a7f76.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4866.jpg",
+      "path": "../../nenaudojama/dinner/images/b8d254423b00d0bc9f036e2b.jpg",
+      "archived": true,
+      "originalPath": "images/b8d254423b00d0bc9f036e2b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4880.jpg",
+      "path": "../../nenaudojama/dinner/images/cf603e7beb261f0ae1e3bd06.jpg",
+      "archived": true,
+      "originalPath": "images/cf603e7beb261f0ae1e3bd06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porkstewlong.jpg",
+      "path": "../../nenaudojama/dinner/images/d6fbc38225c0c113cc43692c.jpg",
+      "archived": true,
+      "originalPath": "images/d6fbc38225c0c113cc43692c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4830-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f871f142bb275c91f0066d6e.jpg",
+      "archived": true,
+      "originalPath": "images/f871f142bb275c91f0066d6e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4848-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6475b4a3a2b28b91bdf82579.jpg",
+      "archived": true,
+      "originalPath": "images/6475b4a3a2b28b91bdf82579.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4873-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1d83282a8ab9d256a8f6d900.jpg",
+      "archived": true,
+      "originalPath": "images/1d83282a8ab9d256a8f6d900.jpg"
+    }
+  ],
+  "featuredImage": "images/4e87db2d92462f7339962c75.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mexican Pork Stew",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings. Each serving comes out to be 386 Calories, 28.9g Fats, 6.4g Net Carbs, and 19.9g Protein. Feel free to add butter or sour cream on the finish to extra fats.",
+    "datePublished": "2014-09-13T15:15:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/porkstew.jpg"
+    ],
+    "recipeYield": [
+      "4"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT360M",
+    "totalTime": "PT380M",
+    "recipeIngredient": [
+      "1 lb. Cooked Pork Shoulder (sliced (Recipe Here))",
+      "2 tsp. Chili Powder",
+      "2 tsp. Cumin",
+      "1 tsp. Minced Garlic",
+      "1/2 tsp. Salt",
+      "1/2 tsp. Pepper",
+      "1 tsp. Paprika",
+      "1 tsp. Oregano",
+      "1/4 tsp. Cinnamon",
+      "2 Bay Leafs",
+      "6 oz. Button Mushrooms",
+      "1/2 sliced Jalapeno",
+      "1/2 medium Onion",
+      "1/2 Green Bell Pepper (sliced)",
+      "1/2 Red Bell Pepper (sliced)",
+      "Juice 1/2 Lime (to finish)",
+      "2 cups Gelatinous Bone Broth",
+      "2 cup Chicken Broth",
+      "1/2 cup Strong Coffee",
+      "1/4 cup Tomato Paste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop vegetables and saute in a pan over high heat with the olive oil. Once aromatic, remove from the heat.",
+        "name": "Chop vegetables and saute in a pan over high heat with the olive oil. Once aromatic, remove from the heat.",
+        "url": "https://www.ruled.me/southwestern-pork-stew/#wprm-recipe-51395-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4830.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop pork and add to slow cooker along with mushrooms, bone broth, chicken broth, and coffee.",
+        "name": "Chop pork and add to slow cooker along with mushrooms, bone broth, chicken broth, and coffee.",
+        "url": "https://www.ruled.me/southwestern-pork-stew/#wprm-recipe-51395-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4848.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add spices and other vegetables to the slow cooker and mix together. Replace lid and cook on low for 4-10 hours.",
+        "name": "Add spices and other vegetables to the slow cooker and mix together. Replace lid and cook on low for 4-10 hours.",
+        "url": "https://www.ruled.me/southwestern-pork-stew/#wprm-recipe-51395-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4873.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "batch-cooking, comfort-food, dairy-free, egg-free, fall, gluten-free, keto, low-carb, nut-free, pork, slow cooker, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "386 kcal",
+      "fatContent": "28.9 g",
+      "proteinContent": "19.9 g",
+      "carbohydrateContent": "6.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/southwestern-pork-stew/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/southwestern-pork-stew/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/southwestern-pork-stew/"
+  },
+  "sourceIndex": {
+    "id": 24608,
+    "rid": 51395,
+    "t": "Southwestern Pork Stew",
+    "u": "/southwestern-pork-stew/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/porkstew.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.4,
+    "cal": 386,
+    "pr": 19.9,
+    "fa": 28.9,
+    "tm": 380,
+    "sv": 4,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "slow-cooker",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 20,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "pork"
+    ],
+    "d": "2014-09-13",
+    "cm": 3,
+    "ex": "Here's a hearty stew that will fill you up while it warms your belly - perfect for this time of year! Many places are having very early frost warnings and snow this year (looking at you, Canada!)",
+    "pv": 399
+  },
+  "sourceHtml": "pages/southwestern-pork-stew.html",
+  "scrapedAt": "2026-11-07T08:27:45.011Z"
+}

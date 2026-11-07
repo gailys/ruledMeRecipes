@@ -1,0 +1,332 @@
+{
+  "id": "ruled-49811",
+  "slug": "4-ingredient-keto-protein-ice-cream",
+  "title": "4-Ingredient Keto Protein Ice Cream",
+  "url": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 3 servings of 4-Ingredient Keto Protein Ice Cream. Each serving comes out to be 324 calories, 28.5g fats, 4.2g net carbs, and 15.3g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT250M",
+  "cookTime": "PT0M",
+  "totalTime": "PT250M",
+  "totalMinutes": 250,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "324 kcal",
+    "fatContent": "28.5 g",
+    "proteinContent": "15.3 g",
+    "carbohydrateContent": "4.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 324,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 15.3,
+    "fatGrams": 28.5
+  },
+  "ingredients": [
+    "14 ounce canned coconut milk",
+    "1/2 cup low-carb protein powder",
+    "2 tablespoon allulose",
+    "1/2 teaspoon xanthan gum"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-1.jpg"
+    },
+    {
+      "text": "Add all ingredients into a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-2.jpg"
+    },
+    {
+      "text": "Blend until smooth and creamy. This may take a bit of time, so keep an eye on the texture. About 3-4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-4.jpg"
+    },
+    {
+      "text": "Pour ice cream mixture into a loaf pan, ramekin, or freezer-safe container. Put into the freezer for at least 4 hours, stirring every 30 or so minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-5.jpg"
+    },
+    {
+      "text": "Once ice cream is at the consistency you like, serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/b7a452157084104094b2c474.avif",
+      "archived": true,
+      "originalPath": "images/b7a452157084104094b2c474.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Featured.jpg",
+      "path": "images/15b577bf5a7441f11918a444.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-1.jpg",
+      "path": "../../nenaudojama/dessert/images/ea29b31f1b09b90c6bf7ecc2.jpg",
+      "archived": true,
+      "originalPath": "images/ea29b31f1b09b90c6bf7ecc2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-2.jpg",
+      "path": "../../nenaudojama/dessert/images/5a1b831ebf19a5f4858d8e5e.jpg",
+      "archived": true,
+      "originalPath": "images/5a1b831ebf19a5f4858d8e5e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-4.jpg",
+      "path": "../../nenaudojama/dessert/images/565f25683b7df849310b50df.jpg",
+      "archived": true,
+      "originalPath": "images/565f25683b7df849310b50df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-5.jpg",
+      "path": "../../nenaudojama/dessert/images/4993cfc02b844a54bc2d7299.jpg",
+      "archived": true,
+      "originalPath": "images/4993cfc02b844a54bc2d7299.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Second.jpg",
+      "path": "../../nenaudojama/dessert/images/e5d8e202fbb606cbac0e2cf9.jpg",
+      "archived": true,
+      "originalPath": "images/e5d8e202fbb606cbac0e2cf9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Long.jpg",
+      "path": "../../nenaudojama/dessert/images/fbdbae6bfb539ec0eccf5af0.jpg",
+      "archived": true,
+      "originalPath": "images/fbdbae6bfb539ec0eccf5af0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/926a9ced1cef8df75b948db7.jpg",
+      "archived": true,
+      "originalPath": "images/926a9ced1cef8df75b948db7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f317b9af5320f3bb04f99170.jpg",
+      "archived": true,
+      "originalPath": "images/f317b9af5320f3bb04f99170.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/127e1551ec33305f353fe367.jpg",
+      "archived": true,
+      "originalPath": "images/127e1551ec33305f353fe367.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5c43a29c921907aa8ab64028.jpg",
+      "archived": true,
+      "originalPath": "images/5c43a29c921907aa8ab64028.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c1f5cc6c8004f4db36f686fb.jpg",
+      "archived": true,
+      "originalPath": "images/c1f5cc6c8004f4db36f686fb.jpg"
+    }
+  ],
+  "featuredImage": "images/15b577bf5a7441f11918a444.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "4-Ingredient Keto Protein Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of 4-Ingredient Keto Protein Ice Cream. Each serving comes out to be 324 calories, 28.5g fats, 4.2g net carbs, and 15.3g protein.",
+    "datePublished": "2024-01-23T10:08:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Featured.jpg"
+    ],
+    "video": {
+      "name": "4-Ingredient Keto Protein Ice Cream",
+      "description": "Despite popular belief, ice cream can be low in carbs and sugar. Combining the creamy notes of coconut milk, decadent vanilla protein powder, and some allulose for much-needed sweetness creates a deceptively easy yet moreish keto protein ice cream. Did we also mention it’s only four ingredients?\n\nIf you’ve never made ice cream before, it may seem overwhelming, with numerous kitchen gadgets required. However, this recipe only requires your everyday blender or food processor and several ingredients that you can find in your local supermarket.\n\nSimply blend the ingredients together, keeping an eye out to aim for a thick and creamy consistency before transferring the mixture to a pan and placing it in the freezer. If the mix is too watery, the mixture won’t set properly in the freezer.\n\nFor those who are coconut lovers, you’ll be happy to note that the addition of coconut milk creates a lovely tropical flavor without being overpowering (thanks to the vanilla protein powder!), balancing out the sweetness of the allulose. If you only have unflavored protein powder on hand, simply add an additional 2 teaspoons of vanilla extract.\n\nIt’s easy to make this ice cream low-carb and vegan. Simply replace the whey protein with pea protein or another vegan-friendly protein powder of your choice. Don’t forget to lightly thaw the ice cream before scooping for that classic soft-serve style presentation!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n14 ounce canned coconut milk\n1/2 cup vanilla protein powder*\n2 tablespoon allulose\n1/2 teaspoon xanthan gum\n* If using unflavored protein powder, add 2 teaspoon vanilla extract\n\nNutrition Summary: This makes a total of 3 servings of 4-Ingredient Keto Protein Ice Cream. The serving comes out to be 324 calories, 28.5g fats, 4.2g net carbs, and 15.3g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-03-17T15:00:40+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M22S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 82020
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 439
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 42
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/haBG7ub848I/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/haBG7ub848I?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=haBG7ub848I",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT250M",
+    "totalTime": "PT250M",
+    "recipeIngredient": [
+      "14 ounce canned coconut milk",
+      "1/2 cup low-carb protein powder",
+      "2 tablespoon allulose",
+      "1/2 teaspoon xanthan gum"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients into a blender.",
+        "name": "Add all ingredients into a blender.",
+        "url": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend until smooth and creamy. This may take a bit of time, so keep an eye on the texture. About 3-4 minutes.",
+        "name": "Blend until smooth and creamy. This may take a bit of time, so keep an eye on the texture. About 3-4 minutes.",
+        "url": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour ice cream mixture into a loaf pan, ramekin, or freezer-safe container. Put into the freezer for at least 4 hours, stirring every 30 or so minutes.",
+        "name": "Pour ice cream mixture into a loaf pan, ramekin, or freezer-safe container. Put into the freezer for at least 4 hours, stirring every 30 or so minutes.",
+        "url": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once ice cream is at the consistency you like, serve and enjoy!",
+        "name": "Once ice cream is at the consistency you like, serve and enjoy!",
+        "url": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#wprm-recipe-54885-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, egg-free, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "324 kcal",
+      "fatContent": "28.5 g",
+      "proteinContent": "15.3 g",
+      "carbohydrateContent": "4.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/4-ingredient-keto-protein-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 49811,
+    "rid": 54885,
+    "t": "4-Ingredient Keto Protein Ice Cream",
+    "u": "/4-ingredient-keto-protein-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/3-Ingredient-Keto-Protein-Ice-Cream-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.2,
+    "cal": 324,
+    "pr": 15.3,
+    "fa": 28.5,
+    "tm": 250,
+    "sv": 3,
+    "kw": [
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 4,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2024-01-23",
+    "cm": 3,
+    "ex": "Despite popular belief, ice cream can be low in carbs and sugar. Combining the creamy notes of coconut milk, decadent vanilla protein powder, and some allulose for much-needed sweetness creates a",
+    "pv": 512
+  },
+  "sourceHtml": "pages/4-ingredient-keto-protein-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:46.902Z"
+}

@@ -1,0 +1,377 @@
+{
+  "id": "ruled-27615",
+  "slug": "low-carb-walnut-crusted-salmon",
+  "title": "Low-Carb Walnut-Crusted Salmon",
+  "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Low-Carb Walnut-Crusted Salmon. Each serving comes out to be 408 calories, 34.4g fats, 2g net carbs, and 22.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "408 kcal",
+    "fatContent": "34.4 g",
+    "proteinContent": "22.9 g",
+    "carbohydrateContent": "2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 408,
+    "netCarbsGrams": 2,
+    "proteinGrams": 22.9,
+    "fatGrams": 34.4
+  },
+  "ingredients": [
+    "1/2 cup walnuts",
+    "2 tablespoon low-carb maple syrup",
+    "1/4 teaspoon dried dill",
+    "1/2 tablespoon dijon mustard",
+    "salt and pepper (to taste)",
+    "1 tablespoon olive oil",
+    "6 ounce salmon"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Add the walnuts, maple syrup, dill, mustard, and salt and pepper to a food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/01Add-walnuts-to-processor.jpg"
+    },
+    {
+      "text": "Pulse until the mixture forms a thick paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/04Pulse.jpg"
+    },
+    {
+      "text": "Heat the olive oil in a pan or skillet over high heat. Pat the salmon dry with paper towels and place skin-side down in the pan. Let sear undisturbed for about 3 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/05Sear-salmon.jpg"
+    },
+    {
+      "text": "While the salmon is searing, spread the walnut mixture on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/06Add-walnut-mixture.jpg"
+    },
+    {
+      "text": "Transfer the salmon to a foil-lined baking tray and bake for about 8 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/07Transfer-to-oven.jpg"
+    },
+    {
+      "text": "Serve with side of choice and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "date-night",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/WalnutCrustedSalmon.jpg",
+      "path": "images/95ab8b2646d04ff8d7ee3106.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/01Add-walnuts-to-processor.jpg",
+      "path": "../../nenaudojama/dinner/images/58abe75239d6526cba9d4d26.avif",
+      "archived": true,
+      "originalPath": "images/58abe75239d6526cba9d4d26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/04Pulse.jpg",
+      "path": "../../nenaudojama/dinner/images/ffc5a9f21483e686973c865b.avif",
+      "archived": true,
+      "originalPath": "images/ffc5a9f21483e686973c865b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/05Sear-salmon.jpg",
+      "path": "../../nenaudojama/dinner/images/6beff995e8e56a789907e8dc.avif",
+      "archived": true,
+      "originalPath": "images/6beff995e8e56a789907e8dc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/06Add-walnut-mixture.jpg",
+      "path": "../../nenaudojama/dinner/images/562971657c5a1d8b11e03af0.avif",
+      "archived": true,
+      "originalPath": "images/562971657c5a1d8b11e03af0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/07Transfer-to-oven.jpg",
+      "path": "../../nenaudojama/dinner/images/e65efe183cbc0dd06a3e5a13.avif",
+      "archived": true,
+      "originalPath": "images/e65efe183cbc0dd06a3e5a13.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/WalnutCrustedSalmonSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/343c42d4eaf732aa804d3f63.avif",
+      "archived": true,
+      "originalPath": "images/343c42d4eaf732aa804d3f63.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/02Add-spices-and-maple.jpg",
+      "path": "../../nenaudojama/dinner/images/89c0ff2221a5e1d9c6a1f10b.jpg",
+      "archived": true,
+      "originalPath": "images/89c0ff2221a5e1d9c6a1f10b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/03Add-mustard.jpg",
+      "path": "../../nenaudojama/dinner/images/5c8d763d8a490b1190fa9b1b.avif",
+      "archived": true,
+      "originalPath": "images/5c8d763d8a490b1190fa9b1b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/Walnut-Crusted-Salmon-for-Pinterest.jpg",
+      "path": "../../nenaudojama/dinner/images/e944984f87aafdfb7ab62c60.avif",
+      "archived": true,
+      "originalPath": "images/e944984f87aafdfb7ab62c60.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/01Add-walnuts-to-processor-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3f00563060459c269b9fe6e1.jpg",
+      "archived": true,
+      "originalPath": "images/3f00563060459c269b9fe6e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/04Pulse-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e12b34e7fbf80418e3805664.jpg",
+      "archived": true,
+      "originalPath": "images/e12b34e7fbf80418e3805664.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/05Sear-salmon-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0adb0af79c37f3f2c4667bfe.avif",
+      "archived": true,
+      "originalPath": "images/0adb0af79c37f3f2c4667bfe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/06Add-walnut-mixture-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fa2ade9b6b14922bd309aad9.avif",
+      "archived": true,
+      "originalPath": "images/fa2ade9b6b14922bd309aad9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/07Transfer-to-oven-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b1747248c13a8c0d99d6ac96.jpg",
+      "archived": true,
+      "originalPath": "images/b1747248c13a8c0d99d6ac96.jpg"
+    }
+  ],
+  "featuredImage": "images/95ab8b2646d04ff8d7ee3106.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Walnut-Crusted Salmon",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Low-Carb Walnut-Crusted Salmon. Each serving comes out to be 408 calories, 34.4g fats, 2g net carbs, and 22.9g protein.",
+    "datePublished": "2015-12-10T16:29:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/12/WalnutCrustedSalmon.jpg"
+    ],
+    "video": {
+      "name": "6-Ingredient Keto Walnut Crusted Salmon [Easy Low-Carb Recipe]",
+      "description": "On a ketogenic diet, fatty fish has time and time again been proven to decrease cholesterol and help with health overall. It’s easy to prepare, it’s getting cheaper and easier to source good salmon, and it’s super tasty! Plus, it’s really quick to make – just under 15 minutes from start to finish if you have everything out and ready to start. There’s nothing like a quick and easy recipe that can get you through the busy weeknights, but it’s perfect for when guests come over too – it’s decadent and everyone loves it!\n\nGrowing up, salmon was not so much a delicacy as it was flaky, dry, and not-so-flavorful. As I started to delve into more dishes that involved salmon, having the chance to prepare it myself, I re-discovered that salmon really is a fantastic piece of fish. It should definitely be included in your meal rotation at least once every 2 weeks.\n\nBesides the health impact of omage 3 fatty acids, salmon just plain tastes great – in this dish it has all of the qualities you want: a crispy skin underneath, moist and juicy meat, and a delicious crust on top that acts as a sauce. The walnuts, mustard, and dill bring flavor elements of their own that add to the dish indefinitely. You mustn’t forgo making the walnut paste for the top. Enjoy!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1/2 cup Walnuts\n2 tbsp. Sugar Free Maple Syrup\n1/2 tbsp. Dijon Mustard\n1/4 tsp. Dill\n2 3 oz. Salmon Fillets\n1 tbsp. Olive Oil\nSalt and pepper to taste\n\nNutrition Summary: This makes a total of 2 serving of Low Carb Walnut Crusted Salmon. Each serving comes out to be 373 Calories, 43g Fats, 3g Net Carbs, and 20g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-01-14T17:00:07+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 2108
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 139
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 1
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BpWPCanhqAc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/BpWPCanhqAc?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=BpWPCanhqAc",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "1/2 cup walnuts",
+      "2 tablespoon low-carb maple syrup",
+      "1/4 teaspoon dried dill",
+      "1/2 tablespoon dijon mustard",
+      "salt and pepper (to taste)",
+      "1 tablespoon olive oil",
+      "6 ounce salmon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Add the walnuts, maple syrup, dill, mustard, and salt and pepper to a food processor.",
+        "name": "Preheat oven to 350F. Add the walnuts, maple syrup, dill, mustard, and salt and pepper to a food processor.",
+        "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/01Add-walnuts-to-processor.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pulse until the mixture forms a thick paste.",
+        "name": "Pulse until the mixture forms a thick paste.",
+        "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/04Pulse.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a pan or skillet over high heat. Pat the salmon dry with paper towels and place skin-side down in the pan. Let sear undisturbed for about 3 minutes.",
+        "name": "Heat the olive oil in a pan or skillet over high heat. Pat the salmon dry with paper towels and place skin-side down in the pan. Let sear undisturbed for about 3 minutes.",
+        "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/05Sear-salmon.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the salmon is searing, spread the walnut mixture on top.",
+        "name": "While the salmon is searing, spread the walnut mixture on top.",
+        "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/06Add-walnut-mixture.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the salmon to a foil-lined baking tray and bake for about 8 minutes.",
+        "name": "Transfer the salmon to a foil-lined baking tray and bake for about 8 minutes.",
+        "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/07Transfer-to-oven.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with side of choice and enjoy!",
+        "name": "Serve with side of choice and enjoy!",
+        "url": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#wprm-recipe-51867-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, date-night, egg-free, fish, gluten-free, high-fat, keto, low-carb, oven-baked, quick, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "408 kcal",
+      "fatContent": "34.4 g",
+      "proteinContent": "22.9 g",
+      "carbohydrateContent": "2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-walnut-crusted-salmon/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-walnut-crusted-salmon/"
+  },
+  "sourceIndex": {
+    "id": 27615,
+    "rid": 51867,
+    "t": "Low Carb Walnut Crusted Salmon",
+    "u": "/low-carb-walnut-crusted-salmon/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/12/WalnutCrustedSalmon.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2,
+    "cal": 408,
+    "pr": 22.9,
+    "fa": 34.4,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "date-night",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2015-12-10",
+    "cm": 2,
+    "ex": "On a ketogenic diet, fatty fish has time and time again been proven to decrease cholesterol and help with health overall. It's easy to prepare, it's getting cheaper and easier to source good salmon",
+    "pv": 178
+  },
+  "sourceHtml": "pages/low-carb-walnut-crusted-salmon.html",
+  "scrapedAt": "2026-11-07T08:27:44.832Z"
+}

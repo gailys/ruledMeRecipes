@@ -1,0 +1,484 @@
+{
+  "id": "ruled-24430",
+  "slug": "cinnamon-roll-oatmeal",
+  "title": "Cinnamon Roll \"Oatmeal\"",
+  "url": "https://www.ruled.me/cinnamon-roll-oatmeal/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Cinnamon Roll \"Oatmeal\". Each serving comes out to be 371 calories, 34.7g fats, 3.2g net carbs, and 5.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "371 kcal",
+    "fatContent": "34.7 g",
+    "proteinContent": "5.9 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 371,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 5.9,
+    "fatGrams": 34.7
+  },
+  "ingredients": [
+    "1/3 cup chia seeds",
+    "1/3 cup flaxseed meal",
+    "3 ounce cauliflower (riced)",
+    "1 cup pecans (crushed)",
+    "3 1/2 cup unsweetened carton coconut milk",
+    "1 1/2 teaspoon ground cinnamon",
+    "1 teaspoon maple extract",
+    "1/2 teaspoon vanilla extract",
+    "1/4 teaspoon ground nutmeg",
+    "1/4 teaspoon ground allspice",
+    "3 tablespoon erythritol (powdered)",
+    "10 drop liquid stevia (to taste)",
+    "1/4 cup heavy whipping cream",
+    "3 tablespoon butter",
+    "3 ounce cream cheese",
+    "1/8 teaspoon xanthan gum (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out the chia seeds and flaxseed meal and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3684.jpg"
+    },
+    {
+      "text": "Use a food processor to rice the cauliflower. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3696.jpg"
+    },
+    {
+      "text": "Add the raw pecans to a Ziploc bag and use a rolling pin to crush them. Make sure they're not too small; they should add a bit of texture to the dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3700.jpg"
+    },
+    {
+      "text": "Toast the pecans in a pan over low heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3716.jpg"
+    },
+    {
+      "text": "In a saucepan, heat up the coconut milk. Once warm, add in the cauliflower and continue to cook until it begins to boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3720.jpg"
+    },
+    {
+      "text": "Turn the heat down to medium-low and add in the cinnamon, maple extract, vanilla, nutmeg, and allspice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3723.jpg"
+    },
+    {
+      "text": "Use a spice grinder to powder the erythritol. (Let settle before removing lid of grinder)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3739.jpg"
+    },
+    {
+      "text": "Add the powdered erythritol and liquid stevia to the pan and stir them in well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3742.jpg"
+    },
+    {
+      "text": "Add the flaxseed meal and chia seeds to the pan and mix well. The mixture should begin to thicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3748.jpg"
+    },
+    {
+      "text": "Measure out the heavy cream, butter, and cream cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3751.jpg"
+    },
+    {
+      "text": "Once the mixture is hot again, add in the toasted pecans, cream, butter, and cream cheese. Mix together well. Optional: Whisk in a bit of xanthan gum for a thicker oatmeal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_3757.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-11",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "quick",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "stovetop",
+    "meal-prep",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/cinnamonrolloatmeal11.jpg",
+      "path": "images/60158efeea71734327160ac9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3684.jpg",
+      "path": "../../nenaudojama/breakfast/images/b3490d2dbc00540b2fd9fa12.avif",
+      "archived": true,
+      "originalPath": "images/b3490d2dbc00540b2fd9fa12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3696.jpg",
+      "path": "../../nenaudojama/breakfast/images/d9861689701694f1e293a7bd.avif",
+      "archived": true,
+      "originalPath": "images/d9861689701694f1e293a7bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3700.jpg",
+      "path": "../../nenaudojama/breakfast/images/7e80b13857bbc04a91e38736.jpg",
+      "archived": true,
+      "originalPath": "images/7e80b13857bbc04a91e38736.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3716.jpg",
+      "path": "../../nenaudojama/breakfast/images/c520511729998f58f1a4d908.avif",
+      "archived": true,
+      "originalPath": "images/c520511729998f58f1a4d908.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3720.jpg",
+      "path": "../../nenaudojama/breakfast/images/421607099946fd77def91ea3.jpg",
+      "archived": true,
+      "originalPath": "images/421607099946fd77def91ea3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3723.jpg",
+      "path": "../../nenaudojama/breakfast/images/28853e01601f0720d0c9e867.jpg",
+      "archived": true,
+      "originalPath": "images/28853e01601f0720d0c9e867.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3739.jpg",
+      "path": "../../nenaudojama/breakfast/images/eb2734ad51bea80ed9c444e1.avif",
+      "archived": true,
+      "originalPath": "images/eb2734ad51bea80ed9c444e1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3742.jpg",
+      "path": "../../nenaudojama/breakfast/images/a7a14fe3493730ee43c91d92.jpg",
+      "archived": true,
+      "originalPath": "images/a7a14fe3493730ee43c91d92.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3748.jpg",
+      "path": "../../nenaudojama/breakfast/images/9d3ca8d27a1b0a9c413c1f27.jpg",
+      "archived": true,
+      "originalPath": "images/9d3ca8d27a1b0a9c413c1f27.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3751.jpg",
+      "path": "../../nenaudojama/breakfast/images/96792fba14c89adb95dd4e8a.jpg",
+      "archived": true,
+      "originalPath": "images/96792fba14c89adb95dd4e8a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3757.jpg",
+      "path": "../../nenaudojama/breakfast/images/59956410621c0f76890589ab.jpg",
+      "archived": true,
+      "originalPath": "images/59956410621c0f76890589ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/cinnamonrolloatmealsecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/b3ef865f8d22f169d2b2569c.jpg",
+      "archived": true,
+      "originalPath": "images/b3ef865f8d22f169d2b2569c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/cinnamonrolloatmeallong.jpg",
+      "path": "../../nenaudojama/breakfast/images/fbc65295ceda46c7ecd88f36.jpg",
+      "archived": true,
+      "originalPath": "images/fbc65295ceda46c7ecd88f36.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3684-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/51a87e4008c7de35b15a90dc.jpg",
+      "archived": true,
+      "originalPath": "images/51a87e4008c7de35b15a90dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3696-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/29ecd731c959bc6b85988bd7.avif",
+      "archived": true,
+      "originalPath": "images/29ecd731c959bc6b85988bd7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3700-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/92d802ab316acb04c6ce7f52.jpg",
+      "archived": true,
+      "originalPath": "images/92d802ab316acb04c6ce7f52.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3716-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/844f4755b5698c0467eaa688.jpg",
+      "archived": true,
+      "originalPath": "images/844f4755b5698c0467eaa688.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3720-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5f79f70442097e3108a60c80.jpg",
+      "archived": true,
+      "originalPath": "images/5f79f70442097e3108a60c80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3723-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/316a8a1e01cd288b47ec9721.jpg",
+      "archived": true,
+      "originalPath": "images/316a8a1e01cd288b47ec9721.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3739-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c6769129e8ca465c24552066.avif",
+      "archived": true,
+      "originalPath": "images/c6769129e8ca465c24552066.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3742-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/af7a4b23b5d4df0b448f1405.avif",
+      "archived": true,
+      "originalPath": "images/af7a4b23b5d4df0b448f1405.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3748-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1056ebb23408017b778a24e0.jpg",
+      "archived": true,
+      "originalPath": "images/1056ebb23408017b778a24e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3751-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0f3c0e4d0ef34eb8cb705844.avif",
+      "archived": true,
+      "originalPath": "images/0f3c0e4d0ef34eb8cb705844.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_3757-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b45e1773900df3f14345a314.jpg",
+      "archived": true,
+      "originalPath": "images/b45e1773900df3f14345a314.jpg"
+    }
+  ],
+  "featuredImage": "images/60158efeea71734327160ac9.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cinnamon Roll \"Oatmeal\"",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Cinnamon Roll &quot;Oatmeal&quot;. Each serving comes out to be 371 calories, 34.7g fats, 3.2g net carbs, and 5.9g protein.",
+    "datePublished": "2014-08-29T15:37:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/cinnamonrolloatmeal11.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1/3 cup chia seeds",
+      "1/3 cup flaxseed meal",
+      "3 ounce cauliflower (riced)",
+      "1 cup pecans (crushed)",
+      "3 1/2 cup unsweetened carton coconut milk",
+      "1 1/2 teaspoon ground cinnamon",
+      "1 teaspoon maple extract",
+      "1/2 teaspoon vanilla extract",
+      "1/4 teaspoon ground nutmeg",
+      "1/4 teaspoon ground allspice",
+      "3 tablespoon erythritol (powdered)",
+      "10 drop liquid stevia (to taste)",
+      "1/4 cup heavy whipping cream",
+      "3 tablespoon butter",
+      "3 ounce cream cheese",
+      "1/8 teaspoon xanthan gum (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the chia seeds and flaxseed meal and set aside.",
+        "name": "Measure out the chia seeds and flaxseed meal and set aside.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3684.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a food processor to rice the cauliflower. Set aside.",
+        "name": "Use a food processor to rice the cauliflower. Set aside.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3696.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the raw pecans to a Ziploc bag and use a rolling pin to crush them. Make sure they're not too small; they should add a bit of texture to the dish.",
+        "name": "Add the raw pecans to a Ziploc bag and use a rolling pin to crush them. Make sure they're not too small; they should add a bit of texture to the dish.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3700.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toast the pecans in a pan over low heat.",
+        "name": "Toast the pecans in a pan over low heat.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3716.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, heat up the coconut milk. Once warm, add in the cauliflower and continue to cook until it begins to boil.",
+        "name": "In a saucepan, heat up the coconut milk. Once warm, add in the cauliflower and continue to cook until it begins to boil.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3720.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the heat down to medium-low and add in the cinnamon, maple extract, vanilla, nutmeg, and allspice.",
+        "name": "Turn the heat down to medium-low and add in the cinnamon, maple extract, vanilla, nutmeg, and allspice.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3723.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a spice grinder to powder the erythritol. (Let settle before removing lid of grinder)",
+        "name": "Use a spice grinder to powder the erythritol. (Let settle before removing lid of grinder)",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3739.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the powdered erythritol and liquid stevia to the pan and stir them in well.",
+        "name": "Add the powdered erythritol and liquid stevia to the pan and stir them in well.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3742.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the flaxseed meal and chia seeds to the pan and mix well. The mixture should begin to thicken.",
+        "name": "Add the flaxseed meal and chia seeds to the pan and mix well. The mixture should begin to thicken.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3748.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the heavy cream, butter, and cream cheese.",
+        "name": "Measure out the heavy cream, butter, and cream cheese.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3751.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the mixture is hot again, add in the toasted pecans, cream, butter, and cream cheese. Mix together well. Optional: Whisk in a bit of xanthan gum for a thicker oatmeal.",
+        "name": "Once the mixture is hot again, add in the toasted pecans, cream, butter, and cream cheese. Mix together well. Optional: Whisk in a bit of xanthan gum for a thicker oatmeal.",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_3757.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/cinnamon-roll-oatmeal/#wprm-recipe-51343-step-0-11"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, make-ahead, meal-prep, quick, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "371 kcal",
+      "fatContent": "34.7 g",
+      "proteinContent": "5.9 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cinnamon-roll-oatmeal/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cinnamon-roll-oatmeal/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cinnamon-roll-oatmeal/"
+  },
+  "sourceIndex": {
+    "id": 24430,
+    "rid": 51343,
+    "t": "Cinnamon Roll “Oatmeal”",
+    "u": "/cinnamon-roll-oatmeal/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/cinnamonrolloatmeal11.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.2,
+    "cal": 371,
+    "pr": 5.9,
+    "fa": 34.7,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "quick",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 16,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "stovetop",
+      "meal-prep",
+      "make-ahead"
+    ],
+    "d": "2014-08-29",
+    "cm": 51,
+    "ex": "So the last few days I've really been craving oatmeal. I keep seeing oatmeal bars, cookies, porridge and the like on Pinterest and Facebook - and I wanted to join in on the fun...but not have any of",
+    "pv": 352
+  },
+  "sourceHtml": "pages/cinnamon-roll-oatmeal.html",
+  "scrapedAt": "2026-11-07T08:11:13.036Z"
+}

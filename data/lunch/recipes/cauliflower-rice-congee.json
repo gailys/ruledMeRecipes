@@ -1,0 +1,392 @@
+{
+  "id": "ruled-38713",
+  "slug": "cauliflower-rice-congee",
+  "title": "Cauliflower Rice Congee",
+  "url": "https://www.ruled.me/cauliflower-rice-congee/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Cauliflower Rice Congee. Each serving comes out to be 331 calories, 26.8g fats, 6.6g net carbs, and 14.4g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "331 kcal",
+    "fatContent": "26.8 g",
+    "proteinContent": "14.4 g",
+    "carbohydrateContent": "6.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 331,
+    "netCarbsGrams": 6.6,
+    "proteinGrams": 14.4,
+    "fatGrams": 26.8
+  },
+  "ingredients": [
+    "2 tablespoon coconut oil",
+    "1/2 medium shallot (diced)",
+    "2 teaspoon fresh garlic (minced)",
+    "2 tablespoon fresh ginger (sliced)",
+    "8 ounce bone-in, skin-on chicken thighs",
+    "2 cup cauliflower rice",
+    "4 cup chicken broth",
+    "1/4 cup fish sauce",
+    "1 tablespoon lime juice",
+    "1 teaspoon xanthan gum",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a pot over medium heat, then add the coconut oil. When melted, add shallots, garlic, and ginger. Sauté until aromatic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-01.jpg"
+    },
+    {
+      "text": "Add the chicken thighs to pot and sear both sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-02.jpg"
+    },
+    {
+      "text": "Add cauliflower rice to the pot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-03.jpg"
+    },
+    {
+      "text": "Stir cauliflower to combine with shallots, garlic, ginger, and chicken. Cook until lightly toasted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-04.jpg"
+    },
+    {
+      "text": "Add stock to the pot and bring to a boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-05.jpg"
+    },
+    {
+      "text": "Lower heat to a simmer and cook until liquid is reduced, approximately 10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-07.jpg"
+    },
+    {
+      "text": "Flavor soup with fish sauce and citrus. Add salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-06.jpg"
+    },
+    {
+      "text": "Slowly add xanthan gum to the soup, whisking continuously to completely blend.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-7",
+      "imageSource": null
+    },
+    {
+      "text": "Continue to cook over low heat until the congee has thickened to desired consistency. Serve congee hot. Add optional toppings to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/dc11bf9e1b9da0b50a1eaabd.jpg",
+      "archived": true,
+      "originalPath": "images/dc11bf9e1b9da0b50a1eaabd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-featured.jpg",
+      "path": "images/45e865da54e3d3e7f619b842.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-01.jpg",
+      "path": "../../nenaudojama/lunch/images/5597b7c5d8cdc7b91a378cfc.jpg",
+      "archived": true,
+      "originalPath": "images/5597b7c5d8cdc7b91a378cfc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-02.jpg",
+      "path": "../../nenaudojama/lunch/images/749bd0956790e9118699a1d1.avif",
+      "archived": true,
+      "originalPath": "images/749bd0956790e9118699a1d1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-03.jpg",
+      "path": "../../nenaudojama/lunch/images/31a070350c4e6d90d5f1d3d2.avif",
+      "archived": true,
+      "originalPath": "images/31a070350c4e6d90d5f1d3d2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-04.jpg",
+      "path": "../../nenaudojama/lunch/images/5eca424451787217fb0aecb9.jpg",
+      "archived": true,
+      "originalPath": "images/5eca424451787217fb0aecb9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-05.jpg",
+      "path": "../../nenaudojama/lunch/images/29d5200132947f0e4f3cefcb.jpg",
+      "archived": true,
+      "originalPath": "images/29d5200132947f0e4f3cefcb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-07.jpg",
+      "path": "../../nenaudojama/lunch/images/3c7dd9b84ffc1509a87904a1.avif",
+      "archived": true,
+      "originalPath": "images/3c7dd9b84ffc1509a87904a1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-06.jpg",
+      "path": "../../nenaudojama/lunch/images/2134328f7d41ebaf8ac5d50a.jpg",
+      "archived": true,
+      "originalPath": "images/2134328f7d41ebaf8ac5d50a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-second.jpg",
+      "path": "../../nenaudojama/lunch/images/23d294790e083627829638b9.avif",
+      "archived": true,
+      "originalPath": "images/23d294790e083627829638b9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/5ae0ae912a8f6f812f564ba8.avif",
+      "archived": true,
+      "originalPath": "images/5ae0ae912a8f6f812f564ba8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-01-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8f8e452126f1a34c78ce9172.avif",
+      "archived": true,
+      "originalPath": "images/8f8e452126f1a34c78ce9172.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-02-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8cb3df93615bc6fe2b91ce98.jpg",
+      "archived": true,
+      "originalPath": "images/8cb3df93615bc6fe2b91ce98.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-03-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/84ce1275e28ddda6095df72f.jpg",
+      "archived": true,
+      "originalPath": "images/84ce1275e28ddda6095df72f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-04-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/4920d90155573944a7bfab3d.avif",
+      "archived": true,
+      "originalPath": "images/4920d90155573944a7bfab3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-05-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a125b413b268978656682aad.avif",
+      "archived": true,
+      "originalPath": "images/a125b413b268978656682aad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-07-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e549a3a850e27c7517a6a973.jpg",
+      "archived": true,
+      "originalPath": "images/e549a3a850e27c7517a6a973.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-06-467x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5158406780bc726404c6780e.avif",
+      "archived": true,
+      "originalPath": "images/5158406780bc726404c6780e.avif"
+    }
+  ],
+  "featuredImage": "images/45e865da54e3d3e7f619b842.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cauliflower Rice Congee",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Cauliflower Rice Congee. Each serving comes out to be 331 calories, 26.8g fats, 6.6g net carbs, and 14.4g protein.",
+    "datePublished": "2019-01-01T12:00:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "2 tablespoon coconut oil",
+      "1/2 medium shallot (diced)",
+      "2 teaspoon fresh garlic (minced)",
+      "2 tablespoon fresh ginger (sliced)",
+      "8 ounce bone-in, skin-on chicken thighs",
+      "2 cup cauliflower rice",
+      "4 cup chicken broth",
+      "1/4 cup fish sauce",
+      "1 tablespoon lime juice",
+      "1 teaspoon xanthan gum",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a pot over medium heat, then add the coconut oil. When melted, add shallots, garlic, and ginger. Sauté until aromatic.",
+        "name": "Preheat a pot over medium heat, then add the coconut oil. When melted, add shallots, garlic, and ginger. Sauté until aromatic.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken thighs to pot and sear both sides.",
+        "name": "Add the chicken thighs to pot and sear both sides.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add cauliflower rice to the pot.",
+        "name": "Add cauliflower rice to the pot.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir cauliflower to combine with shallots, garlic, ginger, and chicken. Cook until lightly toasted.",
+        "name": "Stir cauliflower to combine with shallots, garlic, ginger, and chicken. Cook until lightly toasted.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add stock to the pot and bring to a boil.",
+        "name": "Add stock to the pot and bring to a boil.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lower heat to a simmer and cook until liquid is reduced, approximately 10 minutes.",
+        "name": "Lower heat to a simmer and cook until liquid is reduced, approximately 10 minutes.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flavor soup with fish sauce and citrus. Add salt and pepper to taste.",
+        "name": "Flavor soup with fish sauce and citrus. Add salt and pepper to taste.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add xanthan gum to the soup, whisking continuously to completely blend.",
+        "name": "Slowly add xanthan gum to the soup, whisking continuously to completely blend.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-7"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue to cook over low heat until the congee has thickened to desired consistency. Serve congee hot. Add optional toppings to taste.",
+        "name": "Continue to cook over low heat until the congee has thickened to desired consistency. Serve congee hot. Add optional toppings to taste.",
+        "url": "https://www.ruled.me/cauliflower-rice-congee/#wprm-recipe-52838-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "comfort-food, dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, poultry, simple &amp; easy, stovetop, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "331 kcal",
+      "fatContent": "26.8 g",
+      "proteinContent": "14.4 g",
+      "carbohydrateContent": "6.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cauliflower-rice-congee/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cauliflower-rice-congee/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cauliflower-rice-congee/"
+  },
+  "sourceIndex": {
+    "id": 38713,
+    "rid": 52838,
+    "t": "Cauliflower Rice Congee",
+    "u": "/cauliflower-rice-congee/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/12/cauliflower-rice-congee-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.6,
+    "cal": 331,
+    "pr": 14.4,
+    "fa": 26.8,
+    "tm": 35,
+    "sv": 3,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2019-01-01",
+    "cm": 1,
+    "ex": "Congee is an Asian porridge that is great for cold weather or as a fresh, zesty dinner appetizer. The ingredients such as cauliflower rice and chicken stock can be made from scratch or store bought",
+    "pv": 285
+  },
+  "sourceHtml": "pages/cauliflower-rice-congee.html",
+  "scrapedAt": "2026-11-07T08:16:50.815Z"
+}

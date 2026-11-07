@@ -1,0 +1,312 @@
+{
+  "id": "ruled-11303",
+  "slug": "churro-mug-cake",
+  "title": "Churro Mug Cake",
+  "url": "https://www.ruled.me/churro-mug-cake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Churro Mug Cake. The serving comes out to be 450 calories, 42g fats, 4.3g net carbs, and 12.5g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450 kcal",
+    "fatContent": "42 g",
+    "proteinContent": "12.5 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 450,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 12.5,
+    "fatGrams": 42
+  },
+  "ingredients": [
+    "1 large egg",
+    "2 tablespoon almond flour",
+    "1 tablespoon erythritol",
+    "7 drop liquid stevia",
+    "2 tablespoon butter",
+    "1/2 teaspoon baking powder",
+    "2 tablespoon almond flour",
+    "1/4 teaspoon ground cinnamon",
+    "1/4 teaspoon ground nutmeg",
+    "1/4 teaspoon vanilla extract",
+    "1/8 teaspoon ground ginger",
+    "1/8 teaspoon ground allspice"
+  ],
+  "instructions": [
+    {
+      "text": "Get a mug ready! Add the egg, almond flour, erythritol, stevia, butter, and baking powder. Mix until combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4300.jpg"
+    },
+    {
+      "text": "Add the spices and flavorings — almond flour, cinnamon, nutmeg, vanilla extract, ginger, and allspice. Mix until combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4344.jpg"
+    },
+    {
+      "text": "Microwave on high (power level 10) for 60 seconds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4446.jpg"
+    },
+    {
+      "text": "Turn the mug upside down and lightly tap it against a plate. The cake should slide out in one piece.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/churro.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/churro.jpg",
+      "path": "images/ad3ef7afc88437088eefefa7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4300.jpg",
+      "path": "../../nenaudojama/dessert/images/2481be918ac9e4286c443fab.avif",
+      "archived": true,
+      "originalPath": "images/2481be918ac9e4286c443fab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4344.jpg",
+      "path": "../../nenaudojama/dessert/images/89715cc188ea8850efe88a47.avif",
+      "archived": true,
+      "originalPath": "images/89715cc188ea8850efe88a47.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4446.jpg",
+      "path": "../../nenaudojama/dessert/images/c55af04a6ba8b5b185ccebcf.avif",
+      "archived": true,
+      "originalPath": "images/c55af04a6ba8b5b185ccebcf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/churrosecond.jpg",
+      "path": "../../nenaudojama/dessert/images/8dde71a185b2785e4ffd8e6e.avif",
+      "archived": true,
+      "originalPath": "images/8dde71a185b2785e4ffd8e6e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4322.jpg",
+      "path": "../../nenaudojama/dessert/images/3c76c51c72d1ff28a0314c2b.avif",
+      "archived": true,
+      "originalPath": "images/3c76c51c72d1ff28a0314c2b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4300-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6234b688cc35f3a241a09c0d.jpg",
+      "archived": true,
+      "originalPath": "images/6234b688cc35f3a241a09c0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4344-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/135dd3e276dde75aebc5b5cb.jpg",
+      "archived": true,
+      "originalPath": "images/135dd3e276dde75aebc5b5cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4446-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8bf6a026034f6d6db0d0a4c8.jpg",
+      "archived": true,
+      "originalPath": "images/8bf6a026034f6d6db0d0a4c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/churro-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d8e9d5a0612e624e0de1d4c2.avif",
+      "archived": true,
+      "originalPath": "images/d8e9d5a0612e624e0de1d4c2.avif"
+    }
+  ],
+  "featuredImage": "images/ad3ef7afc88437088eefefa7.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Churro Mug Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Churro Mug Cake. The serving comes out to be 450 calories, 42g fats, 4.3g net carbs, and 12.5g protein.",
+    "datePublished": "2014-03-14T18:27:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/churro.jpg"
+    ],
+    "video": {
+      "name": "Keto Churro Mug Cake [90-second Dessert]",
+      "description": "These churro mug cakes are pretty darn good. I was interested to see how they turned out – I adapted it from a churro cupcake recipe I saw on Food Network. They definitely stood up to the real thing, I’d imagine – and that sweet tooth…totally satisfied.\n\nFon’t get your hopes up on the texture of these resembling that of fried crispy dough. They’re not exactly going to bring nostalgic memories of the fair back to you, because you just can’t achieve that in the microwave. But the flavors? The flavors are there! They’re delicious, sweet, and a little spicy with a hint of cinnamon.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 large egg\n2 tablespoons butter\n4 tablespoons almond flour\n1 tablespoon erythritol\n7 drops liquid Stevia\n½ teaspoon baking powder\n¼ teaspoon cinnamon\n¼ teaspoon nutmeg\n¼ teaspoon vanilla\n1/8 teaspoon ginger\n1/8 teaspoon allspice\n\nNutrition Summary: Per serving this is 447 Calories, 42.03g Fats, 4.77g Net Carbs, and 12.61g Protein. Of course, you could always split that in half if you can’t afford that many calories!\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-08-27T15:00:32+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 17561
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 293
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 23
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XXcte8KH890/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XXcte8KH890?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=XXcte8KH890",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 large egg",
+      "2 tablespoon almond flour",
+      "1 tablespoon erythritol",
+      "7 drop liquid stevia",
+      "2 tablespoon butter",
+      "1/2 teaspoon baking powder",
+      "2 tablespoon almond flour",
+      "1/4 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1/4 teaspoon vanilla extract",
+      "1/8 teaspoon ground ginger",
+      "1/8 teaspoon ground allspice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get a mug ready! Add the egg, almond flour, erythritol, stevia, butter, and baking powder. Mix until combined.",
+        "name": "Get a mug ready! Add the egg, almond flour, erythritol, stevia, butter, and baking powder. Mix until combined.",
+        "url": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4300.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the spices and flavorings — almond flour, cinnamon, nutmeg, vanilla extract, ginger, and allspice. Mix until combined.",
+        "name": "Add the spices and flavorings — almond flour, cinnamon, nutmeg, vanilla extract, ginger, and allspice. Mix until combined.",
+        "url": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4344.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave on high (power level 10) for 60 seconds.",
+        "name": "Microwave on high (power level 10) for 60 seconds.",
+        "url": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4446.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the mug upside down and lightly tap it against a plate. The cake should slide out in one piece.",
+        "name": "Turn the mug upside down and lightly tap it against a plate. The cake should slide out in one piece.",
+        "url": "https://www.ruled.me/churro-mug-cake/#wprm-recipe-50941-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/churro.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Cakes",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "450 kcal",
+      "fatContent": "42 g",
+      "proteinContent": "12.5 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/churro-mug-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/churro-mug-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/churro-mug-cake/"
+  },
+  "sourceIndex": {
+    "id": 11303,
+    "rid": 50941,
+    "t": "Churro Mug Cake",
+    "u": "/churro-mug-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/churro.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.3,
+    "cal": 450,
+    "pr": 12.5,
+    "fa": 42,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian"
+    ],
+    "d": "2014-03-14",
+    "cm": 26,
+    "ex": "Sorry, sorry, I know I said I'll be posting a recipe a day for a year, but I had to skip yesterday to post the 14 Day Ketogenic Diet Plan. Go check it out if you're struggling or having any issues",
+    "pv": 311
+  },
+  "sourceHtml": "pages/churro-mug-cake.html",
+  "scrapedAt": "2026-11-07T08:30:47.579Z"
+}

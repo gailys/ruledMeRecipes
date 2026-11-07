@@ -1,0 +1,327 @@
+{
+  "id": "ruled-26073",
+  "slug": "5-minute-keto-egg-drop-soup",
+  "title": "5-Minute Keto Egg Drop Soup",
+  "url": "https://www.ruled.me/5-minute-keto-egg-drop-soup/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of 5-Minute Keto Egg Drop Soup. The serving comes out to be 291 calories, 23.2g fats, 3.3g net carbs, and 16.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT1M",
+  "cookTime": "PT5M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "291 kcal",
+    "fatContent": "23.2 g",
+    "proteinContent": "16.7 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 291,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 16.7,
+    "fatGrams": 23.2
+  },
+  "ingredients": [
+    "1 1/2 cup chicken broth",
+    "1/2 whole chicken bouillon cube",
+    "1 tablespoon butter",
+    "1 teaspoon chili-garlic paste (such as sambal oelek with garlic)",
+    "2 large egg"
+  ],
+  "instructions": [
+    {
+      "text": "Place a pan on the stove over medium-high heat. You want to get this done quick, so hotter is better in this case. Add the chicken broth, bouillon cube, and butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4366.jpg"
+    },
+    {
+      "text": "Bring the broth to a boil and stir everything together. Next, add the chile-garlic paste and mix again. Turn off the stove.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4376.jpg"
+    },
+    {
+      "text": "Whisk the eggs in a separate container and pour them into the steaming broth in a steady stream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4378.jpg"
+    },
+    {
+      "text": "Stir together well and let sit for a moment to cook.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_4380.jpg"
+    },
+    {
+      "text": "All done! Serve up some awesome-tasting keto egg drop soup in only 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "spicy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "few-ingredients",
+    "stovetop",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/5ingredienteggdropsoup.jpg",
+      "path": "images/b7cec23f8f8c514a0be7d5de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4366.jpg",
+      "path": "../../nenaudojama/lunch/images/806529e7fc75b92c6e8494f6.jpg",
+      "archived": true,
+      "originalPath": "images/806529e7fc75b92c6e8494f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4376.jpg",
+      "path": "../../nenaudojama/lunch/images/4bfe2402b93cb634278512c9.jpg",
+      "archived": true,
+      "originalPath": "images/4bfe2402b93cb634278512c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4378.jpg",
+      "path": "../../nenaudojama/lunch/images/cb7e69b4c86fec3d3b3875b8.jpg",
+      "archived": true,
+      "originalPath": "images/cb7e69b4c86fec3d3b3875b8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4380.jpg",
+      "path": "../../nenaudojama/lunch/images/8fb09dcf78852433f58a921e.jpg",
+      "archived": true,
+      "originalPath": "images/8fb09dcf78852433f58a921e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/5ingredienteggdropsoupsecond.jpg",
+      "path": "../../nenaudojama/lunch/images/b499c15cd474c2ebbe2966e2.avif",
+      "archived": true,
+      "originalPath": "images/b499c15cd474c2ebbe2966e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/5ingredienteggdropsouplong.jpg",
+      "path": "../../nenaudojama/lunch/images/19ed00e3243fdc0681a94930.jpg",
+      "archived": true,
+      "originalPath": "images/19ed00e3243fdc0681a94930.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4366-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9ffc755085e8ec2dc71fb5e2.avif",
+      "archived": true,
+      "originalPath": "images/9ffc755085e8ec2dc71fb5e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4376-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7140021abe9c298a7ee4c7e3.avif",
+      "archived": true,
+      "originalPath": "images/7140021abe9c298a7ee4c7e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4378-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/38311c0ff2177ebc91f3e68f.jpg",
+      "archived": true,
+      "originalPath": "images/38311c0ff2177ebc91f3e68f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_4380-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/860d3e10ed5ccc1d1d71bd9e.jpg",
+      "archived": true,
+      "originalPath": "images/860d3e10ed5ccc1d1d71bd9e.jpg"
+    }
+  ],
+  "featuredImage": "images/b7cec23f8f8c514a0be7d5de.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "5-Minute Keto Egg Drop Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of 5-Minute Keto Egg Drop Soup. The serving comes out to be 291 calories, 23.2g fats, 3.3g net carbs, and 16.7g protein.",
+    "datePublished": "2015-05-23T15:43:19+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/05/5ingredienteggdropsoup.jpg"
+    ],
+    "video": {
+      "name": "Keto Egg Drop Soup Recipe [Ready in 5-Minutes]",
+      "description": "I’ve been really wanting to post some simple and easy meals for a few weeks now. I’ve been working and experimenting to see what I can come up with, that takes the least amount of time but has the most impact flavor wise.\n\nI was sick last week and was feeling really lazy. I wanted to make something that was tasty, but I didn’t want to stand around in the kitchen for an hour. Rather, I wanted a 5 minute meal that I could make and take back to bed with. And so, this was born! Not only does it only have 5 ingredients, it also takes 5 minutes to make – how easy is that?\n\nWith 5 simple ingredients, you can make some really tasty soup. Plus, since it has chicken boullion in it, you get a powerful punch of electrolytes to instantly make you feel better.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 ½ cups chicken broth\n½ cube chicken bouillon\n1 tablespoon bacon fat\n2 large eggs\n1 teaspoon chili garlic paste\n\nNutrition Summary: This makes 1 total serving of 5 Minute Keto Egg Drop Soup. It comes out to be 289 Calories, 23.24g Fats, 2.92g Net Carbs, and 15.3g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2025-03-01T16:00:22+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M21S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 5078
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 259
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 12
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Bgxl0sISXEs/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Bgxl0sISXEs?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=Bgxl0sISXEs",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT1M",
+    "cookTime": "PT5M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 1/2 cup chicken broth",
+      "1/2 whole chicken bouillon cube",
+      "1 tablespoon butter",
+      "1 teaspoon chili-garlic paste (such as sambal oelek with garlic)",
+      "2 large egg"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place a pan on the stove over medium-high heat. You want to get this done quick, so hotter is better in this case. Add the chicken broth, bouillon cube, and butter.",
+        "name": "Place a pan on the stove over medium-high heat. You want to get this done quick, so hotter is better in this case. Add the chicken broth, bouillon cube, and butter.",
+        "url": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4366.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the broth to a boil and stir everything together. Next, add the chile-garlic paste and mix again. Turn off the stove.",
+        "name": "Bring the broth to a boil and stir everything together. Next, add the chile-garlic paste and mix again. Turn off the stove.",
+        "url": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4376.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the eggs in a separate container and pour them into the steaming broth in a steady stream.",
+        "name": "Whisk the eggs in a separate container and pour them into the steaming broth in a steady stream.",
+        "url": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4378.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir together well and let sit for a moment to cook.",
+        "name": "Stir together well and let sit for a moment to cook.",
+        "url": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_4380.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "All done! Serve up some awesome-tasting keto egg drop soup in only 5 minutes.",
+        "name": "All done! Serve up some awesome-tasting keto egg drop soup in only 5 minutes.",
+        "url": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#wprm-recipe-51681-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "Chinese"
+    ],
+    "keywords": "15-minute, beginner-friendly, comfort-food, eggs, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, spicy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "291 kcal",
+      "fatContent": "23.2 g",
+      "proteinContent": "16.7 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/5-minute-keto-egg-drop-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/5-minute-keto-egg-drop-soup/"
+  },
+  "sourceIndex": {
+    "id": 26073,
+    "rid": 51681,
+    "t": "5 Minute Keto Egg Drop Soup",
+    "u": "/5-minute-keto-egg-drop-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/05/5ingredienteggdropsoup.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.3,
+    "cal": 291,
+    "pr": 16.7,
+    "fa": 23.2,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "spicy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "few-ingredients",
+      "stovetop",
+      "eggs"
+    ],
+    "d": "2015-05-23",
+    "cm": 23,
+    "ex": "I've been really wanting to post some simple and easy meals for a few weeks now. I've been working and experimenting to see what I can come up with, that takes the least amount of time but has the",
+    "pv": 667
+  },
+  "sourceHtml": "pages/5-minute-keto-egg-drop-soup.html",
+  "scrapedAt": "2026-11-07T08:17:49.500Z"
+}

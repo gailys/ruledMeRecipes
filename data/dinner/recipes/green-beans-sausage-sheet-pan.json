@@ -1,0 +1,312 @@
+{
+  "id": "ruled-45209",
+  "slug": "green-beans-sausage-sheet-pan",
+  "title": "Green Beans and Sausage Sheet Pan",
+  "url": "https://www.ruled.me/green-beans-sausage-sheet-pan/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Green Beans and Sausage Sheet Pan. Each serving comes out to be 316 calories, 22.6g fats, 4g net carbs, and 21.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "316 kcal",
+    "fatContent": "22.6 g",
+    "proteinContent": "21.9 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 316,
+    "netCarbsGrams": 4,
+    "proteinGrams": 21.9,
+    "fatGrams": 22.6
+  },
+  "ingredients": [
+    "12 ounce green beans",
+    "12 ounce chicken sausage (sliced thick)",
+    "4 tablespoon olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 425F and grease a baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-1.jpg"
+    },
+    {
+      "text": "In a bowl, toss both the green beans and chickens sausage in olive oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-2.jpg"
+    },
+    {
+      "text": "Put the green beans and sausage on a greased baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-3.jpg"
+    },
+    {
+      "text": "Bake for 10 minutes in the oven. Flip the sausage and green beans. Bake for another 10 minutes or until cooked thoroughly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-4.jpg"
+    },
+    {
+      "text": "Season with salt and pepper. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "quick",
+    "sheet-pan",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/e22db0c315293402ecaea22e.jpg",
+      "archived": true,
+      "originalPath": "images/e22db0c315293402ecaea22e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Featured.jpg",
+      "path": "images/903332ef05de2132029aaef1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-1.jpg",
+      "path": "../../nenaudojama/dinner/images/51d9307dd5b9554238d25c32.jpg",
+      "archived": true,
+      "originalPath": "images/51d9307dd5b9554238d25c32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-2.jpg",
+      "path": "../../nenaudojama/dinner/images/639c1a029c6dab155b3be002.jpg",
+      "archived": true,
+      "originalPath": "images/639c1a029c6dab155b3be002.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-3.jpg",
+      "path": "../../nenaudojama/dinner/images/ad25d7bfbbb10b6a7f8e97ab.jpg",
+      "archived": true,
+      "originalPath": "images/ad25d7bfbbb10b6a7f8e97ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-4.jpg",
+      "path": "../../nenaudojama/dinner/images/98623ea9d95840f0e41ed940.jpg",
+      "archived": true,
+      "originalPath": "images/98623ea9d95840f0e41ed940.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/e7707908075c68883b24c7ef.jpg",
+      "archived": true,
+      "originalPath": "images/e7707908075c68883b24c7ef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/f3867be1643657a57efccb56.jpg",
+      "archived": true,
+      "originalPath": "images/f3867be1643657a57efccb56.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/3823925e7743c05b8c02e6f7.jpg",
+      "archived": true,
+      "originalPath": "images/3823925e7743c05b8c02e6f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/526bb7903148ccdb43f2b950.jpg",
+      "archived": true,
+      "originalPath": "images/526bb7903148ccdb43f2b950.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/78d2d83d992ac7146c9269eb.jpg",
+      "archived": true,
+      "originalPath": "images/78d2d83d992ac7146c9269eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/766a4aa2bb62ada2db41155e.jpg",
+      "archived": true,
+      "originalPath": "images/766a4aa2bb62ada2db41155e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0ea9100c3add7e3d9319df8a.jpg",
+      "archived": true,
+      "originalPath": "images/0ea9100c3add7e3d9319df8a.jpg"
+    }
+  ],
+  "featuredImage": "images/903332ef05de2132029aaef1.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Green Beans and Sausage Sheet Pan",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Green Beans and Sausage Sheet Pan. Each serving comes out to be 316 calories, 22.6g fats, 4g net carbs, and 21.9g protein.",
+    "datePublished": "2021-05-13T09:00:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "12 ounce green beans",
+      "12 ounce chicken sausage (sliced thick)",
+      "4 tablespoon olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 425F and grease a baking sheet.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 425F and grease a baking sheet.",
+        "url": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, toss both the green beans and chickens sausage in olive oil.",
+        "name": "In a bowl, toss both the green beans and chickens sausage in olive oil.",
+        "url": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the green beans and sausage on a greased baking sheet.",
+        "name": "Put the green beans and sausage on a greased baking sheet.",
+        "url": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 10 minutes in the oven. Flip the sausage and green beans. Bake for another 10 minutes or until cooked thoroughly.",
+        "name": "Bake for 10 minutes in the oven. Flip the sausage and green beans. Bake for another 10 minutes or until cooked thoroughly.",
+        "url": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper. Enjoy!",
+        "name": "Season with salt and pepper. Enjoy!",
+        "url": "https://www.ruled.me/green-beans-sausage-sheet-pan/#wprm-recipe-53761-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, budget-friendly, dairy-free, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, oven-baked, poultry, quick, sheet-pan, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "316 kcal",
+      "fatContent": "22.6 g",
+      "proteinContent": "21.9 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/green-beans-sausage-sheet-pan/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/green-beans-sausage-sheet-pan/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/green-beans-sausage-sheet-pan/"
+  },
+  "sourceIndex": {
+    "id": 45209,
+    "rid": 53761,
+    "t": "Green Beans & Sausage Sheet Pan",
+    "u": "/green-beans-sausage-sheet-pan/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Green-Bean-Sausage-Sheet-Pan-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4,
+    "cal": 316,
+    "pr": 21.9,
+    "fa": 22.6,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "quick",
+      "sheet-pan",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 4,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2021-05-13",
+    "cm": 0,
+    "ex": "This sheet pan with chicken sausage and green beans are a delicious and easy low-carb dinner! Simply toss these ingredients in olive oil and bake in the oven for 20 minutes. These not only take 20",
+    "pv": 106
+  },
+  "sourceHtml": "pages/green-beans-sausage-sheet-pan.html",
+  "scrapedAt": "2026-11-07T08:27:44.169Z"
+}

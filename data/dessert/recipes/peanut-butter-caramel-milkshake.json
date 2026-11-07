@@ -1,0 +1,247 @@
+{
+  "id": "ruled-24498",
+  "slug": "peanut-butter-caramel-milkshake",
+  "title": "Peanut Butter & Caramel Milkshake",
+  "url": "https://www.ruled.me/peanut-butter-caramel-milkshake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Peanut Butter & Caramel Milkshake. The serving comes out to be 360 calories, 33.6g fats, 4.5g net carbs, and 8.1g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "360 kcal",
+    "fatContent": "33.6 g",
+    "proteinContent": "8.1 g",
+    "carbohydrateContent": "4.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 360,
+    "netCarbsGrams": 4.5,
+    "proteinGrams": 8.1,
+    "fatGrams": 33.6
+  },
+  "ingredients": [
+    "7 large ice cubes",
+    "1 cup unsweetened carton coconut milk",
+    "2 tablespoon peanut butter",
+    "2 tablespoon sugar-free salted caramel syrup (such as Torani)",
+    "1/4 teaspoon xanthan gum",
+    "1 tablespoon mct oil"
+  ],
+  "instructions": [
+    {
+      "text": "Add all ingredients to a blender. Pictured is the Ninja Blender with the Mini Ninja attachment.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-caramel-milkshake/#wprm-recipe-51363-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_2431.jpg"
+    },
+    {
+      "text": "Blend together for 1–2 minutes or until desired consistency is reached. It should be slightly thickened, with a nice hint of crushed ice running through it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-caramel-milkshake/#wprm-recipe-51363-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_2436.jpg"
+    },
+    {
+      "text": "Pour into a glass and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-caramel-milkshake/#wprm-recipe-51363-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/pbcaramelshake2.jpg",
+      "path": "images/088a9e60594c8b62fd021781.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2431.jpg",
+      "path": "../../nenaudojama/dessert/images/1e9a3600a864a2f83ef8e9e9.jpg",
+      "archived": true,
+      "originalPath": "images/1e9a3600a864a2f83ef8e9e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2436.jpg",
+      "path": "../../nenaudojama/dessert/images/a764b3f54aea0e19ce502b51.avif",
+      "archived": true,
+      "originalPath": "images/a764b3f54aea0e19ce502b51.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/pbcaramelshakesecond.jpg",
+      "path": "../../nenaudojama/dessert/images/c9a90fa3226de365c0ee8e10.jpg",
+      "archived": true,
+      "originalPath": "images/c9a90fa3226de365c0ee8e10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/pbcaramelshakelong1.jpg",
+      "path": "../../nenaudojama/dessert/images/86d53dc7246bd9030e7a17e5.jpg",
+      "archived": true,
+      "originalPath": "images/86d53dc7246bd9030e7a17e5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2431-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/fef159ce0e90283e4c6c5c21.jpg",
+      "archived": true,
+      "originalPath": "images/fef159ce0e90283e4c6c5c21.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2436-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2e16c6d1763590dbc491860e.jpg",
+      "archived": true,
+      "originalPath": "images/2e16c6d1763590dbc491860e.jpg"
+    }
+  ],
+  "featuredImage": "images/088a9e60594c8b62fd021781.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Peanut Butter &amp; Caramel Milkshake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Peanut Butter &amp; Caramel Milkshake. The serving comes out to be 360 calories, 33.6g fats, 4.5g net carbs, and 8.1g protein.",
+    "datePublished": "2014-09-05T13:15:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/pbcaramelshake2.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "7 large ice cubes",
+      "1 cup unsweetened carton coconut milk",
+      "2 tablespoon peanut butter",
+      "2 tablespoon sugar-free salted caramel syrup (such as Torani)",
+      "1/4 teaspoon xanthan gum",
+      "1 tablespoon mct oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients to a blender. Pictured is the Ninja Blender with the Mini Ninja attachment.",
+        "name": "Add all ingredients to a blender. Pictured is the Ninja Blender with the Mini Ninja attachment.",
+        "url": "https://www.ruled.me/peanut-butter-caramel-milkshake/#wprm-recipe-51363-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_2431.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend together for 1–2 minutes or until desired consistency is reached. It should be slightly thickened, with a nice hint of crushed ice running through it.",
+        "name": "Blend together for 1–2 minutes or until desired consistency is reached. It should be slightly thickened, with a nice hint of crushed ice running through it.",
+        "url": "https://www.ruled.me/peanut-butter-caramel-milkshake/#wprm-recipe-51363-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_2436.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a glass and serve!",
+        "name": "Pour into a glass and serve!",
+        "url": "https://www.ruled.me/peanut-butter-caramel-milkshake/#wprm-recipe-51363-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "360 kcal",
+      "fatContent": "33.6 g",
+      "proteinContent": "8.1 g",
+      "carbohydrateContent": "4.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/peanut-butter-caramel-milkshake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/peanut-butter-caramel-milkshake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/peanut-butter-caramel-milkshake/"
+  },
+  "sourceIndex": {
+    "id": 24498,
+    "rid": 51363,
+    "t": "Peanut Butter Caramel Milkshake",
+    "u": "/peanut-butter-caramel-milkshake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/pbcaramelshake2.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.5,
+    "cal": 360,
+    "pr": 8.1,
+    "fa": 33.6,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2014-09-05",
+    "cm": 25,
+    "ex": "If you're a sane person, then peanut butter is probably one of your guilty pleasures - I know it's one of mine. But, when we're on a ketogenic diet, we can't always grab it by the spoonful to lick it",
+    "pv": 401
+  },
+  "sourceHtml": "pages/peanut-butter-caramel-milkshake.html",
+  "scrapedAt": "2026-11-07T08:30:47.452Z"
+}

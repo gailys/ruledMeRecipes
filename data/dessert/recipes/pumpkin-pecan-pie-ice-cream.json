@@ -1,0 +1,313 @@
+{
+  "id": "ruled-27493",
+  "slug": "pumpkin-pecan-pie-ice-cream",
+  "title": "Pumpkin Pecan Pie Ice Cream",
+  "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Pumpkin Pecan Pie Ice Cream. Each serving comes out to be 251 calories, 21.8g fats, 3.9g net carbs, and 6.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT40M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "fatContent": "21.8 g",
+    "proteinContent": "6.7 g",
+    "carbohydrateContent": "3.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 251,
+    "netCarbsGrams": 3.9,
+    "proteinGrams": 6.7,
+    "fatGrams": 21.8
+  },
+  "ingredients": [
+    "1/2 cup toasted pecans",
+    "2 cup unsweetened carton coconut milk",
+    "1/2 cup cottage cheese",
+    "1/2 cup pumpkin puree",
+    "1/3 cup erythritol",
+    "3 large egg yolk",
+    "2 tablespoon butter (salted)",
+    "1 teaspoon pumpkin pie spice",
+    "1 teaspoon maple extract",
+    "1/2 teaspoon xanthan gum",
+    "20 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Chop the toasted pecans and add them to a pan with butter over gentle heat. If using raw pecans, place them in a pan and toast over low heat for about 7–10 minutes first.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6903.jpg"
+    },
+    {
+      "text": "Place the remaining ingredients in a container with room for an immersion blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6881.jpg"
+    },
+    {
+      "text": "Blend the ingredients together into a smooth mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6890.jpg"
+    },
+    {
+      "text": "Pour the mixture into an ice cream machine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6894.jpg"
+    },
+    {
+      "text": "Once the butter is browned and the pecans have soaked up some of the butter, add this mixture to the ice cream machine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6909.jpg"
+    },
+    {
+      "text": "Follow the manufacturer's instructions to churn the ice cream. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "fall",
+    "gluten-free",
+    "holiday",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/PumpkinPieKetoIceCream.jpg",
+      "path": "images/a2c0d2c0b961ef5f9408a3c6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6903.jpg",
+      "path": "../../nenaudojama/dessert/images/b44bf3007b411ecfdf48a4b1.jpg",
+      "archived": true,
+      "originalPath": "images/b44bf3007b411ecfdf48a4b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6881.jpg",
+      "path": "../../nenaudojama/dessert/images/9e6558a8a888af1eb9491996.avif",
+      "archived": true,
+      "originalPath": "images/9e6558a8a888af1eb9491996.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6890.jpg",
+      "path": "../../nenaudojama/dessert/images/cd69dbd1bf48110dd478f43c.jpg",
+      "archived": true,
+      "originalPath": "images/cd69dbd1bf48110dd478f43c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6894.jpg",
+      "path": "../../nenaudojama/dessert/images/06a07621a2339b381f5e95fd.avif",
+      "archived": true,
+      "originalPath": "images/06a07621a2339b381f5e95fd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6909.jpg",
+      "path": "../../nenaudojama/dessert/images/f61ad678f5e0c21b1c1248b6.jpg",
+      "archived": true,
+      "originalPath": "images/f61ad678f5e0c21b1c1248b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/PumpkinPieKetoIceCreamSecond.jpg",
+      "path": "../../nenaudojama/dessert/images/0c89c3eaf938ce6380fb8a70.jpg",
+      "archived": true,
+      "originalPath": "images/0c89c3eaf938ce6380fb8a70.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/PumpkinPieKetoIceCreamLong.jpg",
+      "path": "../../nenaudojama/dessert/images/3184f324869e5e4aaf020041.jpg",
+      "archived": true,
+      "originalPath": "images/3184f324869e5e4aaf020041.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6903-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f74c9ccef30cbbb71e4c275a.jpg",
+      "archived": true,
+      "originalPath": "images/f74c9ccef30cbbb71e4c275a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6881-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/15858e71e3f02ba79c49c669.jpg",
+      "archived": true,
+      "originalPath": "images/15858e71e3f02ba79c49c669.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6890-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0939f062cee28adc5fa9624a.jpg",
+      "archived": true,
+      "originalPath": "images/0939f062cee28adc5fa9624a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6894-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9d16cb87bc6bc24685b7eef4.avif",
+      "archived": true,
+      "originalPath": "images/9d16cb87bc6bc24685b7eef4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6909-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/66edfff76d6f684cf2ed1a9a.avif",
+      "archived": true,
+      "originalPath": "images/66edfff76d6f684cf2ed1a9a.avif"
+    }
+  ],
+  "featuredImage": "images/a2c0d2c0b961ef5f9408a3c6.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pumpkin Pecan Pie Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Pumpkin Pecan Pie Ice Cream. Each serving comes out to be 251 calories, 21.8g fats, 3.9g net carbs, and 6.7g protein.",
+    "datePublished": "2015-11-21T17:36:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/11/PumpkinPieKetoIceCream.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "1/2 cup toasted pecans",
+      "2 cup unsweetened carton coconut milk",
+      "1/2 cup cottage cheese",
+      "1/2 cup pumpkin puree",
+      "1/3 cup erythritol",
+      "3 large egg yolk",
+      "2 tablespoon butter (salted)",
+      "1 teaspoon pumpkin pie spice",
+      "1 teaspoon maple extract",
+      "1/2 teaspoon xanthan gum",
+      "20 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the toasted pecans and add them to a pan with butter over gentle heat. If using raw pecans, place them in a pan and toast over low heat for about 7–10 minutes first.",
+        "name": "Chop the toasted pecans and add them to a pan with butter over gentle heat. If using raw pecans, place them in a pan and toast over low heat for about 7–10 minutes first.",
+        "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6903.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the remaining ingredients in a container with room for an immersion blender.",
+        "name": "Place the remaining ingredients in a container with room for an immersion blender.",
+        "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6881.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend the ingredients together into a smooth mixture.",
+        "name": "Blend the ingredients together into a smooth mixture.",
+        "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6890.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into an ice cream machine.",
+        "name": "Pour the mixture into an ice cream machine.",
+        "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6894.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the butter is browned and the pecans have soaked up some of the butter, add this mixture to the ice cream machine.",
+        "name": "Once the butter is browned and the pecans have soaked up some of the butter, add this mixture to the ice cream machine.",
+        "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/11/IMG_6909.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Follow the manufacturer's instructions to churn the ice cream. Enjoy!",
+        "name": "Follow the manufacturer's instructions to churn the ice cream. Enjoy!",
+        "url": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#wprm-recipe-51835-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, fall, gluten-free, holiday, keto, low-carb, make-ahead, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "251 kcal",
+      "fatContent": "21.8 g",
+      "proteinContent": "6.7 g",
+      "carbohydrateContent": "3.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pumpkin-pecan-pie-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 27493,
+    "rid": 51835,
+    "t": "Pumpkin Pecan Pie Ice Cream",
+    "u": "/pumpkin-pecan-pie-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/11/PumpkinPieKetoIceCream.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.9,
+    "cal": 251,
+    "pr": 6.7,
+    "fa": 21.8,
+    "tm": 55,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "fall",
+      "gluten-free",
+      "holiday",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "make-ahead"
+    ],
+    "d": "2015-11-21",
+    "cm": 13,
+    "ex": "The truth is, I couldn't decide between which 2 favorite Thanksgiving flavors to create. I could either do Pumpkin Pie, or I could do Pecan Pie. The longer I thought on it, the more clear this idea",
+    "pv": 127
+  },
+  "sourceHtml": "pages/pumpkin-pecan-pie-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.397Z"
+}

@@ -1,0 +1,316 @@
+{
+  "id": "ruled-34519",
+  "slug": "matcha-skillet-souffle",
+  "title": "Matcha Skillet Souffle",
+  "url": "https://www.ruled.me/matcha-skillet-souffle/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Matcha Skillet Souffle. The serving comes out to be 536 calories, 43.2g fats, 6.3g net carbs, and 23.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "536 kcal",
+    "fatContent": "43.2 g",
+    "proteinContent": "23.6 g",
+    "carbohydrateContent": "6.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 536,
+    "netCarbsGrams": 6.3,
+    "proteinGrams": 23.6,
+    "fatGrams": 43.2
+  },
+  "ingredients": [
+    "3 large egg",
+    "2 tablespoon powdered stevia/erythritol blend",
+    "1 teaspoon vanilla extract",
+    "1 tablespoon matcha powder",
+    "1 tablespoon butter",
+    "15 gram raspberries",
+    "1 tablespoon coconut oil",
+    "1 tablespoon unsweetened cocoa powder",
+    "1/4 cup whipped cream"
+  ],
+  "instructions": [
+    {
+      "text": "Set the oven to broil and preheat a cast iron pan over medium heat. Separate the eggs into yolks and whites.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-01.jpg"
+    },
+    {
+      "text": "Whip the whites with the 1/2 of the confectioners sweetener. Once peaks form, add in the matcha powder. Continue to whip until the peaks become stiff. (I’ve also done this by adding everything at once to a stand mixer, but it failed to whip with a hand mixer.)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-03.jpg"
+    },
+    {
+      "text": "Use a fork to break up the yolks. Mix in the vanilla, then add a small amount of the whipped whites and combine. Carefully fold the rest of the whites into the yolk mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-05.jpg"
+    },
+    {
+      "text": "Add the butter to the cast iron pan. Allow it to melt, then add the souffle mixture to the pan. Turn the heat to low, then place the raspberries on top. Let it cook until the eggs puff up and feel set, if you carefully tap the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-07.jpg"
+    },
+    {
+      "text": "Move the skillet to the oven and watch it carefully. Remove once the top starts to brown. If you leave it in too long, it may turn quite dark or burn.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-10.jpg"
+    },
+    {
+      "text": "Melt the coconut oil then whisk in the cocoa powder and remaining confectioners sweetener. Drizzle across the top. Serve with whipped cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "stovetop",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/c480e75b79e8742e3973d891.jpg",
+      "archived": true,
+      "originalPath": "images/c480e75b79e8742e3973d891.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-featured.jpg",
+      "path": "images/5e6981e536e2ea05a9f70fb1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-01.jpg",
+      "path": "../../nenaudojama/dessert/images/d2c3e058c2902223496043c3.avif",
+      "archived": true,
+      "originalPath": "images/d2c3e058c2902223496043c3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-03.jpg",
+      "path": "../../nenaudojama/dessert/images/f4c4576cd295443170328d6c.jpg",
+      "archived": true,
+      "originalPath": "images/f4c4576cd295443170328d6c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-05.jpg",
+      "path": "../../nenaudojama/dessert/images/91f2bc79b4737d9c66b6bc55.jpg",
+      "archived": true,
+      "originalPath": "images/91f2bc79b4737d9c66b6bc55.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-07.jpg",
+      "path": "../../nenaudojama/dessert/images/5537f60338cec3e1e9b8f399.avif",
+      "archived": true,
+      "originalPath": "images/5537f60338cec3e1e9b8f399.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-10.jpg",
+      "path": "../../nenaudojama/dessert/images/ed43d3a73bc8f5e91ed4dfb1.jpg",
+      "archived": true,
+      "originalPath": "images/ed43d3a73bc8f5e91ed4dfb1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-second.jpg",
+      "path": "../../nenaudojama/dessert/images/345dec33130087447676c599.jpg",
+      "archived": true,
+      "originalPath": "images/345dec33130087447676c599.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/95014192db9ecfcf19cb9c41.avif",
+      "archived": true,
+      "originalPath": "images/95014192db9ecfcf19cb9c41.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/42ab3248d72f35791371abfc.avif",
+      "archived": true,
+      "originalPath": "images/42ab3248d72f35791371abfc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4c62771656447ba2268043ce.avif",
+      "archived": true,
+      "originalPath": "images/4c62771656447ba2268043ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/aa775d99955f472aae95f852.avif",
+      "archived": true,
+      "originalPath": "images/aa775d99955f472aae95f852.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-07-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/dddb5cc7ec61683ed4398879.jpg",
+      "archived": true,
+      "originalPath": "images/dddb5cc7ec61683ed4398879.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-10-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/da71c7a7f9f046f906a981d0.avif",
+      "archived": true,
+      "originalPath": "images/da71c7a7f9f046f906a981d0.avif"
+    }
+  ],
+  "featuredImage": "images/5e6981e536e2ea05a9f70fb1.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Matcha Skillet Souffle",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Matcha Skillet Souffle. The serving comes out to be 536 calories, 43.2g fats, 6.3g net carbs, and 23.6g protein.",
+    "datePublished": "2017-12-05T12:00:05+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "3 large egg",
+      "2 tablespoon powdered stevia/erythritol blend",
+      "1 teaspoon vanilla extract",
+      "1 tablespoon matcha powder",
+      "1 tablespoon butter",
+      "15 gram raspberries",
+      "1 tablespoon coconut oil",
+      "1 tablespoon unsweetened cocoa powder",
+      "1/4 cup whipped cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Set the oven to broil and preheat a cast iron pan over medium heat. Separate the eggs into yolks and whites.",
+        "name": "Set the oven to broil and preheat a cast iron pan over medium heat. Separate the eggs into yolks and whites.",
+        "url": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whip the whites with the 1/2 of the confectioners sweetener. Once peaks form, add in the matcha powder. Continue to whip until the peaks become stiff. (I’ve also done this by adding everything at once to a stand mixer, but it failed to whip with a hand mixer.)",
+        "name": "Whip the whites with the 1/2 of the confectioners sweetener. Once peaks form, add in the matcha powder. Continue to whip until the peaks become stiff. (I’ve also done this by adding everything at once to a stand mixer, but it failed to whip with a hand mixer.)",
+        "url": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a fork to break up the yolks. Mix in the vanilla, then add a small amount of the whipped whites and combine. Carefully fold the rest of the whites into the yolk mixture.",
+        "name": "Use a fork to break up the yolks. Mix in the vanilla, then add a small amount of the whipped whites and combine. Carefully fold the rest of the whites into the yolk mixture.",
+        "url": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter to the cast iron pan. Allow it to melt, then add the souffle mixture to the pan. Turn the heat to low, then place the raspberries on top. Let it cook until the eggs puff up and feel set, if you carefully tap the top.",
+        "name": "Add the butter to the cast iron pan. Allow it to melt, then add the souffle mixture to the pan. Turn the heat to low, then place the raspberries on top. Let it cook until the eggs puff up and feel set, if you carefully tap the top.",
+        "url": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Move the skillet to the oven and watch it carefully. Remove once the top starts to brown. If you leave it in too long, it may turn quite dark or burn.",
+        "name": "Move the skillet to the oven and watch it carefully. Remove once the top starts to brown. If you leave it in too long, it may turn quite dark or burn.",
+        "url": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the coconut oil then whisk in the cocoa powder and remaining confectioners sweetener. Drizzle across the top. Serve with whipped cream.",
+        "name": "Melt the coconut oil then whisk in the cocoa powder and remaining confectioners sweetener. Drizzle across the top. Serve with whipped cream.",
+        "url": "https://www.ruled.me/matcha-skillet-souffle/#wprm-recipe-52353-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "30-minute, gluten-free, high-fat, keto, low-carb, nut-free, quick, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "536 kcal",
+      "fatContent": "43.2 g",
+      "proteinContent": "23.6 g",
+      "carbohydrateContent": "6.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/matcha-skillet-souffle/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/matcha-skillet-souffle/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/matcha-skillet-souffle/"
+  },
+  "sourceIndex": {
+    "id": 34519,
+    "rid": 52353,
+    "t": "Matcha Skillet Souffle",
+    "u": "/matcha-skillet-souffle/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/matcha-skillet-souffle-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 6.3,
+    "cal": 536,
+    "pr": 23.6,
+    "fa": 43.2,
+    "tm": 25,
+    "sv": 1,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "stovetop",
+      "high-protein"
+    ],
+    "d": "2017-12-05",
+    "cm": 0,
+    "ex": "This sweet breakfast treat for one will brighten your morning! The Matcha Skillet Souffle is a sweetened whipped omelet with green matcha, bright raspberries, plus a drizzle of chocolate and a dollop",
+    "pv": 36
+  },
+  "sourceHtml": "pages/matcha-skillet-souffle.html",
+  "scrapedAt": "2026-11-07T08:30:47.218Z"
+}

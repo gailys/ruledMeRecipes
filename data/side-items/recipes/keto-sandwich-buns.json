@@ -1,0 +1,227 @@
+{
+  "id": "ruled-60153",
+  "slug": "keto-sandwich-buns",
+  "title": "Keto Sandwich Buns",
+  "url": "https://www.ruled.me/keto-sandwich-buns/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Sandwich Buns. Each serving comes out to be 173 calories, 11.8g fats, 3.5g net carbs, and 6.6g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT50M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "fatContent": "11.8 g",
+    "proteinContent": "6.6 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 173,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 6.6,
+    "fatGrams": 11.8
+  },
+  "ingredients": [
+    "5 ounce almond flour",
+    "45 gram psyllium husk powder",
+    "2 teaspoon baking powder",
+    "1 teaspoon sea salt",
+    "6 tablespoon egg white",
+    "1 ounce apple cider vinegar",
+    "1 cup water (boiling)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients and preheat oven to 350F. Have water heated to boiling point ready. In a food processor, combine all dry ingredients and mix until well combined. Add the eggs and vinegar and mix again, forming a thick dough. While processor is running, carefully measure and pour in hot water. Mix until dough clumps up together into a ball.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sandwich-buns/#wprm-recipe-60152-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Remove dough and place on parchment paper or silpat. Form into buns in the shape you prefer, in an amount that equals serving size. They may look small, but they will expand to double or triple the size as they bake.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sandwich-buns/#wprm-recipe-60152-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Place parchment paper or silpat with buns onto a baking sheet. Bake for 50 - 55 minutes, keeping an eye on them. Buns are ready when top is brown and somewhat firm to the touch. Remove from oven and let rest for 10 minutes, then place on cooling rack until completely cooled. They can be stored on the counter in a plastic bag for approximately 3 days or in the fridge or freezer longer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sandwich-buns/#wprm-recipe-60152-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/keto-sandwich-buns-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "oven-baked",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777-768x512.jpeg",
+      "path": "../../nenaudojama/side-items/images/446d39bd674656888ca03679.avif",
+      "archived": true,
+      "originalPath": "images/446d39bd674656888ca03679.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777.jpeg",
+      "path": "../../nenaudojama/side-items/images/752b72e37769c528aa7685ef.jpeg",
+      "archived": true,
+      "originalPath": "images/752b72e37769c528aa7685ef.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/keto-sandwich-buns-step-01.jpeg",
+      "path": "../../nenaudojama/side-items/images/c31aca1c505fd07fb43eb212.jpeg",
+      "archived": true,
+      "originalPath": "images/c31aca1c505fd07fb43eb212.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777-300x300.jpeg",
+      "path": "../../nenaudojama/side-items/images/16e26ca9b672afd6257277ae.avif",
+      "archived": true,
+      "originalPath": "images/16e26ca9b672afd6257277ae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/keto-sandwich-buns-step-01-241x350.jpeg",
+      "path": "../../nenaudojama/side-items/images/4bd66113e18d61f2e3e370f1.jpeg",
+      "archived": true,
+      "originalPath": "images/4bd66113e18d61f2e3e370f1.jpeg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/752b72e37769c528aa7685ef.jpeg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Sandwich Buns",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Keto Sandwich Buns. Each serving comes out to be 173 calories, 11.8g fats, 3.5g net carbs, and 6.6g protein.",
+    "datePublished": "2026-10-20T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "5 ounce almond flour",
+      "45 gram psyllium husk powder",
+      "2 teaspoon baking powder",
+      "1 teaspoon sea salt",
+      "6 tablespoon egg white",
+      "1 ounce apple cider vinegar",
+      "1 cup water (boiling)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients and preheat oven to 350F. Have water heated to boiling point ready. In a food processor, combine all dry ingredients and mix until well combined. Add the eggs and vinegar and mix again, forming a thick dough. While processor is running, carefully measure and pour in hot water. Mix until dough clumps up together into a ball.",
+        "name": "Gather all ingredients and preheat oven to 350F. Have water heated to boiling point ready. In a food processor, combine all dry ingredients and mix until well combined. Add the eggs and vinegar and mix again, forming a thick dough. While processor is running, carefully measure and pour in hot water. Mix until dough clumps up together into a ball.",
+        "url": "https://www.ruled.me/keto-sandwich-buns/#wprm-recipe-60152-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove dough and place on parchment paper or silpat. Form into buns in the shape you prefer, in an amount that equals serving size. They may look small, but they will expand to double or triple the size as they bake.",
+        "name": "Remove dough and place on parchment paper or silpat. Form into buns in the shape you prefer, in an amount that equals serving size. They may look small, but they will expand to double or triple the size as they bake.",
+        "url": "https://www.ruled.me/keto-sandwich-buns/#wprm-recipe-60152-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place parchment paper or silpat with buns onto a baking sheet. Bake for 50 - 55 minutes, keeping an eye on them. Buns are ready when top is brown and somewhat firm to the touch. Remove from oven and let rest for 10 minutes, then place on cooling rack until completely cooled. They can be stored on the counter in a plastic bag for approximately 3 days or in the fridge or freezer longer.",
+        "name": "Place parchment paper or silpat with buns onto a baking sheet. Bake for 50 - 55 minutes, keeping an eye on them. Buns are ready when top is brown and somewhat firm to the touch. Remove from oven and let rest for 10 minutes, then place on cooling rack until completely cooled. They can be stored on the counter in a plastic bag for approximately 3 days or in the fridge or freezer longer.",
+        "url": "https://www.ruled.me/keto-sandwich-buns/#wprm-recipe-60152-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/keto-sandwich-buns-step-01.jpeg"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, freezer-friendly, gluten-free, keto, low-carb, make-ahead, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "173 kcal",
+      "fatContent": "11.8 g",
+      "proteinContent": "6.6 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-sandwich-buns/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-sandwich-buns/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-sandwich-buns/"
+  },
+  "sourceIndex": {
+    "id": 60153,
+    "rid": 60152,
+    "t": "Keto Sandwich Buns",
+    "u": "/keto-sandwich-buns/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/67ec01338d96fa030714e1c3b3a71777-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.5,
+    "cal": 173,
+    "pr": 6.6,
+    "fa": 11.8,
+    "tm": 60,
+    "sv": 6,
+    "kw": [
+      "dairy-free",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "oven-baked",
+      "make-ahead"
+    ],
+    "d": "2026-10-20",
+    "cm": 0,
+    "ex": "These Keto Sandwich Buns are a total game-changer for anyone missing the satisfying chew of a traditional roll without the heavy carb count. They boast a surprisingly airy and soft interior with a",
+    "pv": 23
+  },
+  "sourceHtml": "pages/keto-sandwich-buns.html",
+  "scrapedAt": "2026-11-07T08:31:54.433Z"
+}

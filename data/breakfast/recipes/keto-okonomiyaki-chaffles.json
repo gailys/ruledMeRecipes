@@ -1,0 +1,303 @@
+{
+  "id": "ruled-46836",
+  "slug": "keto-okonomiyaki-chaffles",
+  "title": "Keto Okonomiyaki Chaffles",
+  "url": "https://www.ruled.me/keto-okonomiyaki-chaffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Okonomiyaki Chaffles. Each serving comes out to be 289 calories, 22.3g fats, 5g net carbs, and 15g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 kcal",
+    "fatContent": "22.3 g",
+    "proteinContent": "15 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 289,
+    "netCarbsGrams": 5,
+    "proteinGrams": 15,
+    "fatGrams": 22.3
+  },
+  "ingredients": [
+    "2 ounce mozzarella cheese",
+    "2 large egg",
+    "140 gram red cabbage (shredded)",
+    "1 teaspoon fresh garlic (minced)",
+    "1 medium green onion (for garnish)",
+    "salt and pepper (to taste)",
+    "2 tablespoon mayonnaise",
+    "1/4 teaspoon dijon mustard",
+    "1/4 teaspoon soy sauce",
+    "1/4 teaspoon erythritol",
+    "1 teaspoon furikake (for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-1.jpg"
+    },
+    {
+      "text": "In a bowl, mix together the ingredients for the chaffles: mozzarella cheese, eggs, red cabbage, and minced garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-2.jpg"
+    },
+    {
+      "text": "In a waffle maker, make the chaffles.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-3.jpg"
+    },
+    {
+      "text": "In a separate bowl, mix together the sauce by combining mayonnaise, dijon mustard, soy sauce, and erythritol. Stir to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-4.jpg"
+    },
+    {
+      "text": "Drizzle the sauce on top of the chaffles, garnish with green onions, and season with furikake. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/e17673f59fc61261e212ee32.jpg",
+      "archived": true,
+      "originalPath": "images/e17673f59fc61261e212ee32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Featured.jpg",
+      "path": "images/8de03c6d07a5b8a8c0499e80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/c3373cd431240fa8ffe20d32.jpg",
+      "archived": true,
+      "originalPath": "images/c3373cd431240fa8ffe20d32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/4527e2280edb1dae130d3a0f.jpg",
+      "archived": true,
+      "originalPath": "images/4527e2280edb1dae130d3a0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/1c3d1ab23efef775a134a7b4.jpg",
+      "archived": true,
+      "originalPath": "images/1c3d1ab23efef775a134a7b4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/e8f24c62cd23d51676c068ad.jpg",
+      "archived": true,
+      "originalPath": "images/e8f24c62cd23d51676c068ad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/1d339cdcedf3c441704abe61.jpg",
+      "archived": true,
+      "originalPath": "images/1d339cdcedf3c441704abe61.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/dd3cb317a53f848715406497.jpg",
+      "archived": true,
+      "originalPath": "images/dd3cb317a53f848715406497.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/42a8c953bdb8419ce9c408bc.jpg",
+      "archived": true,
+      "originalPath": "images/42a8c953bdb8419ce9c408bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f8323f8168169a0c2e9f3c10.jpg",
+      "archived": true,
+      "originalPath": "images/f8323f8168169a0c2e9f3c10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e850fd4bdc3ec92d08414951.avif",
+      "archived": true,
+      "originalPath": "images/e850fd4bdc3ec92d08414951.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bd8ba6a21d66526a0e4f6f74.jpg",
+      "archived": true,
+      "originalPath": "images/bd8ba6a21d66526a0e4f6f74.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/49d09d34dd1b911df33cb6f7.jpg",
+      "archived": true,
+      "originalPath": "images/49d09d34dd1b911df33cb6f7.jpg"
+    }
+  ],
+  "featuredImage": "images/8de03c6d07a5b8a8c0499e80.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Okonomiyaki Chaffles",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Okonomiyaki Chaffles. Each serving comes out to be 289 calories, 22.3g fats, 5g net carbs, and 15g protein.",
+    "datePublished": "2022-03-10T10:00:56+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 ounce mozzarella cheese",
+      "2 large egg",
+      "140 gram red cabbage (shredded)",
+      "1 teaspoon fresh garlic (minced)",
+      "1 medium green onion (for garnish)",
+      "salt and pepper (to taste)",
+      "2 tablespoon mayonnaise",
+      "1/4 teaspoon dijon mustard",
+      "1/4 teaspoon soy sauce",
+      "1/4 teaspoon erythritol",
+      "1 teaspoon furikake (for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix together the ingredients for the chaffles: mozzarella cheese, eggs, red cabbage, and minced garlic.",
+        "name": "In a bowl, mix together the ingredients for the chaffles: mozzarella cheese, eggs, red cabbage, and minced garlic.",
+        "url": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a waffle maker, make the chaffles.",
+        "name": "In a waffle maker, make the chaffles.",
+        "url": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, mix together the sauce by combining mayonnaise, dijon mustard, soy sauce, and erythritol. Stir to combine well.",
+        "name": "In a separate bowl, mix together the sauce by combining mayonnaise, dijon mustard, soy sauce, and erythritol. Stir to combine well.",
+        "url": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the sauce on top of the chaffles, garnish with green onions, and season with furikake. Enjoy!",
+        "name": "Drizzle the sauce on top of the chaffles, garnish with green onions, and season with furikake. Enjoy!",
+        "url": "https://www.ruled.me/keto-okonomiyaki-chaffles/#wprm-recipe-54107-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Japanese"
+    ],
+    "keywords": "15-minute, beginner-friendly, keto, low-carb, nut-free, quick, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "289 kcal",
+      "fatContent": "22.3 g",
+      "proteinContent": "15 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-okonomiyaki-chaffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-okonomiyaki-chaffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-okonomiyaki-chaffles/"
+  },
+  "sourceIndex": {
+    "id": 46836,
+    "rid": 54107,
+    "t": "Keto Okonomiyaki Chaffles",
+    "u": "/keto-okonomiyaki-chaffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/01/Okonomiyaki-Chaffles-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5,
+    "cal": 289,
+    "pr": 15,
+    "fa": 22.3,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "stovetop"
+    ],
+    "d": "2022-03-10",
+    "cm": 0,
+    "ex": "Okonomiyaki is a classic Japanese pancake, usually made from cabbage and drizzled in a savory sauce. However, the okonomiyaki is wheat based, meaning not keto friendly. So of course, here's a keto",
+    "pv": 210
+  },
+  "sourceHtml": "pages/keto-okonomiyaki-chaffles.html",
+  "scrapedAt": "2026-11-07T08:11:12.285Z"
+}

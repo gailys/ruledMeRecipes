@@ -1,0 +1,331 @@
+{
+  "id": "ruled-48923",
+  "slug": "keto-cauliflower-chicken",
+  "title": "Keto Cauliflower Chicken",
+  "url": "https://www.ruled.me/keto-cauliflower-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Cauliflower Chicken. Each serving comes out to be 471 calories, 34.2g fats, 4.4g net carbs, and 36.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT360M",
+  "totalTime": "PT370M",
+  "totalMinutes": 370,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "471 kcal",
+    "fatContent": "34.2 g",
+    "proteinContent": "36.5 g",
+    "carbohydrateContent": "4.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 471,
+    "netCarbsGrams": 4.4,
+    "proteinGrams": 36.5,
+    "fatGrams": 34.2
+  },
+  "ingredients": [
+    "24 ounce frozen cauliflower",
+    "4 ounce cream cheese",
+    "1 cup mozzarella cheese",
+    "1 cup cheddar cheese",
+    "3 ounce cooked bacon (chopped)",
+    "3 medium green onion (diced)",
+    "24 ounce boneless, skinless chicken thighs (cubed)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-1-1.jpg"
+    },
+    {
+      "text": "Slice the chicken thighs into cubes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-2-2.jpg"
+    },
+    {
+      "text": "Place half of the cauliflower onto the bottom of a crock pot. Cube the cream cheese and add that into the pot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-3-2.jpg"
+    },
+    {
+      "text": "Add in the cubed chicken thighs and another layer of the cauliflower and cubed cream cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-4-2.jpg"
+    },
+    {
+      "text": "Add the cheddar cheese and chopped bacon. Cook on low for 5 - 6 hours and stir about two times while cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-5-2.jpg"
+    },
+    {
+      "text": "Garnish with green onions. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "poultry",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/0d111b965226adc6ab17cc8b.avif",
+      "archived": true,
+      "originalPath": "images/0d111b965226adc6ab17cc8b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Featured.jpg",
+      "path": "images/b6e434c79618970a1296eb2e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-1-1.jpg",
+      "path": "../../nenaudojama/dinner/images/a63eb5bca688cb4c01a2bfa0.jpg",
+      "archived": true,
+      "originalPath": "images/a63eb5bca688cb4c01a2bfa0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-2-2.jpg",
+      "path": "../../nenaudojama/dinner/images/ca4100e2efe6bac8f7aa2390.jpg",
+      "archived": true,
+      "originalPath": "images/ca4100e2efe6bac8f7aa2390.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-3-2.jpg",
+      "path": "../../nenaudojama/dinner/images/14414bdd7227b19eca9123e4.jpg",
+      "archived": true,
+      "originalPath": "images/14414bdd7227b19eca9123e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-4-2.jpg",
+      "path": "../../nenaudojama/dinner/images/6354858f68567c398b58931c.jpg",
+      "archived": true,
+      "originalPath": "images/6354858f68567c398b58931c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-5-2.jpg",
+      "path": "../../nenaudojama/dinner/images/b0e5fe05a38151f63be11047.jpg",
+      "archived": true,
+      "originalPath": "images/b0e5fe05a38151f63be11047.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/2d433c39fed36fb3a42fa106.jpg",
+      "archived": true,
+      "originalPath": "images/2d433c39fed36fb3a42fa106.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Long-2.jpg",
+      "path": "../../nenaudojama/dinner/images/a260fc6ef2fdda23b61861dc.jpg",
+      "archived": true,
+      "originalPath": "images/a260fc6ef2fdda23b61861dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/bb6c5d684f3052c211d8f3d2.avif",
+      "archived": true,
+      "originalPath": "images/bb6c5d684f3052c211d8f3d2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-1-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bd1af2d7c02ba42052ceefcc.jpg",
+      "archived": true,
+      "originalPath": "images/bd1af2d7c02ba42052ceefcc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-2-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7c6d7ade96e381be9d13ebd5.jpg",
+      "archived": true,
+      "originalPath": "images/7c6d7ade96e381be9d13ebd5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-3-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/db736c66558e97f56acb45a3.jpg",
+      "archived": true,
+      "originalPath": "images/db736c66558e97f56acb45a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-4-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c2a4218cab287bf15c7f71d4.jpg",
+      "archived": true,
+      "originalPath": "images/c2a4218cab287bf15c7f71d4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-5-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1a379e0b91724f5537e06906.avif",
+      "archived": true,
+      "originalPath": "images/1a379e0b91724f5537e06906.avif"
+    }
+  ],
+  "featuredImage": "images/b6e434c79618970a1296eb2e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cauliflower Chicken",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 6 servings of Keto Cauliflower Chicken. Each serving comes out to be 471 calories, 34.2g fats, 4.4g net carbs, and 36.5g protein.",
+    "datePublished": "2023-06-06T09:00:52+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT360M",
+    "totalTime": "PT370M",
+    "recipeIngredient": [
+      "24 ounce frozen cauliflower",
+      "4 ounce cream cheese",
+      "1 cup mozzarella cheese",
+      "1 cup cheddar cheese",
+      "3 ounce cooked bacon (chopped)",
+      "3 medium green onion (diced)",
+      "24 ounce boneless, skinless chicken thighs (cubed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-1-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the chicken thighs into cubes.",
+        "name": "Slice the chicken thighs into cubes.",
+        "url": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-2-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place half of the cauliflower onto the bottom of a crock pot. Cube the cream cheese and add that into the pot.",
+        "name": "Place half of the cauliflower onto the bottom of a crock pot. Cube the cream cheese and add that into the pot.",
+        "url": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-3-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the cubed chicken thighs and another layer of the cauliflower and cubed cream cheese.",
+        "name": "Add in the cubed chicken thighs and another layer of the cauliflower and cubed cream cheese.",
+        "url": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-4-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cheddar cheese and chopped bacon. Cook on low for 5 - 6 hours and stir about two times while cooking.",
+        "name": "Add the cheddar cheese and chopped bacon. Cook on low for 5 - 6 hours and stir about two times while cooking.",
+        "url": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-5-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with green onions. Enjoy!",
+        "name": "Garnish with green onions. Enjoy!",
+        "url": "https://www.ruled.me/keto-cauliflower-chicken/#wprm-recipe-54641-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan meals, poultry, simple &amp; easy, simple-and-easy, slow cooker, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "471 kcal",
+      "fatContent": "34.2 g",
+      "proteinContent": "36.5 g",
+      "carbohydrateContent": "4.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cauliflower-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cauliflower-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cauliflower-chicken/"
+  },
+  "sourceIndex": {
+    "id": 48923,
+    "rid": 54641,
+    "t": "Keto Cauliflower Chicken",
+    "u": "/keto-cauliflower-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Cauliflower-Chicken-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.4,
+    "cal": 471,
+    "pr": 36.5,
+    "fa": 34.2,
+    "tm": 370,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "poultry",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2023-06-06",
+    "cm": 0,
+    "ex": "Cream cheese, shredded cheese, chicken, bacon, and frozen cauliflower all combined in the crockpot create this cheesy and decadent casserole that’s perfect for those who don’t have much time to spend",
+    "pv": 135
+  },
+  "sourceHtml": "pages/keto-cauliflower-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:43.695Z"
+}

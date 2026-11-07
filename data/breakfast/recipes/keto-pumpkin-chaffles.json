@@ -1,0 +1,356 @@
+{
+  "id": "ruled-48657",
+  "slug": "keto-pumpkin-chaffles",
+  "title": "Keto Pumpkin Chaffles",
+  "url": "https://www.ruled.me/keto-pumpkin-chaffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Pumpkin Chaffles. Each serving comes out to be 168 calories, 12g fats, 2.9g net carbs, and 10.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "fatContent": "12 g",
+    "proteinContent": "10.8 g",
+    "carbohydrateContent": "2.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 168,
+    "netCarbsGrams": 2.9,
+    "proteinGrams": 10.8,
+    "fatGrams": 12
+  },
+  "ingredients": [
+    "1/2 ounce cream cheese",
+    "1 large egg",
+    "1/2 cup mozzarella cheese (shredded)",
+    "2 tablespoon pumpkin puree",
+    "2 tablespoon erythritol",
+    "1 tablespoon coconut flour",
+    "1 teaspoon pumpkin pie spice"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Turn on your waffle maker.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-1.jpg"
+    },
+    {
+      "text": "Heat up the cream cheese slightly in a microwave safe bowl for about 10 - 15 seconds or until you can easily stir it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-2.jpg"
+    },
+    {
+      "text": "In a bowl, combine melted cream cheese, egg, shredded mozzarella cheese, pumpkin puree, coconut flour, pumpkin pie spice, and erythritol.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-3.jpg"
+    },
+    {
+      "text": "Stir all of these ingredients together until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-4.jpg"
+    },
+    {
+      "text": "Using a large spoon, spoon in the pumpkin mixture into the waffle maker. Make the chaffles according to the waffle maker settings or until they are nice and crispy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-5.jpg"
+    },
+    {
+      "text": "Use the chaffle batter up until all chaffles are made. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/06f58e6ca8fd13565494c92c.jpg",
+      "archived": true,
+      "originalPath": "images/06f58e6ca8fd13565494c92c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Featured.jpg",
+      "path": "images/371503ab4f310b2d3e0b78e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/78fcdbe75e5050924a96c370.jpg",
+      "archived": true,
+      "originalPath": "images/78fcdbe75e5050924a96c370.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/fff2b7cef9277ff33f37fc0e.jpg",
+      "archived": true,
+      "originalPath": "images/fff2b7cef9277ff33f37fc0e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/3c8dd1b449bf86d3ef30119c.avif",
+      "archived": true,
+      "originalPath": "images/3c8dd1b449bf86d3ef30119c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/6aced238522f6416e44cb1f2.jpg",
+      "archived": true,
+      "originalPath": "images/6aced238522f6416e44cb1f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/e187cc5c742224d8516d0d73.jpg",
+      "archived": true,
+      "originalPath": "images/e187cc5c742224d8516d0d73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/a860b02b5b1954cce37bda12.avif",
+      "archived": true,
+      "originalPath": "images/a860b02b5b1954cce37bda12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/7d174acb385361c4324b161b.jpg",
+      "archived": true,
+      "originalPath": "images/7d174acb385361c4324b161b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/8eb121cfc53ebe5654144c0f.jpg",
+      "archived": true,
+      "originalPath": "images/8eb121cfc53ebe5654144c0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/65bf3ea4f3aeb1d5cc110cd1.jpg",
+      "archived": true,
+      "originalPath": "images/65bf3ea4f3aeb1d5cc110cd1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/10995c4ce328c3bb22a5e719.jpg",
+      "archived": true,
+      "originalPath": "images/10995c4ce328c3bb22a5e719.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7f7cc7a1f4d7ab22126d9663.jpg",
+      "archived": true,
+      "originalPath": "images/7f7cc7a1f4d7ab22126d9663.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e8043ed8264b7906ea70a484.jpg",
+      "archived": true,
+      "originalPath": "images/e8043ed8264b7906ea70a484.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7f5e85c958d45ee05edd2f1d.jpg",
+      "archived": true,
+      "originalPath": "images/7f5e85c958d45ee05edd2f1d.jpg"
+    }
+  ],
+  "featuredImage": "images/371503ab4f310b2d3e0b78e6.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pumpkin Chaffles",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Pumpkin Chaffles. Each serving comes out to be 168 calories, 12g fats, 2.9g net carbs, and 10.8g protein.",
+    "datePublished": "2023-04-06T09:00:53+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Featured.jpg"
+    ],
+    "video": {
+      "name": "Easy Keto Pumpkin Chaffles",
+      "description": "We love these pumpkin chaffles. They’re keto-friendly, tasty, and go great with lots of different toppings. A chaffle is made with two main ingredients: cheese and egg. While many chaffle recipes turn out soft and eggy, following this recipe ensures they come out crispy and chewy since we include a small amount of coconut flour. The whole family will love these sweet or savory treats. They’re also a good dish to whip up when entertaining as they’re so versatile.\n\nTo make these pumpkin chaffles, you start by preparing the batter. All this requires is mixing all of the ingredients in a bowl—including the pumpkin spice and puree, which is what gives them their pumpkin flavor. When it comes to the cheese, make sure you use shredded mozzarella as it helps the chaffles come out crispier.\n\nTo cook the chaffles, turn your waffle maker on and when it’s hot, add the mixture. Cook each waffle until you’ve used up the whole batch of mixture. Once cooked, serve the chaffles with your favorite toppings—either sweet or savory toppings work great. The choice is yours!\n\nIf you’re looking for a new snack or canape to try out, these pumpkin chaffles are a bonafide treat. Go ahead and make a batch and see for yourself. You won’t be disappointed.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1/2 ounce cream cheese\n1 large egg\n1/2 cup shredded mozzarella cheese\n2 tablespoon pumpkin puree\n2 tablespoon erythritol\n1 tablespoon coconut flour\n1 teaspoon pumpkin pie spice\n\nNutrition Summary: This makes a total of 2 servings of Keto Pumpkin Chaffles. Each serving comes out to be 168 calories, 12g fat, 2.9g net carbs, and 10.8g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-07-16T15:00:27+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M18S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 10353
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 272
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 11
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ncC-FwzO4gc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ncC-FwzO4gc?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=ncC-FwzO4gc",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1/2 ounce cream cheese",
+      "1 large egg",
+      "1/2 cup mozzarella cheese (shredded)",
+      "2 tablespoon pumpkin puree",
+      "2 tablespoon erythritol",
+      "1 tablespoon coconut flour",
+      "1 teaspoon pumpkin pie spice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Turn on your waffle maker.",
+        "name": "Measure out and prepare all of the ingredients. Turn on your waffle maker.",
+        "url": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the cream cheese slightly in a microwave safe bowl for about 10 - 15 seconds or until you can easily stir it.",
+        "name": "Heat up the cream cheese slightly in a microwave safe bowl for about 10 - 15 seconds or until you can easily stir it.",
+        "url": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine melted cream cheese, egg, shredded mozzarella cheese, pumpkin puree, coconut flour, pumpkin pie spice, and erythritol.",
+        "name": "In a bowl, combine melted cream cheese, egg, shredded mozzarella cheese, pumpkin puree, coconut flour, pumpkin pie spice, and erythritol.",
+        "url": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir all of these ingredients together until combined well.",
+        "name": "Stir all of these ingredients together until combined well.",
+        "url": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a large spoon, spoon in the pumpkin mixture into the waffle maker. Make the chaffles according to the waffle maker settings or until they are nice and crispy.",
+        "name": "Using a large spoon, spoon in the pumpkin mixture into the waffle maker. Make the chaffles according to the waffle maker settings or until they are nice and crispy.",
+        "url": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use the chaffle batter up until all chaffles are made. Serve and enjoy!",
+        "name": "Use the chaffle batter up until all chaffles are made. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-pumpkin-chaffles/#wprm-recipe-54567-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Breakfast",
+      "Dessert"
+    ],
+    "keywords": "15-minute, beginner-friendly, fall, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "168 kcal",
+      "fatContent": "12 g",
+      "proteinContent": "10.8 g",
+      "carbohydrateContent": "2.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pumpkin-chaffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pumpkin-chaffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pumpkin-chaffles/"
+  },
+  "sourceIndex": {
+    "id": 48657,
+    "rid": 54567,
+    "t": "Keto Pumpkin Chaffles",
+    "u": "/keto-pumpkin-chaffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Pumpkin-Chaffles-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.9,
+    "cal": 168,
+    "pr": 10.8,
+    "fa": 12,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free"
+    ],
+    "d": "2023-04-06",
+    "cm": 2,
+    "ex": "We love these pumpkin chaffles. They’re keto-friendly, tasty, and go great with lots of different toppings. A chaffle is made with two main ingredients: cheese and egg. While many chaffle recipes",
+    "pv": 102
+  },
+  "sourceHtml": "pages/keto-pumpkin-chaffles.html",
+  "scrapedAt": "2026-11-07T08:11:12.006Z"
+}

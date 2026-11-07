@@ -1,0 +1,283 @@
+{
+  "id": "ruled-60001",
+  "slug": "low-carb-green-pesto-pizza",
+  "title": "Low-Carb Green Pesto Pizza",
+  "url": "https://www.ruled.me/low-carb-green-pesto-pizza/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Low-Carb Green Pesto Pizza. Each serving comes out to be 539 calories, 31.4g fats, 16.9g net carbs, and 24.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "539 kcal",
+    "fatContent": "31.4 g",
+    "proteinContent": "24.8 g",
+    "carbohydrateContent": "16.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 539,
+    "netCarbsGrams": 16.9,
+    "proteinGrams": 24.8,
+    "fatGrams": 31.4
+  },
+  "ingredients": [
+    "9 ounce broccoli (chopped)",
+    "3 ounce onion (chopped)",
+    "3 teaspoon fresh garlic (peeled)",
+    "6 tablespoon almond flour",
+    "3 tablespoon psyllium husk powder",
+    "2 large egg",
+    "1 teaspoon salt",
+    "3 tablespoon pesto",
+    "1/2 cup mozzarella cheese (shredded)",
+    "1/3 cup feta cheese (crumbled)",
+    "1/4 cup fresh basil (chopped)",
+    "olive oil (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat the oven to 375F. Add the broccoli, onion, and garlic to a food processor. Pulse until the mixture resembles breadcrumbs. Add the rest of the crust ingredients, then pulse together. Scrape down the sides of the bowl if necessary.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-01.jpg"
+    },
+    {
+      "text": "Place the dough in the center of a piece of parchment paper. Use a second piece of parchment paper on top of the dough. Using a rolling pin, roll it into a flat circle, roughly 1 to 1 1/2 cm thick.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-02.jpg"
+    },
+    {
+      "text": "Place parchment paper with crust on a baking sheet or pizza pan. Bake for 12-15 minutes, or until the crust is firm and browned. Remove from the oven and spread the pesto sauce evenly over the crust. Top with the cheeses.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-03.jpg"
+    },
+    {
+      "text": "Bake for another 8–10 minutes, or until the cheese has melted and browned. Garnish with chopped basil and a drizzle of olive oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/c932daab10326d4d319cfea3.avif",
+      "archived": true,
+      "originalPath": "images/c932daab10326d4d319cfea3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14.jpg",
+      "path": "images/7d497487816f35cd9f576649.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/0d1710d7688463bfb7d764ed.jpg",
+      "archived": true,
+      "originalPath": "images/0d1710d7688463bfb7d764ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/bfec574bbb08dafdd400c88c.jpg",
+      "archived": true,
+      "originalPath": "images/bfec574bbb08dafdd400c88c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-03.jpg",
+      "path": "../../nenaudojama/lunch/images/9a77e396502a0135f55289d8.jpg",
+      "archived": true,
+      "originalPath": "images/9a77e396502a0135f55289d8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-04.jpg",
+      "path": "../../nenaudojama/lunch/images/325dc29d89618be22cd42b34.jpg",
+      "archived": true,
+      "originalPath": "images/325dc29d89618be22cd42b34.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/3d449e11b7dabd3a19a9b546.jpg",
+      "archived": true,
+      "originalPath": "images/3d449e11b7dabd3a19a9b546.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2f93105a541c4faba98b91bf.jpg",
+      "archived": true,
+      "originalPath": "images/2f93105a541c4faba98b91bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6aad39798d03e81f52da03fb.jpg",
+      "archived": true,
+      "originalPath": "images/6aad39798d03e81f52da03fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/49f2b94a9f4f90e5e8fff527.jpg",
+      "archived": true,
+      "originalPath": "images/49f2b94a9f4f90e5e8fff527.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-04-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f3e0ed25d61b989487b7648e.jpg",
+      "archived": true,
+      "originalPath": "images/f3e0ed25d61b989487b7648e.jpg"
+    }
+  ],
+  "featuredImage": "images/7d497487816f35cd9f576649.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Green Pesto Pizza",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Low-Carb Green Pesto Pizza. Each serving comes out to be 539 calories, 31.4g fats, 16.9g net carbs, and 24.8g protein.",
+    "datePublished": "2026-04-28T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "9 ounce broccoli (chopped)",
+      "3 ounce onion (chopped)",
+      "3 teaspoon fresh garlic (peeled)",
+      "6 tablespoon almond flour",
+      "3 tablespoon psyllium husk powder",
+      "2 large egg",
+      "1 teaspoon salt",
+      "3 tablespoon pesto",
+      "1/2 cup mozzarella cheese (shredded)",
+      "1/3 cup feta cheese (crumbled)",
+      "1/4 cup fresh basil (chopped)",
+      "olive oil (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375F. Add the broccoli, onion, and garlic to a food processor. Pulse until the mixture resembles breadcrumbs. Add the rest of the crust ingredients, then pulse together. Scrape down the sides of the bowl if necessary.",
+        "name": "Preheat the oven to 375F. Add the broccoli, onion, and garlic to a food processor. Pulse until the mixture resembles breadcrumbs. Add the rest of the crust ingredients, then pulse together. Scrape down the sides of the bowl if necessary.",
+        "url": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the dough in the center of a piece of parchment paper. Use a second piece of parchment paper on top of the dough. Using a rolling pin, roll it into a flat circle, roughly 1 to 1 1/2 cm thick.",
+        "name": "Place the dough in the center of a piece of parchment paper. Use a second piece of parchment paper on top of the dough. Using a rolling pin, roll it into a flat circle, roughly 1 to 1 1/2 cm thick.",
+        "url": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place parchment paper with crust on a baking sheet or pizza pan. Bake for 12-15 minutes, or until the crust is firm and browned. Remove from the oven and spread the pesto sauce evenly over the crust. Top with the cheeses.",
+        "name": "Place parchment paper with crust on a baking sheet or pizza pan. Bake for 12-15 minutes, or until the crust is firm and browned. Remove from the oven and spread the pesto sauce evenly over the crust. Top with the cheeses.",
+        "url": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for another 8–10 minutes, or until the cheese has melted and browned. Garnish with chopped basil and a drizzle of olive oil.",
+        "name": "Bake for another 8–10 minutes, or until the cheese has melted and browned. Garnish with chopped basil and a drizzle of olive oil.",
+        "url": "https://www.ruled.me/low-carb-green-pesto-pizza/#wprm-recipe-60000-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/low-carb-green-pesto-pizza-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "gluten-free, high-fat, keto, low-carb, oven-baked, simple &amp; easy, sugar-free, vegetarian, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "539 kcal",
+      "fatContent": "31.4 g",
+      "proteinContent": "24.8 g",
+      "carbohydrateContent": "16.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-green-pesto-pizza/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-green-pesto-pizza/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-green-pesto-pizza/"
+  },
+  "sourceIndex": {
+    "id": 60001,
+    "rid": 60000,
+    "t": "Low-Carb Green Pesto Pizza",
+    "u": "/low-carb-green-pesto-pizza/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/788ec0812c90e2f764b75cedf8f0fa14-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 16.9,
+    "cal": 539,
+    "pr": 24.8,
+    "fa": 31.4,
+    "tm": 35,
+    "sv": 2,
+    "kw": [
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian",
+      "oven-baked",
+      "high-protein"
+    ],
+    "d": "2026-04-28",
+    "cm": 0,
+    "ex": "This Low-Carb Green Pesto Pizza is a refreshing and vibrant twist on your standard pizza night, offering a burst of herbaceous flavor that perfectly complements a keto lifestyle. The crust, made from",
+    "pv": 164
+  },
+  "sourceHtml": "pages/low-carb-green-pesto-pizza.html",
+  "scrapedAt": "2026-11-07T08:14:45.466Z"
+}

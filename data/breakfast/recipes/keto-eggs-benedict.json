@@ -1,0 +1,543 @@
+{
+  "id": "ruled-43618",
+  "slug": "keto-eggs-benedict",
+  "title": "Keto Eggs Benedict",
+  "url": "https://www.ruled.me/keto-eggs-benedict/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Eggs Benedict. Each serving comes out to be 781 calories, 60.9g fats, 5.9g net carbs, and 50g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "781 kcal",
+    "fatContent": "60.9 g",
+    "proteinContent": "50 g",
+    "carbohydrateContent": "5.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 781,
+    "netCarbsGrams": 5.9,
+    "proteinGrams": 50,
+    "fatGrams": 60.9
+  },
+  "ingredients": [
+    "2 large egg yolks",
+    "2 tablespoon butter",
+    "1 teaspoon lemon juice",
+    "salt and paprika (to taste)",
+    "2 servings 90 second keto mug bread",
+    "4 large eggs",
+    "5 ounce canadian bacon (about 4 small slices)",
+    "1 tablespoon white vinegar",
+    "salt (as needed)",
+    "2 teaspoon butter",
+    "1 tablespoon chives (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. Prepare the 90 second keto mug bread, slice, and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-1.jpg"
+    },
+    {
+      "text": "Set a pot of water (about 1-2 inches worth of water) to boil on the stove. Once boiling, turn down to medium-low to simmer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-2.jpg"
+    },
+    {
+      "text": "Separate egg yolks (for the hollandaise) and set the whites aside for a different recipe. Whisk the egg yolks in a metal bowl (that will fit over the pot) until they're glossy and deep yellow. Add the lemon juice and whisk well again until incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-3.jpg"
+    },
+    {
+      "text": "Melt the butter in the microwave or in a pan. Once melted, place the metal bowl over the pot as a double boiler. As the egg yolk mixture heats up, add the butter slowly while whisking to emulsify together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-4.jpg"
+    },
+    {
+      "text": "Continue whisking together as the mixture comes together and thickens up. Make sure not to apply too much heat to the mixture as the eggs will become scrambled if they get too hot. Once finished, the mixture should coat the back of a spoon well. If you dip a spoon in, you can run your finger along it and see the indentation clearly of where you swiped.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-5.jpg"
+    },
+    {
+      "text": "Season the hollandaise with salt and paprika, then set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-6.jpg"
+    },
+    {
+      "text": "Fill the pot of water with more water if needed, you want about 3-4 inches of water. Set the heat to medium-high again to get the water to boil. Once boiling, reduce the heat to simmer, then add salt and vinegar to the water.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-7.jpg"
+    },
+    {
+      "text": "Crack an egg into a small ramekin or dish. Use a spoon to stir the simmering water in a pot, creating a whirlpool, then gently pour the egg into the water. Try not to drop the egg as you want it to stay together to poach.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-8.jpg"
+    },
+    {
+      "text": "Let the egg cook for 2-3 minutes, then remove from the pan with a slotted spoon. Place on a plate with paper towels gently, and repeat the process with the remaining eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-9.jpg"
+    },
+    {
+      "text": "In a separate pan, fry up the canadian bacon until slightly browned on both sides, or to your liking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-10.jpg"
+    },
+    {
+      "text": "If desired, toast the mug bread with butter or just spread butter over the top of each slice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-11.jpg"
+    },
+    {
+      "text": "Assemble the eggs benedict. Place one slice of mug bread, canadian bacon, and a poached egg on top of each other. Season the egg with salt and pepper, if desired. Repeat this process with the remaining mug bread, canadian bacon, and eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-12.jpg"
+    },
+    {
+      "text": "Lastly, spoon the hollandaise mixture over the top of the eggs. If the hollandaise has become too thick, you can add a small amount of water into it and stir together until it's spoonable again. Garnish with chopped chives and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-12",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/c70bd85507e914a9e3492774.jpg",
+      "archived": true,
+      "originalPath": "images/c70bd85507e914a9e3492774.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Featured.jpg",
+      "path": "images/e762f218b1115c430dd059a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/e1ae3b36f107e28f46f594f1.jpg",
+      "archived": true,
+      "originalPath": "images/e1ae3b36f107e28f46f594f1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/625a311fd53db331e8e09cb7.jpg",
+      "archived": true,
+      "originalPath": "images/625a311fd53db331e8e09cb7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/19d903173ac682c8fd11026e.webp",
+      "archived": true,
+      "originalPath": "images/19d903173ac682c8fd11026e.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/d72a5cb2ff64c6e6f47a5ced.avif",
+      "archived": true,
+      "originalPath": "images/d72a5cb2ff64c6e6f47a5ced.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/18521c9d792c0922f41f7c71.webp",
+      "archived": true,
+      "originalPath": "images/18521c9d792c0922f41f7c71.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/7ce369118ff716693df080d0.jpg",
+      "archived": true,
+      "originalPath": "images/7ce369118ff716693df080d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-7.jpg",
+      "path": "../../nenaudojama/breakfast/images/0ab1acf77ad0204c0d6db907.jpg",
+      "archived": true,
+      "originalPath": "images/0ab1acf77ad0204c0d6db907.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-8.jpg",
+      "path": "../../nenaudojama/breakfast/images/fdda567e5e633125b0021747.jpg",
+      "archived": true,
+      "originalPath": "images/fdda567e5e633125b0021747.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-9.jpg",
+      "path": "../../nenaudojama/breakfast/images/af90a176a0a7fb2605d88e09.jpg",
+      "archived": true,
+      "originalPath": "images/af90a176a0a7fb2605d88e09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-10.jpg",
+      "path": "../../nenaudojama/breakfast/images/b770bcab20ab7a83fb0eed7d.jpg",
+      "archived": true,
+      "originalPath": "images/b770bcab20ab7a83fb0eed7d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-11.jpg",
+      "path": "../../nenaudojama/breakfast/images/a7bd96fa577bd370f6727b9e.jpg",
+      "archived": true,
+      "originalPath": "images/a7bd96fa577bd370f6727b9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-12.jpg",
+      "path": "../../nenaudojama/breakfast/images/ae3e99291b5eb2f0339c3d07.jpg",
+      "archived": true,
+      "originalPath": "images/ae3e99291b5eb2f0339c3d07.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/d01ddc3a0b736c37ea9879f2.avif",
+      "archived": true,
+      "originalPath": "images/d01ddc3a0b736c37ea9879f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/30078e453024b747c367c4fb.jpg",
+      "archived": true,
+      "originalPath": "images/30078e453024b747c367c4fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/f0b064a11f809a5a566921f4.jpg",
+      "archived": true,
+      "originalPath": "images/f0b064a11f809a5a566921f4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ddc33f5879c600a0a3e5104e.jpg",
+      "archived": true,
+      "originalPath": "images/ddc33f5879c600a0a3e5104e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d7907e595fcb02c07a1011b1.jpg",
+      "archived": true,
+      "originalPath": "images/d7907e595fcb02c07a1011b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f4113efc8f5654f9b7cf3c36.jpg",
+      "archived": true,
+      "originalPath": "images/f4113efc8f5654f9b7cf3c36.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/06d740847f24fdf57f25cc9d.jpg",
+      "archived": true,
+      "originalPath": "images/06d740847f24fdf57f25cc9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2a503a0930f039a38fc499da.jpg",
+      "archived": true,
+      "originalPath": "images/2a503a0930f039a38fc499da.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0c292d6bc95cf943570cd1ec.jpg",
+      "archived": true,
+      "originalPath": "images/0c292d6bc95cf943570cd1ec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-7-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a93683290a3152f8b346a8f5.jpg",
+      "archived": true,
+      "originalPath": "images/a93683290a3152f8b346a8f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-8-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/58f4a409d5d00def45dc2048.jpg",
+      "archived": true,
+      "originalPath": "images/58f4a409d5d00def45dc2048.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-9-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/284ac62e5b8a747b151f2840.jpg",
+      "archived": true,
+      "originalPath": "images/284ac62e5b8a747b151f2840.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-10-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/edfe966be8d6c7123b06d1f9.jpg",
+      "archived": true,
+      "originalPath": "images/edfe966be8d6c7123b06d1f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-11-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/46305389d6a823fa59be4d0f.jpg",
+      "archived": true,
+      "originalPath": "images/46305389d6a823fa59be4d0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-12-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/86e1eaf07165dbbd36589fc0.jpg",
+      "archived": true,
+      "originalPath": "images/86e1eaf07165dbbd36589fc0.jpg"
+    }
+  ],
+  "featuredImage": "images/e762f218b1115c430dd059a6.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Eggs Benedict",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Eggs Benedict. Each serving comes out to be 781 calories, 60.9g fats, 5.9g net carbs, and 50g protein.",
+    "datePublished": "2020-08-11T09:09:53+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Eggs Benedict Recipe [with 90 Second Mug Bread]",
+      "description": "Eggs and bacon is the poster child of keto breakfast, but it can get boring after a while. This is when you know it’s the perfect time to treat yourself to keto-friendly eggs benedict. Start with a slice of toasted keto bread, top it with Canadian bacon and a poached egg, and finish it off with some homemade Hollandaise sauce.\n\nYou’ll have gooey egg yolk, rich Canadian bacon, and a crisp slice of ‘bread’ to soak up all the goodness. Topped with a slightly acidic hollandaise – this is all it takes to transform your everyday keto breakfast into a supremely satisfying low-carb meal.\n\nEggs Benedict is traditionally made with these four components: a toasted English muffin, poached eggs, Hollandaise sauce, and Canadian bacon. Despite these international aspects, the dish actually originates from New York City in the mid to late 19th century.\n\nSince then, dozens of eggs Benedict variations have popped up all over the world. With this keto recipe, however, you’ll learn how to make the original version (but with one keto-friendly twist).\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nHollandaise Sauce\n2 large egg yolks\n2 tablespoon butter\n1 teaspoon lemon juice\nsalt and paprika, to taste\n\nEggs Benedict\n2 servings 90 second keto mug bread\n4 large eggs\n5 ounce canadian bacon, about 4 small slices\n1 tablespoon white vinegar\nsalt, as needed\n2 teaspoon butter\n1 tablespoon chives, chopped\n\nNutrition Summary: This makes a total of 2 servings of Keto Eggs Benedict. Each serving comes out to be 781 calories, 60.9g fats, 5.9g net carbs, and 50g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-03-22T14:00:08+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT3M8S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 14807
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 640
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 20
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XOm6SWDnVI4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XOm6SWDnVI4?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=XOm6SWDnVI4",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 large egg yolks",
+      "2 tablespoon butter",
+      "1 teaspoon lemon juice",
+      "salt and paprika (to taste)",
+      "2 servings 90 second keto mug bread",
+      "4 large eggs",
+      "5 ounce canadian bacon (about 4 small slices)",
+      "1 tablespoon white vinegar",
+      "salt (as needed)",
+      "2 teaspoon butter",
+      "1 tablespoon chives (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. Prepare the 90 second keto mug bread, slice, and set aside.",
+        "name": "Gather and prep all ingredients. Prepare the 90 second keto mug bread, slice, and set aside.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set a pot of water (about 1-2 inches worth of water) to boil on the stove. Once boiling, turn down to medium-low to simmer.",
+        "name": "Set a pot of water (about 1-2 inches worth of water) to boil on the stove. Once boiling, turn down to medium-low to simmer.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Separate egg yolks (for the hollandaise) and set the whites aside for a different recipe. Whisk the egg yolks in a metal bowl (that will fit over the pot) until they're glossy and deep yellow. Add the lemon juice and whisk well again until incorporated.",
+        "name": "Separate egg yolks (for the hollandaise) and set the whites aside for a different recipe. Whisk the egg yolks in a metal bowl (that will fit over the pot) until they're glossy and deep yellow. Add the lemon juice and whisk well again until incorporated.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in the microwave or in a pan. Once melted, place the metal bowl over the pot as a double boiler. As the egg yolk mixture heats up, add the butter slowly while whisking to emulsify together.",
+        "name": "Melt the butter in the microwave or in a pan. Once melted, place the metal bowl over the pot as a double boiler. As the egg yolk mixture heats up, add the butter slowly while whisking to emulsify together.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue whisking together as the mixture comes together and thickens up. Make sure not to apply too much heat to the mixture as the eggs will become scrambled if they get too hot. Once finished, the mixture should coat the back of a spoon well. If you dip a spoon in, you can run your finger along it and see the indentation clearly of where you swiped.",
+        "name": "Continue whisking together as the mixture comes together and thickens up. Make sure not to apply too much heat to the mixture as the eggs will become scrambled if they get too hot. Once finished, the mixture should coat the back of a spoon well. If you dip a spoon in, you can run your finger along it and see the indentation clearly of where you swiped.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the hollandaise with salt and paprika, then set aside.",
+        "name": "Season the hollandaise with salt and paprika, then set aside.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fill the pot of water with more water if needed, you want about 3-4 inches of water. Set the heat to medium-high again to get the water to boil. Once boiling, reduce the heat to simmer, then add salt and vinegar to the water.",
+        "name": "Fill the pot of water with more water if needed, you want about 3-4 inches of water. Set the heat to medium-high again to get the water to boil. Once boiling, reduce the heat to simmer, then add salt and vinegar to the water.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack an egg into a small ramekin or dish. Use a spoon to stir the simmering water in a pot, creating a whirlpool, then gently pour the egg into the water. Try not to drop the egg as you want it to stay together to poach.",
+        "name": "Crack an egg into a small ramekin or dish. Use a spoon to stir the simmering water in a pot, creating a whirlpool, then gently pour the egg into the water. Try not to drop the egg as you want it to stay together to poach.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the egg cook for 2-3 minutes, then remove from the pan with a slotted spoon. Place on a plate with paper towels gently, and repeat the process with the remaining eggs.",
+        "name": "Let the egg cook for 2-3 minutes, then remove from the pan with a slotted spoon. Place on a plate with paper towels gently, and repeat the process with the remaining eggs.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, fry up the canadian bacon until slightly browned on both sides, or to your liking.",
+        "name": "In a separate pan, fry up the canadian bacon until slightly browned on both sides, or to your liking.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If desired, toast the mug bread with butter or just spread butter over the top of each slice.",
+        "name": "If desired, toast the mug bread with butter or just spread butter over the top of each slice.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the eggs benedict. Place one slice of mug bread, canadian bacon, and a poached egg on top of each other. Season the egg with salt and pepper, if desired. Repeat this process with the remaining mug bread, canadian bacon, and eggs.",
+        "name": "Assemble the eggs benedict. Place one slice of mug bread, canadian bacon, and a poached egg on top of each other. Season the egg with salt and pepper, if desired. Repeat this process with the remaining mug bread, canadian bacon, and eggs.",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-with-Mug-Bread-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lastly, spoon the hollandaise mixture over the top of the eggs. If the hollandaise has become too thick, you can add a small amount of water into it and stir together until it's spoonable again. Garnish with chopped chives and enjoy!",
+        "name": "Lastly, spoon the hollandaise mixture over the top of the eggs. If the hollandaise has become too thick, you can add a small amount of water into it and stir together until it's spoonable again. Garnish with chopped chives and enjoy!",
+        "url": "https://www.ruled.me/keto-eggs-benedict/#wprm-recipe-53453-step-0-12"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, high-fat, high-protein, keto, low-carb, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "781 kcal",
+      "fatContent": "60.9 g",
+      "proteinContent": "50 g",
+      "carbohydrateContent": "5.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-eggs-benedict/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-eggs-benedict/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-eggs-benedict/"
+  },
+  "sourceIndex": {
+    "id": 43618,
+    "rid": 53453,
+    "t": "Keto Eggs Benedict",
+    "u": "/keto-eggs-benedict/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Eggs-Benedict-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.9,
+    "cal": 781,
+    "pr": 50,
+    "fa": 60.9,
+    "tm": 25,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2020-08-11",
+    "cm": 0,
+    "ex": "Eggs and bacon is the poster child of keto breakfast, but it can get boring after a while. This is when you know it’s the perfect time to treat yourself to keto-friendly eggs benedict. Start with a",
+    "pv": 407
+  },
+  "sourceHtml": "pages/keto-eggs-benedict.html",
+  "scrapedAt": "2026-11-07T08:11:12.493Z"
+}

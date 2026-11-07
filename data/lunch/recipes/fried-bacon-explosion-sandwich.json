@@ -1,0 +1,307 @@
+{
+  "id": "ruled-7085",
+  "slug": "fried-bacon-explosion-sandwich",
+  "title": "Fried Bacon Explosion Sandwich",
+  "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "Makes a total of 1 serving, 515 Calories, 4.1g Fats, 4g Net Carbs, and 22.9g Protein.",
+  "servings": 1,
+  "yield": [
+    "1"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "515 kcal",
+    "fatContent": "4.1 g",
+    "proteinContent": "22.9 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 515,
+    "netCarbsGrams": 4,
+    "proteinGrams": 22.9,
+    "fatGrams": 4.1
+  },
+  "ingredients": [
+    "Leftover Cheddar Bacon Explosion",
+    "1 Loaf Low Carb Focaccia Bread",
+    "1 Tbsp. Butter"
+  ],
+  "instructions": [
+    {
+      "text": "Slice your cheddar bacon explosion in accordance to your bread. You want 2 slices that will fit on the \"bun\".",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-03.jpg"
+    },
+    {
+      "text": "In a pan, put your heat to medium-high. In the meantime, butter up the outside of your focaccia bread.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-04.jpg"
+    },
+    {
+      "text": "Once your pan is hot, add your bacon explosion slices and fry them on both sides until they are semi crisp. Remove them from the pan once they're cooked through and crisp on the outsides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-05.jpg"
+    },
+    {
+      "text": "Place your buttered focaccia bread in your pan and let it fry, getting crisped up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-07.jpg"
+    },
+    {
+      "text": "Flip it and allow it to get just a little toasted on the non-buttered side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Assemble your sandwich with sauces of choice (I used sugar free ketchup and some brown mustard).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-15.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/02ea2bad8425df9f38ed0669.jpg",
+      "archived": true,
+      "originalPath": "images/02ea2bad8425df9f38ed0669.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-featured.jpg",
+      "path": "images/23242eb57e6820f89cf6b503.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-03.jpg",
+      "path": "../../nenaudojama/lunch/images/36e22b424d7671561acd0167.avif",
+      "archived": true,
+      "originalPath": "images/36e22b424d7671561acd0167.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-04.jpg",
+      "path": "../../nenaudojama/lunch/images/570c6c6f26d94c669e16d8c6.jpg",
+      "archived": true,
+      "originalPath": "images/570c6c6f26d94c669e16d8c6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-05.jpg",
+      "path": "../../nenaudojama/lunch/images/1f50bbced2730ee98ad5a80c.avif",
+      "archived": true,
+      "originalPath": "images/1f50bbced2730ee98ad5a80c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-07.jpg",
+      "path": "../../nenaudojama/lunch/images/b7070a2c6237062a1bba404b.avif",
+      "archived": true,
+      "originalPath": "images/b7070a2c6237062a1bba404b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-15.jpg",
+      "path": "../../nenaudojama/lunch/images/f5c041a3ad715a100e8fbd75.avif",
+      "archived": true,
+      "originalPath": "images/f5c041a3ad715a100e8fbd75.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-06.jpg",
+      "path": "../../nenaudojama/lunch/images/05751d6535a59984350e02f8.avif",
+      "archived": true,
+      "originalPath": "images/05751d6535a59984350e02f8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/b409df6738f6202e268c2ce2.avif",
+      "archived": true,
+      "originalPath": "images/b409df6738f6202e268c2ce2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5935ad1feef827b836fbcd0f.avif",
+      "archived": true,
+      "originalPath": "images/5935ad1feef827b836fbcd0f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/57df43b84e5b7c896dd596b6.jpg",
+      "archived": true,
+      "originalPath": "images/57df43b84e5b7c896dd596b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2c5d97bd8b7e436c7151bdad.avif",
+      "archived": true,
+      "originalPath": "images/2c5d97bd8b7e436c7151bdad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9b10c6a7eda881250486b0d6.avif",
+      "archived": true,
+      "originalPath": "images/9b10c6a7eda881250486b0d6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-15-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2dedce2ca4ccf10ec55d6d79.avif",
+      "archived": true,
+      "originalPath": "images/2dedce2ca4ccf10ec55d6d79.avif"
+    }
+  ],
+  "featuredImage": "images/23242eb57e6820f89cf6b503.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fried Bacon Explosion Sandwich",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "Makes a total of 1 serving, 515 Calories, 4.1g Fats, 4g Net Carbs, and 22.9g Protein.",
+    "datePublished": "2014-01-22T17:28:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-featured.jpg"
+    ],
+    "recipeYield": [
+      "1"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "Leftover Cheddar Bacon Explosion",
+      "1 Loaf Low Carb Focaccia Bread",
+      "1 Tbsp. Butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice your cheddar bacon explosion in accordance to your bread. You want 2 slices that will fit on the \"bun\".",
+        "name": "Slice your cheddar bacon explosion in accordance to your bread. You want 2 slices that will fit on the \"bun\".",
+        "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, put your heat to medium-high. In the meantime, butter up the outside of your focaccia bread.",
+        "name": "In a pan, put your heat to medium-high. In the meantime, butter up the outside of your focaccia bread.",
+        "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once your pan is hot, add your bacon explosion slices and fry them on both sides until they are semi crisp. Remove them from the pan once they're cooked through and crisp on the outsides.",
+        "name": "Once your pan is hot, add your bacon explosion slices and fry them on both sides until they are semi crisp. Remove them from the pan once they're cooked through and crisp on the outsides.",
+        "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place your buttered focaccia bread in your pan and let it fry, getting crisped up.",
+        "name": "Place your buttered focaccia bread in your pan and let it fry, getting crisped up.",
+        "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip it and allow it to get just a little toasted on the non-buttered side.",
+        "name": "Flip it and allow it to get just a little toasted on the non-buttered side.",
+        "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble your sandwich with sauces of choice (I used sugar free ketchup and some brown mustard).",
+        "name": "Assemble your sandwich with sauces of choice (I used sugar free ketchup and some brown mustard).",
+        "url": "https://www.ruled.me/fried-bacon-explosion-sandwich/#wprm-recipe-50765-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-15.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, egg-free, keto, low-carb, pork, quick, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "515 kcal",
+      "fatContent": "4.1 g",
+      "proteinContent": "22.9 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fried-bacon-explosion-sandwich/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fried-bacon-explosion-sandwich/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fried-bacon-explosion-sandwich/"
+  },
+  "sourceIndex": {
+    "id": 7085,
+    "rid": 50765,
+    "t": "Fried Bacon Explosion Sandwich",
+    "u": "/fried-bacon-explosion-sandwich/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/fried-bacon-explosion-sandwich-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4,
+    "cal": 515,
+    "pr": 22.9,
+    "fa": 4.1,
+    "tm": 25,
+    "sv": 1,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 3,
+    "fk": [
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-01-22",
+    "cm": 0,
+    "ex": "I was supposed to get this recipe up a little while back, but got sidetracked and chose to put up some different recipes. So, sorry about that - but here it is! I wanted to post this to give you some",
+    "pv": 44
+  },
+  "sourceHtml": "pages/fried-bacon-explosion-sandwich.html",
+  "scrapedAt": "2026-11-07T08:18:22.199Z"
+}

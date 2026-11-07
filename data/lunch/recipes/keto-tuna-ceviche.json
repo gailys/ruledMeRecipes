@@ -1,0 +1,220 @@
+{
+  "id": "ruled-59595",
+  "slug": "keto-tuna-ceviche",
+  "title": "Keto Tuna Ceviche",
+  "url": "https://www.ruled.me/keto-tuna-ceviche/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Tuna Ceviche. Each serving comes out to be 228 calories, 11.2g fats, 3.5g net carbs, and 24.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "228 kcal",
+    "fatContent": "11.2 g",
+    "proteinContent": "24.9 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 228,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 24.9,
+    "fatGrams": 11.2
+  },
+  "ingredients": [
+    "7 ounce canned tuna (drained)",
+    "1/2 medium avocado (sliced)",
+    "1/2 cup fresh tomatoes (diced)",
+    "2 tablespoon fresh cilantro (chopped)",
+    "2 tablespoon red onion (chopped)",
+    "1 medium jalapeno pepper (seeded and diced)",
+    "1/2 tablespoon lime juice",
+    "1/2 teaspoon olive oil",
+    "1/8 teaspoon cumin",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Combine all of the ingredients except the tomatoes and avocado slices in a bowl and mix well. Gently toss with tomato and avocado. Serve with lettuce leaves if you'd like!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-ceviche/#wprm-recipe-59592-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/keto-tuna-ceviche-step-01.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/986dea75413324bc38f3f607.avif",
+      "archived": true,
+      "originalPath": "images/986dea75413324bc38f3f607.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab.jpg",
+      "path": "images/468418e33dc8347e8759a46f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-tuna-ceviche-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/66c9c8391c737f4515527438.jpg",
+      "archived": true,
+      "originalPath": "images/66c9c8391c737f4515527438.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/4998132677d0444e50c981d3.jpg",
+      "archived": true,
+      "originalPath": "images/4998132677d0444e50c981d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-tuna-ceviche-step-01-233x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c4a90b266b316f7114e1e1c1.jpg",
+      "archived": true,
+      "originalPath": "images/c4a90b266b316f7114e1e1c1.jpg"
+    }
+  ],
+  "featuredImage": "images/468418e33dc8347e8759a46f.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Tuna Ceviche",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Tuna Ceviche. Each serving comes out to be 228 calories, 11.2g fats, 3.5g net carbs, and 24.9g protein.",
+    "datePublished": "2026-05-05T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "7 ounce canned tuna (drained)",
+      "1/2 medium avocado (sliced)",
+      "1/2 cup fresh tomatoes (diced)",
+      "2 tablespoon fresh cilantro (chopped)",
+      "2 tablespoon red onion (chopped)",
+      "1 medium jalapeno pepper (seeded and diced)",
+      "1/2 tablespoon lime juice",
+      "1/2 teaspoon olive oil",
+      "1/8 teaspoon cumin",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all of the ingredients except the tomatoes and avocado slices in a bowl and mix well.  Gently toss with tomato and avocado. Serve with lettuce leaves if you'd like!",
+        "name": "Combine all of the ingredients except the tomatoes and avocado slices in a bowl and mix well.  Gently toss with tomato and avocado. Serve with lettuce leaves if you'd like!",
+        "url": "https://www.ruled.me/keto-tuna-ceviche/#wprm-recipe-59592-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/keto-tuna-ceviche-step-01.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, fish, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "228 kcal",
+      "fatContent": "11.2 g",
+      "proteinContent": "24.9 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-tuna-ceviche/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-tuna-ceviche/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-tuna-ceviche/"
+  },
+  "sourceIndex": {
+    "id": 59595,
+    "rid": 59592,
+    "t": "Keto Tuna Ceviche",
+    "u": "/keto-tuna-ceviche/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/a7975f660ad3fb0c339e7fa28a7f67ab-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 228,
+    "pr": 24.9,
+    "fa": 11.2,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2026-05-05",
+    "cm": 0,
+    "ex": "This Keto Tuna Ceviche is a refreshing, vibrant lunch option that brings a burst of coastal flavor to your kitchen without any actual cooking. It features a delightful contrast of textures, combining",
+    "pv": 170
+  },
+  "sourceHtml": "pages/keto-tuna-ceviche.html",
+  "scrapedAt": "2026-11-07T08:14:43.229Z"
+}

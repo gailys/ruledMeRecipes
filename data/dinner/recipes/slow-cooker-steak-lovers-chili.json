@@ -1,0 +1,268 @@
+{
+  "id": "ruled-28429",
+  "slug": "slow-cooker-steak-lovers-chili",
+  "title": "Slow Cooker Steak Lovers Chili",
+  "url": "https://www.ruled.me/slow-cooker-steak-lovers-chili/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Slow Cooker Steak Lovers Chili. Each serving comes out to be 297 calories, 20.8g fats, 1.5g net carbs, and 25.3g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT360M",
+  "totalTime": "PT375M",
+  "totalMinutes": 375,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "fatContent": "20.8 g",
+    "proteinContent": "25.3 g",
+    "carbohydrateContent": "1.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 297,
+    "netCarbsGrams": 1.5,
+    "proteinGrams": 25.3,
+    "fatGrams": 20.8
+  },
+  "ingredients": [
+    "40 ounce ribeye steak (cut into 1 inch cubes)",
+    "1 tablespoon ancho chile powder",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon cayenne pepper",
+    "1/8 teaspoon black pepper",
+    "1/2 cup leek (sliced)",
+    "2 cup canned whole tomatoes",
+    "1 cup beef broth",
+    "1/4 cup cheddar cheese (shredded)",
+    "2 tablespoon sour cream",
+    "1/2 medium avocado (sliced)",
+    "1 teaspoon fresh cilantro (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Place all chili ingredients into a slow cooker in the order given.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_everything-in-slow-cooker.jpg"
+    },
+    {
+      "text": "Stir, cover, and set the slow cooker to high. Cook for about 6 hours, or until the steak is tender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Use a fork to shred some of the steak cubes and break up any tomatoes that remain intact.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Ladle the chili into bowls and serve hot with listed toppings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "game-day",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "nut-free",
+    "red-meat",
+    "slow-cooker",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_ldsc1-overhead-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/37eaf9dfa79f819ae810eb2a.jpg",
+      "archived": true,
+      "originalPath": "images/37eaf9dfa79f819ae810eb2a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_ldsc1-overhead.jpg",
+      "path": "images/e8cf22c1ce40c80b2c299f1f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_everything-in-slow-cooker.jpg",
+      "path": "../../nenaudojama/dinner/images/edd08bed599c325dcae82d22.avif",
+      "archived": true,
+      "originalPath": "images/edd08bed599c325dcae82d22.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_ldsc2.jpg",
+      "path": "../../nenaudojama/dinner/images/e6e140901608e8294b9a351f.avif",
+      "archived": true,
+      "originalPath": "images/e6e140901608e8294b9a351f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_cube-steak.jpg",
+      "path": "../../nenaudojama/dinner/images/cd12443a2067579e841cbfb3.avif",
+      "archived": true,
+      "originalPath": "images/cd12443a2067579e841cbfb3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_everything-in-slow-cooker-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0a139ae15986fe418478683a.avif",
+      "archived": true,
+      "originalPath": "images/0a139ae15986fe418478683a.avif"
+    }
+  ],
+  "featuredImage": "images/e8cf22c1ce40c80b2c299f1f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Slow Cooker Steak Lovers Chili",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 12 servings of Slow Cooker Steak Lovers Chili. Each serving comes out to be 297 calories, 20.8g fats, 1.5g net carbs, and 25.3g protein.",
+    "datePublished": "2016-12-13T12:00:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_ldsc1-overhead.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT360M",
+    "totalTime": "PT375M",
+    "recipeIngredient": [
+      "40 ounce ribeye steak (cut into 1 inch cubes)",
+      "1 tablespoon ancho chile powder",
+      "1/2 teaspoon cumin",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon cayenne pepper",
+      "1/8 teaspoon black pepper",
+      "1/2 cup leek (sliced)",
+      "2 cup canned whole tomatoes",
+      "1 cup beef broth",
+      "1/4 cup cheddar cheese (shredded)",
+      "2 tablespoon sour cream",
+      "1/2 medium avocado (sliced)",
+      "1 teaspoon fresh cilantro (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place all chili ingredients into a slow cooker in the order given.",
+        "name": "Place all chili ingredients into a slow cooker in the order given.",
+        "url": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_everything-in-slow-cooker.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir, cover, and set the slow cooker to high. Cook for about 6 hours, or until the steak is tender.",
+        "name": "Stir, cover, and set the slow cooker to high. Cook for about 6 hours, or until the steak is tender.",
+        "url": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a fork to shred some of the steak cubes and break up any tomatoes that remain intact.",
+        "name": "Use a fork to shred some of the steak cubes and break up any tomatoes that remain intact.",
+        "url": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ladle the chili into bowls and serve hot with listed toppings.",
+        "name": "Ladle the chili into bowls and serve hot with listed toppings.",
+        "url": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#wprm-recipe-51999-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, comfort-food, egg-free, fall, game-day, gluten-free, high-protein, keto, low-carb, make-ahead, meal-prep, nut-free, red meat, slow cooker, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297 kcal",
+      "fatContent": "20.8 g",
+      "proteinContent": "25.3 g",
+      "carbohydrateContent": "1.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/slow-cooker-steak-lovers-chili/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/slow-cooker-steak-lovers-chili/"
+  },
+  "sourceIndex": {
+    "id": 28429,
+    "rid": 51999,
+    "t": "Slow Cooker Steak Lovers Chili",
+    "u": "/slow-cooker-steak-lovers-chili/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/12/Slow-Cooker-Steak-Lovers-Chili_ldsc1-overhead-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.5,
+    "cal": 297,
+    "pr": 25.3,
+    "fa": 20.8,
+    "tm": 375,
+    "sv": 12,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "game-day",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "nut-free",
+      "red-meat",
+      "slow-cooker",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2016-12-13",
+    "cm": 25,
+    "ex": "If you love steak, and you’re a chili fan, get ready for a dream dish with Slow Cooker Steak Lovers Chili! Instead of the usual ground beef, here we use cubed grass-fed steak and marry it with all",
+    "pv": 2515
+  },
+  "sourceHtml": "pages/slow-cooker-steak-lovers-chili.html",
+  "scrapedAt": "2026-11-07T08:27:44.774Z"
+}

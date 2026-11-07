@@ -1,0 +1,358 @@
+{
+  "id": "ruled-50284",
+  "slug": "keto-smoked-salmon-egg-salad",
+  "title": "Keto Smoked Salmon & Egg Salad",
+  "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Smoked Salmon & Egg Salad. Each serving comes out to be 598 calories, 49.8g fats, 3.8g net carbs, and 31.9g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "598 kcal",
+    "fatContent": "49.8 g",
+    "proteinContent": "31.9 g",
+    "carbohydrateContent": "3.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 598,
+    "netCarbsGrams": 3.8,
+    "proteinGrams": 31.9,
+    "fatGrams": 49.8
+  },
+  "ingredients": [
+    "6 tablespoon almond flour",
+    "2 tablespoon butter (melted)",
+    "2 large egg",
+    "4 tablespoon parmesan cheese (grated)",
+    "1 teaspoon baking powder",
+    "6 large egg",
+    "4 ounce smoked salmon",
+    "5 tablespoon mayonnaise",
+    "2 tablespoon lemon juice",
+    "3 tablespoon fresh dill (chopped)",
+    "2 tablespoon fresh chives (chopped)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Hard-boil eggs using your preferred method. I used a hard-boil egg maker, but -traditional hard-boiling- works just fine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-1.jpg"
+    },
+    {
+      "text": "Mix together the ingredients for the 90-second bread. Place into a ramekin or cylindrical mug.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Microwave, in batches if needed, for about 60-90 seconds or until bread is puffed up and cooked through. Slice as desired and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Mix all of the ingredients for the salmon & egg salad together until well incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-3.jpg"
+    },
+    {
+      "text": "Toast slices of bread in a pan over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-4.jpg"
+    },
+    {
+      "text": "Serve as desired, garnishing with extra dill and chives. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "meal-prep",
+    "high-protein",
+    "seafood",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/51da7bd334f1e83e1da8cfdb.avif",
+      "archived": true,
+      "originalPath": "images/51da7bd334f1e83e1da8cfdb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Featured.jpg",
+      "path": "images/90b0cd1b78df8564a17fa488.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-1.jpg",
+      "path": "../../nenaudojama/lunch/images/9662bb62bd310c1e0c6511c5.avif",
+      "archived": true,
+      "originalPath": "images/9662bb62bd310c1e0c6511c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-3.jpg",
+      "path": "../../nenaudojama/lunch/images/6f7bec96146cbc2c67b41b23.avif",
+      "archived": true,
+      "originalPath": "images/6f7bec96146cbc2c67b41b23.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-4.jpg",
+      "path": "../../nenaudojama/lunch/images/89a39d649f0cc0ec98cde5c0.jpg",
+      "archived": true,
+      "originalPath": "images/89a39d649f0cc0ec98cde5c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/461701b637935f5c7f336841.avif",
+      "archived": true,
+      "originalPath": "images/461701b637935f5c7f336841.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-2.jpg",
+      "path": "../../nenaudojama/lunch/images/34090704405e0353377f4dbf.avif",
+      "archived": true,
+      "originalPath": "images/34090704405e0353377f4dbf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/4b09701b6662feafa1826653.jpg",
+      "archived": true,
+      "originalPath": "images/4b09701b6662feafa1826653.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/35e45da2c97b3b6fed4f7c7b.jpg",
+      "archived": true,
+      "originalPath": "images/35e45da2c97b3b6fed4f7c7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a9dbae2c095ffa59ec79b42f.avif",
+      "archived": true,
+      "originalPath": "images/a9dbae2c095ffa59ec79b42f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/58b431b9055c06ae5f76a96a.jpg",
+      "archived": true,
+      "originalPath": "images/58b431b9055c06ae5f76a96a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bdb347de634af082246d8211.jpg",
+      "archived": true,
+      "originalPath": "images/bdb347de634af082246d8211.jpg"
+    }
+  ],
+  "featuredImage": "images/90b0cd1b78df8564a17fa488.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Smoked Salmon &amp; Egg Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Smoked Salmon &amp; Egg Salad. Each serving comes out to be 598 calories, 49.8g fats, 3.8g net carbs, and 31.9g protein.",
+    "datePublished": "2024-05-30T09:09:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Smoked Salmon & Egg Salad",
+      "description": "Eggs are one of the most versatile foods when it comes to keto. They can serve breakfast, lunch, or dinner depending on how you make them and they can be a vessel for almost any flavor. Today, we’re going to take a peek at how to make some smoked salmon egg salad. The smokiness from the salmon with the freshness of the herbs makes for a delicious dish that can be enjoyed any time of day!\n\nI really like to make an accompanying savory mug cake to go along with these. Try to make a cylindrical 90-second mug bread, then cut into 3 or 4 slices. Fry each slice up in a pan (with some additional butter) and now you have some crispy “toast” to go along with your egg salad. If you’re trying to watch the calorie intake, feel free to spoon this over lettuce cups, wrap into collard greens, or just eat it straight from the bowl!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n6 large eggs\n4 ounce smoked salmon\n5 tablespoon mayonnaise\n2 tablespoon lemon juice\n3-4 tablespoon fresh dill, chopped\n2 tablespoon chives, chopped\nsalt and pepper, to taste\n\nNutrition Summary: This makes a total of 2 servings of Keto Smoked Salmon & Egg Salad. Each serving comes out to be 520 calories, 43g fats, 2.2g net carbs, and 30g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-08-24T15:00:03+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 5479
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 270
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 12
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0ylWOjG8rUk/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/0ylWOjG8rUk?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=0ylWOjG8rUk",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "6 tablespoon almond flour",
+      "2 tablespoon butter (melted)",
+      "2 large egg",
+      "4 tablespoon parmesan cheese (grated)",
+      "1 teaspoon baking powder",
+      "6 large egg",
+      "4 ounce smoked salmon",
+      "5 tablespoon mayonnaise",
+      "2 tablespoon lemon juice",
+      "3 tablespoon fresh dill (chopped)",
+      "2 tablespoon fresh chives (chopped)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Hard-boil eggs using your preferred method. I used a hard-boil egg maker, but -traditional hard-boiling- works just fine.",
+        "name": "Hard-boil eggs using your preferred method. I used a hard-boil egg maker, but -traditional hard-boiling- works just fine.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the ingredients for the 90-second bread. Place into a ramekin or cylindrical mug.",
+        "name": "Mix together the ingredients for the 90-second bread. Place into a ramekin or cylindrical mug.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave, in batches if needed, for about 60-90 seconds or until bread is puffed up and cooked through. Slice as desired and set aside.",
+        "name": "Microwave, in batches if needed, for about 60-90 seconds or until bread is puffed up and cooked through. Slice as desired and set aside.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix all of the ingredients for the salmon & egg salad together until well incorporated.",
+        "name": "Mix all of the ingredients for the salmon & egg salad together until well incorporated.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toast slices of bread in a pan over medium heat.",
+        "name": "Toast slices of bread in a pan over medium heat.",
+        "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve as desired, garnishing with extra dill and chives. Enjoy!",
+        "name": "Serve as desired, garnishing with extra dill and chives. Enjoy!",
+        "url": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#wprm-recipe-55037-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, eggs, fish, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "598 kcal",
+      "fatContent": "49.8 g",
+      "proteinContent": "31.9 g",
+      "carbohydrateContent": "3.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-smoked-salmon-egg-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-smoked-salmon-egg-salad/"
+  },
+  "sourceIndex": {
+    "id": 50284,
+    "rid": 55037,
+    "t": "Keto Smoked Salmon & Egg Salad",
+    "u": "/keto-smoked-salmon-egg-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Smoked-Salmon-Egg-Salad-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.8,
+    "cal": 598,
+    "pr": 31.9,
+    "fa": 49.8,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "stovetop",
+      "meal-prep",
+      "high-protein",
+      "seafood",
+      "eggs"
+    ],
+    "d": "2024-05-30",
+    "cm": 0,
+    "ex": "Eggs are one of the most versatile foods when it comes to keto. They can serve breakfast, lunch, or dinner depending on how you make them and they can be a vessel for almost any flavor. Today, we're",
+    "pv": 447
+  },
+  "sourceHtml": "pages/keto-smoked-salmon-egg-salad.html",
+  "scrapedAt": "2026-11-07T08:15:07.505Z"
+}

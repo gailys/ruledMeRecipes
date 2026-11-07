@@ -1,0 +1,382 @@
+{
+  "id": "ruled-25298",
+  "slug": "keto-corndog-muffins",
+  "title": "Keto Corndog Muffins",
+  "url": "https://www.ruled.me/keto-corndog-muffins/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 20 servings of Keto Corndog Muffins. Each serving comes out to be 82 calories, 7.3g fats, 0.8g net carbs, and 2.1g protein.",
+  "servings": 20,
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "fatContent": "7.3 g",
+    "proteinContent": "2.1 g",
+    "carbohydrateContent": "0.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 82,
+    "netCarbsGrams": 0.8,
+    "proteinGrams": 2.1,
+    "fatGrams": 7.3
+  },
+  "ingredients": [
+    "1/2 cup almond flour",
+    "1/2 cup flaxseed meal",
+    "1 tablespoon psyllium husk powder",
+    "3 tablespoon stevia/erythritol blend (such as Swerve)",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon baking powder",
+    "1 large egg",
+    "1/3 cup sour cream",
+    "1/4 cup butter (melted)",
+    "1/4 cup unsweetened carton coconut milk",
+    "100 gram lit'l smokies (or hot dogs cut into smaller pieces)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Mix all of the dry ingredients in a bowl, making sure they are evenly distributed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2325.jpg"
+    },
+    {
+      "text": "Add in the egg, sour cream, and butter. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2333.jpg"
+    },
+    {
+      "text": "Add the coconut milk and continue to mix.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2339.jpg"
+    },
+    {
+      "text": "Divide the batter evenly into greased mini muffin slots. Cut the Lit'l Smokies in half and stick them in the middle — it doesn't get much simpler than that!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2342.jpg"
+    },
+    {
+      "text": "Bake for 12 minutes and then broil for 1–2 minutes, until the tops are lightly browned. Feel free to use a fork to push the pieces of hot dog back into the muffin if they rise up with the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2346.jpg"
+    },
+    {
+      "text": "Let the muffins cool for a few minutes in the tray, then remove and let cool on a wire rack.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2353.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "family-friendly",
+    "game-day",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/corndogmuffins.jpg",
+      "path": "../../nenaudojama/snacks/images/2d19edaa32b0055952fb29f5.jpg",
+      "archived": true,
+      "originalPath": "images/2d19edaa32b0055952fb29f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2325.jpg",
+      "path": "../../nenaudojama/snacks/images/d65564a6896fd4927e255186.avif",
+      "archived": true,
+      "originalPath": "images/d65564a6896fd4927e255186.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2333.jpg",
+      "path": "../../nenaudojama/snacks/images/d7657921f1ac1a877a238652.jpg",
+      "archived": true,
+      "originalPath": "images/d7657921f1ac1a877a238652.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2339.jpg",
+      "path": "../../nenaudojama/snacks/images/bc7a9ecb134b00fa1f71f2b5.jpg",
+      "archived": true,
+      "originalPath": "images/bc7a9ecb134b00fa1f71f2b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2342.jpg",
+      "path": "../../nenaudojama/snacks/images/ef68f55684e3379a1ff2aff8.avif",
+      "archived": true,
+      "originalPath": "images/ef68f55684e3379a1ff2aff8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2346.jpg",
+      "path": "../../nenaudojama/snacks/images/391ab597adabc8c4b49a29d3.avif",
+      "archived": true,
+      "originalPath": "images/391ab597adabc8c4b49a29d3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2353.jpg",
+      "path": "../../nenaudojama/snacks/images/554dcc3d2136cf3a07072a57.avif",
+      "archived": true,
+      "originalPath": "images/554dcc3d2136cf3a07072a57.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/corndogmuffinssecond.jpg",
+      "path": "../../nenaudojama/snacks/images/89115e51d6a3f581c1d2d2a0.avif",
+      "archived": true,
+      "originalPath": "images/89115e51d6a3f581c1d2d2a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/corndogmuffinslong.jpg",
+      "path": "../../nenaudojama/snacks/images/5e12279af04acfbff3c5eb71.jpg",
+      "archived": true,
+      "originalPath": "images/5e12279af04acfbff3c5eb71.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2325-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/29314940de6098e29d78781c.jpg",
+      "archived": true,
+      "originalPath": "images/29314940de6098e29d78781c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2333-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/39d7d25ab4bae3ebb260d516.avif",
+      "archived": true,
+      "originalPath": "images/39d7d25ab4bae3ebb260d516.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2339-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/98547724f01b64f21446ca85.jpg",
+      "archived": true,
+      "originalPath": "images/98547724f01b64f21446ca85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2342-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/efeec8a84bdee53cfaf7595a.avif",
+      "archived": true,
+      "originalPath": "images/efeec8a84bdee53cfaf7595a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2346-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/92529407bd082d8dbca52a16.jpg",
+      "archived": true,
+      "originalPath": "images/92529407bd082d8dbca52a16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2353-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/9a6ce8cb815be83172e75c8d.jpg",
+      "archived": true,
+      "originalPath": "images/9a6ce8cb815be83172e75c8d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/2d19edaa32b0055952fb29f5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Corndog Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 20 servings of Keto Corndog Muffins. Each serving comes out to be 82 calories, 7.3g fats, 0.8g net carbs, and 2.1g protein.",
+    "datePublished": "2015-01-13T16:49:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/01/corndogmuffins.jpg"
+    ],
+    "video": {
+      "name": "Keto Corndog Muffins [Perfect for Get-togethers]",
+      "description": "I’ve seen this idea floating around the web for a while. It combines the amazing taste of a corndog with a super easy way of creating a bite-sized treat. You can have these done in 20 minutes or less and ready to send out of the kitchen as an appetizer for a party.\n\nI thought with the Super Bowl coming up, these would be a perfect way to serve finger-food while still keeping it low carb. All of your guests will love them and easily be able to eat/dip them into whatever they’d like. Speaking of which, a Bacon and Roasted Garlic Spinach Dip would go awesome with these. They’re also something that your kids will absolutely love too, so you may need to make extra!\n\nMy suggestion is to let these cool completely before serving. About 20 minutes after they are out of the oven, they taste great. When you eat them hot, they can have a slightly strange texture from the psyllium husk – but once they have been sitting out they absorb the fats and gain a lot better texture.\n\nNote: If you don’t like sweetness as much as most people, then use 1 or 2 tbsp. Swerve in this. The sweetener does give an awesome taste that you’d find in regular cornbread, so you shouldn’t skip it.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n½ cup blanched almond flour\n½ cup flaxseed meal\n1 tablespoon psyllium husk powder\n3 tablespoons Swerve sweetener\n¼ teaspoon salt\n¼ teaspoon baking powder\n¼ cup butter, melted\n1 large egg\n1/3 cup sour cream\n¼ cup coconut milk, from carton\n10 Lit’l Smokies (or 3 hot dogs)\n\nNutrition Summary: This makes 20 Keto Corndog Muffins. Each muffin comes out to be 77.76 Calories, 6.79g Fats, 1.27g Net Carbs, and 2.05g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-12-13T15:00:26+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M18S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 5614
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 263
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 10
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uKglHrHlK3A/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uKglHrHlK3A?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=uKglHrHlK3A",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "20",
+      "20 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1/2 cup almond flour",
+      "1/2 cup flaxseed meal",
+      "1 tablespoon psyllium husk powder",
+      "3 tablespoon stevia/erythritol blend (such as Swerve)",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon baking powder",
+      "1 large egg",
+      "1/3 cup sour cream",
+      "1/4 cup butter (melted)",
+      "1/4 cup unsweetened carton coconut milk",
+      "100 gram lit'l smokies (or hot dogs cut into smaller pieces)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Mix all of the dry ingredients in a bowl, making sure they are evenly distributed.",
+        "name": "Preheat oven to 375F. Mix all of the dry ingredients in a bowl, making sure they are evenly distributed.",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2325.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the egg, sour cream, and butter. Mix well.",
+        "name": "Add in the egg, sour cream, and butter. Mix well.",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2333.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut milk and continue to mix.",
+        "name": "Add the coconut milk and continue to mix.",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2339.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the batter evenly into greased mini muffin slots. Cut the Lit'l Smokies in half and stick them in the middle — it doesn't get much simpler than that!",
+        "name": "Divide the batter evenly into greased mini muffin slots. Cut the Lit'l Smokies in half and stick them in the middle — it doesn't get much simpler than that!",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2342.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 12 minutes and then broil for 1–2 minutes, until the tops are lightly browned. Feel free to use a fork to push the pieces of hot dog back into the muffin if they rise up with the batter.",
+        "name": "Bake for 12 minutes and then broil for 1–2 minutes, until the tops are lightly browned. Feel free to use a fork to push the pieces of hot dog back into the muffin if they rise up with the batter.",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2346.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the muffins cool for a few minutes in the tray, then remove and let cool on a wire rack.",
+        "name": "Let the muffins cool for a few minutes in the tray, then remove and let cool on a wire rack.",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2353.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-corndog-muffins/#wprm-recipe-51543-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, family-friendly, game-day, keto, low-carb, oven-baked, party-food, pork, simple &amp; easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "82 kcal",
+      "fatContent": "7.3 g",
+      "proteinContent": "2.1 g",
+      "carbohydrateContent": "0.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-corndog-muffins/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-corndog-muffins/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-corndog-muffins/"
+  },
+  "sourceIndex": {
+    "id": 25298,
+    "rid": 51543,
+    "t": "Keto Corndog Muffins",
+    "u": "/keto-corndog-muffins/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/01/corndogmuffins.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 0.8,
+    "cal": 82,
+    "pr": 2.1,
+    "fa": 7.3,
+    "tm": 30,
+    "sv": 20,
+    "kw": [
+      "batch-cooking",
+      "family-friendly",
+      "game-day",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2015-01-13",
+    "cm": 56,
+    "ex": "I've seen this idea floating around the web for a while. It combines the amazing taste of a corndog with a super easy way of creating a bite-sized treat. You can have these done in 20 minutes or less",
+    "pv": 581
+  },
+  "sourceHtml": "pages/keto-corndog-muffins.html",
+  "scrapedAt": "2026-11-07T08:31:26.732Z"
+}

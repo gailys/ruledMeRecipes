@@ -1,0 +1,284 @@
+{
+  "id": "ruled-59699",
+  "slug": "goat-cheese-and-balsamic-butter-salad",
+  "title": "Goat Cheese and Balsamic Butter Salad",
+  "url": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Goat Cheese and Balsamic Butter Salad. Each serving comes out to be 658 calories, 55.7g fats, 7g net carbs, and 31.1g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "658 kcal",
+    "fatContent": "55.7 g",
+    "proteinContent": "31.1 g",
+    "carbohydrateContent": "7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 658,
+    "netCarbsGrams": 7,
+    "proteinGrams": 31.1,
+    "fatGrams": 55.7
+  },
+  "ingredients": [
+    "10 ounce goat cheese (sliced)",
+    "1 ounce pumpkin seeds (shelled)",
+    "2 ounce butter",
+    "1 tablespoon balsamic vinegar",
+    "3 ounce baby spinach"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Gather ingredients together. Lay the goat cheese slices in a baking dish and bake for 10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-01.jpg"
+    },
+    {
+      "text": "While the goat cheese is baking, heat up a dry frying pan over high heat. Add the pumpkin seeds and toast, stirring frequently, until they start to brown and pop. Be careful not to let them burn.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-02.jpg"
+    },
+    {
+      "text": "Lower the heat, then add the butter to the pan. Continue cooking until the butter browns, again being careful not to let it burn. Drizzle in the balsamic vinegar, then simmer for a few more minutes. Turn off the heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-03.jpg"
+    },
+    {
+      "text": "Place the spinach on a serving plate. Layer the baked cheese on top, then pour the balsamic butter and seed mixture on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/65d55ff154fd8828b477d940.jpg",
+      "archived": true,
+      "originalPath": "images/65d55ff154fd8828b477d940.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036.jpg",
+      "path": "images/c3039ce95563aa5f175190bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/551783138fc2e41adb2386e1.jpg",
+      "archived": true,
+      "originalPath": "images/551783138fc2e41adb2386e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/b604d500b8c82fc95df8f766.jpg",
+      "archived": true,
+      "originalPath": "images/b604d500b8c82fc95df8f766.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-03.jpg",
+      "path": "../../nenaudojama/lunch/images/3485ceaf83f7b502df462cef.jpg",
+      "archived": true,
+      "originalPath": "images/3485ceaf83f7b502df462cef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-04.jpg",
+      "path": "../../nenaudojama/lunch/images/8ce79da5b2d2d40117f7b1e6.jpg",
+      "archived": true,
+      "originalPath": "images/8ce79da5b2d2d40117f7b1e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/a76d125a4fccb5167dddccaa.jpg",
+      "archived": true,
+      "originalPath": "images/a76d125a4fccb5167dddccaa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/996130ffed953774663a6db0.jpg",
+      "archived": true,
+      "originalPath": "images/996130ffed953774663a6db0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e35e6e41c8dc88542072c915.jpg",
+      "archived": true,
+      "originalPath": "images/e35e6e41c8dc88542072c915.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8f569c4f460db77b52b3a9c1.jpg",
+      "archived": true,
+      "originalPath": "images/8f569c4f460db77b52b3a9c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-04-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d3f8f257d2cae4df95eb9505.jpg",
+      "archived": true,
+      "originalPath": "images/d3f8f257d2cae4df95eb9505.jpg"
+    }
+  ],
+  "featuredImage": "images/c3039ce95563aa5f175190bc.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Goat Cheese and Balsamic Butter Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Goat Cheese and Balsamic Butter Salad. Each serving comes out to be 658 calories, 55.7g fats, 7g net carbs, and 31.1g protein.",
+    "datePublished": "2026-10-06T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "10 ounce goat cheese (sliced)",
+      "1 ounce pumpkin seeds (shelled)",
+      "2 ounce butter",
+      "1 tablespoon balsamic vinegar",
+      "3 ounce baby spinach"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Gather ingredients together. Lay the goat cheese slices in a baking dish and bake for 10 minutes.",
+        "name": "Preheat oven to 400F. Gather ingredients together. Lay the goat cheese slices in a baking dish and bake for 10 minutes.",
+        "url": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the goat cheese is baking, heat up a dry frying pan over high heat. Add the pumpkin seeds and toast, stirring frequently, until they start to brown and pop. Be careful not to let them burn.",
+        "name": "While the goat cheese is baking, heat up a dry frying pan over high heat. Add the pumpkin seeds and toast, stirring frequently, until they start to brown and pop. Be careful not to let them burn.",
+        "url": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lower the heat, then add the butter to the pan. Continue cooking until the butter browns, again being careful not to let it burn. Drizzle in the balsamic vinegar, then simmer for a few more minutes. Turn off the heat.",
+        "name": "Lower the heat, then add the butter to the pan. Continue cooking until the butter browns, again being careful not to let it burn. Drizzle in the balsamic vinegar, then simmer for a few more minutes. Turn off the heat.",
+        "url": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the spinach on a serving plate. Layer the baked cheese on top, then pour the balsamic butter and seed mixture on top.",
+        "name": "Place the spinach on a serving plate. Layer the baked cheese on top, then pour the balsamic butter and seed mixture on top.",
+        "url": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#wprm-recipe-59698-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/goat-cheese-and-balsamic-butter-salad-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "658 kcal",
+      "fatContent": "55.7 g",
+      "proteinContent": "31.1 g",
+      "carbohydrateContent": "7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/goat-cheese-and-balsamic-butter-salad/"
+  },
+  "sourceIndex": {
+    "id": 59699,
+    "rid": 59698,
+    "t": "Goat Cheese and Balsamic Butter Salad",
+    "u": "/goat-cheese-and-balsamic-butter-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/baf5d18822495a4e150661057efab036-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 7,
+    "cal": 658,
+    "pr": 31.1,
+    "fa": 55.7,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "high-protein"
+    ],
+    "d": "2026-10-06",
+    "cm": 0,
+    "ex": "This Goat Cheese and Balsamic Butter Salad is a sophisticated yet simple lunch that brings a gourmet flair to your daily keto routine. You will love the contrast between the warm, creamy goat cheese",
+    "pv": 9
+  },
+  "sourceHtml": "pages/goat-cheese-and-balsamic-butter-salad.html",
+  "scrapedAt": "2026-11-07T08:14:37.397Z"
+}

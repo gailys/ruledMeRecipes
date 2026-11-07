@@ -1,0 +1,353 @@
+{
+  "id": "ruled-30652",
+  "slug": "cauliflower-mac-cheese",
+  "title": "Cauliflower Mac & Cheese",
+  "url": "https://www.ruled.me/cauliflower-mac-cheese/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Cauliflower Mac & Cheese. Each serving comes out to be 292 calories, 25.5g fats, 4.6g net carbs, and 10.4g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292 kcal",
+    "fatContent": "25.5 g",
+    "proteinContent": "10.4 g",
+    "carbohydrateContent": "4.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 292,
+    "netCarbsGrams": 4.6,
+    "proteinGrams": 10.4,
+    "fatGrams": 25.5
+  },
+  "ingredients": [
+    "32 ounce frozen cauliflower (florets)",
+    "1 cup heavy whipping cream",
+    "4 ounce cream cheese (cubed)",
+    "8 ounce cheddar cheese (shredded)",
+    "1 teaspoon dijon mustard",
+    "1 teaspoon turmeric powder",
+    "1/2 teaspoon garlic powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Cook the cauliflower florets according to the package instructions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-1-of-13.jpg"
+    },
+    {
+      "text": "Bring the cream to a simmer. Use a whisk to stir in the cream cheese and mix until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-2-of-13.jpg"
+    },
+    {
+      "text": "Stir in 3/4 of the shredded cheddar cheese. Save the other 1/4 for later. Mix until the cheese melts into the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-3-of-13.jpg"
+    },
+    {
+      "text": "Add the Dijon mustard, turmeric, powdered garlic, salt, and pepper. The sauce will become a smooth yellow color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-6-of-13.jpg"
+    },
+    {
+      "text": "Make sure that the cauliflower is drained well, then add it to the cheese sauce. Evenly coat the florets with sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-8-of-13.jpg"
+    },
+    {
+      "text": "Sprinkle on the remaining cheddar cheese, then stir until mostly melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-11-of-13.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-10-of-13-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/52c7e4f6e90d1366aa3dd6b7.avif",
+      "archived": true,
+      "originalPath": "images/52c7e4f6e90d1366aa3dd6b7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-10-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/f5573be6c4007dbf6d30ca2f.avif",
+      "archived": true,
+      "originalPath": "images/f5573be6c4007dbf6d30ca2f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-1-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/5fb960ccc13aa5f7d3fcab30.jpg",
+      "archived": true,
+      "originalPath": "images/5fb960ccc13aa5f7d3fcab30.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-2-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/5fd7374957bc146360699dc6.avif",
+      "archived": true,
+      "originalPath": "images/5fd7374957bc146360699dc6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-3-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/dce9054aedb6efcf21a8e0c0.jpg",
+      "archived": true,
+      "originalPath": "images/dce9054aedb6efcf21a8e0c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-6-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/b58bb90546e317cc64496462.jpg",
+      "archived": true,
+      "originalPath": "images/b58bb90546e317cc64496462.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-8-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/f45c50a01d87affb7bfd5391.jpg",
+      "archived": true,
+      "originalPath": "images/f45c50a01d87affb7bfd5391.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-11-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/4b175aefd308e55f17dd9b36.avif",
+      "archived": true,
+      "originalPath": "images/4b175aefd308e55f17dd9b36.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-9-of-13.jpg",
+      "path": "../../nenaudojama/side-items/images/82b921526bfa8b2f62d219e3.avif",
+      "archived": true,
+      "originalPath": "images/82b921526bfa8b2f62d219e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-1-of-13-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/0421f4bf96ba580a4d87e0f3.jpg",
+      "archived": true,
+      "originalPath": "images/0421f4bf96ba580a4d87e0f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-2-of-13-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d19ac0e89b37e45a32957db1.jpg",
+      "archived": true,
+      "originalPath": "images/d19ac0e89b37e45a32957db1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-3-of-13-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/eea2a38f68c102eedd84940f.avif",
+      "archived": true,
+      "originalPath": "images/eea2a38f68c102eedd84940f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-6-of-13-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7e4d39239fbd00f3196bf5e3.jpg",
+      "archived": true,
+      "originalPath": "images/7e4d39239fbd00f3196bf5e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-8-of-13-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/8e1262342fbba63d4d9a299c.jpg",
+      "archived": true,
+      "originalPath": "images/8e1262342fbba63d4d9a299c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-11-of-13-241x350.jpg",
+      "path": "../../nenaudojama/side-items/images/2d1ef6e0b59d442fe523eb77.jpg",
+      "archived": true,
+      "originalPath": "images/2d1ef6e0b59d442fe523eb77.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/f5573be6c4007dbf6d30ca2f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cauliflower Mac &amp; Cheese",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Cauliflower Mac &amp; Cheese. Each serving comes out to be 292 calories, 25.5g fats, 4.6g net carbs, and 10.4g protein.",
+    "datePublished": "2017-05-11T11:11:31+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-10-of-13.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "32 ounce frozen cauliflower (florets)",
+      "1 cup heavy whipping cream",
+      "4 ounce cream cheese (cubed)",
+      "8 ounce cheddar cheese (shredded)",
+      "1 teaspoon dijon mustard",
+      "1 teaspoon turmeric powder",
+      "1/2 teaspoon garlic powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the cauliflower florets according to the package instructions.",
+        "name": "Cook the cauliflower florets according to the package instructions.",
+        "url": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-1-of-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the cream to a simmer. Use a whisk to stir in the cream cheese and mix until smooth.",
+        "name": "Bring the cream to a simmer. Use a whisk to stir in the cream cheese and mix until smooth.",
+        "url": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-2-of-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in 3/4 of the shredded cheddar cheese. Save the other 1/4 for later. Mix until the cheese melts into the sauce.",
+        "name": "Stir in 3/4 of the shredded cheddar cheese. Save the other 1/4 for later. Mix until the cheese melts into the sauce.",
+        "url": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-3-of-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Dijon mustard, turmeric, powdered garlic, salt, and pepper. The sauce will become a smooth yellow color.",
+        "name": "Add the Dijon mustard, turmeric, powdered garlic, salt, and pepper. The sauce will become a smooth yellow color.",
+        "url": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-6-of-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make sure that the cauliflower is drained well, then add it to the cheese sauce. Evenly coat the florets with sauce.",
+        "name": "Make sure that the cauliflower is drained well, then add it to the cheese sauce. Evenly coat the florets with sauce.",
+        "url": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-8-of-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle on the remaining cheddar cheese, then stir until mostly melted.",
+        "name": "Sprinkle on the remaining cheddar cheese, then stir until mostly melted.",
+        "url": "https://www.ruled.me/cauliflower-mac-cheese/#wprm-recipe-52181-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-11-of-13.jpg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "This dish is THE most delicious thing you will ever taste!!! I am not even kidding it is out of this world!! I’ve been begging my friend who makes this to make it for me for years and now she’s given me the recipe!!!!",
+        "author": {
+          "@type": "Person",
+          "name": "Ellie Besing"
+        },
+        "datePublished": "2024-08-11"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, comfort-food, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, simple-and-easy, stovetop, sugar-free, vegetarian, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292 kcal",
+      "fatContent": "25.5 g",
+      "proteinContent": "10.4 g",
+      "carbohydrateContent": "4.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cauliflower-mac-cheese/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cauliflower-mac-cheese/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cauliflower-mac-cheese/"
+  },
+  "sourceIndex": {
+    "id": 30652,
+    "rid": 52181,
+    "t": "Cauliflower Mac & Cheese",
+    "u": "/cauliflower-mac-cheese/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/05/macandcheese-10-of-13-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.6,
+    "cal": 292,
+    "pr": 10.4,
+    "fa": 25.5,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2017-05-11",
+    "cm": 42,
+    "ex": "The other day I had a craving for stovetop macaroni and cheese. I know that we have a recipe for fried mac & cheese, but I wanted something that more closely resembled the quick pasta. Just like the",
+    "pv": 3008
+  },
+  "sourceHtml": "pages/cauliflower-mac-cheese.html",
+  "scrapedAt": "2026-11-07T08:32:36.298Z"
+}

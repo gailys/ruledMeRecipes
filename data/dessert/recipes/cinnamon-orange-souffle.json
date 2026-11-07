@@ -1,0 +1,306 @@
+{
+  "id": "ruled-12761",
+  "slug": "cinnamon-orange-souffle",
+  "title": "Cinnamon Orange Souffle",
+  "url": "https://www.ruled.me/cinnamon-orange-souffle/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes 4 total Cinnamon Orange Souffles, each coming out to 389.26 Calories, 36.68g Fats, 4.34g Net Carbs, and 8.39g Protein.",
+  "servings": 4,
+  "yield": [
+    "4"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT50M",
+  "totalTime": "PT65M",
+  "totalMinutes": 65,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "389.26 kcal",
+    "fatContent": "36.68 g",
+    "proteinContent": "8.39 g",
+    "carbohydrateContent": "4.34 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 389.26,
+    "netCarbsGrams": 4.34,
+    "proteinGrams": 8.39,
+    "fatGrams": 36.68
+  },
+  "ingredients": [
+    "1 Cup Coconut Milk",
+    "2 Eggs (Seperated)",
+    "1 tsp. Allspice",
+    "2 Tbsp. Butter",
+    "6 Leftover Cinnamon Orange Scones"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Break up scones into pieces with your hands. Microwave coconut milk until warm and pour milk over scones.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_92332.jpg"
+    },
+    {
+      "text": "Separate eggs and beat egg whites until stiff peaks form. Beat egg yolks, butter, and allspice together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9245.jpg"
+    },
+    {
+      "text": "Add egg yolk mixture to the scones and milk, then stir until everything is combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9252.jpg"
+    },
+    {
+      "text": "Carefully fold egg whites into mixture, then distribute batter among ramekins.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9257.jpg"
+    },
+    {
+      "text": "Bake for 40-50 minutes, let cool, and remove from ramekins.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/Souffle.jpg",
+      "path": "images/0af4706ac936e94147b54e7e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_92332.jpg",
+      "path": "../../nenaudojama/dessert/images/e82544d1587ae708c76dd5ff.jpg",
+      "archived": true,
+      "originalPath": "images/e82544d1587ae708c76dd5ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9245.jpg",
+      "path": "../../nenaudojama/dessert/images/95dc7b6ecd7165b321650bfb.jpg",
+      "archived": true,
+      "originalPath": "images/95dc7b6ecd7165b321650bfb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9252.jpg",
+      "path": "../../nenaudojama/dessert/images/4dae12db60d305db3285825f.jpg",
+      "archived": true,
+      "originalPath": "images/4dae12db60d305db3285825f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9257.jpg",
+      "path": "../../nenaudojama/dessert/images/34de9db79d43f19be028e439.jpg",
+      "archived": true,
+      "originalPath": "images/34de9db79d43f19be028e439.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/SouffleSecond.jpg",
+      "path": "../../nenaudojama/dessert/images/7d2c1485ba1c01b386d7e534.avif",
+      "archived": true,
+      "originalPath": "images/7d2c1485ba1c01b386d7e534.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9241.jpg",
+      "path": "../../nenaudojama/dessert/images/9ee4dd16d84daf5c916f6745.jpg",
+      "archived": true,
+      "originalPath": "images/9ee4dd16d84daf5c916f6745.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9230.jpg",
+      "path": "../../nenaudojama/dessert/images/b077cde87bb3c3e395c40ee9.jpg",
+      "archived": true,
+      "originalPath": "images/b077cde87bb3c3e395c40ee9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9243.jpg",
+      "path": "../../nenaudojama/dessert/images/f5a7c8cc487264b7fcf51654.jpg",
+      "archived": true,
+      "originalPath": "images/f5a7c8cc487264b7fcf51654.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9248.jpg",
+      "path": "../../nenaudojama/dessert/images/b99790d4a0b578ae650a476c.jpg",
+      "archived": true,
+      "originalPath": "images/b99790d4a0b578ae650a476c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9265.jpg",
+      "path": "../../nenaudojama/dessert/images/be91b0cfba14e60feadfff44.jpg",
+      "archived": true,
+      "originalPath": "images/be91b0cfba14e60feadfff44.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/SouffleLong.jpg",
+      "path": "../../nenaudojama/dessert/images/f58e45a658dda3aaab321b53.jpg",
+      "archived": true,
+      "originalPath": "images/f58e45a658dda3aaab321b53.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_92332-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ec8b260e55d79ab11ad4a25e.jpg",
+      "archived": true,
+      "originalPath": "images/ec8b260e55d79ab11ad4a25e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9245-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7df8cf67cc52c591b981c09a.jpg",
+      "archived": true,
+      "originalPath": "images/7df8cf67cc52c591b981c09a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9252-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4358b88bcfff60965b710b52.jpg",
+      "archived": true,
+      "originalPath": "images/4358b88bcfff60965b710b52.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9257-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/25bccb32be8a47490ded23e7.jpg",
+      "archived": true,
+      "originalPath": "images/25bccb32be8a47490ded23e7.jpg"
+    }
+  ],
+  "featuredImage": "images/0af4706ac936e94147b54e7e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cinnamon Orange Souffle",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes 4 total Cinnamon Orange Souffles, each coming out to 389.26 Calories, 36.68g Fats, 4.34g Net Carbs, and 8.39g Protein.",
+    "datePublished": "2014-04-12T17:12:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/Souffle.jpg"
+    ],
+    "recipeYield": [
+      "4"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT50M",
+    "totalTime": "PT65M",
+    "recipeIngredient": [
+      "1 Cup Coconut Milk",
+      "2 Eggs (Seperated)",
+      "1 tsp. Allspice",
+      "2 Tbsp. Butter",
+      "6 Leftover Cinnamon Orange Scones"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Break up scones into pieces with your hands. Microwave coconut milk until warm and pour milk over scones.",
+        "name": "Preheat oven to 400F. Break up scones into pieces with your hands. Microwave coconut milk until warm and pour milk over scones.",
+        "url": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_92332.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Separate eggs and beat egg whites until stiff peaks form. Beat egg yolks, butter, and allspice together.",
+        "name": "Separate eggs and beat egg whites until stiff peaks form. Beat egg yolks, butter, and allspice together.",
+        "url": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9245.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add egg yolk mixture to the scones and milk, then stir until everything is combined.",
+        "name": "Add egg yolk mixture to the scones and milk, then stir until everything is combined.",
+        "url": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9252.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully fold egg whites into mixture, then distribute batter among ramekins.",
+        "name": "Carefully fold egg whites into mixture, then distribute batter among ramekins.",
+        "url": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9257.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 40-50 minutes, let cool, and remove from ramekins.",
+        "name": "Bake for 40-50 minutes, let cool, and remove from ramekins.",
+        "url": "https://www.ruled.me/cinnamon-orange-souffle/#wprm-recipe-51033-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "French"
+    ],
+    "keywords": "gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "389.26 kcal",
+      "fatContent": "36.68 g",
+      "proteinContent": "8.39 g",
+      "carbohydrateContent": "4.34 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cinnamon-orange-souffle/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cinnamon-orange-souffle/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cinnamon-orange-souffle/"
+  },
+  "sourceIndex": {
+    "id": 12761,
+    "rid": 51033,
+    "t": "Cinnamon Orange Souffle",
+    "u": "/cinnamon-orange-souffle/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/Souffle.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.34,
+    "cal": 389.26,
+    "pr": 8.39,
+    "fa": 36.68,
+    "tm": 65,
+    "sv": 4,
+    "kw": [
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2014-04-12",
+    "cm": 2,
+    "ex": "Today is a little bit about re-purposing foods. Some people don't always like what they end up with, so instead of throwing it in the trash you can try to come up with new and creative ideas to",
+    "pv": 51
+  },
+  "sourceHtml": "pages/cinnamon-orange-souffle.html",
+  "scrapedAt": "2026-11-07T08:30:47.545Z"
+}

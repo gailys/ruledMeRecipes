@@ -1,0 +1,303 @@
+{
+  "id": "ruled-3855",
+  "slug": "creamy-keto-hot-cocoa",
+  "title": "Creamy Keto Hot Cocoa",
+  "url": "https://www.ruled.me/creamy-keto-hot-cocoa/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Creamy Keto Hot Cocoa. Each serving comes out to be 116 calories, 8.9g fats, 2.8g net carbs, and 1.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "fatContent": "8.9 g",
+    "proteinContent": "1.8 g",
+    "carbohydrateContent": "2.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 116,
+    "netCarbsGrams": 2.8,
+    "proteinGrams": 1.8,
+    "fatGrams": 8.9
+  },
+  "ingredients": [
+    "1 1/2 cup unsweetened carton coconut milk",
+    "2 tablespoon heavy whipping cream",
+    "1/2 teaspoon ground cinnamon",
+    "1 teaspoon instant coffee",
+    "2 tablespoon unsweetened dark cocoa powder",
+    "1/2 teaspoon vanilla extract",
+    "1 tablespoon stevia/erythritol blend (such as Swerve)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all of the ingredients together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-01.jpg"
+    },
+    {
+      "text": "Pour coconut milk and heavy cream into a saucepan over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-03.jpg"
+    },
+    {
+      "text": "Measure out the cinnamon and instant coffee. Once the milk mixture is steaming, add in the cinnamon and coffee and stir to combine. Add the cocoa powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-04.jpg"
+    },
+    {
+      "text": "Add the vanilla and sweetener and stir everything together, taking care to break up any lumps. Turn the heat up to high, stirring constantly, and wait until the liquid comes to a rolling boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-05.jpg"
+    },
+    {
+      "text": "Once boiling, turn the heat to low and continue stirring. Once the hot chocolate has cooled down, it should have a shiny, rich consistency. It's finished!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Pour into mugs and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian",
+    "winter"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/a703c48d0b99033cacce7b8d.avif",
+      "archived": true,
+      "originalPath": "images/a703c48d0b99033cacce7b8d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-featured.jpg",
+      "path": "images/e6e49d075eca736ce975c0c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-01.jpg",
+      "path": "../../nenaudojama/dessert/images/e44231d924e5f8e529e9657f.avif",
+      "archived": true,
+      "originalPath": "images/e44231d924e5f8e529e9657f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-03.jpg",
+      "path": "../../nenaudojama/dessert/images/2ae33f7f794eec84cc8836a4.avif",
+      "archived": true,
+      "originalPath": "images/2ae33f7f794eec84cc8836a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-04.jpg",
+      "path": "../../nenaudojama/dessert/images/ca958d29a20443a0e3534c96.jpg",
+      "archived": true,
+      "originalPath": "images/ca958d29a20443a0e3534c96.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-05.jpg",
+      "path": "../../nenaudojama/dessert/images/3d07d9248ac9f6ba73dfdf5e.avif",
+      "archived": true,
+      "originalPath": "images/3d07d9248ac9f6ba73dfdf5e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/597484ce5c461bf583d86cee.avif",
+      "archived": true,
+      "originalPath": "images/597484ce5c461bf583d86cee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/442232e759198aed90cab1d3.jpg",
+      "archived": true,
+      "originalPath": "images/442232e759198aed90cab1d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/81d1184ba4a04b8768f68467.avif",
+      "archived": true,
+      "originalPath": "images/81d1184ba4a04b8768f68467.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9d3625c0eb2877eaf1249a0e.avif",
+      "archived": true,
+      "originalPath": "images/9d3625c0eb2877eaf1249a0e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7e4b9982057e8454996f4747.avif",
+      "archived": true,
+      "originalPath": "images/7e4b9982057e8454996f4747.avif"
+    }
+  ],
+  "featuredImage": "images/e6e49d075eca736ce975c0c4.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Creamy Keto Hot Cocoa",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Creamy Keto Hot Cocoa. Each serving comes out to be 116 calories, 8.9g fats, 2.8g net carbs, and 1.8g protein.",
+    "datePublished": "2013-12-09T04:08:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1 1/2 cup unsweetened carton coconut milk",
+      "2 tablespoon heavy whipping cream",
+      "1/2 teaspoon ground cinnamon",
+      "1 teaspoon instant coffee",
+      "2 tablespoon unsweetened dark cocoa powder",
+      "1/2 teaspoon vanilla extract",
+      "1 tablespoon stevia/erythritol blend (such as Swerve)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all of the ingredients together.",
+        "name": "Gather all of the ingredients together.",
+        "url": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour coconut milk and heavy cream into a saucepan over medium heat.",
+        "name": "Pour coconut milk and heavy cream into a saucepan over medium heat.",
+        "url": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the cinnamon and instant coffee. Once the milk mixture is steaming, add in the cinnamon and coffee and stir to combine. Add the cocoa powder.",
+        "name": "Measure out the cinnamon and instant coffee. Once the milk mixture is steaming, add in the cinnamon and coffee and stir to combine. Add the cocoa powder.",
+        "url": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the vanilla and sweetener and stir everything together, taking care to break up any lumps. Turn the heat up to high, stirring constantly, and wait until the liquid comes to a rolling boil.",
+        "name": "Add the vanilla and sweetener and stir everything together, taking care to break up any lumps. Turn the heat up to high, stirring constantly, and wait until the liquid comes to a rolling boil.",
+        "url": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once boiling, turn the heat to low and continue stirring. Once the hot chocolate has cooled down, it should have a shiny, rich consistency. It's finished!",
+        "name": "Once boiling, turn the heat to low and continue stirring. Once the hot chocolate has cooled down, it should have a shiny, rich consistency. It's finished!",
+        "url": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into mugs and serve!",
+        "name": "Pour into mugs and serve!",
+        "url": "https://www.ruled.me/creamy-keto-hot-cocoa/#wprm-recipe-50537-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "15-minute, beginner-friendly, comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "116 kcal",
+      "fatContent": "8.9 g",
+      "proteinContent": "1.8 g",
+      "carbohydrateContent": "2.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/creamy-keto-hot-cocoa/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/creamy-keto-hot-cocoa/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/creamy-keto-hot-cocoa/"
+  },
+  "sourceIndex": {
+    "id": 3855,
+    "rid": 50537,
+    "t": "Creamy Keto Hot Cocoa",
+    "u": "/creamy-keto-hot-cocoa/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/creamy-keto-hot-cocoa-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.8,
+    "cal": 116,
+    "pr": 1.8,
+    "fa": 8.9,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian",
+      "winter"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2013-12-08",
+    "cm": 20,
+    "ex": "That warm feeling your body is engulfed in when you take a long draw of that sweet hot cocoa during winter. That warm feeling is indescribable, comforting, and just a treat in itself. Today we're",
+    "pv": 141
+  },
+  "sourceHtml": "pages/creamy-keto-hot-cocoa.html",
+  "scrapedAt": "2026-11-07T08:30:47.695Z"
+}

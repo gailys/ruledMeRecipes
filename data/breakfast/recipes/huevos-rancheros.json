@@ -1,0 +1,360 @@
+{
+  "id": "ruled-42487",
+  "slug": "huevos-rancheros",
+  "title": "Huevos Rancheros",
+  "url": "https://www.ruled.me/huevos-rancheros/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Huevos Rancheros. Each serving comes out to be 450 calories, 36.9g fats, 6.8g net carbs, and 20.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "450 kcal",
+    "fatContent": "36.9 g",
+    "proteinContent": "20.1 g",
+    "carbohydrateContent": "6.8 g"
+  },
+  "nutritionPerServing": {
+    "calories": 450,
+    "netCarbsGrams": 6.8,
+    "proteinGrams": 20.1,
+    "fatGrams": 36.9
+  },
+  "ingredients": [
+    "2 tablespoon coconut oil",
+    "2 teaspoon crushed red pepper flakes",
+    "2 teaspoon fresh garlic (minced)",
+    "1/2 medium shallot (finely diced)",
+    "2 teaspoon dried oregano",
+    "1/2 cup low-carb tomato sauce (like Rao's)",
+    "1 tablespoon chipotle peppers in adobo sauce (chopped)",
+    "salt and pepper (to taste)",
+    "2 cup mexican-style cheese blend",
+    "4 large egg",
+    "1 medium avocado (sliced)",
+    "1/2 medium lime (sliced into wedges)",
+    "1/4 cup fresh cilantro (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Over medium, heat coconut oil then add crushed red pepper flakes until shimmering. Remove from heat. Let sit for a few minutes to infuse flavor. Strain and discard solids.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-01.jpg"
+    },
+    {
+      "text": "Heat most of the chili oil over medium. Add shallots and onion. Sautee until aromatic. Add oregano, tomato sauce, and chipotle chili. Continue to cook until reduced. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-03.jpg"
+    },
+    {
+      "text": "Using a paper towel, spread a thin coating of the remaining chili oil onto a non-stick pan. Spread an even layer of cheese on the pan, covering the bottom. Cook over low to medium-low heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-05.jpg"
+    },
+    {
+      "text": "When the cheese starts to melt and form a cohesive layer, break eggs. Cover with lid. Cook low and slow until the whites start to settle.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-07.jpg"
+    },
+    {
+      "text": "Once the whites cooked and the edges of the cheese start to peel away from the side of the pan, increase heat to medium to medium-high. Hereon, everything will cook faster. We are looking for a crisp layer of cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-08.jpg"
+    },
+    {
+      "text": "The “tortilla” is done when the bottom layer is uniform and golden. Repeat this process to get more cheese and egg \"tortillas\".",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-09.jpg"
+    },
+    {
+      "text": "To serve, transfer cheese and egg tortilla to a plate. Spoon some chili salsa over and sprinkle with cilantro. Serve with avocado slices and lime wedges.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "spicy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/bd7c22bffe42a78db6608852.avif",
+      "archived": true,
+      "originalPath": "images/bd7c22bffe42a78db6608852.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-featured.jpg",
+      "path": "images/f04910961ca1d4cc6a0970ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/97696d0b1ac9c7aa37d84fac.avif",
+      "archived": true,
+      "originalPath": "images/97696d0b1ac9c7aa37d84fac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/924e5cb7495fc8b0db134189.avif",
+      "archived": true,
+      "originalPath": "images/924e5cb7495fc8b0db134189.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/f6a16fdce4f5175056517702.avif",
+      "archived": true,
+      "originalPath": "images/f6a16fdce4f5175056517702.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-07.jpg",
+      "path": "../../nenaudojama/breakfast/images/ec69f7dc95ad83bd49e6471e.avif",
+      "archived": true,
+      "originalPath": "images/ec69f7dc95ad83bd49e6471e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-08.jpg",
+      "path": "../../nenaudojama/breakfast/images/cc52e80fb76e369507d3d7a1.avif",
+      "archived": true,
+      "originalPath": "images/cc52e80fb76e369507d3d7a1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-09.jpg",
+      "path": "../../nenaudojama/breakfast/images/172f07d4fe11c23a51ddf62a.webp",
+      "archived": true,
+      "originalPath": "images/172f07d4fe11c23a51ddf62a.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/d98aded27de27a65de4a598f.avif",
+      "archived": true,
+      "originalPath": "images/d98aded27de27a65de4a598f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/c5e85517dda1208c1c38a287.avif",
+      "archived": true,
+      "originalPath": "images/c5e85517dda1208c1c38a287.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/69bb4abf5e1e235346eb22ee.avif",
+      "archived": true,
+      "originalPath": "images/69bb4abf5e1e235346eb22ee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d8f6775fdc4033b8dc99af27.avif",
+      "archived": true,
+      "originalPath": "images/d8f6775fdc4033b8dc99af27.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9538f521a42d14da6b13c451.avif",
+      "archived": true,
+      "originalPath": "images/9538f521a42d14da6b13c451.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff68fb68f8e997bf9645b338.avif",
+      "archived": true,
+      "originalPath": "images/ff68fb68f8e997bf9645b338.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-07-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/70e3e6f30b50c638abf29bf2.avif",
+      "archived": true,
+      "originalPath": "images/70e3e6f30b50c638abf29bf2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-08-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/92dbb4d8206e12433f7173ea.avif",
+      "archived": true,
+      "originalPath": "images/92dbb4d8206e12433f7173ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-09-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4b6611c32456a464bcca028d.avif",
+      "archived": true,
+      "originalPath": "images/4b6611c32456a464bcca028d.avif"
+    }
+  ],
+  "featuredImage": "images/f04910961ca1d4cc6a0970ca.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Huevos Rancheros",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Huevos Rancheros. Each serving comes out to be 450 calories, 36.9g fats, 6.8g net carbs, and 20.1g protein.",
+    "datePublished": "2020-02-13T21:39:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 tablespoon coconut oil",
+      "2 teaspoon crushed red pepper flakes",
+      "2 teaspoon fresh garlic (minced)",
+      "1/2 medium shallot (finely diced)",
+      "2 teaspoon dried oregano",
+      "1/2 cup low-carb tomato sauce (like Rao's)",
+      "1 tablespoon chipotle peppers in adobo sauce (chopped)",
+      "salt and pepper (to taste)",
+      "2 cup mexican-style cheese blend",
+      "4 large egg",
+      "1 medium avocado (sliced)",
+      "1/2 medium lime (sliced into wedges)",
+      "1/4 cup fresh cilantro (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Over medium, heat coconut oil then add crushed red pepper flakes until shimmering. Remove from heat. Let sit for a few minutes to infuse flavor. Strain and discard solids.",
+        "name": "Over medium, heat coconut oil then add crushed red pepper flakes until shimmering. Remove from heat. Let sit for a few minutes to infuse flavor. Strain and discard solids.",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat most of the chili oil over medium. Add shallots and onion. Sautee until aromatic. Add oregano, tomato sauce, and chipotle chili. Continue to cook until reduced. Set aside.",
+        "name": "Heat most of the chili oil over medium. Add shallots and onion. Sautee until aromatic. Add oregano, tomato sauce, and chipotle chili. Continue to cook until reduced. Set aside.",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a paper towel, spread a thin coating of the remaining chili oil onto a non-stick pan. Spread an even layer of cheese on the pan, covering the bottom. Cook over low to medium-low heat.",
+        "name": "Using a paper towel, spread a thin coating of the remaining chili oil onto a non-stick pan. Spread an even layer of cheese on the pan, covering the bottom. Cook over low to medium-low heat.",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the cheese starts to melt and form a cohesive layer, break eggs. Cover with lid. Cook low and slow until the whites start to settle.",
+        "name": "When the cheese starts to melt and form a cohesive layer, break eggs. Cover with lid. Cook low and slow until the whites start to settle.",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the whites cooked and the edges of the cheese start to peel away from the side of the pan, increase heat to medium to medium-high. Hereon, everything will cook faster. We are looking for a crisp layer of cheese.",
+        "name": "Once the whites cooked and the edges of the cheese start to peel away from the side of the pan, increase heat to medium to medium-high. Hereon, everything will cook faster. We are looking for a crisp layer of cheese.",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The “tortilla” is done when the bottom layer is uniform and golden. Repeat this process to get more cheese and egg \"tortillas\".",
+        "name": "The “tortilla” is done when the bottom layer is uniform and golden. Repeat this process to get more cheese and egg \"tortillas\".",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To serve, transfer cheese and egg tortilla to a plate. Spoon some chili salsa over and sprinkle with cilantro. Serve with avocado slices and lime wedges.",
+        "name": "To serve, transfer cheese and egg tortilla to a plate. Spoon some chili salsa over and sprinkle with cilantro. Serve with avocado slices and lime wedges.",
+        "url": "https://www.ruled.me/huevos-rancheros/#wprm-recipe-53247-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, high-fat, keto, low-carb, nut-free, quick, spicy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "450 kcal",
+      "fatContent": "36.9 g",
+      "proteinContent": "20.1 g",
+      "carbohydrateContent": "6.8 g"
+    },
+    "@id": "https://www.ruled.me/huevos-rancheros/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/huevos-rancheros/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/huevos-rancheros/"
+  },
+  "sourceIndex": {
+    "id": 42487,
+    "rid": 53247,
+    "t": "Huevos Rancheros",
+    "u": "/huevos-rancheros/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/02/huevos-rancheros-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 6.8,
+    "cal": 450,
+    "pr": 20.1,
+    "fa": 36.9,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "spicy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2020-02-13",
+    "cm": 0,
+    "ex": "Huevos Rancheros is a favorite Sunday breakfast --- was and will continue to be as it is ketofied! By using cheese and eggs as the base, we eliminate corn and flour tortillas. Admittedly, it takes a",
+    "pv": 64
+  },
+  "sourceHtml": "pages/huevos-rancheros.html",
+  "scrapedAt": "2026-11-07T08:11:12.557Z"
+}

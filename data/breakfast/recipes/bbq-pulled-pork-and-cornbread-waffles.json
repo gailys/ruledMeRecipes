@@ -1,0 +1,294 @@
+{
+  "id": "ruled-24626",
+  "slug": "bbq-pulled-pork-and-cornbread-waffles",
+  "title": "BBQ Pulled Pork and “Cornbread” Waffles",
+  "url": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes 4 total servings of 1 waffle and 4oz. of pulled pork. Each serving comes out to be 556 Calories, 45.3g Fats, 5.7g Net Carbs, and 26.4g Protein.",
+  "servings": 4,
+  "yield": [
+    "4"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "556 kcal",
+    "fatContent": "45.3 g",
+    "proteinContent": "26.4 g",
+    "carbohydrateContent": "5.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 556,
+    "netCarbsGrams": 5.7,
+    "proteinGrams": 26.4,
+    "fatGrams": 45.3
+  },
+  "ingredients": [
+    "16 oz. Pulled Pork (Recipe Here)",
+    "1 cup Almond Flour",
+    "1 tsp. Baking Powder",
+    "1/2 tsp. Salt",
+    "3 large Eggs",
+    "2 tbsp. Butter",
+    "1/4 cup Sour Cream",
+    "2 tbsp. Golden Flaxseed Meal",
+    "1 tbsp. Psyllium Husk",
+    "1/4 cup Coconut Milk (from carton)",
+    "2 tbsp. Chopped Red Pepper",
+    "1/4 cup BBQ Sauce (Recipe Here)"
+  ],
+  "instructions": [
+    {
+      "text": "Make the BBQ Sauce and then make the waffle batter by mixing the wet ingredients into the dry.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5785.jpg"
+    },
+    {
+      "text": "Pour the batter on to the waffle maker and let cook.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5836.jpg"
+    },
+    {
+      "text": "While cooking, add pork to a pan on medium-low heat with about 3/4 of the BBQ sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5823.jpg"
+    },
+    {
+      "text": "Once waffles are done, spoon pork onto waffle and top with extra bbq sauce. Serve with extra sour cream if you'd like!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5841.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "pork",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/bbqporkwaffles.jpg",
+      "path": "images/1814af7bc9819fe4b1a5654a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5785.jpg",
+      "path": "../../nenaudojama/breakfast/images/9a3c6ece47afef407634f2ad.avif",
+      "archived": true,
+      "originalPath": "images/9a3c6ece47afef407634f2ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5836.jpg",
+      "path": "../../nenaudojama/breakfast/images/b469c4d35a36ea602c0c206a.jpg",
+      "archived": true,
+      "originalPath": "images/b469c4d35a36ea602c0c206a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5823.jpg",
+      "path": "../../nenaudojama/breakfast/images/160b056a7a00146f65433f36.avif",
+      "archived": true,
+      "originalPath": "images/160b056a7a00146f65433f36.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5841.jpg",
+      "path": "../../nenaudojama/breakfast/images/20d4d051fe6e55237ea21991.avif",
+      "archived": true,
+      "originalPath": "images/20d4d051fe6e55237ea21991.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/bbqporkwafflessecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/a97d9886e63caaa0be8d0e6b.avif",
+      "archived": true,
+      "originalPath": "images/a97d9886e63caaa0be8d0e6b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5808.jpg",
+      "path": "../../nenaudojama/breakfast/images/5432f0d0ecd11120d52cf083.avif",
+      "archived": true,
+      "originalPath": "images/5432f0d0ecd11120d52cf083.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5832.jpg",
+      "path": "../../nenaudojama/breakfast/images/f3c7061f2cc3dffcfc6f93e8.jpg",
+      "archived": true,
+      "originalPath": "images/f3c7061f2cc3dffcfc6f93e8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/bbqporkwaffleslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/c77445dab4ad275cd85708ad.avif",
+      "archived": true,
+      "originalPath": "images/c77445dab4ad275cd85708ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5785-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a4b5122d76e90e2652179f3d.avif",
+      "archived": true,
+      "originalPath": "images/a4b5122d76e90e2652179f3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5836-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/682608cd31a910440a493cff.avif",
+      "archived": true,
+      "originalPath": "images/682608cd31a910440a493cff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5823-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0186ce679606a817bdff4bba.avif",
+      "archived": true,
+      "originalPath": "images/0186ce679606a817bdff4bba.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5841-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1421247c46883621f62e0843.avif",
+      "archived": true,
+      "originalPath": "images/1421247c46883621f62e0843.avif"
+    }
+  ],
+  "featuredImage": "images/1814af7bc9819fe4b1a5654a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "BBQ Pulled Pork and “Cornbread” Waffles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes 4 total servings of 1 waffle and 4oz. of pulled pork. Each serving comes out to be 556 Calories, 45.3g Fats, 5.7g Net Carbs, and 26.4g Protein.",
+    "datePublished": "2014-09-14T14:50:06+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/bbqporkwaffles.jpg"
+    ],
+    "recipeYield": [
+      "4"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "16 oz. Pulled Pork (Recipe Here)",
+      "1 cup Almond Flour",
+      "1 tsp. Baking Powder",
+      "1/2 tsp. Salt",
+      "3 large Eggs",
+      "2 tbsp. Butter",
+      "1/4 cup Sour Cream",
+      "2 tbsp. Golden Flaxseed Meal",
+      "1 tbsp. Psyllium Husk",
+      "1/4 cup Coconut Milk (from carton)",
+      "2 tbsp. Chopped Red Pepper",
+      "1/4 cup BBQ Sauce (Recipe Here)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Make the BBQ Sauce and then make the waffle batter by mixing the wet ingredients into the dry.",
+        "name": "Make the BBQ Sauce and then make the waffle batter by mixing the wet ingredients into the dry.",
+        "url": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5785.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter on to the waffle maker and let cook.",
+        "name": "Pour the batter on to the waffle maker and let cook.",
+        "url": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5836.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While cooking, add pork to a pan on medium-low heat with about 3/4 of the BBQ sauce.",
+        "name": "While cooking, add pork to a pan on medium-low heat with about 3/4 of the BBQ sauce.",
+        "url": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5823.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once waffles are done, spoon pork onto waffle and top with extra bbq sauce. Serve with extra sour cream if you'd like!",
+        "name": "Once waffles are done, spoon pork onto waffle and top with extra bbq sauce. Serve with extra sour cream if you'd like!",
+        "url": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#wprm-recipe-51415-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5841.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, pork, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "556 kcal",
+      "fatContent": "45.3 g",
+      "proteinContent": "26.4 g",
+      "carbohydrateContent": "5.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bbq-pulled-pork-and-cornbread-waffles/"
+  },
+  "sourceIndex": {
+    "id": 24626,
+    "rid": 51415,
+    "t": "BBQ Pulled Pork and “Cornbread” Waffles",
+    "u": "/bbq-pulled-pork-and-cornbread-waffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/bbqporkwaffles.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.7,
+    "cal": 556,
+    "pr": 26.4,
+    "fa": 45.3,
+    "tm": 15,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "pork",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-09-14",
+    "cm": 3,
+    "ex": "Okay, so let me first confess and say that the waffles aren't made from real cornbread, but they do taste really fantastic! Savory waffles pair up with some sweet, spicy, and tangy BBQ Pulled Pork to",
+    "pv": 176
+  },
+  "sourceHtml": "pages/bbq-pulled-pork-and-cornbread-waffles.html",
+  "scrapedAt": "2026-11-07T08:11:13.011Z"
+}

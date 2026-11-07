@@ -1,0 +1,268 @@
+{
+  "id": "ruled-40277",
+  "slug": "spinach-and-cheese-bites",
+  "title": "Spinach and Cheese Bites",
+  "url": "https://www.ruled.me/spinach-and-cheese-bites/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Spinach and Cheese Bites. Each serving comes out to be 158 calories, 7.5g fats, 3.7g net carbs, and 16.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "fatContent": "7.5 g",
+    "proteinContent": "16.5 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 158,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 16.5,
+    "fatGrams": 7.5
+  },
+  "ingredients": [
+    "2/3 cup frozen spinach (thawed and drained)",
+    "3 large egg",
+    "1/2 cup cheddar cheese (shredded)",
+    "1/4 cup fresh cilantro (chopped)",
+    "1 cup nutritional yeast",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350 degrees Farenheit. Make sure that all excess water is squeezed out of the spinach.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-1.jpg"
+    },
+    {
+      "text": "Combine spinach in a mixing bowl with the eggs, cheese, cilantro, nutritional yeast, salt, and pepper. Make sure it’s mixed together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-2.jpg"
+    },
+    {
+      "text": "Scoop out tablespoons of the batter and roll into balls. Place on a greased cookie sheet. The dough is very sticky, but if it gives you too much trouble then feel free to sprinkle in a little almond or coconut flour. You can also wet your hands to help with rolling",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-3.jpg"
+    },
+    {
+      "text": "Bake for 20 minutes at 350°F. The bites will be firm and browned on the bottom.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-featured2-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/cd6b051011e4a00238d3fb0b.jpg",
+      "archived": true,
+      "originalPath": "images/cd6b051011e4a00238d3fb0b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-featured2.jpg",
+      "path": "../../nenaudojama/side-items/images/b57b27d93131e8e0b9a60174.avif",
+      "archived": true,
+      "originalPath": "images/b57b27d93131e8e0b9a60174.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-1.jpg",
+      "path": "../../nenaudojama/side-items/images/93e27325f58ac52bf029f7a6.jpg",
+      "archived": true,
+      "originalPath": "images/93e27325f58ac52bf029f7a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-2.jpg",
+      "path": "../../nenaudojama/side-items/images/5b56da7c61c13ac8c64cb4a4.avif",
+      "archived": true,
+      "originalPath": "images/5b56da7c61c13ac8c64cb4a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-3.jpg",
+      "path": "../../nenaudojama/side-items/images/f5fb3d9aac618e84ea3b7b13.jpg",
+      "archived": true,
+      "originalPath": "images/f5fb3d9aac618e84ea3b7b13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-second2.jpg",
+      "path": "../../nenaudojama/side-items/images/cd8616cfd3b637c83ac43cbd.jpg",
+      "archived": true,
+      "originalPath": "images/cd8616cfd3b637c83ac43cbd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/97c918c59132f6103fa21200.avif",
+      "archived": true,
+      "originalPath": "images/97c918c59132f6103fa21200.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/4721e3ce260a42dd484340f6.jpg",
+      "archived": true,
+      "originalPath": "images/4721e3ce260a42dd484340f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/1b45922fd0883de4284e40b1.jpg",
+      "archived": true,
+      "originalPath": "images/1b45922fd0883de4284e40b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-3-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3b492804ae362a0348457890.jpg",
+      "archived": true,
+      "originalPath": "images/3b492804ae362a0348457890.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/b57b27d93131e8e0b9a60174.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spinach and Cheese Bites",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Spinach and Cheese Bites. Each serving comes out to be 158 calories, 7.5g fats, 3.7g net carbs, and 16.5g protein.",
+    "datePublished": "2019-05-14T09:00:06+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-featured2.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2/3 cup frozen spinach (thawed and drained)",
+      "3 large egg",
+      "1/2 cup cheddar cheese (shredded)",
+      "1/4 cup fresh cilantro (chopped)",
+      "1 cup nutritional yeast",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350 degrees Farenheit. Make sure that all excess water is squeezed out of the spinach.",
+        "name": "Preheat oven to 350 degrees Farenheit. Make sure that all excess water is squeezed out of the spinach.",
+        "url": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine spinach in a mixing bowl with the eggs, cheese, cilantro, nutritional yeast, salt, and pepper. Make sure it’s mixed together well.",
+        "name": "Combine spinach in a mixing bowl with the eggs, cheese, cilantro, nutritional yeast, salt, and pepper. Make sure it’s mixed together well.",
+        "url": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop out tablespoons of the batter and roll into balls. Place on a greased cookie sheet. The dough is very sticky, but if it gives you too much trouble then feel free to sprinkle in a little almond or coconut flour. You can also wet your hands to help with rolling",
+        "name": "Scoop out tablespoons of the batter and roll into balls. Place on a greased cookie sheet. The dough is very sticky, but if it gives you too much trouble then feel free to sprinkle in a little almond or coconut flour. You can also wet your hands to help with rolling",
+        "url": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20 minutes at 350°F. The bites will be firm and browned on the bottom.",
+        "name": "Bake for 20 minutes at 350°F. The bites will be firm and browned on the bottom.",
+        "url": "https://www.ruled.me/spinach-and-cheese-bites/#wprm-recipe-53004-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "keywords": "30-minute, beginner-friendly, family-friendly, gluten-free, keto, low-carb, nut-free, oven-baked, party-food, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "158 kcal",
+      "fatContent": "7.5 g",
+      "proteinContent": "16.5 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spinach-and-cheese-bites/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spinach-and-cheese-bites/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spinach-and-cheese-bites/"
+  },
+  "sourceIndex": {
+    "id": 40277,
+    "rid": 53004,
+    "t": "Spinach and Cheese Bites",
+    "u": "/spinach-and-cheese-bites/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/04/spinach-bites-featured2-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.7,
+    "cal": 158,
+    "pr": 16.5,
+    "fa": 7.5,
+    "tm": 25,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2019-05-14",
+    "cm": 2,
+    "ex": "These wonderful appetizer bites bind spinach together with cheese, eggs, and the secret ingredient - nutritional yeast! The nutritional yeast makes these spinach and cheese bites taste meaty, if not",
+    "pv": 67
+  },
+  "sourceHtml": "pages/spinach-and-cheese-bites.html",
+  "scrapedAt": "2026-11-07T08:32:15.784Z"
+}

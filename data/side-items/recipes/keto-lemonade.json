@@ -1,0 +1,239 @@
+{
+  "id": "ruled-43293",
+  "slug": "keto-lemonade",
+  "title": "Sugar-free Keto Lemonade",
+  "url": "https://www.ruled.me/keto-lemonade/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "",
+  "servings": 0,
+  "prepTime": null,
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "5"
+  },
+  "nutritionPerServing": {
+    "calories": null,
+    "netCarbsGrams": null,
+    "proteinGrams": null,
+    "fatGrams": null
+  },
+  "ingredients": [
+    "1 cup lemon juice (freshly squeezed)",
+    "5 cups water (filtered)",
+    "1 teaspoon liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Add all ingredients to a pitcher large enough to hold all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemonade/#wprm-recipe-53397-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-4.jpg"
+    },
+    {
+      "text": "Mix together and taste. Adjust sweetener to taste. Tip: Add a pinch or 2 of salt to keep electrolytes up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemonade/#wprm-recipe-53397-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-5.jpg"
+    },
+    {
+      "text": "Serve over ice and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemonade/#wprm-recipe-53397-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/a0ac6bee4e1c8e8c281a53d2.jpg",
+      "archived": true,
+      "originalPath": "images/a0ac6bee4e1c8e8c281a53d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Featured.jpg",
+      "path": "../../nenaudojama/side-items/images/51409402ae03501f8a7f0b36.avif",
+      "archived": true,
+      "originalPath": "images/51409402ae03501f8a7f0b36.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-4.jpg",
+      "path": "../../nenaudojama/side-items/images/29c76e4520ad247847d4ea72.jpg",
+      "archived": true,
+      "originalPath": "images/29c76e4520ad247847d4ea72.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-5.jpg",
+      "path": "../../nenaudojama/side-items/images/390789855c8808e80e18ab99.jpg",
+      "archived": true,
+      "originalPath": "images/390789855c8808e80e18ab99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Second.jpg",
+      "path": "../../nenaudojama/side-items/images/9bc66cd29322c27fd588d827.jpg",
+      "archived": true,
+      "originalPath": "images/9bc66cd29322c27fd588d827.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Long.jpg",
+      "path": "../../nenaudojama/side-items/images/150c5049571bf23f537d6750.jpg",
+      "archived": true,
+      "originalPath": "images/150c5049571bf23f537d6750.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/a6fa03847e1beb2400703e92.jpg",
+      "archived": true,
+      "originalPath": "images/a6fa03847e1beb2400703e92.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-4-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d43e080dad862dc0dcf160b3.jpg",
+      "archived": true,
+      "originalPath": "images/d43e080dad862dc0dcf160b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-5-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3443a6c76380783907a9c8af.jpg",
+      "archived": true,
+      "originalPath": "images/3443a6c76380783907a9c8af.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/51409402ae03501f8a7f0b36.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Sugar-free Keto Lemonade",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "datePublished": "2020-06-16T09:24:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Featured.jpg"
+    ],
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 cup lemon juice (freshly squeezed)",
+      "5 cups water (filtered)",
+      "1 teaspoon liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients to a pitcher large enough to hold all of the ingredients.",
+        "name": "Add all ingredients to a pitcher large enough to hold all of the ingredients.",
+        "url": "https://www.ruled.me/keto-lemonade/#wprm-recipe-53397-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together and taste. Adjust sweetener to taste. Tip: Add a pinch or 2 of salt to keep electrolytes up.",
+        "name": "Mix together and taste. Adjust sweetener to taste. Tip: Add a pinch or 2 of salt to keep electrolytes up.",
+        "url": "https://www.ruled.me/keto-lemonade/#wprm-recipe-53397-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-lemonade-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve over ice and enjoy!",
+        "name": "Serve over ice and enjoy!",
+        "url": "https://www.ruled.me/keto-lemonade/#wprm-recipe-53397-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Drinks"
+    ],
+    "keywords": "15-minute, beginner-friendly, budget-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple-and-easy, sugar-free, summer, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "5"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-lemonade/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-lemonade/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-lemonade/"
+  },
+  "sourceIndex": {
+    "id": 43293,
+    "rid": 53397,
+    "t": "Sugar-free Keto Lemonade",
+    "u": "/keto-lemonade/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Lemonade-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": null,
+    "cal": null,
+    "pr": null,
+    "fa": null,
+    "tm": 5,
+    "sv": 0,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2020-06-16",
+    "cm": 2,
+    "ex": "Most lemonade products — from ready-to-drink beverages to powder mixes — are packed with sugar. Even popular \"sugar-free\" options, such as Crystal Light and Chick-fil-A diet lemonade, contain a",
+    "pv": 145
+  },
+  "sourceHtml": "pages/keto-lemonade.html",
+  "scrapedAt": "2026-11-07T08:32:07.803Z"
+}

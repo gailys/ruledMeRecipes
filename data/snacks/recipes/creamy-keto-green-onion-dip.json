@@ -1,0 +1,296 @@
+{
+  "id": "ruled-42276",
+  "slug": "creamy-keto-green-onion-dip",
+  "title": "Creamy Keto Green Onion Dip",
+  "url": "https://www.ruled.me/creamy-keto-green-onion-dip/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Creamy Keto Green Onion Dip. Each serving comes out to be 166 calories, 16.4g fats, 2.6g net carbs, and 2.5g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "166 kcal",
+    "fatContent": "16.4 g",
+    "proteinContent": "2.5 g",
+    "carbohydrateContent": "2.6 g"
+  },
+  "nutritionPerServing": {
+    "calories": 166,
+    "netCarbsGrams": 2.6,
+    "proteinGrams": 2.5,
+    "fatGrams": 16.4
+  },
+  "ingredients": [
+    "3/4 cup green onion (sliced)",
+    "8 ounce cream cheese",
+    "3/4 cup sour cream",
+    "2 tablespoon mayonnaise",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Wash and chop the green onion, removing any wilted or discolored pieces of the green stem.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-01.jpg"
+    },
+    {
+      "text": "In a large bowl, mix the cream cheese, sour cream, mayonnaise, and crushed garlic and half of the onion until the mixture is smooth and there are no visible lumps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-02.jpg"
+    },
+    {
+      "text": "Once smooth, add the rest of the onion to the dip and fold in gently.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-03.jpg"
+    },
+    {
+      "text": "Season with salt and pepper and serve with crudité! For a stronger onion flavor, refrigerate for 1 hour before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-featured-768x512.png",
+      "path": "../../nenaudojama/snacks/images/6545dfeefc57c3e8e4c9029b.webp",
+      "archived": true,
+      "originalPath": "images/6545dfeefc57c3e8e4c9029b.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-featured.png",
+      "path": "../../nenaudojama/snacks/images/31a2ef7ce799c946bf560104.webp",
+      "archived": true,
+      "originalPath": "images/31a2ef7ce799c946bf560104.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-01.jpg",
+      "path": "../../nenaudojama/snacks/images/e569f3178708d42a23014f29.avif",
+      "archived": true,
+      "originalPath": "images/e569f3178708d42a23014f29.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-02.jpg",
+      "path": "../../nenaudojama/snacks/images/dcbad80f36b744dd43f0255f.jpg",
+      "archived": true,
+      "originalPath": "images/dcbad80f36b744dd43f0255f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-03.jpg",
+      "path": "../../nenaudojama/snacks/images/c7b34ce5b05dc1273d0d9466.avif",
+      "archived": true,
+      "originalPath": "images/c7b34ce5b05dc1273d0d9466.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-second.jpg",
+      "path": "../../nenaudojama/snacks/images/e28cb86a648a905d679db391.avif",
+      "archived": true,
+      "originalPath": "images/e28cb86a648a905d679db391.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/433bcbbabf180f61781d15ed.avif",
+      "archived": true,
+      "originalPath": "images/433bcbbabf180f61781d15ed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-featured-300x300.png",
+      "path": "../../nenaudojama/snacks/images/e64b258205c4a4c8d4d93020.png",
+      "archived": true,
+      "originalPath": "images/e64b258205c4a4c8d4d93020.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-01-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/788fa44d87cea12e5cab5eb2.jpg",
+      "archived": true,
+      "originalPath": "images/788fa44d87cea12e5cab5eb2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/be4655c5094c6ce4e892a564.jpg",
+      "archived": true,
+      "originalPath": "images/be4655c5094c6ce4e892a564.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-03-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/7adc2726910b213b98b61864.jpg",
+      "archived": true,
+      "originalPath": "images/7adc2726910b213b98b61864.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/31a2ef7ce799c946bf560104.webp",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Creamy Keto Green Onion Dip",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Creamy Keto Green Onion Dip. Each serving comes out to be 166 calories, 16.4g fats, 2.6g net carbs, and 2.5g protein.",
+    "datePublished": "2020-01-21T12:00:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-featured.png"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "3/4 cup green onion (sliced)",
+      "8 ounce cream cheese",
+      "3/4 cup sour cream",
+      "2 tablespoon mayonnaise",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash and chop the green onion, removing any wilted or discolored pieces of the green stem.",
+        "name": "Wash and chop the green onion, removing any wilted or discolored pieces of the green stem.",
+        "url": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix the cream cheese, sour cream, mayonnaise, and crushed garlic and half of the onion until the mixture is smooth and there are no visible lumps.",
+        "name": "In a large bowl, mix the cream cheese, sour cream, mayonnaise, and crushed garlic and half of the onion until the mixture is smooth and there are no visible lumps.",
+        "url": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once smooth, add the rest of the onion to the dip and fold in gently.",
+        "name": "Once smooth, add the rest of the onion to the dip and fold in gently.",
+        "url": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper and serve with crudité! For a stronger onion flavor, refrigerate for 1 hour before serving.",
+        "name": "Season with salt and pepper and serve with crudité! For a stronger onion flavor, refrigerate for 1 hour before serving.",
+        "url": "https://www.ruled.me/creamy-keto-green-onion-dip/#wprm-recipe-53227-step-0-3"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Fast, easy and really good!!!",
+        "author": {
+          "@type": "Person",
+          "name": "Barb West"
+        },
+        "datePublished": "2024-09-28"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, keto, low-carb, no-cook, nut-free, party-food, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "166 kcal",
+      "fatContent": "16.4 g",
+      "proteinContent": "2.5 g",
+      "carbohydrateContent": "2.6 g"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/creamy-keto-green-onion-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/creamy-keto-green-onion-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/creamy-keto-green-onion-dip/"
+  },
+  "sourceIndex": {
+    "id": 42276,
+    "rid": 53227,
+    "t": "Creamy Keto Green Onion Dip",
+    "u": "/creamy-keto-green-onion-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/01/green-onion-dip-featured-768x512.png",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 2.6,
+    "cal": 166,
+    "pr": 2.5,
+    "fa": 16.4,
+    "tm": 10,
+    "sv": 8,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2020-01-21",
+    "cm": 1,
+    "ex": "Ditch the processed packets of powered onion dip and whip up this fresh keto green onion dip in less than five minutes! What I love most about this cool and creamy dip is how simple the ingredients",
+    "pv": 299
+  },
+  "sourceHtml": "pages/creamy-keto-green-onion-dip.html",
+  "scrapedAt": "2026-11-07T08:30:58.522Z"
+}

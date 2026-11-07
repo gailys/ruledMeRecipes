@@ -1,0 +1,315 @@
+{
+  "id": "ruled-33107",
+  "slug": "jalapeno-cornbread-mini-loaves",
+  "title": "Mini Jalapeno Cornbread Loaves",
+  "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Mini Jalapeno Cornbread Loaves. Each serving comes out to be 306 calories, 26.8g fats, 3.6g net carbs, and 11g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "fatContent": "26.8 g",
+    "proteinContent": "11 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 306,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 11,
+    "fatGrams": 26.8
+  },
+  "ingredients": [
+    "1 1/2 cup almond flour",
+    "1/2 cup flaxseed meal",
+    "2 teaspoon baking powder",
+    "1 teaspoon salt",
+    "1/2 cup sour cream",
+    "4 tablespoon butter (melted)",
+    "4 large egg",
+    "10 drop liquid stevia",
+    "1 teaspoon sweet corn extract (such as Amoretti)",
+    "2 medium jalapeno pepper (deseeded)",
+    "1/2 cup sharp cheddar cheese (grated)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Grease a mini loaf pan with cooking spray or butter. Gather the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-01.jpg"
+    },
+    {
+      "text": "In a large bowl, whisk together the almond flour, golden flaxseed meal, baking powder, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-02.jpg"
+    },
+    {
+      "text": "In a separate, medium-sized bowl, whisk together the wet ingredients. Combine the wet and dry ingredients well. Fold the diced jalapeño and grated cheddar cheese into the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-03.jpg"
+    },
+    {
+      "text": "Spoon the batter evenly into the prepared loaf pan. Garnish each loaf with a sliced pepper ring, if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-04.jpg"
+    },
+    {
+      "text": "Bake for 20–22 minutes or until golden brown. Let cool in the pan for 5 minutes and remove to a wire rack to finish cooling.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-05.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "spicy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/f88953ec66679cae809cd9c5.jpg",
+      "archived": true,
+      "originalPath": "images/f88953ec66679cae809cd9c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/b27cf40734ce6508a2d83aad.jpg",
+      "archived": true,
+      "originalPath": "images/b27cf40734ce6508a2d83aad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-01.jpg",
+      "path": "../../nenaudojama/side-items/images/209ab7a8ebe2e61c6ddb50b1.avif",
+      "archived": true,
+      "originalPath": "images/209ab7a8ebe2e61c6ddb50b1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-02.jpg",
+      "path": "../../nenaudojama/side-items/images/ba835220d2872dfc102b780b.avif",
+      "archived": true,
+      "originalPath": "images/ba835220d2872dfc102b780b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-03.jpg",
+      "path": "../../nenaudojama/side-items/images/d5034aaf512ed001e1f32d1b.avif",
+      "archived": true,
+      "originalPath": "images/d5034aaf512ed001e1f32d1b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-04.jpg",
+      "path": "../../nenaudojama/side-items/images/afb2ac935bf84125f021a1a5.avif",
+      "archived": true,
+      "originalPath": "images/afb2ac935bf84125f021a1a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-05.jpg",
+      "path": "../../nenaudojama/side-items/images/32637fe81e5953533a194a28.avif",
+      "archived": true,
+      "originalPath": "images/32637fe81e5953533a194a28.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-second.jpg",
+      "path": "../../nenaudojama/side-items/images/d86a5ff561d85ab7172f23f6.avif",
+      "archived": true,
+      "originalPath": "images/d86a5ff561d85ab7172f23f6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/d22e845517e71c7a7d2abfd0.avif",
+      "archived": true,
+      "originalPath": "images/d22e845517e71c7a7d2abfd0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7092342c32eb4f06bf4d71a5.avif",
+      "archived": true,
+      "originalPath": "images/7092342c32eb4f06bf4d71a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c5c5d2836072de9479886475.avif",
+      "archived": true,
+      "originalPath": "images/c5c5d2836072de9479886475.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/139ed0da3f0864584d6eb927.avif",
+      "archived": true,
+      "originalPath": "images/139ed0da3f0864584d6eb927.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/db37a6d88923a4b2d40d38ab.avif",
+      "archived": true,
+      "originalPath": "images/db37a6d88923a4b2d40d38ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e2aeec8300b62666e5004fd6.avif",
+      "archived": true,
+      "originalPath": "images/e2aeec8300b62666e5004fd6.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/b27cf40734ce6508a2d83aad.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mini Jalapeno Cornbread Loaves",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Mini Jalapeno Cornbread Loaves. Each serving comes out to be 306 calories, 26.8g fats, 3.6g net carbs, and 11g protein.",
+    "datePublished": "2017-10-05T11:00:22+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1 1/2 cup almond flour",
+      "1/2 cup flaxseed meal",
+      "2 teaspoon baking powder",
+      "1 teaspoon salt",
+      "1/2 cup sour cream",
+      "4 tablespoon butter (melted)",
+      "4 large egg",
+      "10 drop liquid stevia",
+      "1 teaspoon sweet corn extract (such as Amoretti)",
+      "2 medium jalapeno pepper (deseeded)",
+      "1/2 cup sharp cheddar cheese (grated)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Grease a mini loaf pan with cooking spray or butter. Gather the ingredients.",
+        "name": "Preheat oven to 375F. Grease a mini loaf pan with cooking spray or butter. Gather the ingredients.",
+        "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk together the almond flour, golden flaxseed meal, baking powder, and salt.",
+        "name": "In a large bowl, whisk together the almond flour, golden flaxseed meal, baking powder, and salt.",
+        "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate, medium-sized bowl, whisk together the wet ingredients. Combine the wet and dry ingredients well. Fold the diced jalapeño and grated cheddar cheese into the batter.",
+        "name": "In a separate, medium-sized bowl, whisk together the wet ingredients. Combine the wet and dry ingredients well. Fold the diced jalapeño and grated cheddar cheese into the batter.",
+        "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the batter evenly into the prepared loaf pan. Garnish each loaf with a sliced pepper ring, if desired.",
+        "name": "Spoon the batter evenly into the prepared loaf pan. Garnish each loaf with a sliced pepper ring, if desired.",
+        "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20–22 minutes or until golden brown. Let cool in the pan for 5 minutes and remove to a wire rack to finish cooling.",
+        "name": "Bake for 20–22 minutes or until golden brown. Let cool in the pan for 5 minutes and remove to a wire rack to finish cooling.",
+        "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#wprm-recipe-52321-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, spicy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "306 kcal",
+      "fatContent": "26.8 g",
+      "proteinContent": "11 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/jalapeno-cornbread-mini-loaves/"
+  },
+  "sourceIndex": {
+    "id": 33107,
+    "rid": 52321,
+    "t": "Jalapeno Cornbread Mini Loaves",
+    "u": "/jalapeno-cornbread-mini-loaves/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/09/keto-jalapeno-cornbread-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.6,
+    "cal": 306,
+    "pr": 11,
+    "fa": 26.8,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "spicy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2017-10-05",
+    "cm": 42,
+    "ex": "Cornbread is a great accompaniment to soups and stews in the winter months. This version uses almond flour and golden flaxseed meal to mimic the hearty texture of cornbread while keeping the carbs",
+    "pv": 394
+  },
+  "sourceHtml": "pages/jalapeno-cornbread-mini-loaves.html",
+  "scrapedAt": "2026-11-07T08:32:32.040Z"
+}

@@ -1,0 +1,378 @@
+{
+  "id": "ruled-41902",
+  "slug": "simple-keto-enchiladas",
+  "title": "Simple Keto Enchiladas",
+  "url": "https://www.ruled.me/simple-keto-enchiladas/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Simple Keto Enchiladas. Each serving comes out to be 559 calories, 40.1g fats, 9.4g net carbs, and 36.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "3",
+    "calories": "559 kcal",
+    "fatContent": "40.1 g",
+    "proteinContent": "36.7 g",
+    "carbohydrateContent": "9.4 g"
+  },
+  "nutritionPerServing": {
+    "calories": 559,
+    "netCarbsGrams": 9.4,
+    "proteinGrams": 36.7,
+    "fatGrams": 40.1
+  },
+  "ingredients": [
+    "8 ounce ground beef (80/20)",
+    "8 ounce ground pork",
+    "12 slice deli-sliced black forest ham",
+    "4 ounce fresh green chile (diced)",
+    "1 teaspoon onion powder",
+    "1 teaspoon garlic powder",
+    "salt and pepper (to taste)",
+    "8 ounce red enchilada sauce",
+    "1/2 cup monterey jack cheese",
+    "1 medium avocado",
+    "1/4 cup sour cream"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 375 degrees Fahrenheit, and heat up a skillet over medium-high heat on the stove.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-01.jpg"
+    },
+    {
+      "text": "Add the ground beef and pork to the skillet, break up the meat into small chunks as it starts to brown. Mix in the green chilies, onion powder, garlic powder, salt, and pepper. Continue cooking until fully cooked through, then remove the skillet from the heat and allow to cool enough to handle.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/simple-enchiladas.png"
+    },
+    {
+      "text": "Spoon some of the enchilada sauce on the bottom of a casserole pan. Lay out the slices of ham then spoon a bit of the cooked meat mixture onto each slice. Roll up then place them seam side down when adding to the casserole dish. If you have leftover meat then add it on top of the rolled slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-03.jpg"
+    },
+    {
+      "text": "Pour the rest of the enchilada sauce over the top of the rolls, make sure that all of the edges are covered then sprinkle the cheese over the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-04.jpg"
+    },
+    {
+      "text": "Bake for 15-20 minutes or until the cheese had melted and browned. Serve with avocado and sour cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/b8ea5d284ffbb8e491aef7ba.jpg",
+      "archived": true,
+      "originalPath": "images/b8ea5d284ffbb8e491aef7ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-featured.jpg",
+      "path": "images/3354e5bd23edb880d43dde6d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-01.jpg",
+      "path": "../../nenaudojama/dinner/images/263bd92cbb0f6528e1b848ad.avif",
+      "archived": true,
+      "originalPath": "images/263bd92cbb0f6528e1b848ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/simple-enchiladas.png",
+      "path": "../../nenaudojama/dinner/images/a59d472456210a443647366a.webp",
+      "archived": true,
+      "originalPath": "images/a59d472456210a443647366a.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-03.jpg",
+      "path": "../../nenaudojama/dinner/images/e726892752c090a04aa9bdba.jpg",
+      "archived": true,
+      "originalPath": "images/e726892752c090a04aa9bdba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-04.jpg",
+      "path": "../../nenaudojama/dinner/images/43bf7e69831d75dfa6f96e11.avif",
+      "archived": true,
+      "originalPath": "images/43bf7e69831d75dfa6f96e11.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas.png",
+      "path": "../../nenaudojama/dinner/images/2412c0b8b633dfc147521af7.png",
+      "archived": true,
+      "originalPath": "images/2412c0b8b633dfc147521af7.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/b61821ed13061d54b435a645.jpg",
+      "archived": true,
+      "originalPath": "images/b61821ed13061d54b435a645.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/56276594c7b40c152618215c.avif",
+      "archived": true,
+      "originalPath": "images/56276594c7b40c152618215c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6aca1f4beab5fd641311a72d.avif",
+      "archived": true,
+      "originalPath": "images/6aca1f4beab5fd641311a72d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/simple-enchiladas-525x350.png",
+      "path": "../../nenaudojama/dinner/images/b1bf9e5ccbb71a66b80fc5e9.png",
+      "archived": true,
+      "originalPath": "images/b1bf9e5ccbb71a66b80fc5e9.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/df30e404a18b0c26e61f8194.jpg",
+      "archived": true,
+      "originalPath": "images/df30e404a18b0c26e61f8194.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/30feba21dcf83763592903b5.avif",
+      "archived": true,
+      "originalPath": "images/30feba21dcf83763592903b5.avif"
+    }
+  ],
+  "featuredImage": "images/3354e5bd23edb880d43dde6d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple Keto Enchiladas",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Simple Keto Enchiladas. Each serving comes out to be 559 calories, 40.1g fats, 9.4g net carbs, and 36.7g protein.",
+    "datePublished": "2019-11-12T21:30:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-featured.jpg"
+    ],
+    "video": {
+      "name": "Simple Keto Enchiladas Recipe",
+      "description": "I’ve been loving simple keto swaps lately, so that’s why I was excited to try this simple keto enchiladas recipe. Using homemade keto tortillas ( in recipes is great, but sometimes I just don’t have the time or energy to make them from scratch.\n\nI also hate to spend money on the storebought ones because let’s face it, they all taste terrible. This recipe ditches all of that by using rolled up lunchmeat.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n½ pound ground beef\n½ pound ground pork\n12 slices deli ham\n4 ounces diced green chilies\n1 teaspoon onion powder\n1 teaspoon garlic powder\nSalt and pepper, to taste\n8 ounces red enchilada sauce\n½ cup Monterey jack cheese\n\nNutrition Summary:\nThis makes a total of 4 servings of Simple Keto Enchiladas. Each serving comes out to be 475 Calories, 28.18g Fats, 7.6g Net Carbs, and 44.75g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-08-17T15:00:07+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M18S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 27136
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 608
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 28
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LjwZCK7-gfk/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/LjwZCK7-gfk?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=LjwZCK7-gfk",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT30M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "8 ounce ground beef (80/20)",
+      "8 ounce ground pork",
+      "12 slice deli-sliced black forest ham",
+      "4 ounce fresh green chile (diced)",
+      "1 teaspoon onion powder",
+      "1 teaspoon garlic powder",
+      "salt and pepper (to taste)",
+      "8 ounce red enchilada sauce",
+      "1/2 cup monterey jack cheese",
+      "1 medium avocado",
+      "1/4 cup sour cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375 degrees Fahrenheit, and heat up a skillet over medium-high heat on the stove.",
+        "name": "Preheat your oven to 375 degrees Fahrenheit, and heat up a skillet over medium-high heat on the stove.",
+        "url": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ground beef and pork to the skillet, break up the meat into small chunks as it starts to brown. Mix in the green chilies, onion powder, garlic powder, salt, and pepper. Continue cooking until fully cooked through, then remove the skillet from the heat and allow to cool enough to handle.",
+        "name": "Add the ground beef and pork to the skillet, break up the meat into small chunks as it starts to brown. Mix in the green chilies, onion powder, garlic powder, salt, and pepper. Continue cooking until fully cooked through, then remove the skillet from the heat and allow to cool enough to handle.",
+        "url": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/simple-enchiladas.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon some of the enchilada sauce on the bottom of a casserole pan. Lay out the slices of ham then spoon a bit of the cooked meat mixture onto each slice. Roll up then place them seam side down when adding to the casserole dish. If you have leftover meat then add it on top of the rolled slices.",
+        "name": "Spoon some of the enchilada sauce on the bottom of a casserole pan. Lay out the slices of ham then spoon a bit of the cooked meat mixture onto each slice. Roll up then place them seam side down when adding to the casserole dish. If you have leftover meat then add it on top of the rolled slices.",
+        "url": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the rest of the enchilada sauce over the top of the rolls, make sure that all of the edges are covered then sprinkle the cheese over the top.",
+        "name": "Pour the rest of the enchilada sauce over the top of the rolls, make sure that all of the edges are covered then sprinkle the cheese over the top.",
+        "url": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 15-20 minutes or until the cheese had melted and browned. Serve with avocado and sour cream.",
+        "name": "Bake for 15-20 minutes or until the cheese had melted and browned. Serve with avocado and sour cream.",
+        "url": "https://www.ruled.me/simple-keto-enchiladas/#wprm-recipe-53203-step-0-4"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "I’ve just made this recipe and it is delicious. I made my own enchilada sauce to go with it, and no pork, just beef.",
+        "author": {
+          "@type": "Person",
+          "name": "Lily"
+        },
+        "datePublished": "2025-02-23"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, pork, red meat, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "3",
+      "calories": "559 kcal",
+      "fatContent": "40.1 g",
+      "proteinContent": "36.7 g",
+      "carbohydrateContent": "9.4 g"
+    },
+    "@id": "https://www.ruled.me/simple-keto-enchiladas/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-keto-enchiladas/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-keto-enchiladas/"
+  },
+  "sourceIndex": {
+    "id": 41902,
+    "rid": 53203,
+    "t": "Simple Keto Enchiladas",
+    "u": "/simple-keto-enchiladas/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/11/easy-keto-enchiladas-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 9.4,
+    "cal": 559,
+    "pr": 36.7,
+    "fa": 40.1,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "red-meat"
+    ],
+    "d": "2019-11-12",
+    "cm": 3,
+    "ex": "I've been loving simple keto swaps lately, so that's why I was excited to try this simple keto enchiladas recipe. I love using homemade keto tortillas in my recipes, but sometimes I just don't have",
+    "pv": 656
+  },
+  "sourceHtml": "pages/simple-keto-enchiladas.html",
+  "scrapedAt": "2026-11-07T08:27:44.383Z"
+}

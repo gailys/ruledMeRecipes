@@ -1,0 +1,301 @@
+{
+  "id": "ruled-43092",
+  "slug": "keto-cauliflower-hash-browns-5-ingredient",
+  "title": "Keto Cauliflower Hash Browns",
+  "url": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Cauliflower Hash Browns. Each serving comes out to be 293 calories, 27.5g fats, 3.3g net carbs, and 7.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "293 kcal",
+    "fatContent": "27.5 g",
+    "proteinContent": "7.6 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 293,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 7.6,
+    "fatGrams": 27.5
+  },
+  "ingredients": [
+    "16 ounce cauliflower",
+    "3 large egg",
+    "1/2 medium onion",
+    "1 teaspoon salt",
+    "black pepper (to taste)",
+    "8 tablespoon butter (to fry)"
+  ],
+  "instructions": [
+    {
+      "text": "Grate the cauliflower and onion into small pieces using either a grater or a food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-02.jpg"
+    },
+    {
+      "text": "Add the cauliflower and onion to a bowl, then add the eggs and seasoning. Mix together well and set aside for 5-10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-03.jpg"
+    },
+    {
+      "text": "Melt enough butter to thoroughly cover the bottom of the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-04.jpg"
+    },
+    {
+      "text": "Add scoops of the cauliflower mixture into the butter and fry for 4-5 minutes on each side. Be careful not to flip before the sides are crispy as they can break apart. Add additional butter to the pan as needed to help fry the hash browns.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-05.jpg"
+    },
+    {
+      "text": "If cooking in batches, you can keep the finished cauliflower hash browns in foil to help keep them warm. Once finished, serve the hash browns with the butter from the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/96f32630a1483a7495c98c89.avif",
+      "archived": true,
+      "originalPath": "images/96f32630a1483a7495c98c89.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-featured.jpg",
+      "path": "images/3d686fd5c8a825bffc450c89.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/d1114107c80997d8c5f3b25e.jpg",
+      "archived": true,
+      "originalPath": "images/d1114107c80997d8c5f3b25e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/da7de80246ffca6e78c01604.avif",
+      "archived": true,
+      "originalPath": "images/da7de80246ffca6e78c01604.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/7fdc5ff1e100db312100c386.jpg",
+      "archived": true,
+      "originalPath": "images/7fdc5ff1e100db312100c386.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/7fe627a80451152cb7256ca5.avif",
+      "archived": true,
+      "originalPath": "images/7fe627a80451152cb7256ca5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/ec25ec6b7fb213c2147462c3.jpg",
+      "archived": true,
+      "originalPath": "images/ec25ec6b7fb213c2147462c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/918e192f5bbcd86d4f6f2c57.avif",
+      "archived": true,
+      "originalPath": "images/918e192f5bbcd86d4f6f2c57.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/135852b570a4ee5e2c7c29c8.jpg",
+      "archived": true,
+      "originalPath": "images/135852b570a4ee5e2c7c29c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3662ae4f51dca994fc594546.jpg",
+      "archived": true,
+      "originalPath": "images/3662ae4f51dca994fc594546.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/daea91235c62018f930d9540.jpg",
+      "archived": true,
+      "originalPath": "images/daea91235c62018f930d9540.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-04-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a8d1eaf5b49c019ea3f355b8.avif",
+      "archived": true,
+      "originalPath": "images/a8d1eaf5b49c019ea3f355b8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/eb67e15ed470a505f9eb967a.jpg",
+      "archived": true,
+      "originalPath": "images/eb67e15ed470a505f9eb967a.jpg"
+    }
+  ],
+  "featuredImage": "images/3d686fd5c8a825bffc450c89.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cauliflower Hash Browns",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Cauliflower Hash Browns. Each serving comes out to be 293 calories, 27.5g fats, 3.3g net carbs, and 7.6g protein.",
+    "datePublished": "2020-05-12T09:25:26+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "16 ounce cauliflower",
+      "3 large egg",
+      "1/2 medium onion",
+      "1 teaspoon salt",
+      "black pepper (to taste)",
+      "8 tablespoon butter (to fry)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Grate the cauliflower and onion into small pieces using either a grater or a food processor.",
+        "name": "Grate the cauliflower and onion into small pieces using either a grater or a food processor.",
+        "url": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cauliflower and onion to a bowl, then add the eggs and seasoning. Mix together well and set aside for 5-10 minutes.",
+        "name": "Add the cauliflower and onion to a bowl, then add the eggs and seasoning. Mix together well and set aside for 5-10 minutes.",
+        "url": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt enough butter to thoroughly cover the bottom of the pan.",
+        "name": "Melt enough butter to thoroughly cover the bottom of the pan.",
+        "url": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add scoops of the cauliflower mixture into the butter and fry for 4-5 minutes on each side. Be careful not to flip before the sides are crispy as they can break apart. Add additional butter to the pan as needed to help fry the hash browns.",
+        "name": "Add scoops of the cauliflower mixture into the butter and fry for 4-5 minutes on each side. Be careful not to flip before the sides are crispy as they can break apart. Add additional butter to the pan as needed to help fry the hash browns.",
+        "url": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If cooking in batches, you can keep the finished cauliflower hash browns in foil to help keep them warm. Once finished, serve the hash browns with the butter from the pan.",
+        "name": "If cooking in batches, you can keep the finished cauliflower hash browns in foil to help keep them warm. Once finished, serve the hash browns with the butter from the pan.",
+        "url": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#wprm-recipe-53341-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, family-friendly, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "293 kcal",
+      "fatContent": "27.5 g",
+      "proteinContent": "7.6 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cauliflower-hash-browns-5-ingredient/"
+  },
+  "sourceIndex": {
+    "id": 43092,
+    "rid": 53341,
+    "t": "5-Ingredient Keto Cauliflower Hash Browns",
+    "u": "/keto-cauliflower-hash-browns-5-ingredient/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/05/cauliflower-hash-browns-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.3,
+    "cal": 293,
+    "pr": 7.6,
+    "fa": 27.5,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2020-05-12",
+    "cm": 2,
+    "ex": "These crunchy and crispy keto hash browns are a perfect accompaniment to just about any breakfast you can think of, and they're only 5 ingredients to boot! If you don't want to hide them as a side",
+    "pv": 221
+  },
+  "sourceHtml": "pages/keto-cauliflower-hash-browns-5-ingredient.html",
+  "scrapedAt": "2026-11-07T08:11:12.531Z"
+}

@@ -1,0 +1,343 @@
+{
+  "id": "ruled-47829",
+  "slug": "keto-salmon-rollups",
+  "title": "Keto Salmon Rollups",
+  "url": "https://www.ruled.me/keto-salmon-rollups/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Salmon Rollups. The serving comes out to be 429 calories, 33.9g fats, 4.2g net carbs, and 26.2g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "429 kcal",
+    "fatContent": "33.9 g",
+    "proteinContent": "26.2 g",
+    "carbohydrateContent": "4.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 429,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 26.2,
+    "fatGrams": 33.9
+  },
+  "ingredients": [
+    "4 ounce smoked salmon",
+    "3 ounce cream cheese (softened)",
+    "1 tablespoon fresh chives",
+    "1 teaspoon capers",
+    "2 teaspoon red onion (finely chopped)",
+    "1/2 teaspoon lemon zest"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-1.jpg"
+    },
+    {
+      "text": "Put the cream cheese into a bowl and stir with a fork to be sure it is smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-2.jpg"
+    },
+    {
+      "text": "Chop the fresh chives and capers. Mix in the chopped chives, capers, and sliced red onion together with the cream cheese. Stir to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-3.jpg"
+    },
+    {
+      "text": "Dollop some of the cream cheese onto the salmon pieces and smooth out. Carefully, roll the salmon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-4.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/0ed9061955d14dfa6ab2eee3.avif",
+      "archived": true,
+      "originalPath": "images/0ed9061955d14dfa6ab2eee3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/d3b7c8af8baba6cc3b5c2032.avif",
+      "archived": true,
+      "originalPath": "images/d3b7c8af8baba6cc3b5c2032.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-1.jpg",
+      "path": "../../nenaudojama/snacks/images/0c645cdbb2a8019b7e2a2fad.jpg",
+      "archived": true,
+      "originalPath": "images/0c645cdbb2a8019b7e2a2fad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-2.jpg",
+      "path": "../../nenaudojama/snacks/images/c8273533be388e89eaa72b7c.jpg",
+      "archived": true,
+      "originalPath": "images/c8273533be388e89eaa72b7c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-3.jpg",
+      "path": "../../nenaudojama/snacks/images/152e4b2f1aec975cf9117f02.jpg",
+      "archived": true,
+      "originalPath": "images/152e4b2f1aec975cf9117f02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-4.jpg",
+      "path": "../../nenaudojama/snacks/images/7cdf088925cf41ba6c24da6f.avif",
+      "archived": true,
+      "originalPath": "images/7cdf088925cf41ba6c24da6f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/4ee96a10a0e65d022e8add1e.avif",
+      "archived": true,
+      "originalPath": "images/4ee96a10a0e65d022e8add1e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/734f885a1dce3d811301ff78.avif",
+      "archived": true,
+      "originalPath": "images/734f885a1dce3d811301ff78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/eca584bab98373a488f3c4bf.avif",
+      "archived": true,
+      "originalPath": "images/eca584bab98373a488f3c4bf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/bf1e5aa59a12e6d66e554e1d.avif",
+      "archived": true,
+      "originalPath": "images/bf1e5aa59a12e6d66e554e1d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/e86b64acaea3d29e39073955.avif",
+      "archived": true,
+      "originalPath": "images/e86b64acaea3d29e39073955.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4227378206089c33fb3b0c41.jpg",
+      "archived": true,
+      "originalPath": "images/4227378206089c33fb3b0c41.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/a4a5ac0c21958d69d956cdf3.avif",
+      "archived": true,
+      "originalPath": "images/a4a5ac0c21958d69d956cdf3.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/d3b7c8af8baba6cc3b5c2032.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Salmon Rollups",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Keto Salmon Rollups. The serving comes out to be 429 calories, 33.9g fats, 4.2g net carbs, and 26.2g protein.",
+    "datePublished": "2022-11-08T10:00:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Featured.jpg"
+    ],
+    "video": {
+      "name": "Easy Keto Salmon Rollups [Fast Low Carb Lunch]",
+      "description": "These keto salmon rollups give you all the flavor of a traditional salmon bagel without the carbs! If you’ve been looking for a way to enjoy the flavors of a salmon bagel in a keto-friendly way, these keto salmon rollups are worth trying out. They make a great snack or serve them up as a canape when you have friends over.\n\nMaking these rollups is easy. All you need to do is make the filling containing cream cheese, red onion, capers, fresh chives, and lemon zest and mix it together. Once the mix is ready, layout thin strips of salmon (lox) onto your bench, place a spoonful of mixture onto each piece of salmon, and then roll them up. For extra zest, sprinkle on some fresh lemon juice before serving.\n\nThese salmon rollups are not only tasty but they’re also packed full of goodness. The salmon provides you with healthy omega-3 fatty acids, and the cream cheese gives you protein and important amino acids.\n\nWhile we think this recipe is great as it is, if you want to make it more of a meal than a snack, you can easily add some scrambled egg or spinach to the rollups. Either way, they’ll taste great and are sure to become one of your new go-to keto-friendly recipes.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n4 ounce smoked salmon\n3 ounce cream cheese, softened\n1 tablespoon fresh chives\n1 teaspoon capers\n2 teaspoon red onion, finely chopped\n1/2 teaspoon lemon zest\n\nNutrition Summary: This makes a total of 1 serving of Keto Salmon Rollups. Each serving comes out to be 429 calories, 34g fat, 4.2g net carbs, and 26.2g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-01-19T16:00:12+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 7427
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 414
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 12
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TH8Gos0W5_g/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/TH8Gos0W5_g?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=TH8Gos0W5_g",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "4 ounce smoked salmon",
+      "3 ounce cream cheese (softened)",
+      "1 tablespoon fresh chives",
+      "1 teaspoon capers",
+      "2 teaspoon red onion (finely chopped)",
+      "1/2 teaspoon lemon zest"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the cream cheese into a bowl and stir with a fork to be sure it is smooth.",
+        "name": "Put the cream cheese into a bowl and stir with a fork to be sure it is smooth.",
+        "url": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the fresh chives and capers. Mix in the chopped chives, capers, and sliced red onion together with the cream cheese. Stir to combine well.",
+        "name": "Chop the fresh chives and capers. Mix in the chopped chives, capers, and sliced red onion together with the cream cheese. Stir to combine well.",
+        "url": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dollop some of the cream cheese onto the salmon pieces and smooth out. Carefully, roll the salmon.",
+        "name": "Dollop some of the cream cheese onto the salmon pieces and smooth out. Carefully, roll the salmon.",
+        "url": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-salmon-rollups/#wprm-recipe-54383-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, party-food, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "429 kcal",
+      "fatContent": "33.9 g",
+      "proteinContent": "26.2 g",
+      "carbohydrateContent": "4.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-salmon-rollups/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-salmon-rollups/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-salmon-rollups/"
+  },
+  "sourceIndex": {
+    "id": 47829,
+    "rid": 54383,
+    "t": "Keto Salmon Rollups",
+    "u": "/keto-salmon-rollups/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Salmon-Rollups-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 4.2,
+    "cal": 429,
+    "pr": 26.2,
+    "fa": 33.9,
+    "tm": 10,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2022-11-08",
+    "cm": 0,
+    "ex": "These keto salmon rollups give you all the flavor of a traditional salmon bagel without the carbs! If you’ve been looking for a way to enjoy the flavors of a salmon bagel in a keto-friendly way",
+    "pv": 242
+  },
+  "sourceHtml": "pages/keto-salmon-rollups.html",
+  "scrapedAt": "2026-11-07T08:30:45.074Z"
+}

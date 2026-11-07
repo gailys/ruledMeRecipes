@@ -1,0 +1,269 @@
+{
+  "id": "ruled-43264",
+  "slug": "keto-iced-coffee",
+  "title": "Keto Iced Coffee",
+  "url": "https://www.ruled.me/keto-iced-coffee/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Iced Coffee. The serving comes out to be 160 calories, 16.1g fats, 1.5g net carbs, and 1.5g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "fatContent": "16.1 g",
+    "proteinContent": "1.5 g",
+    "carbohydrateContent": "1.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 160,
+    "netCarbsGrams": 1.5,
+    "proteinGrams": 1.5,
+    "fatGrams": 16.1
+  },
+  "ingredients": [
+    "1 cup brewed coffee",
+    "ice cubes (to preference)",
+    "3 tablespoon heavy cream",
+    "5 drop liquid stevia",
+    "1/2 teaspoon vanilla extract (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Brew the coffee to your preferences and how you normally make it. Allow the coffee to cool down to at least room temperature.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-2.jpg"
+    },
+    {
+      "text": "If you want it quicker, you can add ice cubes but if the coffee was hot, it will dilute the coffee. You can alternatively chill the coffee in the fridge or freezer and not use ice cubes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-4.jpg"
+    },
+    {
+      "text": "Add heavy cream, liquid stevia, and (optionally) vanilla extract.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-6.jpg"
+    },
+    {
+      "text": "Mix together and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/903929775dd5e0ea0a3f2cb6.jpg",
+      "archived": true,
+      "originalPath": "images/903929775dd5e0ea0a3f2cb6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Featured.jpg",
+      "path": "images/d0fa6fa5031f7bd4046fa730.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/4e530817665d67968f1d3bc1.avif",
+      "archived": true,
+      "originalPath": "images/4e530817665d67968f1d3bc1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/ecc9fc08bea700e3c3e14d3a.jpg",
+      "archived": true,
+      "originalPath": "images/ecc9fc08bea700e3c3e14d3a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/a27229e14c56fc540b040c31.avif",
+      "archived": true,
+      "originalPath": "images/a27229e14c56fc540b040c31.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/9c3b7bcf8b8920896337fa97.jpg",
+      "archived": true,
+      "originalPath": "images/9c3b7bcf8b8920896337fa97.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/375cd5296c7e700270ba409a.avif",
+      "archived": true,
+      "originalPath": "images/375cd5296c7e700270ba409a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/e64d080b2280372679b9d56d.avif",
+      "archived": true,
+      "originalPath": "images/e64d080b2280372679b9d56d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9d1a33e56214219043c2ffdd.jpg",
+      "archived": true,
+      "originalPath": "images/9d1a33e56214219043c2ffdd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8f6a0e95796132643df7c8ee.avif",
+      "archived": true,
+      "originalPath": "images/8f6a0e95796132643df7c8ee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9286f3ab360e2cc3fc76c3f8.avif",
+      "archived": true,
+      "originalPath": "images/9286f3ab360e2cc3fc76c3f8.avif"
+    }
+  ],
+  "featuredImage": "images/d0fa6fa5031f7bd4046fa730.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Iced Coffee",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Iced Coffee. The serving comes out to be 160 calories, 16.1g fats, 1.5g net carbs, and 1.5g protein.",
+    "datePublished": "2020-06-08T09:23:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 cup brewed coffee",
+      "ice cubes (to preference)",
+      "3 tablespoon heavy cream",
+      "5 drop liquid stevia",
+      "1/2 teaspoon vanilla extract (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Brew the coffee to your preferences and how you normally make it. Allow the coffee to cool down to at least room temperature.",
+        "name": "Brew the coffee to your preferences and how you normally make it. Allow the coffee to cool down to at least room temperature.",
+        "url": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If you want it quicker, you can add ice cubes but if the coffee was hot, it will dilute the coffee. You can alternatively chill the coffee in the fridge or freezer and not use ice cubes.",
+        "name": "If you want it quicker, you can add ice cubes but if the coffee was hot, it will dilute the coffee. You can alternatively chill the coffee in the fridge or freezer and not use ice cubes.",
+        "url": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add heavy cream, liquid stevia, and (optionally) vanilla extract.",
+        "name": "Add heavy cream, liquid stevia, and (optionally) vanilla extract.",
+        "url": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-ice-coffee-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together and enjoy!",
+        "name": "Mix together and enjoy!",
+        "url": "https://www.ruled.me/keto-iced-coffee/#wprm-recipe-53381-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Side Items"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "160 kcal",
+      "fatContent": "16.1 g",
+      "proteinContent": "1.5 g",
+      "carbohydrateContent": "1.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-iced-coffee/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-iced-coffee/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-iced-coffee/"
+  },
+  "sourceIndex": {
+    "id": 43264,
+    "rid": 53381,
+    "t": "Keto Iced Coffee",
+    "u": "/keto-iced-coffee/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Iced-Coffee-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.5,
+    "cal": 160,
+    "pr": 1.5,
+    "fa": 16.1,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients"
+    ],
+    "d": "2020-06-08",
+    "cm": 0,
+    "ex": "Coffee is the ultimate keto companion. Not only does it boost energy levels, but it promotes ketosis as well. You can even turn your hot morning cup into a cold refreshing beverage with one simple",
+    "pv": 203
+  },
+  "sourceHtml": "pages/keto-iced-coffee.html",
+  "scrapedAt": "2026-11-07T08:11:12.523Z"
+}

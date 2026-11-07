@@ -1,0 +1,330 @@
+{
+  "id": "ruled-29173",
+  "slug": "cheesy-cauliflower-onion-dip",
+  "title": "Cheesy Cauliflower Onion Dip",
+  "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Cheesy Cauliflower Onion Dip. Each serving comes out to be 48 calories, 4.3g fats, 1.1g net carbs, and 1g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT150M",
+  "totalTime": "PT165M",
+  "totalMinutes": 165,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "48 kcal",
+    "fatContent": "4.3 g",
+    "proteinContent": "1 g",
+    "carbohydrateContent": "1.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 48,
+    "netCarbsGrams": 1.1,
+    "proteinGrams": 1,
+    "fatGrams": 4.3
+  },
+  "ingredients": [
+    "16 ounce cauliflower",
+    "1/2 cup onion (diced)",
+    "1 1/2 cup chicken broth",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon chili powder",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon black pepper",
+    "1/2 teaspoon salt",
+    "3/4 cup cream cheese",
+    "1/4 cup mayonnaise"
+  ],
+  "instructions": [
+    {
+      "text": "Simmer the cauliflower and diced onion in chicken broth until soft and tender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-1.jpg"
+    },
+    {
+      "text": "Stir in the cumin, chili powder, garlic powder, pepper, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-2.jpg"
+    },
+    {
+      "text": "Cut the cream cheese into chunks, whisking them into the cauliflower until melted and no longer chunky.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-3.jpg"
+    },
+    {
+      "text": "Use an immersion or regular blender to blend the liquid until completely smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-4.jpg"
+    },
+    {
+      "text": "Carefully whisk in the mayonnaise.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-5.jpg"
+    },
+    {
+      "text": "Chill in the fridge for 2–3 hours before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-Final-620x900.jpg"
+    }
+  ],
+  "keywords": [
+    "freezer-friendly",
+    "game-day",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "party-food",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Onioin-Cauliflower-Dip-Final-900x600-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/0fb259e79c0311c7b4bdd322.jpg",
+      "archived": true,
+      "originalPath": "images/0fb259e79c0311c7b4bdd322.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Onioin-Cauliflower-Dip-Final-900x600.jpg",
+      "path": "../../nenaudojama/snacks/images/39c49fcc34c361b9cacd95e9.jpg",
+      "archived": true,
+      "originalPath": "images/39c49fcc34c361b9cacd95e9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-1.jpg",
+      "path": "../../nenaudojama/snacks/images/e49b47c81c6d033d330e7cf7.jpg",
+      "archived": true,
+      "originalPath": "images/e49b47c81c6d033d330e7cf7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-2.jpg",
+      "path": "../../nenaudojama/snacks/images/093ca45479ea148ca2919fc1.jpg",
+      "archived": true,
+      "originalPath": "images/093ca45479ea148ca2919fc1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-3.jpg",
+      "path": "../../nenaudojama/snacks/images/df5770221f0e2477db26f18f.avif",
+      "archived": true,
+      "originalPath": "images/df5770221f0e2477db26f18f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-4.jpg",
+      "path": "../../nenaudojama/snacks/images/ff1b348f293980419fa431d9.jpg",
+      "archived": true,
+      "originalPath": "images/ff1b348f293980419fa431d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-5.jpg",
+      "path": "../../nenaudojama/snacks/images/22e9fd1aa54df1671017bc9d.jpg",
+      "archived": true,
+      "originalPath": "images/22e9fd1aa54df1671017bc9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-Final-620x900.jpg",
+      "path": "../../nenaudojama/snacks/images/ee8b8aa07303a74a1b6a6c0a.jpg",
+      "archived": true,
+      "originalPath": "images/ee8b8aa07303a74a1b6a6c0a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-Final-900x450.jpg",
+      "path": "../../nenaudojama/snacks/images/f3b29a528ca5292a5df2d0d9.jpg",
+      "archived": true,
+      "originalPath": "images/f3b29a528ca5292a5df2d0d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/6b32a52f377e6ea78ea009db.jpg",
+      "archived": true,
+      "originalPath": "images/6b32a52f377e6ea78ea009db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/cfc7776568452b45ea51f376.jpg",
+      "archived": true,
+      "originalPath": "images/cfc7776568452b45ea51f376.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/570c0b71ea74b2e1779c40e6.jpg",
+      "archived": true,
+      "originalPath": "images/570c0b71ea74b2e1779c40e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/c339e60a21e9a050b56c7e28.jpg",
+      "archived": true,
+      "originalPath": "images/c339e60a21e9a050b56c7e28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-5-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/fcc822cbdc48b49dba420048.jpg",
+      "archived": true,
+      "originalPath": "images/fcc822cbdc48b49dba420048.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-Final-620x900-241x350.jpg",
+      "path": "../../nenaudojama/snacks/images/d546d9e0932783f5db5963ab.jpg",
+      "archived": true,
+      "originalPath": "images/d546d9e0932783f5db5963ab.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/39c49fcc34c361b9cacd95e9.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheesy Cauliflower Onion Dip",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 24 servings of Cheesy Cauliflower Onion Dip. Each serving comes out to be 48 calories, 4.3g fats, 1.1g net carbs, and 1g protein.",
+    "datePublished": "2017-01-31T12:00:28+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Onioin-Cauliflower-Dip-Final-900x600.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT150M",
+    "totalTime": "PT165M",
+    "recipeIngredient": [
+      "16 ounce cauliflower",
+      "1/2 cup onion (diced)",
+      "1 1/2 cup chicken broth",
+      "1/2 teaspoon cumin",
+      "1/2 teaspoon chili powder",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon salt",
+      "3/4 cup cream cheese",
+      "1/4 cup mayonnaise"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Simmer the cauliflower and diced onion in chicken broth until soft and tender.",
+        "name": "Simmer the cauliflower and diced onion in chicken broth until soft and tender.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the cumin, chili powder, garlic powder, pepper, and salt.",
+        "name": "Stir in the cumin, chili powder, garlic powder, pepper, and salt.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the cream cheese into chunks, whisking them into the cauliflower until melted and no longer chunky.",
+        "name": "Cut the cream cheese into chunks, whisking them into the cauliflower until melted and no longer chunky.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion or regular blender to blend the liquid until completely smooth.",
+        "name": "Use an immersion or regular blender to blend the liquid until completely smooth.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully whisk in the mayonnaise.",
+        "name": "Carefully whisk in the mayonnaise.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill in the fridge for 2–3 hours before serving.",
+        "name": "Chill in the fridge for 2–3 hours before serving.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#wprm-recipe-52063-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Cauliflower-Onion-Dip-Final-620x900.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "freezer-friendly, game-day, gluten-free, keto, low-carb, make-ahead, nut-free, party-food, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "48 kcal",
+      "fatContent": "4.3 g",
+      "proteinContent": "1 g",
+      "carbohydrateContent": "1.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheesy-cauliflower-onion-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheesy-cauliflower-onion-dip/"
+  },
+  "sourceIndex": {
+    "id": 29173,
+    "rid": 52063,
+    "t": "Cheesy Cauliflower Onion Dip",
+    "u": "/cheesy-cauliflower-onion-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/01/Cheesy-Onioin-Cauliflower-Dip-Final-900x600-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 1.1,
+    "cal": 48,
+    "pr": 1,
+    "fa": 4.3,
+    "tm": 165,
+    "sv": 24,
+    "kw": [
+      "freezer-friendly",
+      "game-day",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "party-food",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2017-01-31",
+    "cm": 0,
+    "ex": "It’s football season in my house, which means there’s a lot more snacking going on. Since not all my friends or family watch their carb or sugar intake, I try to create snacks that everyone can",
+    "pv": 57
+  },
+  "sourceHtml": "pages/cheesy-cauliflower-onion-dip.html",
+  "scrapedAt": "2026-11-07T08:31:19.554Z"
+}

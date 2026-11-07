@@ -1,0 +1,318 @@
+{
+  "id": "ruled-30236",
+  "slug": "salmon-patties-fresh-herbs",
+  "title": "Salmon Patties with Fresh Herbs",
+  "url": "https://www.ruled.me/salmon-patties-fresh-herbs/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Salmon Patties with Fresh Herbs. Each serving comes out to be 401 calories, 26.6g fats, 1.4g net carbs, and 35.6g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "401 kcal",
+    "fatContent": "26.6 g",
+    "proteinContent": "35.6 g",
+    "carbohydrateContent": "1.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 401,
+    "netCarbsGrams": 1.4,
+    "proteinGrams": 35.6,
+    "fatGrams": 26.6
+  },
+  "ingredients": [
+    "14 3/4 ounce canned pink salmon",
+    "2 tablespoon fresh chives (chopped)",
+    "1/4 cup fresh dill (chopped)",
+    "1/4 cup parmesan cheese (grated)",
+    "4 ounce pork rinds (crushed)",
+    "2 large egg",
+    "1 teaspoon lemon zest",
+    "salt and pepper (to taste)",
+    "1/2 cup almond flour",
+    "2 tablespoon olive oil"
+  ],
+  "instructions": [
+    {
+      "text": "Open and drain the cans of pink salmon and add the fish to a large mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0871.jpg"
+    },
+    {
+      "text": "Add the chives, dill, parmesan, crushed pork rinds, eggs, lemon zest, salt, and pepper. Mix thoroughly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0876.jpg"
+    },
+    {
+      "text": "Form the salmon into 3-oz. balls.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0886.jpg"
+    },
+    {
+      "text": "Spread the almond flour out on a plate. Carefully flatten each salmon patty and gently coat it in the almond flour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0887.jpg"
+    },
+    {
+      "text": "Heat up the olive oil in a skillet over medium-high heat. Fry the patties for a few minutes on each side, until golden and cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0895.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0953-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/d3ae368a27ecbf906f510608.avif",
+      "archived": true,
+      "originalPath": "images/d3ae368a27ecbf906f510608.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0953.jpg",
+      "path": "images/343ce2fb3987396557a4800d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0871.jpg",
+      "path": "../../nenaudojama/lunch/images/dd0601ddf475c24c9088fdd3.avif",
+      "archived": true,
+      "originalPath": "images/dd0601ddf475c24c9088fdd3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0876.jpg",
+      "path": "../../nenaudojama/lunch/images/3fb6df1cd5327c51b1b26aad.avif",
+      "archived": true,
+      "originalPath": "images/3fb6df1cd5327c51b1b26aad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0886.jpg",
+      "path": "../../nenaudojama/lunch/images/a11c55ac6395f41de977d90c.avif",
+      "archived": true,
+      "originalPath": "images/a11c55ac6395f41de977d90c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0887.jpg",
+      "path": "../../nenaudojama/lunch/images/de8db5f2470aeeacb8dc251c.avif",
+      "archived": true,
+      "originalPath": "images/de8db5f2470aeeacb8dc251c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0895.jpg",
+      "path": "../../nenaudojama/lunch/images/24b0226228519ebebbedbdef.avif",
+      "archived": true,
+      "originalPath": "images/24b0226228519ebebbedbdef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0951.jpg",
+      "path": "../../nenaudojama/lunch/images/85dc4f12cbe0b03287ff2a11.avif",
+      "archived": true,
+      "originalPath": "images/85dc4f12cbe0b03287ff2a11.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/PIN.jpg",
+      "path": "../../nenaudojama/lunch/images/1ce913f097e139b319773374.jpg",
+      "archived": true,
+      "originalPath": "images/1ce913f097e139b319773374.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0871-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3d3368b5f8b7c3b5b2fdb740.avif",
+      "archived": true,
+      "originalPath": "images/3d3368b5f8b7c3b5b2fdb740.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0876-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7d656dd587db541cd1d420cc.avif",
+      "archived": true,
+      "originalPath": "images/7d656dd587db541cd1d420cc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0886-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/93913bc1b466376096657af8.avif",
+      "archived": true,
+      "originalPath": "images/93913bc1b466376096657af8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0887-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2e752701df88098a511e6930.avif",
+      "archived": true,
+      "originalPath": "images/2e752701df88098a511e6930.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0895-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e93d7342d838ade188d7ab28.avif",
+      "archived": true,
+      "originalPath": "images/e93d7342d838ade188d7ab28.avif"
+    }
+  ],
+  "featuredImage": "images/343ce2fb3987396557a4800d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Salmon Patties with Fresh Herbs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Salmon Patties with Fresh Herbs. Each serving comes out to be 401 calories, 26.6g fats, 1.4g net carbs, and 35.6g protein.",
+    "datePublished": "2017-04-13T11:00:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0953.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "14 3/4 ounce canned pink salmon",
+      "2 tablespoon fresh chives (chopped)",
+      "1/4 cup fresh dill (chopped)",
+      "1/4 cup parmesan cheese (grated)",
+      "4 ounce pork rinds (crushed)",
+      "2 large egg",
+      "1 teaspoon lemon zest",
+      "salt and pepper (to taste)",
+      "1/2 cup almond flour",
+      "2 tablespoon olive oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Open and drain the cans of pink salmon and add the fish to a large mixing bowl.",
+        "name": "Open and drain the cans of pink salmon and add the fish to a large mixing bowl.",
+        "url": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0871.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chives, dill, parmesan, crushed pork rinds, eggs, lemon zest, salt, and pepper. Mix thoroughly.",
+        "name": "Add the chives, dill, parmesan, crushed pork rinds, eggs, lemon zest, salt, and pepper. Mix thoroughly.",
+        "url": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0876.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the salmon into 3-oz. balls.",
+        "name": "Form the salmon into 3-oz. balls.",
+        "url": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0886.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the almond flour out on a plate. Carefully flatten each salmon patty and gently coat it in the almond flour.",
+        "name": "Spread the almond flour out on a plate. Carefully flatten each salmon patty and gently coat it in the almond flour.",
+        "url": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0887.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the olive oil in a skillet over medium-high heat. Fry the patties for a few minutes on each side, until golden and cooked through.",
+        "name": "Heat up the olive oil in a skillet over medium-high heat. Fry the patties for a few minutes on each side, until golden and cooked through.",
+        "url": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0895.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/salmon-patties-fresh-herbs/#wprm-recipe-52147-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "keywords": "30-minute, beginner-friendly, fish, gluten-free, high-protein, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "401 kcal",
+      "fatContent": "26.6 g",
+      "proteinContent": "35.6 g",
+      "carbohydrateContent": "1.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/salmon-patties-fresh-herbs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/salmon-patties-fresh-herbs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/salmon-patties-fresh-herbs/"
+  },
+  "sourceIndex": {
+    "id": 30236,
+    "rid": 52147,
+    "t": "Salmon Patties with Fresh Herbs",
+    "u": "/salmon-patties-fresh-herbs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_0953-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 1.4,
+    "cal": 401,
+    "pr": 35.6,
+    "fa": 26.6,
+    "tm": 25,
+    "sv": 5,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "fish",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2017-04-13",
+    "cm": 22,
+    "ex": "Are you in the mood for something a little different? Cook up some of these salmon patties with fresh herbs. I think they are perfect for someone who's looking to add a little bit more seafood to",
+    "pv": 226
+  },
+  "sourceHtml": "pages/salmon-patties-fresh-herbs.html",
+  "scrapedAt": "2026-11-07T08:17:37.617Z"
+}

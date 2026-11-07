@@ -1,0 +1,362 @@
+{
+  "id": "ruled-50109",
+  "slug": "keto-strawberry-chia-parfait",
+  "title": "Keto Strawberry Chia Parfait",
+  "url": "https://www.ruled.me/keto-strawberry-chia-parfait/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Strawberry Chia Parfait. The serving comes out to be 330 calories, 24.1g fats, 7.4g net carbs, and 15.9g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "fatContent": "24.1 g",
+    "proteinContent": "15.9 g",
+    "carbohydrateContent": "7.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 330,
+    "netCarbsGrams": 7.4,
+    "proteinGrams": 15.9,
+    "fatGrams": 24.1
+  },
+  "ingredients": [
+    "1/2 cup full-fat plain greek yogurt",
+    "1 tablespoon chia seeds",
+    "1 tablespoon flaxseed meal",
+    "2 tablespoon walnuts",
+    "1 tablespoon unsweetened shredded coconut",
+    "1 ounce strawberries"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-1.jpg"
+    },
+    {
+      "text": "Slice strawberries to add into the parfait. A mixture of thin slices and chopped pieces works great.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-2.jpg"
+    },
+    {
+      "text": "In a container or glass, start laying your ingredients. Start with some chia seeds and flax seeds, then yogurt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-3.jpg"
+    },
+    {
+      "text": "Add in some of the strawberries, pushing the thin slices against the side of the glass or container you are using.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-4.jpg"
+    },
+    {
+      "text": "Continue layering as desired with more chia seeds, some walnut, and shredded coconut until you're out of yogurt. Top with the remaining walnut and shredded coconut.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-5.jpg"
+    },
+    {
+      "text": "Serve immediately or place in the refrigerator until ready to eat. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/27357d031baf44bbe59ea024.jpg",
+      "archived": true,
+      "originalPath": "images/27357d031baf44bbe59ea024.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Featured.jpg",
+      "path": "images/a5857108dc5972e24ec44351.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/26855688ff07f4fe4b684681.jpg",
+      "archived": true,
+      "originalPath": "images/26855688ff07f4fe4b684681.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/db854954bfb565e74eed8bc2.jpg",
+      "archived": true,
+      "originalPath": "images/db854954bfb565e74eed8bc2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/aae369a529af1729ac2db169.avif",
+      "archived": true,
+      "originalPath": "images/aae369a529af1729ac2db169.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/89adeb73b27ecb33bedcf2c0.avif",
+      "archived": true,
+      "originalPath": "images/89adeb73b27ecb33bedcf2c0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/bbca538314f42af96dad3531.avif",
+      "archived": true,
+      "originalPath": "images/bbca538314f42af96dad3531.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/55d8e5cf11a4760765b77992.jpg",
+      "archived": true,
+      "originalPath": "images/55d8e5cf11a4760765b77992.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/4e9575fe5372f3971b8cce3d.jpg",
+      "archived": true,
+      "originalPath": "images/4e9575fe5372f3971b8cce3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/6bf1d2f4c63d5ab738089af1.jpg",
+      "archived": true,
+      "originalPath": "images/6bf1d2f4c63d5ab738089af1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bfa06c2e62c827a154bab972.jpg",
+      "archived": true,
+      "originalPath": "images/bfa06c2e62c827a154bab972.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6b624d65f81ea10c3f9e748b.jpg",
+      "archived": true,
+      "originalPath": "images/6b624d65f81ea10c3f9e748b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ea934775a16bf9fbc6e59aae.jpg",
+      "archived": true,
+      "originalPath": "images/ea934775a16bf9fbc6e59aae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/40e739efd09e48d7d9cc2f66.jpg",
+      "archived": true,
+      "originalPath": "images/40e739efd09e48d7d9cc2f66.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b30112b0c5818e8ca60fde74.jpg",
+      "archived": true,
+      "originalPath": "images/b30112b0c5818e8ca60fde74.jpg"
+    }
+  ],
+  "featuredImage": "images/a5857108dc5972e24ec44351.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Strawberry Chia Parfait",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Strawberry Chia Parfait. The serving comes out to be 330 calories, 24.1g fats, 7.4g net carbs, and 15.9g protein.",
+    "datePublished": "2024-04-09T09:56:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Strawberry Chia Parfait [Easy Low-Carb Breakfast]",
+      "description": "This is a recipe that boasts both simplicity and sophistication. Made with just a handful of wholesome ingredients, including creamy Greek yogurt, nutrient-rich chia seeds, and fresh, vibrant strawberries, this parfait is a testament to the ease of low-carb living. Simply layer the ingredients in a glass or jar, refrigerate for a few hours or overnight, and wake up to a deliciously satisfying treat that’s perfect for busy mornings or leisurely brunches. With the added crunch of walnuts, the subtle sweetness of shredded coconut, and the healthful benefits of flax seeds, this parfait is as nourishing as it is delicious.\n\nYou can mix and match this parfait to meet both your macros and needs. Don’t like flaxseed? Swap them out for pumpkin or sunflower seeds. Don’t want walnuts? You can use almonds, pecans, or macadamia nuts. You can even add protein powder and some heavy cream to the yogurt (mix together before using) to add fat and protein as needed! Swap out the strawberries for raspberries, or if you have a sweet tooth you can sweeten the Greek yogurt before using it. Simply find what works best for you and what you enjoy the most. You can batch-make these and have them ready to go in containers to grab as needed, too.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1/2 cup greek yogurt\n1 tablespoon chia seeds\n1 tablespoon flax seeds\n2 tablespoon walnuts\n1 tablespoon unsweetened shredded coconut\n1 ounce strawberries\n\nNutrition Summary: This makes a total of 1 serving of Keto Strawberry Chia Parfait. The serving comes out to be 304 calories, 19.8g fats, 8.2g net carbs, and 18.3g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-06-29T15:00:40+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 8159
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 181
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 12
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fne-dYDsg00/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fne-dYDsg00?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=fne-dYDsg00",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1/2 cup full-fat plain greek yogurt",
+      "1 tablespoon chia seeds",
+      "1 tablespoon flaxseed meal",
+      "2 tablespoon walnuts",
+      "1 tablespoon unsweetened shredded coconut",
+      "1 ounce strawberries"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice strawberries to add into the parfait. A mixture of thin slices and chopped pieces works great.",
+        "name": "Slice strawberries to add into the parfait. A mixture of thin slices and chopped pieces works great.",
+        "url": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a container or glass, start laying your ingredients. Start with some chia seeds and flax seeds, then yogurt.",
+        "name": "In a container or glass, start laying your ingredients. Start with some chia seeds and flax seeds, then yogurt.",
+        "url": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in some of the strawberries, pushing the thin slices against the side of the glass or container you are using.",
+        "name": "Add in some of the strawberries, pushing the thin slices against the side of the glass or container you are using.",
+        "url": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue layering as desired with more chia seeds, some walnut, and shredded coconut until you're out of yogurt. Top with the remaining walnut and shredded coconut.",
+        "name": "Continue layering as desired with more chia seeds, some walnut, and shredded coconut until you're out of yogurt. Top with the remaining walnut and shredded coconut.",
+        "url": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately or place in the refrigerator until ready to eat. Enjoy!",
+        "name": "Serve immediately or place in the refrigerator until ready to eat. Enjoy!",
+        "url": "https://www.ruled.me/keto-strawberry-chia-parfait/#wprm-recipe-54985-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "330 kcal",
+      "fatContent": "24.1 g",
+      "proteinContent": "15.9 g",
+      "carbohydrateContent": "7.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-strawberry-chia-parfait/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-strawberry-chia-parfait/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-strawberry-chia-parfait/"
+  },
+  "sourceIndex": {
+    "id": 50109,
+    "rid": 54985,
+    "t": "Keto Strawberry Chia Parfait",
+    "u": "/keto-strawberry-chia-parfait/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Strawberry-Chia-Parfait-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.4,
+    "cal": 330,
+    "pr": 15.9,
+    "fa": 24.1,
+    "tm": 10,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2024-04-09",
+    "cm": 0,
+    "ex": "This is a recipe that boasts both simplicity and sophistication. Made with just a handful of wholesome ingredients, including creamy Greek yogurt, nutrient-rich chia seeds, and fresh, vibrant",
+    "pv": 146
+  },
+  "sourceHtml": "pages/keto-strawberry-chia-parfait.html",
+  "scrapedAt": "2026-11-07T08:11:11.851Z"
+}

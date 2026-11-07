@@ -1,0 +1,453 @@
+{
+  "id": "ruled-9555",
+  "slug": "salted-caramel-pork-rind-cereal",
+  "title": "Salted Caramel Pork Rind Cereal",
+  "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Salted Caramel Pork Rind Cereal. The serving comes out to be 515 calories, 47.9g fats, 1g net carbs, and 16.5g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT45M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "515 kcal",
+    "fatContent": "47.9 g",
+    "proteinContent": "16.5 g",
+    "carbohydrateContent": "1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 515,
+    "netCarbsGrams": 1,
+    "proteinGrams": 16.5,
+    "fatGrams": 47.9
+  },
+  "ingredients": [
+    "1 ounce pork rinds",
+    "2 tablespoon butter",
+    "2 tablespoon heavy whipping cream",
+    "1 tablespoon erythritol",
+    "1 cup unsweetened carton coconut milk (or other low-carb milk)",
+    "1/4 teaspoon ground cinnamon"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out the pork rinds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1528.jpg"
+    },
+    {
+      "text": "Break them up into smaller pieces to resemble cereal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1534.jpg"
+    },
+    {
+      "text": "Heat the butter in a pan over medium heat. In a ramekin, measure out the heavy cream and erythritol.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1535.jpg"
+    },
+    {
+      "text": "Continue to let the butter cook until browned; it should start to bubble a little bit. This will not only add a different flavor profile to the caramel, but it will also give it that characteristic color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1542.jpg"
+    },
+    {
+      "text": "Once browned, remove the pan from the heat and add in the heavy cream and erythritol... Keep stirring and return the pan to the heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1552.jpg"
+    },
+    {
+      "text": "Continue stirring until the mixture takes on a caramel-like consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1562.jpg"
+    },
+    {
+      "text": "Add in the pork rinds, thoroughly coating them in the caramel sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1566.jpg"
+    },
+    {
+      "text": "Transfer the caramel-coated pork rinds to a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1586.jpg"
+    },
+    {
+      "text": "Place in the fridge for 20–40 minutes to allow the caramel to harden.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1591.jpg"
+    },
+    {
+      "text": "Remove from the fridge once hardened.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1596.jpg"
+    },
+    {
+      "text": "Pour the coconut milk over the cereal. Sprinkle with cinnamon and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal2.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal1.jpg",
+      "path": "images/bbb7d8e4888b328d057650d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1528.jpg",
+      "path": "../../nenaudojama/breakfast/images/24210838dbed7497dc5ac0f3.avif",
+      "archived": true,
+      "originalPath": "images/24210838dbed7497dc5ac0f3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1534.jpg",
+      "path": "../../nenaudojama/breakfast/images/ea7881b399e8d242c18e015e.jpg",
+      "archived": true,
+      "originalPath": "images/ea7881b399e8d242c18e015e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1535.jpg",
+      "path": "../../nenaudojama/breakfast/images/be9c1273d0fa10dab2168004.avif",
+      "archived": true,
+      "originalPath": "images/be9c1273d0fa10dab2168004.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1542.jpg",
+      "path": "../../nenaudojama/breakfast/images/6a47f6aad83593c2005d2a29.avif",
+      "archived": true,
+      "originalPath": "images/6a47f6aad83593c2005d2a29.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1552.jpg",
+      "path": "../../nenaudojama/breakfast/images/9d8bf48bdcaef821ad7de32a.avif",
+      "archived": true,
+      "originalPath": "images/9d8bf48bdcaef821ad7de32a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1562.jpg",
+      "path": "../../nenaudojama/breakfast/images/4134a14c1d0d4b5a70336cbe.avif",
+      "archived": true,
+      "originalPath": "images/4134a14c1d0d4b5a70336cbe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1566.jpg",
+      "path": "../../nenaudojama/breakfast/images/027acd333290bec6373fc7b6.jpg",
+      "archived": true,
+      "originalPath": "images/027acd333290bec6373fc7b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1586.jpg",
+      "path": "../../nenaudojama/breakfast/images/fbd064aaca2f3bf8a37ceff7.avif",
+      "archived": true,
+      "originalPath": "images/fbd064aaca2f3bf8a37ceff7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1591.jpg",
+      "path": "../../nenaudojama/breakfast/images/a132e2d4f65ddd49f09e98b1.jpg",
+      "archived": true,
+      "originalPath": "images/a132e2d4f65ddd49f09e98b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1596.jpg",
+      "path": "../../nenaudojama/breakfast/images/0593912b530f6aad85d247ae.jpg",
+      "archived": true,
+      "originalPath": "images/0593912b530f6aad85d247ae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal2.jpg",
+      "path": "../../nenaudojama/breakfast/images/5e475b7e1499cd8040c534be.avif",
+      "archived": true,
+      "originalPath": "images/5e475b7e1499cd8040c534be.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcerealsecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/c0237f47fe6249a030cc06d6.avif",
+      "archived": true,
+      "originalPath": "images/c0237f47fe6249a030cc06d6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1550.jpg",
+      "path": "../../nenaudojama/breakfast/images/fe591b2a36cabfc1b5c8331a.avif",
+      "archived": true,
+      "originalPath": "images/fe591b2a36cabfc1b5c8331a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1572.jpg",
+      "path": "../../nenaudojama/breakfast/images/3dab1a0fac0d1b3f0ee70dd5.avif",
+      "archived": true,
+      "originalPath": "images/3dab1a0fac0d1b3f0ee70dd5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1528-524x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8dbc9aa0dda6994dd856de98.jpg",
+      "archived": true,
+      "originalPath": "images/8dbc9aa0dda6994dd856de98.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1534-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/08ab969d3be2d22f4b7d8984.avif",
+      "archived": true,
+      "originalPath": "images/08ab969d3be2d22f4b7d8984.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1535-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5e32854f96cb6fc7996ee51b.jpg",
+      "archived": true,
+      "originalPath": "images/5e32854f96cb6fc7996ee51b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1542-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c18f0db6acb04a310e7909a8.avif",
+      "archived": true,
+      "originalPath": "images/c18f0db6acb04a310e7909a8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1552-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fc1af1f3d393d6489432b37f.jpg",
+      "archived": true,
+      "originalPath": "images/fc1af1f3d393d6489432b37f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1562-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff6691b6f3d707a196a16f76.avif",
+      "archived": true,
+      "originalPath": "images/ff6691b6f3d707a196a16f76.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1566-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6307a5c6d1f75df37e0da248.avif",
+      "archived": true,
+      "originalPath": "images/6307a5c6d1f75df37e0da248.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1586-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c513048e70811de8324edeae.avif",
+      "archived": true,
+      "originalPath": "images/c513048e70811de8324edeae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1591-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e4f2a917a6224da53cd1a5e.avif",
+      "archived": true,
+      "originalPath": "images/3e4f2a917a6224da53cd1a5e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1596-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6c065a01c9d4bf6df01787d8.avif",
+      "archived": true,
+      "originalPath": "images/6c065a01c9d4bf6df01787d8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/30513a874f68a95d9afadbcf.jpg",
+      "archived": true,
+      "originalPath": "images/30513a874f68a95d9afadbcf.jpg"
+    }
+  ],
+  "featuredImage": "images/bbb7d8e4888b328d057650d9.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Salted Caramel Pork Rind Cereal",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Salted Caramel Pork Rind Cereal. The serving comes out to be 515 calories, 47.9g fats, 1g net carbs, and 16.5g protein.",
+    "datePublished": "2014-02-21T15:32:43+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal1.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT45M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "1 ounce pork rinds",
+      "2 tablespoon butter",
+      "2 tablespoon heavy whipping cream",
+      "1 tablespoon erythritol",
+      "1 cup unsweetened carton coconut milk (or other low-carb milk)",
+      "1/4 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the pork rinds.",
+        "name": "Measure out the pork rinds.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1528.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Break them up into smaller pieces to resemble cereal.",
+        "name": "Break them up into smaller pieces to resemble cereal.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1534.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the butter in a pan over medium heat. In a ramekin, measure out the heavy cream and erythritol.",
+        "name": "Heat the butter in a pan over medium heat. In a ramekin, measure out the heavy cream and erythritol.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1535.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue to let the butter cook until browned; it should start to bubble a little bit. This will not only add a different flavor profile to the caramel, but it will also give it that characteristic color.",
+        "name": "Continue to let the butter cook until browned; it should start to bubble a little bit. This will not only add a different flavor profile to the caramel, but it will also give it that characteristic color.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1542.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once browned, remove the pan from the heat and add in the heavy cream and erythritol... Keep stirring and return the pan to the heat.",
+        "name": "Once browned, remove the pan from the heat and add in the heavy cream and erythritol... Keep stirring and return the pan to the heat.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1552.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue stirring until the mixture takes on a caramel-like consistency.",
+        "name": "Continue stirring until the mixture takes on a caramel-like consistency.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1562.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the pork rinds, thoroughly coating them in the caramel sauce.",
+        "name": "Add in the pork rinds, thoroughly coating them in the caramel sauce.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1566.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the caramel-coated pork rinds to a plate.",
+        "name": "Transfer the caramel-coated pork rinds to a plate.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1586.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the fridge for 20–40 minutes to allow the caramel to harden.",
+        "name": "Place in the fridge for 20–40 minutes to allow the caramel to harden.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1591.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the fridge once hardened.",
+        "name": "Remove from the fridge once hardened.",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1596.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the coconut milk over the cereal. Sprinkle with cinnamon and enjoy!",
+        "name": "Pour the coconut milk over the cereal. Sprinkle with cinnamon and enjoy!",
+        "url": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#wprm-recipe-50873-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal2.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, keto, low-carb, nut-free, pork, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "515 kcal",
+      "fatContent": "47.9 g",
+      "proteinContent": "16.5 g",
+      "carbohydrateContent": "1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/salted-caramel-pork-rind-cereal/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/salted-caramel-pork-rind-cereal/"
+  },
+  "sourceIndex": {
+    "id": 9555,
+    "rid": 50873,
+    "t": "Salted Caramel Pork Rind Cereal",
+    "u": "/salted-caramel-pork-rind-cereal/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/porkrindcereal1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1,
+    "cal": 515,
+    "pr": 16.5,
+    "fa": 47.9,
+    "tm": 50,
+    "sv": 1,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2014-02-21",
+    "cm": 88,
+    "ex": "Some of you out there might be shaking your head at the idea of pork rinds, cereal, and cinnamon going together - but take a leap of faith with me. When these initially came out of the fridge, the",
+    "pv": 496
+  },
+  "sourceHtml": "pages/salted-caramel-pork-rind-cereal.html",
+  "scrapedAt": "2026-11-07T08:11:13.190Z"
+}

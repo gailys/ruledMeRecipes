@@ -1,0 +1,370 @@
+{
+  "id": "ruled-26251",
+  "slug": "avocado-tuna-melt-bites",
+  "title": "Avocado Tuna Melt Bites",
+  "url": "https://www.ruled.me/avocado-tuna-melt-bites/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Avocado Tuna Melt Bites. Each serving comes out to be 195 calories, 17.6g fats, 0.8g net carbs, and 7.4g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "fatContent": "17.6 g",
+    "proteinContent": "7.4 g",
+    "carbohydrateContent": "0.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 195,
+    "netCarbsGrams": 0.8,
+    "proteinGrams": 7.4,
+    "fatGrams": 17.6
+  },
+  "ingredients": [
+    "10 ounce canned tuna (drained)",
+    "1/4 cup mayonnaise",
+    "1/4 cup parmesan cheese",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon onion powder",
+    "salt and pepper (to taste)",
+    "1 medium avocado (cubed)",
+    "1/3 cup almond flour",
+    "1/2 cup coconut oil"
+  ],
+  "instructions": [
+    {
+      "text": "Drain a can of tuna and add it to a large mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_5737.jpg"
+    },
+    {
+      "text": "Add the mayonnaise, parmesan, and spices and mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_5745.jpg"
+    },
+    {
+      "text": "Slice an avocado in half, remove the pit, and cube the insides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_5739.jpg"
+    },
+    {
+      "text": "Add the avocado to the tuna mixture and fold together gently, trying not to mash the avocado up too much.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_5747.jpg"
+    },
+    {
+      "text": "Form the tuna mixture into balls and roll them in the almond flour, covering them completely. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_5751.jpg"
+    },
+    {
+      "text": "Heat up the coconut oil in a pan over medium heat. Once hot, add the tuna balls and fry until crispy on all sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_5752.jpg"
+    },
+    {
+      "text": "Remove from the pan and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "fish",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "stovetop",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/avocadotunameltbites.jpg",
+      "path": "images/516acf024a4cd3353c9d4806.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5737.jpg",
+      "path": "../../nenaudojama/lunch/images/1c54cd120c1418a5de292c15.avif",
+      "archived": true,
+      "originalPath": "images/1c54cd120c1418a5de292c15.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5745.jpg",
+      "path": "../../nenaudojama/lunch/images/f3287b64fc689a88d4659ae4.jpg",
+      "archived": true,
+      "originalPath": "images/f3287b64fc689a88d4659ae4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5739.jpg",
+      "path": "../../nenaudojama/lunch/images/6dbbd7d8b32380d6ff9f6b68.avif",
+      "archived": true,
+      "originalPath": "images/6dbbd7d8b32380d6ff9f6b68.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5747.jpg",
+      "path": "../../nenaudojama/lunch/images/4175ecd6849d2897d9ca1437.avif",
+      "archived": true,
+      "originalPath": "images/4175ecd6849d2897d9ca1437.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5751.jpg",
+      "path": "../../nenaudojama/lunch/images/bc8f4e8f8bde281fd1bd7513.avif",
+      "archived": true,
+      "originalPath": "images/bc8f4e8f8bde281fd1bd7513.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5752.jpg",
+      "path": "../../nenaudojama/lunch/images/d78f5978e39dc738ead8f198.avif",
+      "archived": true,
+      "originalPath": "images/d78f5978e39dc738ead8f198.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/avocadotunameltbitessecond.jpg",
+      "path": "../../nenaudojama/lunch/images/6d8ed45031c9bc38d76abbd4.avif",
+      "archived": true,
+      "originalPath": "images/6d8ed45031c9bc38d76abbd4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/avocadotunameltbiteslong.jpg",
+      "path": "../../nenaudojama/lunch/images/7fe4ca6ba8bffdd577383bb8.avif",
+      "archived": true,
+      "originalPath": "images/7fe4ca6ba8bffdd577383bb8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5737-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3c4e655d019ce7530f2e73d6.jpg",
+      "archived": true,
+      "originalPath": "images/3c4e655d019ce7530f2e73d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5745-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/add395488b492b4551ffe1dc.jpg",
+      "archived": true,
+      "originalPath": "images/add395488b492b4551ffe1dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5739-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c4f2c92d717c79cf5d8bc38e.jpg",
+      "archived": true,
+      "originalPath": "images/c4f2c92d717c79cf5d8bc38e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5747-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c181c3f002f736f3e54c7c6f.jpg",
+      "archived": true,
+      "originalPath": "images/c181c3f002f736f3e54c7c6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5751-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d62bbc1ce2f2bd39b0308ac3.avif",
+      "archived": true,
+      "originalPath": "images/d62bbc1ce2f2bd39b0308ac3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_5752-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/377fce300b9d3debad20c1fa.jpg",
+      "archived": true,
+      "originalPath": "images/377fce300b9d3debad20c1fa.jpg"
+    }
+  ],
+  "featuredImage": "images/516acf024a4cd3353c9d4806.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Avocado Tuna Melt Bites",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Avocado Tuna Melt Bites. Each serving comes out to be 195 calories, 17.6g fats, 0.8g net carbs, and 7.4g protein.",
+    "datePublished": "2015-07-02T16:20:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/avocadotunameltbites.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Avocado Tuna Melt Bites",
+      "description": "I’ve been on a mission lately to use up different ingredients found around most common households. There have been quite a few e-mails sent to me lately about tuna melts. I never really had too many of these pre-keto, but I’ve had my fair share of grilled cheese and knew exactly what to do to get something portable, easy to make, and perfect for any time of the day.\n\nThese keto tuna melt bites really fit the bill. The crispy outside matches great with the soft, creamy filling on the inside. It really is as if you made a fried tuna melt and put it on a plate. The flavors come together very nicely. It’s not overly fishy, and the spices can be interchanged for whatever flavor profile you’re going after.\n\nI’d suggest a serving size of 3-4 tuna melt bites for a meal. Pair it with a small salad and it’s quite a filling way to reach your macros easily. They absorb quite a lot of the frying oil, which is fantastic for adding to your fat macros. You can opt to use cheddar cheese instead of Parmesan cheese in these, but the frying process will be a tad messier. The cheddar cheese tends to ooze a little bit more, so I chose to go with Parmesan – which helps hold everything together.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n10 ounces canned tuna, drained\n¼ cup mayonnaise\n1 medium avocado, cubed\n¼ cup Parmesan cheese\n1/3 cup almond flour\n½ tsp. garlic powder\n¼ tsp. onion powder\nSalt and pepper to taste\n½ cup coconut oil\n\nNutrition Summary: This makes a total of 12 Avocado Tuna Melt Bites. Per bite, each comes out to be 185.2 Calories, 17.76g Fats, 1.02g Net Carbs, and 5.03g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-04-22T14:00:08+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M31S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 14587
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 575
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 26
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SjyYdYKh-Kc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/SjyYdYKh-Kc?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=SjyYdYKh-Kc",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "10 ounce canned tuna (drained)",
+      "1/4 cup mayonnaise",
+      "1/4 cup parmesan cheese",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon onion powder",
+      "salt and pepper (to taste)",
+      "1 medium avocado (cubed)",
+      "1/3 cup almond flour",
+      "1/2 cup coconut oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Drain a can of tuna and add it to a large mixing bowl.",
+        "name": "Drain a can of tuna and add it to a large mixing bowl.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_5737.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mayonnaise, parmesan, and spices and mix together well.",
+        "name": "Add the mayonnaise, parmesan, and spices and mix together well.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_5745.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice an avocado in half, remove the pit, and cube the insides.",
+        "name": "Slice an avocado in half, remove the pit, and cube the insides.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_5739.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the avocado to the tuna mixture and fold together gently, trying not to mash the avocado up too much.",
+        "name": "Add the avocado to the tuna mixture and fold together gently, trying not to mash the avocado up too much.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_5747.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the tuna mixture into balls and roll them in the almond flour, covering them completely. Set aside.",
+        "name": "Form the tuna mixture into balls and roll them in the almond flour, covering them completely. Set aside.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_5751.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the coconut oil in a pan over medium heat. Once hot, add the tuna balls and fry until crispy on all sides.",
+        "name": "Heat up the coconut oil in a pan over medium heat. Once hot, add the tuna balls and fry until crispy on all sides.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_5752.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the pan and serve.",
+        "name": "Remove from the pan and serve.",
+        "url": "https://www.ruled.me/avocado-tuna-melt-bites/#wprm-recipe-51741-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, fish, gluten-free, keto, low-carb, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "195 kcal",
+      "fatContent": "17.6 g",
+      "proteinContent": "7.4 g",
+      "carbohydrateContent": "0.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/avocado-tuna-melt-bites/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/avocado-tuna-melt-bites/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/avocado-tuna-melt-bites/"
+  },
+  "sourceIndex": {
+    "id": 26251,
+    "rid": 51741,
+    "t": "Avocado Tuna Melt Bites",
+    "u": "/avocado-tuna-melt-bites/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/avocadotunameltbites.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 0.8,
+    "cal": 195,
+    "pr": 7.4,
+    "fa": 17.6,
+    "tm": 20,
+    "sv": 12,
+    "kw": [
+      "30-minute",
+      "fish",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "stovetop",
+      "seafood"
+    ],
+    "d": "2015-07-02",
+    "cm": 58,
+    "ex": "I've been on a mission lately to use up different ingredients found around most common households. There's been quite a few e-mails sent to me lately about tuna melts. I never really had too many of",
+    "pv": 920
+  },
+  "sourceHtml": "pages/avocado-tuna-melt-bites.html",
+  "scrapedAt": "2026-11-07T08:17:47.073Z"
+}

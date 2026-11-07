@@ -1,0 +1,317 @@
+{
+  "id": "ruled-38725",
+  "slug": "avocado-coconut-ice-cream",
+  "title": "Avocado Coconut Ice Cream",
+  "url": "https://www.ruled.me/avocado-coconut-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Avocado Coconut Ice Cream. Each serving comes out to be 256 calories, 24g fats, 7.1g net carbs, and 2.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT70M",
+  "cookTime": "PT120M",
+  "totalTime": "PT190M",
+  "totalMinutes": 190,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "fatContent": "24 g",
+    "proteinContent": "2.6 g",
+    "carbohydrateContent": "7.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 256,
+    "netCarbsGrams": 7.1,
+    "proteinGrams": 2.6,
+    "fatGrams": 24
+  },
+  "ingredients": [
+    "1 medium avocado",
+    "13 1/2 ounce canned coconut milk",
+    "1/2 cup heavy whipping cream",
+    "3/4 cup allulose",
+    "1 medium lime",
+    "1 cup unsweetened toasted coconut flakes"
+  ],
+  "instructions": [
+    {
+      "text": "Cut avocado lengthwise and remove the pit. Scoop avocado into a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-01.jpg"
+    },
+    {
+      "text": "To the avocado add coconut milk, heavy cream, and sweetener, then blend until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-02.jpg"
+    },
+    {
+      "text": "Juice and zest the lime. Add both to the blender. Blend ingredients again for one minute. Refrigerate blended ingredients for at least one hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-03.jpg"
+    },
+    {
+      "text": "Preheat pan over medium heat. Add coconut flakes and toast until lightly brown around the edges, being careful not to burn. Remove pan from heat and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-04.jpg"
+    },
+    {
+      "text": "Transfer the avocado ice cream mix to the ice cream machine and churn according to manufacturer’s directions. Alternately, if no machine is available, freeze in a container with a lid or in an ice cube tray for mini portions. (Once cubes are frozen, transfer to a ziplock bag)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-05.jpg"
+    },
+    {
+      "text": "Once the ice cream is ready, sprinkle with toasted coconut flakes to taste and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/d8a5fd8c21e2495407a3908b.jpg",
+      "archived": true,
+      "originalPath": "images/d8a5fd8c21e2495407a3908b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-featured.jpg",
+      "path": "images/37f0ab32c3842ea8b77d7da0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-01.jpg",
+      "path": "../../nenaudojama/dessert/images/5c86516c335702737eb0ab35.jpg",
+      "archived": true,
+      "originalPath": "images/5c86516c335702737eb0ab35.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-02.jpg",
+      "path": "../../nenaudojama/dessert/images/71da4c811766bbc9568862fa.avif",
+      "archived": true,
+      "originalPath": "images/71da4c811766bbc9568862fa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-03.jpg",
+      "path": "../../nenaudojama/dessert/images/2ed95f1c771e09b7dad13d16.jpg",
+      "archived": true,
+      "originalPath": "images/2ed95f1c771e09b7dad13d16.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-04.jpg",
+      "path": "../../nenaudojama/dessert/images/a850dcc26719a38e0029e45a.jpg",
+      "archived": true,
+      "originalPath": "images/a850dcc26719a38e0029e45a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-05.jpg",
+      "path": "../../nenaudojama/dessert/images/abcdcb2de64f4875f1aa40dd.jpg",
+      "archived": true,
+      "originalPath": "images/abcdcb2de64f4875f1aa40dd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-second.jpg",
+      "path": "../../nenaudojama/dessert/images/f643782c1baaa71419ac342e.jpg",
+      "archived": true,
+      "originalPath": "images/f643782c1baaa71419ac342e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-07.jpg",
+      "path": "../../nenaudojama/dessert/images/caf75844c6becd3daaced351.avif",
+      "archived": true,
+      "originalPath": "images/caf75844c6becd3daaced351.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/5960aa4a46e4071c9ef39ddf.jpg",
+      "archived": true,
+      "originalPath": "images/5960aa4a46e4071c9ef39ddf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-01-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/144b9a21127b83894ca0e0ab.avif",
+      "archived": true,
+      "originalPath": "images/144b9a21127b83894ca0e0ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-02-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0fe9ba75f8168680261bb8a6.jpg",
+      "archived": true,
+      "originalPath": "images/0fe9ba75f8168680261bb8a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-03-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2d087df9419b14873559ffc7.jpg",
+      "archived": true,
+      "originalPath": "images/2d087df9419b14873559ffc7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-04-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d688b6ebb0f424b68275285f.jpg",
+      "archived": true,
+      "originalPath": "images/d688b6ebb0f424b68275285f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-05-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7fac81348779f2c5c6df98b8.avif",
+      "archived": true,
+      "originalPath": "images/7fac81348779f2c5c6df98b8.avif"
+    }
+  ],
+  "featuredImage": "images/37f0ab32c3842ea8b77d7da0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Avocado Coconut Ice Cream",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Avocado Coconut Ice Cream. Each serving comes out to be 256 calories, 24g fats, 7.1g net carbs, and 2.6g protein.",
+    "datePublished": "2019-01-03T12:00:58+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT70M",
+    "cookTime": "PT120M",
+    "totalTime": "PT190M",
+    "recipeIngredient": [
+      "1 medium avocado",
+      "13 1/2 ounce canned coconut milk",
+      "1/2 cup heavy whipping cream",
+      "3/4 cup allulose",
+      "1 medium lime",
+      "1 cup unsweetened toasted coconut flakes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut avocado lengthwise and remove the pit. Scoop avocado into a blender.",
+        "name": "Cut avocado lengthwise and remove the pit. Scoop avocado into a blender.",
+        "url": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To the avocado add coconut milk, heavy cream, and sweetener, then blend until smooth.",
+        "name": "To the avocado add coconut milk, heavy cream, and sweetener, then blend until smooth.",
+        "url": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Juice and zest the lime. Add both to the blender. Blend ingredients again for one minute. Refrigerate blended ingredients for at least one hour.",
+        "name": "Juice and zest the lime. Add both to the blender. Blend ingredients again for one minute. Refrigerate blended ingredients for at least one hour.",
+        "url": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat pan over medium heat. Add coconut flakes and toast until lightly brown around the edges, being careful not to burn. Remove pan from heat and set aside.",
+        "name": "Preheat pan over medium heat. Add coconut flakes and toast until lightly brown around the edges, being careful not to burn. Remove pan from heat and set aside.",
+        "url": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the avocado ice cream mix to the ice cream machine and churn according to manufacturer’s directions. Alternately, if no machine is available, freeze in a container with a lid or in an ice cube tray for mini portions. (Once cubes are frozen, transfer to a ziplock bag)",
+        "name": "Transfer the avocado ice cream mix to the ice cream machine and churn according to manufacturer’s directions. Alternately, if no machine is available, freeze in a container with a lid or in an ice cube tray for mini portions. (Once cubes are frozen, transfer to a ziplock bag)",
+        "url": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the ice cream is ready, sprinkle with toasted coconut flakes to taste and serve.",
+        "name": "Once the ice cream is ready, sprinkle with toasted coconut flakes to taste and serve.",
+        "url": "https://www.ruled.me/avocado-coconut-ice-cream/#wprm-recipe-52834-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, freezer-friendly, gluten-free, keto, low-carb, make-ahead, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "256 kcal",
+      "fatContent": "24 g",
+      "proteinContent": "2.6 g",
+      "carbohydrateContent": "7.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/avocado-coconut-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/avocado-coconut-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/avocado-coconut-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 38725,
+    "rid": 52834,
+    "t": "Avocado Coconut Ice Cream",
+    "u": "/avocado-coconut-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-coconut-ice-cream-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 7.1,
+    "cal": 256,
+    "pr": 2.6,
+    "fa": 24,
+    "tm": 190,
+    "sv": 8,
+    "kw": [
+      "egg-free",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "make-ahead"
+    ],
+    "d": "2019-01-03",
+    "cm": 5,
+    "ex": "You’ve heard of green tea ice cream, but have you heard of avocado coconut ice cream?! It’s a healthy source of fats and great for curbing those sugar cravings. The toasted coconut flakes nicely",
+    "pv": 92
+  },
+  "sourceHtml": "pages/avocado-coconut-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.138Z"
+}

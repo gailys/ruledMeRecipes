@@ -1,0 +1,408 @@
+{
+  "id": "ruled-41598",
+  "slug": "keto-cheesy-bacon-bread",
+  "title": "Keto Cheesy Bacon Bread",
+  "url": "https://www.ruled.me/keto-cheesy-bacon-bread/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Keto Cheesy Bacon Bread. Each serving comes out to be 293 calories, 25.1g fats, 2.7g net carbs, and 13.4g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT45M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "293 kcal",
+    "fatContent": "25.1 g",
+    "proteinContent": "13.4 g",
+    "carbohydrateContent": "2.7 g"
+  },
+  "nutritionPerServing": {
+    "calories": 293,
+    "netCarbsGrams": 2.7,
+    "proteinGrams": 13.4,
+    "fatGrams": 25.1
+  },
+  "ingredients": [
+    "6 ounce cooked bacon",
+    "1 1/2 cup almond flour",
+    "1 tablespoon baking powder",
+    "1/3 cup sour cream",
+    "2 large egg",
+    "4 tablespoon butter (melted)",
+    "1 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 300 degrees Fahrenheit. Grease the inside of a bread loaf pan. Dice up the bacon and fry until crispy, if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-01.jpg"
+    },
+    {
+      "text": "Whisk the almond flour and baking powder together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-02.jpg"
+    },
+    {
+      "text": "In a smaller bowl, whisk the sour cream and eggs together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-03.jpg"
+    },
+    {
+      "text": "Mix the wet and dry ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-04.jpg"
+    },
+    {
+      "text": "Mix in the butter, then fold in the bacon and cheddar cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-05.jpg"
+    },
+    {
+      "text": "Add the batter to the bread tin. Garnish the top with a bit of extra cheese",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-07.jpg"
+    },
+    {
+      "text": "Bake for 45 minutes, then stick a wooden toothpick into the center. The bread is done when the toothpick comes out clean.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-08.jpg"
+    },
+    {
+      "text": "Let the bread completely cool before slicing. I’m serious! If it’s hot when you slice it, then it may fall apart. It’s even better if you let it chill in the fridge before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "make-ahead",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/9959414231e678a10dac96fa.avif",
+      "archived": true,
+      "originalPath": "images/9959414231e678a10dac96fa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/34e8fe6337b50bace5f37670.avif",
+      "archived": true,
+      "originalPath": "images/34e8fe6337b50bace5f37670.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-01.jpg",
+      "path": "../../nenaudojama/side-items/images/6692ca512a94038edb2d857c.avif",
+      "archived": true,
+      "originalPath": "images/6692ca512a94038edb2d857c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-02.jpg",
+      "path": "../../nenaudojama/side-items/images/04eeef4a037e497e7d9d03ef.avif",
+      "archived": true,
+      "originalPath": "images/04eeef4a037e497e7d9d03ef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-03.jpg",
+      "path": "../../nenaudojama/side-items/images/0d7c977ebbdbde76ad0c5579.avif",
+      "archived": true,
+      "originalPath": "images/0d7c977ebbdbde76ad0c5579.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-04.jpg",
+      "path": "../../nenaudojama/side-items/images/8492e5fdb085958ba68cca6a.avif",
+      "archived": true,
+      "originalPath": "images/8492e5fdb085958ba68cca6a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-05.jpg",
+      "path": "../../nenaudojama/side-items/images/28f250832439f835be6bbbf4.jpg",
+      "archived": true,
+      "originalPath": "images/28f250832439f835be6bbbf4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-07.jpg",
+      "path": "../../nenaudojama/side-items/images/2991b222c0fa7b336ccc8517.avif",
+      "archived": true,
+      "originalPath": "images/2991b222c0fa7b336ccc8517.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-08.jpg",
+      "path": "../../nenaudojama/side-items/images/74f0fb3b0e7249971ca21167.avif",
+      "archived": true,
+      "originalPath": "images/74f0fb3b0e7249971ca21167.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-second.jpg",
+      "path": "../../nenaudojama/side-items/images/9b3110a347b0bc51ba9cbf1b.jpg",
+      "archived": true,
+      "originalPath": "images/9b3110a347b0bc51ba9cbf1b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/30d52a25af6237a29805c371.avif",
+      "archived": true,
+      "originalPath": "images/30d52a25af6237a29805c371.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/69d9862422773f074ec56b39.jpg",
+      "archived": true,
+      "originalPath": "images/69d9862422773f074ec56b39.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/ae0d3704941c555c04cf6e22.avif",
+      "archived": true,
+      "originalPath": "images/ae0d3704941c555c04cf6e22.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5c6dac9c6386f1a11181aaea.avif",
+      "archived": true,
+      "originalPath": "images/5c6dac9c6386f1a11181aaea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/bd0e7005f40dcceb51a52781.avif",
+      "archived": true,
+      "originalPath": "images/bd0e7005f40dcceb51a52781.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e5223870ab765ab0a9b4b314.avif",
+      "archived": true,
+      "originalPath": "images/e5223870ab765ab0a9b4b314.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/a71f0db706369db46bf4753e.avif",
+      "archived": true,
+      "originalPath": "images/a71f0db706369db46bf4753e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-07-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/309c6fb90b13b7cb7ffbb60c.avif",
+      "archived": true,
+      "originalPath": "images/309c6fb90b13b7cb7ffbb60c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-08-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9bc945dabd6c4956c304e066.avif",
+      "archived": true,
+      "originalPath": "images/9bc945dabd6c4956c304e066.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/34e8fe6337b50bace5f37670.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cheesy Bacon Bread",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 10 servings of Keto Cheesy Bacon Bread. Each serving comes out to be 293 calories, 25.1g fats, 2.7g net carbs, and 13.4g protein.",
+    "datePublished": "2019-10-10T08:00:53+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Cheesy Bacon Bread Recipe",
+      "description": "The orange crust gives you the first clue as to how delicious this bread is. Tucked inside this almond-flour based loaf is plenty of crispy bacon and cheddar cheese.\n\nMake sure you heed the warning about slicing the bread while it’s hot. Like many keto goods, this one’s fragile until completely cooled. If you try to slice it early, then you may end up with a mess on your hands.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n7 ounces bacon\n1 1/2 cups almond flour\n1 tablespoon baking powder\n1/3 cup sour cream\n2 large eggs\n4 tablespoons butter, melted\n1 cup shredded cheddar cheese\n\nNutrition Summary:\nThis makes a total of 10 servings of Keto Cheesy Bacon Bread. Each serving comes out to be 306.63 Calories, 26.25g Fats, 2.99g Net Carbs, and 14.44g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-05-11T16:00:27+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 11110
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 536
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 43
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tIUbq_5rfPM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/tIUbq_5rfPM?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=tIUbq_5rfPM",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT45M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "6 ounce cooked bacon",
+      "1 1/2 cup almond flour",
+      "1 tablespoon baking powder",
+      "1/3 cup sour cream",
+      "2 large egg",
+      "4 tablespoon butter (melted)",
+      "1 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 300 degrees Fahrenheit. Grease the inside of a bread loaf pan. Dice up the bacon and fry until crispy, if needed.",
+        "name": "Preheat your oven to 300 degrees Fahrenheit. Grease the inside of a bread loaf pan. Dice up the bacon and fry until crispy, if needed.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the almond flour and baking powder together.",
+        "name": "Whisk the almond flour and baking powder together.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a smaller bowl, whisk the sour cream and eggs together.",
+        "name": "In a smaller bowl, whisk the sour cream and eggs together.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the wet and dry ingredients.",
+        "name": "Mix the wet and dry ingredients.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the butter, then fold in the bacon and cheddar cheese.",
+        "name": "Mix in the butter, then fold in the bacon and cheddar cheese.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the batter to the bread tin. Garnish the top with a bit of extra cheese",
+        "name": "Add the batter to the bread tin. Garnish the top with a bit of extra cheese",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 45 minutes, then stick a wooden toothpick into the center. The bread is done when the toothpick comes out clean.",
+        "name": "Bake for 45 minutes, then stick a wooden toothpick into the center. The bread is done when the toothpick comes out clean.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the bread completely cool before slicing. I’m serious! If it’s hot when you slice it, then it may fall apart. It’s even better if you let it chill in the fridge before serving.",
+        "name": "Let the bread completely cool before slicing. I’m serious! If it’s hot when you slice it, then it may fall apart. It’s even better if you let it chill in the fridge before serving.",
+        "url": "https://www.ruled.me/keto-cheesy-bacon-bread/#wprm-recipe-53167-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "eggs, gluten-free, keto, low-carb, make-ahead, oven-baked, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "293 kcal",
+      "fatContent": "25.1 g",
+      "proteinContent": "13.4 g",
+      "carbohydrateContent": "2.7 g"
+    },
+    "@id": "https://www.ruled.me/keto-cheesy-bacon-bread/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cheesy-bacon-bread/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cheesy-bacon-bread/"
+  },
+  "sourceIndex": {
+    "id": 41598,
+    "rid": 53167,
+    "t": "Keto Cheesy Bacon Bread",
+    "u": "/keto-cheesy-bacon-bread/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/10/keto-cheese-and-bacon-bread-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 2.7,
+    "cal": 293,
+    "pr": 13.4,
+    "fa": 25.1,
+    "tm": 55,
+    "sv": 10,
+    "kw": [
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "oven-baked",
+      "make-ahead",
+      "pork",
+      "eggs"
+    ],
+    "d": "2019-10-10",
+    "cm": 14,
+    "ex": "The orange crust gives you the first clue as to how delicious this bread is. Tucked inside this almond-flour based loaf is plenty of crispy bacon and cheddar cheese. This keto bread makes the perfect",
+    "pv": 426
+  },
+  "sourceHtml": "pages/keto-cheesy-bacon-bread.html",
+  "scrapedAt": "2026-11-07T08:32:13.983Z"
+}

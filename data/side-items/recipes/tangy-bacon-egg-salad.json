@@ -1,0 +1,410 @@
+{
+  "id": "ruled-4186",
+  "slug": "tangy-bacon-egg-salad",
+  "title": "Tangy Bacon & Egg Salad",
+  "url": "https://www.ruled.me/tangy-bacon-egg-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Tangy Bacon & Egg Salad. Each serving comes out to be 379 calories, 34g fats, 2.3g net carbs, and 14.5g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "379 kcal",
+    "fatContent": "34 g",
+    "proteinContent": "14.5 g",
+    "carbohydrateContent": "2.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 379,
+    "netCarbsGrams": 2.3,
+    "proteinGrams": 14.5,
+    "fatGrams": 34
+  },
+  "ingredients": [
+    "3 ounce bacon",
+    "1/4 medium red onion (finely diced)",
+    "5 large hard-boiled egg",
+    "1/4 cup mayonnaise",
+    "2 teaspoon dijon mustard",
+    "1/4 teaspoon cayenne pepper",
+    "1/4 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Cut the bacon into thin slices and add them to a pan over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/bacon1.jpg"
+    },
+    {
+      "text": "Let the bacon cook on medium heat until extra crispy — we want it to give a nice texture to our egg salad. This takes a bit longer than if you were to fry it on a high heat, but I think it comes out better this way.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/bacon2.jpg"
+    },
+    {
+      "text": "Once nice and crisp, remove the bacon from the pan, reserving as much of the fat as possible. Place the bacon on paper towels to cool off and get extra crispy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/spiced_bacon_deviled_eggs-1e.jpg"
+    },
+    {
+      "text": "Add the bacon fat to the hard-boiled eggs in a large mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/eggs-1.jpg"
+    },
+    {
+      "text": "Add in the chopped red onion, mayonnaise, and Dijon mustard.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-eggs.jpg"
+    },
+    {
+      "text": "Mix the eggs up well, smashing them until you reach the desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/mixsalad.jpg"
+    },
+    {
+      "text": "Add the cayenne pepper and black pepper and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/addpeppers.jpg"
+    },
+    {
+      "text": "Finally, gently fold in the bacon — we want to keep the texture chunky and crispy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/add-bacon.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/egg-salad-final.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "packed-lunch",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "stovetop",
+    "meal-prep",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-egg-salad-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/ae38cd31431d2ff0ae78a916.jpg",
+      "archived": true,
+      "originalPath": "images/ae38cd31431d2ff0ae78a916.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-egg-salad.jpg",
+      "path": "../../nenaudojama/side-items/images/0728b9a92fe0053da1ed5239.avif",
+      "archived": true,
+      "originalPath": "images/0728b9a92fe0053da1ed5239.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/bacon1.jpg",
+      "path": "../../nenaudojama/side-items/images/80686a7a49ffc2f42dd07f3d.jpg",
+      "archived": true,
+      "originalPath": "images/80686a7a49ffc2f42dd07f3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/bacon2.jpg",
+      "path": "../../nenaudojama/side-items/images/09fbbf297fd1c7debe0d2ca5.jpg",
+      "archived": true,
+      "originalPath": "images/09fbbf297fd1c7debe0d2ca5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spiced_bacon_deviled_eggs-1e.jpg",
+      "path": "../../nenaudojama/side-items/images/48f2cb7405ee15420cb13422.jpg",
+      "archived": true,
+      "originalPath": "images/48f2cb7405ee15420cb13422.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/eggs-1.jpg",
+      "path": "../../nenaudojama/side-items/images/7557cb18972b16caba1dea59.jpg",
+      "archived": true,
+      "originalPath": "images/7557cb18972b16caba1dea59.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-eggs.jpg",
+      "path": "../../nenaudojama/side-items/images/8f5406bd77a6a783e82fbfcd.jpg",
+      "archived": true,
+      "originalPath": "images/8f5406bd77a6a783e82fbfcd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/mixsalad.jpg",
+      "path": "../../nenaudojama/side-items/images/e443c40f1f0e933792908f40.jpg",
+      "archived": true,
+      "originalPath": "images/e443c40f1f0e933792908f40.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/addpeppers.jpg",
+      "path": "../../nenaudojama/side-items/images/90f99a5dcbcf970cc59b00a0.jpg",
+      "archived": true,
+      "originalPath": "images/90f99a5dcbcf970cc59b00a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/add-bacon.jpg",
+      "path": "../../nenaudojama/side-items/images/46cbf8bb3d03463e7c7eb602.jpg",
+      "archived": true,
+      "originalPath": "images/46cbf8bb3d03463e7c7eb602.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/egg-salad-final.jpg",
+      "path": "../../nenaudojama/side-items/images/7971fc1af0e30d0e3e5514ec.jpg",
+      "archived": true,
+      "originalPath": "images/7971fc1af0e30d0e3e5514ec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/bacon1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/09ac3d4d143a5d961fb25ab3.jpg",
+      "archived": true,
+      "originalPath": "images/09ac3d4d143a5d961fb25ab3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/bacon2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/979f891d1589cba9af2ed158.jpg",
+      "archived": true,
+      "originalPath": "images/979f891d1589cba9af2ed158.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spiced_bacon_deviled_eggs-1e-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3dc0f129a2c9b70871065b6f.jpg",
+      "archived": true,
+      "originalPath": "images/3dc0f129a2c9b70871065b6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/eggs-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/83248828ca5ea0cd3c76a5d1.jpg",
+      "archived": true,
+      "originalPath": "images/83248828ca5ea0cd3c76a5d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-eggs-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/323b95cb8ea376d43234df1d.jpg",
+      "archived": true,
+      "originalPath": "images/323b95cb8ea376d43234df1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/mixsalad-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/76ceb77ade3ad872bbc2fa69.jpg",
+      "archived": true,
+      "originalPath": "images/76ceb77ade3ad872bbc2fa69.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/addpeppers-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/47f1afd5a4e6c706113632c2.jpg",
+      "archived": true,
+      "originalPath": "images/47f1afd5a4e6c706113632c2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/add-bacon-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5d28632f7a9e3d96a62833e1.jpg",
+      "archived": true,
+      "originalPath": "images/5d28632f7a9e3d96a62833e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/egg-salad-final-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/2d116f78bb4ed4a21472a3d4.jpg",
+      "archived": true,
+      "originalPath": "images/2d116f78bb4ed4a21472a3d4.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/0728b9a92fe0053da1ed5239.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Tangy Bacon & Egg Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Tangy Bacon &amp; Egg Salad. Each serving comes out to be 379 calories, 34g fats, 2.3g net carbs, and 14.5g protein.",
+    "datePublished": "2013-12-13T18:19:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/tangy-egg-salad.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3 ounce bacon",
+      "1/4 medium red onion (finely diced)",
+      "5 large hard-boiled egg",
+      "1/4 cup mayonnaise",
+      "2 teaspoon dijon mustard",
+      "1/4 teaspoon cayenne pepper",
+      "1/4 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the bacon into thin slices and add them to a pan over medium heat.",
+        "name": "Cut the bacon into thin slices and add them to a pan over medium heat.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/bacon1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the bacon cook on medium heat until extra crispy — we want it to give a nice texture to our egg salad. This takes a bit longer than if you were to fry it on a high heat, but I think it comes out better this way.",
+        "name": "Let the bacon cook on medium heat until extra crispy — we want it to give a nice texture to our egg salad. This takes a bit longer than if you were to fry it on a high heat, but I think it comes out better this way.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/bacon2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once nice and crisp, remove the bacon from the pan, reserving as much of the fat as possible. Place the bacon on paper towels to cool off and get extra crispy.",
+        "name": "Once nice and crisp, remove the bacon from the pan, reserving as much of the fat as possible. Place the bacon on paper towels to cool off and get extra crispy.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/spiced_bacon_deviled_eggs-1e.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the bacon fat to the hard-boiled eggs in a large mixing bowl.",
+        "name": "Add the bacon fat to the hard-boiled eggs in a large mixing bowl.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/eggs-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the chopped red onion, mayonnaise, and Dijon mustard.",
+        "name": "Add in the chopped red onion, mayonnaise, and Dijon mustard.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-eggs.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the eggs up well, smashing them until you reach the desired consistency.",
+        "name": "Mix the eggs up well, smashing them until you reach the desired consistency.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/mixsalad.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cayenne pepper and black pepper and mix well.",
+        "name": "Add the cayenne pepper and black pepper and mix well.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/addpeppers.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, gently fold in the bacon — we want to keep the texture chunky and crispy.",
+        "name": "Finally, gently fold in the bacon — we want to keep the texture chunky and crispy.",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/add-bacon.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/tangy-bacon-egg-salad/#wprm-recipe-50577-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/egg-salad-final.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, dairy-free, eggs, gluten-free, high-fat, keto, low-carb, meal-prep, nut-free, packed-lunch, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "379 kcal",
+      "fatContent": "34 g",
+      "proteinContent": "14.5 g",
+      "carbohydrateContent": "2.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/tangy-bacon-egg-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/tangy-bacon-egg-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/tangy-bacon-egg-salad/"
+  },
+  "sourceIndex": {
+    "id": 4186,
+    "rid": 50577,
+    "t": "Tangy Bacon Egg Salad",
+    "u": "/tangy-bacon-egg-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/tangy-egg-salad-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 2.3,
+    "cal": 379,
+    "pr": 14.5,
+    "fa": 34,
+    "tm": 15,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "packed-lunch",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "stovetop",
+      "meal-prep",
+      "pork",
+      "eggs"
+    ],
+    "d": "2013-12-13",
+    "cm": 6,
+    "ex": "The good ol' egg salad. Nothing wrong with that, right? Wrong. I have so many bad memories of egg salads being brought to barbecues, left out in the sun for hours, and served out to everyone. That",
+    "pv": 370
+  },
+  "sourceHtml": "pages/tangy-bacon-egg-salad.html",
+  "scrapedAt": "2026-11-07T08:33:14.936Z"
+}

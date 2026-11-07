@@ -1,0 +1,325 @@
+{
+  "id": "ruled-3496",
+  "slug": "spicy-tangy-bbq-sauce",
+  "title": "Spicy & Tangy BBQ Sauce",
+  "url": "https://www.ruled.me/spicy-tangy-bbq-sauce/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Spicy & Tangy BBQ Sauce. Each serving comes out to be 10 calories, 0.1g fats, 1.2g net carbs, and 0.1g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "10 kcal",
+    "fatContent": "0.1 g",
+    "proteinContent": "0.1 g",
+    "carbohydrateContent": "1.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 10,
+    "netCarbsGrams": 1.2,
+    "proteinGrams": 0.1,
+    "fatGrams": 0.1
+  },
+  "ingredients": [
+    "1/2 cup low-carb ketchup",
+    "1 tablespoon hot sauce",
+    "1 teaspoon worcestershire sauce",
+    "1 teaspoon liquid smoke",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon chili powder",
+    "1/2 teaspoon cayenne pepper (optional)",
+    "2 teaspoon yellow mustard",
+    "1/2 teaspoon cumin"
+  ],
+  "instructions": [
+    {
+      "text": "Add the reduced-sugar ketchup to a small mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Add in the Hot Sauce, Worcestershire sauce, liquid smoke, garlic powder, onion powder, chili powder, and cayenne pepper. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Add a little bit of the mustard at a time, adjusting to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Add the cumin and mix until completely smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-10.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "spicy"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/bb7fdb691cdffb7462542a43.avif",
+      "archived": true,
+      "originalPath": "images/bb7fdb691cdffb7462542a43.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/d58e40e6b985ba31e67ec802.avif",
+      "archived": true,
+      "originalPath": "images/d58e40e6b985ba31e67ec802.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-10.jpg",
+      "path": "../../nenaudojama/condiments/images/2a0d48750f463aaa3019fffe.avif",
+      "archived": true,
+      "originalPath": "images/2a0d48750f463aaa3019fffe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-pin.jpg",
+      "path": "../../nenaudojama/condiments/images/a0d61b15de5f2314e7c11b39.avif",
+      "archived": true,
+      "originalPath": "images/a0d61b15de5f2314e7c11b39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-1.jpg",
+      "path": "../../nenaudojama/condiments/images/347fb104501119dd75b097c3.avif",
+      "archived": true,
+      "originalPath": "images/347fb104501119dd75b097c3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-7.jpg",
+      "path": "../../nenaudojama/condiments/images/3ce614b38d48e889fdc14353.avif",
+      "archived": true,
+      "originalPath": "images/3ce614b38d48e889fdc14353.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-8.jpg",
+      "path": "../../nenaudojama/condiments/images/ab5d02930bca23e4deb80ff7.jpg",
+      "archived": true,
+      "originalPath": "images/ab5d02930bca23e4deb80ff7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-9.jpg",
+      "path": "../../nenaudojama/condiments/images/0d7d07012a2cc82828c944ad.avif",
+      "archived": true,
+      "originalPath": "images/0d7d07012a2cc82828c944ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-12.jpg",
+      "path": "../../nenaudojama/condiments/images/b3659e12528921fbffbb6206.avif",
+      "archived": true,
+      "originalPath": "images/b3659e12528921fbffbb6206.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-10-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/a97796033fcfd4800ab30d32.jpg",
+      "archived": true,
+      "originalPath": "images/a97796033fcfd4800ab30d32.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/d58e40e6b985ba31e67ec802.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spicy & Tangy BBQ Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 10 servings of Spicy &amp; Tangy BBQ Sauce. Each serving comes out to be 10 calories, 0.1g fats, 1.2g net carbs, and 0.1g protein.",
+    "datePublished": "2013-12-06T20:15:05+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-featured.jpg"
+    ],
+    "video": {
+      "name": "Spicy and Tangy Keto BBQ Sauce Recipe",
+      "description": "I love the tang you get from BBQ sauce, but it can be difficult and expensive to find a decent keto version. That's why I love to use my homemade version!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n------------------------------------------------------------------------\n\nIngredients:\n½ cup reduced sugar ketchup\n1 tablespoon Louisiana Hot Sauce\n2 teaspoons yellow mustard\n1 teaspoon liquid smoke\n1 teaspoon Worcestershire sauce\n½ teaspoon garlic powder\n½ teaspoon onion powder\n½ teaspoon chili powder\n½ teaspoon cayenne pepper\n½ teaspoon cumin\n\nNutrition Summary:\nPer Tablespoon of sauce, it will be 10.36 Calories, 0.13g Fats, 1.69g Net Carbs, and 0.54g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-11-11T15:00:01+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M16S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 20295
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 502
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 33
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2pLE2SwAvxg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/2pLE2SwAvxg?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=2pLE2SwAvxg",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 cup low-carb ketchup",
+      "1 tablespoon hot sauce",
+      "1 teaspoon worcestershire sauce",
+      "1 teaspoon liquid smoke",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon chili powder",
+      "1/2 teaspoon cayenne pepper (optional)",
+      "2 teaspoon yellow mustard",
+      "1/2 teaspoon cumin"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the reduced-sugar ketchup to a small mixing bowl.",
+        "name": "Add the reduced-sugar ketchup to a small mixing bowl.",
+        "url": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the Hot Sauce, Worcestershire sauce, liquid smoke, garlic powder, onion powder, chili powder, and cayenne pepper. Mix well.",
+        "name": "Add in the Hot Sauce, Worcestershire sauce, liquid smoke, garlic powder, onion powder, chili powder, and cayenne pepper. Mix well.",
+        "url": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add a little bit of the mustard at a time, adjusting to taste.",
+        "name": "Add a little bit of the mustard at a time, adjusting to taste.",
+        "url": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cumin and mix until completely smooth.",
+        "name": "Add the cumin and mix until completely smooth.",
+        "url": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/spicy-tangy-bbq-sauce/#wprm-recipe-50493-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, spicy",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "10 kcal",
+      "fatContent": "0.1 g",
+      "proteinContent": "0.1 g",
+      "carbohydrateContent": "1.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/spicy-tangy-bbq-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spicy-tangy-bbq-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spicy-tangy-bbq-sauce/"
+  },
+  "sourceIndex": {
+    "id": 3496,
+    "rid": 50493,
+    "t": "Keto BBQ Sauce Recipe: Spicy and Tangy",
+    "u": "/spicy-tangy-bbq-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/spicy_and_tangy_bbq_sauce-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 1.2,
+    "cal": 10,
+    "pr": 0.1,
+    "fa": 0.1,
+    "tm": 5,
+    "sv": 10,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "spicy"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2013-12-06",
+    "cm": 40,
+    "ex": "Here’s a quick and easy recipe that you can mix up in a few minutes to make some extremely tasty, spicy, and tangy keto BBQ sauce. I really like the tang you get from BBQ sauce, but this might be a",
+    "pv": 727
+  },
+  "sourceHtml": "pages/spicy-tangy-bbq-sauce.html",
+  "scrapedAt": "2026-11-07T08:33:47.126Z"
+}

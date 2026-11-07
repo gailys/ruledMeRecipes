@@ -1,0 +1,357 @@
+{
+  "id": "ruled-46728",
+  "slug": "keto-croque-madame",
+  "title": "Keto Croque Madame",
+  "url": "https://www.ruled.me/keto-croque-madame/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Croque Madame. Each serving comes out to be 566 calories, 46.6g fats, 3.1g net carbs, and 33.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT20M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "566 kcal",
+    "fatContent": "46.6 g",
+    "proteinContent": "33.2 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 566,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 33.2,
+    "fatGrams": 46.6
+  },
+  "ingredients": [
+    "2 large egg",
+    "1 cup cheddar cheese (grated)",
+    "4 slice deli-sliced black forest ham",
+    "2/3 cup gruyere cheese (shredded)",
+    "2 tablespoon butter",
+    "4 large egg",
+    "1/2 cup heavy cream",
+    "1/4 cup parmesan cheese",
+    "1/3 cup gruyere cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare the ingredients. Preheat oven to 425F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-1.jpg"
+    },
+    {
+      "text": "In a bowl, make the chaffles by whisking together the eggs and grated cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-2.jpg"
+    },
+    {
+      "text": "Using a small waffle iron that is greased, make the chaffles.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-3.jpg"
+    },
+    {
+      "text": "On a parchment lined baking sheet, add the chaffles, topped with the deli sliced ham, and the shredded gruyere cheese. Bake in the oven for 10-15 minutes or until cheese is melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-4.jpg"
+    },
+    {
+      "text": "While the chaffles are in the oven, fry up the eggs in a frying pan with butter. Then top the baked chaffle with the fried eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-5.jpg"
+    },
+    {
+      "text": "In a saucepan on medium heat, make the bechemel sauce by adding the heavy cream. Slowly add in the parmesan cheese and gruyere cheese a small handful at a time and wait until it is melted before adding in more.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-6.jpg"
+    },
+    {
+      "text": "Drizzle the bechemel sauce on top of the chaffles, serve with a small side salad and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/d8fc3ad402829d81b55757fb.jpg",
+      "archived": true,
+      "originalPath": "images/d8fc3ad402829d81b55757fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Featured.jpg",
+      "path": "images/4b48ab8563a0e877e30eb949.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/0bae75156daf0ee8dea1e037.jpg",
+      "archived": true,
+      "originalPath": "images/0bae75156daf0ee8dea1e037.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/923d142d342df5d7250d9d69.avif",
+      "archived": true,
+      "originalPath": "images/923d142d342df5d7250d9d69.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/55b1eb46d15d0a46235d647b.avif",
+      "archived": true,
+      "originalPath": "images/55b1eb46d15d0a46235d647b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/a63e090d5727348fa1a8622a.jpg",
+      "archived": true,
+      "originalPath": "images/a63e090d5727348fa1a8622a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/a923e58ca8ea5ce671e7bf6c.jpg",
+      "archived": true,
+      "originalPath": "images/a923e58ca8ea5ce671e7bf6c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/589ec16377d69311b4a346a4.avif",
+      "archived": true,
+      "originalPath": "images/589ec16377d69311b4a346a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/e21dd5cdc314b4e5b724d13e.jpg",
+      "archived": true,
+      "originalPath": "images/e21dd5cdc314b4e5b724d13e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/0b60d9f66f36175921f2edb8.jpg",
+      "archived": true,
+      "originalPath": "images/0b60d9f66f36175921f2edb8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/bc9f5f2d316af431a31a17af.jpg",
+      "archived": true,
+      "originalPath": "images/bc9f5f2d316af431a31a17af.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7b7f3d24148b01363c03d94c.avif",
+      "archived": true,
+      "originalPath": "images/7b7f3d24148b01363c03d94c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2ab2114fc0e41e96b23cbe0a.jpg",
+      "archived": true,
+      "originalPath": "images/2ab2114fc0e41e96b23cbe0a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/34a5358912082f93499dbca5.jpg",
+      "archived": true,
+      "originalPath": "images/34a5358912082f93499dbca5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/55b585d6a8d133328d128059.jpg",
+      "archived": true,
+      "originalPath": "images/55b585d6a8d133328d128059.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6419d7fae0f13ee232bb9e88.avif",
+      "archived": true,
+      "originalPath": "images/6419d7fae0f13ee232bb9e88.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/8a3d757150043d9ca9e96beb.avif",
+      "archived": true,
+      "originalPath": "images/8a3d757150043d9ca9e96beb.avif"
+    }
+  ],
+  "featuredImage": "images/4b48ab8563a0e877e30eb949.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Croque Madame",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Croque Madame. Each serving comes out to be 566 calories, 46.6g fats, 3.1g net carbs, and 33.2g protein.",
+    "datePublished": "2022-02-15T10:00:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "2 large egg",
+      "1 cup cheddar cheese (grated)",
+      "4 slice deli-sliced black forest ham",
+      "2/3 cup gruyere cheese (shredded)",
+      "2 tablespoon butter",
+      "4 large egg",
+      "1/2 cup heavy cream",
+      "1/4 cup parmesan cheese",
+      "1/3 cup gruyere cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare the ingredients. Preheat oven to 425F.",
+        "name": "Measure out and prepare the ingredients. Preheat oven to 425F.",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, make the chaffles by whisking together the eggs and grated cheese.",
+        "name": "In a bowl, make the chaffles by whisking together the eggs and grated cheese.",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a small waffle iron that is greased, make the chaffles.",
+        "name": "Using a small waffle iron that is greased, make the chaffles.",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a parchment lined baking sheet, add the chaffles, topped with the deli sliced ham, and the shredded gruyere cheese. Bake in the oven for 10-15 minutes or until cheese is melted.",
+        "name": "On a parchment lined baking sheet, add the chaffles, topped with the deli sliced ham, and the shredded gruyere cheese. Bake in the oven for 10-15 minutes or until cheese is melted.",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the chaffles are in the oven, fry up the eggs in a frying pan with butter. Then top the baked chaffle with the fried eggs.",
+        "name": "While the chaffles are in the oven, fry up the eggs in a frying pan with butter. Then top the baked chaffle with the fried eggs.",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan on medium heat, make the bechemel sauce by adding the heavy cream. Slowly add in the parmesan cheese and gruyere cheese a small handful at a time and wait until it is melted before adding in more.",
+        "name": "In a saucepan on medium heat, make the bechemel sauce by adding the heavy cream. Slowly add in the parmesan cheese and gruyere cheese a small handful at a time and wait until it is melted before adding in more.",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the bechemel sauce on top of the chaffles, serve with a small side salad and enjoy!",
+        "name": "Drizzle the bechemel sauce on top of the chaffles, serve with a small side salad and enjoy!",
+        "url": "https://www.ruled.me/keto-croque-madame/#wprm-recipe-54087-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "French"
+    ],
+    "keywords": "eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, pork, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "566 kcal",
+      "fatContent": "46.6 g",
+      "proteinContent": "33.2 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-croque-madame/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-croque-madame/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-croque-madame/"
+  },
+  "sourceIndex": {
+    "id": 46728,
+    "rid": 54087,
+    "t": "Keto Croque Madame",
+    "u": "/keto-croque-madame/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/01/Keto-Croque-Madame-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.1,
+    "cal": 566,
+    "pr": 33.2,
+    "fa": 46.6,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2022-02-15",
+    "cm": 0,
+    "ex": "One of my favorite ways to cook eggs is sunny side up so in this recipe I whipped up my favorite eggs on top of some chaffles to create this keto croque madame! This tastes so good by itself, but",
+    "pv": 100
+  },
+  "sourceHtml": "pages/keto-croque-madame.html",
+  "scrapedAt": "2026-11-07T08:11:12.308Z"
+}

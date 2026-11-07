@@ -1,0 +1,364 @@
+{
+  "id": "ruled-3023",
+  "slug": "hearty-pot-pie",
+  "title": "Hearty Pot Pie",
+  "url": "https://www.ruled.me/hearty-pot-pie/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Hearty Pot Pie. Each serving comes out to be 214 calories, 18.1g fats, 3.1g net carbs, and 8.2g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT60M",
+  "totalTime": "PT80M",
+  "totalMinutes": 80,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "fatContent": "18.1 g",
+    "proteinContent": "8.2 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 214,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 8.2,
+    "fatGrams": 18.1
+  },
+  "ingredients": [
+    "1 1/2 cup almond flour",
+    "1/2 cup coconut flour",
+    "1/2 teaspoon sea salt",
+    "1/2 cup coconut oil (melted)",
+    "2 large egg",
+    "1 cup chicken broth",
+    "1/2 cup green beans",
+    "1/2 cup radish (diced)",
+    "1/2 cup zucchini (diced)",
+    "1/2 cup pumpkin puree (mashed)",
+    "125 gram cooked turkey (diced)",
+    "1 teaspoon psyllium husk powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 325F. Combine flours and salt in a bowl or food processor. Add coconut oil and mix well. Add egg and mix until thoroughly combined. Separate dough into two balls.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-01.jpg"
+    },
+    {
+      "text": "Grease a pie pan with butter or coconut oil, then place one dough ball in the center of the pie plate and spread out with hands.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-02.jpg"
+    },
+    {
+      "text": "Continue spreading dough out until the bottom and sides of the pie plate are covered. Bake until crust is just beginning to brown, approximately 8 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-04.jpg"
+    },
+    {
+      "text": "Put broth and veggies (and seasonings, if using) in a saucepan and simmer until veggies are tender. Add meat and heat through. Using one hand to whisk, slowly add psyllium husk powder while whisking until completely blended. Continue to simmer for about 3 minutes while stirring. Pour mixture into pie crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-09.jpg"
+    },
+    {
+      "text": "Place remaining dough ball on a piece of parchment paper and roll out. Continue to roll dough out until it is the size of the pie plate. Very carefully peel crust from parchment and transfer to pie plate. Place over meat mixture and patch any places where dough did not hold together. Shape up edges and cut vent holes in the top crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-17.jpg"
+    },
+    {
+      "text": "Bake at 325F for 45 minutes. Be sure to place a baking pan in the rack below the pot pie to catch any drips. When pie is cooked, remove from oven and let cool for 10 minutes before cutting. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "poultry",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "oven-baked",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/24256176b3d60707d0eb6c18.avif",
+      "archived": true,
+      "originalPath": "images/24256176b3d60707d0eb6c18.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-featured.jpg",
+      "path": "images/b0160b9c03f766346ac47792.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-01.jpg",
+      "path": "../../nenaudojama/dinner/images/7c5580091d7a7b99bdd90e4e.avif",
+      "archived": true,
+      "originalPath": "images/7c5580091d7a7b99bdd90e4e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-02.jpg",
+      "path": "../../nenaudojama/dinner/images/0e675850235060d509039881.avif",
+      "archived": true,
+      "originalPath": "images/0e675850235060d509039881.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-04.jpg",
+      "path": "../../nenaudojama/dinner/images/5c0415f6237dff22fed28a11.avif",
+      "archived": true,
+      "originalPath": "images/5c0415f6237dff22fed28a11.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-09.jpg",
+      "path": "../../nenaudojama/dinner/images/c7a2897e7c7932400f13a3c0.jpg",
+      "archived": true,
+      "originalPath": "images/c7a2897e7c7932400f13a3c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-17.jpg",
+      "path": "../../nenaudojama/dinner/images/8c5ebababa6a45459343d70f.jpg",
+      "archived": true,
+      "originalPath": "images/8c5ebababa6a45459343d70f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-12.jpg",
+      "path": "../../nenaudojama/dinner/images/3c3021e7c3d2a8a00683efad.avif",
+      "archived": true,
+      "originalPath": "images/3c3021e7c3d2a8a00683efad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/7490aa909489918b4c8ea75d.avif",
+      "archived": true,
+      "originalPath": "images/7490aa909489918b4c8ea75d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/17d1203707d483cd47caf4f4.avif",
+      "archived": true,
+      "originalPath": "images/17d1203707d483cd47caf4f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d12428fd8753491a90895013.jpg",
+      "archived": true,
+      "originalPath": "images/d12428fd8753491a90895013.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a86960b81025595a55edee31.jpg",
+      "archived": true,
+      "originalPath": "images/a86960b81025595a55edee31.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/974882aa23f45645122d6760.avif",
+      "archived": true,
+      "originalPath": "images/974882aa23f45645122d6760.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-17-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f2ff5b949f670fbeb6fc7818.jpg",
+      "archived": true,
+      "originalPath": "images/f2ff5b949f670fbeb6fc7818.jpg"
+    }
+  ],
+  "featuredImage": "images/b0160b9c03f766346ac47792.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Hearty Pot Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Hearty Pot Pie. Each serving comes out to be 214 calories, 18.1g fats, 3.1g net carbs, and 8.2g protein.",
+    "datePublished": "2013-12-01T04:25:13+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-featured.jpg"
+    ],
+    "video": {
+      "name": "Hearty Keto Turkey Pot Pie [Great Use for Leftovers]",
+      "description": "Ever since I made the recipe for the pecan pie, I’ve been in love with this pie crust. I ended up using it when I made a pie out of my low carb pumpkin cheesecake tarts too. It was then that I started thinking of savory uses for the pie crust. It’s the closest thing I’ve ever gotten to a traditional pie crust, and with turkey leftovers (from Thanksgiving when this recipe was originally made), it only made sense to think of using it to make a pot pie.\n\nWhile we use turkey in this recipe, it isn't Thanksgiving all year round and you can substitute it out for any type of (cooked) poultry.\n\nFor this one I used up the leftover veggies I had on hand. I used roasted radishes (to simulate potatoes), some mashed pumpkin, 2 green onions, green beans, zucchini, and a few organic black soy beans (just to use them up). Also, my meat was shredded, not cubed, which can be seen in the pics.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 ½ cups blanched almond flour\n½ cup coconut flour\n½ cup coconut oil, softened\n½ teaspoon sea salt\n2 extra large pastured eggs\n1 cup turkey broth\n1 cup diced, cooked turkey\n½ cup green beans\n½ cup diced radishes\n½ cup diced zucchini\n½ cup mashed pumpkin\nSeasoning to taste\n1 teaspoon psyllium husk powder\n\nNutrition Summary: With 12 servings, the macros per serving break down like this: 227 Calories, 18.2g Fat, 3.9g Net Carbs, 8.7g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-08-09T15:00:33+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M27S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 3441
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 177
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 14
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cETPO6IHJ0I/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/cETPO6IHJ0I?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=cETPO6IHJ0I",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT60M",
+    "totalTime": "PT80M",
+    "recipeIngredient": [
+      "1 1/2 cup almond flour",
+      "1/2 cup coconut flour",
+      "1/2 teaspoon sea salt",
+      "1/2 cup coconut oil (melted)",
+      "2 large egg",
+      "1 cup chicken broth",
+      "1/2 cup green beans",
+      "1/2 cup radish (diced)",
+      "1/2 cup zucchini (diced)",
+      "1/2 cup pumpkin puree (mashed)",
+      "125 gram cooked turkey (diced)",
+      "1 teaspoon psyllium husk powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325F. Combine flours and salt in a bowl or food processor. Add coconut oil and mix well. Add egg and mix until thoroughly combined. Separate dough into two balls.",
+        "name": "Preheat oven to 325F. Combine flours and salt in a bowl or food processor. Add coconut oil and mix well. Add egg and mix until thoroughly combined. Separate dough into two balls.",
+        "url": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grease a pie pan with butter or coconut oil, then place one dough ball in the center of the pie plate and spread out with hands.",
+        "name": "Grease a pie pan with butter or coconut oil, then place one dough ball in the center of the pie plate and spread out with hands.",
+        "url": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue spreading dough out until the bottom and sides of the pie plate are covered. Bake until crust is just beginning to brown, approximately 8 minutes.",
+        "name": "Continue spreading dough out until the bottom and sides of the pie plate are covered. Bake until crust is just beginning to brown, approximately 8 minutes.",
+        "url": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put broth and veggies (and seasonings, if using) in a saucepan and simmer until veggies are tender. Add meat and heat through. Using one hand to whisk, slowly add psyllium husk powder while whisking until completely blended. Continue to simmer for about 3 minutes while stirring. Pour mixture into pie crust.",
+        "name": "Put broth and veggies (and seasonings, if using) in a saucepan and simmer until veggies are tender. Add meat and heat through. Using one hand to whisk, slowly add psyllium husk powder while whisking until completely blended. Continue to simmer for about 3 minutes while stirring. Pour mixture into pie crust.",
+        "url": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place remaining dough ball on a piece of parchment paper and roll out. Continue to roll dough out until it is the size of the pie plate. Very carefully peel crust from parchment and transfer to pie plate. Place over meat mixture and patch any places where dough did not hold together. Shape up edges and cut vent holes in the top crust.",
+        "name": "Place remaining dough ball on a piece of parchment paper and roll out. Continue to roll dough out until it is the size of the pie plate. Very carefully peel crust from parchment and transfer to pie plate. Place over meat mixture and patch any places where dough did not hold together. Shape up edges and cut vent holes in the top crust.",
+        "url": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-17.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 325F for 45 minutes. Be sure to place a baking pan in the rack below the pot pie to catch any drips. When pie is cooked, remove from oven and let cool for 10 minutes before cutting. Serve and enjoy!",
+        "name": "Bake at 325F for 45 minutes. Be sure to place a baking pan in the rack below the pot pie to catch any drips. When pie is cooked, remove from oven and let cool for 10 minutes before cutting. Serve and enjoy!",
+        "url": "https://www.ruled.me/hearty-pot-pie/#wprm-recipe-50465-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, dairy-free, fall, gluten-free, keto, low-carb, oven-baked, poultry, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "214 kcal",
+      "fatContent": "18.1 g",
+      "proteinContent": "8.2 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/hearty-pot-pie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/hearty-pot-pie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/hearty-pot-pie/"
+  },
+  "sourceIndex": {
+    "id": 3023,
+    "rid": 50465,
+    "t": "Hearty Pot Pie",
+    "u": "/hearty-pot-pie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/11/hearty-keto-pot-pie-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.1,
+    "cal": 214,
+    "pr": 8.2,
+    "fa": 18.1,
+    "tm": 80,
+    "sv": 12,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "poultry",
+      "sugar-free"
+    ],
+    "ni": 13,
+    "fk": [
+      "dairy-free",
+      "oven-baked",
+      "poultry"
+    ],
+    "d": "2013-11-30",
+    "cm": 3,
+    "ex": "Ever since I made the recipe for the pecan pie, I've been in love with this pie crust. I ended up using it when I made a pie out of these low carb pumpkin cheesecake tarts. It was then that I started",
+    "pv": 72
+  },
+  "sourceHtml": "pages/hearty-pot-pie.html",
+  "scrapedAt": "2026-11-07T08:27:45.346Z"
+}

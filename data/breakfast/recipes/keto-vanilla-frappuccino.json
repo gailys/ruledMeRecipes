@@ -1,0 +1,277 @@
+{
+  "id": "ruled-45438",
+  "slug": "keto-vanilla-frappuccino",
+  "title": "Keto Vanilla Frappuccino",
+  "url": "https://www.ruled.me/keto-vanilla-frappuccino/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Vanilla Frappuccino. Each serving comes out to be 435 calories, 44.3g fats, 4.1g net carbs, and 4.1g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "435 kcal",
+    "fatContent": "44.3 g",
+    "proteinContent": "4.1 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 435,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 4.1,
+    "fatGrams": 44.3
+  },
+  "ingredients": [
+    "1 cup brewed coffee (chilled)",
+    "1 cup unsweetened almond milk",
+    "1 cup heavy whipping cream",
+    "2 teaspoon vanilla extract",
+    "1 teaspoon liquid stevia",
+    "1/4 teaspoon xanthan gum",
+    "2 cup ice cubes"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-1.jpg"
+    },
+    {
+      "text": "Put the chilled brewed coffee, almond milk, heavy whipping cream, vanilla extract, liquid stevia, and xanthan gum into the blender. Pulse until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-2.jpg"
+    },
+    {
+      "text": "Add the ice cubes to the blender and pulse until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-3.jpg"
+    },
+    {
+      "text": "Pour into glasses and serve immediately.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/e589bf66a8d01364a7f9ad5a.avif",
+      "archived": true,
+      "originalPath": "images/e589bf66a8d01364a7f9ad5a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Featured.jpg",
+      "path": "images/e211744d3645d55c77ec4ba3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/97bf4e531212391cc66c0d9d.jpg",
+      "archived": true,
+      "originalPath": "images/97bf4e531212391cc66c0d9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/db6be1c2e6ed500cd5fd83c0.jpg",
+      "archived": true,
+      "originalPath": "images/db6be1c2e6ed500cd5fd83c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/f9c94c4e70549e0465e73096.jpg",
+      "archived": true,
+      "originalPath": "images/f9c94c4e70549e0465e73096.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/c52f7776fde0a02f888ba672.jpg",
+      "archived": true,
+      "originalPath": "images/c52f7776fde0a02f888ba672.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/66e602d4d66e59d3775c5653.jpg",
+      "archived": true,
+      "originalPath": "images/66e602d4d66e59d3775c5653.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/0310c189a7fd53aaea2b899d.jpg",
+      "archived": true,
+      "originalPath": "images/0310c189a7fd53aaea2b899d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/dd8bc6016e6f43ab93a3a371.jpg",
+      "archived": true,
+      "originalPath": "images/dd8bc6016e6f43ab93a3a371.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2320008bcc8fb8b6b96732e1.jpg",
+      "archived": true,
+      "originalPath": "images/2320008bcc8fb8b6b96732e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e4d0af133912528306e23c5.jpg",
+      "archived": true,
+      "originalPath": "images/3e4d0af133912528306e23c5.jpg"
+    }
+  ],
+  "featuredImage": "images/e211744d3645d55c77ec4ba3.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Vanilla Frappuccino",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Vanilla Frappuccino. Each serving comes out to be 435 calories, 44.3g fats, 4.1g net carbs, and 4.1g protein.",
+    "datePublished": "2021-06-22T09:00:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1 cup brewed coffee (chilled)",
+      "1 cup unsweetened almond milk",
+      "1 cup heavy whipping cream",
+      "2 teaspoon vanilla extract",
+      "1 teaspoon liquid stevia",
+      "1/4 teaspoon xanthan gum",
+      "2 cup ice cubes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the chilled brewed coffee, almond milk, heavy whipping cream, vanilla extract, liquid stevia, and xanthan gum into the blender. Pulse until combined well.",
+        "name": "Put the chilled brewed coffee, almond milk, heavy whipping cream, vanilla extract, liquid stevia, and xanthan gum into the blender. Pulse until combined well.",
+        "url": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ice cubes to the blender and pulse until combined well.",
+        "name": "Add the ice cubes to the blender and pulse until combined well.",
+        "url": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into glasses and serve immediately.",
+        "name": "Pour into glasses and serve immediately.",
+        "url": "https://www.ruled.me/keto-vanilla-frappuccino/#wprm-recipe-53813-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, no-bake, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "435 kcal",
+      "fatContent": "44.3 g",
+      "proteinContent": "4.1 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-vanilla-frappuccino/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-vanilla-frappuccino/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-vanilla-frappuccino/"
+  },
+  "sourceIndex": {
+    "id": 45438,
+    "rid": 53813,
+    "t": "Keto Vanilla Frappuccino",
+    "u": "/keto-vanilla-frappuccino/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/04/Keto-Vanilla-Frappuccino-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.1,
+    "cal": 435,
+    "pr": 4.1,
+    "fa": 44.3,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2021-06-22",
+    "cm": 0,
+    "ex": "One of the first drinks I got from Starbucks was the vanilla bean frappuccino, unbeknownst to me all the carbs that were in that drink. It was okay but definitely not good enough to sacrifice all",
+    "pv": 167
+  },
+  "sourceHtml": "pages/keto-vanilla-frappuccino.html",
+  "scrapedAt": "2026-11-07T08:11:12.359Z"
+}

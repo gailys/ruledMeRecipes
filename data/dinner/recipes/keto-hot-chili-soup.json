@@ -1,0 +1,417 @@
+{
+  "id": "ruled-27762",
+  "slug": "keto-hot-chili-soup",
+  "title": "Keto Hot Chile Soup",
+  "url": "https://www.ruled.me/keto-hot-chili-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Hot Chile Soup. Each serving comes out to be 418 calories, 33.5g fats, 5.2g net carbs, and 24.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "418 kcal",
+    "fatContent": "33.5 g",
+    "proteinContent": "24.5 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 418,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 24.5,
+    "fatGrams": 33.5
+  },
+  "ingredients": [
+    "16 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)",
+    "2 tablespoon olive oil",
+    "1 teaspoon ground coriander",
+    "2 medium bird's eye chile pepper (sliced)",
+    "2 cup chicken broth",
+    "2 cup water",
+    "1 teaspoon turmeric powder",
+    "1/2 teaspoon cumin",
+    "4 tablespoon tomato paste",
+    "2 tablespoon butter",
+    "1 tablespoon lime juice",
+    "1 medium avocado (sliced)",
+    "2 ounce queso fresco (crumbled)",
+    "4 tablespoon fresh cilantro (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Cut the chicken thighs into bite-sized pieces and heat them in an oiled pan. Season with salt and pepper, cook, and set aside for later.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/01Cook-chicken.jpg"
+    },
+    {
+      "text": "Heat up the olive oil in a separate pan. Lightly toast the coriander seeds to release more of their flavor and aroma.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/02Cook-coriander-seeds.jpg"
+    },
+    {
+      "text": "Once fragrant, add in the sliced chile peppers to infuse their flavor into the oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/03Cook-chilis.jpg"
+    },
+    {
+      "text": "Add broth and water and bring to a simmer. Season with turmeric, ground cumin, and salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/04Season-the-soup.jpg"
+    },
+    {
+      "text": "Once simmering, add the tomato paste and butter and stir until melted and combined. Let simmer for about 5–10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/05Add-tomato-paste.jpg"
+    },
+    {
+      "text": "Reduce the heat and add the lime juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/06Add-lime-juice.jpg"
+    },
+    {
+      "text": "Serve by placing individual portions of chicken in the bottom of each bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/02/07Add-chicken.jpg"
+    },
+    {
+      "text": "Ladle the soup over the chicken. Garnish with avocado, queso fresco, and cilantro.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/Chili-Pepper-Soup-final-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/742b7cc051f6dbf2e18d2bde.avif",
+      "archived": true,
+      "originalPath": "images/742b7cc051f6dbf2e18d2bde.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/Chili-Pepper-Soup-final.jpg",
+      "path": "images/0c1976a971bdf6ec783bdf11.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/01Cook-chicken.jpg",
+      "path": "../../nenaudojama/dinner/images/18b1f1a07e132664df16a298.jpg",
+      "archived": true,
+      "originalPath": "images/18b1f1a07e132664df16a298.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/02Cook-coriander-seeds.jpg",
+      "path": "../../nenaudojama/dinner/images/7837fc68cf48d8d3a997bac4.jpg",
+      "archived": true,
+      "originalPath": "images/7837fc68cf48d8d3a997bac4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/03Cook-chilis.jpg",
+      "path": "../../nenaudojama/dinner/images/b0ac28e50ce30fbfc6f2f439.avif",
+      "archived": true,
+      "originalPath": "images/b0ac28e50ce30fbfc6f2f439.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/04Season-the-soup.jpg",
+      "path": "../../nenaudojama/dinner/images/e1c9e1a821585fca85452c2a.jpg",
+      "archived": true,
+      "originalPath": "images/e1c9e1a821585fca85452c2a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/05Add-tomato-paste.jpg",
+      "path": "../../nenaudojama/dinner/images/cdea82ed5e5071f4bc153029.avif",
+      "archived": true,
+      "originalPath": "images/cdea82ed5e5071f4bc153029.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/06Add-lime-juice.jpg",
+      "path": "../../nenaudojama/dinner/images/5b01e9bba9c0d5f79736a993.avif",
+      "archived": true,
+      "originalPath": "images/5b01e9bba9c0d5f79736a993.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/07Add-chicken.jpg",
+      "path": "../../nenaudojama/dinner/images/120e469dec50c4f4e5c80e94.avif",
+      "archived": true,
+      "originalPath": "images/120e469dec50c4f4e5c80e94.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/Chili-Pepper-Soup-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/dae475a456961a6c3061a563.avif",
+      "archived": true,
+      "originalPath": "images/dae475a456961a6c3061a563.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/Chili-Pepper-Soup-pinterest.jpg",
+      "path": "../../nenaudojama/dinner/images/596a3a3ec9fc89c982129d17.avif",
+      "archived": true,
+      "originalPath": "images/596a3a3ec9fc89c982129d17.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/01Cook-chicken-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c43dc460d0df40878b079b7f.jpg",
+      "archived": true,
+      "originalPath": "images/c43dc460d0df40878b079b7f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/02Cook-coriander-seeds-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1fc905e06980594c3f8e9e26.avif",
+      "archived": true,
+      "originalPath": "images/1fc905e06980594c3f8e9e26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/03Cook-chilis-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/46d21fffec4eacf15dfcd71b.avif",
+      "archived": true,
+      "originalPath": "images/46d21fffec4eacf15dfcd71b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/04Season-the-soup-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7928e906905770327d7c8332.avif",
+      "archived": true,
+      "originalPath": "images/7928e906905770327d7c8332.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/05Add-tomato-paste-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2ed52717fc65c881095a2110.avif",
+      "archived": true,
+      "originalPath": "images/2ed52717fc65c881095a2110.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/06Add-lime-juice-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/96e6a8c1720de90a6e1c7339.jpg",
+      "archived": true,
+      "originalPath": "images/96e6a8c1720de90a6e1c7339.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/02/07Add-chicken-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6f12e941f96aabe9f3a3c913.avif",
+      "archived": true,
+      "originalPath": "images/6f12e941f96aabe9f3a3c913.avif"
+    }
+  ],
+  "featuredImage": "images/0c1976a971bdf6ec783bdf11.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Hot Chile Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Hot Chile Soup. Each serving comes out to be 418 calories, 33.5g fats, 5.2g net carbs, and 24.5g protein.",
+    "datePublished": "2016-02-19T17:56:55+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/02/Chili-Pepper-Soup-final.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "16 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)",
+      "2 tablespoon olive oil",
+      "1 teaspoon ground coriander",
+      "2 medium bird's eye chile pepper (sliced)",
+      "2 cup chicken broth",
+      "2 cup water",
+      "1 teaspoon turmeric powder",
+      "1/2 teaspoon cumin",
+      "4 tablespoon tomato paste",
+      "2 tablespoon butter",
+      "1 tablespoon lime juice",
+      "1 medium avocado (sliced)",
+      "2 ounce queso fresco (crumbled)",
+      "4 tablespoon fresh cilantro (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken thighs into bite-sized pieces and heat them in an oiled pan. Season with salt and pepper, cook, and set aside for later.",
+        "name": "Cut the chicken thighs into bite-sized pieces and heat them in an oiled pan. Season with salt and pepper, cook, and set aside for later.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/01Cook-chicken.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the olive oil in a separate pan. Lightly toast the coriander seeds to release more of their flavor and aroma.",
+        "name": "Heat up the olive oil in a separate pan. Lightly toast the coriander seeds to release more of their flavor and aroma.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/02Cook-coriander-seeds.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once fragrant, add in the sliced chile peppers to infuse their flavor into the oil.",
+        "name": "Once fragrant, add in the sliced chile peppers to infuse their flavor into the oil.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/03Cook-chilis.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add broth and water and bring to a simmer. Season with turmeric, ground cumin, and salt and pepper to taste.",
+        "name": "Add broth and water and bring to a simmer. Season with turmeric, ground cumin, and salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/04Season-the-soup.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once simmering, add the tomato paste and butter and stir until melted and combined. Let simmer for about 5–10 minutes.",
+        "name": "Once simmering, add the tomato paste and butter and stir until melted and combined. Let simmer for about 5–10 minutes.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/05Add-tomato-paste.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat and add the lime juice.",
+        "name": "Reduce the heat and add the lime juice.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/06Add-lime-juice.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve by placing individual portions of chicken in the bottom of each bowl.",
+        "name": "Serve by placing individual portions of chicken in the bottom of each bowl.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/02/07Add-chicken.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ladle the soup over the chicken. Garnish with avocado, queso fresco, and cilantro.",
+        "name": "Ladle the soup over the chicken. Garnish with avocado, queso fresco, and cilantro.",
+        "url": "https://www.ruled.me/keto-hot-chili-soup/#wprm-recipe-51883-step-0-7"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "This was delicious!",
+        "author": {
+          "@type": "Person",
+          "name": "Laura"
+        },
+        "datePublished": "2024-07-28"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, poultry, quick, spicy, stovetop, sugar-free, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "418 kcal",
+      "fatContent": "33.5 g",
+      "proteinContent": "24.5 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-hot-chili-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-hot-chili-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-hot-chili-soup/"
+  },
+  "sourceIndex": {
+    "id": 27762,
+    "rid": 51883,
+    "t": "Keto Hot Chili Soup",
+    "u": "/keto-hot-chili-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/02/Chili-Pepper-Soup-final-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.2,
+    "cal": 418,
+    "pr": 24.5,
+    "fa": 33.5,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 15,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2016-02-19",
+    "cm": 11,
+    "ex": "Hot chili peppers are a great way to bring a deep heat to any dish. Today we're going to learn how to make a pretty simple soup that will have a depth of flavor and really bring a home comfort vibe",
+    "pv": 939
+  },
+  "sourceHtml": "pages/keto-hot-chili-soup.html",
+  "scrapedAt": "2026-11-07T08:27:44.827Z"
+}

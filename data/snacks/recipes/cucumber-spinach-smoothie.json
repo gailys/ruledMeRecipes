@@ -1,0 +1,248 @@
+{
+  "id": "ruled-24471",
+  "slug": "cucumber-spinach-smoothie",
+  "title": "Cucumber Spinach Smoothie",
+  "url": "https://www.ruled.me/cucumber-spinach-smoothie/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Cucumber Spinach Smoothie. The serving comes out to be 202 calories, 17.8g fats, 3.4g net carbs, and 3.1g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "202 kcal",
+    "fatContent": "17.8 g",
+    "proteinContent": "3.1 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 202,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 3.1,
+    "fatGrams": 17.8
+  },
+  "ingredients": [
+    "90 gram spinach",
+    "7 large ice cubes",
+    "1 cup unsweetened carton coconut milk",
+    "12 drop liquid stevia",
+    "1/4 teaspoon xanthan gum",
+    "1 tablespoon mct oil",
+    "2 1/2 ounce cucumber"
+  ],
+  "instructions": [
+    {
+      "text": "Grab the spinach and toss it in a blender. Add in the ice cubes, coconut milk (from a carton), liquid stevia, xanthan gum, and MCT oil. Peel and cube the cucumber, adding it in as well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cucumber-spinach-smoothie/#wprm-recipe-51355-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_2097.jpg"
+    },
+    {
+      "text": "Blend for 1–2 minutes or until the ingredients are well combined. There may still be little bits of spinach floating around, but these really can't be detected in the texture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cucumber-spinach-smoothie/#wprm-recipe-51355-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_2101.jpg"
+    },
+    {
+      "text": "Pour into a nice big glass and savor the refreshingly sweet taste!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cucumber-spinach-smoothie/#wprm-recipe-51355-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/cucumberspinachshake.jpg",
+      "path": "../../nenaudojama/snacks/images/4cefc4fcda194896829b6682.avif",
+      "archived": true,
+      "originalPath": "images/4cefc4fcda194896829b6682.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2097.jpg",
+      "path": "../../nenaudojama/snacks/images/2ecb7defb1834585cfb0d7d0.avif",
+      "archived": true,
+      "originalPath": "images/2ecb7defb1834585cfb0d7d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2101.jpg",
+      "path": "../../nenaudojama/snacks/images/5793db1887b4b86facc265d2.jpg",
+      "archived": true,
+      "originalPath": "images/5793db1887b4b86facc265d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/cucumberspinachshakesecond.jpg",
+      "path": "../../nenaudojama/snacks/images/bd35a880c825b303f2bfc16a.avif",
+      "archived": true,
+      "originalPath": "images/bd35a880c825b303f2bfc16a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/cucumberspinachshakelong.jpg",
+      "path": "../../nenaudojama/snacks/images/44e13e65fae62db6c092b755.avif",
+      "archived": true,
+      "originalPath": "images/44e13e65fae62db6c092b755.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2097-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/6f33562af6f23a23250b8698.jpg",
+      "archived": true,
+      "originalPath": "images/6f33562af6f23a23250b8698.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_2101-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/37aeceb8c3ebd327edcf52ce.avif",
+      "archived": true,
+      "originalPath": "images/37aeceb8c3ebd327edcf52ce.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/4cefc4fcda194896829b6682.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cucumber Spinach Smoothie",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Cucumber Spinach Smoothie. The serving comes out to be 202 calories, 17.8g fats, 3.4g net carbs, and 3.1g protein.",
+    "datePublished": "2014-09-01T15:56:15+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/cucumberspinachshake.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "90 gram spinach",
+      "7 large ice cubes",
+      "1 cup unsweetened carton coconut milk",
+      "12 drop liquid stevia",
+      "1/4 teaspoon xanthan gum",
+      "1 tablespoon mct oil",
+      "2 1/2 ounce cucumber"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Grab the spinach and toss it in a blender. Add in the ice cubes, coconut milk (from a carton), liquid stevia, xanthan gum, and MCT oil. Peel and cube the cucumber, adding it in as well.",
+        "name": "Grab the spinach and toss it in a blender. Add in the ice cubes, coconut milk (from a carton), liquid stevia, xanthan gum, and MCT oil. Peel and cube the cucumber, adding it in as well.",
+        "url": "https://www.ruled.me/cucumber-spinach-smoothie/#wprm-recipe-51355-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_2097.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend for 1–2 minutes or until the ingredients are well combined. There may still be little bits of spinach floating around, but these really can't be detected in the texture.",
+        "name": "Blend for 1–2 minutes or until the ingredients are well combined. There may still be little bits of spinach floating around, but these really can't be detected in the texture.",
+        "url": "https://www.ruled.me/cucumber-spinach-smoothie/#wprm-recipe-51355-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_2101.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a nice big glass and savor the refreshingly sweet taste!",
+        "name": "Pour into a nice big glass and savor the refreshingly sweet taste!",
+        "url": "https://www.ruled.me/cucumber-spinach-smoothie/#wprm-recipe-51355-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Snacks"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "202 kcal",
+      "fatContent": "17.8 g",
+      "proteinContent": "3.1 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/cucumber-spinach-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cucumber-spinach-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cucumber-spinach-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 24471,
+    "rid": 51355,
+    "t": "Cucumber Spinach Smoothie",
+    "u": "/cucumber-spinach-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/cucumberspinachshake.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.4,
+    "cal": 202,
+    "pr": 3.1,
+    "fa": 17.8,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2014-09-01",
+    "cm": 8,
+    "ex": "I've had a lot of people e-mail me and ask me about juicing (which is a no-no). When they make the switch to a ketogenic diet, they're missing the shakes and smoothies that they used to make",
+    "pv": 364
+  },
+  "sourceHtml": "pages/cucumber-spinach-smoothie.html",
+  "scrapedAt": "2026-11-07T08:31:27.823Z"
+}

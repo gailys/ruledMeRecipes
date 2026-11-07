@@ -1,0 +1,339 @@
+{
+  "id": "ruled-9635",
+  "slug": "thick-sticky-maple-syrup",
+  "title": "Thick & Sticky Maple Syrup",
+  "url": "https://www.ruled.me/thick-sticky-maple-syrup/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Thick & Sticky Maple Syrup. Each serving comes out to be 60 calories, 5.4g fats, 0.4g net carbs, and 0g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60 kcal",
+    "fatContent": "5.4 g",
+    "carbohydrateContent": "0.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 60,
+    "netCarbsGrams": 0.4,
+    "proteinGrams": 0,
+    "fatGrams": 5.4
+  },
+  "ingredients": [
+    "2 1/4 teaspoon coconut oil",
+    "1 tablespoon butter",
+    "1/4 teaspoon xanthan gum",
+    "1/4 cup erythritol",
+    "1/4 teaspoon ground cinnamon (optional)",
+    "3/4 cup water (filtered)",
+    "1/2 teaspoon vanilla extract",
+    "2 teaspoon maple extract"
+  ],
+  "instructions": [
+    {
+      "text": "In a microwave-safe container, mix together the coconut oil, butter, and xanthan gum.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23801.jpg"
+    },
+    {
+      "text": "Microwave the oil and butter together for 40–50 seconds, until melted and hot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23811.jpg"
+    },
+    {
+      "text": "Use a spice grinder to powder the erythritol. Let powder settle a little before removing lid. If using cinnamon, add it in now.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/P21354401.jpg"
+    },
+    {
+      "text": "Add the water and powdered erythritol to the butter and oil mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23861.jpg"
+    },
+    {
+      "text": "Add in the vanilla and maple extracts. The strength of maple extracts may vary, so adjust the amount to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23881.jpg"
+    },
+    {
+      "text": "Mix everything together until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23901.jpg"
+    },
+    {
+      "text": "Microwave the mixture for 40–60 seconds and stir. Let cool before using.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23961.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/maplesyrup.jpg",
+      "path": "../../nenaudojama/condiments/images/5c3e101d87f4b52ebe381482.avif",
+      "archived": true,
+      "originalPath": "images/5c3e101d87f4b52ebe381482.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23801.jpg",
+      "path": "../../nenaudojama/condiments/images/645106e1d85fd4aaf8dc600c.jpg",
+      "archived": true,
+      "originalPath": "images/645106e1d85fd4aaf8dc600c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23811.jpg",
+      "path": "../../nenaudojama/condiments/images/e56689eeeb70fef0825fbe92.jpg",
+      "archived": true,
+      "originalPath": "images/e56689eeeb70fef0825fbe92.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P21354401.jpg",
+      "path": "../../nenaudojama/condiments/images/a39efd5ba139ef3f9db39b0d.jpg",
+      "archived": true,
+      "originalPath": "images/a39efd5ba139ef3f9db39b0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23861.jpg",
+      "path": "../../nenaudojama/condiments/images/d417a00670296f951a7f6dbe.avif",
+      "archived": true,
+      "originalPath": "images/d417a00670296f951a7f6dbe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23881.jpg",
+      "path": "../../nenaudojama/condiments/images/d317552c5763d4ea13dd7697.avif",
+      "archived": true,
+      "originalPath": "images/d317552c5763d4ea13dd7697.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23901.jpg",
+      "path": "../../nenaudojama/condiments/images/3652485fa76b76950338515f.jpg",
+      "archived": true,
+      "originalPath": "images/3652485fa76b76950338515f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23961.jpg",
+      "path": "../../nenaudojama/condiments/images/5fc25a8915f38dc771253fb2.jpg",
+      "archived": true,
+      "originalPath": "images/5fc25a8915f38dc771253fb2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23801-524x350.jpg",
+      "path": "../../nenaudojama/condiments/images/f380f9492ae861b07a812db6.avif",
+      "archived": true,
+      "originalPath": "images/f380f9492ae861b07a812db6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23811-524x350.jpg",
+      "path": "../../nenaudojama/condiments/images/720422373ff00c4ec7e251e6.jpg",
+      "archived": true,
+      "originalPath": "images/720422373ff00c4ec7e251e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P21354401-466x350.jpg",
+      "path": "../../nenaudojama/condiments/images/e21837e3aff17f7c72cc7e95.avif",
+      "archived": true,
+      "originalPath": "images/e21837e3aff17f7c72cc7e95.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23861-524x350.jpg",
+      "path": "../../nenaudojama/condiments/images/2958910026a46b514ea7e868.jpg",
+      "archived": true,
+      "originalPath": "images/2958910026a46b514ea7e868.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23881-524x350.jpg",
+      "path": "../../nenaudojama/condiments/images/c869ef465ba70555bd6ae701.jpg",
+      "archived": true,
+      "originalPath": "images/c869ef465ba70555bd6ae701.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23901-524x350.jpg",
+      "path": "../../nenaudojama/condiments/images/786aadc3f306ace6af0e8f8d.avif",
+      "archived": true,
+      "originalPath": "images/786aadc3f306ace6af0e8f8d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23961-524x350.jpg",
+      "path": "../../nenaudojama/condiments/images/030f5b38dcbf9aa9ec808569.avif",
+      "archived": true,
+      "originalPath": "images/030f5b38dcbf9aa9ec808569.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/5c3e101d87f4b52ebe381482.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Thick &amp; Sticky Maple Syrup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Thick &amp; Sticky Maple Syrup. Each serving comes out to be 60 calories, 5.4g fats, 0.4g net carbs, and 0g protein.",
+    "datePublished": "2014-02-22T19:15:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/maplesyrup.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "2 1/4 teaspoon coconut oil",
+      "1 tablespoon butter",
+      "1/4 teaspoon xanthan gum",
+      "1/4 cup erythritol",
+      "1/4 teaspoon ground cinnamon (optional)",
+      "3/4 cup water (filtered)",
+      "1/2 teaspoon vanilla extract",
+      "2 teaspoon maple extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a microwave-safe container, mix together the coconut oil, butter, and xanthan gum.",
+        "name": "In a microwave-safe container, mix together the coconut oil, butter, and xanthan gum.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23801.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave the oil and butter together for 40–50 seconds, until melted and hot.",
+        "name": "Microwave the oil and butter together for 40–50 seconds, until melted and hot.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23811.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a spice grinder to powder the erythritol. Let powder settle a little before removing lid. If using cinnamon, add it in now.",
+        "name": "Use a spice grinder to powder the erythritol. Let powder settle a little before removing lid. If using cinnamon, add it in now.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/P21354401.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the water and powdered erythritol to the butter and oil mixture.",
+        "name": "Add the water and powdered erythritol to the butter and oil mixture.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23861.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the vanilla and maple extracts. The strength of maple extracts may vary, so adjust the amount to taste.",
+        "name": "Add in the vanilla and maple extracts. The strength of maple extracts may vary, so adjust the amount to taste.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23881.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything together until well combined.",
+        "name": "Mix everything together until well combined.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23901.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave the mixture for 40–60 seconds and stir. Let cool before using.",
+        "name": "Microwave the mixture for 40–60 seconds and stir. Let cool before using.",
+        "url": "https://www.ruled.me/thick-sticky-maple-syrup/#wprm-recipe-50869-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_23961.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "60 kcal",
+      "fatContent": "5.4 g",
+      "carbohydrateContent": "0.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/thick-sticky-maple-syrup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/thick-sticky-maple-syrup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/thick-sticky-maple-syrup/"
+  },
+  "sourceIndex": {
+    "id": 9635,
+    "rid": 50869,
+    "t": "Thick and Sticky Maple Syrup",
+    "u": "/thick-sticky-maple-syrup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/maplesyrup.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.4,
+    "cal": 60,
+    "pr": 0,
+    "fa": 5.4,
+    "tm": 10,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free"
+    ],
+    "d": "2014-02-22",
+    "cm": 80,
+    "ex": "Oh the joys of maple syrup! Through the years, I've experimented and used many syrups that are low carb. Mrs. Butterworths Sugar Free Maple Syrup has always been a pleasure of mine to use, though I",
+    "pv": 944
+  },
+  "sourceHtml": "pages/thick-sticky-maple-syrup.html",
+  "scrapedAt": "2026-11-07T08:33:40.442Z"
+}

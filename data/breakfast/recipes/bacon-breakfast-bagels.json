@@ -1,0 +1,356 @@
+{
+  "id": "ruled-30856",
+  "slug": "bacon-breakfast-bagels",
+  "title": "Bacon Breakfast Bagels",
+  "url": "https://www.ruled.me/bacon-breakfast-bagels/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Bacon Breakfast Bagels. Each serving comes out to be 627 calories, 53.3g fats, 5.5g net carbs, and 28.6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "627 kcal",
+    "fatContent": "53.3 g",
+    "proteinContent": "28.6 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 627,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 28.6,
+    "fatGrams": 53.3
+  },
+  "ingredients": [
+    "3/4 cup almond flour",
+    "1 teaspoon xanthan gum",
+    "1 large egg",
+    "2 tablespoon cream cheese",
+    "1 1/2 cup mozzarella cheese (grated)",
+    "1 tablespoon butter (melted)",
+    "2 teaspoon sesame seeds",
+    "2 tablespoon cream cheese",
+    "2 tablespoon pesto",
+    "1 cup arugula",
+    "6 slice cooked bacon"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 390F. In a large bowl, combine the almond flour and xanthan gum. Add the egg and mix together until well combined — the mixture should resemble a doughy ball. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-01.jpg"
+    },
+    {
+      "text": "In a pot over a medium-low heat, slowly melt the cream cheese and mozzarella together. Remove from the heat once melted. Note: You can also use a microwave for this step.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-02.jpg"
+    },
+    {
+      "text": "Add the melted cheeses to the almond flour mixture and knead until well combined. The mozzarella mixture will stick together a bit at first, but just keep kneading it until well combined. It's important that the xanthan gum be well incorporated throughout the cheese mixture. If the dough gets too difficult to work with, microwave for 10–20 seconds to warm it and continue to knead until you have something that resembles a dough.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-03.jpg"
+    },
+    {
+      "text": "Split the dough into even pieces (one for each bagel) and roll these into logs. If you have a donut pan, place your logs in the pan. If not, make circles with each log, join them together, and place on a baking tray. Try to make sure you have nice little circles. The other way to do this is by making a ball, flattening it slightly on the baking tray and cutting a circle out of the middle with a small cookie cutter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-11.jpg"
+    },
+    {
+      "text": "Melt the butter and brush it over the top of your bagels. Sprinkle with the sesame seeds — the butter should help them stick. Optional: Feel free to add garlic powder, onion powder, or any other toppings of your choice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-12.jpg"
+    },
+    {
+      "text": "Place in the oven for about 18 minutes. Keep an eye on them — the tops should be golden brown. Remove from the oven and allow to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-13.jpg"
+    },
+    {
+      "text": "If you like your bagels toasted, cut them in half and place them back in the oven until slightly golden and toasty. Spread on some cream cheese and pesto, add a few arugula leaves, and top with the crispy bacon (or your filling of choice). Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "oven-baked",
+    "pork",
+    "quick",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "meal-prep",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/d76c814c66a5d65c4501c7be.avif",
+      "archived": true,
+      "originalPath": "images/d76c814c66a5d65c4501c7be.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-featured.jpg",
+      "path": "images/02cbd4af8130e13ec7a2e9c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/be4b01c0896ccd945909da31.avif",
+      "archived": true,
+      "originalPath": "images/be4b01c0896ccd945909da31.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/fbaa813937f8ac9fd61bac1c.avif",
+      "archived": true,
+      "originalPath": "images/fbaa813937f8ac9fd61bac1c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/d3841834d48aa5540b7c3fe3.jpg",
+      "archived": true,
+      "originalPath": "images/d3841834d48aa5540b7c3fe3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-11.jpg",
+      "path": "../../nenaudojama/breakfast/images/0ffa1bb4ee4a067e0efb8ca1.jpg",
+      "archived": true,
+      "originalPath": "images/0ffa1bb4ee4a067e0efb8ca1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-12.jpg",
+      "path": "../../nenaudojama/breakfast/images/77c6bae9a3be870206ff5ef0.avif",
+      "archived": true,
+      "originalPath": "images/77c6bae9a3be870206ff5ef0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-13.jpg",
+      "path": "../../nenaudojama/breakfast/images/67a4cbc4c46ad365c5d28401.jpg",
+      "archived": true,
+      "originalPath": "images/67a4cbc4c46ad365c5d28401.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/e5f4d2e79fda295624a95055.avif",
+      "archived": true,
+      "originalPath": "images/e5f4d2e79fda295624a95055.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-06.jpg",
+      "path": "../../nenaudojama/breakfast/images/74be7008e5fddaf9ee45eaa1.avif",
+      "archived": true,
+      "originalPath": "images/74be7008e5fddaf9ee45eaa1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/32df6dec4e75fbb01862ad7e.avif",
+      "archived": true,
+      "originalPath": "images/32df6dec4e75fbb01862ad7e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f075fae9b01326d658398885.avif",
+      "archived": true,
+      "originalPath": "images/f075fae9b01326d658398885.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e6c5e3996a13f67ece8c9d46.avif",
+      "archived": true,
+      "originalPath": "images/e6c5e3996a13f67ece8c9d46.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a4d429238e866c3f3e03fdfd.avif",
+      "archived": true,
+      "originalPath": "images/a4d429238e866c3f3e03fdfd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-11-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/954e7b82e97ad48bc16361f1.avif",
+      "archived": true,
+      "originalPath": "images/954e7b82e97ad48bc16361f1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-12-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4ab170ae30ab83c8de5f91cb.avif",
+      "archived": true,
+      "originalPath": "images/4ab170ae30ab83c8de5f91cb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-13-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7b0b8c899b1a3788034bdeea.avif",
+      "archived": true,
+      "originalPath": "images/7b0b8c899b1a3788034bdeea.avif"
+    }
+  ],
+  "featuredImage": "images/02cbd4af8130e13ec7a2e9c4.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon Breakfast Bagels",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Bacon Breakfast Bagels. Each serving comes out to be 627 calories, 53.3g fats, 5.5g net carbs, and 28.6g protein.",
+    "datePublished": "2017-06-08T11:00:19+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "3/4 cup almond flour",
+      "1 teaspoon xanthan gum",
+      "1 large egg",
+      "2 tablespoon cream cheese",
+      "1 1/2 cup mozzarella cheese (grated)",
+      "1 tablespoon butter (melted)",
+      "2 teaspoon sesame seeds",
+      "2 tablespoon cream cheese",
+      "2 tablespoon pesto",
+      "1 cup arugula",
+      "6 slice cooked bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 390F. In a large bowl, combine the almond flour and xanthan gum. Add the egg and mix together until well combined — the mixture should resemble a doughy ball. Set aside.",
+        "name": "Preheat oven to 390F. In a large bowl, combine the almond flour and xanthan gum. Add the egg and mix together until well combined — the mixture should resemble a doughy ball. Set aside.",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pot over a medium-low heat, slowly melt the cream cheese and mozzarella together. Remove from the heat once melted. Note: You can also use a microwave for this step.",
+        "name": "In a pot over a medium-low heat, slowly melt the cream cheese and mozzarella together. Remove from the heat once melted. Note: You can also use a microwave for this step.",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the melted cheeses to the almond flour mixture and knead until well combined. The mozzarella mixture will stick together a bit at first, but just keep kneading it until well combined. It's important that the xanthan gum be well incorporated throughout the cheese mixture. If the dough gets too difficult to work with, microwave for 10–20 seconds to warm it and continue to knead until you have something that resembles a dough.",
+        "name": "Add the melted cheeses to the almond flour mixture and knead until well combined. The mozzarella mixture will stick together a bit at first, but just keep kneading it until well combined. It's important that the xanthan gum be well incorporated throughout the cheese mixture. If the dough gets too difficult to work with, microwave for 10–20 seconds to warm it and continue to knead until you have something that resembles a dough.",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Split the dough into even pieces (one for each bagel) and roll these into logs. If you have a donut pan, place your logs in the pan. If not, make circles with each log, join them together, and place on a baking tray. Try to make sure you have nice little circles. The other way to do this is by making a ball, flattening it slightly on the baking tray and cutting a circle out of the middle with a small cookie cutter.",
+        "name": "Split the dough into even pieces (one for each bagel) and roll these into logs. If you have a donut pan, place your logs in the pan. If not, make circles with each log, join them together, and place on a baking tray. Try to make sure you have nice little circles. The other way to do this is by making a ball, flattening it slightly on the baking tray and cutting a circle out of the middle with a small cookie cutter.",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter and brush it over the top of your bagels. Sprinkle with the sesame seeds — the butter should help them stick. Optional: Feel free to add garlic powder, onion powder, or any other toppings of your choice.",
+        "name": "Melt the butter and brush it over the top of your bagels. Sprinkle with the sesame seeds — the butter should help them stick. Optional: Feel free to add garlic powder, onion powder, or any other toppings of your choice.",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the oven for about 18 minutes. Keep an eye on them — the tops should be golden brown. Remove from the oven and allow to cool.",
+        "name": "Place in the oven for about 18 minutes. Keep an eye on them — the tops should be golden brown. Remove from the oven and allow to cool.",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If you like your bagels toasted, cut them in half and place them back in the oven until slightly golden and toasty. Spread on some cream cheese and pesto, add a few arugula leaves, and top with the crispy bacon (or your filling of choice). Enjoy!",
+        "name": "If you like your bagels toasted, cut them in half and place them back in the oven until slightly golden and toasty. Spread on some cream cheese and pesto, add a few arugula leaves, and top with the crispy bacon (or your filling of choice). Enjoy!",
+        "url": "https://www.ruled.me/bacon-breakfast-bagels/#wprm-recipe-52217-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, oven-baked, pork, quick, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "627 kcal",
+      "fatContent": "53.3 g",
+      "proteinContent": "28.6 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-breakfast-bagels/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-breakfast-bagels/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-breakfast-bagels/"
+  },
+  "sourceIndex": {
+    "id": 30856,
+    "rid": 52217,
+    "t": "Bacon Breakfast Bagels",
+    "u": "/bacon-breakfast-bagels/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/06/bacon-breakfast-bagels-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.5,
+    "cal": 627,
+    "pr": 28.6,
+    "fa": 53.3,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "oven-baked",
+      "pork",
+      "quick",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "oven-baked",
+      "meal-prep",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2017-06-08",
+    "cm": 48,
+    "ex": "Who else misses nice toasted breakfast bagels? They are the best! Well you no longer have to miss these little circles of happiness. These keto friendly bagels are surprisingly good! I can’t wait to",
+    "pv": 322
+  },
+  "sourceHtml": "pages/bacon-breakfast-bagels.html",
+  "scrapedAt": "2026-11-07T08:11:12.754Z"
+}

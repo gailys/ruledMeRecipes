@@ -1,0 +1,413 @@
+{
+  "id": "ruled-3810",
+  "slug": "low-carb-crispy-fried-chicken",
+  "title": "Low-Carb Crispy Fried Chicken",
+  "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Low-Carb Crispy Fried Chicken. Each serving comes out to be 586 calories, 33g fats, 1.3g net carbs, and 66.7g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "586 kcal",
+    "fatContent": "33 g",
+    "proteinContent": "66.7 g",
+    "carbohydrateContent": "1.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 586,
+    "netCarbsGrams": 1.3,
+    "proteinGrams": 66.7,
+    "fatGrams": 33
+  },
+  "ingredients": [
+    "1/2 cup pork rinds (BBQ flavor, crushed)",
+    "12 ounce boneless, skinless chicken breast (sliced in half)",
+    "1/3 cup parmesan cheese (shredded)",
+    "1 teaspoon black pepper",
+    "1 large egg",
+    "1 1/2 tablespoon olive oil",
+    "1 tablespoon coconut oil"
+  ],
+  "instructions": [
+    {
+      "text": "Crush up the pork rinds in a Ziploc bag. Use BBQ-flavored pork rinds for a great punch of flavor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-2.jpg"
+    },
+    {
+      "text": "In a bowl, mix the crushed pork rinds, parmesan, and pepper together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4.jpg"
+    },
+    {
+      "text": "In a separate bowl, crack the egg and whisk well. Dip each piece of chicken into the egg mixture and then the pork rind crumb mixture. Do this twice for each piece to get a nice crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4a.jpg"
+    },
+    {
+      "text": "Heat up the olive oil and coconut oil in a pan over medium-high heat. Once hot, place the chicken in the pan. Let it sit a while without touching, almost until burning, to ensure the crust gets nice and crisp.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4b.jpg"
+    },
+    {
+      "text": "Once the crust is browned, flip over and cook on the other side. Once browned, flip the chicken back over.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4c.jpg"
+    },
+    {
+      "text": "Turn the heat down to the lowest setting and let the chicken cook for about 6–7 minutes per side (depending on thickness of the chicken breast).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-15.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "poultry",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/43b0caca21c473ee08722e91.avif",
+      "archived": true,
+      "originalPath": "images/43b0caca21c473ee08722e91.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-featured.jpg",
+      "path": "images/d6810da737f02eb096b6639f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-2.jpg",
+      "path": "../../nenaudojama/dinner/images/3fe2c0ccbda4a81381c42b26.avif",
+      "archived": true,
+      "originalPath": "images/3fe2c0ccbda4a81381c42b26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4.jpg",
+      "path": "../../nenaudojama/dinner/images/b837318b93cba85503589a12.avif",
+      "archived": true,
+      "originalPath": "images/b837318b93cba85503589a12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4a.jpg",
+      "path": "../../nenaudojama/dinner/images/2c8397a0aaf3f929a4ed2271.avif",
+      "archived": true,
+      "originalPath": "images/2c8397a0aaf3f929a4ed2271.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4b.jpg",
+      "path": "../../nenaudojama/dinner/images/bef2f49bdc2b6f8e1c76e4fc.jpg",
+      "archived": true,
+      "originalPath": "images/bef2f49bdc2b6f8e1c76e4fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4c.jpg",
+      "path": "../../nenaudojama/dinner/images/341a2d354720757a587e566f.avif",
+      "archived": true,
+      "originalPath": "images/341a2d354720757a587e566f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-5.jpg",
+      "path": "../../nenaudojama/dinner/images/a8d65f495eefc8fc304f6cac.avif",
+      "archived": true,
+      "originalPath": "images/a8d65f495eefc8fc304f6cac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-15.jpg",
+      "path": "../../nenaudojama/dinner/images/5ed7844b3f741fadd7d90afd.avif",
+      "archived": true,
+      "originalPath": "images/5ed7844b3f741fadd7d90afd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-2nd.jpg",
+      "path": "../../nenaudojama/dinner/images/1c2620936dbbfe59d181a898.avif",
+      "archived": true,
+      "originalPath": "images/1c2620936dbbfe59d181a898.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-6.jpg",
+      "path": "../../nenaudojama/dinner/images/9ff07d9c110b4e7962d8e08e.jpg",
+      "archived": true,
+      "originalPath": "images/9ff07d9c110b4e7962d8e08e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-19.jpg",
+      "path": "../../nenaudojama/dinner/images/3883a71f9e4acc03336550de.avif",
+      "archived": true,
+      "originalPath": "images/3883a71f9e4acc03336550de.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/75122da0a58e3f13ecd8f647.avif",
+      "archived": true,
+      "originalPath": "images/75122da0a58e3f13ecd8f647.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2ba0b6e8bfde8a81be25d8fa.avif",
+      "archived": true,
+      "originalPath": "images/2ba0b6e8bfde8a81be25d8fa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4a-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/58d7c8cc6ef5c2cd2916167d.avif",
+      "archived": true,
+      "originalPath": "images/58d7c8cc6ef5c2cd2916167d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4b-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c02fb974d49b1d71ecb393b9.avif",
+      "archived": true,
+      "originalPath": "images/c02fb974d49b1d71ecb393b9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4c-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ae99cf24f78fcdeb23e7ecc7.avif",
+      "archived": true,
+      "originalPath": "images/ae99cf24f78fcdeb23e7ecc7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ec325a7c85f3725cf8987033.avif",
+      "archived": true,
+      "originalPath": "images/ec325a7c85f3725cf8987033.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-15-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/df32b671e0f5864d76989aa9.avif",
+      "archived": true,
+      "originalPath": "images/df32b671e0f5864d76989aa9.avif"
+    }
+  ],
+  "featuredImage": "images/d6810da737f02eb096b6639f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Crispy Fried Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Low-Carb Crispy Fried Chicken. Each serving comes out to be 586 calories, 33g fats, 1.3g net carbs, and 66.7g protein.",
+    "datePublished": "2013-12-08T18:42:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Crispy Fried Chicken Recipe",
+      "description": "This crispy fried chicken is coated with keto friendly pork rinds!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n12 ounces chicken breast, cut in half\n½ cup crushed pork rinds\n1/3 cup shredded Parmesan cheese\n1 large egg\n1 teaspoon pepper\n1 ½ tablespoons olive oil\n1 tablespoon coconut oil\n\nNutrition Summary:\nThis makes a total of 2 servings of Low Carb Crispy Fried Chicken. Each serving comes out to be 575 Calories, 32.11g Fats, 1.07g Net Carbs, and 66.04g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-03-18T22:00:02+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT1M44S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 300458
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 3527
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 266
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ChVtJ8-9TnE/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ChVtJ8-9TnE?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=ChVtJ8-9TnE",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1/2 cup pork rinds (BBQ flavor, crushed)",
+      "12 ounce boneless, skinless chicken breast (sliced in half)",
+      "1/3 cup parmesan cheese (shredded)",
+      "1 teaspoon black pepper",
+      "1 large egg",
+      "1 1/2 tablespoon olive oil",
+      "1 tablespoon coconut oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Crush up the pork rinds in a Ziploc bag. Use BBQ-flavored pork rinds for a great punch of flavor.",
+        "name": "Crush up the pork rinds in a Ziploc bag. Use BBQ-flavored pork rinds for a great punch of flavor.",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the crushed pork rinds, parmesan, and pepper together well.",
+        "name": "In a bowl, mix the crushed pork rinds, parmesan, and pepper together well.",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, crack the egg and whisk well. Dip each piece of chicken into the egg mixture and then the pork rind crumb mixture. Do this twice for each piece to get a nice crust.",
+        "name": "In a separate bowl, crack the egg and whisk well. Dip each piece of chicken into the egg mixture and then the pork rind crumb mixture. Do this twice for each piece to get a nice crust.",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4a.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the olive oil and coconut oil in a pan over medium-high heat. Once hot, place the chicken in the pan. Let it sit a while without touching, almost until burning, to ensure the crust gets nice and crisp.",
+        "name": "Heat up the olive oil and coconut oil in a pan over medium-high heat. Once hot, place the chicken in the pan. Let it sit a while without touching, almost until burning, to ensure the crust gets nice and crisp.",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4b.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the crust is browned, flip over and cook on the other side. Once browned, flip the chicken back over.",
+        "name": "Once the crust is browned, flip over and cook on the other side. Once browned, flip the chicken back over.",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-4c.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the heat down to the lowest setting and let the chicken cook for about 6–7 minutes per side (depending on thickness of the chicken breast).",
+        "name": "Turn the heat down to the lowest setting and let the chicken cook for about 6–7 minutes per side (depending on thickness of the chicken breast).",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/low-carb-crispy-fried-chicken/#wprm-recipe-50521-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-15.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "586 kcal",
+      "fatContent": "33 g",
+      "proteinContent": "66.7 g",
+      "carbohydrateContent": "1.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-crispy-fried-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-crispy-fried-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-crispy-fried-chicken/"
+  },
+  "sourceIndex": {
+    "id": 3810,
+    "rid": 50521,
+    "t": "Low Carb Crispy Fried Chicken",
+    "u": "/low-carb-crispy-fried-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/crispy-fried-chicken-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.3,
+    "cal": 586,
+    "pr": 66.7,
+    "fa": 33,
+    "tm": 30,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "poultry",
+      "pork"
+    ],
+    "d": "2013-12-08",
+    "cm": 28,
+    "ex": "Remember those Cheddar and Bacon BBQ Meatballs that I made the other day? Well, I had leftover pork rinds from crushing them up - so I decided that I would make some fried chicken with it",
+    "pv": 2643
+  },
+  "sourceHtml": "pages/low-carb-crispy-fried-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:45.332Z"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "ruled-10996",
+  "slug": "chai-spice-keto-mug-cake",
+  "title": "Keto Chai Spice Mug Cake",
+  "url": "https://www.ruled.me/chai-spice-keto-mug-cake/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Chai Spice Mug Cake. The serving comes out to be 450 calories, 41.9g fats, 4.5g net carbs, and 12.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450 kcal",
+    "fatContent": "41.9 g",
+    "proteinContent": "12.6 g",
+    "carbohydrateContent": "4.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 450,
+    "netCarbsGrams": 4.5,
+    "proteinGrams": 12.6,
+    "fatGrams": 41.9
+  },
+  "ingredients": [
+    "1 large egg",
+    "2 tablespoon almond flour",
+    "1 tablespoon erythritol",
+    "7 drop liquid stevia",
+    "2 tablespoon butter (room temperature)",
+    "1/2 teaspoon baking powder",
+    "2 tablespoon almond flour",
+    "1/4 teaspoon ground cinnamon",
+    "1/4 teaspoon ground ginger",
+    "1/4 teaspoon ground cloves",
+    "1/4 teaspoon cardamom",
+    "1/4 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Get a mug ready! Of course, I chose this fitting holiday mug to show off my love for chai!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4303.jpg"
+    },
+    {
+      "text": "Mix together the egg, almond flour, erythritol, and stevia.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4309.jpg"
+    },
+    {
+      "text": "Add the butter and baking powder and mix again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4326.jpg"
+    },
+    {
+      "text": "Add the spices and flavorings — almond flour, cinnamon, ginger, cloves, cardamom, and vanilla extract. Mix until fully combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4338.jpg"
+    },
+    {
+      "text": "Microwave on high (power level 10) for 70 seconds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4391.jpg"
+    },
+    {
+      "text": "Turn the mug upside down and lightly tap it against a plate. The cake should slide out in one piece.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/chaispice.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chaispice.jpg",
+      "path": "images/a1c609c3cf2664a9a47b2038.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4303.jpg",
+      "path": "../../nenaudojama/dessert/images/d4a78665c181f7012a5c2c35.avif",
+      "archived": true,
+      "originalPath": "images/d4a78665c181f7012a5c2c35.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4309.jpg",
+      "path": "../../nenaudojama/dessert/images/bb7ca830b75a2ec9c2cf040c.avif",
+      "archived": true,
+      "originalPath": "images/bb7ca830b75a2ec9c2cf040c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4326.jpg",
+      "path": "../../nenaudojama/dessert/images/21dd945bd5c371da3819051a.avif",
+      "archived": true,
+      "originalPath": "images/21dd945bd5c371da3819051a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4338.jpg",
+      "path": "../../nenaudojama/dessert/images/b0c84a052df89f5685fb5630.avif",
+      "archived": true,
+      "originalPath": "images/b0c84a052df89f5685fb5630.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4391.jpg",
+      "path": "../../nenaudojama/dessert/images/180d674834fead6e597a5a79.avif",
+      "archived": true,
+      "originalPath": "images/180d674834fead6e597a5a79.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chaispicesecond.jpg",
+      "path": "../../nenaudojama/dessert/images/b9c7a29e13464a32095dc75f.avif",
+      "archived": true,
+      "originalPath": "images/b9c7a29e13464a32095dc75f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4303-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4c23bbae6f7e876877bef173.avif",
+      "archived": true,
+      "originalPath": "images/4c23bbae6f7e876877bef173.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4309-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/160bf30448b12e32910f3798.jpg",
+      "archived": true,
+      "originalPath": "images/160bf30448b12e32910f3798.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4326-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/518b307875f0fa9e94f1c063.avif",
+      "archived": true,
+      "originalPath": "images/518b307875f0fa9e94f1c063.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4338-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a57166be53803a78607e2e1b.avif",
+      "archived": true,
+      "originalPath": "images/a57166be53803a78607e2e1b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4391-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d3f1d58eae6a97c57be39df0.avif",
+      "archived": true,
+      "originalPath": "images/d3f1d58eae6a97c57be39df0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chaispice-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/421bc94412f91209ba3f7685.avif",
+      "archived": true,
+      "originalPath": "images/421bc94412f91209ba3f7685.avif"
+    }
+  ],
+  "featuredImage": "images/a1c609c3cf2664a9a47b2038.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chai Spice Mug Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Chai Spice Mug Cake. The serving comes out to be 450 calories, 41.9g fats, 4.5g net carbs, and 12.6g protein.",
+    "datePublished": "2014-03-10T16:29:07+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/chaispice.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 large egg",
+      "2 tablespoon almond flour",
+      "1 tablespoon erythritol",
+      "7 drop liquid stevia",
+      "2 tablespoon butter (room temperature)",
+      "1/2 teaspoon baking powder",
+      "2 tablespoon almond flour",
+      "1/4 teaspoon ground cinnamon",
+      "1/4 teaspoon ground ginger",
+      "1/4 teaspoon ground cloves",
+      "1/4 teaspoon cardamom",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get a mug ready! Of course, I chose this fitting holiday mug to show off my love for chai!",
+        "name": "Get a mug ready! Of course, I chose this fitting holiday mug to show off my love for chai!",
+        "url": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4303.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the egg, almond flour, erythritol, and stevia.",
+        "name": "Mix together the egg, almond flour, erythritol, and stevia.",
+        "url": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4309.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter and baking powder and mix again.",
+        "name": "Add the butter and baking powder and mix again.",
+        "url": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4326.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the spices and flavorings — almond flour, cinnamon, ginger, cloves, cardamom, and vanilla extract. Mix until fully combined.",
+        "name": "Add the spices and flavorings — almond flour, cinnamon, ginger, cloves, cardamom, and vanilla extract. Mix until fully combined.",
+        "url": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4338.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave on high (power level 10) for 70 seconds.",
+        "name": "Microwave on high (power level 10) for 70 seconds.",
+        "url": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4391.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the mug upside down and lightly tap it against a plate. The cake should slide out in one piece.",
+        "name": "Turn the mug upside down and lightly tap it against a plate. The cake should slide out in one piece.",
+        "url": "https://www.ruled.me/chai-spice-keto-mug-cake/#wprm-recipe-50929-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/chaispice.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Cakes",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "Indian"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "450 kcal",
+      "fatContent": "41.9 g",
+      "proteinContent": "12.6 g",
+      "carbohydrateContent": "4.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chai-spice-keto-mug-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chai-spice-keto-mug-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chai-spice-keto-mug-cake/"
+  },
+  "sourceIndex": {
+    "id": 10996,
+    "rid": 50929,
+    "t": "Chai Spice Keto Mug Cake",
+    "u": "/chai-spice-keto-mug-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/chaispice.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.5,
+    "cal": 450,
+    "pr": 12.6,
+    "fa": 41.9,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 12,
+    "fk": [
+      "vegetarian"
+    ],
+    "d": "2014-03-10",
+    "cm": 33,
+    "ex": "So I know you guys loved my chocolate mug cake! I am starting a series over the next 2 weeks that will solely be mug cakes. It will be one full week of sweet mug cakes, and one full week of savory",
+    "pv": 382
+  },
+  "sourceHtml": "pages/chai-spice-keto-mug-cake.html",
+  "scrapedAt": "2026-11-07T08:30:47.591Z"
+}

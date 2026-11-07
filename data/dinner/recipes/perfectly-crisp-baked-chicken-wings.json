@@ -1,0 +1,319 @@
+{
+  "id": "ruled-26044",
+  "slug": "perfectly-crisp-baked-chicken-wings",
+  "title": "Perfectly Crisp Baked Chicken Wings",
+  "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 20 servings of Perfectly Crisp Baked Chicken Wings. Each serving comes out to be 193 calories, 13.9g fats, 0.1g net carbs, and 16.4g protein.",
+  "servings": 20,
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "prepTime": "PT500M",
+  "cookTime": "PT35M",
+  "totalTime": "PT535M",
+  "totalMinutes": 535,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "fatContent": "13.9 g",
+    "proteinContent": "16.4 g",
+    "carbohydrateContent": "0.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 193,
+    "netCarbsGrams": 0.1,
+    "proteinGrams": 16.4,
+    "fatGrams": 13.9
+  },
+  "ingredients": [
+    "48 ounce bone-in chicken wings",
+    "2 teaspoon baking powder",
+    "1 teaspoon baking soda",
+    "1 tablespoon salt",
+    "1/4 cup butter (melted)"
+  ],
+  "instructions": [
+    {
+      "text": "Place the chicken wings in a plastic bag. In a small bowl, mix together the baking powder, baking soda, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_0359.jpg"
+    },
+    {
+      "text": "Pour the baking powder mixture into the bag with the chicken wings. Shake the bag very well to ensure that the wings are completely coated in the mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_0363.jpg"
+    },
+    {
+      "text": "Place the chicken wings on a wire rack and leave in the fridge overnight. This helps dry them out and breaks down the peptide bonds in the proteins of the chicken to give a crispier end result.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_0369.jpg"
+    },
+    {
+      "text": "The next day, place a baking tray with a rack in the upper-middle part of the oven and preheat it to 450F. Once heated, place the chicken wings on the rack and bake for 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_0372.jpg"
+    },
+    {
+      "text": "Remove from the oven and flip over. Bake for another 15 minutes or until very crisp.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/05/img_0379.jpg"
+    },
+    {
+      "text": "Toss with melted butter. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "egg-free",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "make-ahead",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/crispychickenwings.jpg",
+      "path": "images/bdf77099af40f14cb8ddd7c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0359.jpg",
+      "path": "../../nenaudojama/dinner/images/d21092a805bec95a6cd826bf.avif",
+      "archived": true,
+      "originalPath": "images/d21092a805bec95a6cd826bf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0363.jpg",
+      "path": "../../nenaudojama/dinner/images/03779368407c8b17560e57ed.jpg",
+      "archived": true,
+      "originalPath": "images/03779368407c8b17560e57ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0369.jpg",
+      "path": "../../nenaudojama/dinner/images/32701da85edc69759dc6e037.avif",
+      "archived": true,
+      "originalPath": "images/32701da85edc69759dc6e037.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0372.jpg",
+      "path": "../../nenaudojama/dinner/images/4232eaf58c3e3ee8f8f50fce.avif",
+      "archived": true,
+      "originalPath": "images/4232eaf58c3e3ee8f8f50fce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0379.jpg",
+      "path": "../../nenaudojama/dinner/images/af166522d4bc5a362a2dc892.jpg",
+      "archived": true,
+      "originalPath": "images/af166522d4bc5a362a2dc892.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/crispychickenwingssecond.jpg",
+      "path": "../../nenaudojama/dinner/images/6a93204c9c5052e292cd1f43.avif",
+      "archived": true,
+      "originalPath": "images/6a93204c9c5052e292cd1f43.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/crispychickenwingslong.jpg",
+      "path": "../../nenaudojama/dinner/images/2a6824b9ce50daad8ebb9a2d.avif",
+      "archived": true,
+      "originalPath": "images/2a6824b9ce50daad8ebb9a2d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0359-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/061418f26d815cec2faa747a.jpg",
+      "archived": true,
+      "originalPath": "images/061418f26d815cec2faa747a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0363-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2e0394e8426d28036aee337b.jpg",
+      "archived": true,
+      "originalPath": "images/2e0394e8426d28036aee337b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0369-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/acbe30ad2a2dfe5bf71b8527.jpg",
+      "archived": true,
+      "originalPath": "images/acbe30ad2a2dfe5bf71b8527.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0372-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ef8f93af85ed1c444c85be81.jpg",
+      "archived": true,
+      "originalPath": "images/ef8f93af85ed1c444c85be81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/05/img_0379-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b6b0e0701745fc2243fdf2f9.jpg",
+      "archived": true,
+      "originalPath": "images/b6b0e0701745fc2243fdf2f9.jpg"
+    }
+  ],
+  "featuredImage": "images/bdf77099af40f14cb8ddd7c6.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Perfectly Crisp Baked Chicken Wings",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 20 servings of Perfectly Crisp Baked Chicken Wings. Each serving comes out to be 193 calories, 13.9g fats, 0.1g net carbs, and 16.4g protein.",
+    "datePublished": "2015-05-12T15:39:58+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/05/crispychickenwings.jpg"
+    ],
+    "recipeYield": [
+      "20",
+      "20 servings"
+    ],
+    "prepTime": "PT500M",
+    "cookTime": "PT35M",
+    "totalTime": "PT535M",
+    "recipeIngredient": [
+      "48 ounce bone-in chicken wings",
+      "2 teaspoon baking powder",
+      "1 teaspoon baking soda",
+      "1 tablespoon salt",
+      "1/4 cup butter (melted)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken wings in a plastic bag. In a small bowl, mix together the baking powder, baking soda, and salt.",
+        "name": "Place the chicken wings in a plastic bag. In a small bowl, mix together the baking powder, baking soda, and salt.",
+        "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_0359.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the baking powder mixture into the bag with the chicken wings. Shake the bag very well to ensure that the wings are completely coated in the mixture.",
+        "name": "Pour the baking powder mixture into the bag with the chicken wings. Shake the bag very well to ensure that the wings are completely coated in the mixture.",
+        "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_0363.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken wings on a wire rack and leave in the fridge overnight. This helps dry them out and breaks down the peptide bonds in the proteins of the chicken to give a crispier end result.",
+        "name": "Place the chicken wings on a wire rack and leave in the fridge overnight. This helps dry them out and breaks down the peptide bonds in the proteins of the chicken to give a crispier end result.",
+        "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_0369.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The next day, place a baking tray with a rack in the upper-middle part of the oven and preheat it to 450F. Once heated, place the chicken wings on the rack and bake for 20 minutes.",
+        "name": "The next day, place a baking tray with a rack in the upper-middle part of the oven and preheat it to 450F. Once heated, place the chicken wings on the rack and bake for 20 minutes.",
+        "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_0372.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and flip over. Bake for another 15 minutes or until very crisp.",
+        "name": "Remove from the oven and flip over. Bake for another 15 minutes or until very crisp.",
+        "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/05/img_0379.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss with melted butter. Serve and enjoy!",
+        "name": "Toss with melted butter. Serve and enjoy!",
+        "url": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#wprm-recipe-51689-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, egg-free, family-friendly, game-day, gluten-free, keto, low-carb, make-ahead, nut-free, oven-baked, party-food, poultry, simple &amp; easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "193 kcal",
+      "fatContent": "13.9 g",
+      "proteinContent": "16.4 g",
+      "carbohydrateContent": "0.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/perfectly-crisp-baked-chicken-wings/"
+  },
+  "sourceIndex": {
+    "id": 26044,
+    "rid": 51689,
+    "t": "Perfectly Crisp Baked Chicken Wings",
+    "u": "/perfectly-crisp-baked-chicken-wings/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/05/crispychickenwings.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 0.1,
+    "cal": 193,
+    "pr": 16.4,
+    "fa": 13.9,
+    "tm": 535,
+    "sv": 20,
+    "kw": [
+      "batch-cooking",
+      "egg-free",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "make-ahead",
+      "poultry"
+    ],
+    "d": "2015-05-12",
+    "cm": 37,
+    "ex": "I've made plenty of wings in the past, and though they were semi-crisp, I wanted them really crisp. The same sensation you get when deep frying - the crunch that really leaves a lasting impression",
+    "pv": 881
+  },
+  "sourceHtml": "pages/perfectly-crisp-baked-chicken-wings.html",
+  "scrapedAt": "2026-11-07T08:27:44.872Z"
+}

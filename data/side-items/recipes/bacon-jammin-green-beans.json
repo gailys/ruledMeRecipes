@@ -1,0 +1,300 @@
+{
+  "id": "ruled-8973",
+  "slug": "bacon-jammin-green-beans",
+  "title": "Bacon Jammin’ Green Beans",
+  "url": "https://www.ruled.me/bacon-jammin-green-beans/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "Per Serving, they have: 158.55 Calories, 11.31g Fats, 6.88g Net Carbs, and 4.81g Protein.",
+  "servings": 3,
+  "yield": [
+    "3"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158.55 kcal",
+    "fatContent": "11.31 g",
+    "proteinContent": "4.81 g",
+    "carbohydrateContent": "6.88 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 158.55,
+    "netCarbsGrams": 6.88,
+    "proteinGrams": 4.81,
+    "fatGrams": 11.31
+  },
+  "ingredients": [
+    "2 ½ cups fresh green beans (~425g)",
+    "3 tablespoons bacon jam",
+    "1 tablespoon olive oil"
+  ],
+  "instructions": [
+    {
+      "text": "Bring water to boil on the stove.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Add your green beans and boil for 3-4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Drain your green beans and put them in an ice bath for 2-3 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "In a pan, bring 3 Tbsp. Bacon Jam and 1 Tbsp. Olive Oil to a sizzle.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Drain your green beans again, dry them, and add them to the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Stir everything together, let cook for 1-2 minutes, then serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacongreenbeans.jpg",
+      "path": "../../nenaudojama/side-items/images/d7fccfcffe9a891620015879.jpg",
+      "archived": true,
+      "originalPath": "images/d7fccfcffe9a891620015879.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacongreenbeanssecond.jpg",
+      "path": "../../nenaudojama/side-items/images/8f8e1e4effca38f9c0988a57.jpg",
+      "archived": true,
+      "originalPath": "images/8f8e1e4effca38f9c0988a57.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1277.jpg",
+      "path": "../../nenaudojama/side-items/images/80f89e40c783efec0147a7fd.jpg",
+      "archived": true,
+      "originalPath": "images/80f89e40c783efec0147a7fd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1278.jpg",
+      "path": "../../nenaudojama/side-items/images/1803b63708e1320137d0160e.jpg",
+      "archived": true,
+      "originalPath": "images/1803b63708e1320137d0160e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/IMG_1283.jpg",
+      "path": "../../nenaudojama/side-items/images/3219e8c53ca3b11954c0933e.jpg",
+      "archived": true,
+      "originalPath": "images/3219e8c53ca3b11954c0933e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P2165740.jpg",
+      "path": "../../nenaudojama/side-items/images/bfc79f883edb495386cc8a5e.jpg",
+      "archived": true,
+      "originalPath": "images/bfc79f883edb495386cc8a5e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P2165745.jpg",
+      "path": "../../nenaudojama/side-items/images/0e58d715add2bcecae28aefe.jpg",
+      "archived": true,
+      "originalPath": "images/0e58d715add2bcecae28aefe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P2165749.jpg",
+      "path": "../../nenaudojama/side-items/images/34042a278dffdaa7305efd0a.jpg",
+      "archived": true,
+      "originalPath": "images/34042a278dffdaa7305efd0a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P2165747.jpg",
+      "path": "../../nenaudojama/side-items/images/78499ef867d1bbeed24623d1.jpg",
+      "archived": true,
+      "originalPath": "images/78499ef867d1bbeed24623d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P2165750.jpg",
+      "path": "../../nenaudojama/side-items/images/8b9e6d707104f27525ec9672.jpg",
+      "archived": true,
+      "originalPath": "images/8b9e6d707104f27525ec9672.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/P2165753.jpg",
+      "path": "../../nenaudojama/side-items/images/6a7222f142589d383ab1a841.jpg",
+      "archived": true,
+      "originalPath": "images/6a7222f142589d383ab1a841.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacongreenbeans1.jpg",
+      "path": "../../nenaudojama/side-items/images/5e3588a99973dcb9b826a570.jpg",
+      "archived": true,
+      "originalPath": "images/5e3588a99973dcb9b826a570.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/d7fccfcffe9a891620015879.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon Jammin’ Green Beans",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "Per Serving, they have: 158.55 Calories, 11.31g Fats, 6.88g Net Carbs, and 4.81g Protein.",
+    "datePublished": "2014-02-17T16:13:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/bacongreenbeans.jpg"
+    ],
+    "recipeYield": [
+      "3"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 ½ cups fresh green beans (~425g)",
+      "3 tablespoons bacon jam",
+      "1 tablespoon olive oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Bring water to boil on the stove.",
+        "name": "Bring water to boil on the stove.",
+        "url": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add your green beans and boil for 3-4 minutes.",
+        "name": "Add your green beans and boil for 3-4 minutes.",
+        "url": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain your green beans and put them in an ice bath for 2-3 minutes.",
+        "name": "Drain your green beans and put them in an ice bath for 2-3 minutes.",
+        "url": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, bring 3 Tbsp. Bacon Jam and 1 Tbsp. Olive Oil to a sizzle.",
+        "name": "In a pan, bring 3 Tbsp. Bacon Jam and 1 Tbsp. Olive Oil to a sizzle.",
+        "url": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain your green beans again, dry them, and add them to the pan.",
+        "name": "Drain your green beans again, dry them, and add them to the pan.",
+        "url": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir everything together, let cook for 1-2 minutes, then serve.",
+        "name": "Stir everything together, let cook for 1-2 minutes, then serve.",
+        "url": "https://www.ruled.me/bacon-jammin-green-beans/#wprm-recipe-50315-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, pork, quick, simple &amp; easy, simple-and-easy, stovetop",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "158.55 kcal",
+      "fatContent": "11.31 g",
+      "proteinContent": "4.81 g",
+      "carbohydrateContent": "6.88 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-jammin-green-beans/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-jammin-green-beans/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-jammin-green-beans/"
+  },
+  "sourceIndex": {
+    "id": 8973,
+    "rid": 50315,
+    "t": "Bacon Jammin’ Green Beans",
+    "u": "/bacon-jammin-green-beans/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/bacongreenbeans.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 6.88,
+    "cal": 158.55,
+    "pr": 4.81,
+    "fa": 11.31,
+    "tm": 15,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop"
+    ],
+    "ni": 3,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2014-02-17",
+    "cm": 0,
+    "ex": "Green beans are one of my favorite things to eat when they're fresh, and I just don't eat enough of them. When I get them, I almost always pair them with bacon. Yeah, sure, they're awesome with",
+    "pv": 317
+  },
+  "sourceHtml": "pages/bacon-jammin-green-beans.html",
+  "scrapedAt": "2026-11-07T08:33:03.990Z"
+}

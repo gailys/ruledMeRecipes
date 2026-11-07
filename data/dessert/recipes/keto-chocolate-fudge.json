@@ -1,0 +1,358 @@
+{
+  "id": "ruled-49078",
+  "slug": "keto-chocolate-fudge",
+  "title": "Keto Chocolate Fudge",
+  "url": "https://www.ruled.me/keto-chocolate-fudge/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Keto Chocolate Fudge. Each serving comes out to be 200 calories, 18.9g fats, 2.1g net carbs, and 4g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT30M",
+  "cookTime": "PT180M",
+  "totalTime": "PT210M",
+  "totalMinutes": 210,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "fatContent": "18.9 g",
+    "proteinContent": "4 g",
+    "carbohydrateContent": "2.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 200,
+    "netCarbsGrams": 2.1,
+    "proteinGrams": 4,
+    "fatGrams": 18.9
+  },
+  "ingredients": [
+    "4 ounce unsweetened baking chocolate (chopped finely)",
+    "1 cup heavy cream",
+    "1/2 cup allulose",
+    "3 tablespoon collagen",
+    "1 teaspoon vanilla extract",
+    "8 ounce cream cheese (softened)",
+    "4 tablespoon butter (room temp)",
+    "1/2 cup walnuts (for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-1.jpg"
+    },
+    {
+      "text": "In a saucepan over low heat, add in the heavy cream, chopped chocolate, and allulose.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-2.jpg"
+    },
+    {
+      "text": "Stir constantly so the mixture doesn't burn. Let it cook for one minute. Remove from heat and whisk the vanilla extract and collagen in until combined well. Set aside to let cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-3.jpg"
+    },
+    {
+      "text": "In a mixing bowl, add the room temp butter and softened cream cheese. Beat this together until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-4.jpg"
+    },
+    {
+      "text": "Add the chocolate mixture into the cream cheese mixture a little bit at a time, mixing to combine well after each addition. Do this until all of the chocolate mixture has been used up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-5.jpg"
+    },
+    {
+      "text": "Line a baking pan with parchment paper. Spread out the fudge into the baking pan. Smooth it out with a spatula. Let sit in the fridge for two to three hours. Once fudge is cooled and in solid form, remove from the pan and cut with knife.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-6.jpg"
+    },
+    {
+      "text": "Garnish with walnuts. Serve and enjoy! Store any leftovers in the refrigerator.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-featured--1-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/c4b2da57b6c52942e21126fb.jpg",
+      "archived": true,
+      "originalPath": "images/c4b2da57b6c52942e21126fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-featured--1.jpg",
+      "path": "images/5655a1f55a68993960da454d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-1.jpg",
+      "path": "../../nenaudojama/dessert/images/ecce086b3bed132d92cbff03.jpg",
+      "archived": true,
+      "originalPath": "images/ecce086b3bed132d92cbff03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-2.jpg",
+      "path": "../../nenaudojama/dessert/images/bd110515d0a389be43eecc33.jpg",
+      "archived": true,
+      "originalPath": "images/bd110515d0a389be43eecc33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-3.jpg",
+      "path": "../../nenaudojama/dessert/images/abbb807fe6aaf43e23c41b5d.avif",
+      "archived": true,
+      "originalPath": "images/abbb807fe6aaf43e23c41b5d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-4.jpg",
+      "path": "../../nenaudojama/dessert/images/d27ce52d6fceabc487e8231b.avif",
+      "archived": true,
+      "originalPath": "images/d27ce52d6fceabc487e8231b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-5.jpg",
+      "path": "../../nenaudojama/dessert/images/074a1a7e1b0900ebe44e05d4.jpg",
+      "archived": true,
+      "originalPath": "images/074a1a7e1b0900ebe44e05d4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-6.jpg",
+      "path": "../../nenaudojama/dessert/images/c9a2497349f1ecea06ef9bd5.avif",
+      "archived": true,
+      "originalPath": "images/c9a2497349f1ecea06ef9bd5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-featured-.jpg",
+      "path": "../../nenaudojama/dessert/images/ed62c5a32c858caf315d32a0.avif",
+      "archived": true,
+      "originalPath": "images/ed62c5a32c858caf315d32a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/07/Long-4-620x900-px.jpg",
+      "path": "../../nenaudojama/dessert/images/daa3fae72e33357e4d64c63d.avif",
+      "archived": true,
+      "originalPath": "images/daa3fae72e33357e4d64c63d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-featured--1-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/7b27decc36207a8972ce8ed2.avif",
+      "archived": true,
+      "originalPath": "images/7b27decc36207a8972ce8ed2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3c4aa9604b1030cb58474ea7.avif",
+      "archived": true,
+      "originalPath": "images/3c4aa9604b1030cb58474ea7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8821e10516d5bdb39251daee.avif",
+      "archived": true,
+      "originalPath": "images/8821e10516d5bdb39251daee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3a9637329fe7139d5588a9ff.jpg",
+      "archived": true,
+      "originalPath": "images/3a9637329fe7139d5588a9ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b2ebb5b248396eaf7860732b.avif",
+      "archived": true,
+      "originalPath": "images/b2ebb5b248396eaf7860732b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9b92c9516dea00ceadc7235c.avif",
+      "archived": true,
+      "originalPath": "images/9b92c9516dea00ceadc7235c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-6-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e027f4b6aa4419e2e32ac656.jpg",
+      "archived": true,
+      "originalPath": "images/e027f4b6aa4419e2e32ac656.jpg"
+    }
+  ],
+  "featuredImage": "images/5655a1f55a68993960da454d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chocolate Fudge",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 16 servings of Keto Chocolate Fudge. Each serving comes out to be 200 calories, 18.9g fats, 2.1g net carbs, and 4g protein.",
+    "datePublished": "2023-07-06T09:00:35+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-featured--1.jpg"
+    ],
+    "video": {
+      "name": "Healthy Keto Chocolate Fudge [with Collagen]",
+      "description": "Keto Chocolate Fudge is one of the most perfect low-carb desserts. It melts in your mouth, is creamy, and is sinfully delicious. You can eat it on its own or as a booster to any protein shake, dessert, or coffee treat. This keto chocolate fudge recipe is quick and easy to make, and it can be part of your keto diet plan.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n4 ounce unsweetened baking chocolate, chopped finely\n1 cup heavy cream\n1/2 cup allulose\n3 tablespoon collagen\n1 tablespoon vanilla extract\n8 ounce cream cheese, softened\n4 tablespoon butter, room temperature\n1/2 cup walnuts, for garnish\n\nNutrition Summary:\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-08-23T15:00:09+00:00",
+      "duration": "PT2M39S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7BCttN-FOag/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7BCttN-FOag?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=7BCttN-FOag",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT180M",
+    "totalTime": "PT210M",
+    "recipeIngredient": [
+      "4 ounce unsweetened baking chocolate (chopped finely)",
+      "1 cup heavy cream",
+      "1/2 cup allulose",
+      "3 tablespoon collagen",
+      "1 teaspoon vanilla extract",
+      "8 ounce cream cheese (softened)",
+      "4 tablespoon butter (room temp)",
+      "1/2 cup walnuts (for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over low heat, add in the heavy cream, chopped chocolate, and allulose.",
+        "name": "In a saucepan over low heat, add in the heavy cream, chopped chocolate, and allulose.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir constantly so the mixture doesn't burn. Let it cook for one minute. Remove from heat and whisk the vanilla extract and collagen in until combined well. Set aside to let cool.",
+        "name": "Stir constantly so the mixture doesn't burn. Let it cook for one minute. Remove from heat and whisk the vanilla extract and collagen in until combined well. Set aside to let cool.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, add the room temp butter and softened cream cheese. Beat this together until combined well.",
+        "name": "In a mixing bowl, add the room temp butter and softened cream cheese. Beat this together until combined well.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chocolate mixture into the cream cheese mixture a little bit at a time, mixing to combine well after each addition. Do this until all of the chocolate mixture has been used up.",
+        "name": "Add the chocolate mixture into the cream cheese mixture a little bit at a time, mixing to combine well after each addition. Do this until all of the chocolate mixture has been used up.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a baking pan with parchment paper. Spread out the fudge into the baking pan. Smooth it out with a spatula. Let sit in the fridge for two to three hours. \r\n\r\nOnce fudge is cooled and in solid form, remove from the pan and cut with knife.",
+        "name": "Line a baking pan with parchment paper. Spread out the fudge into the baking pan. Smooth it out with a spatula. Let sit in the fridge for two to three hours. \r\n\r\nOnce fudge is cooled and in solid form, remove from the pan and cut with knife.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with walnuts. Serve and enjoy! Store any leftovers in the refrigerator.",
+        "name": "Garnish with walnuts. Serve and enjoy! Store any leftovers in the refrigerator.",
+        "url": "https://www.ruled.me/keto-chocolate-fudge/#wprm-recipe-54657-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, keto, low-carb, make-ahead, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200 kcal",
+      "fatContent": "18.9 g",
+      "proteinContent": "4 g",
+      "carbohydrateContent": "2.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chocolate-fudge/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chocolate-fudge/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chocolate-fudge/"
+  },
+  "sourceIndex": {
+    "id": 49078,
+    "rid": 54657,
+    "t": "Keto Chocolate Fudge",
+    "u": "/keto-chocolate-fudge/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-chocolate-fudge-featured--1-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.1,
+    "cal": 200,
+    "pr": 4,
+    "fa": 18.9,
+    "tm": 210,
+    "sv": 16,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2023-07-06",
+    "cm": 0,
+    "ex": "Keto Chocolate Fudge is one of the most perfect low-carb desserts. It melts in your mouth, is creamy, and is sinfully delicious. You can eat it on its own or as a booster to any protein shake",
+    "pv": 395
+  },
+  "sourceHtml": "pages/keto-chocolate-fudge.html",
+  "scrapedAt": "2026-11-07T08:30:46.972Z"
+}

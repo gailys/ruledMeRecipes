@@ -1,0 +1,343 @@
+{
+  "id": "ruled-48800",
+  "slug": "keto-lemon-curd",
+  "title": "Keto Lemon Curd",
+  "url": "https://www.ruled.me/keto-lemon-curd/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Keto Lemon Curd. Each serving comes out to be 169 calories, 17.6g fats, 2.1g net carbs, and 1.6g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "fatContent": "17.6 g",
+    "proteinContent": "1.6 g",
+    "carbohydrateContent": "2.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 169,
+    "netCarbsGrams": 2.1,
+    "proteinGrams": 1.6,
+    "fatGrams": 17.6
+  },
+  "ingredients": [
+    "1 cup butter",
+    "1/2 cup xylitol",
+    "1 medium lemon (zest)",
+    "1/2 cup lemon juice",
+    "6 large egg yolk"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. *Please note xylitol is extremely toxic to dogs so be cautious when handling this ingredient*",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-1.jpg"
+    },
+    {
+      "text": "In a saucepan over low to medium heat, melt the butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-2.jpg"
+    },
+    {
+      "text": "Add in the xylitol to the melted butter along with the lemon zest and lemon juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-3.jpg"
+    },
+    {
+      "text": "Whisk together so the xylitol dissolves",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-4.jpg"
+    },
+    {
+      "text": "Add in the egg yolks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-5.jpg"
+    },
+    {
+      "text": "Whisk together until it gets thick.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-6.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/e75c556c86db90dd157e2f25.avif",
+      "archived": true,
+      "originalPath": "images/e75c556c86db90dd157e2f25.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Featured.jpg",
+      "path": "../../nenaudojama/condiments/images/4966f76b6997127fd598e8f5.jpg",
+      "archived": true,
+      "originalPath": "images/4966f76b6997127fd598e8f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-1.jpg",
+      "path": "../../nenaudojama/condiments/images/63d3c71d6161ddc507f759ce.jpg",
+      "archived": true,
+      "originalPath": "images/63d3c71d6161ddc507f759ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-2.jpg",
+      "path": "../../nenaudojama/condiments/images/a743a5954a049d5cb3f6ffd0.jpg",
+      "archived": true,
+      "originalPath": "images/a743a5954a049d5cb3f6ffd0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-3.jpg",
+      "path": "../../nenaudojama/condiments/images/06098adf5041a0e5ccd2ed8f.jpg",
+      "archived": true,
+      "originalPath": "images/06098adf5041a0e5ccd2ed8f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-4.jpg",
+      "path": "../../nenaudojama/condiments/images/0145c02c0170f203d62c623c.jpg",
+      "archived": true,
+      "originalPath": "images/0145c02c0170f203d62c623c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-5.jpg",
+      "path": "../../nenaudojama/condiments/images/2217ad4ba63bba34a71908e3.jpg",
+      "archived": true,
+      "originalPath": "images/2217ad4ba63bba34a71908e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-6.jpg",
+      "path": "../../nenaudojama/condiments/images/98170395e1e4876b7d96e58c.jpg",
+      "archived": true,
+      "originalPath": "images/98170395e1e4876b7d96e58c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Second.jpg",
+      "path": "../../nenaudojama/condiments/images/a88773e8789342f91b8bcff4.jpg",
+      "archived": true,
+      "originalPath": "images/a88773e8789342f91b8bcff4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Long.jpg",
+      "path": "../../nenaudojama/condiments/images/25984ce2f37fcdab76e93d7b.jpg",
+      "archived": true,
+      "originalPath": "images/25984ce2f37fcdab76e93d7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Featured-300x300.jpg",
+      "path": "../../nenaudojama/condiments/images/78a54173dd57dd436e9d6313.jpg",
+      "archived": true,
+      "originalPath": "images/78a54173dd57dd436e9d6313.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-1-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/c2e0e76b64a7a2e7290aceb1.jpg",
+      "archived": true,
+      "originalPath": "images/c2e0e76b64a7a2e7290aceb1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-2-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/a263850c0a233c4acf16167e.jpg",
+      "archived": true,
+      "originalPath": "images/a263850c0a233c4acf16167e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-3-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/7ed839b4cf986630205ca391.jpg",
+      "archived": true,
+      "originalPath": "images/7ed839b4cf986630205ca391.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-4-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/61442b5321a0cf2249f556db.jpg",
+      "archived": true,
+      "originalPath": "images/61442b5321a0cf2249f556db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-5-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/b4ea2d20a560d0d36390d0c1.jpg",
+      "archived": true,
+      "originalPath": "images/b4ea2d20a560d0d36390d0c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-6-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/1d038bf7833d1b0d613c3003.jpg",
+      "archived": true,
+      "originalPath": "images/1d038bf7833d1b0d613c3003.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/4966f76b6997127fd598e8f5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Lemon Curd",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 12 servings of Keto Lemon Curd. Each serving comes out to be 169 calories, 17.6g fats, 2.1g net carbs, and 1.6g protein.",
+    "datePublished": "2023-05-11T09:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Featured.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "1 cup butter",
+      "1/2 cup xylitol",
+      "1 medium lemon (zest)",
+      "1/2 cup lemon juice",
+      "6 large egg yolk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. *Please note xylitol is extremely toxic to dogs so be cautious when handling this ingredient*",
+        "name": "Measure out and prepare all of the ingredients. *Please note xylitol is extremely toxic to dogs so be cautious when handling this ingredient*",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over low to medium heat, melt the butter.",
+        "name": "In a saucepan over low to medium heat, melt the butter.",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the xylitol to the melted butter along with the lemon zest and lemon juice.",
+        "name": "Add in the xylitol to the melted butter along with the lemon zest and lemon juice.",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together so the xylitol dissolves",
+        "name": "Whisk together so the xylitol dissolves",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the egg yolks.",
+        "name": "Add in the egg yolks.",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together until it gets thick.",
+        "name": "Whisk together until it gets thick.",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/keto-lemon-curd/#wprm-recipe-54599-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "keywords": "30-minute, beginner-friendly, gluten-free, keto, low-carb, nut-free, quick, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "169 kcal",
+      "fatContent": "17.6 g",
+      "proteinContent": "1.6 g",
+      "carbohydrateContent": "2.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-lemon-curd/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-lemon-curd/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-lemon-curd/"
+  },
+  "sourceIndex": {
+    "id": 48800,
+    "rid": 54599,
+    "t": "Keto Lemon Curd",
+    "u": "/keto-lemon-curd/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/03/Keto-Lemon-Curd-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 2.1,
+    "cal": 169,
+    "pr": 1.6,
+    "fa": 17.6,
+    "tm": 20,
+    "sv": 12,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2023-05-11",
+    "cm": 0,
+    "ex": "This low-carb, high-fat Keto Lemon Curd has a buttery and sweet taste with a sour lemon undertone. It’s a great spread on toast or on top of low-carb desserts and is the perfect way to start the day",
+    "pv": 142
+  },
+  "sourceHtml": "pages/keto-lemon-curd.html",
+  "scrapedAt": "2026-11-07T08:33:24.923Z"
+}

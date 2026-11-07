@@ -2,7 +2,7 @@
   "name": "Mano keto receptai",
   "short_name": "Mano keto",
   "description": "Ruled.me receptai, porcijų perskaičiavimas ir lietuviškas pirkinių sąrašas.",
-  "start_url": "./#recipes",
+  "start_url": "./#discover",
   "scope": "./",
   "display": "standalone",
   "handle_links": "preferred",

@@ -1,0 +1,286 @@
+{
+  "id": "ruled-24598",
+  "slug": "thai-bbq-pork-salad",
+  "title": "Thai BBQ Pork Salad",
+  "url": "https://www.ruled.me/thai-bbq-pork-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings. Each serving comes out to be 458.75 Calories, 33.22g Fats, 8.15g Net Carbs, and 28.9g Protein.",
+  "servings": 2,
+  "yield": [
+    "2"
+  ],
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "totalMinutes": null,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "458.75 kcal",
+    "fatContent": "33.22 g",
+    "proteinContent": "28.9 g",
+    "carbohydrateContent": "8.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 458.75,
+    "netCarbsGrams": 8.1,
+    "proteinGrams": 28.9,
+    "fatGrams": 33.22
+  },
+  "ingredients": [
+    "10 ounces pulled pork (Recipe Here)",
+    "2 cups romaine lettuce",
+    "¼ cup chopped cilantro",
+    "¼ medium red bell pepper (chopped)",
+    "2 tablespoons tomato paste",
+    "2 tablespoons + 2 teaspoons soy sauce (or coconut aminos)",
+    "1 tablespoons creamy peanut putter",
+    "2 tablespoons chopped cilantro",
+    "Juice & zest of ½ lime",
+    "1 teaspoon five spice",
+    "1 teaspoon red curry paste",
+    "1 tablespoon + 1 teaspoon rice wine vinegar",
+    "¼ teaspoon red pepper flakes",
+    "1 teaspoon fish sauce",
+    "10 drops liquid stevia",
+    "½ teaspoon mango extract"
+  ],
+  "instructions": [
+    {
+      "text": "Chop cilantro and zest 1/2 lime. Then, in a bowl, combine all the sauce ingredients together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5640.jpg"
+    },
+    {
+      "text": "Mix the thai bbq sauce together well, and then set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5654.jpg"
+    },
+    {
+      "text": "Using your fingers, or a knife, pull apart the pork.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5666.jpg"
+    },
+    {
+      "text": "Assemble the salad and glaze over the pork with some sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "egg-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "egg-free",
+    "no-cook",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/thaibbqsalad3.jpg",
+      "path": "images/ba55c98fa00a65aebc107107.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5640.jpg",
+      "path": "../../nenaudojama/lunch/images/0b4103c81b00641a8b4d856b.jpg",
+      "archived": true,
+      "originalPath": "images/0b4103c81b00641a8b4d856b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5654.jpg",
+      "path": "../../nenaudojama/lunch/images/e1fc5163988a8b103e7c69c5.jpg",
+      "archived": true,
+      "originalPath": "images/e1fc5163988a8b103e7c69c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5666.jpg",
+      "path": "../../nenaudojama/lunch/images/f2d4c3fbc5743365244979e4.jpg",
+      "archived": true,
+      "originalPath": "images/f2d4c3fbc5743365244979e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/thaibbqsaladsecond.jpg",
+      "path": "../../nenaudojama/lunch/images/534c396964e583e789facf68.avif",
+      "archived": true,
+      "originalPath": "images/534c396964e583e789facf68.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5645.jpg",
+      "path": "../../nenaudojama/lunch/images/34d68a65e214b238dd036b2d.jpg",
+      "archived": true,
+      "originalPath": "images/34d68a65e214b238dd036b2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/thaibbqsaladlong.jpg",
+      "path": "../../nenaudojama/lunch/images/73ae0f6e43fe8750f9e04e60.jpg",
+      "archived": true,
+      "originalPath": "images/73ae0f6e43fe8750f9e04e60.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5640-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/28fa4ef9aff80a742ffa4df1.jpg",
+      "archived": true,
+      "originalPath": "images/28fa4ef9aff80a742ffa4df1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5654-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/25341257a703a0f1eb2cdea7.jpg",
+      "archived": true,
+      "originalPath": "images/25341257a703a0f1eb2cdea7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5666-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/500d149600ceae2ef91f95b4.jpg",
+      "archived": true,
+      "originalPath": "images/500d149600ceae2ef91f95b4.jpg"
+    }
+  ],
+  "featuredImage": "images/ba55c98fa00a65aebc107107.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Thai BBQ Pork Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings. Each serving comes out to be 458.75 Calories, 33.22g Fats, 8.15g Net Carbs, and 28.9g Protein.",
+    "datePublished": "2014-09-12T14:59:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/thaibbqsalad3.jpg"
+    ],
+    "recipeYield": [
+      "2"
+    ],
+    "recipeIngredient": [
+      "10 ounces pulled pork (Recipe Here)",
+      "2 cups romaine lettuce",
+      "¼ cup chopped cilantro",
+      "¼ medium red bell pepper (chopped)",
+      "2 tablespoons tomato paste",
+      "2 tablespoons + 2 teaspoons soy sauce (or coconut aminos)",
+      "1 tablespoons creamy peanut putter",
+      "2 tablespoons chopped cilantro",
+      "Juice & zest of ½ lime",
+      "1 teaspoon five spice",
+      "1 teaspoon red curry paste",
+      "1 tablespoon + 1 teaspoon rice wine vinegar",
+      "¼ teaspoon red pepper flakes",
+      "1 teaspoon fish sauce",
+      "10 drops liquid stevia",
+      "½ teaspoon mango extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop cilantro and zest 1/2 lime. Then, in a bowl, combine all the sauce ingredients together.",
+        "name": "Chop cilantro and zest 1/2 lime. Then, in a bowl, combine all the sauce ingredients together.",
+        "url": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5640.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the thai bbq sauce together well, and then set aside.",
+        "name": "Mix the thai bbq sauce together well, and then set aside.",
+        "url": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5654.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using your fingers, or a knife, pull apart the pork.",
+        "name": "Using your fingers, or a knife, pull apart the pork.",
+        "url": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5666.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the salad and glaze over the pork with some sauce.",
+        "name": "Assemble the salad and glaze over the pork with some sauce.",
+        "url": "https://www.ruled.me/thai-bbq-pork-salad/#wprm-recipe-51399-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Thai"
+    ],
+    "keywords": "15-minute, dairy-free, egg-free, high-fat, high-protein, keto, low-carb, no-cook, pork, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "458.75 kcal",
+      "fatContent": "33.22 g",
+      "proteinContent": "28.9 g",
+      "carbohydrateContent": "8.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/thai-bbq-pork-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/thai-bbq-pork-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/thai-bbq-pork-salad/"
+  },
+  "sourceIndex": {
+    "id": 24598,
+    "rid": 51399,
+    "t": "Thai BBQ Pork Salad",
+    "u": "/thai-bbq-pork-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/thaibbqsalad3.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.1,
+    "cal": 458.75,
+    "pr": 28.9,
+    "fa": 33.22,
+    "tm": null,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "egg-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 16,
+    "fk": [
+      "dairy-free",
+      "egg-free",
+      "no-cook",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-09-12",
+    "cm": 4,
+    "ex": "Many people only equate pulled pork with traditional American BBQ or Mexican flavors. For this dish, prepare to bring the western world over to the eastern side of the globe! We pair some delicious",
+    "pv": 613
+  },
+  "sourceHtml": "pages/thai-bbq-pork-salad.html",
+  "scrapedAt": "2026-11-07T08:17:57.132Z"
+}

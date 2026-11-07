@@ -1,0 +1,387 @@
+{
+  "id": "ruled-37454",
+  "slug": "garlic-parmesan-cauliflower-wings",
+  "title": "Garlic Parmesan Cauliflower Wings",
+  "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Garlic Parmesan Cauliflower Wings. Each serving comes out to be 346 calories, 29.3g fats, 5.8g net carbs, and 14.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT45M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "346 kcal",
+    "fatContent": "29.3 g",
+    "proteinContent": "14.1 g",
+    "carbohydrateContent": "5.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 346,
+    "netCarbsGrams": 5.8,
+    "proteinGrams": 14.1,
+    "fatGrams": 29.3
+  },
+  "ingredients": [
+    "1 medium cauliflower",
+    "3 teaspoon fresh garlic (minced)",
+    "1 tablespoon butter",
+    "3/4 cup heavy whipping cream",
+    "1 cup parmesan cheese (shredded)",
+    "2 tablespoon cream cheese",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Chop up the cauliflower into small-to-medium sized florets and place them into a casserole dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-02.jpg"
+    },
+    {
+      "text": "Mince the garlic cloves.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-03.jpg"
+    },
+    {
+      "text": "Melt the butter in a pan and saute the garlic in it briefly to soften and release flavor. Add a few dashes of salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-04.jpg"
+    },
+    {
+      "text": "Pour in the heavy cream and let it come to a simmer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-05.jpg"
+    },
+    {
+      "text": "Whisk in a small handful of the Parmesan cheese. Once it is melted, add more.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06.jpg"
+    },
+    {
+      "text": "Continue whisking in the Parmesan in small amounts until all of it is incorporated. Add in the cream cheese, stirring until it melts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06-1.jpg"
+    },
+    {
+      "text": "Pour the sauce all over the cauliflower and toss until they are all coated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-08.jpg"
+    },
+    {
+      "text": "Bake for 45 minutes. This is optional, but for extra crispiness you can broil for an additional few minutes, turning once.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-09.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/a52c6286abc1fe6fc791e99a.jpg",
+      "archived": true,
+      "originalPath": "images/a52c6286abc1fe6fc791e99a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/4957b17d634734105b6980f2.avif",
+      "archived": true,
+      "originalPath": "images/4957b17d634734105b6980f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-02.jpg",
+      "path": "../../nenaudojama/side-items/images/6fd694f88570d87aa307ecfb.jpg",
+      "archived": true,
+      "originalPath": "images/6fd694f88570d87aa307ecfb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-03.jpg",
+      "path": "../../nenaudojama/side-items/images/dfa3480108ae60e1a1cd2107.jpg",
+      "archived": true,
+      "originalPath": "images/dfa3480108ae60e1a1cd2107.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-04.jpg",
+      "path": "../../nenaudojama/side-items/images/618f91f3a101eebe81194e00.jpg",
+      "archived": true,
+      "originalPath": "images/618f91f3a101eebe81194e00.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-05.jpg",
+      "path": "../../nenaudojama/side-items/images/c73bd66a16c7cec42a921897.jpg",
+      "archived": true,
+      "originalPath": "images/c73bd66a16c7cec42a921897.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06.jpg",
+      "path": "../../nenaudojama/side-items/images/66b251790600a2f95a8e6376.jpg",
+      "archived": true,
+      "originalPath": "images/66b251790600a2f95a8e6376.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06-1.jpg",
+      "path": "../../nenaudojama/side-items/images/68567676a46ceffaef8b7a69.jpg",
+      "archived": true,
+      "originalPath": "images/68567676a46ceffaef8b7a69.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-08.jpg",
+      "path": "../../nenaudojama/side-items/images/67ece43140dc49d73c80718f.jpg",
+      "archived": true,
+      "originalPath": "images/67ece43140dc49d73c80718f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-09.jpg",
+      "path": "../../nenaudojama/side-items/images/1293cffa616339ef7f6b3926.jpg",
+      "archived": true,
+      "originalPath": "images/1293cffa616339ef7f6b3926.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-second.jpg",
+      "path": "../../nenaudojama/side-items/images/7375e8ad8a35585e1e440047.jpg",
+      "archived": true,
+      "originalPath": "images/7375e8ad8a35585e1e440047.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-07.jpg",
+      "path": "../../nenaudojama/side-items/images/3b1f7d49111c7ac312a8660a.jpg",
+      "archived": true,
+      "originalPath": "images/3b1f7d49111c7ac312a8660a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/fd0e9c4ce3476fd1cbd6b104.jpg",
+      "archived": true,
+      "originalPath": "images/fd0e9c4ce3476fd1cbd6b104.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/877c52a681af2a5f525371fc.jpg",
+      "archived": true,
+      "originalPath": "images/877c52a681af2a5f525371fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6cb0ecbddf1ad270b5d30917.jpg",
+      "archived": true,
+      "originalPath": "images/6cb0ecbddf1ad270b5d30917.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/afffecff2d3ac132c603ab82.jpg",
+      "archived": true,
+      "originalPath": "images/afffecff2d3ac132c603ab82.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/36743a6e52543ded2c1e2155.jpg",
+      "archived": true,
+      "originalPath": "images/36743a6e52543ded2c1e2155.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3d3949fb666546ca626c515d.jpg",
+      "archived": true,
+      "originalPath": "images/3d3949fb666546ca626c515d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/55eefbfdc49781f22b5d256e.jpg",
+      "archived": true,
+      "originalPath": "images/55eefbfdc49781f22b5d256e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-08-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c002a0ef359c23bea486bd5d.jpg",
+      "archived": true,
+      "originalPath": "images/c002a0ef359c23bea486bd5d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-09-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/f921e539e814f0d05792fa81.jpg",
+      "archived": true,
+      "originalPath": "images/f921e539e814f0d05792fa81.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/4957b17d634734105b6980f2.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Garlic Parmesan Cauliflower Wings",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Garlic Parmesan Cauliflower Wings. Each serving comes out to be 346 calories, 29.3g fats, 5.8g net carbs, and 14.1g protein.",
+    "datePublished": "2018-06-19T11:00:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT45M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "1 medium cauliflower",
+      "3 teaspoon fresh garlic (minced)",
+      "1 tablespoon butter",
+      "3/4 cup heavy whipping cream",
+      "1 cup parmesan cheese (shredded)",
+      "2 tablespoon cream cheese",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Chop up the cauliflower into small-to-medium sized florets and place them into a casserole dish.",
+        "name": "Preheat oven to 350F. Chop up the cauliflower into small-to-medium sized florets and place them into a casserole dish.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic cloves.",
+        "name": "Mince the garlic cloves.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a pan and saute the garlic in it briefly to soften and release flavor. Add a few dashes of salt and pepper.",
+        "name": "Melt the butter in a pan and saute the garlic in it briefly to soften and release flavor. Add a few dashes of salt and pepper.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the heavy cream and let it come to a simmer.",
+        "name": "Pour in the heavy cream and let it come to a simmer.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in a small handful of the Parmesan cheese. Once it is melted, add more.",
+        "name": "Whisk in a small handful of the Parmesan cheese. Once it is melted, add more.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue whisking in the Parmesan in small amounts until all of it is incorporated. Add in the cream cheese, stirring until it melts.",
+        "name": "Continue whisking in the Parmesan in small amounts until all of it is incorporated. Add in the cream cheese, stirring until it melts.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-06-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the sauce all over the cauliflower and toss until they are all coated.",
+        "name": "Pour the sauce all over the cauliflower and toss until they are all coated.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 45 minutes. This is optional, but for extra crispiness you can broil for an additional few minutes, turning once.",
+        "name": "Bake for 45 minutes. This is optional, but for extra crispiness you can broil for an additional few minutes, turning once.",
+        "url": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#wprm-recipe-52615-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-09.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "346 kcal",
+      "fatContent": "29.3 g",
+      "proteinContent": "14.1 g",
+      "carbohydrateContent": "5.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/garlic-parmesan-cauliflower-wings/"
+  },
+  "sourceIndex": {
+    "id": 37454,
+    "rid": 52615,
+    "t": "Garlic Parmesan Cauliflower Wings",
+    "u": "/garlic-parmesan-cauliflower-wings/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/06/garlic-parmesan-cauliflower-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 5.8,
+    "cal": 346,
+    "pr": 14.1,
+    "fa": 29.3,
+    "tm": 55,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2018-06-19",
+    "cm": 2,
+    "ex": "Cauliflower wings seem to be all the rage right now - and for a good reason! They are great for vegetarians, crispy, crunchy, and naturally low-carb! One of my favorite kinds is garlic Parmesan",
+    "pv": 241
+  },
+  "sourceHtml": "pages/garlic-parmesan-cauliflower-wings.html",
+  "scrapedAt": "2026-11-07T08:32:26.514Z"
+}

@@ -1,0 +1,390 @@
+{
+  "id": "ruled-25016",
+  "slug": "bbq-chicken-soup",
+  "title": "BBQ Chicken Soup",
+  "url": "https://www.ruled.me/bbq-chicken-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of BBQ Chicken Soup. Each serving comes out to be 654 calories, 57.8g fats, 6.3g net carbs, and 26.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT100M",
+  "totalTime": "PT115M",
+  "totalMinutes": 115,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "654 kcal",
+    "fatContent": "57.8 g",
+    "proteinContent": "26.5 g",
+    "carbohydrateContent": "6.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 654,
+    "netCarbsGrams": 6.3,
+    "proteinGrams": 26.5,
+    "fatGrams": 57.8
+  },
+  "ingredients": [
+    "24 ounce bone-in, skin-on chicken thighs",
+    "2 teaspoon chili powder (such as Penzey's Chili 9000)",
+    "2 tablespoon olive oil",
+    "1 1/2 cup chicken broth",
+    "1 1/2 cup beef broth",
+    "salt and pepper (to taste)",
+    "1/4 cup low-carb ketchup",
+    "1/4 cup tomato paste",
+    "2 tablespoon dijon mustard",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "1 tablespoon chili paste (such as sambal oelek)",
+    "2 1/2 teaspoon liquid smoke",
+    "1 teaspoon worcestershire sauce",
+    "1 1/2 teaspoon garlic powder",
+    "1 teaspoon onion powder",
+    "1 teaspoon chili powder (such as Penzey's Chili 9000)",
+    "1 teaspoon crushed red pepper flakes",
+    "1 teaspoon cumin",
+    "1/4 cup butter"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Debone the chicken thighs, setting the bones aside, and season well with chili powder. Place on a baking tray lined with foil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9305.jpg"
+    },
+    {
+      "text": "Bake for 50 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9310.jpg"
+    },
+    {
+      "text": "Meanwhile, place the chicken fat or olive oil in a pot over medium-high heat. Once hot, add in the chicken bones. Let these cook for at least 5 minutes, and then add in the broths. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9322.jpg"
+    },
+    {
+      "text": "Once the chicken is done, remove the skins and set them aside for later. Add the fat from the chicken thighs into the broth and stir.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9328.jpg"
+    },
+    {
+      "text": "Make the BBQ sauce by combining all of the sauce ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9334.jpg"
+    },
+    {
+      "text": "Add the BBQ sauce to the pot and stir together. Let simmer for 20–30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9343.jpg"
+    },
+    {
+      "text": "Use an immersion blender to emulsify the fats and liquids together. Shred the chicken thighs and add them to the soup. Simmer for another 10–20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/12/img_9359.jpg"
+    },
+    {
+      "text": "Serve with chicken skins on the side and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "stovetop"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/bbqchickensoup.jpg",
+      "path": "images/15c533d809e33d6a34584e2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9305.jpg",
+      "path": "../../nenaudojama/dinner/images/679f5237672903541746fe2d.jpg",
+      "archived": true,
+      "originalPath": "images/679f5237672903541746fe2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9310.jpg",
+      "path": "../../nenaudojama/dinner/images/4ec2f64bf8844476d3622f03.avif",
+      "archived": true,
+      "originalPath": "images/4ec2f64bf8844476d3622f03.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9322.jpg",
+      "path": "../../nenaudojama/dinner/images/be6870b98a992f0aac5b4abd.jpg",
+      "archived": true,
+      "originalPath": "images/be6870b98a992f0aac5b4abd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9328.jpg",
+      "path": "../../nenaudojama/dinner/images/30210ecedaa6c7a16e72f859.jpg",
+      "archived": true,
+      "originalPath": "images/30210ecedaa6c7a16e72f859.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9334.jpg",
+      "path": "../../nenaudojama/dinner/images/213d3b31cfa00e2c25724312.jpg",
+      "archived": true,
+      "originalPath": "images/213d3b31cfa00e2c25724312.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9343.jpg",
+      "path": "../../nenaudojama/dinner/images/6afa4b8944ca1f15fdd73cb0.jpg",
+      "archived": true,
+      "originalPath": "images/6afa4b8944ca1f15fdd73cb0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9359.jpg",
+      "path": "../../nenaudojama/dinner/images/7b2b7c41b8c230afdb7ce133.avif",
+      "archived": true,
+      "originalPath": "images/7b2b7c41b8c230afdb7ce133.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/bbqchickensoupsecond.jpg",
+      "path": "../../nenaudojama/dinner/images/312c06af16b1f78a25aae6cf.jpg",
+      "archived": true,
+      "originalPath": "images/312c06af16b1f78a25aae6cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/bbqchickensouplong.jpg",
+      "path": "../../nenaudojama/dinner/images/be9f69bf044ab579a544f64c.avif",
+      "archived": true,
+      "originalPath": "images/be9f69bf044ab579a544f64c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9305-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ca973e6e961c0ffb8454ec7a.avif",
+      "archived": true,
+      "originalPath": "images/ca973e6e961c0ffb8454ec7a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9310-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/35a494050d4e79e6ac5b2470.jpg",
+      "archived": true,
+      "originalPath": "images/35a494050d4e79e6ac5b2470.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9322-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ce269463e719ecb6e6d9e062.jpg",
+      "archived": true,
+      "originalPath": "images/ce269463e719ecb6e6d9e062.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9328-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9c0c9a3cf5e6dcf1675f08ca.avif",
+      "archived": true,
+      "originalPath": "images/9c0c9a3cf5e6dcf1675f08ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9334-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9f9adddc2b294a5a8ad4f422.avif",
+      "archived": true,
+      "originalPath": "images/9f9adddc2b294a5a8ad4f422.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9343-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b7c5cbeda12917dbb3b41c56.avif",
+      "archived": true,
+      "originalPath": "images/b7c5cbeda12917dbb3b41c56.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/12/img_9359-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c8549fb48ef5047c11284446.avif",
+      "archived": true,
+      "originalPath": "images/c8549fb48ef5047c11284446.avif"
+    }
+  ],
+  "featuredImage": "images/15c533d809e33d6a34584e2d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "BBQ Chicken Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of BBQ Chicken Soup. Each serving comes out to be 654 calories, 57.8g fats, 6.3g net carbs, and 26.5g protein.",
+    "datePublished": "2014-12-01T17:29:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/12/bbqchickensoup.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT100M",
+    "totalTime": "PT115M",
+    "recipeIngredient": [
+      "24 ounce bone-in, skin-on chicken thighs",
+      "2 teaspoon chili powder (such as Penzey's Chili 9000)",
+      "2 tablespoon olive oil",
+      "1 1/2 cup chicken broth",
+      "1 1/2 cup beef broth",
+      "salt and pepper (to taste)",
+      "1/4 cup low-carb ketchup",
+      "1/4 cup tomato paste",
+      "2 tablespoon dijon mustard",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "1 tablespoon chili paste (such as sambal oelek)",
+      "2 1/2 teaspoon liquid smoke",
+      "1 teaspoon worcestershire sauce",
+      "1 1/2 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1 teaspoon chili powder (such as Penzey's Chili 9000)",
+      "1 teaspoon crushed red pepper flakes",
+      "1 teaspoon cumin",
+      "1/4 cup butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Debone the chicken thighs, setting the bones aside, and season well with chili powder. Place on a baking tray lined with foil.",
+        "name": "Preheat oven to 400F. Debone the chicken thighs, setting the bones aside, and season well with chili powder. Place on a baking tray lined with foil.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9305.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 50 minutes.",
+        "name": "Bake for 50 minutes.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9310.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, place the chicken fat or olive oil in a pot over medium-high heat. Once hot, add in the chicken bones. Let these cook for at least 5 minutes, and then add in the broths. Season with salt and pepper to taste.",
+        "name": "Meanwhile, place the chicken fat or olive oil in a pot over medium-high heat. Once hot, add in the chicken bones. Let these cook for at least 5 minutes, and then add in the broths. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9322.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the chicken is done, remove the skins and set them aside for later. Add the fat from the chicken thighs into the broth and stir.",
+        "name": "Once the chicken is done, remove the skins and set them aside for later. Add the fat from the chicken thighs into the broth and stir.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9328.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make the BBQ sauce by combining all of the sauce ingredients.",
+        "name": "Make the BBQ sauce by combining all of the sauce ingredients.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9334.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the BBQ sauce to the pot and stir together. Let simmer for 20–30 minutes.",
+        "name": "Add the BBQ sauce to the pot and stir together. Let simmer for 20–30 minutes.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9343.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion blender to emulsify the fats and liquids together. Shred the chicken thighs and add them to the soup. Simmer for another 10–20 minutes.",
+        "name": "Use an immersion blender to emulsify the fats and liquids together. Shred the chicken thighs and add them to the soup. Simmer for another 10–20 minutes.",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/12/img_9359.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with chicken skins on the side and enjoy!",
+        "name": "Serve with chicken skins on the side and enjoy!",
+        "url": "https://www.ruled.me/bbq-chicken-soup/#wprm-recipe-51511-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, poultry, stovetop",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "654 kcal",
+      "fatContent": "57.8 g",
+      "proteinContent": "26.5 g",
+      "carbohydrateContent": "6.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bbq-chicken-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bbq-chicken-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bbq-chicken-soup/"
+  },
+  "sourceIndex": {
+    "id": 25016,
+    "rid": 51511,
+    "t": "BBQ Chicken Soup",
+    "u": "/bbq-chicken-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/12/bbqchickensoup.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.3,
+    "cal": 654,
+    "pr": 26.5,
+    "fa": 57.8,
+    "tm": 115,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "stovetop"
+    ],
+    "ni": 19,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-12-01",
+    "cm": 4,
+    "ex": "The flavor the BBQ is just what you want in a soup - not too smokey and not too sweet. Just enough flavor to keep you wanting to take another bite. Actually, this is like the Pulled BBQ Chicken",
+    "pv": 320
+  },
+  "sourceHtml": "pages/bbq-chicken-soup.html",
+  "scrapedAt": "2026-11-07T08:27:44.962Z"
+}

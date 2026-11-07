@@ -1,0 +1,355 @@
+{
+  "id": "ruled-30248",
+  "slug": "soy-sauce-marinated-deviled-eggs",
+  "title": "Soy Sauce Marinated Deviled Eggs",
+  "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Soy Sauce Marinated Deviled Eggs. Each serving comes out to be 226 calories, 17g fats, 3.5g net carbs, and 13.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT130M",
+  "totalTime": "PT145M",
+  "totalMinutes": 145,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "226 kcal",
+    "fatContent": "17 g",
+    "proteinContent": "13.9 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 226,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 13.9,
+    "fatGrams": 17
+  },
+  "ingredients": [
+    "6 large egg",
+    "1 1/4 cup water",
+    "1/2 cup soy sauce (or coconut aminos)",
+    "1/4 cup unseasoned rice vinegar",
+    "1 teaspoon liquid stevia",
+    "2 teaspoon fresh garlic (grated)",
+    "4 ounce cream cheese (softened)",
+    "1 tablespoon fresh chives (chopped)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Place the eggs in a pot and cover with water. Bring to a boil and cover the pot with a lid. Reduce the heat to the very low and let cook for 7 minutes. Pour out the water and peel the eggs under cold running water. Set the eggs aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1012.jpg"
+    },
+    {
+      "text": "In a large bowl, mix together four-fifths of the water with the soy sauce, rice wine vinegar, stevia, and garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1021.jpg"
+    },
+    {
+      "text": "Place the eggs in the bowl and cover with a few paper towels. Allow the paper towels to soak up the marinade so that the eggs are weighted down into the mixture while also being marinated on the tops.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1033.jpg"
+    },
+    {
+      "text": "Let the eggs marinate in the fridge for 2 hours, periodically rotating them to ensure they are evenly coated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1054.jpg"
+    },
+    {
+      "text": "Pat the eggs dry and cut them in half. Remove the yolks, reserving them for the next step, and set the whites aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1039.jpg"
+    },
+    {
+      "text": "Use a hand mixer to whip the softened cream cheese with the remaining water, adding just a spoonful at the time (sometimes less is needed). Mix in the egg yolks, chopped chives, and salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1040.jpg"
+    },
+    {
+      "text": "Spoon or pipe the whipped egg yolks back into the egg whites. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1056.jpg"
+    }
+  ],
+  "keywords": [
+    "eggs",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "stovetop",
+    "make-ahead",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1043-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/278b8e82c39b8a339959f332.avif",
+      "archived": true,
+      "originalPath": "images/278b8e82c39b8a339959f332.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1043.jpg",
+      "path": "../../nenaudojama/snacks/images/5959b2d77901674a7aa7870f.avif",
+      "archived": true,
+      "originalPath": "images/5959b2d77901674a7aa7870f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1012.jpg",
+      "path": "../../nenaudojama/snacks/images/043ac368fd02aae4d7eed7cd.avif",
+      "archived": true,
+      "originalPath": "images/043ac368fd02aae4d7eed7cd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1021.jpg",
+      "path": "../../nenaudojama/snacks/images/88ab112e293a66de66b535a9.jpg",
+      "archived": true,
+      "originalPath": "images/88ab112e293a66de66b535a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1033.jpg",
+      "path": "../../nenaudojama/snacks/images/2b071c1cdfb73d3618a68039.jpg",
+      "archived": true,
+      "originalPath": "images/2b071c1cdfb73d3618a68039.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1054.jpg",
+      "path": "../../nenaudojama/snacks/images/1251e019d22ec11b0dcd9d50.jpg",
+      "archived": true,
+      "originalPath": "images/1251e019d22ec11b0dcd9d50.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1039.jpg",
+      "path": "../../nenaudojama/snacks/images/50de41ff934869b4284bd5d9.jpg",
+      "archived": true,
+      "originalPath": "images/50de41ff934869b4284bd5d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1040.jpg",
+      "path": "../../nenaudojama/snacks/images/4a1027ad6949b70cad56df20.jpg",
+      "archived": true,
+      "originalPath": "images/4a1027ad6949b70cad56df20.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1056.jpg",
+      "path": "../../nenaudojama/snacks/images/a4a0e13c1e4d2ef650cdc2f7.jpg",
+      "archived": true,
+      "originalPath": "images/a4a0e13c1e4d2ef650cdc2f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1052.jpg",
+      "path": "../../nenaudojama/snacks/images/9cfd91b0bd795b30ae4bbfb1.jpg",
+      "archived": true,
+      "originalPath": "images/9cfd91b0bd795b30ae4bbfb1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1012-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2ab9266118acb252e537c6aa.jpg",
+      "archived": true,
+      "originalPath": "images/2ab9266118acb252e537c6aa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1021-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/c472b66b013823ba991be177.avif",
+      "archived": true,
+      "originalPath": "images/c472b66b013823ba991be177.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1033-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/a115f27c19ea1d5b404d131f.jpg",
+      "archived": true,
+      "originalPath": "images/a115f27c19ea1d5b404d131f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1054-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4921e73ff8c267b9fc3352fc.avif",
+      "archived": true,
+      "originalPath": "images/4921e73ff8c267b9fc3352fc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1039-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/f62b7f3bbe740846e75cf883.avif",
+      "archived": true,
+      "originalPath": "images/f62b7f3bbe740846e75cf883.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1040-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/90c21adc17b9e7a9d627ab2f.jpg",
+      "archived": true,
+      "originalPath": "images/90c21adc17b9e7a9d627ab2f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1056-241x350.jpg",
+      "path": "../../nenaudojama/snacks/images/3be4006fbf75ddda1eb12b8d.jpg",
+      "archived": true,
+      "originalPath": "images/3be4006fbf75ddda1eb12b8d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/5959b2d77901674a7aa7870f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Soy Sauce Marinated Deviled Eggs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Soy Sauce Marinated Deviled Eggs. Each serving comes out to be 226 calories, 17g fats, 3.5g net carbs, and 13.9g protein.",
+    "datePublished": "2017-04-18T11:00:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1043.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT130M",
+    "totalTime": "PT145M",
+    "recipeIngredient": [
+      "6 large egg",
+      "1 1/4 cup water",
+      "1/2 cup soy sauce (or coconut aminos)",
+      "1/4 cup unseasoned rice vinegar",
+      "1 teaspoon liquid stevia",
+      "2 teaspoon fresh garlic (grated)",
+      "4 ounce cream cheese (softened)",
+      "1 tablespoon fresh chives (chopped)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the eggs in a pot and cover with water. Bring to a boil and cover the pot with a lid. Reduce the heat to the very low and let cook for 7 minutes. Pour out the water and peel the eggs under cold running water. Set the eggs aside.",
+        "name": "Place the eggs in a pot and cover with water. Bring to a boil and cover the pot with a lid. Reduce the heat to the very low and let cook for 7 minutes. Pour out the water and peel the eggs under cold running water. Set the eggs aside.",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1012.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix together four-fifths of the water with the soy sauce, rice wine vinegar, stevia, and garlic.",
+        "name": "In a large bowl, mix together four-fifths of the water with the soy sauce, rice wine vinegar, stevia, and garlic.",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1021.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the eggs in the bowl and cover with a few paper towels. Allow the paper towels to soak up the marinade so that the eggs are weighted down into the mixture while also being marinated on the tops.",
+        "name": "Place the eggs in the bowl and cover with a few paper towels. Allow the paper towels to soak up the marinade so that the eggs are weighted down into the mixture while also being marinated on the tops.",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1033.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the eggs marinate in the fridge for 2 hours, periodically rotating them to ensure they are evenly coated.",
+        "name": "Let the eggs marinate in the fridge for 2 hours, periodically rotating them to ensure they are evenly coated.",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1054.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pat the eggs dry and cut them in half. Remove the yolks, reserving them for the next step, and set the whites aside.",
+        "name": "Pat the eggs dry and cut them in half. Remove the yolks, reserving them for the next step, and set the whites aside.",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1039.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a hand mixer to whip the softened cream cheese with the remaining water, adding just a spoonful at the time (sometimes less is needed). Mix in the egg yolks, chopped chives, and salt and pepper.",
+        "name": "Use a hand mixer to whip the softened cream cheese with the remaining water, adding just a spoonful at the time (sometimes less is needed). Mix in the egg yolks, chopped chives, and salt and pepper.",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1040.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon or pipe the whipped egg yolks back into the egg whites. Serve and enjoy!",
+        "name": "Spoon or pipe the whipped egg yolks back into the egg whites. Serve and enjoy!",
+        "url": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#wprm-recipe-52143-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1056.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Japanese"
+    ],
+    "keywords": "eggs, keto, low-carb, make-ahead, nut-free, simple &amp; easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "226 kcal",
+      "fatContent": "17 g",
+      "proteinContent": "13.9 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/soy-sauce-marinated-deviled-eggs/"
+  },
+  "sourceIndex": {
+    "id": 30248,
+    "rid": 52143,
+    "t": "Soy Sauce Marinated Deviled Eggs",
+    "u": "/soy-sauce-marinated-deviled-eggs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/03/IMG_1043-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.5,
+    "cal": 226,
+    "pr": 13.9,
+    "fa": 17,
+    "tm": 145,
+    "sv": 4,
+    "kw": [
+      "eggs",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "stovetop",
+      "make-ahead",
+      "eggs"
+    ],
+    "d": "2017-04-18",
+    "cm": 5,
+    "ex": "Do you think that hard boiled eggs are boring? Well, think again! These eggs are marinated just like the eggs you find at a ramen restaurant, then whipped with cream cheese and chives. They're salty",
+    "pv": 565
+  },
+  "sourceHtml": "pages/soy-sauce-marinated-deviled-eggs.html",
+  "scrapedAt": "2026-11-07T08:31:18.175Z"
+}

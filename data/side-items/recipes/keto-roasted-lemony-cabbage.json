@@ -1,0 +1,334 @@
+{
+  "id": "ruled-59517",
+  "slug": "keto-roasted-lemony-cabbage",
+  "title": "Keto Roasted Lemony Cabbage",
+  "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Roasted Lemony Cabbage. Each serving comes out to be 121 calories, 6.9g fats, 8.7g net carbs, and 3.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "121 kcal",
+    "fatContent": "6.9 g",
+    "proteinContent": "3.1 g",
+    "carbohydrateContent": "8.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 121,
+    "netCarbsGrams": 8.7,
+    "proteinGrams": 3.1,
+    "fatGrams": 6.9
+  },
+  "ingredients": [
+    "1 medium green cabbage",
+    "2 tablespoon olive oil",
+    "3 tablespoon lemon juice",
+    "salt and pepper (to taste)",
+    "1/2 medium lemon (sliced to garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather ingredients and preheat oven to 450F. Use nonstick spray or olive oil to coat your roasting pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-01.jpg"
+    },
+    {
+      "text": "Slice the cabbage into 8 wedges, cutting through the core and the stem.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-02.jpg"
+    },
+    {
+      "text": "Whisk the olive oil and lemon juice together. Brush this all over the cabbage, then season each wedge with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-03.jpg"
+    },
+    {
+      "text": "Turn the wedges over and repeat with the second side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-04.jpg"
+    },
+    {
+      "text": "Roast the cabbage for about 15 minutes, then carefully flip the wedges over.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-05.jpg"
+    },
+    {
+      "text": "Roast the opposite side for another 15 minutes. Serve hot with the lemon wedges.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-06.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/b863d3f430ae989ad65732b5.avif",
+      "archived": true,
+      "originalPath": "images/b863d3f430ae989ad65732b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61.jpg",
+      "path": "../../nenaudojama/side-items/images/1a5a3f6bc94bd1142f78a5fc.jpg",
+      "archived": true,
+      "originalPath": "images/1a5a3f6bc94bd1142f78a5fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-01.jpg",
+      "path": "../../nenaudojama/side-items/images/3eda4798dcca406bd0841a3a.jpg",
+      "archived": true,
+      "originalPath": "images/3eda4798dcca406bd0841a3a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-02.jpg",
+      "path": "../../nenaudojama/side-items/images/25d9883c7174ffbdffb4c8f0.jpg",
+      "archived": true,
+      "originalPath": "images/25d9883c7174ffbdffb4c8f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-03.jpg",
+      "path": "../../nenaudojama/side-items/images/956a5843bbf95b92b031e846.jpg",
+      "archived": true,
+      "originalPath": "images/956a5843bbf95b92b031e846.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-04.jpg",
+      "path": "../../nenaudojama/side-items/images/ed77f5dd176e6450c1caa60c.jpg",
+      "archived": true,
+      "originalPath": "images/ed77f5dd176e6450c1caa60c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-05.jpg",
+      "path": "../../nenaudojama/side-items/images/0149d1315c92f1566a7b32ba.jpg",
+      "archived": true,
+      "originalPath": "images/0149d1315c92f1566a7b32ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-06.jpg",
+      "path": "../../nenaudojama/side-items/images/a22353870cec4432dc2d684b.jpg",
+      "archived": true,
+      "originalPath": "images/a22353870cec4432dc2d684b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/d4e5c12c56653e5580564952.jpg",
+      "archived": true,
+      "originalPath": "images/d4e5c12c56653e5580564952.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/b561b2a4ac9febd098a835d4.jpg",
+      "archived": true,
+      "originalPath": "images/b561b2a4ac9febd098a835d4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5d8c75486dc1c470ee7e8438.jpg",
+      "archived": true,
+      "originalPath": "images/5d8c75486dc1c470ee7e8438.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e2da9a1371c6b8134b902362.jpg",
+      "archived": true,
+      "originalPath": "images/e2da9a1371c6b8134b902362.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d86c082cce493c4e4a92a83e.jpg",
+      "archived": true,
+      "originalPath": "images/d86c082cce493c4e4a92a83e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/34f6cee1f3001c3252eeec0c.jpg",
+      "archived": true,
+      "originalPath": "images/34f6cee1f3001c3252eeec0c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-06-241x350.jpg",
+      "path": "../../nenaudojama/side-items/images/55e37aba286d0417539116dd.jpg",
+      "archived": true,
+      "originalPath": "images/55e37aba286d0417539116dd.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/1a5a3f6bc94bd1142f78a5fc.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Roasted Lemony Cabbage",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Roasted Lemony Cabbage. Each serving comes out to be 121 calories, 6.9g fats, 8.7g net carbs, and 3.1g protein.",
+    "datePublished": "2026-06-30T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT30M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1 medium green cabbage",
+      "2 tablespoon olive oil",
+      "3 tablespoon lemon juice",
+      "salt and pepper (to taste)",
+      "1/2 medium lemon (sliced to garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather ingredients and preheat oven to 450F. Use nonstick spray or olive oil to coat your roasting pan.",
+        "name": "Gather ingredients and preheat oven to 450F. Use nonstick spray or olive oil to coat your roasting pan.",
+        "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the cabbage into 8 wedges, cutting through the core and the stem.",
+        "name": "Slice the cabbage into 8 wedges, cutting through the core and the stem.",
+        "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the olive oil and lemon juice together. Brush this all over the cabbage, then season each wedge with salt and pepper.",
+        "name": "Whisk the olive oil and lemon juice together. Brush this all over the cabbage, then season each wedge with salt and pepper.",
+        "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the wedges over and repeat with the second side.",
+        "name": "Turn the wedges over and repeat with the second side.",
+        "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast the cabbage for about 15 minutes, then carefully flip the wedges over.",
+        "name": "Roast the cabbage for about 15 minutes, then carefully flip the wedges over.",
+        "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast the opposite side for another 15 minutes. Serve hot with the lemon wedges.",
+        "name": "Roast the opposite side for another 15 minutes. Serve hot with the lemon wedges.",
+        "url": "https://www.ruled.me/keto-roasted-lemony-cabbage/#wprm-recipe-59514-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/06/keto-roasted-lemony-cabbage-step-06.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "keywords": "beginner-friendly, budget-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "121 kcal",
+      "fatContent": "6.9 g",
+      "proteinContent": "3.1 g",
+      "carbohydrateContent": "8.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-roasted-lemony-cabbage/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-roasted-lemony-cabbage/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-roasted-lemony-cabbage/"
+  },
+  "sourceIndex": {
+    "id": 59517,
+    "rid": 59514,
+    "t": "Keto Roasted Lemony Cabbage",
+    "u": "/keto-roasted-lemony-cabbage/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/eef7e7562c37ed282446b4f975da5c61-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 8.7,
+    "cal": 121,
+    "pr": 3.1,
+    "fa": 6.9,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2026-06-30",
+    "cm": 0,
+    "ex": "This Keto Roasted Lemony Cabbage is a total game-changer for anyone who thinks cabbage is just for coleslaw or slow-cooking. When you roast these wedges at a high temperature, the natural sugars in",
+    "pv": 22
+  },
+  "sourceHtml": "pages/keto-roasted-lemony-cabbage.html",
+  "scrapedAt": "2026-11-07T08:31:57.458Z"
+}

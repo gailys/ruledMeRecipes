@@ -1,0 +1,306 @@
+{
+  "id": "ruled-25522",
+  "slug": "fried-kale-sprouts",
+  "title": "Fried Kale Sprouts",
+  "url": "https://www.ruled.me/fried-kale-sprouts/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Fried Kale Sprouts. Each serving comes out to be 43 calories, 2.1g fats, 0.9g net carbs, and 4.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "fatContent": "2.1 g",
+    "proteinContent": "4.4 g",
+    "carbohydrateContent": "0.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 43,
+    "netCarbsGrams": 0.9,
+    "proteinGrams": 4.4,
+    "fatGrams": 2.1
+  },
+  "ingredients": [
+    "4 ounce kale sprouts",
+    "2 tablespoon parmesan cheese",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Heat the oil or lard in a deep fryer until it's hot. This is the package that I got from Trader Joe's, although I do know that Whole Foods also sells kale sprouts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_5864.jpg"
+    },
+    {
+      "text": "Place the kale sprouts in the fryer basket. Try to spread the sprouts out in a single layer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_6010.jpg"
+    },
+    {
+      "text": "Make sure to close the deep fryer before submerging the basket into the oil. These have a rather high water content, and when water mixes with oil it can be quite violent — some oil splashes will undoubtedly occur.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_6014.jpg"
+    },
+    {
+      "text": "Fry the kale sprouts until browned on the edges of the bulb and dark green on the leaves.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_6024.jpg"
+    },
+    {
+      "text": "Remove from the basket and place on paper towels to drain off any excess grease.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_6028.jpg"
+    },
+    {
+      "text": "Season with parmesan cheese, salt, and pepper. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "deep-fried",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/friedkalesproutsoverhead.jpg",
+      "path": "../../nenaudojama/side-items/images/57e3ab6260853628aa0f6062.jpg",
+      "archived": true,
+      "originalPath": "images/57e3ab6260853628aa0f6062.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5864.jpg",
+      "path": "../../nenaudojama/side-items/images/e808c9b0fefe4f75e41be023.jpg",
+      "archived": true,
+      "originalPath": "images/e808c9b0fefe4f75e41be023.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6010.jpg",
+      "path": "../../nenaudojama/side-items/images/abb0bdc9c57496e50226faa2.jpg",
+      "archived": true,
+      "originalPath": "images/abb0bdc9c57496e50226faa2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6014.jpg",
+      "path": "../../nenaudojama/side-items/images/c7c45898b85254000b4488c5.jpg",
+      "archived": true,
+      "originalPath": "images/c7c45898b85254000b4488c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6024.jpg",
+      "path": "../../nenaudojama/side-items/images/ee88ce62c6c508210db92369.jpg",
+      "archived": true,
+      "originalPath": "images/ee88ce62c6c508210db92369.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6028.jpg",
+      "path": "../../nenaudojama/side-items/images/e63883b4aa67cbe8e2061d33.jpg",
+      "archived": true,
+      "originalPath": "images/e63883b4aa67cbe8e2061d33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/friedkalesproutssecond.jpg",
+      "path": "../../nenaudojama/side-items/images/83d1cf8d8fdd025cd58cf171.jpg",
+      "archived": true,
+      "originalPath": "images/83d1cf8d8fdd025cd58cf171.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/friedkalesproutslong.jpg",
+      "path": "../../nenaudojama/side-items/images/120622cce11156b0686e8f11.jpg",
+      "archived": true,
+      "originalPath": "images/120622cce11156b0686e8f11.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5864-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c32bf76173de547e4632993a.jpg",
+      "archived": true,
+      "originalPath": "images/c32bf76173de547e4632993a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6010-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/574789b22d4e64e001c8017a.jpg",
+      "archived": true,
+      "originalPath": "images/574789b22d4e64e001c8017a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6014-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/ace93a18873ab89543fe3d7c.jpg",
+      "archived": true,
+      "originalPath": "images/ace93a18873ab89543fe3d7c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6024-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9344d24e3d6c3c1fa955a483.jpg",
+      "archived": true,
+      "originalPath": "images/9344d24e3d6c3c1fa955a483.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_6028-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/59296a1fc44cca742f289f16.jpg",
+      "archived": true,
+      "originalPath": "images/59296a1fc44cca742f289f16.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/57e3ab6260853628aa0f6062.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fried Kale Sprouts",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Fried Kale Sprouts. Each serving comes out to be 43 calories, 2.1g fats, 0.9g net carbs, and 4.4g protein.",
+    "datePublished": "2015-02-21T16:33:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/02/friedkalesproutsoverhead.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "4 ounce kale sprouts",
+      "2 tablespoon parmesan cheese",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the oil or lard in a deep fryer until it's hot. This is the package that I got from Trader Joe's, although I do know that Whole Foods also sells kale sprouts.",
+        "name": "Heat the oil or lard in a deep fryer until it's hot. This is the package that I got from Trader Joe's, although I do know that Whole Foods also sells kale sprouts.",
+        "url": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_5864.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the kale sprouts in the fryer basket. Try to spread the sprouts out in a single layer.",
+        "name": "Place the kale sprouts in the fryer basket. Try to spread the sprouts out in a single layer.",
+        "url": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_6010.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make sure to close the deep fryer before submerging the basket into the oil. These have a rather high water content, and when water mixes with oil it can be quite violent — some oil splashes will undoubtedly occur.",
+        "name": "Make sure to close the deep fryer before submerging the basket into the oil. These have a rather high water content, and when water mixes with oil it can be quite violent — some oil splashes will undoubtedly occur.",
+        "url": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_6014.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the kale sprouts until browned on the edges of the bulb and dark green on the leaves.",
+        "name": "Fry the kale sprouts until browned on the edges of the bulb and dark green on the leaves.",
+        "url": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_6024.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the basket and place on paper towels to drain off any excess grease.",
+        "name": "Remove from the basket and place on paper towels to drain off any excess grease.",
+        "url": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_6028.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with parmesan cheese, salt, and pepper. Enjoy!",
+        "name": "Season with parmesan cheese, salt, and pepper. Enjoy!",
+        "url": "https://www.ruled.me/fried-kale-sprouts/#wprm-recipe-51587-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "keywords": "30-minute, beginner-friendly, deep-fried, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "43 kcal",
+      "fatContent": "2.1 g",
+      "proteinContent": "4.4 g",
+      "carbohydrateContent": "0.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/fried-kale-sprouts/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fried-kale-sprouts/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fried-kale-sprouts/"
+  },
+  "sourceIndex": {
+    "id": 25522,
+    "rid": 51587,
+    "t": "Fried Kale Sprouts",
+    "u": "/fried-kale-sprouts/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/02/friedkalesproutsoverhead.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 0.9,
+    "cal": 43,
+    "pr": 4.4,
+    "fa": 2.1,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "deep-fried",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients"
+    ],
+    "d": "2015-02-21",
+    "cm": 0,
+    "ex": "Usually I would say that Kale Chips are a bit on the carby side when it comes to eating vegetables in a crunchy form. But, these kale sprouts that just came out at Trader Joe's are awesome! They have",
+    "pv": 111
+  },
+  "sourceHtml": "pages/fried-kale-sprouts.html",
+  "scrapedAt": "2026-11-07T08:32:47.323Z"
+}

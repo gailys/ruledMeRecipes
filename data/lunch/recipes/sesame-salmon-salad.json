@@ -1,0 +1,347 @@
+{
+  "id": "ruled-38586",
+  "slug": "sesame-salmon-salad",
+  "title": "Sesame Salmon Salad",
+  "url": "https://www.ruled.me/sesame-salmon-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Sesame Salmon Salad. Each serving comes out to be 440 calories, 33.8g fats, 4.2g net carbs, and 27.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT12M",
+  "totalTime": "PT22M",
+  "totalMinutes": 22,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "440 kcal",
+    "fatContent": "33.8 g",
+    "proteinContent": "27.7 g",
+    "carbohydrateContent": "4.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 440,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 27.7,
+    "fatGrams": 33.8
+  },
+  "ingredients": [
+    "4 tablespoon olive oil",
+    "1 teaspoon sesame oil",
+    "2 tablespoon soy sauce",
+    "24 ounce salmon",
+    "500 gram iceberg lettuce (chopped)",
+    "1 medium red bell pepper (diced)",
+    "1 medium yellow bell pepper (diced)",
+    "1/4 cup green bell pepper (diced)",
+    "4 tablespoon olive oil",
+    "1 teaspoon sesame oil",
+    "5 tablespoon soy sauce"
+  ],
+  "instructions": [
+    {
+      "text": "Heat up the olive oil from the salad ingredient list in a pan over medium heat. Add the sesame oil and soy sauce (or aminos, if using) from the same list.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-01.jpg"
+    },
+    {
+      "text": "If needed, cut your salmon into smaller pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-02.jpg"
+    },
+    {
+      "text": "Place your salmon in the pan and let it cook for 5-7 minutes. Flip them over and continue to cook for an additional 5 minutes. They should be a light pink to white color on the inside once they are done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-03.jpg"
+    },
+    {
+      "text": "While your salmon is cooking, place your chopped lettuce and diced peppers into a salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-04.jpg"
+    },
+    {
+      "text": "In a small bowl, mix your dressing ingredients together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-05.jpg"
+    },
+    {
+      "text": "Once the salmon is done, place on top of the salad, top with the dressing and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/beca1ef7a124f8488a483966.jpg",
+      "archived": true,
+      "originalPath": "images/beca1ef7a124f8488a483966.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-featured.jpg",
+      "path": "images/d5ad0e9cd6959441be0f8b2b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/c7e9edf23deecd302f91e5ab.jpg",
+      "archived": true,
+      "originalPath": "images/c7e9edf23deecd302f91e5ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/3921b78a81b62b81123cf992.avif",
+      "archived": true,
+      "originalPath": "images/3921b78a81b62b81123cf992.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-03.jpg",
+      "path": "../../nenaudojama/lunch/images/8b23fd1a9edeb78fa05dd11e.jpg",
+      "archived": true,
+      "originalPath": "images/8b23fd1a9edeb78fa05dd11e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/eb437139c617d454a2e50c5c.avif",
+      "archived": true,
+      "originalPath": "images/eb437139c617d454a2e50c5c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-05.jpg",
+      "path": "../../nenaudojama/lunch/images/b7d2be2b15f1ac90bce2283e.avif",
+      "archived": true,
+      "originalPath": "images/b7d2be2b15f1ac90bce2283e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/17d526ec0488be168f2c2450.jpg",
+      "archived": true,
+      "originalPath": "images/17d526ec0488be168f2c2450.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/1c6d7ec9d1bb80d04a9bdcd3.jpg",
+      "archived": true,
+      "originalPath": "images/1c6d7ec9d1bb80d04a9bdcd3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/cb4add2c5afe9d86b610ca79.avif",
+      "archived": true,
+      "originalPath": "images/cb4add2c5afe9d86b610ca79.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/44b5a0584dfe62d27f10d4cf.jpg",
+      "archived": true,
+      "originalPath": "images/44b5a0584dfe62d27f10d4cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e8b48cab15fefb8167d6c5a3.jpg",
+      "archived": true,
+      "originalPath": "images/e8b48cab15fefb8167d6c5a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/cf0a891a5810e25423cc452d.avif",
+      "archived": true,
+      "originalPath": "images/cf0a891a5810e25423cc452d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d40a5fbfcd0b900328002551.avif",
+      "archived": true,
+      "originalPath": "images/d40a5fbfcd0b900328002551.avif"
+    }
+  ],
+  "featuredImage": "images/d5ad0e9cd6959441be0f8b2b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Sesame Salmon Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Sesame Salmon Salad. Each serving comes out to be 440 calories, 33.8g fats, 4.2g net carbs, and 27.7g protein.",
+    "datePublished": "2018-11-29T23:32:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Sesame Salmon Salad",
+      "description": "Looking for a delicious, colorful salad to brighten up your dinner? This sesame salmon salad is just the thing. It has all the Asian flavor but doesn’t use soy for those of you who are avoiding it.\n\nInstead, I used liquid aminos. You can find it in your local grocery store, usually in the health foods section or it can be easily bought online. I find the taste is incredibly like regular soy sauce and I use it quite often in my cooking. You could also use coconut aminos.\n\nIf you are wanting to keep this for work lunches, it’s a great idea – just keep the dressing separate otherwise it will get the lettuce leaves all soggy.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nSalad\n1 medium head lettuce, chopped\n1 medium red pepper, chopped\n1 medium yellow pepper, chopped\n2 large (12-ounce each) salmon filets\n4 tablespoons olive oil\n1 teaspoon sesame oil\n2 tablespoons coconut aminos\n¼ cup green onions, chopped\n\nDressing\n4 tablespoons olive oil\n1 teaspoon sesame oil\n5 tablespoons coconut aminos\n\nNutrition Summary: This makes a total of 6 servings of Sesame Salmon Salad. Each serving comes out to be 383 Calories, 27.14g Fats, 7.33g Net Carbs, and 24.3g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-02-04T15:00:19+00:00",
+      "duration": "PT2M23S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yIM5pb9tIdg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yIM5pb9tIdg?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=yIM5pb9tIdg",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT12M",
+    "totalTime": "PT22M",
+    "recipeIngredient": [
+      "4 tablespoon olive oil",
+      "1 teaspoon sesame oil",
+      "2 tablespoon soy sauce",
+      "24 ounce salmon",
+      "500 gram iceberg lettuce (chopped)",
+      "1 medium red bell pepper (diced)",
+      "1 medium yellow bell pepper (diced)",
+      "1/4 cup green bell pepper (diced)",
+      "4 tablespoon olive oil",
+      "1 teaspoon sesame oil",
+      "5 tablespoon soy sauce"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the olive oil from the salad ingredient list in a pan over medium heat. Add the sesame oil and soy sauce (or aminos, if using) from the same list.",
+        "name": "Heat up the olive oil from the salad ingredient list in a pan over medium heat. Add the sesame oil and soy sauce (or aminos, if using) from the same list.",
+        "url": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If needed, cut your salmon into smaller pieces.",
+        "name": "If needed, cut your salmon into smaller pieces.",
+        "url": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place your salmon in the pan and let it cook for 5-7 minutes. Flip them over and continue to cook for an additional 5 minutes. They should be a light pink to white color on the inside once they are done.",
+        "name": "Place your salmon in the pan and let it cook for 5-7 minutes. Flip them over and continue to cook for an additional 5 minutes. They should be a light pink to white color on the inside once they are done.",
+        "url": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While your salmon is cooking, place your chopped lettuce and diced peppers into a salad bowl.",
+        "name": "While your salmon is cooking, place your chopped lettuce and diced peppers into a salad bowl.",
+        "url": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix your dressing ingredients together.",
+        "name": "In a small bowl, mix your dressing ingredients together.",
+        "url": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the salmon is done, place on top of the salad, top with the dressing and enjoy!",
+        "name": "Once the salmon is done, place on top of the salad, top with the dressing and enjoy!",
+        "url": "https://www.ruled.me/sesame-salmon-salad/#wprm-recipe-52798-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, fish, high-fat, high-protein, keto, low-carb, nut-free, packed-lunch, quick, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "440 kcal",
+      "fatContent": "33.8 g",
+      "proteinContent": "27.7 g",
+      "carbohydrateContent": "4.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/sesame-salmon-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/sesame-salmon-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/sesame-salmon-salad/"
+  },
+  "sourceIndex": {
+    "id": 38586,
+    "rid": 52798,
+    "t": "Sesame Salmon Salad",
+    "u": "/sesame-salmon-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/11/keto-sesame-salmon-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.2,
+    "cal": 440,
+    "pr": 27.7,
+    "fa": 33.8,
+    "tm": 22,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2018-11-29",
+    "cm": 0,
+    "ex": "Looking for a delicious, colorful salad to brighten up your dinner? This sesame salmon salad is just the thing. It has all the Asian flavor but doesn’t use soy for those of you who are avoiding it",
+    "pv": 239
+  },
+  "sourceHtml": "pages/sesame-salmon-salad.html",
+  "scrapedAt": "2026-11-07T08:16:53.466Z"
+}

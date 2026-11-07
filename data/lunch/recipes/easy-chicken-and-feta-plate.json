@@ -1,0 +1,233 @@
+{
+  "id": "ruled-42831",
+  "slug": "easy-chicken-and-feta-plate",
+  "title": "Easy Chicken and Feta Plate",
+  "url": "https://www.ruled.me/easy-chicken-and-feta-plate/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Easy Chicken and Feta Plate. Each serving comes out to be 777 calories, 59.1g fats, 8.3g net carbs, and 52.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "777 kcal",
+    "fatContent": "59.1 g",
+    "proteinContent": "52.9 g",
+    "carbohydrateContent": "8.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 777,
+    "netCarbsGrams": 8.3,
+    "proteinGrams": 52.9,
+    "fatGrams": 59.1
+  },
+  "ingredients": [
+    "10 ounce rotisserie chicken",
+    "6 ounce feta cheese (sliced)",
+    "2 medium fresh tomatoes (sliced)",
+    "2 ounce spring mix",
+    "10 whole black olives",
+    "4 tablespoon olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Arrange the rotisserie chicken, feta cheese, tomatoes, spring mix, and olives on a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-chicken-and-feta-plate/#wprm-recipe-53299-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-01.jpg"
+    },
+    {
+      "text": "Season with salt and pepper. Serve with olive oil for dipping or drizzling.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-chicken-and-feta-plate/#wprm-recipe-53299-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "no-cook",
+    "meal-prep",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/387b3dea83508d66dcb67643.jpg",
+      "archived": true,
+      "originalPath": "images/387b3dea83508d66dcb67643.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-featured.jpg",
+      "path": "images/0cf6d9ea7db420b8a60d9638.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-01.jpg",
+      "path": "../../nenaudojama/lunch/images/4d4541abf0e5323a713d5c21.jpg",
+      "archived": true,
+      "originalPath": "images/4d4541abf0e5323a713d5c21.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-second.jpg",
+      "path": "../../nenaudojama/lunch/images/c1665829c1f55a9e23707ad9.jpg",
+      "archived": true,
+      "originalPath": "images/c1665829c1f55a9e23707ad9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/b76a1f1f4ee451a599e57513.jpg",
+      "archived": true,
+      "originalPath": "images/b76a1f1f4ee451a599e57513.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/37a4302ce1b55118dc24b9d8.jpg",
+      "archived": true,
+      "originalPath": "images/37a4302ce1b55118dc24b9d8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/65cd7d3ce22a3c3da09e3dfb.jpg",
+      "archived": true,
+      "originalPath": "images/65cd7d3ce22a3c3da09e3dfb.jpg"
+    }
+  ],
+  "featuredImage": "images/0cf6d9ea7db420b8a60d9638.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Easy Chicken and Feta Plate",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Easy Chicken and Feta Plate. Each serving comes out to be 777 calories, 59.1g fats, 8.3g net carbs, and 52.9g protein.",
+    "datePublished": "2020-03-26T09:00:14+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "10 ounce rotisserie chicken",
+      "6 ounce feta cheese (sliced)",
+      "2 medium fresh tomatoes (sliced)",
+      "2 ounce spring mix",
+      "10 whole black olives",
+      "4 tablespoon olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the rotisserie chicken, feta cheese, tomatoes, spring mix, and olives on a plate.",
+        "name": "Arrange the rotisserie chicken, feta cheese, tomatoes, spring mix, and olives on a plate.",
+        "url": "https://www.ruled.me/easy-chicken-and-feta-plate/#wprm-recipe-53299-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper. Serve with olive oil for dipping or drizzling.",
+        "name": "Season with salt and pepper. Serve with olive oil for dipping or drizzling.",
+        "url": "https://www.ruled.me/easy-chicken-and-feta-plate/#wprm-recipe-53299-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, no-cook, nut-free, packed-lunch, poultry, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "777 kcal",
+      "fatContent": "59.1 g",
+      "proteinContent": "52.9 g",
+      "carbohydrateContent": "8.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/easy-chicken-and-feta-plate/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/easy-chicken-and-feta-plate/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/easy-chicken-and-feta-plate/"
+  },
+  "sourceIndex": {
+    "id": 42831,
+    "rid": 53299,
+    "t": "Easy Chicken and Feta Plate",
+    "u": "/easy-chicken-and-feta-plate/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/03/meditterranian-roasted-chicken-lunch-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.3,
+    "cal": 777,
+    "pr": 52.9,
+    "fa": 59.1,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "no-cook",
+      "meal-prep",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-03-26",
+    "cm": 0,
+    "ex": "If you're in need of an easy lunch idea then look no further, because you've got to try this chicken and feta plate. It's a grab-and-go Mediterranean style meal complete with a simple salad, feta",
+    "pv": 54
+  },
+  "sourceHtml": "pages/easy-chicken-and-feta-plate.html",
+  "scrapedAt": "2026-11-07T08:16:04.161Z"
+}

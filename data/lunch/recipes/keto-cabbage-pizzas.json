@@ -1,0 +1,324 @@
+{
+  "id": "ruled-47037",
+  "slug": "keto-cabbage-pizzas",
+  "title": "Keto Cabbage Pizzas",
+  "url": "https://www.ruled.me/keto-cabbage-pizzas/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Cabbage Pizzas. Each serving comes out to be 343 calories, 24g fats, 8.1g net carbs, and 19.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "343 kcal",
+    "fatContent": "24 g",
+    "proteinContent": "19.7 g",
+    "carbohydrateContent": "8.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 343,
+    "netCarbsGrams": 8.1,
+    "proteinGrams": 19.7,
+    "fatGrams": 24
+  },
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "28 ounce green cabbage",
+    "2 tablespoon whole grain mustard",
+    "8 ounce corned beef",
+    "4 ounce cheddar cheese",
+    "1/4 cup green onion (chopped)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 450F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-1.jpg"
+    },
+    {
+      "text": "Line a baking sheet with parchment paper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-2.jpg"
+    },
+    {
+      "text": "Slice the cabbage in half then into smaller slices, making the \"dough\" of the pizza. Drizzle with olive oil and season with salt and pepper. Roast these in the oven for 15 - 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-3.jpg"
+    },
+    {
+      "text": "Chop up the green onions and the corned beef.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-4.jpg"
+    },
+    {
+      "text": "Once the cabbage is ready to take out of the oven, smear the whole grain mustard onto the cabbage pieces. Top with corned beef and shredded cheddar cheese. Bake in the oven for about 5 minutes just until the cheese is melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-5.jpg"
+    },
+    {
+      "text": "Garnish with green onions. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "red-meat",
+    "sheet-pan",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/95c7cc1c39dbbaa48b808c73.jpg",
+      "archived": true,
+      "originalPath": "images/95c7cc1c39dbbaa48b808c73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Featured.jpg",
+      "path": "images/7d6580552c8fbc446422f541.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-1.jpg",
+      "path": "../../nenaudojama/lunch/images/332f9b2b4fab38a7de98e643.jpg",
+      "archived": true,
+      "originalPath": "images/332f9b2b4fab38a7de98e643.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-2.jpg",
+      "path": "../../nenaudojama/lunch/images/4d3d615bf2f14d3db3424237.jpg",
+      "archived": true,
+      "originalPath": "images/4d3d615bf2f14d3db3424237.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-3.jpg",
+      "path": "../../nenaudojama/lunch/images/91d3ba03706abbeaf29d3b8b.jpg",
+      "archived": true,
+      "originalPath": "images/91d3ba03706abbeaf29d3b8b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-4.jpg",
+      "path": "../../nenaudojama/lunch/images/86b92a27ddfa1b1f58dcb82e.jpg",
+      "archived": true,
+      "originalPath": "images/86b92a27ddfa1b1f58dcb82e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-5.jpg",
+      "path": "../../nenaudojama/lunch/images/358e37f8268064114f5e3c3d.jpg",
+      "archived": true,
+      "originalPath": "images/358e37f8268064114f5e3c3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/e3383edf5c2511d75249ae2b.jpg",
+      "archived": true,
+      "originalPath": "images/e3383edf5c2511d75249ae2b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/414eab7ba3416e0e30d592bd.avif",
+      "archived": true,
+      "originalPath": "images/414eab7ba3416e0e30d592bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/80ee9e99338c6fb4f2f276dc.avif",
+      "archived": true,
+      "originalPath": "images/80ee9e99338c6fb4f2f276dc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5e60888a376f3a4fb73c5d7c.jpg",
+      "archived": true,
+      "originalPath": "images/5e60888a376f3a4fb73c5d7c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7dfd2f47f3b9d567d2026b9a.avif",
+      "archived": true,
+      "originalPath": "images/7dfd2f47f3b9d567d2026b9a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/78bc46fdaae906f1f47ce287.avif",
+      "archived": true,
+      "originalPath": "images/78bc46fdaae906f1f47ce287.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a3403c056f9e7fd4c717bd9b.jpg",
+      "archived": true,
+      "originalPath": "images/a3403c056f9e7fd4c717bd9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-5-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5daa8ded6c4fef288355db74.avif",
+      "archived": true,
+      "originalPath": "images/5daa8ded6c4fef288355db74.avif"
+    }
+  ],
+  "featuredImage": "images/7d6580552c8fbc446422f541.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cabbage Pizzas",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Cabbage Pizzas. Each serving comes out to be 343 calories, 24g fats, 8.1g net carbs, and 19.7g protein.",
+    "datePublished": "2022-04-28T09:00:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1 tablespoon olive oil",
+      "28 ounce green cabbage",
+      "2 tablespoon whole grain mustard",
+      "8 ounce corned beef",
+      "4 ounce cheddar cheese",
+      "1/4 cup green onion (chopped)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 450F.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 450F.",
+        "url": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a baking sheet with parchment paper.",
+        "name": "Line a baking sheet with parchment paper.",
+        "url": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the cabbage in half then into smaller slices, making the \"dough\" of the pizza. Drizzle with olive oil and season with salt and pepper. Roast these in the oven for 15 - 20 minutes.",
+        "name": "Slice the cabbage in half then into smaller slices, making the \"dough\" of the pizza. Drizzle with olive oil and season with salt and pepper. Roast these in the oven for 15 - 20 minutes.",
+        "url": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop up the green onions and the corned beef.",
+        "name": "Chop up the green onions and the corned beef.",
+        "url": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cabbage is ready to take out of the oven, smear the whole grain mustard onto the cabbage pieces. Top with corned beef and shredded cheddar cheese. Bake in the oven for about 5 minutes just until the cheese is melted.",
+        "name": "Once the cabbage is ready to take out of the oven, smear the whole grain mustard onto the cabbage pieces. Top with corned beef and shredded cheddar cheese. Bake in the oven for about 5 minutes just until the cheese is melted.",
+        "url": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with green onions. Serve and enjoy!",
+        "name": "Garnish with green onions. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-cabbage-pizzas/#wprm-recipe-54171-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, oven-baked, red meat, sheet-pan, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "343 kcal",
+      "fatContent": "24 g",
+      "proteinContent": "19.7 g",
+      "carbohydrateContent": "8.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cabbage-pizzas/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cabbage-pizzas/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cabbage-pizzas/"
+  },
+  "sourceIndex": {
+    "id": 47037,
+    "rid": 54171,
+    "t": "Keto Cabbage Pizzas",
+    "u": "/keto-cabbage-pizzas/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/02/Keto-Cabbage-Pizzas-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 8.1,
+    "cal": 343,
+    "pr": 19.7,
+    "fa": 24,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "red-meat",
+      "sheet-pan",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "red-meat"
+    ],
+    "d": "2022-04-28",
+    "cm": 0,
+    "ex": "How does a tasty and nutritious pizza sound? Even better, a keto-friendly pizza that has all of the flavors but none of the carbs? If that sounds like something you’d enjoy, these keto cabbage pizzas",
+    "pv": 174
+  },
+  "sourceHtml": "pages/keto-cabbage-pizzas.html",
+  "scrapedAt": "2026-11-07T08:15:31.823Z"
+}

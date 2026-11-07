@@ -1,0 +1,348 @@
+{
+  "id": "ruled-7281",
+  "slug": "egg-bacon-cheese-baskets",
+  "title": "Bacon & Egg Cheese Baskets",
+  "url": "https://www.ruled.me/egg-bacon-cheese-baskets/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Bacon & Egg Cheese Baskets. Each serving comes out to be 328 calories, 26.8g fats, 2.4g net carbs, and 17.6g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "328 kcal",
+    "fatContent": "26.8 g",
+    "proteinContent": "17.6 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 328,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 17.6,
+    "fatGrams": 26.8
+  },
+  "ingredients": [
+    "1 1/2 cup cheddar cheese (shredded)",
+    "1 teaspoon paprika",
+    "1/4 teaspoon cayenne pepper",
+    "6 ounce bacon",
+    "6 large egg",
+    "1 teaspoon black pepper",
+    "1/2 teaspoon salt",
+    "6 tablespoon salsa"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Start by placing the cheese in piles (equal to serving totals) on a Silpat. I prefer to use Silpats because they are nonstick and cheese cooks very well on them. Season the cheese piles with paprika and cayenne pepper and bake for 10–12 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-04.jpg"
+    },
+    {
+      "text": "Immediately after taking them out of the oven, use an upside-down cupcake tray to form half of the crisps into a cup-like shape. Set these aside for later.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-07.jpg"
+    },
+    {
+      "text": "Thinly slice the bacon and add it to a heated pan. Cook until crisp. Once browned, remove the bacon from the pan, reserving as much of the grease as possible.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-01.jpg"
+    },
+    {
+      "text": "Place the strips of bacon on a paper towel to crisp up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-06.jpg"
+    },
+    {
+      "text": "Fry half of the eggs in the bacon grease. Use a small ramekin or egg ring to cut off the egg whites and create a perfect circular egg. Once these eggs are finished, scramble the other eggs in the remaining bacon fat. Season them well and don't overcook them!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-08.jpg"
+    },
+    {
+      "text": "Add the fried eggs to the flat cheese crisps and the scrambled eggs to the cup-shaped crisps. Top with bacon and salsa.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-13.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/0caf3d7cf1b4cde92a706e93.jpg",
+      "archived": true,
+      "originalPath": "images/0caf3d7cf1b4cde92a706e93.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-featured.jpg",
+      "path": "images/74b3bc40406365ffd3c8152f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/3dffdec184df60100d357a1b.avif",
+      "archived": true,
+      "originalPath": "images/3dffdec184df60100d357a1b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-07.jpg",
+      "path": "../../nenaudojama/breakfast/images/5609997c65b653329dfd2b50.avif",
+      "archived": true,
+      "originalPath": "images/5609997c65b653329dfd2b50.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/6a6bee5162b625abd7124e1a.avif",
+      "archived": true,
+      "originalPath": "images/6a6bee5162b625abd7124e1a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-06.jpg",
+      "path": "../../nenaudojama/breakfast/images/0d4819ba8d441042968be511.avif",
+      "archived": true,
+      "originalPath": "images/0d4819ba8d441042968be511.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-08.jpg",
+      "path": "../../nenaudojama/breakfast/images/395bd2dd95a717abfe229385.jpg",
+      "archived": true,
+      "originalPath": "images/395bd2dd95a717abfe229385.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-13.jpg",
+      "path": "../../nenaudojama/breakfast/images/302064f3a077a65ffd7cd25f.avif",
+      "archived": true,
+      "originalPath": "images/302064f3a077a65ffd7cd25f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-09.jpg",
+      "path": "../../nenaudojama/breakfast/images/11d550ea49c7286cb3fdf667.avif",
+      "archived": true,
+      "originalPath": "images/11d550ea49c7286cb3fdf667.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/3c9c2014b348590432af6e6b.avif",
+      "archived": true,
+      "originalPath": "images/3c9c2014b348590432af6e6b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-04-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d38e90b892c27cfd30fc5cad.jpg",
+      "archived": true,
+      "originalPath": "images/d38e90b892c27cfd30fc5cad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-07-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/035ca7d62e4ad7f0d437747f.jpg",
+      "archived": true,
+      "originalPath": "images/035ca7d62e4ad7f0d437747f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3f50dc05131f2de0376c6309.jpg",
+      "archived": true,
+      "originalPath": "images/3f50dc05131f2de0376c6309.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-06-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bcd170314f8e1d6afb9b3db3.avif",
+      "archived": true,
+      "originalPath": "images/bcd170314f8e1d6afb9b3db3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-08-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c494980b20b11e4cdd06e0ba.jpg",
+      "archived": true,
+      "originalPath": "images/c494980b20b11e4cdd06e0ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-13-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/df4c6d9f04e77606ef9b0924.jpg",
+      "archived": true,
+      "originalPath": "images/df4c6d9f04e77606ef9b0924.jpg"
+    }
+  ],
+  "featuredImage": "images/74b3bc40406365ffd3c8152f.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon &amp; Egg Cheese Baskets",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Bacon &amp; Egg Cheese Baskets. Each serving comes out to be 328 calories, 26.8g fats, 2.4g net carbs, and 17.6g protein.",
+    "datePublished": "2014-01-26T16:51:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1 1/2 cup cheddar cheese (shredded)",
+      "1 teaspoon paprika",
+      "1/4 teaspoon cayenne pepper",
+      "6 ounce bacon",
+      "6 large egg",
+      "1 teaspoon black pepper",
+      "1/2 teaspoon salt",
+      "6 tablespoon salsa"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Start by placing the cheese in piles (equal to serving totals) on a Silpat. I prefer to use Silpats because they are nonstick and cheese cooks very well on them. Season the cheese piles with paprika and cayenne pepper and bake for 10–12 minutes.",
+        "name": "Preheat oven to 400F. Start by placing the cheese in piles (equal to serving totals) on a Silpat. I prefer to use Silpats because they are nonstick and cheese cooks very well on them. Season the cheese piles with paprika and cayenne pepper and bake for 10–12 minutes.",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Immediately after taking them out of the oven, use an upside-down cupcake tray to form half of the crisps into a cup-like shape. Set these aside for later.",
+        "name": "Immediately after taking them out of the oven, use an upside-down cupcake tray to form half of the crisps into a cup-like shape. Set these aside for later.",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the bacon and add it to a heated pan. Cook until crisp. Once browned, remove the bacon from the pan, reserving as much of the grease as possible.",
+        "name": "Thinly slice the bacon and add it to a heated pan. Cook until crisp. Once browned, remove the bacon from the pan, reserving as much of the grease as possible.",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the strips of bacon on a paper towel to crisp up.",
+        "name": "Place the strips of bacon on a paper towel to crisp up.",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry half of the eggs in the bacon grease. Use a small ramekin or egg ring to cut off the egg whites and create a perfect circular egg. Once these eggs are finished, scramble the other eggs in the remaining bacon fat. Season them well and don't overcook them!",
+        "name": "Fry half of the eggs in the bacon grease. Use a small ramekin or egg ring to cut off the egg whites and create a perfect circular egg. Once these eggs are finished, scramble the other eggs in the remaining bacon fat. Season them well and don't overcook them!",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the fried eggs to the flat cheese crisps and the scrambled eggs to the cup-shaped crisps. Top with bacon and salsa.",
+        "name": "Add the fried eggs to the flat cheese crisps and the scrambled eggs to the cup-shaped crisps. Top with bacon and salsa.",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/egg-bacon-cheese-baskets/#wprm-recipe-50773-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, keto, low-carb, nut-free, oven-baked, pork, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "328 kcal",
+      "fatContent": "26.8 g",
+      "proteinContent": "17.6 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/egg-bacon-cheese-baskets/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/egg-bacon-cheese-baskets/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/egg-bacon-cheese-baskets/"
+  },
+  "sourceIndex": {
+    "id": 7281,
+    "rid": 50773,
+    "t": "Egg and Bacon Cheese Baskets",
+    "u": "/egg-bacon-cheese-baskets/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/egg-bacon-cheese-baskets-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.4,
+    "cal": 328,
+    "pr": 17.6,
+    "fa": 26.8,
+    "tm": 30,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "pork",
+      "eggs"
+    ],
+    "d": "2014-01-26",
+    "cm": 2,
+    "ex": "Since I made the cheese chips recipe a while ago, I figured it was time to revisit them. This time, I wanted to use the cheese crisps as both a textural addition as well as a vessel for the food to",
+    "pv": 102
+  },
+  "sourceHtml": "pages/egg-bacon-cheese-baskets.html",
+  "scrapedAt": "2026-11-07T08:11:13.220Z"
+}

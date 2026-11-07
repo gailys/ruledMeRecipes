@@ -1,0 +1,393 @@
+{
+  "id": "ruled-56794",
+  "slug": "keto-puffed-cheese-snacks",
+  "title": "Keto Puffed Cheese Snacks",
+  "url": "https://www.ruled.me/keto-puffed-cheese-snacks/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Puffed Cheese Snacks. Each serving comes out to be 264 calories, 14.5g fats, 2.8g net carbs, and 29.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT50M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "264 kcal",
+    "fatContent": "14.5 g",
+    "proteinContent": "29.5 g",
+    "carbohydrateContent": "2.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 264,
+    "netCarbsGrams": 2.8,
+    "proteinGrams": 29.5,
+    "fatGrams": 14.5
+  },
+  "ingredients": [
+    "3 large egg white",
+    "1/8 teaspoon cream of tartar",
+    "2 tablespoon unflavored low-carb protein powder",
+    "1 cup parmesan cheese (grated)",
+    "2 tablespoon fresh chives (diced)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients. Pre-heat oven to 340F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-1.jpg"
+    },
+    {
+      "text": "Separate the egg yolks from the whites and add the whites to a bowl. Save the yolks for a different recipe or discard. Add in the cream of tartar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-2.jpg"
+    },
+    {
+      "text": "Beat the egg whites until soft peaks form, then add in the protein powder. Continue beating until stiff peaks form.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-3.jpg"
+    },
+    {
+      "text": "Add in the grated parmesan and chives, then fold into the egg white mixture gently using a spatula.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-5.jpg"
+    },
+    {
+      "text": "Spoon the mixture onto a parchment paper lined baking sheet. Try to make each mound about 1 tablespoon big.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-6.jpg"
+    },
+    {
+      "text": "Place into the oven and bake for 5 minutes, then turn the temperature of the oven down to 140F. Allow to bake for an additional 40-45 minutes. Allow to cool, then serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "eggs",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "few-ingredients",
+    "oven-baked",
+    "make-ahead",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/db149e8f97d1681b829c2d93.jpg",
+      "archived": true,
+      "originalPath": "images/db149e8f97d1681b829c2d93.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/6ca128983221ad79ad90ead5.jpg",
+      "archived": true,
+      "originalPath": "images/6ca128983221ad79ad90ead5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-1.jpg",
+      "path": "../../nenaudojama/snacks/images/432a237ef67c0854fb0e1a8f.jpg",
+      "archived": true,
+      "originalPath": "images/432a237ef67c0854fb0e1a8f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-2.jpg",
+      "path": "../../nenaudojama/snacks/images/2e04fc3f73e2b0f735a3e9d6.jpg",
+      "archived": true,
+      "originalPath": "images/2e04fc3f73e2b0f735a3e9d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-3.jpg",
+      "path": "../../nenaudojama/snacks/images/756e66ea12812a2f8817ee7e.jpg",
+      "archived": true,
+      "originalPath": "images/756e66ea12812a2f8817ee7e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-5.jpg",
+      "path": "../../nenaudojama/snacks/images/26c6cadbbfb928d4d548acfe.jpg",
+      "archived": true,
+      "originalPath": "images/26c6cadbbfb928d4d548acfe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-6.jpg",
+      "path": "../../nenaudojama/snacks/images/5540fe43167706f3064fbbc5.jpg",
+      "archived": true,
+      "originalPath": "images/5540fe43167706f3064fbbc5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/befda966cbaefaa2a546bd3b.avif",
+      "archived": true,
+      "originalPath": "images/befda966cbaefaa2a546bd3b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/a56fe5518f19a5f61ee99c9f.jpg",
+      "archived": true,
+      "originalPath": "images/a56fe5518f19a5f61ee99c9f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/4abfe638166ce3c199bab1c4.jpg",
+      "archived": true,
+      "originalPath": "images/4abfe638166ce3c199bab1c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/aaef8562348acabe7462b4bf.jpg",
+      "archived": true,
+      "originalPath": "images/aaef8562348acabe7462b4bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/07bf33355cde843df52bf33e.jpg",
+      "archived": true,
+      "originalPath": "images/07bf33355cde843df52bf33e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/263303de3879d2925426357d.jpg",
+      "archived": true,
+      "originalPath": "images/263303de3879d2925426357d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-5-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/f76807e2e7e1621d12d11815.jpg",
+      "archived": true,
+      "originalPath": "images/f76807e2e7e1621d12d11815.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-6-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/91375d1f79c290f8d9e65c8a.jpg",
+      "archived": true,
+      "originalPath": "images/91375d1f79c290f8d9e65c8a.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/6ca128983221ad79ad90ead5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Puffed Cheese Snacks",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Puffed Cheese Snacks. Each serving comes out to be 264 calories, 14.5g fats, 2.8g net carbs, and 29.5g protein.",
+    "datePublished": "2024-07-16T09:43:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured-480x270.jpg"
+    ],
+    "video": {
+      "name": "Keto Puffed Cheese Snacks [Low-Carb Popcorn Replacement]",
+      "description": "Crunchy, savory, and utterly addictive, our Keto Puffed Cheese Snacks are a delicious twist on the classic popcorn experience, offering all the satisfaction of a crispy snack without the carbs. Made with with the star ingredient — cheese — these puffed snacks are a delight to eat. Whether you’re craving a crunchy snack to enjoy while watching your favorite movie or looking for a flavorful addition to your lunchbox, these cheesy puffs are sure to hit the spot.\n\nSince these are similar to meringues, you can store in an air-tight container but they will lose crispness the longer you keep them. Make sure that you try to avoid leaving them out as they will absorb moisture from the air and can go soggy if left out too long. If they do go soggy, you can re-bake in the oven at 200F for 10 minutes to dehydrate them again.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n3 large egg whites\n1/8 teaspoon cream of tartar\n2 tablespoon unflavored protein powder\n1 cup grated Parmesan cheese\n2 tablespoon chives, diced\n\nNutrition Summary: This makes a total of 2 servings of Keto Puffed Cheese Snacks. Each serving comes out to be 281 calories, 14.8g fats, 2.9g net carbs, and 33.1g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-10-26T15:00:29+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 10586
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 348
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 9
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XgSfIGfETk4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XgSfIGfETk4?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=XgSfIGfETk4",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "3 large egg white",
+      "1/8 teaspoon cream of tartar",
+      "2 tablespoon unflavored low-carb protein powder",
+      "1 cup parmesan cheese (grated)",
+      "2 tablespoon fresh chives (diced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients. Pre-heat oven to 340F.",
+        "name": "Gather and prep all of your ingredients. Pre-heat oven to 340F.",
+        "url": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Separate the egg yolks from the whites and add the whites to a bowl. Save the yolks for a different recipe or discard. Add in the cream of tartar.",
+        "name": "Separate the egg yolks from the whites and add the whites to a bowl. Save the yolks for a different recipe or discard. Add in the cream of tartar.",
+        "url": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg whites until soft peaks form, then add in the protein powder. Continue beating until stiff peaks form.",
+        "name": "Beat the egg whites until soft peaks form, then add in the protein powder. Continue beating until stiff peaks form.",
+        "url": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the grated parmesan and chives, then fold into the egg white mixture gently using a spatula.",
+        "name": "Add in the grated parmesan and chives, then fold into the egg white mixture gently using a spatula.",
+        "url": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the mixture onto a parchment paper lined baking sheet. Try to make each mound about 1 tablespoon big.",
+        "name": "Spoon the mixture onto a parchment paper lined baking sheet. Try to make each mound about 1 tablespoon big.",
+        "url": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place into the oven and bake for 5 minutes, then turn the temperature of the oven down to 140F. Allow to bake for an additional 40-45 minutes. Allow to cool, then serve!",
+        "name": "Place into the oven and bake for 5 minutes, then turn the temperature of the oven down to 140F. Allow to bake for an additional 40-45 minutes. Allow to cool, then serve!",
+        "url": "https://www.ruled.me/keto-puffed-cheese-snacks/#wprm-recipe-56803-step-0-5"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "What an innovation!",
+        "author": {
+          "@type": "Person",
+          "name": "Shruti Steele"
+        },
+        "datePublished": "2024-07-16"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "eggs, gluten-free, high-protein, keto, low-carb, make-ahead, nut-free, oven-baked, simple &amp; easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "264 kcal",
+      "fatContent": "14.5 g",
+      "proteinContent": "29.5 g",
+      "carbohydrateContent": "2.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-puffed-cheese-snacks/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-puffed-cheese-snacks/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-puffed-cheese-snacks/"
+  },
+  "sourceIndex": {
+    "id": 56794,
+    "rid": 56803,
+    "t": "Keto Puffed Cheese Snacks",
+    "u": "/keto-puffed-cheese-snacks/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/06/Keto-Puffed-Cheese-Snacks-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 2.8,
+    "cal": 264,
+    "pr": 29.5,
+    "fa": 14.5,
+    "tm": 60,
+    "sv": 2,
+    "kw": [
+      "eggs",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "few-ingredients",
+      "oven-baked",
+      "make-ahead",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2024-07-16",
+    "cm": 1,
+    "ex": "Crunchy, savory, and utterly addictive, our Keto Puffed Cheese Snacks are a delicious twist on the classic popcorn experience, offering all the satisfaction of a crispy snack without the carbs. Made",
+    "pv": 641
+  },
+  "sourceHtml": "pages/keto-puffed-cheese-snacks.html",
+  "scrapedAt": "2026-11-07T08:30:40.123Z"
+}

@@ -1,0 +1,349 @@
+{
+  "id": "ruled-29160",
+  "slug": "low-carb-blueberry-ricotta-pancakes",
+  "title": "Low-Carb Blueberry Ricotta Pancakes",
+  "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Low-Carb Blueberry Ricotta Pancakes. Each serving comes out to be 288 calories, 21.5g fats, 5.6g net carbs, and 14.7g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "fatContent": "21.5 g",
+    "proteinContent": "14.7 g",
+    "carbohydrateContent": "5.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 288,
+    "netCarbsGrams": 5.6,
+    "proteinGrams": 14.7,
+    "fatGrams": 21.5
+  },
+  "ingredients": [
+    "3 large egg",
+    "3/4 cup ricotta cheese",
+    "1 teaspoon vanilla extract",
+    "1/4 cup unsweetened almond milk",
+    "1 cup almond flour",
+    "1/2 cup flaxseed meal",
+    "1/4 teaspoon salt",
+    "1 teaspoon baking powder",
+    "7 drop liquid stevia",
+    "1/4 cup blueberries"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a skillet over medium heat. Blend together the eggs, ricotta, vanilla extract, and unsweetened almond milk.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-2.jpg"
+    },
+    {
+      "text": "In a separate bowl, mix together the almond flour, golden flaxseed meal, salt, baking powder, and stevia.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-3.jpg"
+    },
+    {
+      "text": "Slowly incorporate the dry ingredients into the wet mixture, blending until smooth batter forms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-4.jpg"
+    },
+    {
+      "text": "You'll want to add about 2–3 blueberries per pancake, but this depends on their size; feel free to halve them if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-5.jpg"
+    },
+    {
+      "text": "Add butter to the preheated skillet and wait for it to melt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-6.jpg"
+    },
+    {
+      "text": "Pour the pancake batter into the skillet, add the blueberries, and flip once lightly browned on the outside. Once finished on the other side, repeat with the remaining batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-7.jpg"
+    },
+    {
+      "text": "Serve with sugar-free syrup or additional berries.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-620x900.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-900x600-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/47737c8c3839ec7b5537fd1d.jpg",
+      "archived": true,
+      "originalPath": "images/47737c8c3839ec7b5537fd1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-900x600.jpg",
+      "path": "images/451d2a64e4cbaf767014b616.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/c314f77e675deb286f5d0e22.avif",
+      "archived": true,
+      "originalPath": "images/c314f77e675deb286f5d0e22.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/f4b8316a301d93d00ffa16d6.avif",
+      "archived": true,
+      "originalPath": "images/f4b8316a301d93d00ffa16d6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/5497a5713f1d1eaf3e2cc1d4.avif",
+      "archived": true,
+      "originalPath": "images/5497a5713f1d1eaf3e2cc1d4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/c90f4fdd339770492014af2d.avif",
+      "archived": true,
+      "originalPath": "images/c90f4fdd339770492014af2d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/ee5dbebf6dc7b0680029f1e7.avif",
+      "archived": true,
+      "originalPath": "images/ee5dbebf6dc7b0680029f1e7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-7.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff6e585a04d97418678ef3e4.jpg",
+      "archived": true,
+      "originalPath": "images/ff6e585a04d97418678ef3e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-620x900.jpg",
+      "path": "../../nenaudojama/breakfast/images/dafa93646b22c5d77338a746.jpg",
+      "archived": true,
+      "originalPath": "images/dafa93646b22c5d77338a746.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-900x450.jpg",
+      "path": "../../nenaudojama/breakfast/images/a1927d82e33a2847c13a5e09.avif",
+      "archived": true,
+      "originalPath": "images/a1927d82e33a2847c13a5e09.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/338f7801799e5af9f82942f5.avif",
+      "archived": true,
+      "originalPath": "images/338f7801799e5af9f82942f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/972576ff5059f9c113f19729.jpg",
+      "archived": true,
+      "originalPath": "images/972576ff5059f9c113f19729.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/925ecfce225ede20f82d84bd.avif",
+      "archived": true,
+      "originalPath": "images/925ecfce225ede20f82d84bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e014fd9540d2dbb11abbc4f.avif",
+      "archived": true,
+      "originalPath": "images/3e014fd9540d2dbb11abbc4f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7039da60e59ad462b367dca6.avif",
+      "archived": true,
+      "originalPath": "images/7039da60e59ad462b367dca6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-7-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d8cfacaec717f600ec4dd3fb.jpg",
+      "archived": true,
+      "originalPath": "images/d8cfacaec717f600ec4dd3fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-620x900-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b0e8819ecc7dfdff4cbe1d13.jpg",
+      "archived": true,
+      "originalPath": "images/b0e8819ecc7dfdff4cbe1d13.jpg"
+    }
+  ],
+  "featuredImage": "images/451d2a64e4cbaf767014b616.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Blueberry Ricotta Pancakes",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Low-Carb Blueberry Ricotta Pancakes. Each serving comes out to be 288 calories, 21.5g fats, 5.6g net carbs, and 14.7g protein.",
+    "datePublished": "2017-01-26T12:00:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-900x600.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "3 large egg",
+      "3/4 cup ricotta cheese",
+      "1 teaspoon vanilla extract",
+      "1/4 cup unsweetened almond milk",
+      "1 cup almond flour",
+      "1/2 cup flaxseed meal",
+      "1/4 teaspoon salt",
+      "1 teaspoon baking powder",
+      "7 drop liquid stevia",
+      "1/4 cup blueberries"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a skillet over medium heat. Blend together the eggs, ricotta, vanilla extract, and unsweetened almond milk.",
+        "name": "Preheat a skillet over medium heat. Blend together the eggs, ricotta, vanilla extract, and unsweetened almond milk.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, mix together the almond flour, golden flaxseed meal, salt, baking powder, and stevia.",
+        "name": "In a separate bowl, mix together the almond flour, golden flaxseed meal, salt, baking powder, and stevia.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly incorporate the dry ingredients into the wet mixture, blending until smooth batter forms.",
+        "name": "Slowly incorporate the dry ingredients into the wet mixture, blending until smooth batter forms.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "You'll want to add about 2–3 blueberries per pancake, but this depends on their size; feel free to halve them if needed.",
+        "name": "You'll want to add about 2–3 blueberries per pancake, but this depends on their size; feel free to halve them if needed.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add butter to the preheated skillet and wait for it to melt.",
+        "name": "Add butter to the preheated skillet and wait for it to melt.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the pancake batter into the skillet, add the blueberries, and flip once lightly browned on the outside. Once finished on the other side, repeat with the remaining batter.",
+        "name": "Pour the pancake batter into the skillet, add the blueberries, and flip once lightly browned on the outside. Once finished on the other side, repeat with the remaining batter.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-Step-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with sugar-free syrup or additional berries.",
+        "name": "Serve with sugar-free syrup or additional berries.",
+        "url": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#wprm-recipe-52043-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-620x900.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, family-friendly, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "288 kcal",
+      "fatContent": "21.5 g",
+      "proteinContent": "14.7 g",
+      "carbohydrateContent": "5.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-blueberry-ricotta-pancakes/"
+  },
+  "sourceIndex": {
+    "id": 29160,
+    "rid": 52043,
+    "t": "Low Carb Blueberry Ricotta Pancakes",
+    "u": "/low-carb-blueberry-ricotta-pancakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/01/Blueberry-Ricotta-Pancakes-900x600-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.6,
+    "cal": 288,
+    "pr": 14.7,
+    "fa": 21.5,
+    "tm": 25,
+    "sv": 5,
+    "kw": [
+      "30-minute",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "stovetop"
+    ],
+    "d": "2017-01-26",
+    "cm": 30,
+    "ex": "In the matter of a couple minutes, you can make delicious blueberry ricotta pancakes. This is a great breakfast idea for when you want to make a quick, keto friendly, pancake recipe. These blueberry",
+    "pv": 411
+  },
+  "sourceHtml": "pages/low-carb-blueberry-ricotta-pancakes.html",
+  "scrapedAt": "2026-11-07T08:11:12.817Z"
+}

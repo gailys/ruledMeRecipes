@@ -1,5 +1,5 @@
-const CACHE = 'mano-keto-v43';
-const ASSETS = ['./', './index.html', './styles.css?v=43', './app.js?v=43', './sync.js?v=43', './ingredient-dictionary.json', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
+const CACHE = 'mano-keto-v54';
+const ASSETS = ['./', './index.html', './styles.css?v=54', './meal-planner.css?v=54', './app.js?v=54', './sync.js?v=54', './meal-planner.js?v=54', './planner-state.mjs?v=54', './data/planner/recipes.json', './ingredient-dictionary.json', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', event => event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting())));
 self.addEventListener('activate', event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch', event => {
@@ -7,8 +7,8 @@ self.addEventListener('fetch', event => {
   event.respondWith(
     fetch(event.request).then(response => {
       const copy = response.clone();
-      caches.open(CACHE).then(cache => cache.put(event.request, copy));
+      if (response.ok) caches.open(CACHE).then(cache => cache.put(event.request, copy)).catch(() => {});
       return response;
-    }).catch(() => caches.match(event.request).then(cached => cached || caches.match('./index.html')))
+    }).catch(() => caches.match(event.request).then(cached => cached || (event.request.mode === 'navigate' ? caches.match('./index.html') : Response.error())))
   );
 });

@@ -1,0 +1,359 @@
+{
+  "id": "ruled-6539",
+  "slug": "ham-cheese-bake",
+  "title": "Ham and Cheese Bake",
+  "url": "https://www.ruled.me/ham-cheese-bake/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Ham and Cheese Bake. Each serving comes out to be 446 calories, 37.1g fats, 5.1g net carbs, and 23.1g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT50M",
+  "totalTime": "PT65M",
+  "totalMinutes": 65,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "446 kcal",
+    "fatContent": "37.1 g",
+    "proteinContent": "23.1 g",
+    "carbohydrateContent": "5.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 446,
+    "netCarbsGrams": 5.1,
+    "proteinGrams": 23.1,
+    "fatGrams": 37.1
+  },
+  "ingredients": [
+    "24 ounce frozen cauliflower (chopped)",
+    "2 cup cooked ham (chopped)",
+    "2 1/2 cup sharp cheddar cheese (shredded)",
+    "1/2 cup sour cream",
+    "1 1/2 cup heavy whipping cream",
+    "1/2 teaspoon black pepper",
+    "1/2 teaspoon garlic powder",
+    "1 cup mozzarella cheese (cubed)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Grease a casserole dish. Empty the frozen cauliflower into a medium-sized pot and cover with boiled water. Cook for 8–10 minutes or until easily mashable.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1498.jpg"
+    },
+    {
+      "text": "Once tender, drain the cauliflower and return to the pot. Mash with a fork or potato masher until the desired consistency is reached.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1522.jpg"
+    },
+    {
+      "text": "Spread the mashed cauliflower into the greased casserole dish and top with the chopped ham.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1531.jpg"
+    },
+    {
+      "text": "In a saucepan over medium heat, combine the cheddar cheese, sour cream, heavy whipping cream, and seasonings until the cheese is slightly melted, stirring frequently to keep the mixture from burning on the bottom.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1526.jpg"
+    },
+    {
+      "text": "Once the cheese sauce is melted, remove from the heat and pour it over the ham and cauliflower. Top with the cubed mozzarella.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1533.jpg"
+    },
+    {
+      "text": "Bake for 35–45 minutes, or until the cheese on top has browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1535.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool for about 10 minutes before serving. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/hamncheese-bake-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/fbfb0eb0c56c91fa38f8f979.avif",
+      "archived": true,
+      "originalPath": "images/fbfb0eb0c56c91fa38f8f979.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/hamncheese-bake-featured.jpg",
+      "path": "images/15a02a20f5888706fd7c4fe0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1498.jpg",
+      "path": "../../nenaudojama/dinner/images/2aa299701a3a5c4abbb876bc.avif",
+      "archived": true,
+      "originalPath": "images/2aa299701a3a5c4abbb876bc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1522.jpg",
+      "path": "../../nenaudojama/dinner/images/4f983dcc75c599ddd6ecabf5.avif",
+      "archived": true,
+      "originalPath": "images/4f983dcc75c599ddd6ecabf5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1531.jpg",
+      "path": "../../nenaudojama/dinner/images/99372b37f38973325f379c39.avif",
+      "archived": true,
+      "originalPath": "images/99372b37f38973325f379c39.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1526.jpg",
+      "path": "../../nenaudojama/dinner/images/2ccd2f3250e794a94809d3a9.avif",
+      "archived": true,
+      "originalPath": "images/2ccd2f3250e794a94809d3a9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1533.jpg",
+      "path": "../../nenaudojama/dinner/images/e8479bb6ddff2a9691875561.avif",
+      "archived": true,
+      "originalPath": "images/e8479bb6ddff2a9691875561.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1535.jpg",
+      "path": "../../nenaudojama/dinner/images/996009f55bb8fa2cf76414a9.jpg",
+      "archived": true,
+      "originalPath": "images/996009f55bb8fa2cf76414a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/hamncheese-bake-second.jpg",
+      "path": "../../nenaudojama/dinner/images/c054c0a58d5512f81a99cfa5.avif",
+      "archived": true,
+      "originalPath": "images/c054c0a58d5512f81a99cfa5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/hamncheese-bake-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/67697e633f5f84bfa165bac3.jpg",
+      "archived": true,
+      "originalPath": "images/67697e633f5f84bfa165bac3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1498-524x350.jpg",
+      "path": "../../nenaudojama/dinner/images/619ec61bea50451f932b8522.jpg",
+      "archived": true,
+      "originalPath": "images/619ec61bea50451f932b8522.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1522-524x350.jpg",
+      "path": "../../nenaudojama/dinner/images/da7530fca4004e2afe49873d.jpg",
+      "archived": true,
+      "originalPath": "images/da7530fca4004e2afe49873d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1531-524x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4e70d090e54df44ea27ffd34.jpg",
+      "archived": true,
+      "originalPath": "images/4e70d090e54df44ea27ffd34.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1526-524x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ecca0f7a9557183cf926279b.jpg",
+      "archived": true,
+      "originalPath": "images/ecca0f7a9557183cf926279b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1533-524x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8bed7699130d43f7c33cf02e.jpg",
+      "archived": true,
+      "originalPath": "images/8bed7699130d43f7c33cf02e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1535-524x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f17fcdb18ab6ba55f0f75d03.jpg",
+      "archived": true,
+      "originalPath": "images/f17fcdb18ab6ba55f0f75d03.jpg"
+    }
+  ],
+  "featuredImage": "images/15a02a20f5888706fd7c4fe0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ham and Cheese Bake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Ham and Cheese Bake. Each serving comes out to be 446 calories, 37.1g fats, 5.1g net carbs, and 23.1g protein.",
+    "datePublished": "2014-01-15T05:25:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/hamncheese-bake-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT50M",
+    "totalTime": "PT65M",
+    "recipeIngredient": [
+      "24 ounce frozen cauliflower (chopped)",
+      "2 cup cooked ham (chopped)",
+      "2 1/2 cup sharp cheddar cheese (shredded)",
+      "1/2 cup sour cream",
+      "1 1/2 cup heavy whipping cream",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon garlic powder",
+      "1 cup mozzarella cheese (cubed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Grease a casserole dish. Empty the frozen cauliflower into a medium-sized pot and cover with boiled water. Cook for 8–10 minutes or until easily mashable.",
+        "name": "Preheat oven to 375F. Grease a casserole dish. Empty the frozen cauliflower into a medium-sized pot and cover with boiled water. Cook for 8–10 minutes or until easily mashable.",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1498.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once tender, drain the cauliflower and return to the pot. Mash with a fork or potato masher until the desired consistency is reached.",
+        "name": "Once tender, drain the cauliflower and return to the pot. Mash with a fork or potato masher until the desired consistency is reached.",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1522.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the mashed cauliflower into the greased casserole dish and top with the chopped ham.",
+        "name": "Spread the mashed cauliflower into the greased casserole dish and top with the chopped ham.",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1531.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over medium heat, combine the cheddar cheese, sour cream, heavy whipping cream, and seasonings until the cheese is slightly melted, stirring frequently to keep the mixture from burning on the bottom.",
+        "name": "In a saucepan over medium heat, combine the cheddar cheese, sour cream, heavy whipping cream, and seasonings until the cheese is slightly melted, stirring frequently to keep the mixture from burning on the bottom.",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1526.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cheese sauce is melted, remove from the heat and pour it over the ham and cauliflower. Top with the cubed mozzarella.",
+        "name": "Once the cheese sauce is melted, remove from the heat and pour it over the ham and cauliflower. Top with the cubed mozzarella.",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1533.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 35–45 minutes, or until the cheese on top has browned.",
+        "name": "Bake for 35–45 minutes, or until the cheese on top has browned.",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1535.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool for about 10 minutes before serving. Enjoy!",
+        "name": "Remove from the oven and let cool for about 10 minutes before serving. Enjoy!",
+        "url": "https://www.ruled.me/ham-cheese-bake/#wprm-recipe-50725-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, comfort-food, egg-free, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, pork, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "446 kcal",
+      "fatContent": "37.1 g",
+      "proteinContent": "23.1 g",
+      "carbohydrateContent": "5.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/ham-cheese-bake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ham-cheese-bake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ham-cheese-bake/"
+  },
+  "sourceIndex": {
+    "id": 6539,
+    "rid": 50725,
+    "t": "Keto Ham and Cheese Bake",
+    "u": "/ham-cheese-bake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/hamncheese-bake-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.1,
+    "cal": 446,
+    "pr": 23.1,
+    "fa": 37.1,
+    "tm": 65,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-01-15",
+    "cm": 5,
+    "ex": "My girlfriend and I had this huge spiral ham that we were going to have for Thanksgiving (without the glaze, of course), but we only got around to pulling it out of the freezer and cooking it last",
+    "pv": 1628
+  },
+  "sourceHtml": "pages/ham-cheese-bake.html",
+  "scrapedAt": "2026-11-07T08:27:45.244Z"
+}

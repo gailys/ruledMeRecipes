@@ -1,0 +1,283 @@
+{
+  "id": "ruled-6932",
+  "slug": "raspberry-cheesecake-cupcakes",
+  "title": "Raspberry Cheesecake Cupcakes",
+  "url": "https://www.ruled.me/raspberry-cheesecake-cupcakes/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Raspberry Cheesecake Cupcakes. Each serving comes out to be 205 calories, 19.8g fats, 2.1g net carbs, and 4.4g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT60M",
+  "totalTime": "PT70M",
+  "totalMinutes": 70,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "fatContent": "19.8 g",
+    "proteinContent": "4.4 g",
+    "carbohydrateContent": "2.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 205,
+    "netCarbsGrams": 2.1,
+    "proteinGrams": 4.4,
+    "fatGrams": 19.8
+  },
+  "ingredients": [
+    "4 tablespoon butter (melted)",
+    "1/2 cup almond flour",
+    "16 ounce cream cheese (softened)",
+    "2 large egg",
+    "1/2 cup stevia/erythritol blend",
+    "1/4 cup sugar-free raspberry syrup (such as Torani)",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Grease or line a cupcake or muffin tin. In a small bowl, combine the melted butter with the almond meal to form a grainy paste. Evenly distribute this almond mixture into the bottoms of the cupcake molds, pressing down firmly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Crust.jpg"
+    },
+    {
+      "text": "In a stand mixer, add the softened cream cheese, eggs, stevia, sugar-free syrup, and vanilla to the bowl and mix on medium speed until smooth. If there are still some small chunks of cream cheese at the end, that's okay.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Mixer-1.jpg"
+    },
+    {
+      "text": "Pour the mixture evenly into the cupcake cups, filling them almost to the tops.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Filling.jpg"
+    },
+    {
+      "text": "Pop the cupcakes into the oven for 15–17 minutes (the tops should be puffed and cracked when done).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Out-of-Oven.jpg"
+    },
+    {
+      "text": "Let stand for 10 minutes, then place the cupcakes in the fridge for at least 30 minutes to set. The longer these sit in the fridge, the better they get!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1587.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Cupcakes.jpg",
+      "path": "images/ce6240a3a4f4ff05d590099d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Crust.jpg",
+      "path": "../../nenaudojama/dessert/images/38fa86941a7e1efd76c24fdd.avif",
+      "archived": true,
+      "originalPath": "images/38fa86941a7e1efd76c24fdd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Mixer-1.jpg",
+      "path": "../../nenaudojama/dessert/images/eedd3dabf8c0a4257ea872a2.avif",
+      "archived": true,
+      "originalPath": "images/eedd3dabf8c0a4257ea872a2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Filling.jpg",
+      "path": "../../nenaudojama/dessert/images/43f7ea64d816299baa1ed307.avif",
+      "archived": true,
+      "originalPath": "images/43f7ea64d816299baa1ed307.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Out-of-Oven.jpg",
+      "path": "../../nenaudojama/dessert/images/d28bc38455496b2ad7ce0d43.jpg",
+      "archived": true,
+      "originalPath": "images/d28bc38455496b2ad7ce0d43.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1587.jpg",
+      "path": "../../nenaudojama/dessert/images/1a18dbd0bbb5f6511bd483f0.avif",
+      "archived": true,
+      "originalPath": "images/1a18dbd0bbb5f6511bd483f0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Crust-524x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ceb13c40b0456fff09e1e98b.jpg",
+      "archived": true,
+      "originalPath": "images/ceb13c40b0456fff09e1e98b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Mixer-1-524x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8e3121e37954a9a226c98343.jpg",
+      "archived": true,
+      "originalPath": "images/8e3121e37954a9a226c98343.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Filling-524x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b76af30faf4a07893ea01063.jpg",
+      "archived": true,
+      "originalPath": "images/b76af30faf4a07893ea01063.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Out-of-Oven-524x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9f1988cff2609098b1b99999.jpg",
+      "archived": true,
+      "originalPath": "images/9f1988cff2609098b1b99999.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1587-524x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8ce8513e8dc3e1681c9dfd9d.jpg",
+      "archived": true,
+      "originalPath": "images/8ce8513e8dc3e1681c9dfd9d.jpg"
+    }
+  ],
+  "featuredImage": "images/ce6240a3a4f4ff05d590099d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Raspberry Cheesecake Cupcakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Raspberry Cheesecake Cupcakes. Each serving comes out to be 205 calories, 19.8g fats, 2.1g net carbs, and 4.4g protein.",
+    "datePublished": "2014-01-20T03:35:56+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/Cupcakes.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT60M",
+    "totalTime": "PT70M",
+    "recipeIngredient": [
+      "4 tablespoon butter (melted)",
+      "1/2 cup almond flour",
+      "16 ounce cream cheese (softened)",
+      "2 large egg",
+      "1/2 cup stevia/erythritol blend",
+      "1/4 cup sugar-free raspberry syrup (such as Torani)",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Grease or line a cupcake or muffin tin. In a small bowl, combine the melted butter with the almond meal to form a grainy paste. Evenly distribute this almond mixture into the bottoms of the cupcake molds, pressing down firmly.",
+        "name": "Preheat oven to 350F. Grease or line a cupcake or muffin tin. In a small bowl, combine the melted butter with the almond meal to form a grainy paste. Evenly distribute this almond mixture into the bottoms of the cupcake molds, pressing down firmly.",
+        "url": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Crust.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a stand mixer, add the softened cream cheese, eggs, stevia, sugar-free syrup, and vanilla to the bowl and mix on medium speed until smooth. If there are still some small chunks of cream cheese at the end, that's okay.",
+        "name": "In a stand mixer, add the softened cream cheese, eggs, stevia, sugar-free syrup, and vanilla to the bowl and mix on medium speed until smooth. If there are still some small chunks of cream cheese at the end, that's okay.",
+        "url": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Mixer-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture evenly into the cupcake cups, filling them almost to the tops.",
+        "name": "Pour the mixture evenly into the cupcake cups, filling them almost to the tops.",
+        "url": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Filling.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pop the cupcakes into the oven for 15–17 minutes (the tops should be puffed and cracked when done).",
+        "name": "Pop the cupcakes into the oven for 15–17 minutes (the tops should be puffed and cracked when done).",
+        "url": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Out-of-Oven.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let stand for 10 minutes, then place the cupcakes in the fridge for at least 30 minutes to set. The longer these sit in the fridge, the better they get!",
+        "name": "Let stand for 10 minutes, then place the cupcakes in the fridge for at least 30 minutes to set. The longer these sit in the fridge, the better they get!",
+        "url": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#wprm-recipe-50753-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/DSC_1587.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, gluten-free, keto, low-carb, make-ahead, oven-baked, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "205 kcal",
+      "fatContent": "19.8 g",
+      "proteinContent": "4.4 g",
+      "carbohydrateContent": "2.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/raspberry-cheesecake-cupcakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/raspberry-cheesecake-cupcakes/"
+  },
+  "sourceIndex": {
+    "id": 6932,
+    "rid": 50753,
+    "t": "Raspberry Cheesecake Cupcakes",
+    "u": "/raspberry-cheesecake-cupcakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/Cupcakes.jpg",
+    "w": 768,
+    "h": 513,
+    "c": "dessert",
+    "nc": 2.1,
+    "cal": 205,
+    "pr": 4.4,
+    "fa": 19.8,
+    "tm": 70,
+    "sv": 12,
+    "kw": [
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "oven-baked",
+      "make-ahead"
+    ],
+    "d": "2014-01-19",
+    "cm": 17,
+    "ex": "These cheesecake cupcakes are quick and simple, but also highly customizable. I chose sugar-free raspberry syrup for this particular batch, but you can substitute the syrup for any flavor you like",
+    "pv": 77
+  },
+  "sourceHtml": "pages/raspberry-cheesecake-cupcakes.html",
+  "scrapedAt": "2026-11-07T08:30:47.618Z"
+}

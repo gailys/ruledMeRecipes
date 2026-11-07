@@ -1,0 +1,299 @@
+{
+  "id": "ruled-60133",
+  "slug": "keto-butter-chicken",
+  "title": "Keto Butter Chicken",
+  "url": "https://www.ruled.me/keto-butter-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Butter Chicken. Each serving comes out to be 432 calories, 37.5g fats, 4.3g net carbs, and 21.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "432 kcal",
+    "fatContent": "37.5 g",
+    "proteinContent": "21.6 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 432,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 21.6,
+    "fatGrams": 37.5
+  },
+  "ingredients": [
+    "16 ounce boneless, skinless chicken thighs",
+    "1 teaspoon turmeric powder",
+    "1/2 teaspoon cumin",
+    "1 teaspoon ground ginger",
+    "3/4 teaspoon chili powder",
+    "1/2 teaspoon ground cinnamon",
+    "2 tablespoon salted butter",
+    "2 teaspoon fresh garlic (minced)",
+    "1/4 medium onion (diced)",
+    "1 cup heavy cream",
+    "1 1/2 tablespoon tomato paste",
+    "1/2 teaspoon erythritol",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. Begin by adding all of the dried spices to a bowl and give a quick stir to combine. Cut up the chicken thighs into bite sized pieces and add them to the bowl. Toss to coat them thoroughly with the spices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Over medium heat, add the butter to a frying pan. Once melted, add the onion and garlic and cook for about three minutes until the onions are translucent.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Increase the temp to medium high, then add the chicken. Cook it for about 5 minutes, , stirring often, until it is almost cooked through and the outside has turned white. It’s okay if it’s not quite done; it will finish cooking in the sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "To the chicken, add the heavy cream, tomato paste, and erythritol. Stir well to combine everything. Reduce heat to medium low. Cover and cook for about 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Remove lid and add salt, if desired. Continue to cook for another 3-5 minutes or until sauce is at your preferred consistency. Plate with your favorite side and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/keto-butter-chicken-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99-768x512.jpeg",
+      "path": "../../nenaudojama/dinner/images/8ef5d7b8800f0d70553b1e71.jpeg",
+      "archived": true,
+      "originalPath": "images/8ef5d7b8800f0d70553b1e71.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99.jpeg",
+      "path": "images/a6cd4171a73de5e248c3bc46.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-butter-chicken-step-01.jpeg",
+      "path": "../../nenaudojama/dinner/images/b1c95d31a966c596681aeb30.jpeg",
+      "archived": true,
+      "originalPath": "images/b1c95d31a966c596681aeb30.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99-300x300.jpeg",
+      "path": "../../nenaudojama/dinner/images/0443801ca3d4c727c2acd053.jpeg",
+      "archived": true,
+      "originalPath": "images/0443801ca3d4c727c2acd053.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-butter-chicken-step-01-241x350.jpeg",
+      "path": "../../nenaudojama/dinner/images/49415f5f42994bc43fbab2c4.jpeg",
+      "archived": true,
+      "originalPath": "images/49415f5f42994bc43fbab2c4.jpeg"
+    }
+  ],
+  "featuredImage": "images/a6cd4171a73de5e248c3bc46.jpeg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Butter Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Butter Chicken. Each serving comes out to be 432 calories, 37.5g fats, 4.3g net carbs, and 21.6g protein.",
+    "datePublished": "2026-05-07T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "16 ounce boneless, skinless chicken thighs",
+      "1 teaspoon turmeric powder",
+      "1/2 teaspoon cumin",
+      "1 teaspoon ground ginger",
+      "3/4 teaspoon chili powder",
+      "1/2 teaspoon ground cinnamon",
+      "2 tablespoon salted butter",
+      "2 teaspoon fresh garlic (minced)",
+      "1/4 medium onion (diced)",
+      "1 cup heavy cream",
+      "1 1/2 tablespoon tomato paste",
+      "1/2 teaspoon erythritol",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. Begin by adding all of the dried spices to a bowl and give a quick stir to combine. Cut up the chicken thighs into bite sized pieces and add them to the bowl. Toss to coat them thoroughly with the spices.",
+        "name": "Gather all ingredients. Begin by adding all of the dried spices to a bowl and give a quick stir to combine. Cut up the chicken thighs into bite sized pieces and add them to the bowl. Toss to coat them thoroughly with the spices.",
+        "url": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Over medium heat, add the butter to a frying pan. Once melted, add the onion and garlic and cook for about three minutes until the onions are translucent.",
+        "name": "Over medium heat, add the butter to a frying pan. Once melted, add the onion and garlic and cook for about three minutes until the onions are translucent.",
+        "url": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the temp to medium high, then add the chicken. Cook it for about 5 minutes, , stirring often, until it is almost cooked through and the outside has turned white. It’s okay if it’s not quite done; it will finish cooking in the sauce.",
+        "name": "Increase the temp to medium high, then add the chicken. Cook it for about 5 minutes, , stirring often, until it is almost cooked through and the outside has turned white. It’s okay if it’s not quite done; it will finish cooking in the sauce.",
+        "url": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To the chicken, add the heavy cream, tomato paste, and erythritol. Stir well to combine everything. Reduce heat to medium low. Cover and cook for about 5 minutes.",
+        "name": "To the chicken, add the heavy cream, tomato paste, and erythritol. Stir well to combine everything. Reduce heat to medium low. Cover and cook for about 5 minutes.",
+        "url": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove lid and add salt, if desired. Continue to cook for another 3-5 minutes or until sauce is at your preferred consistency. Plate with your favorite side and enjoy!",
+        "name": "Remove lid and add salt, if desired. Continue to cook for another 3-5 minutes or until sauce is at your preferred consistency. Plate with your favorite side and enjoy!",
+        "url": "https://www.ruled.me/keto-butter-chicken/#wprm-recipe-60132-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/keto-butter-chicken-step-01.jpeg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "My whole family absolutely loved this recipe! Even my 5 year old practically licked his plate and asked for more. I can't wait to make it again!",
+        "author": {
+          "@type": "Person",
+          "name": "Jen"
+        },
+        "datePublished": "2026-05-30"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Indian"
+    ],
+    "keywords": "30-minute, beginner-friendly, comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, one-pan, one-pan meals, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "432 kcal",
+      "fatContent": "37.5 g",
+      "proteinContent": "21.6 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-butter-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-butter-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-butter-chicken/"
+  },
+  "sourceIndex": {
+    "id": 60133,
+    "rid": 60132,
+    "t": "Keto Butter Chicken",
+    "u": "/keto-butter-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/a4d393c6d8f4a8fb453ffe2619a50c99-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.3,
+    "cal": 432,
+    "pr": 21.6,
+    "fa": 37.5,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2026-05-07",
+    "cm": 1,
+    "ex": "This Keto Butter Chicken is a luscious, restaurant-quality meal that brings the vibrant flavors of Indian cuisine right to your kitchen without any of the unnecessary carbs. Each bite offers a",
+    "pv": 665
+  },
+  "sourceHtml": "pages/keto-butter-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:43.340Z"
+}

@@ -1,0 +1,413 @@
+{
+  "id": "ruled-27906",
+  "slug": "keto-sushi",
+  "title": "Keto Sushi",
+  "url": "https://www.ruled.me/keto-sushi/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Sushi. Each serving comes out to be 359 calories, 26.8g fats, 7.9g net carbs, and 18.3g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT5M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "359 kcal",
+    "fatContent": "26.8 g",
+    "proteinContent": "18.3 g",
+    "carbohydrateContent": "7.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 359,
+    "netCarbsGrams": 7.9,
+    "proteinGrams": 18.3,
+    "fatGrams": 26.8
+  },
+  "ingredients": [
+    "16 ounce cauliflower",
+    "200 gram cucumber",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "6 ounce cream cheese (softened)",
+    "2 tablespoon unseasoned rice vinegar",
+    "1/2 medium avocado",
+    "5 whole nori sheets",
+    "5 ounce smoked salmon (or seafood of choice)"
+  ],
+  "instructions": [
+    {
+      "text": "In a food processor, rice the cauliflower in batches, taking care not to overprocess it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5226.jpg"
+    },
+    {
+      "text": "Cut the ends off of the cucumber and slice the outer edges into thin strips, discarding the middle portion. Set aside in the fridge to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5232.jpg"
+    },
+    {
+      "text": "Transfer the cauliflower rice to a pan over high heat, adding the soy sauce as it cooks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5241.jpg"
+    },
+    {
+      "text": "Once the cauliflower is cooked and has dried out some, add it to a bowl along with the cream cheese and rice vinegar. Combine well, being careful not to mash the cauliflower completely, and set aside in the fridge until cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5252.jpg"
+    },
+    {
+      "text": "Once the rice mixture has cooled, halve and pit the avocado, leaving the skin on. Carefully slice the meat into thin strips and scoop them out with a spoon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5255.jpg"
+    },
+    {
+      "text": "Place a nori sheet down on a bamboo mat covered with plastic wrap to keep it from sticking. Spread the cauliflower rice mixture thinly over the nori sheet, leaving about 3/4\" of space at the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5256.jpg"
+    },
+    {
+      "text": "Place the cucumber strips, avocado, and smoked salmon on top of the cauliflower rice mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5271.jpg"
+    },
+    {
+      "text": "Roll the sushi tightly and slice. Repeat with any remaining nori sheets.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5272-64.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "fish",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/KetoSushi-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/bcc36a9e3493fe125a2b0c50.avif",
+      "archived": true,
+      "originalPath": "images/bcc36a9e3493fe125a2b0c50.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/KetoSushi.jpg",
+      "path": "images/b75ace4910e508995b73808d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5226.jpg",
+      "path": "../../nenaudojama/dinner/images/ed09f4e3bab65cc42548e8c5.avif",
+      "archived": true,
+      "originalPath": "images/ed09f4e3bab65cc42548e8c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5232.jpg",
+      "path": "../../nenaudojama/dinner/images/e0495052bdfe4bb36a2a6677.jpg",
+      "archived": true,
+      "originalPath": "images/e0495052bdfe4bb36a2a6677.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5241.jpg",
+      "path": "../../nenaudojama/dinner/images/00dd1e8617d3e098be123413.jpg",
+      "archived": true,
+      "originalPath": "images/00dd1e8617d3e098be123413.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5252.jpg",
+      "path": "../../nenaudojama/dinner/images/606bb5f82932445a6d17aae1.avif",
+      "archived": true,
+      "originalPath": "images/606bb5f82932445a6d17aae1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5255.jpg",
+      "path": "../../nenaudojama/dinner/images/2180e6e0655f50c36890cf90.avif",
+      "archived": true,
+      "originalPath": "images/2180e6e0655f50c36890cf90.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5256.jpg",
+      "path": "../../nenaudojama/dinner/images/4e4c5f48a39484b12711702f.avif",
+      "archived": true,
+      "originalPath": "images/4e4c5f48a39484b12711702f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5271.jpg",
+      "path": "../../nenaudojama/dinner/images/a5c0c6f18c822895d8d2a0c6.avif",
+      "archived": true,
+      "originalPath": "images/a5c0c6f18c822895d8d2a0c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5272-64.jpg",
+      "path": "../../nenaudojama/dinner/images/48ed63d852845148379d15fa.avif",
+      "archived": true,
+      "originalPath": "images/48ed63d852845148379d15fa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/KetoSushiSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/f97ca89622ab8490e9311cf3.avif",
+      "archived": true,
+      "originalPath": "images/f97ca89622ab8490e9311cf3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/KetoSushiLong.jpg",
+      "path": "../../nenaudojama/dinner/images/351834de6f0c75ca641e79ec.jpg",
+      "archived": true,
+      "originalPath": "images/351834de6f0c75ca641e79ec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5226-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/60a07fa5ccc8554ff98150bf.jpg",
+      "archived": true,
+      "originalPath": "images/60a07fa5ccc8554ff98150bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5232-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1d9cc1cf12eb515d537aa509.jpg",
+      "archived": true,
+      "originalPath": "images/1d9cc1cf12eb515d537aa509.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5241-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f576b8926f846d159e6d8ba4.avif",
+      "archived": true,
+      "originalPath": "images/f576b8926f846d159e6d8ba4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5252-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/316dc68df5cd66ca8ced1b3a.avif",
+      "archived": true,
+      "originalPath": "images/316dc68df5cd66ca8ced1b3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5255-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ea4b82226fc5bdccbcc13eee.jpg",
+      "archived": true,
+      "originalPath": "images/ea4b82226fc5bdccbcc13eee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5256-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ca3791272019cc126affe7a1.jpg",
+      "archived": true,
+      "originalPath": "images/ca3791272019cc126affe7a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5271-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/49bb778b817e54e341c32a26.avif",
+      "archived": true,
+      "originalPath": "images/49bb778b817e54e341c32a26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5272-64-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9db707146048c7beac0d2518.avif",
+      "archived": true,
+      "originalPath": "images/9db707146048c7beac0d2518.avif"
+    }
+  ],
+  "featuredImage": "images/b75ace4910e508995b73808d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Sushi",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Sushi. Each serving comes out to be 359 calories, 26.8g fats, 7.9g net carbs, and 18.3g protein.",
+    "datePublished": "2016-04-28T18:05:22+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/04/KetoSushi.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT5M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "16 ounce cauliflower",
+      "200 gram cucumber",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "6 ounce cream cheese (softened)",
+      "2 tablespoon unseasoned rice vinegar",
+      "1/2 medium avocado",
+      "5 whole nori sheets",
+      "5 ounce smoked salmon (or seafood of choice)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, rice the cauliflower in batches, taking care not to overprocess it.",
+        "name": "In a food processor, rice the cauliflower in batches, taking care not to overprocess it.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5226.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the ends off of the cucumber and slice the outer edges into thin strips, discarding the middle portion. Set aside in the fridge to cool.",
+        "name": "Cut the ends off of the cucumber and slice the outer edges into thin strips, discarding the middle portion. Set aside in the fridge to cool.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5232.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the cauliflower rice to a pan over high heat, adding the soy sauce as it cooks.",
+        "name": "Transfer the cauliflower rice to a pan over high heat, adding the soy sauce as it cooks.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5241.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cauliflower is cooked and has dried out some, add it to a bowl along with the cream cheese and rice vinegar. Combine well, being careful not to mash the cauliflower completely, and set aside in the fridge until cool.",
+        "name": "Once the cauliflower is cooked and has dried out some, add it to a bowl along with the cream cheese and rice vinegar. Combine well, being careful not to mash the cauliflower completely, and set aside in the fridge until cool.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5252.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the rice mixture has cooled, halve and pit the avocado, leaving the skin on. Carefully slice the meat into thin strips and scoop them out with a spoon.",
+        "name": "Once the rice mixture has cooled, halve and pit the avocado, leaving the skin on. Carefully slice the meat into thin strips and scoop them out with a spoon.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5255.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place a nori sheet down on a bamboo mat covered with plastic wrap to keep it from sticking. Spread the cauliflower rice mixture thinly over the nori sheet, leaving about 3/4\" of space at the top.",
+        "name": "Place a nori sheet down on a bamboo mat covered with plastic wrap to keep it from sticking. Spread the cauliflower rice mixture thinly over the nori sheet, leaving about 3/4\" of space at the top.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5256.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the cucumber strips, avocado, and smoked salmon on top of the cauliflower rice mixture.",
+        "name": "Place the cucumber strips, avocado, and smoked salmon on top of the cauliflower rice mixture.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5271.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll the sushi tightly and slice. Repeat with any remaining nori sheets.",
+        "name": "Roll the sushi tightly and slice. Repeat with any remaining nori sheets.",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/04/IMG_5272-64.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-sushi/#wprm-recipe-51925-step-0-8"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "My husband made this for us.  I must confess,  I was skeptical,   it it was SO, SO good!!!  All the flavors of standard sushi rolls",
+        "author": {
+          "@type": "Person",
+          "name": "Joann"
+        },
+        "datePublished": "2024-11-18"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Japanese"
+    ],
+    "keywords": "30-minute, egg-free, fish, keto, low-carb, nut-free, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "359 kcal",
+      "fatContent": "26.8 g",
+      "proteinContent": "18.3 g",
+      "carbohydrateContent": "7.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-sushi/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-sushi/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-sushi/"
+  },
+  "sourceIndex": {
+    "id": 27906,
+    "rid": 51925,
+    "t": "Keto Sushi",
+    "u": "/keto-sushi/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/04/KetoSushi-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 7.9,
+    "cal": 359,
+    "pr": 18.3,
+    "fa": 26.8,
+    "tm": 25,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "fish",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "seafood"
+    ],
+    "d": "2016-04-28",
+    "cm": 29,
+    "ex": "Yes, you read it right! Keto sushi is here and it truly is amazing. I used to be a big eater of sushi and have missed it greatly. I put off trying keto sushi for a long time because I thought it",
+    "pv": 6223
+  },
+  "sourceHtml": "pages/keto-sushi.html",
+  "scrapedAt": "2026-11-07T08:27:44.813Z"
+}

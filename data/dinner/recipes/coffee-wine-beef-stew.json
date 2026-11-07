@@ -1,0 +1,402 @@
+{
+  "id": "ruled-9987",
+  "slug": "coffee-wine-beef-stew",
+  "title": "Coffee and Wine Beef Stew",
+  "url": "https://www.ruled.me/coffee-wine-beef-stew/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Coffee and Wine Beef Stew. Each serving comes out to be 467 calories, 20g fats, 3.1g net carbs, and 63.4g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT240M",
+  "totalTime": "PT250M",
+  "totalMinutes": 250,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "467 kcal",
+    "fatContent": "20 g",
+    "proteinContent": "63.4 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 467,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 63.4,
+    "fatGrams": 20
+  },
+  "ingredients": [
+    "40 ounce beef stew meat",
+    "3 cup brewed coffee",
+    "1 cup beef broth",
+    "4 1/2 ounce cremini mushrooms",
+    "2/3 cup dry red wine",
+    "1 medium onion",
+    "3 tablespoon coconut oil",
+    "2 tablespoon capers",
+    "2 teaspoon fresh garlic",
+    "1 teaspoon salt",
+    "1 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Cube all stew meat into bite-size chunks. Cut off excess grit. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-02.jpg"
+    },
+    {
+      "text": "Slice onions, mushrooms, and mince the garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-05.jpg"
+    },
+    {
+      "text": "Bring coconut oil to its smoking point in a pan on the stove.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-01.jpg"
+    },
+    {
+      "text": "Brown the beef in batches that don’t overcrowd the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-06.jpg"
+    },
+    {
+      "text": "As you finish a batch, remove the beef to a plate and continue with the remaining batch (or batches).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-07.jpg"
+    },
+    {
+      "text": "Once the beef is finished, start sauteing the onion, mushrooms, and minced garlic in the remaining fat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-09.jpg"
+    },
+    {
+      "text": "Once the onions are translucent add coffee, beef stock, red wine, and capers.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-10.jpg"
+    },
+    {
+      "text": "Mix everything together well, then add your beef. Bring the mixture to a boil. Once mixture is boiling, turn the stove to low and cover the pan with a lid. Let this cook for 3 hours on low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-11.jpg"
+    },
+    {
+      "text": "If you want to, you can let this simmer without a lid for 30 minutes after the 3 hour mark. This will help reduce the liquids, if you want a thicker sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "stovetop",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/320f58a28bfb914b43ebe7f3.jpg",
+      "archived": true,
+      "originalPath": "images/320f58a28bfb914b43ebe7f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-featured.jpg",
+      "path": "images/6528fc021b68dbb45f3c4cf2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-02.jpg",
+      "path": "../../nenaudojama/dinner/images/8bf325065e7c397e326f08d1.avif",
+      "archived": true,
+      "originalPath": "images/8bf325065e7c397e326f08d1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-05.jpg",
+      "path": "../../nenaudojama/dinner/images/a462a788de7b00267b074ba1.avif",
+      "archived": true,
+      "originalPath": "images/a462a788de7b00267b074ba1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-01.jpg",
+      "path": "../../nenaudojama/dinner/images/f16d8f60d455c8d85b3dd5bd.avif",
+      "archived": true,
+      "originalPath": "images/f16d8f60d455c8d85b3dd5bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-06.jpg",
+      "path": "../../nenaudojama/dinner/images/1db1bb5a757917383a776774.avif",
+      "archived": true,
+      "originalPath": "images/1db1bb5a757917383a776774.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-07.jpg",
+      "path": "../../nenaudojama/dinner/images/56227a8841061f2a0fc8bf1e.jpg",
+      "archived": true,
+      "originalPath": "images/56227a8841061f2a0fc8bf1e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-09.jpg",
+      "path": "../../nenaudojama/dinner/images/0782c9cf3ea93b6301919e6f.avif",
+      "archived": true,
+      "originalPath": "images/0782c9cf3ea93b6301919e6f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-10.jpg",
+      "path": "../../nenaudojama/dinner/images/fbd41c9a519b1bc795b8dff9.avif",
+      "archived": true,
+      "originalPath": "images/fbd41c9a519b1bc795b8dff9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-11.jpg",
+      "path": "../../nenaudojama/dinner/images/92137efdf0b6d12e38234749.avif",
+      "archived": true,
+      "originalPath": "images/92137efdf0b6d12e38234749.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/c4862f44619c796800d6e171.avif",
+      "archived": true,
+      "originalPath": "images/c4862f44619c796800d6e171.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c01ad45dcbc7883c1e635b19.avif",
+      "archived": true,
+      "originalPath": "images/c01ad45dcbc7883c1e635b19.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1b10306106bafe3cc86080b5.avif",
+      "archived": true,
+      "originalPath": "images/1b10306106bafe3cc86080b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4de894f8da00c0629814a62d.avif",
+      "archived": true,
+      "originalPath": "images/4de894f8da00c0629814a62d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/af41e441ed0aa2a388fcdf4b.jpg",
+      "archived": true,
+      "originalPath": "images/af41e441ed0aa2a388fcdf4b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/320ff188efda5e24abe225f2.avif",
+      "archived": true,
+      "originalPath": "images/320ff188efda5e24abe225f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/72fa460466ca4224a9fe4d44.avif",
+      "archived": true,
+      "originalPath": "images/72fa460466ca4224a9fe4d44.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-10-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a3bdc335415d4230a0f7a409.avif",
+      "archived": true,
+      "originalPath": "images/a3bdc335415d4230a0f7a409.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-11-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ef7a7f043eb6a57ab1404b7c.avif",
+      "archived": true,
+      "originalPath": "images/ef7a7f043eb6a57ab1404b7c.avif"
+    }
+  ],
+  "featuredImage": "images/6528fc021b68dbb45f3c4cf2.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Coffee and Wine Beef Stew",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Coffee and Wine Beef Stew. Each serving comes out to be 467 calories, 20g fats, 3.1g net carbs, and 63.4g protein.",
+    "datePublished": "2014-02-26T19:01:22+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT240M",
+    "totalTime": "PT250M",
+    "recipeIngredient": [
+      "40 ounce beef stew meat",
+      "3 cup brewed coffee",
+      "1 cup beef broth",
+      "4 1/2 ounce cremini mushrooms",
+      "2/3 cup dry red wine",
+      "1 medium onion",
+      "3 tablespoon coconut oil",
+      "2 tablespoon capers",
+      "2 teaspoon fresh garlic",
+      "1 teaspoon salt",
+      "1 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cube all stew meat into bite-size chunks. Cut off excess grit. Season with salt and pepper.",
+        "name": "Cube all stew meat into bite-size chunks. Cut off excess grit. Season with salt and pepper.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice onions, mushrooms, and mince the garlic.",
+        "name": "Slice onions, mushrooms, and mince the garlic.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring coconut oil to its smoking point in a pan on the stove.",
+        "name": "Bring coconut oil to its smoking point in a pan on the stove.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Brown the beef in batches that don’t overcrowd the pan.",
+        "name": "Brown the beef in batches that don’t overcrowd the pan.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "As you finish a batch, remove the beef to a plate and continue with the remaining batch (or batches).",
+        "name": "As you finish a batch, remove the beef to a plate and continue with the remaining batch (or batches).",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the beef is finished, start sauteing the onion, mushrooms, and minced garlic in the remaining fat.",
+        "name": "Once the beef is finished, start sauteing the onion, mushrooms, and minced garlic in the remaining fat.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the onions are translucent add coffee, beef stock, red wine, and capers.",
+        "name": "Once the onions are translucent add coffee, beef stock, red wine, and capers.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything together well, then add your beef. Bring the mixture to a boil. Once mixture is boiling, turn the stove to low and cover the pan with a lid. Let this cook for 3 hours on low.",
+        "name": "Mix everything together well, then add your beef. Bring the mixture to a boil. Once mixture is boiling, turn the stove to low and cover the pan with a lid. Let this cook for 3 hours on low.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If you want to, you can let this simmer without a lid for 30 minutes after the 3 hour mark. This will help reduce the liquids, if you want a thicker sauce.",
+        "name": "If you want to, you can let this simmer without a lid for 30 minutes after the 3 hour mark. This will help reduce the liquids, if you want a thicker sauce.",
+        "url": "https://www.ruled.me/coffee-wine-beef-stew/#wprm-recipe-50897-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, dairy-free, egg-free, gluten-free, high-protein, keto, low-carb, nut-free, red meat, stovetop, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "467 kcal",
+      "fatContent": "20 g",
+      "proteinContent": "63.4 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/coffee-wine-beef-stew/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/coffee-wine-beef-stew/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/coffee-wine-beef-stew/"
+  },
+  "sourceIndex": {
+    "id": 9987,
+    "rid": 50897,
+    "t": "Coffee and Wine Beef Stew",
+    "u": "/coffee-wine-beef-stew/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/coffee-wine-beef-stew-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.1,
+    "cal": 467,
+    "pr": 63.4,
+    "fa": 20,
+    "tm": 250,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "stovetop",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2014-02-26",
+    "cm": 22,
+    "ex": "A delicious, rich, and slightly unique take on beef stew. Not so many people have heard of using coffee with beef in a stew, but trust me when I say this - you need to try it! The deep flavors that",
+    "pv": 1704
+  },
+  "sourceHtml": "pages/coffee-wine-beef-stew.html",
+  "scrapedAt": "2026-11-07T08:27:45.164Z"
+}

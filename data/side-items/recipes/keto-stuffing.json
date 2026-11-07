@@ -1,0 +1,339 @@
+{
+  "id": "ruled-48441",
+  "slug": "keto-stuffing",
+  "title": "Keto Stuffing",
+  "url": "https://www.ruled.me/keto-stuffing/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Stuffing. Each serving comes out to be 382 calories, 34.4g fats, 4.7g net carbs, and 13.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "382 kcal",
+    "fatContent": "34.4 g",
+    "proteinContent": "13.2 g",
+    "carbohydrateContent": "4.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 382,
+    "netCarbsGrams": 4.7,
+    "proteinGrams": 13.2,
+    "fatGrams": 34.4
+  },
+  "ingredients": [
+    "9 tablespoon almond flour (can be subbed for 3 tablespoon coconut flour)",
+    "3 tablespoon butter (melted)",
+    "3 large egg",
+    "6 tablespoon grated parmesan cheese",
+    "1 1/2 teaspoon baking powder",
+    "2 tablespoon butter (melted)",
+    "4 medium celery",
+    "1/4 medium yellow onion (chopped)",
+    "1/4 cup leek (chopped)",
+    "1 teaspoon dried thyme",
+    "1/2 teaspoon dried sage",
+    "1/2 teaspoon dried rosemary",
+    "salt and pepper (to taste)",
+    "1/4 cup chicken broth",
+    "1/4 cup heavy cream"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Make the keto bread following these instructions: https://www.ruled.me/90-second-keto-bread/",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-1.jpg"
+    },
+    {
+      "text": "Cube the keto bread and place onto a baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-2.jpg"
+    },
+    {
+      "text": "Bake in the oven for about 5-10 minutes at 425F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-3.jpg"
+    },
+    {
+      "text": "In a frying pan, sautee celery, onion, and leeks in butter over low to medium heat for a few minutes. Remove from heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-4.jpg"
+    },
+    {
+      "text": "Mix the cubed bread into the sauteed vegetables. Place this in a baking pan and top with thyme, sage, rosemary, salt, and pepper. Combine heavy cream and chicken broth together. Drizzle this over the top. Reduce heat to 350F and covered with aluminum foil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-5.jpg"
+    },
+    {
+      "text": "Bake in the oven for 10 minutes, remove foil and cook for another 5 minutes. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "holiday",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/533d9ce76835a60b83572ccf.jpg",
+      "archived": true,
+      "originalPath": "images/533d9ce76835a60b83572ccf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Featured.jpg",
+      "path": "../../nenaudojama/side-items/images/8fe6af76046178c4e038d87e.jpg",
+      "archived": true,
+      "originalPath": "images/8fe6af76046178c4e038d87e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-1.jpg",
+      "path": "../../nenaudojama/side-items/images/1bfdd9a1ed67ffbb8cec12f7.jpg",
+      "archived": true,
+      "originalPath": "images/1bfdd9a1ed67ffbb8cec12f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-2.jpg",
+      "path": "../../nenaudojama/side-items/images/8bbf7bf42aeaa835159c73e8.avif",
+      "archived": true,
+      "originalPath": "images/8bbf7bf42aeaa835159c73e8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-3.jpg",
+      "path": "../../nenaudojama/side-items/images/687aa151c2baadba60371d12.avif",
+      "archived": true,
+      "originalPath": "images/687aa151c2baadba60371d12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-4.jpg",
+      "path": "../../nenaudojama/side-items/images/b116d1be354e9955c6f82755.avif",
+      "archived": true,
+      "originalPath": "images/b116d1be354e9955c6f82755.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-5.jpg",
+      "path": "../../nenaudojama/side-items/images/d8fe2d1378e64b33459e5333.jpg",
+      "archived": true,
+      "originalPath": "images/d8fe2d1378e64b33459e5333.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Second.jpg",
+      "path": "../../nenaudojama/side-items/images/06cb3a4d114c129be098618d.avif",
+      "archived": true,
+      "originalPath": "images/06cb3a4d114c129be098618d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Long.jpg",
+      "path": "../../nenaudojama/side-items/images/a71a719803ac6b044a7fe7b4.avif",
+      "archived": true,
+      "originalPath": "images/a71a719803ac6b044a7fe7b4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/0b9b8d23223366b5bc753296.jpg",
+      "archived": true,
+      "originalPath": "images/0b9b8d23223366b5bc753296.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/96aae6fe15a838f23b07b819.jpg",
+      "archived": true,
+      "originalPath": "images/96aae6fe15a838f23b07b819.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3e1fd271f3173acb72cfe96f.avif",
+      "archived": true,
+      "originalPath": "images/3e1fd271f3173acb72cfe96f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-3-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/610ae58879fc549bc8b21d05.avif",
+      "archived": true,
+      "originalPath": "images/610ae58879fc549bc8b21d05.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-4-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/63ed9b58603a23d11cba4de5.avif",
+      "archived": true,
+      "originalPath": "images/63ed9b58603a23d11cba4de5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-5-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/1f4b7a8aabfa80ba77e4e231.avif",
+      "archived": true,
+      "originalPath": "images/1f4b7a8aabfa80ba77e4e231.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/8fe6af76046178c4e038d87e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Stuffing",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Stuffing. Each serving comes out to be 382 calories, 34.4g fats, 4.7g net carbs, and 13.2g protein.",
+    "datePublished": "2023-02-16T10:00:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "9 tablespoon almond flour (can be subbed for 3 tablespoon coconut flour)",
+      "3 tablespoon butter (melted)",
+      "3 large egg",
+      "6 tablespoon grated parmesan cheese",
+      "1 1/2 teaspoon baking powder",
+      "2 tablespoon butter (melted)",
+      "4 medium celery",
+      "1/4 medium yellow onion (chopped)",
+      "1/4 cup leek (chopped)",
+      "1 teaspoon dried thyme",
+      "1/2 teaspoon dried sage",
+      "1/2 teaspoon dried rosemary",
+      "salt and pepper (to taste)",
+      "1/4 cup chicken broth",
+      "1/4 cup heavy cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Make the keto bread following these instructions: https://www.ruled.me/90-second-keto-bread/",
+        "name": "Measure out and prepare all of the ingredients. Make the keto bread following these instructions: https://www.ruled.me/90-second-keto-bread/",
+        "url": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cube the keto bread and place onto a baking sheet.",
+        "name": "Cube the keto bread and place onto a baking sheet.",
+        "url": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven for about 5-10 minutes at 425F.",
+        "name": "Bake in the oven for about 5-10 minutes at 425F.",
+        "url": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, sautee celery, onion, and leeks in butter over low to medium heat for a few minutes. Remove from heat.",
+        "name": "In a frying pan, sautee celery, onion, and leeks in butter over low to medium heat for a few minutes. Remove from heat.",
+        "url": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the cubed bread into the sauteed vegetables. Place this in a baking pan and top with thyme, sage, rosemary, salt, and pepper. Combine heavy cream and chicken broth together. Drizzle this over the top. Reduce heat to 350F and covered with aluminum foil.",
+        "name": "Mix the cubed bread into the sauteed vegetables. Place this in a baking pan and top with thyme, sage, rosemary, salt, and pepper. Combine heavy cream and chicken broth together. Drizzle this over the top. Reduce heat to 350F and covered with aluminum foil.",
+        "url": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven for 10 minutes, remove foil and cook for another 5 minutes. Serve and enjoy!",
+        "name": "Bake in the oven for 10 minutes, remove foil and cook for another 5 minutes. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-stuffing/#wprm-recipe-54507-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, holiday, keto, low-carb, oven-baked, simple &amp; easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "382 kcal",
+      "fatContent": "34.4 g",
+      "proteinContent": "13.2 g",
+      "carbohydrateContent": "4.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-stuffing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-stuffing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-stuffing/"
+  },
+  "sourceIndex": {
+    "id": 48441,
+    "rid": 54507,
+    "t": "Keto Stuffing",
+    "u": "/keto-stuffing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/11/Keto-Stuffing-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4.7,
+    "cal": 382,
+    "pr": 13.2,
+    "fa": 34.4,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "holiday",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 15,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2023-02-16",
+    "cm": 0,
+    "ex": "Going keto doesn’t have to mean giving up traditionally carb-heavy treats like stuffing. Next time you’re preparing your favorite roast or holiday meal, give this keto-friendly stuffing a try. This",
+    "pv": 292
+  },
+  "sourceHtml": "pages/keto-stuffing.html",
+  "scrapedAt": "2026-11-07T08:31:59.990Z"
+}

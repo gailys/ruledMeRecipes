@@ -1,0 +1,317 @@
+{
+  "id": "ruled-48633",
+  "slug": "keto-green-smoothie",
+  "title": "Keto Green Smoothie",
+  "url": "https://www.ruled.me/keto-green-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Green Smoothie. Each serving comes out to be 178 calories, 11g fats, 2.4g net carbs, and 13.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "178 kcal",
+    "fatContent": "11 g",
+    "proteinContent": "13.9 g",
+    "carbohydrateContent": "2.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 178,
+    "netCarbsGrams": 2.4,
+    "proteinGrams": 13.9,
+    "fatGrams": 11
+  },
+  "ingredients": [
+    "3/4 cup unsweetened almond milk",
+    "30 gram low-carb protein powder",
+    "1/2 medium avocado",
+    "1 cup spinach",
+    "6 medium fresh mint (leaves)",
+    "2 tablespoon unsweetened toasted coconut flakes (for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-1.jpg"
+    },
+    {
+      "text": "In a blender, combine all of the ingredients except the coconut flakes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-2.jpg"
+    },
+    {
+      "text": "Pulse the blender until you achieve desired consistency or until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-3.jpg"
+    },
+    {
+      "text": "Pour into a glass.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-4.jpg"
+    },
+    {
+      "text": "Top the green smoothie with toasted coconut flakes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-5.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/7049a3c35d778905017b7fbd.avif",
+      "archived": true,
+      "originalPath": "images/7049a3c35d778905017b7fbd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Featured.jpg",
+      "path": "images/63828b294dc57d8ce00f70d5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/5c6caaeeda78e7bea1a8b13a.jpg",
+      "archived": true,
+      "originalPath": "images/5c6caaeeda78e7bea1a8b13a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/86b1468773116fd28665b833.jpg",
+      "archived": true,
+      "originalPath": "images/86b1468773116fd28665b833.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/0fdf39400590d81e4b1fb0ca.avif",
+      "archived": true,
+      "originalPath": "images/0fdf39400590d81e4b1fb0ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/c5a0a02a0f184273326c10a6.jpg",
+      "archived": true,
+      "originalPath": "images/c5a0a02a0f184273326c10a6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/d9309d1276d850a5402f305b.jpg",
+      "archived": true,
+      "originalPath": "images/d9309d1276d850a5402f305b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/10b424d4a7d87c9a99853ea0.jpg",
+      "archived": true,
+      "originalPath": "images/10b424d4a7d87c9a99853ea0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/00c1711c28ad76ced4100383.jpg",
+      "archived": true,
+      "originalPath": "images/00c1711c28ad76ced4100383.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/c90697a2700ee94e1b55e724.avif",
+      "archived": true,
+      "originalPath": "images/c90697a2700ee94e1b55e724.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e10c45cb070dfbbfb6fcc2de.jpg",
+      "archived": true,
+      "originalPath": "images/e10c45cb070dfbbfb6fcc2de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fbc5d0e8fc4eb49184854cfb.jpg",
+      "archived": true,
+      "originalPath": "images/fbc5d0e8fc4eb49184854cfb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b951c655deacbec9559ac9c0.jpg",
+      "archived": true,
+      "originalPath": "images/b951c655deacbec9559ac9c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/04ff474d506d7aa605eeea4e.jpg",
+      "archived": true,
+      "originalPath": "images/04ff474d506d7aa605eeea4e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/23a7a4f7001d5feb5079f8e9.jpg",
+      "archived": true,
+      "originalPath": "images/23a7a4f7001d5feb5079f8e9.jpg"
+    }
+  ],
+  "featuredImage": "images/63828b294dc57d8ce00f70d5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Green Smoothie",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Green Smoothie. Each serving comes out to be 178 calories, 11g fats, 2.4g net carbs, and 13.9g protein.",
+    "datePublished": "2023-03-30T09:00:55+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup unsweetened almond milk",
+      "30 gram low-carb protein powder",
+      "1/2 medium avocado",
+      "1 cup spinach",
+      "6 medium fresh mint (leaves)",
+      "2 tablespoon unsweetened toasted coconut flakes (for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender, combine all of the ingredients except the coconut flakes.",
+        "name": "In a blender, combine all of the ingredients except the coconut flakes.",
+        "url": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pulse the blender until you achieve desired consistency or until smooth.",
+        "name": "Pulse the blender until you achieve desired consistency or until smooth.",
+        "url": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a glass.",
+        "name": "Pour into a glass.",
+        "url": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the green smoothie with toasted coconut flakes.",
+        "name": "Top the green smoothie with toasted coconut flakes.",
+        "url": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-green-smoothie/#wprm-recipe-54555-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Snacks"
+    ],
+    "keywords": "15-minute, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "178 kcal",
+      "fatContent": "11 g",
+      "proteinContent": "13.9 g",
+      "carbohydrateContent": "2.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-green-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-green-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-green-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 48633,
+    "rid": 54555,
+    "t": "Keto Green Smoothie",
+    "u": "/keto-green-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/01/Keto-Green-Smoothie-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.4,
+    "cal": 178,
+    "pr": 13.9,
+    "fa": 11,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2023-03-30",
+    "cm": 0,
+    "ex": "This Keto Green Smoothie is a low-carb, delicious option to boost your vitamin intake without compromising on taste. Blending unsweetened almond milk with a scoop of protein-packed keto powder, plus",
+    "pv": 194
+  },
+  "sourceHtml": "pages/keto-green-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:12.013Z"
+}

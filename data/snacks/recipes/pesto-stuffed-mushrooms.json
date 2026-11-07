@@ -1,0 +1,334 @@
+{
+  "id": "ruled-35383",
+  "slug": "pesto-stuffed-mushrooms",
+  "title": "Pesto Stuffed Mushrooms",
+  "url": "https://www.ruled.me/pesto-stuffed-mushrooms/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Pesto Stuffed Mushrooms. Each serving comes out to be 335 calories, 31.1g fats, 3.1g net carbs, and 9.8g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT30M",
+  "cookTime": "PT30M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "335 kcal",
+    "fatContent": "31.1 g",
+    "proteinContent": "9.8 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 335,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 9.8,
+    "fatGrams": 31.1
+  },
+  "ingredients": [
+    "200 gram cremini mushrooms",
+    "300 gram bacon",
+    "80 gram cream cheese (softened)",
+    "25 gram pesto"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. Preheat oven to 375F fan-forced.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-01.jpg"
+    },
+    {
+      "text": "Combine the cream cheese with your basil pesto of choice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-02.jpg"
+    },
+    {
+      "text": "Lay streaky bacon slices on a cutting board and cut in half lengthwise. This allows you to wrap bacon both ways around the mushroom.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-03.jpg"
+    },
+    {
+      "text": "Take the mushrooms and peel and de-stalk them all. The stalks should remove easily if you gently pull them.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-04.jpg"
+    },
+    {
+      "text": "Where the stalk has been removed, place a spoonful of the pesto-cream cheese mixture. Repeat this process until the mushrooms have all been filled.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-05.jpg"
+    },
+    {
+      "text": "Take one half slice of bacon and wrap it around the mushroom. Take the other half slice of streaky bacon and wrap around the mushroom in the opposite direction, so the mushroom is nicely covered. Repeat for all mushrooms, placing them in an oven-proof dish as you go.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-06.jpg"
+    },
+    {
+      "text": "Place in the oven until the bacon is a nice golden brown color and is crispy. This should take around 20-30 minutes, depending on the size of your mushrooms. Keep an eye on the mushrooms, as they shouldn’t take too much time to cook if they are small. Larger mushrooms will take a little longer to cook down.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/b4d7083f7e83b18dd2c48c7e.avif",
+      "archived": true,
+      "originalPath": "images/b4d7083f7e83b18dd2c48c7e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-featured.jpg",
+      "path": "../../nenaudojama/snacks/images/69534abf8d36985a6cca5eae.jpg",
+      "archived": true,
+      "originalPath": "images/69534abf8d36985a6cca5eae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-01.jpg",
+      "path": "../../nenaudojama/snacks/images/6a586ce10ddb65b2667b269e.avif",
+      "archived": true,
+      "originalPath": "images/6a586ce10ddb65b2667b269e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-02.jpg",
+      "path": "../../nenaudojama/snacks/images/52dd6a4b550fd6d63ef853ac.avif",
+      "archived": true,
+      "originalPath": "images/52dd6a4b550fd6d63ef853ac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-03.jpg",
+      "path": "../../nenaudojama/snacks/images/a799d6fd8f8d561186fe7bee.avif",
+      "archived": true,
+      "originalPath": "images/a799d6fd8f8d561186fe7bee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-04.jpg",
+      "path": "../../nenaudojama/snacks/images/fb9b023b8e838b2d25bb1467.avif",
+      "archived": true,
+      "originalPath": "images/fb9b023b8e838b2d25bb1467.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-05.jpg",
+      "path": "../../nenaudojama/snacks/images/8347683e6e1ec152c30e6153.avif",
+      "archived": true,
+      "originalPath": "images/8347683e6e1ec152c30e6153.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-06.jpg",
+      "path": "../../nenaudojama/snacks/images/24efb315a5de77db97c7fbba.avif",
+      "archived": true,
+      "originalPath": "images/24efb315a5de77db97c7fbba.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-second.jpg",
+      "path": "../../nenaudojama/snacks/images/9cdc7e17ce835978122ff0cf.avif",
+      "archived": true,
+      "originalPath": "images/9cdc7e17ce835978122ff0cf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/b008f4fc08aa260a7377e152.jpg",
+      "archived": true,
+      "originalPath": "images/b008f4fc08aa260a7377e152.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-01-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/842bb466c6121a494d9824ba.avif",
+      "archived": true,
+      "originalPath": "images/842bb466c6121a494d9824ba.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/97dfebcbc83be948c1973f50.jpg",
+      "archived": true,
+      "originalPath": "images/97dfebcbc83be948c1973f50.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-03-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/afde57c5e3ca7e236dc1ee9b.jpg",
+      "archived": true,
+      "originalPath": "images/afde57c5e3ca7e236dc1ee9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-04-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/c6bc26a99a062d236cafcd04.avif",
+      "archived": true,
+      "originalPath": "images/c6bc26a99a062d236cafcd04.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-05-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/7dd211714b2ed6215e3a8f66.jpg",
+      "archived": true,
+      "originalPath": "images/7dd211714b2ed6215e3a8f66.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-06-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2ab9a62b36c8e8858de13f52.avif",
+      "archived": true,
+      "originalPath": "images/2ab9a62b36c8e8858de13f52.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/69534abf8d36985a6cca5eae.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pesto Stuffed Mushrooms",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Pesto Stuffed Mushrooms. Each serving comes out to be 335 calories, 31.1g fats, 3.1g net carbs, and 9.8g protein.",
+    "datePublished": "2018-02-08T12:00:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT30M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "200 gram cremini mushrooms",
+      "300 gram bacon",
+      "80 gram cream cheese (softened)",
+      "25 gram pesto"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. Preheat oven to 375F fan-forced.",
+        "name": "Gather all ingredients. Preheat oven to 375F fan-forced.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cream cheese with your basil pesto of choice.",
+        "name": "Combine the cream cheese with your basil pesto of choice.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay streaky bacon slices on a cutting board and cut in half lengthwise. This allows you to wrap bacon both ways around the mushroom.",
+        "name": "Lay streaky bacon slices on a cutting board and cut in half lengthwise. This allows you to wrap bacon both ways around the mushroom.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Take the mushrooms and peel and de-stalk them all. The stalks should remove easily if you gently pull them.",
+        "name": "Take the mushrooms and peel and de-stalk them all. The stalks should remove easily if you gently pull them.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Where the stalk has been removed, place a spoonful of the pesto-cream cheese mixture. Repeat this process until the mushrooms have all been filled.",
+        "name": "Where the stalk has been removed, place a spoonful of the pesto-cream cheese mixture. Repeat this process until the mushrooms have all been filled.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Take one half slice of bacon and wrap it around the mushroom. Take the other half slice of streaky bacon and wrap around the mushroom in the opposite direction, so the mushroom is nicely covered. Repeat for all mushrooms, placing them in an oven-proof dish as you go.",
+        "name": "Take one half slice of bacon and wrap it around the mushroom. Take the other half slice of streaky bacon and wrap around the mushroom in the opposite direction, so the mushroom is nicely covered. Repeat for all mushrooms, placing them in an oven-proof dish as you go.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the oven until the bacon is a nice golden brown color and is crispy. This should take around 20-30 minutes, depending on the size of your mushrooms. Keep an eye on the mushrooms, as they shouldn’t take too much time to cook if they are small. Larger mushrooms will take a little longer to cook down.",
+        "name": "Place in the oven until the bacon is a nice golden brown color and is crispy. This should take around 20-30 minutes, depending on the size of your mushrooms. Keep an eye on the mushrooms, as they shouldn’t take too much time to cook if they are small. Larger mushrooms will take a little longer to cook down.",
+        "url": "https://www.ruled.me/pesto-stuffed-mushrooms/#wprm-recipe-52481-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Snacks"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, keto, low-carb, oven-baked, party-food, pork, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "335 kcal",
+      "fatContent": "31.1 g",
+      "proteinContent": "9.8 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pesto-stuffed-mushrooms/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pesto-stuffed-mushrooms/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pesto-stuffed-mushrooms/"
+  },
+  "sourceIndex": {
+    "id": 35383,
+    "rid": 52481,
+    "t": "Pesto Stuffed Mushrooms",
+    "u": "/pesto-stuffed-mushrooms/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/pesto-stuffed-mushrooms-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.1,
+    "cal": 335,
+    "pr": 9.8,
+    "fa": 31.1,
+    "tm": 60,
+    "sv": 5,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 4,
+    "fk": [
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2018-02-08",
+    "cm": 4,
+    "ex": "I know you'll love these delicious, creamy, little low carb treats wrapped in bacon. Creamy pesto stuffed mushrooms wrapped in streaky bacon were such a hit with the entire family. They are so simple",
+    "pv": 268
+  },
+  "sourceHtml": "pages/pesto-stuffed-mushrooms.html",
+  "scrapedAt": "2026-11-07T08:31:09.942Z"
+}

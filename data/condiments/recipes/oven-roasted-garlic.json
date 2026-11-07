@@ -1,0 +1,347 @@
+{
+  "id": "ruled-23280",
+  "slug": "oven-roasted-garlic",
+  "title": "Oven-Roasted Garlic",
+  "url": "https://www.ruled.me/oven-roasted-garlic/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Oven-Roasted Garlic. Each serving comes out to be 124 calories, 9.2g fats, 9.3g net carbs, and 1.9g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "124 kcal",
+    "fatContent": "9.2 g",
+    "proteinContent": "1.9 g",
+    "carbohydrateContent": "9.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 124,
+    "netCarbsGrams": 9.3,
+    "proteinGrams": 1.9,
+    "fatGrams": 9.2
+  },
+  "ingredients": [
+    "12 whole fresh garlic bulbs",
+    "1/2 cup olive oil"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Apply pressure to the garlic to peel off the outer skins. Cut about 1/2\" off the heads of garlic, so that the cloves are showing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9549.jpg"
+    },
+    {
+      "text": "Discard the remaining garlic skins and add the garlic heads to an ovenproof dish lined with foil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9560.jpg"
+    },
+    {
+      "text": "Drizzle olive oil evenly over the garlic heads.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9568.jpg"
+    },
+    {
+      "text": "Tightly wrap the garlic in the foil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9570.jpg"
+    },
+    {
+      "text": "Place in the oven and roast for 35 minutes or until light gold, checking on them every 10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9578.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool. Once cooled enough to handle, peel or slice the excess skin to remove the whole cloves.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_9581.jpg"
+    },
+    {
+      "text": "Store in a mason jar and refrigerate for later use.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlic.jpg",
+      "path": "../../nenaudojama/condiments/images/09de18a6cf90b51cba9a8273.jpg",
+      "archived": true,
+      "originalPath": "images/09de18a6cf90b51cba9a8273.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9549.jpg",
+      "path": "../../nenaudojama/condiments/images/43a964827020013ec2da63bb.jpg",
+      "archived": true,
+      "originalPath": "images/43a964827020013ec2da63bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9560.jpg",
+      "path": "../../nenaudojama/condiments/images/1efdd2390913060ebc6a3811.jpg",
+      "archived": true,
+      "originalPath": "images/1efdd2390913060ebc6a3811.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9568.jpg",
+      "path": "../../nenaudojama/condiments/images/2cf01fa1ea7d15aa5d969ff0.jpg",
+      "archived": true,
+      "originalPath": "images/2cf01fa1ea7d15aa5d969ff0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9570.jpg",
+      "path": "../../nenaudojama/condiments/images/309e801a606de879bfda2611.avif",
+      "archived": true,
+      "originalPath": "images/309e801a606de879bfda2611.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9578.jpg",
+      "path": "../../nenaudojama/condiments/images/36eb2982452b6509a8b7a3f1.jpg",
+      "archived": true,
+      "originalPath": "images/36eb2982452b6509a8b7a3f1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9581.jpg",
+      "path": "../../nenaudojama/condiments/images/db5cfd9edc9f9ec0b267c2b7.jpg",
+      "archived": true,
+      "originalPath": "images/db5cfd9edc9f9ec0b267c2b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlicsecond.jpg",
+      "path": "../../nenaudojama/condiments/images/d6e71e89384f69cf34df3e00.avif",
+      "archived": true,
+      "originalPath": "images/d6e71e89384f69cf34df3e00.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9555.jpg",
+      "path": "../../nenaudojama/condiments/images/46bd24b220ba2b2fc7a508c1.jpg",
+      "archived": true,
+      "originalPath": "images/46bd24b220ba2b2fc7a508c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarliclong.jpg",
+      "path": "../../nenaudojama/condiments/images/aff9f6faddb9c681bc0cdbac.jpg",
+      "archived": true,
+      "originalPath": "images/aff9f6faddb9c681bc0cdbac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9549-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/1e77aaefc331d3f69d67e786.jpg",
+      "archived": true,
+      "originalPath": "images/1e77aaefc331d3f69d67e786.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9560-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/5725614e78a409656adf601a.jpg",
+      "archived": true,
+      "originalPath": "images/5725614e78a409656adf601a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9568-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/8c2019494cae55b47658cf40.jpg",
+      "archived": true,
+      "originalPath": "images/8c2019494cae55b47658cf40.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9570-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/694fdbad7d517261277a5268.jpg",
+      "archived": true,
+      "originalPath": "images/694fdbad7d517261277a5268.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9578-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/51587d4d3c2febb02f5c679c.jpg",
+      "archived": true,
+      "originalPath": "images/51587d4d3c2febb02f5c679c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_9581-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/8b6e3daf443047864a73d274.jpg",
+      "archived": true,
+      "originalPath": "images/8b6e3daf443047864a73d274.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/09de18a6cf90b51cba9a8273.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Oven-Roasted Garlic",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Oven-Roasted Garlic. Each serving comes out to be 124 calories, 9.2g fats, 9.3g net carbs, and 1.9g protein.",
+    "datePublished": "2014-08-06T15:35:28+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlic.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "12 whole fresh garlic bulbs",
+      "1/2 cup olive oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Apply pressure to the garlic to peel off the outer skins. Cut about 1/2\" off the heads of garlic, so that the cloves are showing.",
+        "name": "Preheat oven to 400F. Apply pressure to the garlic to peel off the outer skins. Cut about 1/2\" off the heads of garlic, so that the cloves are showing.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9549.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Discard the remaining garlic skins and add the garlic heads to an ovenproof dish lined with foil.",
+        "name": "Discard the remaining garlic skins and add the garlic heads to an ovenproof dish lined with foil.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9560.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle olive oil evenly over the garlic heads.",
+        "name": "Drizzle olive oil evenly over the garlic heads.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9568.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tightly wrap the garlic in the foil.",
+        "name": "Tightly wrap the garlic in the foil.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9570.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the oven and roast for 35 minutes or until light gold, checking on them every 10 minutes.",
+        "name": "Place in the oven and roast for 35 minutes or until light gold, checking on them every 10 minutes.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9578.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool. Once cooled enough to handle, peel or slice the excess skin to remove the whole cloves.",
+        "name": "Remove from the oven and let cool. Once cooled enough to handle, peel or slice the excess skin to remove the whole cloves.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_9581.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Store in a mason jar and refrigerate for later use.",
+        "name": "Store in a mason jar and refrigerate for later use.",
+        "url": "https://www.ruled.me/oven-roasted-garlic/#wprm-recipe-51261-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "keywords": "batch-cooking, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, nut-free, oven-baked, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "124 kcal",
+      "fatContent": "9.2 g",
+      "proteinContent": "1.9 g",
+      "carbohydrateContent": "9.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/oven-roasted-garlic/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/oven-roasted-garlic/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/oven-roasted-garlic/"
+  },
+  "sourceIndex": {
+    "id": 23280,
+    "rid": 51261,
+    "t": "Oven Roasted Garlic",
+    "u": "/oven-roasted-garlic/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlic.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 9.3,
+    "cal": 124,
+    "pr": 1.9,
+    "fa": 9.2,
+    "tm": 50,
+    "sv": 12,
+    "kw": [
+      "batch-cooking",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 2,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "make-ahead"
+    ],
+    "d": "2014-08-06",
+    "cm": 0,
+    "ex": "Yup, it's really this simple to make roasted garlic. Although not very keto-friendly on its own, it does serve a delicious flavor throughout many other dishes. Roasted garlic takes on a deeper garlic",
+    "pv": 306
+  },
+  "sourceHtml": "pages/oven-roasted-garlic.html",
+  "scrapedAt": "2026-11-07T08:33:37.805Z"
+}

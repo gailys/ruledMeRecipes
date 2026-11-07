@@ -1,0 +1,389 @@
+{
+  "id": "ruled-26750",
+  "slug": "nacho-chicken-casserole",
+  "title": "Nacho Chicken Casserole",
+  "url": "https://www.ruled.me/nacho-chicken-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Nacho Chicken Casserole. Each serving comes out to be 428 calories, 32.3g fats, 5g net carbs, and 31.1g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT20M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "428 kcal",
+    "fatContent": "32.3 g",
+    "proteinContent": "31.1 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 428,
+    "netCarbsGrams": 5,
+    "proteinGrams": 31.1,
+    "fatGrams": 32.3
+  },
+  "ingredients": [
+    "28 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)",
+    "1 1/2 teaspoon chili powder",
+    "2 tablespoon olive oil",
+    "4 ounce cream cheese",
+    "1/4 cup sour cream",
+    "3 tablespoon parmesan cheese",
+    "4 ounce cheddar cheese (shredded)",
+    "1 cup canned tomatoes with green chiles (such as Ro-Tel)",
+    "16 ounce frozen cauliflower",
+    "1 medium jalapeno pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Using kitchen shears, cut the chicken into bite-sized chunks. Season with salt, pepper, and chili powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/img_8313.jpg"
+    },
+    {
+      "text": "Cook the chicken in the olive oil over medium-high heat until browned on all sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/img_8322.jpg"
+    },
+    {
+      "text": "Add the cream cheese, sour cream, parmesan, and three-quarters of the cheddar cheese to the chicken, stirring until melted and mixed. Add the canned tomatoes and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/img_8326.jpg"
+    },
+    {
+      "text": "Transfer the chicken mixture to a casserole dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/img_8336.jpg"
+    },
+    {
+      "text": "Microwave the frozen cauliflower until cooked through. Use an immersion blender to blend with the remaining cheddar cheese and parmesan to a mashed potato-like consistency. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/img_8338.jpg"
+    },
+    {
+      "text": "Dice the jalapeño. Spread the cauliflower mixture over the casserole and sprinkle the jalapeño on top. Bake for 15–20 minutes or until browned and the jalapeños are cooked. Remove from the oven and let cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/09/img_8347.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/nachochickencasserole3.jpg",
+      "path": "images/b5b03c5aa1f499548878a836.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8313.jpg",
+      "path": "../../nenaudojama/dinner/images/264954802fd8e746d4ed2c6d.jpg",
+      "archived": true,
+      "originalPath": "images/264954802fd8e746d4ed2c6d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8322.jpg",
+      "path": "../../nenaudojama/dinner/images/366ebbd7cc48443bcf118a2a.jpg",
+      "archived": true,
+      "originalPath": "images/366ebbd7cc48443bcf118a2a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8326.jpg",
+      "path": "../../nenaudojama/dinner/images/d2a5a035a611aaded27a61b2.jpg",
+      "archived": true,
+      "originalPath": "images/d2a5a035a611aaded27a61b2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8336.jpg",
+      "path": "../../nenaudojama/dinner/images/5872220ec07c1966d7b725cf.jpg",
+      "archived": true,
+      "originalPath": "images/5872220ec07c1966d7b725cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8338.jpg",
+      "path": "../../nenaudojama/dinner/images/fecf3b13ca737898e16969a1.jpg",
+      "archived": true,
+      "originalPath": "images/fecf3b13ca737898e16969a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8347.jpg",
+      "path": "../../nenaudojama/dinner/images/a764bfb5de89082fac1c7188.jpg",
+      "archived": true,
+      "originalPath": "images/a764bfb5de89082fac1c7188.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/nachochickencasserolesecond.jpg",
+      "path": "../../nenaudojama/dinner/images/bce79be9f5da7b3137bd2742.jpg",
+      "archived": true,
+      "originalPath": "images/bce79be9f5da7b3137bd2742.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/nachochickencasserole2.jpg",
+      "path": "../../nenaudojama/dinner/images/016caabee6c9cb04360a0f2c.jpg",
+      "archived": true,
+      "originalPath": "images/016caabee6c9cb04360a0f2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8313-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/83f7d16e1589f5a1bc9ea26e.jpg",
+      "archived": true,
+      "originalPath": "images/83f7d16e1589f5a1bc9ea26e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8322-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c3bae9aebc495f371fc33746.jpg",
+      "archived": true,
+      "originalPath": "images/c3bae9aebc495f371fc33746.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8326-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f5f7af9f249796c93a548dd3.jpg",
+      "archived": true,
+      "originalPath": "images/f5f7af9f249796c93a548dd3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8336-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e2b2bc94b334c2c021f5470c.jpg",
+      "archived": true,
+      "originalPath": "images/e2b2bc94b334c2c021f5470c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8338-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/97e8fc46f599bcdc1cecdd06.jpg",
+      "archived": true,
+      "originalPath": "images/97e8fc46f599bcdc1cecdd06.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/09/img_8347-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c359da71e42fdb543147f808.jpg",
+      "archived": true,
+      "originalPath": "images/c359da71e42fdb543147f808.jpg"
+    }
+  ],
+  "featuredImage": "images/b5b03c5aa1f499548878a836.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Nacho Chicken Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Nacho Chicken Casserole. Each serving comes out to be 428 calories, 32.3g fats, 5g net carbs, and 31.1g protein.",
+    "datePublished": "2015-09-01T15:44:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/09/nachochickencasserole3.jpg"
+    ],
+    "video": {
+      "name": "Keto Nacho Chicken Casserole [Southwest Shepherd's Pie]",
+      "description": "Keto and casseroles seem to go hand in hand when you think about the type of high-fat foods that are being included. All of the cheeses you’re able to use create an ooey, gooey texture that everyone can enjoy. Whether you’re a working mom, a college student, or you just want an easy meal – this casserole will get the job done!\n\nThis is my Southwestern-esque take on Shepherd’s Pie. It’s got a great heat coming through from the chili seasoning, a good balance of acidity and sweetness from the tomatoes, and plenty of cheese to boot. The cauliflower on top just adds a layer of fluffy goodness that lightens up what might be considered a heavy dish.\n\nOne tip to make things go a little quicker is to pre-cook the cauliflower when you start browning the chicken. It will still be warm enough to melt the cheese into the cauliflower, and will save on 5-6 minutes of down time while you’re cooking. This way, you can have everything ready in just about 30 minutes.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1.75 lbs. Chicken Thighs, boneless skinless\n1 1/2 tsp. Chili seasoning\n2 tbsp. Olive Oil\n4 oz. Cream Cheese\n4 oz. Cheddar Cheese\n1 cup Green Chilies and Tomatoes\n3 tbsp. Parmesan Cheese (~45g)\n1/4 cup Sour Cream\n16 oz. Frozen Cauliflower, package\n1 medium Jalapeno Pepper\nSalt and Pepper to Taste\n\nNutrition Summary: This makes a total of 6 servings of Nacho Chicken Casserole. Each serving comes out to be 426 Calories, 32.2g Fats, 4.3g Net Carbs, and 30.8g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-10-04T14:00:34+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 17619
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 802
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 32
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xB241WKEDw8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/xB241WKEDw8?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=xB241WKEDw8",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "28 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)",
+      "1 1/2 teaspoon chili powder",
+      "2 tablespoon olive oil",
+      "4 ounce cream cheese",
+      "1/4 cup sour cream",
+      "3 tablespoon parmesan cheese",
+      "4 ounce cheddar cheese (shredded)",
+      "1 cup canned tomatoes with green chiles (such as Ro-Tel)",
+      "16 ounce frozen cauliflower",
+      "1 medium jalapeno pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Using kitchen shears, cut the chicken into bite-sized chunks. Season with salt, pepper, and chili powder.",
+        "name": "Preheat oven to 375F. Using kitchen shears, cut the chicken into bite-sized chunks. Season with salt, pepper, and chili powder.",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/img_8313.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the chicken in the olive oil over medium-high heat until browned on all sides.",
+        "name": "Cook the chicken in the olive oil over medium-high heat until browned on all sides.",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/img_8322.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cream cheese, sour cream, parmesan, and three-quarters of the cheddar cheese to the chicken, stirring until melted and mixed. Add the canned tomatoes and mix well.",
+        "name": "Add the cream cheese, sour cream, parmesan, and three-quarters of the cheddar cheese to the chicken, stirring until melted and mixed. Add the canned tomatoes and mix well.",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/img_8326.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the chicken mixture to a casserole dish.",
+        "name": "Transfer the chicken mixture to a casserole dish.",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/img_8336.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave the frozen cauliflower until cooked through. Use an immersion blender to blend with the remaining cheddar cheese and parmesan to a mashed potato-like consistency. Season with salt and pepper.",
+        "name": "Microwave the frozen cauliflower until cooked through. Use an immersion blender to blend with the remaining cheddar cheese and parmesan to a mashed potato-like consistency. Season with salt and pepper.",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/img_8338.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the jalapeño. Spread the cauliflower mixture over the casserole and sprinkle the jalapeño on top. Bake for 15–20 minutes or until browned and the jalapeños are cooked. Remove from the oven and let cool.",
+        "name": "Dice the jalapeño. Spread the cauliflower mixture over the casserole and sprinkle the jalapeño on top. Bake for 15–20 minutes or until browned and the jalapeños are cooked. Remove from the oven and let cool.",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/09/img_8347.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/nacho-chicken-casserole/#wprm-recipe-51807-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, poultry, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "428 kcal",
+      "fatContent": "32.3 g",
+      "proteinContent": "31.1 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/nacho-chicken-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/nacho-chicken-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/nacho-chicken-casserole/"
+  },
+  "sourceIndex": {
+    "id": 26750,
+    "rid": 51807,
+    "t": "Nacho Chicken Casserole",
+    "u": "/nacho-chicken-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/09/nachochickencasserole3.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5,
+    "cal": 428,
+    "pr": 31.1,
+    "fa": 32.3,
+    "tm": 40,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2015-09-01",
+    "cm": 41,
+    "ex": "Keto and casseroles seem to go hand in hand when you think about the type of high-fat foods that are being included. All of the cheeses you're able to use create an ooey, gooey texture that everyone",
+    "pv": 1219
+  },
+  "sourceHtml": "pages/nacho-chicken-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.847Z"
+}

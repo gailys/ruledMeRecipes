@@ -1,0 +1,331 @@
+{
+  "id": "ruled-24900",
+  "slug": "bacon-avocado-muffins",
+  "title": "Bacon & Avocado Muffins",
+  "url": "https://www.ruled.me/bacon-avocado-muffins/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Bacon & Avocado Muffins. Each serving comes out to be 183 calories, 15.4g fats, 1.7g net carbs, and 6.8g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "fatContent": "15.4 g",
+    "proteinContent": "6.8 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 183,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 6.8,
+    "fatGrams": 15.4
+  },
+  "ingredients": [
+    "5 large egg",
+    "1/2 cup almond flour",
+    "1/4 cup flaxseed meal",
+    "1 1/2 tablespoon psyllium husk powder",
+    "1 teaspoon ground coriander",
+    "1 teaspoon dried chives",
+    "1/4 teaspoon crushed red pepper flakes",
+    "1 teaspoon fresh garlic (minced)",
+    "salt and pepper (to taste)",
+    "1 1/2 cup unsweetened carton coconut milk",
+    "1 1/2 tablespoon lemon juice",
+    "5 ounce bacon",
+    "2 tablespoon butter",
+    "45 gram green onion",
+    "4 1/2 ounce colby jack cheese",
+    "1 teaspoon baking powder",
+    "2 medium avocado"
+  ],
+  "instructions": [
+    {
+      "text": "In a mixing bowl, combine the eggs, almond flour, flaxseed meal, psyllium husk, spices, coconut milk, and lemon juice. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8700.jpg"
+    },
+    {
+      "text": "Fry the bacon until crisp in a pan over medium-low heat. Add the butter to the pan once the bacon is almost done cooking.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8708.jpg"
+    },
+    {
+      "text": "Chop the green onions and grate the cheese. Add the green onions, cheese, and baking powder to the mixing bowl. Crumble the bacon and add the crumbled bacon and melted butter to the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8711.jpg"
+    },
+    {
+      "text": "Preheat oven to 350F. Slice the avocados in half, removing the pit and cubing them while still in the peel. Scoop out the cubed avocado and gently fold it into the mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8715.jpg"
+    },
+    {
+      "text": "Pour the batter into a greased cupcake tray and bake for 24–26 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/11/img_8723.jpg"
+    },
+    {
+      "text": "Store in the fridge and enjoy cold!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "oven-baked",
+    "packed-lunch",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "meal-prep",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/baconavocadomuffins.jpg",
+      "path": "images/2291d4dfc97755c383fcc11e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8700.jpg",
+      "path": "../../nenaudojama/breakfast/images/bff85f75755549d45687180d.avif",
+      "archived": true,
+      "originalPath": "images/bff85f75755549d45687180d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8708.jpg",
+      "path": "../../nenaudojama/breakfast/images/5bcb6b369ca7bad508e5a1d8.avif",
+      "archived": true,
+      "originalPath": "images/5bcb6b369ca7bad508e5a1d8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8711.jpg",
+      "path": "../../nenaudojama/breakfast/images/e99ee61986d2185e2438456e.jpg",
+      "archived": true,
+      "originalPath": "images/e99ee61986d2185e2438456e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8715.jpg",
+      "path": "../../nenaudojama/breakfast/images/e973f9584237a3449ab4c12c.jpg",
+      "archived": true,
+      "originalPath": "images/e973f9584237a3449ab4c12c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8723.jpg",
+      "path": "../../nenaudojama/breakfast/images/149178989f6509d93c7f459a.jpg",
+      "archived": true,
+      "originalPath": "images/149178989f6509d93c7f459a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/baconavomuffinssecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/d83b0cca6e17f1a49da7f2ff.jpg",
+      "archived": true,
+      "originalPath": "images/d83b0cca6e17f1a49da7f2ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/baconavocadomuffinslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/819a008a6ddef4bf7503cd05.jpg",
+      "archived": true,
+      "originalPath": "images/819a008a6ddef4bf7503cd05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8700-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/984f2a554f1eb6fe35555f12.jpg",
+      "archived": true,
+      "originalPath": "images/984f2a554f1eb6fe35555f12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8708-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/33567e5d58aa8c8f1754e9c3.jpg",
+      "archived": true,
+      "originalPath": "images/33567e5d58aa8c8f1754e9c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8711-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/43b7125d556acece8e4552f2.jpg",
+      "archived": true,
+      "originalPath": "images/43b7125d556acece8e4552f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8715-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7d21a7fd79d36ed25146c30c.jpg",
+      "archived": true,
+      "originalPath": "images/7d21a7fd79d36ed25146c30c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/11/img_8723-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/25b1233bb2787752f9ad2a48.jpg",
+      "archived": true,
+      "originalPath": "images/25b1233bb2787752f9ad2a48.jpg"
+    }
+  ],
+  "featuredImage": "images/2291d4dfc97755c383fcc11e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon & Avocado Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 16 servings of Bacon &amp; Avocado Muffins. Each serving comes out to be 183 calories, 15.4g fats, 1.7g net carbs, and 6.8g protein.",
+    "datePublished": "2014-11-13T16:31:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/11/baconavocadomuffins.jpg"
+    ],
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "5 large egg",
+      "1/2 cup almond flour",
+      "1/4 cup flaxseed meal",
+      "1 1/2 tablespoon psyllium husk powder",
+      "1 teaspoon ground coriander",
+      "1 teaspoon dried chives",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1 teaspoon fresh garlic (minced)",
+      "salt and pepper (to taste)",
+      "1 1/2 cup unsweetened carton coconut milk",
+      "1 1/2 tablespoon lemon juice",
+      "5 ounce bacon",
+      "2 tablespoon butter",
+      "45 gram green onion",
+      "4 1/2 ounce colby jack cheese",
+      "1 teaspoon baking powder",
+      "2 medium avocado"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the eggs, almond flour, flaxseed meal, psyllium husk, spices, coconut milk, and lemon juice. Set aside.",
+        "name": "In a mixing bowl, combine the eggs, almond flour, flaxseed meal, psyllium husk, spices, coconut milk, and lemon juice. Set aside.",
+        "url": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8700.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the bacon until crisp in a pan over medium-low heat. Add the butter to the pan once the bacon is almost done cooking.",
+        "name": "Fry the bacon until crisp in a pan over medium-low heat. Add the butter to the pan once the bacon is almost done cooking.",
+        "url": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8708.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the green onions and grate the cheese. Add the green onions, cheese, and baking powder to the mixing bowl. Crumble the bacon and add the crumbled bacon and melted butter to the batter.",
+        "name": "Chop the green onions and grate the cheese. Add the green onions, cheese, and baking powder to the mixing bowl. Crumble the bacon and add the crumbled bacon and melted butter to the batter.",
+        "url": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8711.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Slice the avocados in half, removing the pit and cubing them while still in the peel. Scoop out the cubed avocado and gently fold it into the mixture.",
+        "name": "Preheat oven to 350F. Slice the avocados in half, removing the pit and cubing them while still in the peel. Scoop out the cubed avocado and gently fold it into the mixture.",
+        "url": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8715.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into a greased cupcake tray and bake for 24–26 minutes.",
+        "name": "Pour the batter into a greased cupcake tray and bake for 24–26 minutes.",
+        "url": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/11/img_8723.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Store in the fridge and enjoy cold!",
+        "name": "Store in the fridge and enjoy cold!",
+        "url": "https://www.ruled.me/bacon-avocado-muffins/#wprm-recipe-51475-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, eggs, gluten-free, keto, low-carb, meal-prep, oven-baked, packed-lunch, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "183 kcal",
+      "fatContent": "15.4 g",
+      "proteinContent": "6.8 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-avocado-muffins/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-avocado-muffins/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-avocado-muffins/"
+  },
+  "sourceIndex": {
+    "id": 24900,
+    "rid": 51475,
+    "t": "Bacon Avocado Muffins",
+    "u": "/bacon-avocado-muffins/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/11/baconavocadomuffins.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 1.7,
+    "cal": 183,
+    "pr": 6.8,
+    "fa": 15.4,
+    "tm": 40,
+    "sv": 16,
+    "kw": [
+      "batch-cooking",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "oven-baked",
+      "packed-lunch",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 17,
+    "fk": [
+      "oven-baked",
+      "meal-prep",
+      "pork",
+      "eggs"
+    ],
+    "d": "2014-11-13",
+    "cm": 37,
+    "ex": "When you think of muffins you generally reminisce on the overly sweet, sugar-laden pastries you can buy in the coffee shop. You don't usually see yourself eating a savory muffin, especially one",
+    "pv": 131
+  },
+  "sourceHtml": "pages/bacon-avocado-muffins.html",
+  "scrapedAt": "2026-11-07T08:11:12.946Z"
+}

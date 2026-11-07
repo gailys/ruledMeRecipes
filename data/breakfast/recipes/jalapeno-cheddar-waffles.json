@@ -1,0 +1,288 @@
+{
+  "id": "ruled-26201",
+  "slug": "jalapeno-cheddar-waffles",
+  "title": "Jalapeno Cheddar Waffles",
+  "url": "https://www.ruled.me/jalapeno-cheddar-waffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Jalapeno Cheddar Waffles. Each serving comes out to be 332 calories, 26.9g fats, 4.4g net carbs, and 15.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "fatContent": "26.9 g",
+    "proteinContent": "15.9 g",
+    "carbohydrateContent": "4.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 332,
+    "netCarbsGrams": 4.4,
+    "proteinGrams": 15.9,
+    "fatGrams": 26.9
+  },
+  "ingredients": [
+    "3 ounce cream cheese",
+    "3 large egg",
+    "1 tablespoon coconut flour",
+    "1 teaspoon psyllium husk powder",
+    "1 teaspoon baking powder",
+    "salt and pepper (to taste)",
+    "1 ounce cheddar cheese",
+    "1 medium jalapeno pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Using an immersion blender, combine all ingredients except for the cheese and jalapeño.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_7715.jpg"
+    },
+    {
+      "text": "Once the ingredients are thoroughly combined, add the cheese and jalapeño.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_7721.jpg"
+    },
+    {
+      "text": "Use the immersion blender again to make sure that all of the ingredients are mixed well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_7723.jpg"
+    },
+    {
+      "text": "Heat up the waffle iron and pour the batter to cook — mine took about 5–6 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_7728.jpg"
+    },
+    {
+      "text": "Add your favorite toppings and serve. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/jalapenocheddarwaffles.jpg",
+      "path": "images/33f7831a7f504e4c545e2abd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7715.jpg",
+      "path": "../../nenaudojama/breakfast/images/852d9c0170b10cacea11e5ff.avif",
+      "archived": true,
+      "originalPath": "images/852d9c0170b10cacea11e5ff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7721.jpg",
+      "path": "../../nenaudojama/breakfast/images/04208fde0729e7e07350f765.jpg",
+      "archived": true,
+      "originalPath": "images/04208fde0729e7e07350f765.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7723.jpg",
+      "path": "../../nenaudojama/breakfast/images/4a205547a1f8f4b6b1ea07bd.jpg",
+      "archived": true,
+      "originalPath": "images/4a205547a1f8f4b6b1ea07bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7728.jpg",
+      "path": "../../nenaudojama/breakfast/images/00ec211744743af62d8ae6e2.avif",
+      "archived": true,
+      "originalPath": "images/00ec211744743af62d8ae6e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/jalapenocheddarwafflessecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/25eb712d16ec9e1a31c27a01.jpg",
+      "archived": true,
+      "originalPath": "images/25eb712d16ec9e1a31c27a01.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/jalapenocheddarwaffleslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/c021d2d07bb3ea2e6a19e7d9.jpg",
+      "archived": true,
+      "originalPath": "images/c021d2d07bb3ea2e6a19e7d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7715-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a8bd07ac08f542be0c08a1de.jpg",
+      "archived": true,
+      "originalPath": "images/a8bd07ac08f542be0c08a1de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7721-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/69e5108b92cbc37f0f89fbcc.jpg",
+      "archived": true,
+      "originalPath": "images/69e5108b92cbc37f0f89fbcc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7723-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9b56cf504243bffb3ecdc112.jpg",
+      "archived": true,
+      "originalPath": "images/9b56cf504243bffb3ecdc112.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_7728-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1c8cd6b34f4caf71717139ba.jpg",
+      "archived": true,
+      "originalPath": "images/1c8cd6b34f4caf71717139ba.jpg"
+    }
+  ],
+  "featuredImage": "images/33f7831a7f504e4c545e2abd.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Jalapeno Cheddar Waffles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Jalapeno Cheddar Waffles. Each serving comes out to be 332 calories, 26.9g fats, 4.4g net carbs, and 15.9g protein.",
+    "datePublished": "2015-06-17T15:45:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/06/jalapenocheddarwaffles.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3 ounce cream cheese",
+      "3 large egg",
+      "1 tablespoon coconut flour",
+      "1 teaspoon psyllium husk powder",
+      "1 teaspoon baking powder",
+      "salt and pepper (to taste)",
+      "1 ounce cheddar cheese",
+      "1 medium jalapeno pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Using an immersion blender, combine all ingredients except for the cheese and jalapeño.",
+        "name": "Using an immersion blender, combine all ingredients except for the cheese and jalapeño.",
+        "url": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_7715.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the ingredients are thoroughly combined, add the cheese and jalapeño.",
+        "name": "Once the ingredients are thoroughly combined, add the cheese and jalapeño.",
+        "url": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_7721.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use the immersion blender again to make sure that all of the ingredients are mixed well.",
+        "name": "Use the immersion blender again to make sure that all of the ingredients are mixed well.",
+        "url": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_7723.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the waffle iron and pour the batter to cook — mine took about 5–6 minutes.",
+        "name": "Heat up the waffle iron and pour the batter to cook — mine took about 5–6 minutes.",
+        "url": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_7728.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add your favorite toppings and serve. Enjoy!",
+        "name": "Add your favorite toppings and serve. Enjoy!",
+        "url": "https://www.ruled.me/jalapeno-cheddar-waffles/#wprm-recipe-51733-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, spicy, sugar-free, vegetarian, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "332 kcal",
+      "fatContent": "26.9 g",
+      "proteinContent": "15.9 g",
+      "carbohydrateContent": "4.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/jalapeno-cheddar-waffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/jalapeno-cheddar-waffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/jalapeno-cheddar-waffles/"
+  },
+  "sourceIndex": {
+    "id": 26201,
+    "rid": 51733,
+    "t": "Jalapeno Cheddar Waffles",
+    "u": "/jalapeno-cheddar-waffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/06/jalapenocheddarwaffles.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.4,
+    "cal": 332,
+    "pr": 15.9,
+    "fa": 26.9,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free"
+    ],
+    "d": "2015-06-17",
+    "cm": 12,
+    "ex": "Jalapeno and cheddar have been a favorite flavor combination of mine for a long time. These waffles definitely fall into that category and if you're a fan of the flavors, too - this will be a perfect",
+    "pv": 97
+  },
+  "sourceHtml": "pages/jalapeno-cheddar-waffles.html",
+  "scrapedAt": "2026-11-07T08:11:12.879Z"
+}

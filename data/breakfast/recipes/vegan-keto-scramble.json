@@ -1,0 +1,360 @@
+{
+  "id": "ruled-38085",
+  "slug": "vegan-keto-scramble",
+  "title": "Vegan Keto Scrambled Eggs",
+  "url": "https://www.ruled.me/vegan-keto-scramble/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Vegan Keto Scrambled Eggs. Each serving comes out to be 355 calories, 27.4g fats, 8.2g net carbs, and 15.8g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "355 kcal",
+    "fatContent": "27.4 g",
+    "proteinContent": "15.8 g",
+    "carbohydrateContent": "8.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 355,
+    "netCarbsGrams": 8.2,
+    "proteinGrams": 15.8,
+    "fatGrams": 27.4
+  },
+  "ingredients": [
+    "14 ounce extra firm tofu",
+    "3 tablespoon avocado oil",
+    "2 tablespoon yellow onion (diced)",
+    "1 1/2 tablespoon nutritional yeast",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon turmeric powder",
+    "salt (to taste)",
+    "1 cup baby spinach",
+    "3 medium cherry tomatoes (diced)",
+    "3 ounce vegan cheese substitute (grated or diced)"
+  ],
+  "instructions": [
+    {
+      "text": "Wrap your block of tofu in a few layers of paper towel, or a clean cloth towel, and gently squeeze some of the water out. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-01.jpg"
+    },
+    {
+      "text": "In a skillet on medium heat, sauté the chopped onion in 1/3 of the avocado oil until the onion is soft and translucent.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-03.jpg"
+    },
+    {
+      "text": "Place the block of tofu in the skillet and crumble using a potato masher or fork until it’s the consistency of scrambled egg.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-04.jpg"
+    },
+    {
+      "text": "Drizzle with the rest of the oil and sprinkle with the dry seasonings, then gently stir to coat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-05.jpg"
+    },
+    {
+      "text": "Cook the tofu over medium heat, stirring and folding occasionally until most of the liquid has evaporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-06.jpg"
+    },
+    {
+      "text": "Fold in the baby spinach, diced tomato and cheese and cook for an additional minute or until the spinach wilts and the cheese is melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-07.jpg"
+    },
+    {
+      "text": "Serve hot and store leftovers in the refrigerator for up to three days!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/95d2087ccfab53465c2a9ce2.jpg",
+      "archived": true,
+      "originalPath": "images/95d2087ccfab53465c2a9ce2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-featured.jpg",
+      "path": "images/861ce90844bfbceaf7379096.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/fefee6ff672bd5f7a349802a.avif",
+      "archived": true,
+      "originalPath": "images/fefee6ff672bd5f7a349802a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/da66de6fce850c0f63160609.jpg",
+      "archived": true,
+      "originalPath": "images/da66de6fce850c0f63160609.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/3944798451f18b098b38b346.jpg",
+      "archived": true,
+      "originalPath": "images/3944798451f18b098b38b346.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/2e583f10192a805b4f4eda86.jpg",
+      "archived": true,
+      "originalPath": "images/2e583f10192a805b4f4eda86.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-06.jpg",
+      "path": "../../nenaudojama/breakfast/images/4e9c0f18214750f7cc7f82b7.jpg",
+      "archived": true,
+      "originalPath": "images/4e9c0f18214750f7cc7f82b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-07.jpg",
+      "path": "../../nenaudojama/breakfast/images/f00abfeb40eef2cc4cd91eec.jpg",
+      "archived": true,
+      "originalPath": "images/f00abfeb40eef2cc4cd91eec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/93a0c6640cc9e107d9ef03df.jpg",
+      "archived": true,
+      "originalPath": "images/93a0c6640cc9e107d9ef03df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/6217545a1180d65c38f69de4.jpg",
+      "archived": true,
+      "originalPath": "images/6217545a1180d65c38f69de4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fc6b6fe7f6756ebd162a5389.jpg",
+      "archived": true,
+      "originalPath": "images/fc6b6fe7f6756ebd162a5389.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4e551c9a94c03cb5c7a04ec7.jpg",
+      "archived": true,
+      "originalPath": "images/4e551c9a94c03cb5c7a04ec7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-04-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9316de9db703c3be326b2f41.jpg",
+      "archived": true,
+      "originalPath": "images/9316de9db703c3be326b2f41.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a51723eb8bad807ea1e4e81d.jpg",
+      "archived": true,
+      "originalPath": "images/a51723eb8bad807ea1e4e81d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-06-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/cd88eb2691e98f07955769f2.jpg",
+      "archived": true,
+      "originalPath": "images/cd88eb2691e98f07955769f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-07-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4c1445e9b23a90201d1660a8.jpg",
+      "archived": true,
+      "originalPath": "images/4c1445e9b23a90201d1660a8.jpg"
+    }
+  ],
+  "featuredImage": "images/861ce90844bfbceaf7379096.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Vegan Keto Scrambled Eggs",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Vegan Keto Scrambled Eggs. Each serving comes out to be 355 calories, 27.4g fats, 8.2g net carbs, and 15.8g protein.",
+    "datePublished": "2018-09-20T16:44:31+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "14 ounce extra firm tofu",
+      "3 tablespoon avocado oil",
+      "2 tablespoon yellow onion (diced)",
+      "1 1/2 tablespoon nutritional yeast",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon turmeric powder",
+      "salt (to taste)",
+      "1 cup baby spinach",
+      "3 medium cherry tomatoes (diced)",
+      "3 ounce vegan cheese substitute (grated or diced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wrap your block of tofu in a few layers of paper towel, or a clean cloth towel, and gently squeeze some of the water out. Set aside.",
+        "name": "Wrap your block of tofu in a few layers of paper towel, or a clean cloth towel, and gently squeeze some of the water out. Set aside.",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet on medium heat, sauté the chopped onion in 1/3 of the avocado oil until the onion is soft and translucent.",
+        "name": "In a skillet on medium heat, sauté the chopped onion in 1/3 of the avocado oil until the onion is soft and translucent.",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the block of tofu in the skillet and crumble using a potato masher or fork until it’s the consistency of scrambled egg.",
+        "name": "Place the block of tofu in the skillet and crumble using a potato masher or fork until it’s the consistency of scrambled egg.",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle with the rest of the oil and sprinkle with the dry seasonings, then gently stir to coat.",
+        "name": "Drizzle with the rest of the oil and sprinkle with the dry seasonings, then gently stir to coat.",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the tofu over medium heat, stirring and folding occasionally until most of the liquid has evaporated.",
+        "name": "Cook the tofu over medium heat, stirring and folding occasionally until most of the liquid has evaporated.",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold in the baby spinach, diced tomato and cheese and cook for an additional minute or until the spinach wilts and the cheese is melted.",
+        "name": "Fold in the baby spinach, diced tomato and cheese and cook for an additional minute or until the spinach wilts and the cheese is melted.",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and store leftovers in the refrigerator for up to three days!",
+        "name": "Serve hot and store leftovers in the refrigerator for up to three days!",
+        "url": "https://www.ruled.me/vegan-keto-scramble/#wprm-recipe-52710-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, budget-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple-and-easy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "355 kcal",
+      "fatContent": "27.4 g",
+      "proteinContent": "15.8 g",
+      "carbohydrateContent": "8.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/vegan-keto-scramble/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/vegan-keto-scramble/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/vegan-keto-scramble/"
+  },
+  "sourceIndex": {
+    "id": 38085,
+    "rid": 52710,
+    "t": "Vegan Keto Scramble",
+    "u": "/vegan-keto-scramble/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/09/vegan-keto-scrambled-eggs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 8.2,
+    "cal": 355,
+    "pr": 15.8,
+    "fa": 27.4,
+    "tm": 15,
+    "sv": 3,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2018-09-20",
+    "cm": 0,
+    "ex": "Breakfast can be one of the hardest meals to plan when you are following a keto diet as a vegan. Though sweet breakfasts like vegan pancakes or keto protein smoothies can be a great option, sometimes",
+    "pv": 314
+  },
+  "sourceHtml": "pages/vegan-keto-scramble.html",
+  "scrapedAt": "2026-11-07T08:11:12.660Z"
+}

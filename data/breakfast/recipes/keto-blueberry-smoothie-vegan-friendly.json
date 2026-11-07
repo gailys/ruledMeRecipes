@@ -1,0 +1,224 @@
+{
+  "id": "ruled-58611",
+  "slug": "keto-blueberry-smoothie-vegan-friendly",
+  "title": "Keto Blueberry Smoothie [Vegan Friendly]",
+  "url": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Blueberry Smoothie [Vegan Friendly]. The serving comes out to be 377 calories, 22.2g fats, 10.9g net carbs, and 22.4g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "377 kcal",
+    "fatContent": "22.2 g",
+    "proteinContent": "22.4 g",
+    "carbohydrateContent": "10.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 377,
+    "netCarbsGrams": 10.9,
+    "proteinGrams": 22.4,
+    "fatGrams": 22.2
+  },
+  "ingredients": [
+    "2 cup unsweetened carton coconut milk",
+    "1/2 cup blueberries",
+    "2 teaspoon vanilla extract",
+    "1 tablespoon mct oil",
+    "28 gram low-carb protein powder"
+  ],
+  "instructions": [
+    {
+      "text": "Add all of the ingredients to a mixer, then blend until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/#wprm-recipe-58608-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-01.jpg"
+    },
+    {
+      "text": "Serve immediately or refrigerate until you're ready to drink it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/#wprm-recipe-58608-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/e32183925010eb762ced8921.jpg",
+      "archived": true,
+      "originalPath": "images/e32183925010eb762ced8921.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be.jpg",
+      "path": "images/d0b0b1332040cd69eaffc5f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/dcda10b35567bca21f21ea15.jpg",
+      "archived": true,
+      "originalPath": "images/dcda10b35567bca21f21ea15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/4c82daafd3002c5ba2e154d9.jpg",
+      "archived": true,
+      "originalPath": "images/4c82daafd3002c5ba2e154d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/46b21f5f9c892f327e7b7d63.jpg",
+      "archived": true,
+      "originalPath": "images/46b21f5f9c892f327e7b7d63.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4febe5ed7a7c6214758afe30.jpg",
+      "archived": true,
+      "originalPath": "images/4febe5ed7a7c6214758afe30.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-02-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/26200cf246fd8f3a34f9634b.jpg",
+      "archived": true,
+      "originalPath": "images/26200cf246fd8f3a34f9634b.jpg"
+    }
+  ],
+  "featuredImage": "images/d0b0b1332040cd69eaffc5f5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Blueberry Smoothie [Vegan Friendly]",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Blueberry Smoothie [Vegan Friendly]. The serving comes out to be 377 calories, 22.2g fats, 10.9g net carbs, and 22.4g protein.",
+    "datePublished": "2026-06-19T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be-480x270.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "2 cup unsweetened carton coconut milk",
+      "1/2 cup blueberries",
+      "2 teaspoon vanilla extract",
+      "1 tablespoon mct oil",
+      "28 gram low-carb protein powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the ingredients to a mixer, then blend until smooth.",
+        "name": "Add all of the ingredients to a mixer, then blend until smooth.",
+        "url": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/#wprm-recipe-58608-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately or refrigerate until you're ready to drink it.",
+        "name": "Serve immediately or refrigerate until you're ready to drink it.",
+        "url": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/#wprm-recipe-58608-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/keto-blueberry-smoothie-vegan-friendly-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "377 kcal",
+      "fatContent": "22.2 g",
+      "proteinContent": "22.4 g",
+      "carbohydrateContent": "10.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-blueberry-smoothie-vegan-friendly/"
+  },
+  "sourceIndex": {
+    "id": 58611,
+    "rid": 58608,
+    "t": "Keto Blueberry Smoothie [Vegan Friendly]",
+    "u": "/keto-blueberry-smoothie-vegan-friendly/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/422ef020a681dbf9c55db66b191e45be-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 10.9,
+    "cal": 377,
+    "pr": 22.4,
+    "fa": 22.2,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2026-06-19",
+    "cm": 0,
+    "ex": "This Keto Blueberry Smoothie is the perfect way to kickstart your morning with a burst of refreshing flavor and a creamy, velvety texture that feels like an indulgence. By blending nutrient-dense",
+    "pv": 14
+  },
+  "sourceHtml": "pages/keto-blueberry-smoothie-vegan-friendly.html",
+  "scrapedAt": "2026-11-07T08:11:11.662Z"
+}

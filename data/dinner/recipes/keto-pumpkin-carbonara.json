@@ -1,0 +1,486 @@
+{
+  "id": "ruled-27628",
+  "slug": "keto-pumpkin-carbonara",
+  "title": "Keto Pumpkin Carbonara",
+  "url": "https://www.ruled.me/keto-pumpkin-carbonara/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Pumpkin Carbonara. Each serving comes out to be 471 calories, 46.1g fats, 2.3g net carbs, and 11.3g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "471 kcal",
+    "fatContent": "46.1 g",
+    "proteinContent": "11.3 g",
+    "carbohydrateContent": "2.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 471,
+    "netCarbsGrams": 2.3,
+    "proteinGrams": 11.3,
+    "fatGrams": 46.1
+  },
+  "ingredients": [
+    "75 gram shirataki noodles",
+    "5 ounce pancetta",
+    "2 tablespoon butter",
+    "1/2 teaspoon dried sage",
+    "3 tablespoon pumpkin puree",
+    "1/4 cup heavy whipping cream",
+    "1/3 cup parmesan cheese",
+    "2 large egg yolk",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Rinse the shirataki noodles under hot water for 2–3 minutes. Pat completely dry using paper towels. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7483.jpg"
+    },
+    {
+      "text": "Chop the pancetta and place in a hot pan to sear on the outside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7494.jpg"
+    },
+    {
+      "text": "In the meantime, place butter in a small pot and let brown. Once just beginning to brown, add the sage and stir.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7499.jpg"
+    },
+    {
+      "text": "Add the pumpkin puree and mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7504.jpg"
+    },
+    {
+      "text": "By this point, the pancetta should be browning up nicely. Once it's crispy on the outside, remove from the pan. Reserve the fat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7507.jpg"
+    },
+    {
+      "text": "Add the heavy cream to the pumpkin puree sauce and mix together until well incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7516.jpg"
+    },
+    {
+      "text": "Add the pancetta fat to the sauce and mix again until well combined. Let the sauce simmer over medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7526.jpg"
+    },
+    {
+      "text": "Turn the pan used for the pancetta up to high heat and add in the shirataki noodles. Dry-fry them for at least 5 minutes, or until a good amount of steam has come out of them.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7534.jpg"
+    },
+    {
+      "text": "Add the parmesan cheese to the pumpkin sauce and mix together well. Turn the heat down to low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7538.jpg"
+    },
+    {
+      "text": "Continue stirring the sauce until it separates easily and takes a moment to come back together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7541.jpg"
+    },
+    {
+      "text": "Add the noodles and pancetta to the sauce and toss well. Stir the egg yolks into the sauce and season to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-10",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7551.jpg"
+    },
+    {
+      "text": "Serve with extra parmesan and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-11",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonaraLong1.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "fall",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonara.jpg",
+      "path": "images/ecdfd83c5dd13ca6b33cd2ad.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7483.jpg",
+      "path": "../../nenaudojama/dinner/images/2e4774d97991f38cb585c559.jpg",
+      "archived": true,
+      "originalPath": "images/2e4774d97991f38cb585c559.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7494.jpg",
+      "path": "../../nenaudojama/dinner/images/f7e958b425ad9924aa9baab0.avif",
+      "archived": true,
+      "originalPath": "images/f7e958b425ad9924aa9baab0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7499.jpg",
+      "path": "../../nenaudojama/dinner/images/88f4fc7b618b704f088be1b5.avif",
+      "archived": true,
+      "originalPath": "images/88f4fc7b618b704f088be1b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7504.jpg",
+      "path": "../../nenaudojama/dinner/images/8df22170b9585c3a4a42872f.jpg",
+      "archived": true,
+      "originalPath": "images/8df22170b9585c3a4a42872f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7507.jpg",
+      "path": "../../nenaudojama/dinner/images/1c0b9cdadc880efce5b5b33e.jpg",
+      "archived": true,
+      "originalPath": "images/1c0b9cdadc880efce5b5b33e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7516.jpg",
+      "path": "../../nenaudojama/dinner/images/bc2b55af6c5529c41c5d7849.jpg",
+      "archived": true,
+      "originalPath": "images/bc2b55af6c5529c41c5d7849.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7526.jpg",
+      "path": "../../nenaudojama/dinner/images/2dc9b2dcb1d6ee32f2c72e29.jpg",
+      "archived": true,
+      "originalPath": "images/2dc9b2dcb1d6ee32f2c72e29.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7534.jpg",
+      "path": "../../nenaudojama/dinner/images/6d872dac233166f5b364fb66.jpg",
+      "archived": true,
+      "originalPath": "images/6d872dac233166f5b364fb66.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7538.jpg",
+      "path": "../../nenaudojama/dinner/images/d03f655a629bd7eba44eadcd.jpg",
+      "archived": true,
+      "originalPath": "images/d03f655a629bd7eba44eadcd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7541.jpg",
+      "path": "../../nenaudojama/dinner/images/ee84e277483940b91a480219.jpg",
+      "archived": true,
+      "originalPath": "images/ee84e277483940b91a480219.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7551.jpg",
+      "path": "../../nenaudojama/dinner/images/b763e278e10863d101127433.avif",
+      "archived": true,
+      "originalPath": "images/b763e278e10863d101127433.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonaraLong1.jpg",
+      "path": "../../nenaudojama/dinner/images/8171a40739849d5900769c9f.jpg",
+      "archived": true,
+      "originalPath": "images/8171a40739849d5900769c9f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonaraSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/3f73573c2292a7831282e633.avif",
+      "archived": true,
+      "originalPath": "images/3f73573c2292a7831282e633.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7483-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/819cef5d5a866e691f2a283e.jpg",
+      "archived": true,
+      "originalPath": "images/819cef5d5a866e691f2a283e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7494-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/777b9434f745b7fb5b7c1e21.avif",
+      "archived": true,
+      "originalPath": "images/777b9434f745b7fb5b7c1e21.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7499-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0a6df28ebbaa7f28174c5b18.jpg",
+      "archived": true,
+      "originalPath": "images/0a6df28ebbaa7f28174c5b18.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7504-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f29eeab1db1feb8ce6ee2189.avif",
+      "archived": true,
+      "originalPath": "images/f29eeab1db1feb8ce6ee2189.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7507-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0650d43f026526a58855be5d.jpg",
+      "archived": true,
+      "originalPath": "images/0650d43f026526a58855be5d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7516-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c5848f501e09f1b509b664e7.jpg",
+      "archived": true,
+      "originalPath": "images/c5848f501e09f1b509b664e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7526-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3b2c2a481433abe0b0561288.jpg",
+      "archived": true,
+      "originalPath": "images/3b2c2a481433abe0b0561288.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7534-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/45997281237907123c24c93e.jpg",
+      "archived": true,
+      "originalPath": "images/45997281237907123c24c93e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7538-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4039ebdeb78b8e96d509f151.jpg",
+      "archived": true,
+      "originalPath": "images/4039ebdeb78b8e96d509f151.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7541-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/71a3f1aa448f0c35736761d4.avif",
+      "archived": true,
+      "originalPath": "images/71a3f1aa448f0c35736761d4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7551-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f23ce215a157aeac1f5d463e.avif",
+      "archived": true,
+      "originalPath": "images/f23ce215a157aeac1f5d463e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonaraLong1-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/23f72c41092272e808532bdb.jpg",
+      "archived": true,
+      "originalPath": "images/23f72c41092272e808532bdb.jpg"
+    }
+  ],
+  "featuredImage": "images/ecdfd83c5dd13ca6b33cd2ad.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pumpkin Carbonara",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Pumpkin Carbonara. Each serving comes out to be 471 calories, 46.1g fats, 2.3g net carbs, and 11.3g protein.",
+    "datePublished": "2015-12-14T17:32:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonara.jpg"
+    ],
+    "video": {
+      "name": "Keto Pumpkin Carbonara Recipe [with Shirataki Noodles]",
+      "description": "I’ve been experimenting a bit more lately with pumpkin than I usually do. Since we can’t exactly bake a sweet potato and pumpkin casserole for the dinner table, I wanted to come up with some not-so-traditional dishes using pumpkin that all of us can get behind! This pumpkin carbonara is an AWESOME meal, and everyone will definitely be wanting a second helping after they get their first bite.\n\nWhile I do love the sweet aspects of pumpkin, I really love the savory aspects also. The crispy pancetta is the perfect addition to this dish. It really ties together that slightly sweet flavor of the pumpkin sauce by bringing elements of earthy, savory, and richness. The parmesan cheese really helps thicken the sauce, but also brings a bit of umami to help with the dish altogether. The pumpkin and sage as also a classic combination – just not usually thought of in a dish like this.\n\nI truly hope you get the chance to wow your family with this one like I did with mine. They couldn’t believe that the noodles were very low carb – as you will see in the recipe, dry frying them is the way that I always do it now. Without taking some of the moisture out of the keto pasta noodles, you’re left with a very strange consistency and sometimes a bad flavor. When you dry fry the noodles, some of the texture problems seem to disappear and the flavor is definitely not fishy tasting at all. Enjoy!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 package Shirataki Noodles\n5 oz. Pancetta\n2 large Egg Yolks\n1/4 cup Heavy Cream\n1/3 cup Parmesan Cheese\n2 tbsp. Butter\n3 tbsp. Pumpkin Puree\n1/2 tsp. Dried Sage\nSalt and Pepper to Taste\n\nNutrition Summary: This makes a total of 3 servings of Keto Pumpkin Carbonara. Each serving comes out to be 384 Calories, 34.7g Fats, 2g Net Carbs, and 14g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-04-25T14:00:03+00:00",
+      "duration": "PT2M31S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/807VFPnzfDs/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/807VFPnzfDs?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=807VFPnzfDs",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "75 gram shirataki noodles",
+      "5 ounce pancetta",
+      "2 tablespoon butter",
+      "1/2 teaspoon dried sage",
+      "3 tablespoon pumpkin puree",
+      "1/4 cup heavy whipping cream",
+      "1/3 cup parmesan cheese",
+      "2 large egg yolk",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the shirataki noodles under hot water for 2–3 minutes. Pat completely dry using paper towels. Set aside.",
+        "name": "Rinse the shirataki noodles under hot water for 2–3 minutes. Pat completely dry using paper towels. Set aside.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7483.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the pancetta and place in a hot pan to sear on the outside.",
+        "name": "Chop the pancetta and place in a hot pan to sear on the outside.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7494.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the meantime, place butter in a small pot and let brown. Once just beginning to brown, add the sage and stir.",
+        "name": "In the meantime, place butter in a small pot and let brown. Once just beginning to brown, add the sage and stir.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7499.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pumpkin puree and mix together well.",
+        "name": "Add the pumpkin puree and mix together well.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7504.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "By this point, the pancetta should be browning up nicely. Once it's crispy on the outside, remove from the pan. Reserve the fat.",
+        "name": "By this point, the pancetta should be browning up nicely. Once it's crispy on the outside, remove from the pan. Reserve the fat.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7507.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the heavy cream to the pumpkin puree sauce and mix together until well incorporated.",
+        "name": "Add the heavy cream to the pumpkin puree sauce and mix together until well incorporated.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7516.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pancetta fat to the sauce and mix again until well combined. Let the sauce simmer over medium heat.",
+        "name": "Add the pancetta fat to the sauce and mix again until well combined. Let the sauce simmer over medium heat.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7526.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the pan used for the pancetta up to high heat and add in the shirataki noodles. Dry-fry them for at least 5 minutes, or until a good amount of steam has come out of them.",
+        "name": "Turn the pan used for the pancetta up to high heat and add in the shirataki noodles. Dry-fry them for at least 5 minutes, or until a good amount of steam has come out of them.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7534.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the parmesan cheese to the pumpkin sauce and mix together well. Turn the heat down to low.",
+        "name": "Add the parmesan cheese to the pumpkin sauce and mix together well. Turn the heat down to low.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7538.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue stirring the sauce until it separates easily and takes a moment to come back together.",
+        "name": "Continue stirring the sauce until it separates easily and takes a moment to come back together.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7541.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the noodles and pancetta to the sauce and toss well. Stir the egg yolks into the sauce and season to taste.",
+        "name": "Add the noodles and pancetta to the sauce and toss well. Stir the egg yolks into the sauce and season to taste.",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-10",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/IMG_7551.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with extra parmesan and enjoy!",
+        "name": "Serve with extra parmesan and enjoy!",
+        "url": "https://www.ruled.me/keto-pumpkin-carbonara/#wprm-recipe-51863-step-0-11",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonaraLong1.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, comfort-food, fall, gluten-free, high-fat, keto, low-carb, nut-free, pork, quick, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "471 kcal",
+      "fatContent": "46.1 g",
+      "proteinContent": "11.3 g",
+      "carbohydrateContent": "2.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-pumpkin-carbonara/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-pumpkin-carbonara/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-pumpkin-carbonara/"
+  },
+  "sourceIndex": {
+    "id": 27628,
+    "rid": 51863,
+    "t": "Keto Pumpkin Carbonara",
+    "u": "/keto-pumpkin-carbonara/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/12/KetoPumpkinCarbonara.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.3,
+    "cal": 471,
+    "pr": 11.3,
+    "fa": 46.1,
+    "tm": 25,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "fall",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2015-12-14",
+    "cm": 18,
+    "ex": "I've been experimenting a bit more lately with pumpkin than I usually do. Since we can't exactly bake a sweet potato and pumpkin casserole for the dinner table, I wanted to come up with some",
+    "pv": 208
+  },
+  "sourceHtml": "pages/keto-pumpkin-carbonara.html",
+  "scrapedAt": "2026-11-07T08:27:44.837Z"
+}

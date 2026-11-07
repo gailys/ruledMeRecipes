@@ -1,0 +1,259 @@
+{
+  "id": "ruled-24447",
+  "slug": "cinnamon-roll-pudding-pops",
+  "title": "Cinnamon Roll Pudding Pops",
+  "url": "https://www.ruled.me/cinnamon-roll-pudding-pops/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "The servings will vary depending on how much you use. Each serving is about 1/4 cup and comes out to 100 Calories, 9.4g Fats, 0.8g Net Carbs, and 2.2g Protein.",
+  "servings": 0,
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "totalMinutes": null,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "100 kcal",
+    "fatContent": "9.4 g",
+    "proteinContent": "2.2 g",
+    "carbohydrateContent": "0.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 100,
+    "netCarbsGrams": 0.8,
+    "proteinGrams": 2.2,
+    "fatGrams": 9.4
+  },
+  "ingredients": [
+    "As much or as little of this recipe as you want:",
+    "Cinnamon Roll \"Oatmeal\""
+  ],
+  "instructions": [
+    {
+      "text": "Blend the Cinnamon Roll \"Oatmeal\" recipe in the blender. Spoon mixture into the popsicle molds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2433.jpg"
+    },
+    {
+      "text": "Insert spoon in and out of popsicle mold to get rid of any air bubbles, then put the lid on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4456.jpg"
+    },
+    {
+      "text": "Insert popsicle sticks and freeze for at least 3-4 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4463.jpg"
+    },
+    {
+      "text": "Run a hot water bath and submerge the molds into the hot water for 20-30 seconds. Pull and wiggly popsicles to come out easily.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_4474.jpg"
+    }
+  ],
+  "keywords": [
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "few-ingredients",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/chiapuddingpops1.jpg",
+      "path": "images/2d0978ca5fbaa6a090aff1c8.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2433.jpg",
+      "path": "../../nenaudojama/dessert/images/4806c01cc407a5dc38b91fae.jpg",
+      "archived": true,
+      "originalPath": "images/4806c01cc407a5dc38b91fae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4456.jpg",
+      "path": "../../nenaudojama/dessert/images/f91dacdf5900ec92b5ee9416.jpg",
+      "archived": true,
+      "originalPath": "images/f91dacdf5900ec92b5ee9416.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4463.jpg",
+      "path": "../../nenaudojama/dessert/images/57b22f352843a1a3d70eb37a.jpg",
+      "archived": true,
+      "originalPath": "images/57b22f352843a1a3d70eb37a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4474.jpg",
+      "path": "../../nenaudojama/dessert/images/93c15254be478499863b78b5.jpg",
+      "archived": true,
+      "originalPath": "images/93c15254be478499863b78b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/chiapuddingpopssecond.jpg",
+      "path": "../../nenaudojama/dessert/images/9d0c4dedd797dcbc4ba473fe.jpg",
+      "archived": true,
+      "originalPath": "images/9d0c4dedd797dcbc4ba473fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4449.jpg",
+      "path": "../../nenaudojama/dessert/images/95f8c3236348e5238557c520.jpg",
+      "archived": true,
+      "originalPath": "images/95f8c3236348e5238557c520.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4462.jpg",
+      "path": "../../nenaudojama/dessert/images/0e78a702fbeded5b0d29e60a.jpg",
+      "archived": true,
+      "originalPath": "images/0e78a702fbeded5b0d29e60a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/chiapuddingpops3.jpg",
+      "path": "../../nenaudojama/dessert/images/dac922725b32f634cbdb8bf2.jpg",
+      "archived": true,
+      "originalPath": "images/dac922725b32f634cbdb8bf2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2433-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/786eb93ac2205e0682f1917b.jpg",
+      "archived": true,
+      "originalPath": "images/786eb93ac2205e0682f1917b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4456-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c3671c9ed6cf6958256c1c2d.jpg",
+      "archived": true,
+      "originalPath": "images/c3671c9ed6cf6958256c1c2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4463-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/99c981f0dfd3e7238517578b.jpg",
+      "archived": true,
+      "originalPath": "images/99c981f0dfd3e7238517578b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_4474-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/700d587a1a26e629b8f3a744.jpg",
+      "archived": true,
+      "originalPath": "images/700d587a1a26e629b8f3a744.jpg"
+    }
+  ],
+  "featuredImage": "images/2d0978ca5fbaa6a090aff1c8.webp",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cinnamon Roll Pudding Pops",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "The servings will vary depending on how much you use. Each serving is about 1/4 cup and comes out to 100 Calories, 9.4g Fats, 0.8g Net Carbs, and 2.2g Protein.",
+    "datePublished": "2014-08-30T15:21:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/chiapuddingpops1.jpg"
+    ],
+    "recipeIngredient": [
+      "As much or as little of this recipe as you want:",
+      "Cinnamon Roll \"Oatmeal\""
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Blend the Cinnamon Roll \"Oatmeal\" recipe in the blender. Spoon mixture into the popsicle molds.",
+        "name": "Blend the Cinnamon Roll \"Oatmeal\" recipe in the blender. Spoon mixture into the popsicle molds.",
+        "url": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2433.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Insert spoon in and out of popsicle mold to get rid of any air bubbles, then put the lid on top.",
+        "name": "Insert spoon in and out of popsicle mold to get rid of any air bubbles, then put the lid on top.",
+        "url": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4456.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Insert popsicle sticks and freeze for at least 3-4 hours.",
+        "name": "Insert popsicle sticks and freeze for at least 3-4 hours.",
+        "url": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4463.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Run a hot water bath and submerge the molds into the hot water for 20-30 seconds. Pull and wiggly popsicles to come out easily.",
+        "name": "Run a hot water bath and submerge the molds into the hot water for 20-30 seconds. Pull and wiggly popsicles to come out easily.",
+        "url": "https://www.ruled.me/cinnamon-roll-pudding-pops/#wprm-recipe-51339-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_4474.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "freezer-friendly, gluten-free, keto, low-carb, make-ahead, no-cook, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "100 kcal",
+      "fatContent": "9.4 g",
+      "proteinContent": "2.2 g",
+      "carbohydrateContent": "0.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cinnamon-roll-pudding-pops/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cinnamon-roll-pudding-pops/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cinnamon-roll-pudding-pops/"
+  },
+  "sourceIndex": {
+    "id": 24447,
+    "rid": 51339,
+    "t": "Cinnamon Roll Pudding Pops",
+    "u": "/cinnamon-roll-pudding-pops/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/chiapuddingpops1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 0.8,
+    "cal": 100,
+    "pr": 2.2,
+    "fa": 9.4,
+    "tm": null,
+    "sv": 0,
+    "kw": [
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 2,
+    "fk": [
+      "vegetarian",
+      "few-ingredients",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2014-08-30",
+    "cm": 4,
+    "ex": "I've been frequenting foodgawker more and more and realized that there's so many popsicle recipes coming out. So many delicious looking popsicles...that I had to make my own. I grabbed the NoPro",
+    "pv": 60
+  },
+  "sourceHtml": "pages/cinnamon-roll-pudding-pops.html",
+  "scrapedAt": "2026-11-07T08:30:47.465Z"
+}

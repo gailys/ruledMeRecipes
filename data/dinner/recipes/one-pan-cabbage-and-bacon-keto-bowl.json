@@ -1,0 +1,330 @@
+{
+  "id": "ruled-42514",
+  "slug": "one-pan-cabbage-and-bacon-keto-bowl",
+  "title": "One-Pan Cabbage and Bacon Keto Bowl",
+  "url": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of One-Pan Cabbage and Bacon Keto Bowl. Each serving comes out to be 513 calories, 45.4g fats, 8.6g net carbs, and 13.7g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "513 kcal",
+    "fatContent": "45.4 g",
+    "proteinContent": "13.7 g",
+    "carbohydrateContent": "8.6 g"
+  },
+  "nutritionPerServing": {
+    "calories": 513,
+    "netCarbsGrams": 8.6,
+    "proteinGrams": 13.7,
+    "fatGrams": 45.4
+  },
+  "ingredients": [
+    "6 ounce bacon",
+    "16 ounce green cabbage",
+    "2 tablespoon butter",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Slice the cabbage and bacon into small, bite-size pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-02.jpg"
+    },
+    {
+      "text": "Add the bacon to a pan over medium heat and cook until the bacon is rendered and crispy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-03.jpg"
+    },
+    {
+      "text": "Add the cabbage and butter to the pan, seasoning with salt and pepper. Fry the cabbage until golden and slightly soft.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-04.jpg"
+    },
+    {
+      "text": "Serve in a bowl with the pan drippings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "one-pan",
+    "packed-lunch",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "one-pan",
+    "stovetop",
+    "meal-prep",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/ef844f85b6ba83f7d1c47623.avif",
+      "archived": true,
+      "originalPath": "images/ef844f85b6ba83f7d1c47623.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-featured.jpg",
+      "path": "images/9b9596c6ae9457f0eb9ad04e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-02.jpg",
+      "path": "../../nenaudojama/dinner/images/a68f629a6de5fbbafd08a4a5.jpg",
+      "archived": true,
+      "originalPath": "images/a68f629a6de5fbbafd08a4a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-03.jpg",
+      "path": "../../nenaudojama/dinner/images/bd8723265cea83b50e4cb74d.jpg",
+      "archived": true,
+      "originalPath": "images/bd8723265cea83b50e4cb74d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-04.jpg",
+      "path": "../../nenaudojama/dinner/images/904a77e62567695ff4feee21.jpg",
+      "archived": true,
+      "originalPath": "images/904a77e62567695ff4feee21.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-second.jpg",
+      "path": "../../nenaudojama/dinner/images/4efa6bc5ebe503f444f97361.jpg",
+      "archived": true,
+      "originalPath": "images/4efa6bc5ebe503f444f97361.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/ced719aa44fff0b9c86825a7.jpg",
+      "archived": true,
+      "originalPath": "images/ced719aa44fff0b9c86825a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/7c3bc05cdc1fe16d1e7ace43.jpg",
+      "archived": true,
+      "originalPath": "images/7c3bc05cdc1fe16d1e7ace43.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1f069d085e7bddcc7e042d3c.jpg",
+      "archived": true,
+      "originalPath": "images/1f069d085e7bddcc7e042d3c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/80928607db56d0f6eefd1c72.jpg",
+      "archived": true,
+      "originalPath": "images/80928607db56d0f6eefd1c72.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/95d17fb17d5da4522a90ea66.jpg",
+      "archived": true,
+      "originalPath": "images/95d17fb17d5da4522a90ea66.jpg"
+    }
+  ],
+  "featuredImage": "images/9b9596c6ae9457f0eb9ad04e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "One-Pan Cabbage and Bacon Keto Bowl",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of One-Pan Cabbage and Bacon Keto Bowl. Each serving comes out to be 513 calories, 45.4g fats, 8.6g net carbs, and 13.7g protein.",
+    "datePublished": "2020-02-20T12:00:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-featured.jpg"
+    ],
+    "video": {
+      "name": "One-Pan Cabbage and Bacon Keto Bowl",
+      "description": "Cabbage sauteed with butter and bacon makes an easy yet crave-worthy one-pan meal. You’ll love the simplicity of this dish because it’s one of those recipes that you can easily commit to memory and make again and again. It’s a true keto staple!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n6 ounces bacon\n16 ounces green cabbage\n2 tablespoons butter\nSalt and pepper, to taste\n\nNutrition Summary:\nThis makes a total of 2 servings of One-Pan Cabbage and Bacon Keto Bowl. Each serving comes out to be 611.74 Calories, 51.33g Fats, 7.5g Net Carbs, and 25.68g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-03-30T15:30:05+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M25S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 44313
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 936
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 51
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_jwt3t62Uhw/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_jwt3t62Uhw?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=_jwt3t62Uhw",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "6 ounce bacon",
+      "16 ounce green cabbage",
+      "2 tablespoon butter",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the cabbage and bacon into small, bite-size pieces.",
+        "name": "Slice the cabbage and bacon into small, bite-size pieces.",
+        "url": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the bacon to a pan over medium heat and cook until the bacon is rendered and crispy.",
+        "name": "Add the bacon to a pan over medium heat and cook until the bacon is rendered and crispy.",
+        "url": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cabbage and butter to the pan, seasoning with salt and pepper. Fry the cabbage until golden and slightly soft.",
+        "name": "Add the cabbage and butter to the pan, seasoning with salt and pepper. Fry the cabbage until golden and slightly soft.",
+        "url": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve in a bowl with the pan drippings.",
+        "name": "Serve in a bowl with the pan drippings.",
+        "url": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#wprm-recipe-53263-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, budget-friendly, comfort-food, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, nut-free, one-pan, one-pan meals, packed-lunch, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "513 kcal",
+      "fatContent": "45.4 g",
+      "proteinContent": "13.7 g",
+      "carbohydrateContent": "8.6 g"
+    },
+    "@id": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/one-pan-cabbage-and-bacon-keto-bowl/"
+  },
+  "sourceIndex": {
+    "id": 42514,
+    "rid": 53263,
+    "t": "One-Pan Cabbage and Bacon Keto Bowl",
+    "u": "/one-pan-cabbage-and-bacon-keto-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/02/fried-cabbage-w-bacon-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 8.6,
+    "cal": 513,
+    "pr": 13.7,
+    "fa": 45.4,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "one-pan",
+      "packed-lunch",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 4,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "one-pan",
+      "stovetop",
+      "meal-prep",
+      "pork"
+    ],
+    "d": "2020-02-20",
+    "cm": 6,
+    "ex": "Cabbage sauteed with butter and bacon makes an easy yet crave-worthy one-pan meal. You'll love the simplicity of this dish because it's one of those recipes that you can easily commit to memory and",
+    "pv": 1368
+  },
+  "sourceHtml": "pages/one-pan-cabbage-and-bacon-keto-bowl.html",
+  "scrapedAt": "2026-11-07T08:27:44.337Z"
+}

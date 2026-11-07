@@ -1,0 +1,335 @@
+{
+  "id": "ruled-22540",
+  "slug": "chocolate-chunk-avocado-ice-cream",
+  "title": "Chocolate Chunk Avocado Ice Cream",
+  "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Chocolate Chunk Avocado Ice Cream. Each serving comes out to be 277 calories, 23.5g fats, 4.3g net carbs, and 4.4g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT360M",
+  "cookTime": "PT0M",
+  "totalTime": "PT360M",
+  "totalMinutes": 360,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "277 kcal",
+    "fatContent": "23.5 g",
+    "proteinContent": "4.4 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 277,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 4.4,
+    "fatGrams": 23.5
+  },
+  "ingredients": [
+    "2 large avocado",
+    "1 cup unsweetened carton coconut milk",
+    "1/2 cup heavy whipping cream",
+    "1/2 cup unsweetened dark cocoa powder",
+    "2 teaspoon vanilla extract",
+    "1/2 cup erythritol (powdered)",
+    "25 drop liquid stevia",
+    "1 1/2 ounce unsweetened baking chocolate"
+  ],
+  "instructions": [
+    {
+      "text": "Cut the avocados in half, remove seed, then scoop out the avocado flesh into a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_85091.jpg"
+    },
+    {
+      "text": "Add coconut milk, heavy cream, and the vanilla extract. Use an immersion blender to blend this mixture together until smooth and creamy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_8516.jpg"
+    },
+    {
+      "text": "In a spice grinder, grind the erythritol until powdered. Let settle before removing lid. Add erythritol, liquid stevia, and cocoa powder to the creamy avocado mixture and mix again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_85251.jpg"
+    },
+    {
+      "text": "Once the mixture is smooth, chop 6 squares of unsweetened baker's chocolate and add into the bowl. Use a spoon or fork to fold the chocolate in.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_85341.jpg"
+    },
+    {
+      "text": "Leave the bowl in the refrigerator for 6-12 hours to completely cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_8543.jpg"
+    },
+    {
+      "text": "About 15-20 minutes before you want to serve, assemble your ice cream machine and follow the instructions as per manufacturers notes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_8553.jpg"
+    },
+    {
+      "text": "You can store this in the freezer afterwards for a few hours to harden, or you can immediately serve for a soft-serve feel. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/chocolateavocadoicecream.jpg",
+      "path": "images/8edff7f975488c45d6bbe67a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_85091.jpg",
+      "path": "../../nenaudojama/dessert/images/f29dcc333deb3e98ccf36554.avif",
+      "archived": true,
+      "originalPath": "images/f29dcc333deb3e98ccf36554.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_8516.jpg",
+      "path": "../../nenaudojama/dessert/images/17563c15cf0d494f31071e36.jpg",
+      "archived": true,
+      "originalPath": "images/17563c15cf0d494f31071e36.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_85251.jpg",
+      "path": "../../nenaudojama/dessert/images/7b1d806b60ded3ad73a4df03.jpg",
+      "archived": true,
+      "originalPath": "images/7b1d806b60ded3ad73a4df03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_85341.jpg",
+      "path": "../../nenaudojama/dessert/images/a772fde34107b44f7313188d.avif",
+      "archived": true,
+      "originalPath": "images/a772fde34107b44f7313188d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_8543.jpg",
+      "path": "../../nenaudojama/dessert/images/3669b3bb29ae050401004558.jpg",
+      "archived": true,
+      "originalPath": "images/3669b3bb29ae050401004558.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_8553.jpg",
+      "path": "../../nenaudojama/dessert/images/9d3e44323b34ad1c1ec70771.avif",
+      "archived": true,
+      "originalPath": "images/9d3e44323b34ad1c1ec70771.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/chocolateavocadoicecreamsecond1.jpg",
+      "path": "../../nenaudojama/dessert/images/7e247863c0bcfb2fea3f83e2.avif",
+      "archived": true,
+      "originalPath": "images/7e247863c0bcfb2fea3f83e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/chocolateavocadoicecreamlong.jpg",
+      "path": "../../nenaudojama/dessert/images/3926bcaa036da79dd27d7f15.jpg",
+      "archived": true,
+      "originalPath": "images/3926bcaa036da79dd27d7f15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_85091-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/775e2b61711b23d5370cb1a2.avif",
+      "archived": true,
+      "originalPath": "images/775e2b61711b23d5370cb1a2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_8516-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/27b35ce843400c40fecbfc99.jpg",
+      "archived": true,
+      "originalPath": "images/27b35ce843400c40fecbfc99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_85251-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/99d0d3288d4125afdc5760b5.avif",
+      "archived": true,
+      "originalPath": "images/99d0d3288d4125afdc5760b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_85341-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/eef5b01397551bb2fe083a9c.avif",
+      "archived": true,
+      "originalPath": "images/eef5b01397551bb2fe083a9c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_8543-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c88bd33b05a843035e764fac.avif",
+      "archived": true,
+      "originalPath": "images/c88bd33b05a843035e764fac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_8553-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f8e39c4b768178ad7eea864a.avif",
+      "archived": true,
+      "originalPath": "images/f8e39c4b768178ad7eea864a.avif"
+    }
+  ],
+  "featuredImage": "images/8edff7f975488c45d6bbe67a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chocolate Chunk Avocado Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Chocolate Chunk Avocado Ice Cream. Each serving comes out to be 277 calories, 23.5g fats, 4.3g net carbs, and 4.4g protein.",
+    "datePublished": "2014-08-02T11:29:43+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/chocolateavocadoicecream.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT360M",
+    "totalTime": "PT360M",
+    "recipeIngredient": [
+      "2 large avocado",
+      "1 cup unsweetened carton coconut milk",
+      "1/2 cup heavy whipping cream",
+      "1/2 cup unsweetened dark cocoa powder",
+      "2 teaspoon vanilla extract",
+      "1/2 cup erythritol (powdered)",
+      "25 drop liquid stevia",
+      "1 1/2 ounce unsweetened baking chocolate"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the avocados in half, remove seed, then scoop out the avocado flesh into a bowl.",
+        "name": "Cut the avocados in half, remove seed, then scoop out the avocado flesh into a bowl.",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_85091.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add coconut milk, heavy cream, and the vanilla extract. Use an immersion blender to blend this mixture together until smooth and creamy.",
+        "name": "Add coconut milk, heavy cream, and the vanilla extract. Use an immersion blender to blend this mixture together until smooth and creamy.",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_8516.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a spice grinder, grind the erythritol until powdered. Let settle before removing lid. Add erythritol, liquid stevia, and cocoa powder to the creamy avocado mixture and mix again.",
+        "name": "In a spice grinder, grind the erythritol until powdered. Let settle before removing lid. Add erythritol, liquid stevia, and cocoa powder to the creamy avocado mixture and mix again.",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_85251.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the mixture is smooth, chop 6 squares of unsweetened baker's chocolate and add into the bowl. Use a spoon or fork to fold the chocolate in.",
+        "name": "Once the mixture is smooth, chop 6 squares of unsweetened baker's chocolate and add into the bowl. Use a spoon or fork to fold the chocolate in.",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_85341.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Leave the bowl in the refrigerator for 6-12 hours to completely cool.",
+        "name": "Leave the bowl in the refrigerator for 6-12 hours to completely cool.",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_8543.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "About 15-20 minutes before you want to serve, assemble your ice cream machine and follow the instructions as per manufacturers notes.",
+        "name": "About 15-20 minutes before you want to serve, assemble your ice cream machine and follow the instructions as per manufacturers notes.",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_8553.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "You can store this in the freezer afterwards for a few hours to harden, or you can immediately serve for a soft-serve feel. Enjoy!",
+        "name": "You can store this in the freezer afterwards for a few hours to harden, or you can immediately serve for a soft-serve feel. Enjoy!",
+        "url": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#wprm-recipe-51233-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "277 kcal",
+      "fatContent": "23.5 g",
+      "proteinContent": "4.4 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chocolate-chunk-avocado-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 22540,
+    "rid": 51233,
+    "t": "Chocolate Chunk Avocado Ice Cream",
+    "u": "/chocolate-chunk-avocado-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/chocolateavocadoicecream.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.3,
+    "cal": 277,
+    "pr": 4.4,
+    "fa": 23.5,
+    "tm": 360,
+    "sv": 6,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2014-08-02",
+    "cm": 40,
+    "ex": "Eating avocados on a ketogenic diet is well known and done often. They're full of fats, absolutely delicious, and normally pretty easy to find. Though, eating avocados for dessert is pretty",
+    "pv": 314
+  },
+  "sourceHtml": "pages/chocolate-chunk-avocado-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.484Z"
+}

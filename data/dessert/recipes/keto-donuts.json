@@ -1,0 +1,357 @@
+{
+  "id": "ruled-656",
+  "slug": "keto-donuts",
+  "title": "Delicious Chocolate Donuts",
+  "url": "https://www.ruled.me/keto-donuts/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Delicious Chocolate Donuts. Each serving comes out to be 128 calories, 9.7g fats, 1.6g net carbs, and 7.2g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT25M",
+  "cookTime": "PT15M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "fatContent": "9.7 g",
+    "proteinContent": "7.2 g",
+    "carbohydrateContent": "1.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 128,
+    "netCarbsGrams": 1.6,
+    "proteinGrams": 7.2,
+    "fatGrams": 9.7
+  },
+  "ingredients": [
+    "3 large egg",
+    "1/2 cup stevia/erythritol blend",
+    "1 teaspoon vanilla extract",
+    "2 tablespoon butter (melted)",
+    "1/2 cup almond flour",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon baking powder",
+    "1/4 teaspoon ground cinnamon",
+    "2 tablespoon cocoa powder",
+    "31 gram low-carb chocolate protein powder (vegetarian)",
+    "2 tablespoon heavy cream"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Whip egg whites until they have stiff peaks (this is the most important part and will ensure you get a great fluffy consistency).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-04.jpg"
+    },
+    {
+      "text": "Combine the egg yolks, sweetener, vanilla, and butter in a separate bowl, then whisk until well mixed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-01.jpg"
+    },
+    {
+      "text": "Combine almond meal, salt, baking powder, cinnamon, and cocoa powder in a third mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-03.jpg"
+    },
+    {
+      "text": "Gently (really gently) fold the wet ingredients into the whipped egg whites.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-06.jpg"
+    },
+    {
+      "text": "Slowly add the bowl of mixed dry ingredients to the wet mixture while continuing to mix.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-07.jpg"
+    },
+    {
+      "text": "Fill the donut pan ¾ of the way full on each mold.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-09.jpg"
+    },
+    {
+      "text": "Bake for 15 minutes, or until a toothpick comes out clean. In a separate bowl, combine casein powder and heavy cream until it is thick and forms the icing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-14.jpg"
+    },
+    {
+      "text": "Pour the icing over the donuts when they have cooled down a bit.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/9425fdc99f79f13751cf9d94.jpg",
+      "archived": true,
+      "originalPath": "images/9425fdc99f79f13751cf9d94.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-featured.jpg",
+      "path": "images/3f4f55bbd3179a7cd0c4000e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-04.jpg",
+      "path": "../../nenaudojama/dessert/images/584f277768295af16527ec29.jpg",
+      "archived": true,
+      "originalPath": "images/584f277768295af16527ec29.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-01.jpg",
+      "path": "../../nenaudojama/dessert/images/e6413f07f959c58378b4f0b7.jpg",
+      "archived": true,
+      "originalPath": "images/e6413f07f959c58378b4f0b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-03.jpg",
+      "path": "../../nenaudojama/dessert/images/78f715d2e5378aec374b02e4.avif",
+      "archived": true,
+      "originalPath": "images/78f715d2e5378aec374b02e4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-06.jpg",
+      "path": "../../nenaudojama/dessert/images/30d654e165a4eb1220c384e9.avif",
+      "archived": true,
+      "originalPath": "images/30d654e165a4eb1220c384e9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-07.jpg",
+      "path": "../../nenaudojama/dessert/images/027f4a0c835fedc39fd38ef0.avif",
+      "archived": true,
+      "originalPath": "images/027f4a0c835fedc39fd38ef0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-09.jpg",
+      "path": "../../nenaudojama/dessert/images/aba652df3bd0e46fe5ae6569.avif",
+      "archived": true,
+      "originalPath": "images/aba652df3bd0e46fe5ae6569.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-14.jpg",
+      "path": "../../nenaudojama/dessert/images/c787faf67f2b95cd1cb9d024.avif",
+      "archived": true,
+      "originalPath": "images/c787faf67f2b95cd1cb9d024.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/70bdc0b95efd72a6f1397319.webp",
+      "archived": true,
+      "originalPath": "images/70bdc0b95efd72a6f1397319.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ab46a49c55fd978fa62abaa4.avif",
+      "archived": true,
+      "originalPath": "images/ab46a49c55fd978fa62abaa4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/83b23779eb1d9e036f59efee.avif",
+      "archived": true,
+      "originalPath": "images/83b23779eb1d9e036f59efee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/f24b9fba5815d09d0d227aae.avif",
+      "archived": true,
+      "originalPath": "images/f24b9fba5815d09d0d227aae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-06-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9c9ddd273e582c70175e479e.avif",
+      "archived": true,
+      "originalPath": "images/9c9ddd273e582c70175e479e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-07-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2ed3a108f81938640b6a8e74.avif",
+      "archived": true,
+      "originalPath": "images/2ed3a108f81938640b6a8e74.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-09-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d19659b7d21710d8c9d2e947.avif",
+      "archived": true,
+      "originalPath": "images/d19659b7d21710d8c9d2e947.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-14-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/37df0d2df8574161901a5c59.avif",
+      "archived": true,
+      "originalPath": "images/37df0d2df8574161901a5c59.avif"
+    }
+  ],
+  "featuredImage": "images/3f4f55bbd3179a7cd0c4000e.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Delicious Chocolate Donuts",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Delicious Chocolate Donuts. Each serving comes out to be 128 calories, 9.7g fats, 1.6g net carbs, and 7.2g protein.",
+    "datePublished": "2013-10-10T04:51:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT15M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "3 large egg",
+      "1/2 cup stevia/erythritol blend",
+      "1 teaspoon vanilla extract",
+      "2 tablespoon butter (melted)",
+      "1/2 cup almond flour",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon baking powder",
+      "1/4 teaspoon ground cinnamon",
+      "2 tablespoon cocoa powder",
+      "31 gram low-carb chocolate protein powder (vegetarian)",
+      "2 tablespoon heavy cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Whip egg whites until they have stiff peaks (this is the most important part and will ensure you get a great fluffy consistency).",
+        "name": "Preheat oven to 350F. Whip egg whites until they have stiff peaks (this is the most important part and will ensure you get a great fluffy consistency).",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the egg yolks, sweetener, vanilla, and butter in a separate bowl, then whisk until well mixed.",
+        "name": "Combine the egg yolks, sweetener, vanilla, and butter in a separate bowl, then whisk until well mixed.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine almond meal, salt, baking powder, cinnamon, and cocoa powder in a third mixing bowl.",
+        "name": "Combine almond meal, salt, baking powder, cinnamon, and cocoa powder in a third mixing bowl.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently (really gently) fold the wet ingredients into the whipped egg whites.",
+        "name": "Gently (really gently) fold the wet ingredients into the whipped egg whites.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add the bowl of mixed dry ingredients to the wet mixture while continuing to mix.",
+        "name": "Slowly add the bowl of mixed dry ingredients to the wet mixture while continuing to mix.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fill the donut pan ¾ of the way full on each mold.",
+        "name": "Fill the donut pan ¾ of the way full on each mold.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 15 minutes, or until a toothpick comes out clean. In a separate bowl, combine casein powder and heavy cream until it is thick and forms the icing.",
+        "name": "Bake for 15 minutes, or until a toothpick comes out clean. In a separate bowl, combine casein powder and heavy cream until it is thick and forms the icing.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-14.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the icing over the donuts when they have cooled down a bit.",
+        "name": "Pour the icing over the donuts when they have cooled down a bit.",
+        "url": "https://www.ruled.me/keto-donuts/#wprm-recipe-50319-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "128 kcal",
+      "fatContent": "9.7 g",
+      "proteinContent": "7.2 g",
+      "carbohydrateContent": "1.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-donuts/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-donuts/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-donuts/"
+  },
+  "sourceIndex": {
+    "id": 656,
+    "rid": 50319,
+    "t": "Keto Recipe: Delicious Chocolate Donuts",
+    "u": "/keto-donuts/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/keto-donuts-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.6,
+    "cal": 128,
+    "pr": 7.2,
+    "fa": 9.7,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2013-10-10",
+    "cm": 52,
+    "ex": "All these posts about treats just make me want more! Here's another favorite of mine that ended up being a daily affair, and a staple in my diet. Two good things at once? It almost seems too good to",
+    "pv": 118
+  },
+  "sourceHtml": "pages/keto-donuts.html",
+  "scrapedAt": "2026-11-07T08:30:47.761Z"
+}

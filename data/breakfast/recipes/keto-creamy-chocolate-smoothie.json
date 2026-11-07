@@ -1,0 +1,263 @@
+{
+  "id": "ruled-41865",
+  "slug": "keto-creamy-chocolate-smoothie",
+  "title": "Keto Creamy Chocolate Smoothie",
+  "url": "https://www.ruled.me/keto-creamy-chocolate-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Creamy Chocolate Smoothie. The serving comes out to be 614 calories, 58.1g fats, 7.7g net carbs, and 10.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "614 kcal",
+    "fatContent": "58.1 g",
+    "proteinContent": "10.8 g",
+    "carbohydrateContent": "7.7 g"
+  },
+  "nutritionPerServing": {
+    "calories": 614,
+    "netCarbsGrams": 7.7,
+    "proteinGrams": 10.8,
+    "fatGrams": 58.1
+  },
+  "ingredients": [
+    "1/2 large avocado",
+    "1 1/4 cup unsweetened almond milk",
+    "1/4 cup heavy whipping cream",
+    "1 tablespoon flaxseed meal",
+    "1 tablespoon unsweetened cocoa powder",
+    "1 teaspoon coconut oil",
+    "1 tablespoon almond butter",
+    "drop liquid stevia (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Add the avocado, almond milk, heavy whipping cream, flax meal, unsweetened cocoa powder, coconut oil, almond butter, and liquid stevia to a blender. Puree until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chocolate-smoothie/#wprm-recipe-53187-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-03.jpg"
+    },
+    {
+      "text": "Pour the smoothie into a glass to serve. If you want to get fancy, try topping with some whipped cream and cocoa nibs. Serve right away.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-chocolate-smoothie/#wprm-recipe-53187-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/bd029094faa1625bbaa5c088.avif",
+      "archived": true,
+      "originalPath": "images/bd029094faa1625bbaa5c088.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-featured.jpg",
+      "path": "images/79ebb410b11bda18bd9428aa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/e6956f2a50f721ab8062ebd2.avif",
+      "archived": true,
+      "originalPath": "images/e6956f2a50f721ab8062ebd2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/531c3ce9ecd57fe88a8010bd.avif",
+      "archived": true,
+      "originalPath": "images/531c3ce9ecd57fe88a8010bd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/d1f47f265307b36056858d9f.jpg",
+      "archived": true,
+      "originalPath": "images/d1f47f265307b36056858d9f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/a05e6e26bc94187fd831d9bf.avif",
+      "archived": true,
+      "originalPath": "images/a05e6e26bc94187fd831d9bf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/89726c6735884272c4176140.avif",
+      "archived": true,
+      "originalPath": "images/89726c6735884272c4176140.avif"
+    }
+  ],
+  "featuredImage": "images/79ebb410b11bda18bd9428aa.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Creamy Chocolate Smoothie",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Keto Creamy Chocolate Smoothie. The serving comes out to be 614 calories, 58.1g fats, 7.7g net carbs, and 10.8g protein.",
+    "datePublished": "2019-11-05T09:00:32+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Creamy Chocolate Smoothie Recipe [Fast, Easy, Low-Carb Breakfast]",
+      "description": "Want a fast smoothie you can whip up for breakfast when you don’t have time to sit down and eat? This creamy chocolate smoothie is packed with satiating fats thanks to the avocado, cream, coconut oil, and almond butter.\n\nThis recipe is so quick, that it barely even qualifies for two steps. I promise you’ll be out the door in five minutes. So, no excuses about hitting the drive-through. All you need is a blender and a to-go cup.\n\nIf you want to bulk up the protein content for a full meal, feel free to add a scoop of your favorite low-carb protein powder!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n½ large avocado\n1¼ cups unsweetened almond milk\n¼ cup heavy whipping cream\n1 tablespoon flax meal\n1 tablespoon unsweetened cocoa powder\n1 teaspoon coconut oil\n1 tablespoon almond butter\nLiquid stevia, to taste\n\nNutrition Summary: This makes a total of 1 serving of Keto Creamy Chocolate Smoothie. Each serving comes out to be 593.3 Calories, 55.7g Fats, 7.7g Net Carbs, and 10.6g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-05-03T14:00:18+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M18S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 22900
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 686
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 28
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RrDPzKG8CwQ/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RrDPzKG8CwQ?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=RrDPzKG8CwQ",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 large avocado",
+      "1 1/4 cup unsweetened almond milk",
+      "1/4 cup heavy whipping cream",
+      "1 tablespoon flaxseed meal",
+      "1 tablespoon unsweetened cocoa powder",
+      "1 teaspoon coconut oil",
+      "1 tablespoon almond butter",
+      "drop liquid stevia (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the avocado, almond milk, heavy whipping cream, flax meal, unsweetened cocoa powder, coconut oil, almond butter, and liquid stevia to a blender. Puree until smooth.",
+        "name": "Add the avocado, almond milk, heavy whipping cream, flax meal, unsweetened cocoa powder, coconut oil, almond butter, and liquid stevia to a blender. Puree until smooth.",
+        "url": "https://www.ruled.me/keto-creamy-chocolate-smoothie/#wprm-recipe-53187-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the smoothie into a glass to serve. If you want to get fancy, try topping with some whipped cream and cocoa nibs. Serve right away.",
+        "name": "Pour the smoothie into a glass to serve. If you want to get fancy, try topping with some whipped cream and cocoa nibs. Serve right away.",
+        "url": "https://www.ruled.me/keto-creamy-chocolate-smoothie/#wprm-recipe-53187-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "614 kcal",
+      "fatContent": "58.1 g",
+      "proteinContent": "10.8 g",
+      "carbohydrateContent": "7.7 g"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-creamy-chocolate-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-creamy-chocolate-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-creamy-chocolate-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 41865,
+    "rid": 53187,
+    "t": "Keto Creamy Chocolate Smoothie",
+    "u": "/keto-creamy-chocolate-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/11/keto-chocolate-coconut-smoothie-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.7,
+    "cal": 614,
+    "pr": 10.8,
+    "fa": 58.1,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2019-11-05",
+    "cm": 2,
+    "ex": "Want a fast smoothie you can whip up for breakfast when you don’t have time to sit down and eat? This creamy chocolate smoothie is packed with satiating fats thanks to the avocado, cream, coconut",
+    "pv": 376
+  },
+  "sourceHtml": "pages/keto-creamy-chocolate-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:12.561Z"
+}

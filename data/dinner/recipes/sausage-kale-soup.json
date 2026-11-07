@@ -1,0 +1,351 @@
+{
+  "id": "ruled-28687",
+  "slug": "sausage-kale-soup",
+  "title": "Sausage and Kale Soup",
+  "url": "https://www.ruled.me/sausage-kale-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Sausage and Kale Soup. Each serving comes out to be 459 calories, 37.7g fats, 9.6g net carbs, and 18.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "459 kcal",
+    "fatContent": "37.7 g",
+    "proteinContent": "18.7 g",
+    "carbohydrateContent": "9.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 459,
+    "netCarbsGrams": 9.6,
+    "proteinGrams": 18.7,
+    "fatGrams": 37.7
+  },
+  "ingredients": [
+    "16 ounce ground mild italian sausage",
+    "1 tablespoon butter",
+    "1 medium yellow onion (chopped)",
+    "70 gram carrot (peeled and diced)",
+    "2 teaspoon fresh garlic (crushed)",
+    "2 tablespoon red wine vinegar",
+    "1 teaspoon dried oregano",
+    "1 teaspoon dried basil",
+    "1 teaspoon dried sage",
+    "1/2 teaspoon crushed red pepper flakes",
+    "4 cup chicken broth",
+    "1 cup heavy whipping cream",
+    "294 gram cauliflower (cut into small florets)",
+    "3 cup kale (chopped)",
+    "sea salt (to taste)",
+    "1/2 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Heat a large saucepan or Dutch oven over medium-high heat. Add ground sausage, breaking up the meat. Cook, stirring occasionally until browned and cooked through. This takes about 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_30800.jpg"
+    },
+    {
+      "text": "Using a slotted spoon, remove cooked sausage and allow to drain on a plate covered with paper towels. Discard drippings, but do not wash pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3146.jpg"
+    },
+    {
+      "text": "Melt butter over medium heat. When bubbling subsides, add onion and carrot. Cook until onion begins to brown on the edges and becomes somewhat translucent.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3093.jpg"
+    },
+    {
+      "text": "Stir in oregano, basil, sage and red pepper flakes. Pour in stock and heavy cream. Increase heat to medium-high.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3133.jpg"
+    },
+    {
+      "text": "When soup reaches a simmer, add cauliflower and turn heat down to medium-low. Simmer uncovered until cauliflower is fork-tender, about 10 minutes. Stir in kale and cooked sausage. Cook 1 to 2 minutes longer, or until kale wilts and the sausage is reheated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3153.jpg"
+    },
+    {
+      "text": "Season to taste with salt and pepper. The amount of salt needed may vary due to variation in brands of broth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-1.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "pork",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-3-768x511.jpg",
+      "path": "../../nenaudojama/dinner/images/085a57ca97925226ed639e23.avif",
+      "archived": true,
+      "originalPath": "images/085a57ca97925226ed639e23.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-3.jpg",
+      "path": "images/cc42d16ec7820b33fd06c2eb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_30800.jpg",
+      "path": "../../nenaudojama/dinner/images/32f1b6a6f22416fe0ad96797.avif",
+      "archived": true,
+      "originalPath": "images/32f1b6a6f22416fe0ad96797.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3146.jpg",
+      "path": "../../nenaudojama/dinner/images/9a45b5568faa6b4415450077.avif",
+      "archived": true,
+      "originalPath": "images/9a45b5568faa6b4415450077.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3093.jpg",
+      "path": "../../nenaudojama/dinner/images/e4458f8244eac016222bb8a4.jpg",
+      "archived": true,
+      "originalPath": "images/e4458f8244eac016222bb8a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3133.jpg",
+      "path": "../../nenaudojama/dinner/images/a0f4cd939045000dc3e654d3.avif",
+      "archived": true,
+      "originalPath": "images/a0f4cd939045000dc3e654d3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3153.jpg",
+      "path": "../../nenaudojama/dinner/images/32e80449e1fd397e162e8981.avif",
+      "archived": true,
+      "originalPath": "images/32e80449e1fd397e162e8981.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-1.jpg",
+      "path": "../../nenaudojama/dinner/images/ea05e1285d263dcd2d31e424.avif",
+      "archived": true,
+      "originalPath": "images/ea05e1285d263dcd2d31e424.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-4.jpg",
+      "path": "../../nenaudojama/dinner/images/294f4a978ce37ee3a4955239.avif",
+      "archived": true,
+      "originalPath": "images/294f4a978ce37ee3a4955239.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3120.jpg",
+      "path": "../../nenaudojama/dinner/images/0026b96e5395a95041a181f2.avif",
+      "archived": true,
+      "originalPath": "images/0026b96e5395a95041a181f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_30800-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5499d78f9b9a44f629f6160d.jpg",
+      "archived": true,
+      "originalPath": "images/5499d78f9b9a44f629f6160d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3146-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/109aa7c03f342a3aa6c193cf.jpg",
+      "archived": true,
+      "originalPath": "images/109aa7c03f342a3aa6c193cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3093-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a273f7962ee79ce693a34e9e.jpg",
+      "archived": true,
+      "originalPath": "images/a273f7962ee79ce693a34e9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3133-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a4fa5e02d0c2d2e56981bd2f.jpg",
+      "archived": true,
+      "originalPath": "images/a4fa5e02d0c2d2e56981bd2f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3153-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cf9fa8620853c8e1286431c5.jpg",
+      "archived": true,
+      "originalPath": "images/cf9fa8620853c8e1286431c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-1-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ca8b2a0d0cfb32dc77575763.avif",
+      "archived": true,
+      "originalPath": "images/ca8b2a0d0cfb32dc77575763.avif"
+    }
+  ],
+  "featuredImage": "images/cc42d16ec7820b33fd06c2eb.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Sausage and Kale Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Sausage and Kale Soup. Each serving comes out to be 459 calories, 37.7g fats, 9.6g net carbs, and 18.7g protein.",
+    "datePublished": "2017-01-03T12:00:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/12/soup15-3.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "16 ounce ground mild italian sausage",
+      "1 tablespoon butter",
+      "1 medium yellow onion (chopped)",
+      "70 gram carrot (peeled and diced)",
+      "2 teaspoon fresh garlic (crushed)",
+      "2 tablespoon red wine vinegar",
+      "1 teaspoon dried oregano",
+      "1 teaspoon dried basil",
+      "1 teaspoon dried sage",
+      "1/2 teaspoon crushed red pepper flakes",
+      "4 cup chicken broth",
+      "1 cup heavy whipping cream",
+      "294 gram cauliflower (cut into small florets)",
+      "3 cup kale (chopped)",
+      "sea salt (to taste)",
+      "1/2 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large saucepan or Dutch oven over medium-high heat. Add ground sausage, breaking up the meat. Cook, stirring occasionally until browned and cooked through. This takes about 5 minutes.",
+        "name": "Heat a large saucepan or Dutch oven over medium-high heat. Add ground sausage, breaking up the meat. Cook, stirring occasionally until browned and cooked through. This takes about 5 minutes.",
+        "url": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_30800.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a slotted spoon, remove cooked sausage and allow to drain on a plate covered with paper towels. Discard drippings, but do not wash pan.",
+        "name": "Using a slotted spoon, remove cooked sausage and allow to drain on a plate covered with paper towels. Discard drippings, but do not wash pan.",
+        "url": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3146.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt butter over medium heat. When bubbling subsides, add onion and carrot. Cook until onion begins to brown on the edges and becomes somewhat translucent.",
+        "name": "Melt butter over medium heat. When bubbling subsides, add onion and carrot. Cook until onion begins to brown on the edges and becomes somewhat translucent.",
+        "url": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3093.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in oregano, basil, sage and red pepper flakes. Pour in stock and heavy cream. Increase heat to medium-high.",
+        "name": "Stir in oregano, basil, sage and red pepper flakes. Pour in stock and heavy cream. Increase heat to medium-high.",
+        "url": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3133.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When soup reaches a simmer, add cauliflower and turn heat down to medium-low. Simmer uncovered until cauliflower is fork-tender, about 10 minutes. Stir in kale and cooked sausage. Cook 1 to 2 minutes longer, or until kale wilts and the sausage is reheated.",
+        "name": "When soup reaches a simmer, add cauliflower and turn heat down to medium-low. Simmer uncovered until cauliflower is fork-tender, about 10 minutes. Stir in kale and cooked sausage. Cook 1 to 2 minutes longer, or until kale wilts and the sausage is reheated.",
+        "url": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/DSC_3153.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season to taste with salt and pepper. The amount of salt needed may vary due to variation in brands of broth.",
+        "name": "Season to taste with salt and pepper. The amount of salt needed may vary due to variation in brands of broth.",
+        "url": "https://www.ruled.me/sausage-kale-soup/#wprm-recipe-52027-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-1.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "comfort-food, egg-free, gluten-free, high-fat, keto, low-carb, nut-free, one-pan, pork, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "459 kcal",
+      "fatContent": "37.7 g",
+      "proteinContent": "18.7 g",
+      "carbohydrateContent": "9.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/sausage-kale-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/sausage-kale-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/sausage-kale-soup/"
+  },
+  "sourceIndex": {
+    "id": 28687,
+    "rid": 52027,
+    "t": "Sausage and Kale Soup",
+    "u": "/sausage-kale-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/12/soup15-3-768x511.jpg",
+    "w": 768,
+    "h": 511,
+    "c": "dinner",
+    "nc": 9.6,
+    "cal": 459,
+    "pr": 18.7,
+    "fa": 37.7,
+    "tm": 60,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "pork",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 16,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2017-01-03",
+    "cm": 60,
+    "ex": "This sausage and kale soup recipe puts the essence of Italy right in your bowl. Flavors of sweet Italian sausage mingle with savory herbs and garlic. This combination is rounded out with some onion",
+    "pv": 3805
+  },
+  "sourceHtml": "pages/sausage-kale-soup.html",
+  "scrapedAt": "2026-11-07T08:27:44.779Z"
+}

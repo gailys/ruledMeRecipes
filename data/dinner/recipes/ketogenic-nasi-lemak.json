@@ -1,0 +1,361 @@
+{
+  "id": "ruled-25670",
+  "slug": "ketogenic-nasi-lemak",
+  "title": "Ketogenic Nasi Lemak",
+  "url": "https://www.ruled.me/ketogenic-nasi-lemak/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Ketogenic Nasi Lemak. Each serving comes out to be 415 calories, 28.8g fats, 5g net carbs, and 35.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "415 kcal",
+    "fatContent": "28.8 g",
+    "proteinContent": "35.5 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 415,
+    "netCarbsGrams": 5,
+    "proteinGrams": 35.5,
+    "fatGrams": 28.8
+  },
+  "ingredients": [
+    "12 ounce boneless, skinless chicken thighs",
+    "1/2 teaspoon curry powder",
+    "1/4 teaspoon turmeric powder",
+    "1 teaspoon lime juice",
+    "salt (to taste)",
+    "1 teaspoon coconut oil",
+    "7 ounce cauliflower (riced)",
+    "3 tablespoon canned coconut milk",
+    "1 teaspoon fresh ginger",
+    "1/2 medium shallot (sliced)",
+    "1/4 teaspoon salt (or to taste)",
+    "20 gram cucumber",
+    "1 large egg",
+    "1/2 tablespoon butter",
+    "1 tablespoon chili-garlic paste"
+  ],
+  "instructions": [
+    {
+      "text": "Marinate boneless chicken thighs with curry powder, turmeric powder, lime juice and salt. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/7-2.jpg"
+    },
+    {
+      "text": "Prepare the cauliflower rice (by ricing cauliflower) and squeeze water out. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/7-1.jpg"
+    },
+    {
+      "text": "Fry the marinated chicken thighs until brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/7-7.jpg"
+    },
+    {
+      "text": "To prepare the rice, boil in a saucepan over medium heat: coconut milk, ginger, shallot and salt. It should take about a minute or less.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/7-8.jpg"
+    },
+    {
+      "text": "Once bubbling, add in the riced cauliflower and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/7-9.jpg"
+    },
+    {
+      "text": "Prepare Sambal (from our recipe on the website) if making from scratch, or you can use pre-made Sambal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/7-6.jpg"
+    },
+    {
+      "text": "Serve with sliced cucumber and a fried egg, along with sambal and a chicken thigh.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak1.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak.jpg",
+      "path": "images/289a62b347f55d25cb9b5c89.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-2.jpg",
+      "path": "../../nenaudojama/dinner/images/5e9f726bc3e97f35c3fe2548.avif",
+      "archived": true,
+      "originalPath": "images/5e9f726bc3e97f35c3fe2548.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-1.jpg",
+      "path": "../../nenaudojama/dinner/images/898010fefb57253081e60a41.jpg",
+      "archived": true,
+      "originalPath": "images/898010fefb57253081e60a41.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-7.jpg",
+      "path": "../../nenaudojama/dinner/images/93a9ea33aa909948a02030fd.jpg",
+      "archived": true,
+      "originalPath": "images/93a9ea33aa909948a02030fd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-8.jpg",
+      "path": "../../nenaudojama/dinner/images/aed501c62bae686c40efd67a.jpg",
+      "archived": true,
+      "originalPath": "images/aed501c62bae686c40efd67a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-9.jpg",
+      "path": "../../nenaudojama/dinner/images/e8c97139f481fc70a3bee04b.jpg",
+      "archived": true,
+      "originalPath": "images/e8c97139f481fc70a3bee04b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-6.jpg",
+      "path": "../../nenaudojama/dinner/images/0d782116690ad15423b08b70.avif",
+      "archived": true,
+      "originalPath": "images/0d782116690ad15423b08b70.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak1.jpg",
+      "path": "../../nenaudojama/dinner/images/fbdeb84c14ef026fd58fa2c4.avif",
+      "archived": true,
+      "originalPath": "images/fbdeb84c14ef026fd58fa2c4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemaksecond.jpg",
+      "path": "../../nenaudojama/dinner/images/4e287a665a02475926ec56e1.avif",
+      "archived": true,
+      "originalPath": "images/4e287a665a02475926ec56e1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ae23fcd70ed3f6192b7835f7.jpg",
+      "archived": true,
+      "originalPath": "images/ae23fcd70ed3f6192b7835f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2540777232bd9e5308536104.avif",
+      "archived": true,
+      "originalPath": "images/2540777232bd9e5308536104.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/7876bd89f62c4b855c7a7d29.jpg",
+      "archived": true,
+      "originalPath": "images/7876bd89f62c4b855c7a7d29.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-8-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/afa2dc41d2b4a7b732ac37a4.avif",
+      "archived": true,
+      "originalPath": "images/afa2dc41d2b4a7b732ac37a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-9-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6d2312be32b42ed2b6e65b76.jpg",
+      "archived": true,
+      "originalPath": "images/6d2312be32b42ed2b6e65b76.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/7-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/af10935a38fa9df14180ae85.jpg",
+      "archived": true,
+      "originalPath": "images/af10935a38fa9df14180ae85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak1-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a213ef9a3a05d1d2b3ba7a41.jpg",
+      "archived": true,
+      "originalPath": "images/a213ef9a3a05d1d2b3ba7a41.jpg"
+    }
+  ],
+  "featuredImage": "images/289a62b347f55d25cb9b5c89.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ketogenic Nasi Lemak",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Ketogenic Nasi Lemak. Each serving comes out to be 415 calories, 28.8g fats, 5g net carbs, and 35.5g protein.",
+    "datePublished": "2015-03-07T17:20:22+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "12 ounce boneless, skinless chicken thighs",
+      "1/2 teaspoon curry powder",
+      "1/4 teaspoon turmeric powder",
+      "1 teaspoon lime juice",
+      "salt (to taste)",
+      "1 teaspoon coconut oil",
+      "7 ounce cauliflower (riced)",
+      "3 tablespoon canned coconut milk",
+      "1 teaspoon fresh ginger",
+      "1/2 medium shallot (sliced)",
+      "1/4 teaspoon salt (or to taste)",
+      "20 gram cucumber",
+      "1 large egg",
+      "1/2 tablespoon butter",
+      "1 tablespoon chili-garlic paste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Marinate boneless chicken thighs with curry powder, turmeric powder, lime juice and salt. Set aside.",
+        "name": "Marinate boneless chicken thighs with curry powder, turmeric powder, lime juice and salt. Set aside.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/7-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the cauliflower rice (by ricing cauliflower) and squeeze water out. Set aside.",
+        "name": "Prepare the cauliflower rice (by ricing cauliflower) and squeeze water out. Set aside.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/7-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the marinated chicken thighs until brown.",
+        "name": "Fry the marinated chicken thighs until brown.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/7-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To prepare the rice, boil in a saucepan over medium heat: coconut milk, ginger, shallot and salt. It should take about a minute or less.",
+        "name": "To prepare the rice, boil in a saucepan over medium heat: coconut milk, ginger, shallot and salt. It should take about a minute or less.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/7-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once bubbling, add in the riced cauliflower and mix well.",
+        "name": "Once bubbling, add in the riced cauliflower and mix well.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/7-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare Sambal (from our recipe on the website) if making from scratch, or you can use pre-made Sambal.",
+        "name": "Prepare Sambal (from our recipe on the website) if making from scratch, or you can use pre-made Sambal.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/7-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with sliced cucumber and a fried egg, along with sambal and a chicken thigh.",
+        "name": "Serve with sliced cucumber and a fried egg, along with sambal and a chicken thigh.",
+        "url": "https://www.ruled.me/ketogenic-nasi-lemak/#wprm-recipe-51611-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak1.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Malaysian"
+    ],
+    "keywords": "30-minute, gluten-free, high-protein, keto, low-carb, nut-free, poultry, quick, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "415 kcal",
+      "fatContent": "28.8 g",
+      "proteinContent": "35.5 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/ketogenic-nasi-lemak/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ketogenic-nasi-lemak/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ketogenic-nasi-lemak/"
+  },
+  "sourceIndex": {
+    "id": 25670,
+    "rid": 51611,
+    "t": "Ketogenic Nasi Lemak",
+    "u": "/ketogenic-nasi-lemak/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/03/nasilemak.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5,
+    "cal": 415,
+    "pr": 35.5,
+    "fa": 28.8,
+    "tm": 30,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 15,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2015-03-07",
+    "cm": 8,
+    "ex": "This is a very popular rice dish that can be found in Brunei, Indonesia, Malaysia and Singapore. In fact, it is Malaysia's national dish. Usually called Nasi Lemak, it is roughly translated to Rice",
+    "pv": 214
+  },
+  "sourceHtml": "pages/ketogenic-nasi-lemak.html",
+  "scrapedAt": "2026-11-07T08:27:44.902Z"
+}

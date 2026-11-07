@@ -1,0 +1,361 @@
+{
+  "id": "ruled-44597",
+  "slug": "keto-chorizo-creamed-cabbage",
+  "title": "Keto Chorizo & Creamed Cabbage",
+  "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Chorizo & Creamed Cabbage. Each serving comes out to be 832 calories, 73.6g fats, 8.9g net carbs, and 31g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "832 kcal",
+    "fatContent": "73.6 g",
+    "proteinContent": "31 g",
+    "carbohydrateContent": "8.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 832,
+    "netCarbsGrams": 8.9,
+    "proteinGrams": 31,
+    "fatGrams": 73.6
+  },
+  "ingredients": [
+    "16 ounce chorizo sausage",
+    "1 tablespoon butter (for frying)",
+    "20 ounce green cabbage",
+    "2 tablespoon butter",
+    "1 cup heavy whipping cream",
+    "2 teaspoon fresh garlic (minced)",
+    "1/2 tablespoon lemon zest",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-1.jpg"
+    },
+    {
+      "text": "In a frying pan over medium heat, melt the butter and add fry the chorizo until cooked. Remove from pan and keep warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-2.jpg"
+    },
+    {
+      "text": "Using a sharp knife, cut the cabbage to shreds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-3.jpg"
+    },
+    {
+      "text": "In the frying pan used for the chorizo, add the shredded cabbage and butter and fry until golden brown. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-4.jpg"
+    },
+    {
+      "text": "Add heavy cream to the pan and bring to a boil. Reduce heat to low and let simmer until the cream has thickened.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-5.jpg"
+    },
+    {
+      "text": "Add minced garlic and lemon zest, then stir well until combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-6.jpg"
+    },
+    {
+      "text": "Serve the hot chorizo with the creamed cabbage. Add additional salt and pepper if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/2fcbb50dca9fc8d17b1ab8b0.jpg",
+      "archived": true,
+      "originalPath": "images/2fcbb50dca9fc8d17b1ab8b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Featured.jpg",
+      "path": "images/0e805e0e2aba20f7aa897a68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-1.jpg",
+      "path": "../../nenaudojama/dinner/images/1ade0cb863bd30826de5955f.jpg",
+      "archived": true,
+      "originalPath": "images/1ade0cb863bd30826de5955f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-2.jpg",
+      "path": "../../nenaudojama/dinner/images/0752bf9b42dde3d6396979eb.avif",
+      "archived": true,
+      "originalPath": "images/0752bf9b42dde3d6396979eb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-3.jpg",
+      "path": "../../nenaudojama/dinner/images/56597ce76dac065a3dc446e4.jpg",
+      "archived": true,
+      "originalPath": "images/56597ce76dac065a3dc446e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-4.jpg",
+      "path": "../../nenaudojama/dinner/images/3f38990b1a17f7efbc99b7e0.jpg",
+      "archived": true,
+      "originalPath": "images/3f38990b1a17f7efbc99b7e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-5.jpg",
+      "path": "../../nenaudojama/dinner/images/0ecda798a2271d332c12ec4d.jpg",
+      "archived": true,
+      "originalPath": "images/0ecda798a2271d332c12ec4d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-6.jpg",
+      "path": "../../nenaudojama/dinner/images/7537b0f72c7b41046d35ad50.jpg",
+      "archived": true,
+      "originalPath": "images/7537b0f72c7b41046d35ad50.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/5c834174f84bf40ef69a3d03.jpg",
+      "archived": true,
+      "originalPath": "images/5c834174f84bf40ef69a3d03.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/e74881fed53c73845870bd71.avif",
+      "archived": true,
+      "originalPath": "images/e74881fed53c73845870bd71.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/9fec06ef9ffffc1997a69030.avif",
+      "archived": true,
+      "originalPath": "images/9fec06ef9ffffc1997a69030.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d565e970f0fe1d85091a5cb7.avif",
+      "archived": true,
+      "originalPath": "images/d565e970f0fe1d85091a5cb7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2a6790120699fc929e5383c3.jpg",
+      "archived": true,
+      "originalPath": "images/2a6790120699fc929e5383c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9b19414245a049ede44bdd0b.jpg",
+      "archived": true,
+      "originalPath": "images/9b19414245a049ede44bdd0b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/78d87b458ea0d17d67846d46.jpg",
+      "archived": true,
+      "originalPath": "images/78d87b458ea0d17d67846d46.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/561de2a2ac49abc5dedddc5a.jpg",
+      "archived": true,
+      "originalPath": "images/561de2a2ac49abc5dedddc5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/602102d086c35bcb7ca7e7f3.jpg",
+      "archived": true,
+      "originalPath": "images/602102d086c35bcb7ca7e7f3.jpg"
+    }
+  ],
+  "featuredImage": "images/0e805e0e2aba20f7aa897a68.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chorizo &amp; Creamed Cabbage",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Chorizo &amp; Creamed Cabbage. Each serving comes out to be 832 calories, 73.6g fats, 8.9g net carbs, and 31g protein.",
+    "datePublished": "2021-01-19T10:00:43+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "16 ounce chorizo sausage",
+      "1 tablespoon butter (for frying)",
+      "20 ounce green cabbage",
+      "2 tablespoon butter",
+      "1 cup heavy whipping cream",
+      "2 teaspoon fresh garlic (minced)",
+      "1/2 tablespoon lemon zest",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium heat, melt the butter and add fry the chorizo until cooked. Remove from pan and keep warm.",
+        "name": "In a frying pan over medium heat, melt the butter and add fry the chorizo until cooked. Remove from pan and keep warm.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a sharp knife, cut the cabbage to shreds.",
+        "name": "Using a sharp knife, cut the cabbage to shreds.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the frying pan used for the chorizo, add the shredded cabbage and butter and fry until golden brown. Season with salt and pepper to taste.",
+        "name": "In the frying pan used for the chorizo, add the shredded cabbage and butter and fry until golden brown. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add heavy cream to the pan and bring to a boil. Reduce heat to low and let simmer until the cream has thickened.",
+        "name": "Add heavy cream to the pan and bring to a boil. Reduce heat to low and let simmer until the cream has thickened.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add minced garlic and lemon zest, then stir well until combined.",
+        "name": "Add minced garlic and lemon zest, then stir well until combined.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Chorizo-Creamed-Cabbage-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the hot chorizo with the creamed cabbage. Add additional salt and pepper if desired.",
+        "name": "Serve the hot chorizo with the creamed cabbage. Add additional salt and pepper if desired.",
+        "url": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#wprm-recipe-53629-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Spanish"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, quick, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "832 kcal",
+      "fatContent": "73.6 g",
+      "proteinContent": "31 g",
+      "carbohydrateContent": "8.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chorizo-creamed-cabbage/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chorizo-creamed-cabbage/"
+  },
+  "sourceIndex": {
+    "id": 44597,
+    "rid": 53629,
+    "t": "Keto Chorizo and Creamed Cabbage",
+    "u": "/keto-chorizo-creamed-cabbage/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/01/Chorizo-and-Creamed-Cabbage-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 8.9,
+    "cal": 832,
+    "pr": 31,
+    "fa": 73.6,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2021-01-19",
+    "cm": 4,
+    "ex": "Chorizo is a spicy sausage consisting mainly of pork and paprika seasoning. I enjoy chorizo by itself, but in this recipe we paired it with a lemony garlic creamed cabbage and it pairs wonderfully!",
+    "pv": 246
+  },
+  "sourceHtml": "pages/keto-chorizo-creamed-cabbage.html",
+  "scrapedAt": "2026-11-07T08:27:44.251Z"
+}

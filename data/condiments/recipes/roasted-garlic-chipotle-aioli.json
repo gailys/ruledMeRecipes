@@ -1,0 +1,317 @@
+{
+  "id": "ruled-23793",
+  "slug": "roasted-garlic-chipotle-aioli",
+  "title": "Roasted Garlic Chipotle Aioli",
+  "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Roasted Garlic Chipotle Aioli. The serving comes out to be 1196 calories, 128.3g fats, 7.3g net carbs, and 7.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1196 kcal",
+    "fatContent": "128.3 g",
+    "proteinContent": "7.6 g",
+    "carbohydrateContent": "7.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 1196,
+    "netCarbsGrams": 7.3,
+    "proteinGrams": 7.6,
+    "fatGrams": 128.3
+  },
+  "ingredients": [
+    "2 large egg yolk (room temperature)",
+    "1 tablespoon ruled.me roasted garlic",
+    "2 teaspoon lemon juice",
+    "1 teaspoon dijon mustard",
+    "salt and pepper (to taste)",
+    "1/2 cup olive oil",
+    "1/4 cup sour cream",
+    "1/4 teaspoon chipotle seasoning"
+  ],
+  "instructions": [
+    {
+      "text": "Allow the eggs to come to room temperature on the counter, or place them in warm water for about 1–2 minutes. Once done, remove and dry them off.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_0569.jpg"
+    },
+    {
+      "text": "In a food processor, add the egg yolks, roasted garlic, lemon juice, Dijon mustard, and salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_0579.jpg"
+    },
+    {
+      "text": "Process until smooth and creamy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_0583.jpg"
+    },
+    {
+      "text": "Turn the food processor back on and slowly drizzle in the oil, allowing the mixture to emulsify.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_0588.jpg"
+    },
+    {
+      "text": "Once thoroughly combined, add the sour cream and chipotle seasoning. Process until smooth and well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_0599.jpg"
+    },
+    {
+      "text": "Serve with crackers or dolloped on top of food!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlicchipotleaioli.jpg",
+      "path": "../../nenaudojama/condiments/images/35c2a3ae50d0054300b43c7f.jpg",
+      "archived": true,
+      "originalPath": "images/35c2a3ae50d0054300b43c7f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0569.jpg",
+      "path": "../../nenaudojama/condiments/images/c69e2319c1b56e46c92a69b6.jpg",
+      "archived": true,
+      "originalPath": "images/c69e2319c1b56e46c92a69b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0579.jpg",
+      "path": "../../nenaudojama/condiments/images/0bf1cc6556f57209f482f524.avif",
+      "archived": true,
+      "originalPath": "images/0bf1cc6556f57209f482f524.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0583.jpg",
+      "path": "../../nenaudojama/condiments/images/c909c93deb0526c647c2aa9b.jpg",
+      "archived": true,
+      "originalPath": "images/c909c93deb0526c647c2aa9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0588.jpg",
+      "path": "../../nenaudojama/condiments/images/f609da71fa7d7bbb55db98b7.jpg",
+      "archived": true,
+      "originalPath": "images/f609da71fa7d7bbb55db98b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0599.jpg",
+      "path": "../../nenaudojama/condiments/images/3a5d4717b1f003b3b81e71a8.jpg",
+      "archived": true,
+      "originalPath": "images/3a5d4717b1f003b3b81e71a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlicchipotleaiolisecond.jpg",
+      "path": "../../nenaudojama/condiments/images/9cfc06c3b6b2319b3773dbd2.jpg",
+      "archived": true,
+      "originalPath": "images/9cfc06c3b6b2319b3773dbd2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlicchipotleaiolilong.jpg",
+      "path": "../../nenaudojama/condiments/images/db848a00c0baef099691321b.jpg",
+      "archived": true,
+      "originalPath": "images/db848a00c0baef099691321b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0569-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/3cbc34a0c6292523fb3998d5.jpg",
+      "archived": true,
+      "originalPath": "images/3cbc34a0c6292523fb3998d5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0579-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/c0b3d3fecc9bb8527b305b1a.jpg",
+      "archived": true,
+      "originalPath": "images/c0b3d3fecc9bb8527b305b1a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0583-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/e37a18485599ad8b5ef061d6.jpg",
+      "archived": true,
+      "originalPath": "images/e37a18485599ad8b5ef061d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0588-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/5b5e38180e86aed4b4da91d2.jpg",
+      "archived": true,
+      "originalPath": "images/5b5e38180e86aed4b4da91d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0599-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/ef470797b65d2d183c725320.jpg",
+      "archived": true,
+      "originalPath": "images/ef470797b65d2d183c725320.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/35c2a3ae50d0054300b43c7f.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Roasted Garlic Chipotle Aioli",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Roasted Garlic Chipotle Aioli. The serving comes out to be 1196 calories, 128.3g fats, 7.3g net carbs, and 7.6g protein.",
+    "datePublished": "2014-08-10T15:47:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlicchipotleaioli.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "2 large egg yolk (room temperature)",
+      "1 tablespoon ruled.me roasted garlic",
+      "2 teaspoon lemon juice",
+      "1 teaspoon dijon mustard",
+      "salt and pepper (to taste)",
+      "1/2 cup olive oil",
+      "1/4 cup sour cream",
+      "1/4 teaspoon chipotle seasoning"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Allow the eggs to come to room temperature on the counter, or place them in warm water for about 1–2 minutes. Once done, remove and dry them off.",
+        "name": "Allow the eggs to come to room temperature on the counter, or place them in warm water for about 1–2 minutes. Once done, remove and dry them off.",
+        "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_0569.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, add the egg yolks, roasted garlic, lemon juice, Dijon mustard, and salt and pepper.",
+        "name": "In a food processor, add the egg yolks, roasted garlic, lemon juice, Dijon mustard, and salt and pepper.",
+        "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_0579.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Process until smooth and creamy.",
+        "name": "Process until smooth and creamy.",
+        "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_0583.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the food processor back on and slowly drizzle in the oil, allowing the mixture to emulsify.",
+        "name": "Turn the food processor back on and slowly drizzle in the oil, allowing the mixture to emulsify.",
+        "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_0588.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once thoroughly combined, add the sour cream and chipotle seasoning. Process until smooth and well combined.",
+        "name": "Once thoroughly combined, add the sour cream and chipotle seasoning. Process until smooth and well combined.",
+        "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_0599.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with crackers or dolloped on top of food!",
+        "name": "Serve with crackers or dolloped on top of food!",
+        "url": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#wprm-recipe-51269-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, spicy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1196 kcal",
+      "fatContent": "128.3 g",
+      "proteinContent": "7.6 g",
+      "carbohydrateContent": "7.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/roasted-garlic-chipotle-aioli/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/roasted-garlic-chipotle-aioli/"
+  },
+  "sourceIndex": {
+    "id": 23793,
+    "rid": 51269,
+    "t": "Roasted Garlic Chipotle Aioli",
+    "u": "/roasted-garlic-chipotle-aioli/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/roastedgarlicchipotleaioli.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 7.3,
+    "cal": 1196,
+    "pr": 7.6,
+    "fa": 128.3,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "no-cook"
+    ],
+    "d": "2014-08-10",
+    "cm": 2,
+    "ex": "Mayonnaise is well known among people on a ketogenic diet, but aioli seems to sit in a corner and not get too much attention and love. Well, there's a really easy explanation for this - they're",
+    "pv": 147
+  },
+  "sourceHtml": "pages/roasted-garlic-chipotle-aioli.html",
+  "scrapedAt": "2026-11-07T08:33:34.936Z"
+}

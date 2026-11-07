@@ -1,0 +1,249 @@
+{
+  "id": "ruled-40252",
+  "slug": "zucchini-ribbon-side-salad",
+  "title": "Zucchini Ribbon Side Salad",
+  "url": "https://www.ruled.me/zucchini-ribbon-side-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Zucchini Ribbon Side Salad. Each serving comes out to be 229 calories, 17.1g fats, 6.1g net carbs, and 11.7g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "fatContent": "17.1 g",
+    "proteinContent": "11.7 g",
+    "carbohydrateContent": "6.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 229,
+    "netCarbsGrams": 6.1,
+    "proteinGrams": 11.7,
+    "fatGrams": 17.1
+  },
+  "ingredients": [
+    "2 medium zucchini",
+    "8 slice cooked bacon",
+    "200 gram feta cheese (cubed)",
+    "1 cup cherry tomatoes (chopped)",
+    "4 tablespoon balsamic vinegar"
+  ],
+  "instructions": [
+    {
+      "text": "With a cheese grater or vegetable peeler, slice the zucchini into ribbons.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/zucchini-ribbon-side-salad/#wprm-recipe-56244-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-02.jpg"
+    },
+    {
+      "text": "Place the zucchini ribbons into a salad bowl. Top with the cherry tomatoes, bacon, and cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/zucchini-ribbon-side-salad/#wprm-recipe-56244-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-03.jpg"
+    },
+    {
+      "text": "Drizzle with the balsamic vinegar then toss before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/zucchini-ribbon-side-salad/#wprm-recipe-56244-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "make-ahead",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/b2df113a81d8c33b6362a68b.jpg",
+      "archived": true,
+      "originalPath": "images/b2df113a81d8c33b6362a68b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-featured.jpg",
+      "path": "images/b887e2a44875b0b8cdbf76bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/9da1790ef16b0d9b6b806db1.jpg",
+      "archived": true,
+      "originalPath": "images/9da1790ef16b0d9b6b806db1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-03.jpg",
+      "path": "../../nenaudojama/lunch/images/200082ce775a296c6dfce379.jpg",
+      "archived": true,
+      "originalPath": "images/200082ce775a296c6dfce379.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-seond.jpg",
+      "path": "../../nenaudojama/lunch/images/fde55cf2cefc80214f6d49ce.jpg",
+      "archived": true,
+      "originalPath": "images/fde55cf2cefc80214f6d49ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/2d772901395423bbcb0b75fe.avif",
+      "archived": true,
+      "originalPath": "images/2d772901395423bbcb0b75fe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/689866bc4f4e5ae4d35538c8.jpg",
+      "archived": true,
+      "originalPath": "images/689866bc4f4e5ae4d35538c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e400f9bf76d832d4f6626ca4.jpg",
+      "archived": true,
+      "originalPath": "images/e400f9bf76d832d4f6626ca4.jpg"
+    }
+  ],
+  "featuredImage": "images/b887e2a44875b0b8cdbf76bb.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Zucchini Ribbon Side Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Zucchini Ribbon Side Salad. Each serving comes out to be 229 calories, 17.1g fats, 6.1g net carbs, and 11.7g protein.",
+    "datePublished": "2019-05-16T09:00:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "2 medium zucchini",
+      "8 slice cooked bacon",
+      "200 gram feta cheese (cubed)",
+      "1 cup cherry tomatoes (chopped)",
+      "4 tablespoon balsamic vinegar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "With a cheese grater or vegetable peeler, slice the zucchini into ribbons.",
+        "name": "With a cheese grater or vegetable peeler, slice the zucchini into ribbons.",
+        "url": "https://www.ruled.me/zucchini-ribbon-side-salad/#wprm-recipe-56244-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the zucchini ribbons into a salad bowl. Top with the cherry tomatoes, bacon, and cheese.",
+        "name": "Place the zucchini ribbons into a salad bowl. Top with the cherry tomatoes, bacon, and cheese.",
+        "url": "https://www.ruled.me/zucchini-ribbon-side-salad/#wprm-recipe-56244-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle with the balsamic vinegar then toss before serving.",
+        "name": "Drizzle with the balsamic vinegar then toss before serving.",
+        "url": "https://www.ruled.me/zucchini-ribbon-side-salad/#wprm-recipe-56244-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, packed-lunch, pork, quick, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "229 kcal",
+      "fatContent": "17.1 g",
+      "proteinContent": "11.7 g",
+      "carbohydrateContent": "6.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/zucchini-ribbon-side-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/zucchini-ribbon-side-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/zucchini-ribbon-side-salad/"
+  },
+  "sourceIndex": {
+    "id": 40252,
+    "rid": 56244,
+    "t": "Zucchini Ribbon Side Salad",
+    "u": "/zucchini-ribbon-side-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/04/zucchini-ribbon-side-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.1,
+    "cal": 229,
+    "pr": 11.7,
+    "fa": 17.1,
+    "tm": 10,
+    "sv": 5,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "make-ahead",
+      "pork"
+    ],
+    "d": "2019-05-16",
+    "cm": 0,
+    "ex": "No lettuce in this salad! Just zucchini, crispy bacon, feta, and shiny red cherry tomatoes. Topped with some balsamic vinegar, this inviting dish is a great side salad for any meal. To make zucchini",
+    "pv": 59
+  },
+  "sourceHtml": "pages/zucchini-ribbon-side-salad.html",
+  "scrapedAt": "2026-11-07T08:16:26.245Z"
+}

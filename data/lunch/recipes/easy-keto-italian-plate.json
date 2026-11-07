@@ -1,0 +1,235 @@
+{
+  "id": "ruled-42621",
+  "slug": "easy-keto-italian-plate",
+  "title": "Easy Keto Italian Plate",
+  "url": "https://www.ruled.me/easy-keto-italian-plate/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Easy Keto Italian Plate. Each serving comes out to be 781 calories, 60.7g fats, 5.9g net carbs, and 50.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "781 kcal",
+    "fatContent": "60.7 g",
+    "proteinContent": "50.9 g",
+    "carbohydrateContent": "5.9 g"
+  },
+  "nutritionPerServing": {
+    "calories": 781,
+    "netCarbsGrams": 5.9,
+    "proteinGrams": 50.9,
+    "fatGrams": 60.7
+  },
+  "ingredients": [
+    "7 ounce fresh mozzarella cheese",
+    "7 ounce prosciutto",
+    "2 medium fresh tomatoes (sliced)",
+    "4 tablespoon olive oil",
+    "10 whole green olive",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Arrange the mozzarella, prosciutto, tomato, and olives on a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-italian-plate/#wprm-recipe-53291-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-01.jpg"
+    },
+    {
+      "text": "Season the cheese and tomato with salt and pepper. Serve with olive oil for drizzling or dipping.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-italian-plate/#wprm-recipe-53291-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/b21a678e3ca12e9c5ddb3e51.avif",
+      "archived": true,
+      "originalPath": "images/b21a678e3ca12e9c5ddb3e51.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-featured.jpg",
+      "path": "images/331f32d0e103de199c73e6f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-01.jpg",
+      "path": "../../nenaudojama/lunch/images/c019bc74f38140457319ee3f.jpg",
+      "archived": true,
+      "originalPath": "images/c019bc74f38140457319ee3f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-second.jpg",
+      "path": "../../nenaudojama/lunch/images/2f8ff728e5cd9531ba3765a2.jpg",
+      "archived": true,
+      "originalPath": "images/2f8ff728e5cd9531ba3765a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/1f8be03be9b507299da5d097.jpg",
+      "archived": true,
+      "originalPath": "images/1f8be03be9b507299da5d097.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/8f3936bb1d8ee39b6ad32cb5.jpg",
+      "archived": true,
+      "originalPath": "images/8f3936bb1d8ee39b6ad32cb5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/800c072a38838d8753860878.jpg",
+      "archived": true,
+      "originalPath": "images/800c072a38838d8753860878.jpg"
+    }
+  ],
+  "featuredImage": "images/331f32d0e103de199c73e6f2.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Easy Keto Italian Plate",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Easy Keto Italian Plate. Each serving comes out to be 781 calories, 60.7g fats, 5.9g net carbs, and 50.9g protein.",
+    "datePublished": "2020-03-12T09:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "7 ounce fresh mozzarella cheese",
+      "7 ounce prosciutto",
+      "2 medium fresh tomatoes (sliced)",
+      "4 tablespoon olive oil",
+      "10 whole green olive",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the mozzarella, prosciutto, tomato, and olives on a plate.",
+        "name": "Arrange the mozzarella, prosciutto, tomato, and olives on a plate.",
+        "url": "https://www.ruled.me/easy-keto-italian-plate/#wprm-recipe-53291-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the cheese and tomato with salt and pepper. Serve with olive oil for drizzling or dipping.",
+        "name": "Season the cheese and tomato with salt and pepper. Serve with olive oil for drizzling or dipping.",
+        "url": "https://www.ruled.me/easy-keto-italian-plate/#wprm-recipe-53291-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, packed-lunch, pork, quick, simple &amp; easy, simple-and-easy, sugar-free, summer",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "781 kcal",
+      "fatContent": "60.7 g",
+      "proteinContent": "50.9 g",
+      "carbohydrateContent": "5.9 g"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/easy-keto-italian-plate/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/easy-keto-italian-plate/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/easy-keto-italian-plate/"
+  },
+  "sourceIndex": {
+    "id": 42621,
+    "rid": 53291,
+    "t": "Easy Keto Italian Plate",
+    "u": "/easy-keto-italian-plate/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/03/keto-italian-snack-plate-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.9,
+    "cal": 781,
+    "pr": 50.9,
+    "fa": 60.7,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2020-03-12",
+    "cm": 0,
+    "ex": "This easy Italian plate packs in the healthy fats but feels like a light lunch. A generous assortment of fresh mozzarella cheese, sliced prosciutto, green olives, and tomatoes are drizzled with olive",
+    "pv": 194
+  },
+  "sourceHtml": "pages/easy-keto-italian-plate.html",
+  "scrapedAt": "2026-11-07T08:16:05.923Z"
+}

@@ -1,0 +1,355 @@
+{
+  "id": "ruled-24580",
+  "slug": "pork-carne-asada-tacos",
+  "title": "Pork Carne Asada Tacos",
+  "url": "https://www.ruled.me/pork-carne-asada-tacos/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Pork Carne Asada Tacos. Per 2 tacos with fillings, this comes out to be 718 Calories, 67.6g Fats, 3.2g Net Carbs, and 35.7g Protein.",
+  "servings": 3,
+  "yield": [
+    "3"
+  ],
+  "prepTime": "PT45M",
+  "cookTime": "PT10M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "718 kcal",
+    "fatContent": "67.6 g",
+    "proteinContent": "35.7 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 718,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 35.7,
+    "fatGrams": 67.6
+  },
+  "ingredients": [
+    "1 lb. Cooked Pork Shoulder",
+    "1 tbsp. Olive Oil",
+    "1/2 tsp. Chipotle Powder",
+    "1/2 tsp. Salt",
+    "1/4 tsp. Onion Powder",
+    "1/4 tsp. Garlic Powder",
+    "1/4 tsp. Pepper",
+    "1/4 tsp. Oregano",
+    "3/4 medium Yellow Pepper",
+    "1 medium Jalapeno Pepper",
+    "1 tbsp. Olive Oil",
+    "6 thin Flax Tortillas",
+    "1 cup Romaine Lettuce (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Make flax tortillas, but thin them out further by following instructions in the post.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4711.jpg"
+    },
+    {
+      "text": "Chop 1 lb. of pork up into cubes - or shred with your fingers depending on which part you are using.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4720.jpg"
+    },
+    {
+      "text": "Marinade pork in spices and oil in a tightly rolled plastic bag for 30-45 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4729.jpg"
+    },
+    {
+      "text": "Chop vegetables and saute on high heat in 1 tbsp. olive oil until cooked. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4738.jpg"
+    },
+    {
+      "text": "Cook pork on high heat until well crisped and browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_4754.jpg"
+    },
+    {
+      "text": "Assemble tacos with lettuce, pork, and vegetables. Top with sour cream and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porktacos.jpg",
+      "path": "images/d8c82339ad544cc70b4295ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4711.jpg",
+      "path": "../../nenaudojama/dinner/images/257d65729f4d9aab2676eee8.avif",
+      "archived": true,
+      "originalPath": "images/257d65729f4d9aab2676eee8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4720.jpg",
+      "path": "../../nenaudojama/dinner/images/01433c137a9acc99432de627.avif",
+      "archived": true,
+      "originalPath": "images/01433c137a9acc99432de627.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4729.jpg",
+      "path": "../../nenaudojama/dinner/images/8681bb74a6900c68b70681d7.avif",
+      "archived": true,
+      "originalPath": "images/8681bb74a6900c68b70681d7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4738.jpg",
+      "path": "../../nenaudojama/dinner/images/10d011588bd9d5e5e9b43769.avif",
+      "archived": true,
+      "originalPath": "images/10d011588bd9d5e5e9b43769.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4754.jpg",
+      "path": "../../nenaudojama/dinner/images/5a399e04e048a221a01925dc.jpg",
+      "archived": true,
+      "originalPath": "images/5a399e04e048a221a01925dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porktacossecond.jpg",
+      "path": "../../nenaudojama/dinner/images/3e2d6a959ef5972d3ad0457f.avif",
+      "archived": true,
+      "originalPath": "images/3e2d6a959ef5972d3ad0457f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porktacoslong1.jpg",
+      "path": "../../nenaudojama/dinner/images/f635ae69586b0bfa938fed19.avif",
+      "archived": true,
+      "originalPath": "images/f635ae69586b0bfa938fed19.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4731.jpg",
+      "path": "../../nenaudojama/dinner/images/78e69de7c340724c6227e0c0.avif",
+      "archived": true,
+      "originalPath": "images/78e69de7c340724c6227e0c0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4746.jpg",
+      "path": "../../nenaudojama/dinner/images/7778cb165e2a6ad528c5b585.avif",
+      "archived": true,
+      "originalPath": "images/7778cb165e2a6ad528c5b585.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/porktacoslong.jpg",
+      "path": "../../nenaudojama/dinner/images/22bc4a5211ef2b0cfca487bc.jpg",
+      "archived": true,
+      "originalPath": "images/22bc4a5211ef2b0cfca487bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4711-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f6f8e1352a4f5c90b6693e51.jpg",
+      "archived": true,
+      "originalPath": "images/f6f8e1352a4f5c90b6693e51.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4720-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/14ef387659f987a29a9e4772.avif",
+      "archived": true,
+      "originalPath": "images/14ef387659f987a29a9e4772.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4729-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3bbce150a0f8b659acc60224.avif",
+      "archived": true,
+      "originalPath": "images/3bbce150a0f8b659acc60224.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4738-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5fbafe7f2a393cb71381a937.jpg",
+      "archived": true,
+      "originalPath": "images/5fbafe7f2a393cb71381a937.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_4754-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d377a21467f2c768b221da4d.avif",
+      "archived": true,
+      "originalPath": "images/d377a21467f2c768b221da4d.avif"
+    }
+  ],
+  "featuredImage": "images/d8c82339ad544cc70b4295ce.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pork Carne Asada Tacos",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Pork Carne Asada Tacos. Per 2 tacos with fillings, this comes out to be 718 Calories, 67.6g Fats, 3.2g Net Carbs, and 35.7g Protein.",
+    "datePublished": "2014-09-11T14:17:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/porktacos.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Pork Carne Asada Tacos [with Flax Tortillas]",
+      "description": "It’s not often that I say that I’m having pork tacos on a ketogenic diet, but you can have your tacos and eat them too! The cilantro, lettuce, and sour cream really give the tacos a fresh bite, every bite. A slightly different flavor in each mouthful as you rip out peppers in some bites, jalapenos in others, and more sour cream for a refreshing cool-down.\n\nFeel free to use any toppings you’d like! If you’re fasting and need the extra calories – go for some avocado. The creaminess of the avocado and sour cream would be a great offset to the crisp and crunchy textures of the pork and lettuce.\n\nI used a tortilla press to flatten the tortillas, then left them out on the counter-top. When they’re first pressed, they’re slightly damp to the touch. I like to leave them out to allow for some of that moisture to evaporate, then roll them even thinner with a rolling pin. This helps with the formation process and will allow for a bigger tortilla that can hold all of the fillings.\n\nInstead of following the flax tortilla recipe exactly, feel free to spice up your tortillas with whatever you’d like. I used some red pepper flakes, oregano, garlic, and onion powder. A nice little mixture to help the flavors of the pork come through.\n\nMake sure that prior to wanting to use the tortillas, you give them a quick toast in a hot pan with no oil. This will give some texture and bite to the tortillas so they actually taste authentic! You can also make and save the tortillas in advance. They do get a little moist as they’re sitting in the fridge, so it’s best that you make them and store them, then give a quick toast as needed.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 pound cooked pork shoulder (Recipe for Pork Here:\n1 tablespoon olive oil\n½ teaspoon chipotle powder\n½ teaspoon salt\n¼ teaspoon onion powder\n¼ teaspoon garlic powder\n¼ teaspoon pepper\n¼ teaspoon oregano\n¾ medium yellow pepper\n1 medium jalapeno pepper\n1 tablespoon olive oil\n6 thin flax tortillas (Recipe for Flax Tortillas Here:\n1 cup romaine lettuce, shredded\n\nNutrition Summary: This makes a total of 3 servings of Pork Carne Asada Tacos. Per 2 tacos with fillings, this comes out to be 718 Calories, 67.6g Fats, 3.2g Net Carbs, and 35.7g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-02-18T15:00:00+00:00",
+      "duration": "PT3M48S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1F1eBrsd2A8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/1F1eBrsd2A8?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=1F1eBrsd2A8",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3"
+    ],
+    "prepTime": "PT45M",
+    "cookTime": "PT10M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "1 lb. Cooked Pork Shoulder",
+      "1 tbsp. Olive Oil",
+      "1/2 tsp. Chipotle Powder",
+      "1/2 tsp. Salt",
+      "1/4 tsp. Onion Powder",
+      "1/4 tsp. Garlic Powder",
+      "1/4 tsp. Pepper",
+      "1/4 tsp. Oregano",
+      "3/4 medium Yellow Pepper",
+      "1 medium Jalapeno Pepper",
+      "1 tbsp. Olive Oil",
+      "6 thin Flax Tortillas",
+      "1 cup Romaine Lettuce (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Make flax tortillas, but thin them out further by following instructions in the post.",
+        "name": "Make flax tortillas, but thin them out further by following instructions in the post.",
+        "url": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4711.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop 1 lb. of pork up into cubes - or shred with your fingers depending on which part you are using.",
+        "name": "Chop 1 lb. of pork up into cubes - or shred with your fingers depending on which part you are using.",
+        "url": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4720.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Marinade pork in spices and oil in a tightly rolled plastic bag for 30-45 minutes.",
+        "name": "Marinade pork in spices and oil in a tightly rolled plastic bag for 30-45 minutes.",
+        "url": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4729.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop vegetables and saute on high heat in 1 tbsp. olive oil until cooked. Set aside.",
+        "name": "Chop vegetables and saute on high heat in 1 tbsp. olive oil until cooked. Set aside.",
+        "url": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4738.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook pork on high heat until well crisped and browned.",
+        "name": "Cook pork on high heat until well crisped and browned.",
+        "url": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_4754.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble tacos with lettuce, pork, and vegetables. Top with sour cream and enjoy!",
+        "name": "Assemble tacos with lettuce, pork, and vegetables. Top with sour cream and enjoy!",
+        "url": "https://www.ruled.me/pork-carne-asada-tacos/#wprm-recipe-51403-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "718 kcal",
+      "fatContent": "67.6 g",
+      "proteinContent": "35.7 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pork-carne-asada-tacos/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pork-carne-asada-tacos/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pork-carne-asada-tacos/"
+  },
+  "sourceIndex": {
+    "id": 24580,
+    "rid": 51403,
+    "t": "Pork Carne Asada Tacos",
+    "u": "/pork-carne-asada-tacos/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/porktacos.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.2,
+    "cal": 718,
+    "pr": 35.7,
+    "fa": 67.6,
+    "tm": 55,
+    "sv": 3,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 13,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-09-11",
+    "cm": 4,
+    "ex": "It's not often that I say that I'm having pork tacos on a ketogenic diet, but you can have your tacos and eat them too! The cilantro, lettuce, and sour cream really give the tacos a fresh bite, every",
+    "pv": 1399
+  },
+  "sourceHtml": "pages/pork-carne-asada-tacos.html",
+  "scrapedAt": "2026-11-07T08:27:45.016Z"
+}

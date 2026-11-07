@@ -1,0 +1,303 @@
+{
+  "id": "ruled-40092",
+  "slug": "simple-radish-salad",
+  "title": "Simple Radish Salad",
+  "url": "https://www.ruled.me/simple-radish-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Simple Radish Salad. Each serving comes out to be 253 calories, 22.5g fats, 3.9g net carbs, and 8.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "253 kcal",
+    "fatContent": "22.5 g",
+    "proteinContent": "8.5 g",
+    "carbohydrateContent": "3.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 253,
+    "netCarbsGrams": 3.9,
+    "proteinGrams": 8.5,
+    "fatGrams": 22.5
+  },
+  "ingredients": [
+    "100 gram arugula",
+    "1 cup radish (sliced)",
+    "1/2 cup onion (chopped)",
+    "1/2 cup grated parmesan cheese",
+    "5 tablespoon olive oil",
+    "1/2 tablespoon dijon mustard",
+    "1/4 cup grated parmesan cheese",
+    "1 teaspoon garlic powder",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Place your lettuce, radish, and onion into a salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-03.jpg"
+    },
+    {
+      "text": "In a smaller bowl, whisk together 3/5 of the olive oil, mustard, Parmesan cheese, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-04.jpg"
+    },
+    {
+      "text": "Add in your garlic powder and remaining olive oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-05.jpg"
+    },
+    {
+      "text": "If the dressing is too thick, you can either add in extra olive oil or some water to your desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-06.jpg"
+    },
+    {
+      "text": "Divide the salad up into individual servings. Top with the dressing and remaining Parmesan cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/2e19e9e83343de9329448764.jpg",
+      "archived": true,
+      "originalPath": "images/2e19e9e83343de9329448764.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/a140806fafeecc6fd62f10e7.jpg",
+      "archived": true,
+      "originalPath": "images/a140806fafeecc6fd62f10e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-03.jpg",
+      "path": "../../nenaudojama/side-items/images/5c56aca5df6b5ed12b118d0c.jpg",
+      "archived": true,
+      "originalPath": "images/5c56aca5df6b5ed12b118d0c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-04.jpg",
+      "path": "../../nenaudojama/side-items/images/da722bff229a7d15bf89c1f7.jpg",
+      "archived": true,
+      "originalPath": "images/da722bff229a7d15bf89c1f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-05.jpg",
+      "path": "../../nenaudojama/side-items/images/b833a56e8d2f5bb7e1a62861.jpg",
+      "archived": true,
+      "originalPath": "images/b833a56e8d2f5bb7e1a62861.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-06.jpg",
+      "path": "../../nenaudojama/side-items/images/f2be1fe6e407eae3ff4007a9.jpg",
+      "archived": true,
+      "originalPath": "images/f2be1fe6e407eae3ff4007a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-second.jpg",
+      "path": "../../nenaudojama/side-items/images/06778592ff7b2b32c96dcedd.jpg",
+      "archived": true,
+      "originalPath": "images/06778592ff7b2b32c96dcedd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/84e571c468bd1c6ecf9ff318.avif",
+      "archived": true,
+      "originalPath": "images/84e571c468bd1c6ecf9ff318.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-03-543x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3c166f6d3e85aa44c3be3454.jpg",
+      "archived": true,
+      "originalPath": "images/3c166f6d3e85aa44c3be3454.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/96efb12f89b2d78dda0480db.jpg",
+      "archived": true,
+      "originalPath": "images/96efb12f89b2d78dda0480db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/fed27040ac345db5b544bcce.jpg",
+      "archived": true,
+      "originalPath": "images/fed27040ac345db5b544bcce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-06-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/dff18d06713a62ee42949a3e.jpg",
+      "archived": true,
+      "originalPath": "images/dff18d06713a62ee42949a3e.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/a140806fafeecc6fd62f10e7.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple Radish Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Simple Radish Salad. Each serving comes out to be 253 calories, 22.5g fats, 3.9g net carbs, and 8.5g protein.",
+    "datePublished": "2019-04-18T11:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "100 gram arugula",
+      "1 cup radish (sliced)",
+      "1/2 cup onion (chopped)",
+      "1/2 cup grated parmesan cheese",
+      "5 tablespoon olive oil",
+      "1/2 tablespoon dijon mustard",
+      "1/4 cup grated parmesan cheese",
+      "1 teaspoon garlic powder",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place your lettuce, radish, and onion into a salad bowl.",
+        "name": "Place your lettuce, radish, and onion into a salad bowl.",
+        "url": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a smaller bowl, whisk together 3/5 of the olive oil, mustard, Parmesan cheese, and pepper.",
+        "name": "In a smaller bowl, whisk together 3/5 of the olive oil, mustard, Parmesan cheese, and pepper.",
+        "url": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in your garlic powder and remaining olive oil.",
+        "name": "Add in your garlic powder and remaining olive oil.",
+        "url": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "If the dressing is too thick, you can either add in extra olive oil or some water to your desired consistency.",
+        "name": "If the dressing is too thick, you can either add in extra olive oil or some water to your desired consistency.",
+        "url": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the salad up into individual servings. Top with the dressing and remaining Parmesan cheese.",
+        "name": "Divide the salad up into individual servings. Top with the dressing and remaining Parmesan cheese.",
+        "url": "https://www.ruled.me/simple-radish-salad/#wprm-recipe-52950-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, packed-lunch, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "253 kcal",
+      "fatContent": "22.5 g",
+      "proteinContent": "8.5 g",
+      "carbohydrateContent": "3.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/simple-radish-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-radish-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-radish-salad/"
+  },
+  "sourceIndex": {
+    "id": 40092,
+    "rid": 52950,
+    "t": "Simple Radish Salad",
+    "u": "/simple-radish-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/03/simple-radish-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.9,
+    "cal": 253,
+    "pr": 8.5,
+    "fa": 22.5,
+    "tm": 5,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2019-04-18",
+    "cm": 0,
+    "ex": "This recipe is an incredibly simple salad that requires no cooking at all! The radish slices provide a nice crunch that goes well with the garlic Parmesan dressing! I used an arugula mix for the",
+    "pv": 39
+  },
+  "sourceHtml": "pages/simple-radish-salad.html",
+  "scrapedAt": "2026-11-07T08:32:17.687Z"
+}

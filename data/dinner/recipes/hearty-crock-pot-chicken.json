@@ -1,0 +1,380 @@
+{
+  "id": "ruled-2087",
+  "slug": "hearty-crock-pot-chicken",
+  "title": "Hearty Crock-Pot Chicken Stew",
+  "url": "https://www.ruled.me/hearty-crock-pot-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Hearty Crock-Pot Chicken Stew. Each serving comes out to be 317 calories, 20g fats, 4.9g net carbs, and 31.9g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT480M",
+  "totalTime": "PT490M",
+  "totalMinutes": 490,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "fatContent": "20 g",
+    "proteinContent": "31.9 g",
+    "carbohydrateContent": "4.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 317,
+    "netCarbsGrams": 4.9,
+    "proteinGrams": 31.9,
+    "fatGrams": 20
+  },
+  "ingredients": [
+    "1 medium green bell pepper",
+    "3 cup button mushrooms",
+    "48 ounce boneless, skinless chicken thighs",
+    "1 1/2 cup low-carb tomato sauce (such as Rao's)",
+    "1/2 cup fresh tomatoes (sliced)",
+    "2 teaspoon fresh garlic (minced)",
+    "2 teaspoon ranch seasoning",
+    "2 teaspoon paprika",
+    "1 teaspoon crushed red pepper flakes",
+    "1 teaspoon dried oregano",
+    "1/3 cup hot sauce (such as Frank's)",
+    "3 tablespoon butter"
+  ],
+  "instructions": [
+    {
+      "text": "Thinly slice the peppers and mushrooms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-01.jpg"
+    },
+    {
+      "text": "Add the chicken thighs, tomato sauce, sliced tomatoes, garlic, spices, and hot sauce to the slow cooker and set the heat to high.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-02.jpg"
+    },
+    {
+      "text": "Add the sliced peppers and mushrooms and mix everything together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-03.jpg"
+    },
+    {
+      "text": "Let cook on high for 2 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-04.jpg"
+    },
+    {
+      "text": "Turn the heat down to low and give the ingredients a good stir. Let cook for another 3–5 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-05.jpg"
+    },
+    {
+      "text": "Add the butter and mix everything together. Let cook for 1 more hour without the lid on, to allow the sauce to reduce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-06.jpg"
+    },
+    {
+      "text": "Serve hot or keep in the fridge for later — this saves well and can be reheated in the microwave!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-07.jpg"
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "nut-free",
+    "poultry",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/8f62dc721f3d07aeacfff537.avif",
+      "archived": true,
+      "originalPath": "images/8f62dc721f3d07aeacfff537.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-featured.jpg",
+      "path": "images/9c1f000d705e92ca7351bc9c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-01.jpg",
+      "path": "../../nenaudojama/dinner/images/9204ae31f01b6a0da3208f68.avif",
+      "archived": true,
+      "originalPath": "images/9204ae31f01b6a0da3208f68.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-02.jpg",
+      "path": "../../nenaudojama/dinner/images/d54b59ba2acf4b12c1e7ac4a.avif",
+      "archived": true,
+      "originalPath": "images/d54b59ba2acf4b12c1e7ac4a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-03.jpg",
+      "path": "../../nenaudojama/dinner/images/084f06d4efc5c3c268e135ea.avif",
+      "archived": true,
+      "originalPath": "images/084f06d4efc5c3c268e135ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-04.jpg",
+      "path": "../../nenaudojama/dinner/images/4a2b64d5798720b461ceb54e.jpg",
+      "archived": true,
+      "originalPath": "images/4a2b64d5798720b461ceb54e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-05.jpg",
+      "path": "../../nenaudojama/dinner/images/1991ed6030e5af984251388c.avif",
+      "archived": true,
+      "originalPath": "images/1991ed6030e5af984251388c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-06.jpg",
+      "path": "../../nenaudojama/dinner/images/289aa06a5b912e4c004ae68d.avif",
+      "archived": true,
+      "originalPath": "images/289aa06a5b912e4c004ae68d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-07.jpg",
+      "path": "../../nenaudojama/dinner/images/fc472bcec0775b1f46378eb7.jpg",
+      "archived": true,
+      "originalPath": "images/fc472bcec0775b1f46378eb7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-second.jpg",
+      "path": "../../nenaudojama/dinner/images/efc05fca0d8d04c83649fd54.avif",
+      "archived": true,
+      "originalPath": "images/efc05fca0d8d04c83649fd54.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-08.jpg",
+      "path": "../../nenaudojama/dinner/images/6ddee81b598cbbbcdf4fe112.avif",
+      "archived": true,
+      "originalPath": "images/6ddee81b598cbbbcdf4fe112.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/6cab5ffb7cffdf621ede38e0.avif",
+      "archived": true,
+      "originalPath": "images/6cab5ffb7cffdf621ede38e0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/39e193bfd7d3bad5fb0d198f.jpg",
+      "archived": true,
+      "originalPath": "images/39e193bfd7d3bad5fb0d198f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6b7f00ab4532fffdf94f5a15.avif",
+      "archived": true,
+      "originalPath": "images/6b7f00ab4532fffdf94f5a15.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/90a338997e6090a774ec83ce.jpg",
+      "archived": true,
+      "originalPath": "images/90a338997e6090a774ec83ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0ef2c39e53926866ff21e4b9.jpg",
+      "archived": true,
+      "originalPath": "images/0ef2c39e53926866ff21e4b9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c1185b5319116d3087df58ac.jpg",
+      "archived": true,
+      "originalPath": "images/c1185b5319116d3087df58ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/91a6fe1dfada8c4915564477.avif",
+      "archived": true,
+      "originalPath": "images/91a6fe1dfada8c4915564477.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/68a8d5ec17cc58824b40a530.avif",
+      "archived": true,
+      "originalPath": "images/68a8d5ec17cc58824b40a530.avif"
+    }
+  ],
+  "featuredImage": "images/9c1f000d705e92ca7351bc9c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Hearty Crock-Pot Chicken Stew",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Hearty Crock-Pot Chicken Stew. Each serving comes out to be 317 calories, 20g fats, 4.9g net carbs, and 31.9g protein.",
+    "datePublished": "2013-11-17T19:21:30+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT480M",
+    "totalTime": "PT490M",
+    "recipeIngredient": [
+      "1 medium green bell pepper",
+      "3 cup button mushrooms",
+      "48 ounce boneless, skinless chicken thighs",
+      "1 1/2 cup low-carb tomato sauce (such as Rao's)",
+      "1/2 cup fresh tomatoes (sliced)",
+      "2 teaspoon fresh garlic (minced)",
+      "2 teaspoon ranch seasoning",
+      "2 teaspoon paprika",
+      "1 teaspoon crushed red pepper flakes",
+      "1 teaspoon dried oregano",
+      "1/3 cup hot sauce (such as Frank's)",
+      "3 tablespoon butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the peppers and mushrooms.",
+        "name": "Thinly slice the peppers and mushrooms.",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken thighs, tomato sauce, sliced tomatoes, garlic, spices, and hot sauce to the slow cooker and set the heat to high.",
+        "name": "Add the chicken thighs, tomato sauce, sliced tomatoes, garlic, spices, and hot sauce to the slow cooker and set the heat to high.",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced peppers and mushrooms and mix everything together well.",
+        "name": "Add the sliced peppers and mushrooms and mix everything together well.",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cook on high for 2 hours.",
+        "name": "Let cook on high for 2 hours.",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the heat down to low and give the ingredients a good stir. Let cook for another 3–5 hours.",
+        "name": "Turn the heat down to low and give the ingredients a good stir. Let cook for another 3–5 hours.",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter and mix everything together. Let cook for 1 more hour without the lid on, to allow the sauce to reduce.",
+        "name": "Add the butter and mix everything together. Let cook for 1 more hour without the lid on, to allow the sauce to reduce.",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot or keep in the fridge for later — this saves well and can be reheated in the microwave!",
+        "name": "Serve hot or keep in the fridge for later — this saves well and can be reheated in the microwave!",
+        "url": "https://www.ruled.me/hearty-crock-pot-chicken/#wprm-recipe-50445-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-07.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "keywords": "batch-cooking, comfort-food, egg-free, gluten-free, high-protein, keto, low-carb, make-ahead, meal-prep, nut-free, poultry, simple &amp; easy, slow cooker, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "317 kcal",
+      "fatContent": "20 g",
+      "proteinContent": "31.9 g",
+      "carbohydrateContent": "4.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/hearty-crock-pot-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/hearty-crock-pot-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/hearty-crock-pot-chicken/"
+  },
+  "sourceIndex": {
+    "id": 2087,
+    "rid": 50445,
+    "t": "Hearty Crock Pot Chicken Stew",
+    "u": "/hearty-crock-pot-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/11/crockpot-chicken-stew-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.9,
+    "cal": 317,
+    "pr": 31.9,
+    "fa": 20,
+    "tm": 490,
+    "sv": 8,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "nut-free",
+      "poultry",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2013-11-17",
+    "cm": 6,
+    "ex": "So I've had these chicken thighs sitting around for a while, and I couldn't decide what to do with them. I didn't want to only grill them, so I decided to get the crock pot out and make some sort of",
+    "pv": 684
+  },
+  "sourceHtml": "pages/hearty-crock-pot-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:45.360Z"
+}

@@ -1,0 +1,559 @@
+{
+  "id": "ruled-29399",
+  "slug": "keto-faux-sous-vide-egg-bites",
+  "title": "Keto Faux Sous Vide Egg Bites",
+  "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "Each Bacon & Gruyere Egg Bite comes out to be: 140.63 Calories, 11.05g Fats,0.65g Net Carbs, and 9.19g Protein. Each Red Pepper & Spinach Egg Bite comes out to be: 93.13 Calories, 6.75g Fats, 0.86g Net Carbs, and 6.79g Protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 egg bites"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140.63 kcal",
+    "fatContent": "11.05 g",
+    "proteinContent": "9.19 g",
+    "carbohydrateContent": "0.65 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 140.63,
+    "netCarbsGrams": 0.65,
+    "proteinGrams": 9.19,
+    "fatGrams": 11.05
+  },
+  "ingredients": [
+    "6 strips bacon (cooked)",
+    "6 large eggs",
+    "¼ cup cottage cheese",
+    "2 tablespoons chopped chives",
+    "1 ounce gruyere cheese (grated)",
+    "2 tablespoons monterey jack cheese (grated)",
+    "1 teaspoon hot sauce",
+    "2 tablespoons butter",
+    "Salt (pepper, and additional seasonings to taste.)",
+    "6 large eggs",
+    "¼ cup cottage cheese",
+    "¼ medium red bell pepper (roasted and diced)",
+    "¼ cup chopped spinach",
+    "1 ounce monterey jack cheese (grated)",
+    "2 tablespoons parmesan cheese",
+    "1 tablespoon butter",
+    "Salt (pepper, and additional seasonings to taste.)"
+  ],
+  "instructions": [
+    {
+      "text": "If you're making bacon, go ahead and put that in the oven now. Otherwise, skip this step by purchasing pre-cooked bacon.",
+      "group": "Bacon & Gruyere",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/CookBaconinOven.jpg"
+    },
+    {
+      "text": "Crack 6 eggs into a container, then add 1/4 cup cottage cheese to your eggs.",
+      "group": "Bacon & Gruyere",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/AddCottageCheesetoMixture.jpg"
+    },
+    {
+      "text": "Chop the chives into small pieces. Set aside.",
+      "group": "Bacon & Gruyere",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/ChopChives.jpg"
+    },
+    {
+      "text": "Grate the cheeses and add into the mixture. Add seasoning, chives, hot sauce, and butter. Blend smooth.",
+      "group": "Bacon & Gruyere",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/GrateCheeseAddSeasoning.jpg"
+    },
+    {
+      "text": "Add water to the bottom of your poaching pan. Then, turn to medium-high heat. Press 3/4 - 1 slice of bacon in the bottom of each well.",
+      "group": "Bacon & Gruyere",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/PressBaconintoPan.jpg"
+    },
+    {
+      "text": "Once the water underneath is streaming steadily, turn heat down to medium. Fill each well with the egg mixture, covering the bacon at the bottom. Cover and cook for 5-7 minutes or until the centers do not jiggle.",
+      "group": "Bacon & Gruyere",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/FullyCookedEggBite.jpg"
+    },
+    {
+      "text": "Crack 6 eggs into a container, then add 1/4 cup cottage cheese to your eggs.",
+      "group": "Red Pepper & Spinach",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/CrackEggsAddCottageCheese.jpg"
+    },
+    {
+      "text": "Dice the red pepper and spinach and set aside.",
+      "group": "Red Pepper & Spinach",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/ChopSpinachandRedPepper.jpg"
+    },
+    {
+      "text": "Grate the cheeses and add into the mixture. Add seasoning and blend smooth.",
+      "group": "Red Pepper & Spinach",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/AddGratedCheesetoMixture.jpg"
+    },
+    {
+      "text": "Heat butter in a pan on high heat. Once hot and bubbling, add red peppers. Cook until browned on the outside. You can skip this step by purchasing pre-roasted red peppers.",
+      "group": "Red Pepper & Spinach",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/CookPeppersUntilCrisp.jpg"
+    },
+    {
+      "text": "Add spinach and red pepper to the blended egg mixture. Stir well to combine.",
+      "group": "Red Pepper & Spinach",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/AddRestOfIngredientsandMix.jpg"
+    },
+    {
+      "text": "Add water to the bottom of your poaching pan. Then, turn to medium-high heat. Once the water underneath is streaming steadily, turn heat down to medium. Fill each well with the egg mixture, cover and cook for 5-7 minutes or until the centers do not jiggle.",
+      "group": "Red Pepper & Spinach",
+      "sourceUrl": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "meal-prep",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBites1-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/30637dc8c0f3419e5a58cddc.avif",
+      "archived": true,
+      "originalPath": "images/30637dc8c0f3419e5a58cddc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBites1.jpg",
+      "path": "images/7edaafe7f94ebfe937010677.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/CookBaconinOven.jpg",
+      "path": "../../nenaudojama/breakfast/images/01a5e425f3d7639dd720aae7.jpg",
+      "archived": true,
+      "originalPath": "images/01a5e425f3d7639dd720aae7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddCottageCheesetoMixture.jpg",
+      "path": "../../nenaudojama/breakfast/images/9179b3e46e2ad099c5e12b65.jpg",
+      "archived": true,
+      "originalPath": "images/9179b3e46e2ad099c5e12b65.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/ChopChives.jpg",
+      "path": "../../nenaudojama/breakfast/images/37e15de32c6b1911a145f8e2.avif",
+      "archived": true,
+      "originalPath": "images/37e15de32c6b1911a145f8e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/GrateCheeseAddSeasoning.jpg",
+      "path": "../../nenaudojama/breakfast/images/6e4bfe94ee6698ce3bd21580.jpg",
+      "archived": true,
+      "originalPath": "images/6e4bfe94ee6698ce3bd21580.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/PressBaconintoPan.jpg",
+      "path": "../../nenaudojama/breakfast/images/2f51eb0b728cc248b9a70234.avif",
+      "archived": true,
+      "originalPath": "images/2f51eb0b728cc248b9a70234.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FullyCookedEggBite.jpg",
+      "path": "../../nenaudojama/breakfast/images/9de91c825888a40be33efa28.avif",
+      "archived": true,
+      "originalPath": "images/9de91c825888a40be33efa28.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/CrackEggsAddCottageCheese.jpg",
+      "path": "../../nenaudojama/breakfast/images/bc1de87dcdc870fbe4f75e58.jpg",
+      "archived": true,
+      "originalPath": "images/bc1de87dcdc870fbe4f75e58.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/ChopSpinachandRedPepper.jpg",
+      "path": "../../nenaudojama/breakfast/images/3196946b9768dda66b12e89e.avif",
+      "archived": true,
+      "originalPath": "images/3196946b9768dda66b12e89e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddGratedCheesetoMixture.jpg",
+      "path": "../../nenaudojama/breakfast/images/358c51da4744772f69bf928a.jpg",
+      "archived": true,
+      "originalPath": "images/358c51da4744772f69bf928a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/CookPeppersUntilCrisp.jpg",
+      "path": "../../nenaudojama/breakfast/images/69a97dff10eb442266165768.avif",
+      "archived": true,
+      "originalPath": "images/69a97dff10eb442266165768.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddRestOfIngredientsandMix.jpg",
+      "path": "../../nenaudojama/breakfast/images/18f60851ffed69c7856610da.avif",
+      "archived": true,
+      "originalPath": "images/18f60851ffed69c7856610da.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBitesSecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/8750cd41df017e8aa209f6d0.jpg",
+      "archived": true,
+      "originalPath": "images/8750cd41df017e8aa209f6d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBitesReheat.jpg",
+      "path": "../../nenaudojama/breakfast/images/3b4b5eafb8d09c1338563a00.jpg",
+      "archived": true,
+      "originalPath": "images/3b4b5eafb8d09c1338563a00.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddRestofINgredients.jpg",
+      "path": "../../nenaudojama/breakfast/images/6c8b8f36c602ffc107afd7b2.jpg",
+      "archived": true,
+      "originalPath": "images/6c8b8f36c602ffc107afd7b2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/BlendMixtureUntilSmooth.jpg",
+      "path": "../../nenaudojama/breakfast/images/19f21c335c76c8d2aee8f8ff.jpg",
+      "archived": true,
+      "originalPath": "images/19f21c335c76c8d2aee8f8ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBitesLong.jpg",
+      "path": "../../nenaudojama/breakfast/images/2ced5fece0ad5f568ce23987.jpg",
+      "archived": true,
+      "originalPath": "images/2ced5fece0ad5f568ce23987.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/CookBaconinOven-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d970bfce6ede9df2419fc7bb.avif",
+      "archived": true,
+      "originalPath": "images/d970bfce6ede9df2419fc7bb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddCottageCheesetoMixture-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5f2962c1ea084d0cd44dc729.jpg",
+      "archived": true,
+      "originalPath": "images/5f2962c1ea084d0cd44dc729.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/ChopChives-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/15aad79df1182efe833d29eb.jpg",
+      "archived": true,
+      "originalPath": "images/15aad79df1182efe833d29eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/GrateCheeseAddSeasoning-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/987ef26892330a0be7cc82fc.jpg",
+      "archived": true,
+      "originalPath": "images/987ef26892330a0be7cc82fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/PressBaconintoPan-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e5c6660e948f53134406cc8.avif",
+      "archived": true,
+      "originalPath": "images/3e5c6660e948f53134406cc8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/FullyCookedEggBite-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0fa45f14907b8046991c0859.jpg",
+      "archived": true,
+      "originalPath": "images/0fa45f14907b8046991c0859.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/CrackEggsAddCottageCheese-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1f57bbb86d67cc533bce144b.jpg",
+      "archived": true,
+      "originalPath": "images/1f57bbb86d67cc533bce144b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/ChopSpinachandRedPepper-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f08c83a154931e0f3f635172.avif",
+      "archived": true,
+      "originalPath": "images/f08c83a154931e0f3f635172.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddGratedCheesetoMixture-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3efaf3c10993da830dda2ba8.avif",
+      "archived": true,
+      "originalPath": "images/3efaf3c10993da830dda2ba8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/CookPeppersUntilCrisp-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/46e0c6a56eed65d8c4707e8a.avif",
+      "archived": true,
+      "originalPath": "images/46e0c6a56eed65d8c4707e8a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/AddRestOfIngredientsandMix-523x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f3b0523d8f5e3c0fcf9f3d84.jpg",
+      "archived": true,
+      "originalPath": "images/f3b0523d8f5e3c0fcf9f3d84.jpg"
+    }
+  ],
+  "featuredImage": "images/7edaafe7f94ebfe937010677.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Faux Sous Vide Egg Bites",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "Each Bacon &amp; Gruyere Egg Bite comes out to be: 140.63 Calories, 11.05g Fats,0.65g Net Carbs, and 9.19g Protein.  Each Red Pepper &amp; Spinach Egg Bite comes out to be: 93.13 Calories, 6.75g Fats, 0.86g Net Carbs, and 6.79g Protein.",
+    "datePublished": "2017-01-28T03:48:36+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBites1.jpg"
+    ],
+    "video": {
+      "name": "Keto Sous Vide Egg Bites [Made 2 Ways with an Egg Poacher]",
+      "description": "I’ve been seeing these egg bites frequent the internet quite a lot lately. They’re delicious, they’re portable, and they’re now keto friendly! That’s right, these little breakfast morsels are inspired by Starbucks‘ Sous Vide Egg Bites.\n\nThe biggest problem I had with the original recipe is that you need a sous vide machine. While they’re an amazing piece of equipment to have around the house – most people don’t. And, they’re over $130 for a decent one! Plus, the original recipe takes over an hour to make. I’m definitely not a morning person, so I don’t have time to deal with that.\n\nBeing a huge fan of steamed eggs and frittata muffins, these really intrigued me. I thought it’d be a great idea to make the egg bites in my poaching pan – combining the velvet texture of steamed egg with the convenience of having something quick to grab-and-go with.\n\nThese things are seriously fantastic. What I like best about them is the fact that you can make them ahead. Just cook them for slightly less time so that they’re still a little under-cooked in the middle. Save and store them for any time in the next few days in the fridge. When you’re ready to make them, just top them with your favorite toppings and throw them under the broiler for a few minutes.\n\nIf we’re having people over for brunch, I’ll normally make 16-24 at a time. I’ll place each egg bite on a baking sheet (with some foil or parchment paper) and top them. Leave them in the fridge overnight, and then all I have to do is pop them in the oven the next morning.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nBacon & Gruyere\n6 strips bacon, cooked\n6 large eggs\n¼ cup cottage cheese\n2 tablespoons chopped chives\n¼ cup gruyere cheese, (~1 oz.) grated\n2 tablespoons monterey jack cheese, grated\n1 teaspoon hot sauce\n2 tablespoons butter\nSalt, pepper, and additional seasonings to taste.\n\nRed Pepper & Spinach\n6 large eggs\n¼ cup cottage cheese\n¼ medium red bell pepper, roasted and diced\n¼ cup spinach, chopped\n¼ cup monterey jack cheese, (~1 oz.)\n2 tablespoons parmesan cheese\n1 tablespoon butter\nSalt, pepper, and additional seasonings to taste.\n\nNutrition Summary:\n\nEach Bacon & Gruyere Egg Bite comes out to be: 140.63 Calories, 11.05g Fats,0.65g Net Carbs, and 9.19g Protein.\n\nEach Red Pepper & Spinach Egg Bite comes out to be: 93.13 Calories, 6.75g Fats, 0.86g Net Carbs, and 6.79g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-07-01T14:00:07+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M29S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 8786
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 253
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 20
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Oc1bQcYMA-Y/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Oc1bQcYMA-Y?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=Oc1bQcYMA-Y",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "16",
+      "16 egg bites"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "6 strips bacon (cooked)",
+      "6 large eggs",
+      "¼ cup cottage cheese",
+      "2 tablespoons chopped chives",
+      "1 ounce gruyere cheese (grated)",
+      "2 tablespoons monterey jack cheese (grated)",
+      "1 teaspoon hot sauce",
+      "2 tablespoons butter",
+      "Salt (pepper, and additional seasonings to taste.)",
+      "6 large eggs",
+      "¼ cup cottage cheese",
+      "¼ medium red bell pepper (roasted and diced)",
+      "¼ cup chopped spinach",
+      "1 ounce monterey jack cheese (grated)",
+      "2 tablespoons parmesan cheese",
+      "1 tablespoon butter",
+      "Salt (pepper, and additional seasonings to taste.)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToSection",
+        "name": "Bacon & Gruyere",
+        "itemListElement": [
+          {
+            "@type": "HowToStep",
+            "text": "If you're making bacon, go ahead and put that in the oven now. Otherwise, skip this step by purchasing pre-cooked bacon.",
+            "name": "If you're making bacon, go ahead and put that in the oven now. Otherwise, skip this step by purchasing pre-cooked bacon.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-0",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/CookBaconinOven.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Crack 6 eggs into a container, then add 1/4 cup cottage cheese to your eggs.",
+            "name": "Crack 6 eggs into a container, then add 1/4 cup cottage cheese to your eggs.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-1",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/AddCottageCheesetoMixture.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Chop the chives into small pieces. Set aside.",
+            "name": "Chop the chives into small pieces. Set aside.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-2",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/ChopChives.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grate the cheeses and add into the mixture. Add seasoning, chives, hot sauce, and butter. Blend smooth.",
+            "name": "Grate the cheeses and add into the mixture. Add seasoning, chives, hot sauce, and butter. Blend smooth.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-3",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/GrateCheeseAddSeasoning.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add water to the bottom of your poaching pan. Then, turn to medium-high heat. Press 3/4 - 1 slice of bacon in the bottom of each well.",
+            "name": "Add water to the bottom of your poaching pan. Then, turn to medium-high heat. Press 3/4 - 1 slice of bacon in the bottom of each well.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-4",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/PressBaconintoPan.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Once the water underneath is streaming steadily, turn heat down to medium. Fill each well with the egg mixture, covering the bacon at the bottom. Cover and cook for 5-7 minutes or until the centers do not jiggle.",
+            "name": "Once the water underneath is streaming steadily, turn heat down to medium. Fill each well with the egg mixture, covering the bacon at the bottom. Cover and cook for 5-7 minutes or until the centers do not jiggle.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-0-5",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/FullyCookedEggBite.jpg"
+          }
+        ]
+      },
+      {
+        "@type": "HowToSection",
+        "name": "Red Pepper & Spinach",
+        "itemListElement": [
+          {
+            "@type": "HowToStep",
+            "text": "Crack 6 eggs into a container, then add 1/4 cup cottage cheese to your eggs.",
+            "name": "Crack 6 eggs into a container, then add 1/4 cup cottage cheese to your eggs.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-0",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/CrackEggsAddCottageCheese.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Dice the red pepper and spinach and set aside.",
+            "name": "Dice the red pepper and spinach and set aside.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-1",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/ChopSpinachandRedPepper.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grate the cheeses and add into the mixture. Add seasoning and blend smooth.",
+            "name": "Grate the cheeses and add into the mixture. Add seasoning and blend smooth.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-2",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/AddGratedCheesetoMixture.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat butter in a pan on high heat. Once hot and bubbling, add red peppers. Cook until browned on the outside. You can skip this step by purchasing pre-roasted red peppers.",
+            "name": "Heat butter in a pan on high heat. Once hot and bubbling, add red peppers. Cook until browned on the outside. You can skip this step by purchasing pre-roasted red peppers.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-3",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/CookPeppersUntilCrisp.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add spinach and red pepper to the blended egg mixture. Stir well to combine.",
+            "name": "Add spinach and red pepper to the blended egg mixture. Stir well to combine.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-4",
+            "image": "https://www.ruled.me/wp-content/uploads/2017/01/AddRestOfIngredientsandMix.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add water to the bottom of your poaching pan. Then, turn to medium-high heat. Once the water underneath is streaming steadily, turn heat down to medium. Fill each well with the egg mixture, cover and cook for 5-7 minutes or until the centers do not jiggle.",
+            "name": "Add water to the bottom of your poaching pan. Then, turn to medium-high heat. Once the water underneath is streaming steadily, turn heat down to medium. Fill each well with the egg mixture, cover and cook for 5-7 minutes or until the centers do not jiggle.",
+            "url": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#wprm-recipe-52087-step-1-5"
+          }
+        ]
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, eggs, gluten-free, keto, low-carb, meal-prep, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "140.63 kcal",
+      "fatContent": "11.05 g",
+      "proteinContent": "9.19 g",
+      "carbohydrateContent": "0.65 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-faux-sous-vide-egg-bites/"
+  },
+  "sourceIndex": {
+    "id": 29399,
+    "rid": 52087,
+    "t": "Keto Faux Sous Vide Egg Bites",
+    "u": "/keto-faux-sous-vide-egg-bites/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/01/FauxSousVideBites1-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 0.65,
+    "cal": 140.63,
+    "pr": 9.19,
+    "fa": 11.05,
+    "tm": 30,
+    "sv": 16,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 17,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "meal-prep",
+      "eggs"
+    ],
+    "d": "2017-01-27",
+    "cm": 23,
+    "ex": "I've been seeing these egg bites frequent the internet quite a lot lately. They're delicious, they're portable, and they're now keto friendly! That's right, these little breakfast morsels are",
+    "pv": 332
+  },
+  "sourceHtml": "pages/keto-faux-sous-vide-egg-bites.html",
+  "scrapedAt": "2026-11-07T08:11:12.816Z"
+}

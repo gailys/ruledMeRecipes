@@ -1,0 +1,345 @@
+{
+  "id": "ruled-43245",
+  "slug": "pumpkin-pie-fat-bombs",
+  "title": "Keto Pumpkin Pie Fat Bombs",
+  "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Keto Pumpkin Pie Fat Bombs. Each serving comes out to be 135 calories, 14.1g fats, 1.3g net carbs, and 1.2g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT105M",
+  "totalTime": "PT120M",
+  "totalMinutes": 120,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "fatContent": "14.1 g",
+    "proteinContent": "1.2 g",
+    "carbohydrateContent": "1.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 135,
+    "netCarbsGrams": 1.3,
+    "proteinGrams": 1.2,
+    "fatGrams": 14.1
+  },
+  "ingredients": [
+    "1/2 cup butter",
+    "1/2 cup pumpkin puree",
+    "4 ounce cream cheese",
+    "1/4 cup powdered erythritol",
+    "2 teaspoon pumpkin pie spice",
+    "1/2 cup pecans"
+  ],
+  "instructions": [
+    {
+      "text": "Let your butter and cream cheese get to room temp, or melt in the microwave if it’s not soft to the touch.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-1.jpg"
+    },
+    {
+      "text": "Combine the pumpkin puree, butter, and cream cheese together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-3.jpg"
+    },
+    {
+      "text": "Once a mixture is formed, add the powdered erythritol and pumpkin pie spice. Mix together until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-4.jpg"
+    },
+    {
+      "text": "Pour the mixture into an ice cube tray or candy molds of your choice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-5.jpg"
+    },
+    {
+      "text": "Optionally toast up the pecans in an oven at 350F for 8-10 minutes, or toast in a pan over medium heat until fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-6.jpg"
+    },
+    {
+      "text": "Top the fat bombs with the chopped pecans and press gently.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-7.jpg"
+    },
+    {
+      "text": "Put in the fridge or freezer until set and can be removed from molds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/4080be9ad378973ca554e882.avif",
+      "archived": true,
+      "originalPath": "images/4080be9ad378973ca554e882.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/ba1e4abe3c6fbd7bef4554cf.avif",
+      "archived": true,
+      "originalPath": "images/ba1e4abe3c6fbd7bef4554cf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-1.jpg",
+      "path": "../../nenaudojama/snacks/images/a138e4dae0c1ea7ce9f267ff.jpg",
+      "archived": true,
+      "originalPath": "images/a138e4dae0c1ea7ce9f267ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-3.jpg",
+      "path": "../../nenaudojama/snacks/images/a58068f25e3a26fc109a1d79.jpg",
+      "archived": true,
+      "originalPath": "images/a58068f25e3a26fc109a1d79.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-4.jpg",
+      "path": "../../nenaudojama/snacks/images/199693ee9a3933f1589f54c1.jpg",
+      "archived": true,
+      "originalPath": "images/199693ee9a3933f1589f54c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-5.jpg",
+      "path": "../../nenaudojama/snacks/images/f6ca7b6c6e76c940d6a0ffa2.avif",
+      "archived": true,
+      "originalPath": "images/f6ca7b6c6e76c940d6a0ffa2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-6.jpg",
+      "path": "../../nenaudojama/snacks/images/364e0892fd8748b201caad10.avif",
+      "archived": true,
+      "originalPath": "images/364e0892fd8748b201caad10.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-7.jpg",
+      "path": "../../nenaudojama/snacks/images/a9f049250961e6dae5ab8317.jpg",
+      "archived": true,
+      "originalPath": "images/a9f049250961e6dae5ab8317.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/978c2bab284ed90b726bcc45.avif",
+      "archived": true,
+      "originalPath": "images/978c2bab284ed90b726bcc45.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Pin.jpg",
+      "path": "../../nenaudojama/snacks/images/46684ce77448ed515110ec0f.jpg",
+      "archived": true,
+      "originalPath": "images/46684ce77448ed515110ec0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/9f02a7d7cb159626911c3a7d.avif",
+      "archived": true,
+      "originalPath": "images/9f02a7d7cb159626911c3a7d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/5635eeb23364f5d6ed87b38b.jpg",
+      "archived": true,
+      "originalPath": "images/5635eeb23364f5d6ed87b38b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/8bc1da06aecc8874ee67a915.avif",
+      "archived": true,
+      "originalPath": "images/8bc1da06aecc8874ee67a915.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/1c363318cdd1e38a7aa0ce7b.avif",
+      "archived": true,
+      "originalPath": "images/1c363318cdd1e38a7aa0ce7b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-5-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/b49b8219332b7b3f414dc1e2.jpg",
+      "archived": true,
+      "originalPath": "images/b49b8219332b7b3f414dc1e2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-6-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/8eacb9c1dc0b5829cff4c69a.jpg",
+      "archived": true,
+      "originalPath": "images/8eacb9c1dc0b5829cff4c69a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-7-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2855ec590199144448e2288a.jpg",
+      "archived": true,
+      "originalPath": "images/2855ec590199144448e2288a.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/ba1e4abe3c6fbd7bef4554cf.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pumpkin Pie Fat Bombs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 12 servings of Keto Pumpkin Pie Fat Bombs. Each serving comes out to be 135 calories, 14.1g fats, 1.3g net carbs, and 1.2g protein.",
+    "datePublished": "2020-06-04T09:49:19+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Featured.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT105M",
+    "totalTime": "PT120M",
+    "recipeIngredient": [
+      "1/2 cup butter",
+      "1/2 cup pumpkin puree",
+      "4 ounce cream cheese",
+      "1/4 cup powdered erythritol",
+      "2 teaspoon pumpkin pie spice",
+      "1/2 cup pecans"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Let your butter and cream cheese get to room temp, or melt in the microwave if it’s not soft to the touch.",
+        "name": "Let your butter and cream cheese get to room temp, or melt in the microwave if it’s not soft to the touch.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the pumpkin puree, butter, and cream cheese together.",
+        "name": "Combine the pumpkin puree, butter, and cream cheese together.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once a mixture is formed, add the powdered erythritol and pumpkin pie spice. Mix together until smooth.",
+        "name": "Once a mixture is formed, add the powdered erythritol and pumpkin pie spice. Mix together until smooth.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into an ice cube tray or candy molds of your choice.",
+        "name": "Pour the mixture into an ice cube tray or candy molds of your choice.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optionally toast up the pecans in an oven at 350F for 8-10 minutes, or toast in a pan over medium heat until fragrant.",
+        "name": "Optionally toast up the pecans in an oven at 350F for 8-10 minutes, or toast in a pan over medium heat until fragrant.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the fat bombs with the chopped pecans and press gently.",
+        "name": "Top the fat bombs with the chopped pecans and press gently.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-pie-bite-fat-bombs-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put in the fridge or freezer until set and can be removed from molds.",
+        "name": "Put in the fridge or freezer until set and can be removed from molds.",
+        "url": "https://www.ruled.me/pumpkin-pie-fat-bombs/#wprm-recipe-53385-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Side Items",
+      "Snacks"
+    ],
+    "keywords": "egg-free, fall, gluten-free, keto, low-carb, make-ahead, simple &amp; easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "135 kcal",
+      "fatContent": "14.1 g",
+      "proteinContent": "1.2 g",
+      "carbohydrateContent": "1.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pumpkin-pie-fat-bombs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pumpkin-pie-fat-bombs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pumpkin-pie-fat-bombs/"
+  },
+  "sourceIndex": {
+    "id": 43245,
+    "rid": 53385,
+    "t": "Keto Pumpkin Pie Fat Bombs",
+    "u": "/pumpkin-pie-fat-bombs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Pumpkin-Pie-Fat-Bomb-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 1.3,
+    "cal": 135,
+    "pr": 1.2,
+    "fa": 14.1,
+    "tm": 120,
+    "sv": 12,
+    "kw": [
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "make-ahead"
+    ],
+    "d": "2020-06-04",
+    "cm": 2,
+    "ex": "Fat bombs are one of the best keto hacks. These fat-filled treats are used by thousands of keto dieters to meet their fat needs, boost their energy levels, and satisfy their nagging cravings. One of",
+    "pv": 174
+  },
+  "sourceHtml": "pages/pumpkin-pie-fat-bombs.html",
+  "scrapedAt": "2026-11-07T08:30:56.705Z"
+}

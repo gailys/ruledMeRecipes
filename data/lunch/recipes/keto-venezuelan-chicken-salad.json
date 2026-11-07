@@ -1,0 +1,308 @@
+{
+  "id": "ruled-43125",
+  "slug": "keto-venezuelan-chicken-salad",
+  "title": "Keto Venezuelan Chicken Salad",
+  "url": "https://www.ruled.me/keto-venezuelan-chicken-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Venezuelan Chicken Salad. Each serving comes out to be 526 calories, 40.3g fats, 4.6g net carbs, and 31g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "526 kcal",
+    "fatContent": "40.3 g",
+    "proteinContent": "31 g",
+    "carbohydrateContent": "4.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 526,
+    "netCarbsGrams": 4.6,
+    "proteinGrams": 31,
+    "fatGrams": 40.3
+  },
+  "ingredients": [
+    "8 ounce canned chicken breast",
+    "1 medium avocado (sliced thin)",
+    "1 tablespoon olive oil",
+    "1/2 medium red bell pepper (chopped)",
+    "2 tablespoon mayonnaise",
+    "1 tablespoon lime juice",
+    "2 tablespoon fresh cilantro (chopped)",
+    "1/2 teaspoon cayenne pepper",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Drain the canned chicken breast, or cook chicken breast on a stovetop and shred the meat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-venezuelan-chicken-salad/#wprm-recipe-53361-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-04.jpg"
+    },
+    {
+      "text": "Add all ingredients to a bowl and mix together gently to combine chicken with oil and avocado pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-venezuelan-chicken-salad/#wprm-recipe-53361-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-05.jpg"
+    },
+    {
+      "text": "Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-venezuelan-chicken-salad/#wprm-recipe-53361-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "no-cook",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/5782a657ddc2a4f218256e41.avif",
+      "archived": true,
+      "originalPath": "images/5782a657ddc2a4f218256e41.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-featured.jpg",
+      "path": "images/8d6f1b800a77df4b89540bbb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/1ab8919bb2fbd417a6efb501.jpg",
+      "archived": true,
+      "originalPath": "images/1ab8919bb2fbd417a6efb501.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-05.jpg",
+      "path": "../../nenaudojama/lunch/images/d1cd1ef6a7da80542d0c4b4b.avif",
+      "archived": true,
+      "originalPath": "images/d1cd1ef6a7da80542d0c4b4b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/11bd7175e513f2753f4d3171.avif",
+      "archived": true,
+      "originalPath": "images/11bd7175e513f2753f4d3171.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/3a378f7b29f28d25e42f826d.jpg",
+      "archived": true,
+      "originalPath": "images/3a378f7b29f28d25e42f826d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/b38c9c81c5c5b35e4e2036ee.avif",
+      "archived": true,
+      "originalPath": "images/b38c9c81c5c5b35e4e2036ee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3ec87b9d3d3dd17e10e4f927.jpg",
+      "archived": true,
+      "originalPath": "images/3ec87b9d3d3dd17e10e4f927.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f3de8cdb652254b8a8515748.jpg",
+      "archived": true,
+      "originalPath": "images/f3de8cdb652254b8a8515748.jpg"
+    }
+  ],
+  "featuredImage": "images/8d6f1b800a77df4b89540bbb.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Venezuelan Chicken Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Venezuelan Chicken Salad. Each serving comes out to be 526 calories, 40.3g fats, 4.6g net carbs, and 31g protein.",
+    "datePublished": "2020-05-14T09:09:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Venezuelan Chicken Salad",
+      "description": "Shredded chicken combined with avocado to make an easy, creamy, no-cook meal that’s perfect for lunch. It takes only a few minutes to prepare and saves great in the fridge for leftover lunches in the future. The crunch of the red bell pepper and acidity from the lime juice compliment this salad to create a fresh and balanced flavor profile.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 ounce canned chicken breast\n1 medium avocado, pitted and cubed\n1 tablespoon olive oil\n1/2 medium red bell pepper, diced\n2 tablespoon mayonnaise\n1 tablespoon lime juice\n2 tablespoon fresh cilantro, chopped\n1/4 – 1/2 teaspoon cayenne pepper\nsalt and pepper, to taste\n\nNutrition Summary:\nThis makes a total of 2 servings of Keto Venezuelan Chicken Salad. Each serving comes out to be 526 calories, 40.3g fats, 4.7g net carbs, and 31g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-11-02T16:00:04+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M6S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 11622
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 454
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 22
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KlOBweajK_Y/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/KlOBweajK_Y?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=KlOBweajK_Y",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "8 ounce canned chicken breast",
+      "1 medium avocado (sliced thin)",
+      "1 tablespoon olive oil",
+      "1/2 medium red bell pepper (chopped)",
+      "2 tablespoon mayonnaise",
+      "1 tablespoon lime juice",
+      "2 tablespoon fresh cilantro (chopped)",
+      "1/2 teaspoon cayenne pepper",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Drain the canned chicken breast, or cook chicken breast on a stovetop and shred the meat.",
+        "name": "Drain the canned chicken breast, or cook chicken breast on a stovetop and shred the meat.",
+        "url": "https://www.ruled.me/keto-venezuelan-chicken-salad/#wprm-recipe-53361-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients to a bowl and mix together gently to combine chicken with oil and avocado pieces.",
+        "name": "Add all ingredients to a bowl and mix together gently to combine chicken with oil and avocado pieces.",
+        "url": "https://www.ruled.me/keto-venezuelan-chicken-salad/#wprm-recipe-53361-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper to taste.",
+        "name": "Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-venezuelan-chicken-salad/#wprm-recipe-53361-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Venezuelan"
+    ],
+    "keywords": "15-minute, dairy-free, gluten-free, high-fat, high-protein, keto, low-carb, make-ahead, meal-prep, no-cook, nut-free, packed-lunch, poultry, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "526 kcal",
+      "fatContent": "40.3 g",
+      "proteinContent": "31 g",
+      "carbohydrateContent": "4.6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-venezuelan-chicken-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-venezuelan-chicken-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-venezuelan-chicken-salad/"
+  },
+  "sourceIndex": {
+    "id": 43125,
+    "rid": 53361,
+    "t": "Keto Venezuelan Chicken Salad",
+    "u": "/keto-venezuelan-chicken-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/05/venezuelan-chicken-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.6,
+    "cal": 526,
+    "pr": 31,
+    "fa": 40.3,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "no-cook",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-05-14",
+    "cm": 2,
+    "ex": "Shredded chicken combined with avocado to make an easy, creamy, no-cook meal that's perfect for lunch. It takes only a few minutes to prepare and saves great in the fridge for leftover lunches in the",
+    "pv": 211
+  },
+  "sourceHtml": "pages/keto-venezuelan-chicken-salad.html",
+  "scrapedAt": "2026-11-07T08:15:57.544Z"
+}

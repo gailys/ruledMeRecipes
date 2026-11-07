@@ -1,0 +1,242 @@
+{
+  "id": "ruled-58507",
+  "slug": "keto-nicoise-salad-jar",
+  "title": "Keto Nicoise Salad Jar",
+  "url": "https://www.ruled.me/keto-nicoise-salad-jar/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Nicoise Salad Jar. The serving comes out to be 214 calories, 8.1g fats, 6.8g net carbs, and 25.4g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "fatContent": "8.1 g",
+    "proteinContent": "25.4 g",
+    "carbohydrateContent": "6.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 214,
+    "netCarbsGrams": 6.8,
+    "proteinGrams": 25.4,
+    "fatGrams": 8.1
+  },
+  "ingredients": [
+    "3 ounce canned tuna (drained)",
+    "5 medium green beans (chopped)",
+    "2 tablespoon red onion (chopped)",
+    "1/2 medium fresh tomatoes (chopped)",
+    "6 whole black olives (sliced)",
+    "1/2 large hard-boiled egg (chopped)",
+    "1/4 cup cauliflower rice"
+  ],
+  "instructions": [
+    {
+      "text": "Layer all of the salad ingredients in a quart sized mason jar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nicoise-salad-jar/#wprm-recipe-58504-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-01.jpg"
+    },
+    {
+      "text": "Tightly secure the jar with a lid. Hold in a fridge until ready to eat, then serve with dressing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nicoise-salad-jar/#wprm-recipe-58504-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "no-cook",
+    "meal-prep",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/d977e867920f6f77c43e2812.avif",
+      "archived": true,
+      "originalPath": "images/d977e867920f6f77c43e2812.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e.jpg",
+      "path": "images/205234312b8dd349f8a5fd66.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/6758421450af0552c7ca67e4.jpg",
+      "archived": true,
+      "originalPath": "images/6758421450af0552c7ca67e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/6a53deb4d8c943ee7bd2e75c.jpg",
+      "archived": true,
+      "originalPath": "images/6a53deb4d8c943ee7bd2e75c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/19620f8c6447ce09161fb122.jpg",
+      "archived": true,
+      "originalPath": "images/19620f8c6447ce09161fb122.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/915d56bb880fb0f8c17782cf.jpg",
+      "archived": true,
+      "originalPath": "images/915d56bb880fb0f8c17782cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-02-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/184c92f5adef9559e40e88bc.jpg",
+      "archived": true,
+      "originalPath": "images/184c92f5adef9559e40e88bc.jpg"
+    }
+  ],
+  "featuredImage": "images/205234312b8dd349f8a5fd66.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Nicoise Salad Jar",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Nicoise Salad Jar. The serving comes out to be 214 calories, 8.1g fats, 6.8g net carbs, and 25.4g protein.",
+    "datePublished": "2026-05-14T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e-480x270.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3 ounce canned tuna (drained)",
+      "5 medium green beans (chopped)",
+      "2 tablespoon red onion (chopped)",
+      "1/2 medium fresh tomatoes (chopped)",
+      "6 whole black olives (sliced)",
+      "1/2 large hard-boiled egg (chopped)",
+      "1/4 cup cauliflower rice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Layer all of the salad ingredients in a quart sized mason jar.",
+        "name": "Layer all of the salad ingredients in a quart sized mason jar.",
+        "url": "https://www.ruled.me/keto-nicoise-salad-jar/#wprm-recipe-58504-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tightly secure the jar with a lid. Hold in a fridge until ready to eat, then serve with dressing.",
+        "name": "Tightly secure the jar with a lid. Hold in a fridge until ready to eat, then serve with dressing.",
+        "url": "https://www.ruled.me/keto-nicoise-salad-jar/#wprm-recipe-58504-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/keto-nicoise-salad-jar-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "French"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, eggs, gluten-free, high-protein, keto, low-carb, meal-prep, no-cook, nut-free, packed-lunch, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "214 kcal",
+      "fatContent": "8.1 g",
+      "proteinContent": "25.4 g",
+      "carbohydrateContent": "6.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-nicoise-salad-jar/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-nicoise-salad-jar/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-nicoise-salad-jar/"
+  },
+  "sourceIndex": {
+    "id": 58507,
+    "rid": 58504,
+    "t": "Keto Nicoise Salad Jar",
+    "u": "/keto-nicoise-salad-jar/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/6760a6df6f49b31b75c673df36a7c23e-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.8,
+    "cal": 214,
+    "pr": 25.4,
+    "fa": 8.1,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "no-cook",
+      "meal-prep",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2026-05-14",
+    "cm": 0,
+    "ex": "This Keto Nicoise Salad Jar is a sophisticated yet incredibly simple lunch solution that brings the flavors of the French Riviera straight to your meal prep routine. By swapping out the traditional",
+    "pv": 84
+  },
+  "sourceHtml": "pages/keto-nicoise-salad-jar.html",
+  "scrapedAt": "2026-11-07T08:14:43.228Z"
+}

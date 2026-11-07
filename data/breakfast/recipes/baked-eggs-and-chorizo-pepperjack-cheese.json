@@ -1,0 +1,283 @@
+{
+  "id": "ruled-60253",
+  "slug": "baked-eggs-and-chorizo-pepperjack-cheese",
+  "title": "Baked Eggs and Chorizo Pepperjack Cheese",
+  "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Baked Eggs and Chorizo Pepperjack Cheese. Each serving comes out to be 914 calories, 74g fats, 10.2g net carbs, and 49.8g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "914 kcal",
+    "fatContent": "74 g",
+    "proteinContent": "49.8 g",
+    "carbohydrateContent": "10.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 914,
+    "netCarbsGrams": 10.2,
+    "proteinGrams": 49.8,
+    "fatGrams": 74
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "1/2 medium onion (diced)",
+    "10 medium portobello mushrooms (sliced)",
+    "8 ounce chorizo sausage",
+    "1/3 cup heavy cream",
+    "1 cup pepper jack cheese",
+    "6 large egg",
+    "1 tablespoon sriracha",
+    "1/3 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Preheat oven to 400F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "In a frying pan over medium heat, melt the butter and add the diced onion. Let cook for 30 seconds - 1 minute. Then add in the sliced mushrooms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Add in the chorizo sausage. Stir and let cook until it gets crumbly. Once the chorizo is cooked, remove from heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Stir in the heavy cream and add in the pepper jack cheese. Create wells in the skillet and then crack the eggs into those wells.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Top with the sriracha sauce then the add the shredded cheese. Place in the oven for 15 minutes or until the eggs are done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Serve hot and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/05/baked-eggs-and-chorizo-pepperjack-cheese-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "oven-baked",
+    "pork",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "one-pan",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1-768x512.jpeg",
+      "path": "../../nenaudojama/breakfast/images/9fe048efee14e8bd6e1d7eb1.jpeg",
+      "archived": true,
+      "originalPath": "images/9fe048efee14e8bd6e1d7eb1.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1.jpeg",
+      "path": "images/0b3affeac1aaf1ca6d51ef26.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/baked-eggs-and-chorizo-pepperjack-cheese-step-01.jpeg",
+      "path": "../../nenaudojama/breakfast/images/61abbb898e4f8d160e7e427b.jpeg",
+      "archived": true,
+      "originalPath": "images/61abbb898e4f8d160e7e427b.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1-300x300.jpeg",
+      "path": "../../nenaudojama/breakfast/images/d224f70c22db5a75193ec21f.avif",
+      "archived": true,
+      "originalPath": "images/d224f70c22db5a75193ec21f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/05/baked-eggs-and-chorizo-pepperjack-cheese-step-01-241x350.jpeg",
+      "path": "../../nenaudojama/breakfast/images/6b71ba09948dec0dbaeed388.jpeg",
+      "archived": true,
+      "originalPath": "images/6b71ba09948dec0dbaeed388.jpeg"
+    }
+  ],
+  "featuredImage": "images/0b3affeac1aaf1ca6d51ef26.jpeg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Baked Eggs and Chorizo Pepperjack Cheese",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Baked Eggs and Chorizo Pepperjack Cheese. Each serving comes out to be 914 calories, 74g fats, 10.2g net carbs, and 49.8g protein.",
+    "datePublished": "2026-05-21T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "1/2 medium onion (diced)",
+      "10 medium portobello mushrooms (sliced)",
+      "8 ounce chorizo sausage",
+      "1/3 cup heavy cream",
+      "1 cup pepper jack cheese",
+      "6 large egg",
+      "1 tablespoon sriracha",
+      "1/3 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Preheat oven to 400F.",
+        "name": "Measure out and prepare all of the ingredients. Preheat oven to 400F.",
+        "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over medium heat, melt the butter and add the diced onion. Let cook for 30 seconds - 1 minute. Then add in the sliced mushrooms.",
+        "name": "In a frying pan over medium heat, melt the butter and add the diced onion. Let cook for 30 seconds - 1 minute. Then add in the sliced mushrooms.",
+        "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the chorizo sausage. Stir and let cook until it gets crumbly. Once the chorizo is cooked, remove from heat.",
+        "name": "Add in the chorizo sausage. Stir and let cook until it gets crumbly. Once the chorizo is cooked, remove from heat.",
+        "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the heavy cream and add in the pepper jack cheese. Create wells in the skillet and then crack the eggs into those wells.",
+        "name": "Stir in the heavy cream and add in the pepper jack cheese. Create wells in the skillet and then crack the eggs into those wells.",
+        "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the sriracha sauce then the add the shredded cheese. Place in the oven for 15 minutes or until the eggs are done.",
+        "name": "Top with the sriracha sauce then the add the shredded cheese. Place in the oven for 15 minutes or until the eggs are done.",
+        "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and enjoy!",
+        "name": "Serve hot and enjoy!",
+        "url": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#wprm-recipe-60252-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/05/baked-eggs-and-chorizo-pepperjack-cheese-step-01.jpeg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, eggs, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, oven-baked, pork, spicy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "914 kcal",
+      "fatContent": "74 g",
+      "proteinContent": "49.8 g",
+      "carbohydrateContent": "10.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/baked-eggs-and-chorizo-pepperjack-cheese/"
+  },
+  "sourceIndex": {
+    "id": 60253,
+    "rid": 60252,
+    "t": "Baked Eggs and Chorizo Pepperjack Cheese",
+    "u": "/baked-eggs-and-chorizo-pepperjack-cheese/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/8019bc6903a31592d20f419505bd41b1-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 10.2,
+    "cal": 914,
+    "pr": 49.8,
+    "fa": 74,
+    "tm": 35,
+    "sv": 3,
+    "kw": [
+      "comfort-food",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "oven-baked",
+      "pork",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "one-pan",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2026-05-21",
+    "cm": 0,
+    "ex": "This Baked Eggs and Chorizo Pepperjack Cheese is a bold, high-fat breakfast that perfectly balances smoky heat with rich, creamy textures. The savory chorizo crumbles provide a robust foundation",
+    "pv": 204
+  },
+  "sourceHtml": "pages/baked-eggs-and-chorizo-pepperjack-cheese.html",
+  "scrapedAt": "2026-11-07T08:11:11.672Z"
+}

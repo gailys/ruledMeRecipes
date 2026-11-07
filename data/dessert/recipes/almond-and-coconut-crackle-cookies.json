@@ -1,0 +1,362 @@
+{
+  "id": "ruled-38805",
+  "slug": "almond-and-coconut-crackle-cookies",
+  "title": "Almond and Coconut Crackle Cookies",
+  "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Almond and Coconut Crackle Cookies. Each serving comes out to be 81 calories, 6.6g fats, 1.8g net carbs, and 3.2g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "fatContent": "6.6 g",
+    "proteinContent": "3.2 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 81,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 3.2,
+    "fatGrams": 6.6
+  },
+  "ingredients": [
+    "2 large egg white",
+    "8 tablespoon allulose",
+    "1 cup almonds (sliced)",
+    "1/4 cup unsweetened toasted coconut flakes"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 325F. Line baking sheets with parchment paper or a silicone mat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-01.jpg"
+    },
+    {
+      "text": "Combine egg whites and allulose in a mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-02.jpg"
+    },
+    {
+      "text": "Whisk egg whites and sweetener in the mixing bowl until mixture is thick, but not foamy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-04.jpg"
+    },
+    {
+      "text": "Stir in sliced almonds and unsweetened coconut flakes. Whip ingredients until mixture is an evenly distributed cookie batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-05.jpg"
+    },
+    {
+      "text": "Spoon or scoop cookie batter into mounds on the baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-06.jpg"
+    },
+    {
+      "text": "Space cookie batter mounds evenly and generously on the baking sheet. Flatten the top of the mounds with the spoon, fork, or scoop.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-07.jpg"
+    },
+    {
+      "text": "Bake cookies for 10 minutes. Rotate the baking sheet in the oven.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-08.jpg"
+    },
+    {
+      "text": "Bake cookies for another 8-10 minutes, until they are toasted and crisp. Remove baking sheet from oven and cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-featured-3-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/aac6d9cd85e818cb950bd95e.jpg",
+      "archived": true,
+      "originalPath": "images/aac6d9cd85e818cb950bd95e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-featured-3.jpg",
+      "path": "images/516296550e19c92069848872.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-01.jpg",
+      "path": "../../nenaudojama/dessert/images/0db758258ea2be18ad89bb10.jpg",
+      "archived": true,
+      "originalPath": "images/0db758258ea2be18ad89bb10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-02.jpg",
+      "path": "../../nenaudojama/dessert/images/5ba248b22a09539c566898e0.avif",
+      "archived": true,
+      "originalPath": "images/5ba248b22a09539c566898e0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-04.jpg",
+      "path": "../../nenaudojama/dessert/images/4f4feedabb297d6f3a1118bf.jpg",
+      "archived": true,
+      "originalPath": "images/4f4feedabb297d6f3a1118bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-05.jpg",
+      "path": "../../nenaudojama/dessert/images/1a97bd2f56b95456a684a398.jpg",
+      "archived": true,
+      "originalPath": "images/1a97bd2f56b95456a684a398.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-06.jpg",
+      "path": "../../nenaudojama/dessert/images/f27e1110f81f31bf20bf024d.avif",
+      "archived": true,
+      "originalPath": "images/f27e1110f81f31bf20bf024d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-07.jpg",
+      "path": "../../nenaudojama/dessert/images/9bb0499cd338f6b4d27585ee.avif",
+      "archived": true,
+      "originalPath": "images/9bb0499cd338f6b4d27585ee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-08.jpg",
+      "path": "../../nenaudojama/dessert/images/5a79f29d56a12f7ad02f2e0b.avif",
+      "archived": true,
+      "originalPath": "images/5a79f29d56a12f7ad02f2e0b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-second.jpg",
+      "path": "../../nenaudojama/dessert/images/bc513891d22efc835c2f8068.jpg",
+      "archived": true,
+      "originalPath": "images/bc513891d22efc835c2f8068.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/66f0327319665a3cb660e6a6.avif",
+      "archived": true,
+      "originalPath": "images/66f0327319665a3cb660e6a6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4403be213510aa4bda46885f.jpg",
+      "archived": true,
+      "originalPath": "images/4403be213510aa4bda46885f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5208f6c16ece3a50dcd2dbda.jpg",
+      "archived": true,
+      "originalPath": "images/5208f6c16ece3a50dcd2dbda.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e05d32a4575b94bc13d5aeed.avif",
+      "archived": true,
+      "originalPath": "images/e05d32a4575b94bc13d5aeed.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/84c2f30c4d5834ecacf053d7.avif",
+      "archived": true,
+      "originalPath": "images/84c2f30c4d5834ecacf053d7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-06-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1c14a1fb74b92a4f6c9672d8.avif",
+      "archived": true,
+      "originalPath": "images/1c14a1fb74b92a4f6c9672d8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-07-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d010172d97b33640ba7e291f.jpg",
+      "archived": true,
+      "originalPath": "images/d010172d97b33640ba7e291f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-08-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d1a8b0a384f9e29b9aac72d7.avif",
+      "archived": true,
+      "originalPath": "images/d1a8b0a384f9e29b9aac72d7.avif"
+    }
+  ],
+  "featuredImage": "images/516296550e19c92069848872.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Almond and Coconut Crackle Cookies",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 12 servings of Almond and Coconut Crackle Cookies. Each serving comes out to be 81 calories, 6.6g fats, 1.8g net carbs, and 3.2g protein.",
+    "datePublished": "2019-01-17T12:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-featured-3.jpg"
+    ],
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 large egg white",
+      "8 tablespoon allulose",
+      "1 cup almonds (sliced)",
+      "1/4 cup unsweetened toasted coconut flakes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325F.  Line baking sheets with parchment paper or a silicone mat.",
+        "name": "Preheat oven to 325F.  Line baking sheets with parchment paper or a silicone mat.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine egg whites and allulose in a mixing bowl.",
+        "name": "Combine egg whites and allulose in a mixing bowl.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk egg whites and sweetener in the mixing bowl until mixture is thick, but not foamy.",
+        "name": "Whisk egg whites and sweetener in the mixing bowl until mixture is thick, but not foamy.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in sliced almonds and unsweetened coconut flakes. Whip ingredients until mixture is an evenly distributed cookie batter.",
+        "name": "Stir in sliced almonds and unsweetened coconut flakes. Whip ingredients until mixture is an evenly distributed cookie batter.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon or scoop cookie batter into mounds on the baking sheet.",
+        "name": "Spoon or scoop cookie batter into mounds on the baking sheet.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Space cookie batter mounds evenly and generously on the baking sheet.  Flatten the top of the mounds with the spoon, fork, or scoop.",
+        "name": "Space cookie batter mounds evenly and generously on the baking sheet.  Flatten the top of the mounds with the spoon, fork, or scoop.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake cookies for 10 minutes. Rotate the baking sheet in the oven.",
+        "name": "Bake cookies for 10 minutes. Rotate the baking sheet in the oven.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake cookies for another 8-10 minutes, until they are toasted and crisp. Remove baking sheet from oven and cool.",
+        "name": "Bake cookies for another 8-10 minutes, until they are toasted and crisp. Remove baking sheet from oven and cool.",
+        "url": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#wprm-recipe-52862-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Cookies",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, oven-baked, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "81 kcal",
+      "fatContent": "6.6 g",
+      "proteinContent": "3.2 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/almond-and-coconut-crackle-cookies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/almond-and-coconut-crackle-cookies/"
+  },
+  "sourceIndex": {
+    "id": 38805,
+    "rid": 52862,
+    "t": "Almond and Coconut Crackle Cookies",
+    "u": "/almond-and-coconut-crackle-cookies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/01/almond-coconut-crackle-cookies-featured-3-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.8,
+    "cal": 81,
+    "pr": 3.2,
+    "fa": 6.6,
+    "tm": 25,
+    "sv": 12,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2019-01-17",
+    "cm": 11,
+    "ex": "When cookie season rolls around, you are going to need something to tide you over. These cookies are easy to make and are great for tea, packed lunches, or for a work potluck. Or if your house is",
+    "pv": 158
+  },
+  "sourceHtml": "pages/almond-and-coconut-crackle-cookies.html",
+  "scrapedAt": "2026-11-07T08:30:47.139Z"
+}

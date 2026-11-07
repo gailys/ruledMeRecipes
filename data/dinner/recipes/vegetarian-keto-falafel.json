@@ -1,0 +1,318 @@
+{
+  "id": "ruled-59921",
+  "slug": "vegetarian-keto-falafel",
+  "title": "Vegetarian Keto Falafel",
+  "url": "https://www.ruled.me/vegetarian-keto-falafel/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Vegetarian Keto Falafel. Each serving comes out to be 269 calories, 25.5g fats, 3.6g net carbs, and 6.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT720M",
+  "cookTime": "PT600M",
+  "totalTime": "PT1320M",
+  "totalMinutes": 1320,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "fatContent": "25.5 g",
+    "proteinContent": "6.6 g",
+    "carbohydrateContent": "3.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 269,
+    "netCarbsGrams": 3.6,
+    "proteinGrams": 6.6,
+    "fatGrams": 25.5
+  },
+  "ingredients": [
+    "3 tablespoon sesame seeds",
+    "1 cup walnuts",
+    "1 cup almonds",
+    "1/2 cup fresh cilantro",
+    "1/2 cup fresh parsley",
+    "1/4 cup olive oil",
+    "2 tablespoon lemon juice",
+    "1 tablespoon fresh mint",
+    "2 teaspoon cumin",
+    "1 teaspoon nutritional yeast",
+    "1 teaspoon dried oregano",
+    "1 teaspoon fresh garlic (minced)",
+    "1/2 teaspoon cayenne pepper",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Place the walnuts, almonds and sesame seeds in a bowl. Fill with water, then cover and chill in the refrigerator for 12 hours. Once complete, strain and rinse.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-01.jpg"
+    },
+    {
+      "text": "Add cilantro, parsley, olive oil, lemon juice, mint leaves, cumin, nutritional yeast, oregano, garlic, cayenne pepper, salt and ground pepper to the bowl of a food processor. Pulse mixture until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-02.jpg"
+    },
+    {
+      "text": "Add the soaked nut and seed mixture. Pulse until the nuts are the size of the sesame seeds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-03.jpg"
+    },
+    {
+      "text": "Using 2 tablespoons at a time, roll the dough into balls. Press and rotate as you go to get the mixture to stick together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-04.jpg"
+    },
+    {
+      "text": "Place the falafel on food dehydrator racks. Dehydrate at 110F for 10 hours, rotating halfway through. If you do not have a dehydrator, recipe can be cooked at the lowest temperature your oven will go (180F) for 3 hours, rotating halfway through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-05.jpg"
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/da35a97464561a7174f369e8.avif",
+      "archived": true,
+      "originalPath": "images/da35a97464561a7174f369e8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311.jpg",
+      "path": "images/c6566e7bc51bdbd7fdbe4829.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-01.jpg",
+      "path": "../../nenaudojama/dinner/images/f35b68a6f606f086c79db001.jpg",
+      "archived": true,
+      "originalPath": "images/f35b68a6f606f086c79db001.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-02.jpg",
+      "path": "../../nenaudojama/dinner/images/2d82b8451894bdc6c7ca18e7.jpg",
+      "archived": true,
+      "originalPath": "images/2d82b8451894bdc6c7ca18e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-03.jpg",
+      "path": "../../nenaudojama/dinner/images/8b6c70877bd0db5446eb6cfa.jpg",
+      "archived": true,
+      "originalPath": "images/8b6c70877bd0db5446eb6cfa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-04.jpg",
+      "path": "../../nenaudojama/dinner/images/165dfcaddb40c2ed4a72d6fd.jpg",
+      "archived": true,
+      "originalPath": "images/165dfcaddb40c2ed4a72d6fd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-05.jpg",
+      "path": "../../nenaudojama/dinner/images/339b6c9752bf797398c89b70.jpg",
+      "archived": true,
+      "originalPath": "images/339b6c9752bf797398c89b70.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/4b392a73cf0775fe98d94f85.jpg",
+      "archived": true,
+      "originalPath": "images/4b392a73cf0775fe98d94f85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/798bdfff4f6ed8ab16912d98.jpg",
+      "archived": true,
+      "originalPath": "images/798bdfff4f6ed8ab16912d98.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/19876adc2d84be9cfe1df47f.jpg",
+      "archived": true,
+      "originalPath": "images/19876adc2d84be9cfe1df47f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3cf7499a299c38c40736816d.jpg",
+      "archived": true,
+      "originalPath": "images/3cf7499a299c38c40736816d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/63be84cd1e38489acaad7beb.jpg",
+      "archived": true,
+      "originalPath": "images/63be84cd1e38489acaad7beb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-05-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f116fda8bfa7683f4c4b5254.jpg",
+      "archived": true,
+      "originalPath": "images/f116fda8bfa7683f4c4b5254.jpg"
+    }
+  ],
+  "featuredImage": "images/c6566e7bc51bdbd7fdbe4829.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Vegetarian Keto Falafel",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Vegetarian Keto Falafel. Each serving comes out to be 269 calories, 25.5g fats, 3.6g net carbs, and 6.6g protein.",
+    "datePublished": "2026-07-09T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311-480x270.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT720M",
+    "cookTime": "PT600M",
+    "totalTime": "PT1320M",
+    "recipeIngredient": [
+      "3 tablespoon sesame seeds",
+      "1 cup walnuts",
+      "1 cup almonds",
+      "1/2 cup fresh cilantro",
+      "1/2 cup fresh parsley",
+      "1/4 cup olive oil",
+      "2 tablespoon lemon juice",
+      "1 tablespoon fresh mint",
+      "2 teaspoon cumin",
+      "1 teaspoon nutritional yeast",
+      "1 teaspoon dried oregano",
+      "1 teaspoon fresh garlic (minced)",
+      "1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the walnuts, almonds and sesame seeds in a bowl. Fill with water, then cover and chill in the refrigerator for 12 hours. Once complete, strain and rinse.",
+        "name": "Place the walnuts, almonds and sesame seeds in a bowl. Fill with water, then cover and chill in the refrigerator for 12 hours. Once complete, strain and rinse.",
+        "url": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add cilantro, parsley, olive oil, lemon juice, mint leaves, cumin, nutritional yeast, oregano, garlic, cayenne pepper, salt and ground pepper to the bowl of a food processor. Pulse mixture until smooth.",
+        "name": "Add cilantro, parsley, olive oil, lemon juice, mint leaves, cumin, nutritional yeast, oregano, garlic, cayenne pepper, salt and ground pepper to the bowl of a food processor. Pulse mixture until smooth.",
+        "url": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the soaked nut and seed mixture. Pulse until the nuts are the size of the sesame seeds.",
+        "name": "Add the soaked nut and seed mixture. Pulse until the nuts are the size of the sesame seeds.",
+        "url": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using 2 tablespoons at a time, roll the dough into balls. Press and rotate as you go to get the mixture to stick together.",
+        "name": "Using 2 tablespoons at a time, roll the dough into balls. Press and rotate as you go to get the mixture to stick together.",
+        "url": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the falafel on food dehydrator racks. Dehydrate at 110F for 10 hours, rotating halfway through. If you do not have a dehydrator, recipe can be cooked at the lowest temperature your oven will go (180F) for 3 hours, rotating halfway through.",
+        "name": "Place the falafel on food dehydrator racks. Dehydrate at 110F for 10 hours, rotating halfway through. If you do not have a dehydrator, recipe can be cooked at the lowest temperature your oven will go (180F) for 3 hours, rotating halfway through.",
+        "url": "https://www.ruled.me/vegetarian-keto-falafel/#wprm-recipe-59920-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/vegetarian-keto-falafel-step-05.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "269 kcal",
+      "fatContent": "25.5 g",
+      "proteinContent": "6.6 g",
+      "carbohydrateContent": "3.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/vegetarian-keto-falafel/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/vegetarian-keto-falafel/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/vegetarian-keto-falafel/"
+  },
+  "sourceIndex": {
+    "id": 59921,
+    "rid": 59920,
+    "t": "Vegetarian Keto Falafel",
+    "u": "/vegetarian-keto-falafel/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/31acab8998b9bcdaf07b28b596016311-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.6,
+    "cal": 269,
+    "pr": 6.6,
+    "fa": 25.5,
+    "tm": 1320,
+    "sv": 8,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 15,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2026-07-09",
+    "cm": 0,
+    "ex": "This Vegetarian Keto Falafel offers a brilliant, low-carb twist on the classic Middle Eastern street food without using a single chickpea. By blending soaked walnuts, almonds, and sesame seeds with a",
+    "pv": 60
+  },
+  "sourceHtml": "pages/vegetarian-keto-falafel.html",
+  "scrapedAt": "2026-11-07T08:27:43.334Z"
+}

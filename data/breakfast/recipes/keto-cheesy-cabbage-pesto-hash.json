@@ -1,0 +1,392 @@
+{
+  "id": "ruled-47579",
+  "slug": "keto-cheesy-cabbage-pesto-hash",
+  "title": "Keto Cheesy Cabbage Pesto Hash",
+  "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Cheesy Cabbage Pesto Hash. Each serving comes out to be 507 calories, 40.6g fats, 5.9g net carbs, and 26.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "507 kcal",
+    "fatContent": "40.6 g",
+    "proteinContent": "26.8 g",
+    "carbohydrateContent": "5.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 507,
+    "netCarbsGrams": 5.9,
+    "proteinGrams": 26.8,
+    "fatGrams": 40.6
+  },
+  "ingredients": [
+    "2 tablespoon avocado oil (divided)",
+    "200 gram green cabbage",
+    "100 gram halloumi cheese",
+    "4 large egg",
+    "2 tablespoon pesto",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Chop the green cabbage into small pieces/slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-1.jpg"
+    },
+    {
+      "text": "In a frying pan over low to medium heat, add the half of the avocado oil and cabbage. Cook for about 5 minutes or until the cabbage turns tender. Remove from pan and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-2.jpg"
+    },
+    {
+      "text": "In a bowl, dice the halloumi.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-3.jpg"
+    },
+    {
+      "text": "In the same frying pan, add the other half of avocado oil and the diced halloumi. Fry the halloumi over low to medium heat for about 2 - 3 minutes or until it starts to get golden brown in color. Remove from pan and keep warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-4.jpg"
+    },
+    {
+      "text": "Crack the eggs into the pan and cook them sunny side up. Remove from pan and keep warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-5.jpg"
+    },
+    {
+      "text": "Add the cabbage, halloumi, and pesto back into the frying pan. Stir all together to get warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-6.jpg"
+    },
+    {
+      "text": "Plate the cabbage and halloumi with a sunny side up egg on top. Season with salt and pepper. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "few-ingredients",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/2fc650134a35732a3626da0c.jpg",
+      "archived": true,
+      "originalPath": "images/2fc650134a35732a3626da0c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Featured.jpg",
+      "path": "images/7ceeef25da963754598d2ec9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/7e64b0983ef667dd010128b3.jpg",
+      "archived": true,
+      "originalPath": "images/7e64b0983ef667dd010128b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/76556fac58a051d569cda99d.jpg",
+      "archived": true,
+      "originalPath": "images/76556fac58a051d569cda99d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/cc6b1e75ecde7d395193b169.jpg",
+      "archived": true,
+      "originalPath": "images/cc6b1e75ecde7d395193b169.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/fc7080b34d85c9ba686c69c3.jpg",
+      "archived": true,
+      "originalPath": "images/fc7080b34d85c9ba686c69c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/07b5045cf24332e28a9db2f4.avif",
+      "archived": true,
+      "originalPath": "images/07b5045cf24332e28a9db2f4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/331dba2e06dac1ba62225ed4.jpg",
+      "archived": true,
+      "originalPath": "images/331dba2e06dac1ba62225ed4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/a21f6e6ec0a6ea1691c500a1.jpg",
+      "archived": true,
+      "originalPath": "images/a21f6e6ec0a6ea1691c500a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/7749147b68c4a3ca6b5524ed.jpg",
+      "archived": true,
+      "originalPath": "images/7749147b68c4a3ca6b5524ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/8b8d894e975c1a01bb687d26.avif",
+      "archived": true,
+      "originalPath": "images/8b8d894e975c1a01bb687d26.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d338ba3564a33ca7d2932178.avif",
+      "archived": true,
+      "originalPath": "images/d338ba3564a33ca7d2932178.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/df90a87c13e53873f0b38e59.avif",
+      "archived": true,
+      "originalPath": "images/df90a87c13e53873f0b38e59.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f2bc4e614449204c4cab382c.jpg",
+      "archived": true,
+      "originalPath": "images/f2bc4e614449204c4cab382c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/7972f87a7f39a72345aa8398.avif",
+      "archived": true,
+      "originalPath": "images/7972f87a7f39a72345aa8398.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c9eee6eb45a742b2670099d7.avif",
+      "archived": true,
+      "originalPath": "images/c9eee6eb45a742b2670099d7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/80f8e05dbc47cb41922eb186.avif",
+      "archived": true,
+      "originalPath": "images/80f8e05dbc47cb41922eb186.avif"
+    }
+  ],
+  "featuredImage": "images/7ceeef25da963754598d2ec9.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cheesy Cabbage Pesto Hash",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Cheesy Cabbage Pesto Hash. Each serving comes out to be 507 calories, 40.6g fats, 5.9g net carbs, and 26.8g protein.",
+    "datePublished": "2022-09-08T09:00:13+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Cheesy Cabbage Pesto Hash [Easy, Filling Low-Carb Breakfast]",
+      "description": "There’s no better way to start your day than with a tasty plate of hash and fried eggs. This keto-friendly cabbage and pesto hash dish uses cabbage and tasty halloumi cheese to replace the traditional potatoes that most hash recipes call for. The cabbage turns into a lovely sweet and silky texture when fried, and goes together wonderfully with the salty fried halloumi cheese.\n\nThis recipe is super simple to make. Simply chop up the cabbage and fry it up in a pan with the avocado oil and seasoning. While that’s cooking, chop up the halloumi into bite-sized pieces before frying them up in a separate pan. Once both of these ingredients are cooked, combine them into one pan and then stir through the pesto. While you’re finishing off the hash, place a couple of eggs into a pan and fry them up until cooked. Once everything is ready, place the components onto a plate and serve piping hot.\n\nThis cheesy cabbage and pesto hash is the perfect dish to make for breakfast or a weekend brunch. You can whip it up in a few minutes and increase the quantities of the ingredients if you have more mouths to feed. Next time you want to make a scrumptious hot breakfast, give this dish a go!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 tablespoon avocado oil, divided\n200 gram green cabbage\n100 gram halloumi cheese\n4 large egg\n2 tablespoon pesto\nSalt and pepper to taste\n\nNutrition Summary: This makes a total of 2 servings of Keto Cheesy Cabbage Pesto Hash. Each serving comes out to be 507 calories, 40.6g fat, 5.9g net carbs, and 26.8g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-11-17T16:00:34+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M31S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 7261
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 362
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 26
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iXMxpRWnCPI/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iXMxpRWnCPI?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=iXMxpRWnCPI",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "2 tablespoon avocado oil (divided)",
+      "200 gram green cabbage",
+      "100 gram halloumi cheese",
+      "4 large egg",
+      "2 tablespoon pesto",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Chop the green cabbage into small pieces/slices.",
+        "name": "Measure out and prepare all of the ingredients. Chop the green cabbage into small pieces/slices.",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan over low to medium heat, add the half of the avocado oil and cabbage. Cook for about 5 minutes or until the cabbage turns tender. Remove from pan and set aside.",
+        "name": "In a frying pan over low to medium heat, add the half of the avocado oil and cabbage. Cook for about 5 minutes or until the cabbage turns tender. Remove from pan and set aside.",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, dice the halloumi.",
+        "name": "In a bowl, dice the halloumi.",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same frying pan, add the other half of avocado oil and the diced halloumi. Fry the halloumi over low to medium heat for about 2 - 3 minutes or until it starts to get golden brown in color. Remove from pan and keep warm.",
+        "name": "In the same frying pan, add the other half of avocado oil and the diced halloumi. Fry the halloumi over low to medium heat for about 2 - 3 minutes or until it starts to get golden brown in color. Remove from pan and keep warm.",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into the pan and cook them sunny side up. Remove from pan and keep warm.",
+        "name": "Crack the eggs into the pan and cook them sunny side up. Remove from pan and keep warm.",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cabbage, halloumi, and pesto back into the frying pan. Stir all together to get warm.",
+        "name": "Add the cabbage, halloumi, and pesto back into the frying pan. Stir all together to get warm.",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the cabbage and halloumi with a sunny side up egg on top. Season with salt and pepper. Enjoy!",
+        "name": "Plate the cabbage and halloumi with a sunny side up egg on top. Season with salt and pepper. Enjoy!",
+        "url": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#wprm-recipe-54331-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "30-minute, beginner-friendly, eggs, gluten-free, high-fat, high-protein, keto, low-carb, one-pan, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "507 kcal",
+      "fatContent": "40.6 g",
+      "proteinContent": "26.8 g",
+      "carbohydrateContent": "5.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cheesy-cabbage-pesto-hash/"
+  },
+  "sourceIndex": {
+    "id": 47579,
+    "rid": 54331,
+    "t": "Keto Cheesy Cabbage Pesto Hash",
+    "u": "/keto-cheesy-cabbage-pesto-hash/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/05/Keto-Cheesy-Cabbage-Pesto-Hash-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.9,
+    "cal": 507,
+    "pr": 26.8,
+    "fa": 40.6,
+    "tm": 30,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "few-ingredients",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2022-09-08",
+    "cm": 0,
+    "ex": "There’s no better way to start your day than with a tasty plate of hash and fried eggs. This keto-friendly cabbage and pesto hash dish uses cabbage and tasty halloumi cheese to replace the",
+    "pv": 110
+  },
+  "sourceHtml": "pages/keto-cheesy-cabbage-pesto-hash.html",
+  "scrapedAt": "2026-11-07T08:11:12.174Z"
+}

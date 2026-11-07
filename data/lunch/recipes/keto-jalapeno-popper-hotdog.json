@@ -1,0 +1,304 @@
+{
+  "id": "ruled-46717",
+  "slug": "keto-jalapeno-popper-hotdog",
+  "title": "Keto Jalapeno Popper Hotdog",
+  "url": "https://www.ruled.me/keto-jalapeno-popper-hotdog/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Jalapeno Popper Hotdog. Each serving comes out to be 612 calories, 54.8g fats, 5.6g net carbs, and 22.6g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "612 kcal",
+    "fatContent": "54.8 g",
+    "proteinContent": "22.6 g",
+    "carbohydrateContent": "5.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 612,
+    "netCarbsGrams": 5.6,
+    "proteinGrams": 22.6,
+    "fatGrams": 54.8
+  },
+  "ingredients": [
+    "4 whole beef hot dogs",
+    "1 ounce cheddar cheese (shredded)",
+    "1/2 medium jalapeno pepper",
+    "4 slice bacon",
+    "4 ounce spring mix",
+    "1 tablespoon red wine vinegar"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Dice the jalapeno peppers. Preheat the oven to 400F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-1.jpg"
+    },
+    {
+      "text": "Make a slit in the hotdogs lengthwise, but don't cut them all the way through. Stuff the hotdogs with the diced jalapenos and shredded cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-2.jpg"
+    },
+    {
+      "text": "Wrap the hotdogs in the bacon slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-3.jpg"
+    },
+    {
+      "text": "Bake in the oven until the bacon is crispy, about 20-25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-4.jpg"
+    },
+    {
+      "text": "Serve with a side salad and sugar-free ketchup. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "red-meat",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/5ea985a99ab8b9253bc6c161.avif",
+      "archived": true,
+      "originalPath": "images/5ea985a99ab8b9253bc6c161.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Featured.jpg",
+      "path": "images/64e4092a44ddb54dbcfde2cc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-1.jpg",
+      "path": "../../nenaudojama/lunch/images/54f63d4b0b09d0706b44c91b.avif",
+      "archived": true,
+      "originalPath": "images/54f63d4b0b09d0706b44c91b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-2.jpg",
+      "path": "../../nenaudojama/lunch/images/88f3fec5f8b163436d2e70ee.avif",
+      "archived": true,
+      "originalPath": "images/88f3fec5f8b163436d2e70ee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-3.jpg",
+      "path": "../../nenaudojama/lunch/images/539dc5e9e34af8b2aa8ed72b.avif",
+      "archived": true,
+      "originalPath": "images/539dc5e9e34af8b2aa8ed72b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-4.jpg",
+      "path": "../../nenaudojama/lunch/images/ea92f67e2e0a5a30b6d04dd8.avif",
+      "archived": true,
+      "originalPath": "images/ea92f67e2e0a5a30b6d04dd8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/73c8f17bd55f980d2fffe4e3.jpg",
+      "archived": true,
+      "originalPath": "images/73c8f17bd55f980d2fffe4e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/22ae42fce2ed04cbdbb14308.avif",
+      "archived": true,
+      "originalPath": "images/22ae42fce2ed04cbdbb14308.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/e5b4c0e495661c22e35bfd9f.avif",
+      "archived": true,
+      "originalPath": "images/e5b4c0e495661c22e35bfd9f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/54135872dfd1a414fcc13972.avif",
+      "archived": true,
+      "originalPath": "images/54135872dfd1a414fcc13972.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a36d848465b9f1a5136ccb47.avif",
+      "archived": true,
+      "originalPath": "images/a36d848465b9f1a5136ccb47.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9a9b7a20425c0a22913a6e41.avif",
+      "archived": true,
+      "originalPath": "images/9a9b7a20425c0a22913a6e41.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9237573f6c495f7de6ed74dc.avif",
+      "archived": true,
+      "originalPath": "images/9237573f6c495f7de6ed74dc.avif"
+    }
+  ],
+  "featuredImage": "images/64e4092a44ddb54dbcfde2cc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Jalapeno Popper Hotdog",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Jalapeno Popper Hotdog. Each serving comes out to be 612 calories, 54.8g fats, 5.6g net carbs, and 22.6g protein.",
+    "datePublished": "2022-02-10T10:00:31+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "4 whole beef hot dogs",
+      "1 ounce cheddar cheese (shredded)",
+      "1/2 medium jalapeno pepper",
+      "4 slice bacon",
+      "4 ounce spring mix",
+      "1 tablespoon red wine vinegar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Dice the jalapeno peppers. Preheat the oven to 400F.",
+        "name": "Measure out and prepare all the ingredients. Dice the jalapeno peppers. Preheat the oven to 400F.",
+        "url": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make a slit in the hotdogs lengthwise, but don't cut them all the way through. Stuff the hotdogs with the diced jalapenos and shredded cheese.",
+        "name": "Make a slit in the hotdogs lengthwise, but don't cut them all the way through. Stuff the hotdogs with the diced jalapenos and shredded cheese.",
+        "url": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wrap the hotdogs in the bacon slices.",
+        "name": "Wrap the hotdogs in the bacon slices.",
+        "url": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven until the bacon is crispy, about 20-25 minutes.",
+        "name": "Bake in the oven until the bacon is crispy, about 20-25 minutes.",
+        "url": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a side salad and sugar-free ketchup. Enjoy!",
+        "name": "Serve with a side salad and sugar-free ketchup. Enjoy!",
+        "url": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#wprm-recipe-54091-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, family-friendly, game-day, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, red meat, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "612 kcal",
+      "fatContent": "54.8 g",
+      "proteinContent": "22.6 g",
+      "carbohydrateContent": "5.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-jalapeno-popper-hotdog/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-jalapeno-popper-hotdog/"
+  },
+  "sourceIndex": {
+    "id": 46717,
+    "rid": 54091,
+    "t": "Keto Jalapeno Popper Hotdog",
+    "u": "/keto-jalapeno-popper-hotdog/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/12/Jalapeno-Popper-Hotdog-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.6,
+    "cal": 612,
+    "pr": 22.6,
+    "fa": 54.8,
+    "tm": 40,
+    "sv": 2,
+    "kw": [
+      "egg-free",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "red-meat",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2022-02-10",
+    "cm": 0,
+    "ex": "Hotdogs are a little plain for me. Being on this diet, I have to add touches to main dishes to make them more flavorful otherwise I feel like I'll get bored quick! So here it is, not-so-plain hotdog",
+    "pv": 147
+  },
+  "sourceHtml": "pages/keto-jalapeno-popper-hotdog.html",
+  "scrapedAt": "2026-11-07T08:15:37.396Z"
+}

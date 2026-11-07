@@ -1,0 +1,244 @@
+{
+  "id": "ruled-45268",
+  "slug": "triple-berry-smoothie",
+  "title": "Triple Berry Smoothie",
+  "url": "https://www.ruled.me/triple-berry-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Triple Berry Smoothie. The serving comes out to be 540 calories, 47.6g fats, 12.1g net carbs, and 12.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "540 kcal",
+    "fatContent": "47.6 g",
+    "proteinContent": "12.8 g",
+    "carbohydrateContent": "12.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 540,
+    "netCarbsGrams": 12.1,
+    "proteinGrams": 12.8,
+    "fatGrams": 47.6
+  },
+  "ingredients": [
+    "3/4 cup unsweetened almond milk",
+    "1/4 cup heavy cream",
+    "100 gram frozen berries",
+    "1/2 medium avocado",
+    "40 gram spinach",
+    "2 tablespoon hemp seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/triple-berry-smoothie/#wprm-recipe-53773-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-1.jpg"
+    },
+    {
+      "text": "Put all of the ingredients into a blender. Mix until everything is combined and smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/triple-berry-smoothie/#wprm-recipe-53773-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-2.jpg"
+    },
+    {
+      "text": "Pour in glasses and top with extra berries if desired. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/triple-berry-smoothie/#wprm-recipe-53773-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/e3e1e91bf0e3cc496dca9d5d.avif",
+      "archived": true,
+      "originalPath": "images/e3e1e91bf0e3cc496dca9d5d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Featured.jpg",
+      "path": "images/5c7ca6c3121e2fce13ce9a1f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/95e72b63f45d8c7bd3f5fc26.jpg",
+      "archived": true,
+      "originalPath": "images/95e72b63f45d8c7bd3f5fc26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/6671ecebd326cddeaaa74741.jpg",
+      "archived": true,
+      "originalPath": "images/6671ecebd326cddeaaa74741.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/34d86ddec81a64fd12790d9b.jpg",
+      "archived": true,
+      "originalPath": "images/34d86ddec81a64fd12790d9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/dcfd309a90539f2963028746.jpg",
+      "archived": true,
+      "originalPath": "images/dcfd309a90539f2963028746.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/c2932a3f927318c83e575a90.jpg",
+      "archived": true,
+      "originalPath": "images/c2932a3f927318c83e575a90.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a8870c0827f5956ff91bc878.jpg",
+      "archived": true,
+      "originalPath": "images/a8870c0827f5956ff91bc878.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/baf7f18252e8ccda58628665.jpg",
+      "archived": true,
+      "originalPath": "images/baf7f18252e8ccda58628665.jpg"
+    }
+  ],
+  "featuredImage": "images/5c7ca6c3121e2fce13ce9a1f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Triple Berry Smoothie",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Triple Berry Smoothie. The serving comes out to be 540 calories, 47.6g fats, 12.1g net carbs, and 12.8g protein.",
+    "datePublished": "2021-05-25T09:00:42+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup unsweetened almond milk",
+      "1/4 cup heavy cream",
+      "100 gram frozen berries",
+      "1/2 medium avocado",
+      "40 gram spinach",
+      "2 tablespoon hemp seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/triple-berry-smoothie/#wprm-recipe-53773-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put all of the ingredients into a blender. Mix until everything is combined and smooth.",
+        "name": "Put all of the ingredients into a blender. Mix until everything is combined and smooth.",
+        "url": "https://www.ruled.me/triple-berry-smoothie/#wprm-recipe-53773-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Keto-Triple-Berry-Smoothie-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in glasses and top with extra berries if desired. Enjoy!",
+        "name": "Pour in glasses and top with extra berries if desired. Enjoy!",
+        "url": "https://www.ruled.me/triple-berry-smoothie/#wprm-recipe-53773-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Snacks"
+    ],
+    "keywords": "15-minute, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "540 kcal",
+      "fatContent": "47.6 g",
+      "proteinContent": "12.8 g",
+      "carbohydrateContent": "12.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/triple-berry-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/triple-berry-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/triple-berry-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 45268,
+    "rid": 53773,
+    "t": "Triple Berry Smoothie",
+    "u": "/triple-berry-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Triple-Berry-Smoothie-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 12.1,
+    "cal": 540,
+    "pr": 12.8,
+    "fa": 47.6,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2021-05-25",
+    "cm": 0,
+    "ex": "I have been on a smoothie kick lately. They are such an easy breakfast when you have crunched on time and they have been keeping full until lunch time. I love putting avocados in them as it makes the",
+    "pv": 95
+  },
+  "sourceHtml": "pages/triple-berry-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:12.368Z"
+}

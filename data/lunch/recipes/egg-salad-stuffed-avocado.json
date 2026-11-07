@@ -1,0 +1,321 @@
+{
+  "id": "ruled-13725",
+  "slug": "egg-salad-stuffed-avocado",
+  "title": "Egg Salad Stuffed Avocado",
+  "url": "https://www.ruled.me/egg-salad-stuffed-avocado/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Egg Salad Stuffed Avocado. Each serving comes out to be 299 calories, 26.2g fats, 3.5g net carbs, and 8.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "299 kcal",
+    "fatContent": "26.2 g",
+    "proteinContent": "8.5 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 299,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 8.5,
+    "fatGrams": 26.2
+  },
+  "ingredients": [
+    "6 large hard-boiled egg",
+    "1/3 medium red onion",
+    "120 gram celery",
+    "4 tablespoon mayonnaise",
+    "2 teaspoon whole grain mustard",
+    "2 tablespoon lime juice",
+    "1 teaspoon hot sauce",
+    "1/2 teaspoon cumin",
+    "salt and pepper (to taste)",
+    "3 medium avocado"
+  ],
+  "instructions": [
+    {
+      "text": "This recipe is super fast and simple. You’ll have to have pre-made hard-boiled eggs, though. If you need help making them, take a look at the article I wrote on how to make hard-boiled eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Chop all of the ingredients, except the avocado, up into bite-size chunks. You can vary in size of chunks to add different textures throughout.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_12051.jpg"
+    },
+    {
+      "text": "In a bowl, add all of your chopped ingredients. The vegetables and eggs, mayonnaise, whole grain mustard, fresh lime juice, hot sauce, cumin, and salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1211.jpg"
+    },
+    {
+      "text": "Mix everything together well until it’s all combined and the ingredients are distributed well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1214.jpg"
+    },
+    {
+      "text": "Slice open your avocados using a sharp knife. Hit the pit of the avocado using the knife and twist to remove it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1219.jpg"
+    },
+    {
+      "text": "Spoon the mixture into the hole of the avocado and add a little more hot sauce. Add chives to garnish if you’d like and eat! In the photo I don’t use that much egg salad, but I highly suggesting adding some more egg salad to it for a fast and easy lunch!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "no-cook",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/AvocadoEggSalad.jpg",
+      "path": "images/38801c2244b947247cacaf2b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_12051.jpg",
+      "path": "../../nenaudojama/lunch/images/c2f7a6c1c6d5b1e8cccb5037.jpg",
+      "archived": true,
+      "originalPath": "images/c2f7a6c1c6d5b1e8cccb5037.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1211.jpg",
+      "path": "../../nenaudojama/lunch/images/f3c803af3c2b795d1555f0d6.jpg",
+      "archived": true,
+      "originalPath": "images/f3c803af3c2b795d1555f0d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1214.jpg",
+      "path": "../../nenaudojama/lunch/images/b779819fab7a1df375db865f.jpg",
+      "archived": true,
+      "originalPath": "images/b779819fab7a1df375db865f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1219.jpg",
+      "path": "../../nenaudojama/lunch/images/80dc21288a99ffbee122fbdd.jpg",
+      "archived": true,
+      "originalPath": "images/80dc21288a99ffbee122fbdd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/AvocadoEggSaladSecond.jpg",
+      "path": "../../nenaudojama/lunch/images/86a59863ca5b0319b0c9e9e0.avif",
+      "archived": true,
+      "originalPath": "images/86a59863ca5b0319b0c9e9e0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_12031.jpg",
+      "path": "../../nenaudojama/lunch/images/2be12dc293ee97e1f5ae63e6.avif",
+      "archived": true,
+      "originalPath": "images/2be12dc293ee97e1f5ae63e6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/AvocadoEggSaladLong.jpg",
+      "path": "../../nenaudojama/lunch/images/f2d0bd7dd3c7b3738180dfa7.jpg",
+      "archived": true,
+      "originalPath": "images/f2d0bd7dd3c7b3738180dfa7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_12051-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ad105e14a92feaf2f86de7ba.jpg",
+      "archived": true,
+      "originalPath": "images/ad105e14a92feaf2f86de7ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1211-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e12627918c3f0a8b2b474f81.jpg",
+      "archived": true,
+      "originalPath": "images/e12627918c3f0a8b2b474f81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1214-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/80cc733a0987d3e7d102ec79.jpg",
+      "archived": true,
+      "originalPath": "images/80cc733a0987d3e7d102ec79.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1219-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/831818fea8a6206267dca7a9.jpg",
+      "archived": true,
+      "originalPath": "images/831818fea8a6206267dca7a9.jpg"
+    }
+  ],
+  "featuredImage": "images/38801c2244b947247cacaf2b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Egg Salad Stuffed Avocado",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Egg Salad Stuffed Avocado. Each serving comes out to be 299 calories, 26.2g fats, 3.5g net carbs, and 8.5g protein.",
+    "datePublished": "2014-04-27T19:56:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/AvocadoEggSalad.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT20M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "6 large hard-boiled egg",
+      "1/3 medium red onion",
+      "120 gram celery",
+      "4 tablespoon mayonnaise",
+      "2 teaspoon whole grain mustard",
+      "2 tablespoon lime juice",
+      "1 teaspoon hot sauce",
+      "1/2 teaspoon cumin",
+      "salt and pepper (to taste)",
+      "3 medium avocado"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "This recipe is super fast and simple. You’ll have to have pre-made hard-boiled eggs, though. If you need help making them, take a look at the article I wrote on how to make hard-boiled eggs.",
+        "name": "This recipe is super fast and simple. You’ll have to have pre-made hard-boiled eggs, though. If you need help making them, take a look at the article I wrote on how to make hard-boiled eggs.",
+        "url": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop all of the ingredients, except the avocado, up into bite-size chunks. You can vary in size of chunks to add different textures throughout.",
+        "name": "Chop all of the ingredients, except the avocado, up into bite-size chunks. You can vary in size of chunks to add different textures throughout.",
+        "url": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_12051.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, add all of your chopped ingredients. The vegetables and eggs, mayonnaise, whole grain mustard, fresh lime juice, hot sauce, cumin, and salt and pepper to taste.",
+        "name": "In a bowl, add all of your chopped ingredients. The vegetables and eggs, mayonnaise, whole grain mustard, fresh lime juice, hot sauce, cumin, and salt and pepper to taste.",
+        "url": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1211.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything together well until it’s all combined and the ingredients are distributed well.",
+        "name": "Mix everything together well until it’s all combined and the ingredients are distributed well.",
+        "url": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1214.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice open your avocados using a sharp knife. Hit the pit of the avocado using the knife and twist to remove it.",
+        "name": "Slice open your avocados using a sharp knife. Hit the pit of the avocado using the knife and twist to remove it.",
+        "url": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_1219.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the mixture into the hole of the avocado and add a little more hot sauce. Add chives to garnish if you’d like and eat! In the photo I don’t use that much egg salad, but I highly suggesting adding some more egg salad to it for a fast and easy lunch!",
+        "name": "Spoon the mixture into the hole of the avocado and add a little more hot sauce. Add chives to garnish if you’d like and eat! In the photo I don’t use that much egg salad, but I highly suggesting adding some more egg salad to it for a fast and easy lunch!",
+        "url": "https://www.ruled.me/egg-salad-stuffed-avocado/#wprm-recipe-51049-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, eggs, gluten-free, keto, low-carb, no-cook, nut-free, packed-lunch, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "299 kcal",
+      "fatContent": "26.2 g",
+      "proteinContent": "8.5 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/egg-salad-stuffed-avocado/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/egg-salad-stuffed-avocado/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/egg-salad-stuffed-avocado/"
+  },
+  "sourceIndex": {
+    "id": 13725,
+    "rid": 51049,
+    "t": "Egg Salad Stuffed Avocado",
+    "u": "/egg-salad-stuffed-avocado/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/AvocadoEggSalad.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 299,
+    "pr": 8.5,
+    "fa": 26.2,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "no-cook",
+      "eggs"
+    ],
+    "d": "2014-04-27",
+    "cm": 15,
+    "ex": "Normally I'm one of the very few people on this planet that actually says, \"I hate avocados.\" I just kept seeing so many people loving them and loving them, so I decided to give them a try again",
+    "pv": 311
+  },
+  "sourceHtml": "pages/egg-salad-stuffed-avocado.html",
+  "scrapedAt": "2026-11-07T08:18:09.698Z"
+}

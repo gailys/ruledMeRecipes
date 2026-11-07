@@ -1,0 +1,418 @@
+{
+  "id": "ruled-28281",
+  "slug": "pumpkin-fudge",
+  "title": "Pumpkin Fudge",
+  "url": "https://www.ruled.me/pumpkin-fudge/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 25 servings of Pumpkin Fudge. Each serving comes out to be 127 calories, 12.1g fats, 1.9g net carbs, and 1.4g protein.",
+  "servings": 25,
+  "yield": [
+    "25",
+    "25 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT120M",
+  "totalTime": "PT130M",
+  "totalMinutes": 130,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "127 kcal",
+    "fatContent": "12.1 g",
+    "proteinContent": "1.4 g",
+    "carbohydrateContent": "1.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 127,
+    "netCarbsGrams": 1.9,
+    "proteinGrams": 1.4,
+    "fatGrams": 12.1
+  },
+  "ingredients": [
+    "1 3/4 cup coconut butter",
+    "1 cup pumpkin puree",
+    "1/4 teaspoon ground nutmeg",
+    "1 teaspoon ground cinnamon",
+    "1 tablespoon coconut oil"
+  ],
+  "instructions": [
+    {
+      "text": "Line a square baking pan with aluminum foil and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-01-1.jpg"
+    },
+    {
+      "text": "Spoon the coconut butter into a saucepan, warming it over low heat until melted. Stir and remove from the heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-02-1.jpg"
+    },
+    {
+      "text": "Add the pumpkin, nutmeg, and cinnamon. Stir to combine into a thick, almost grainy mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-03.jpg"
+    },
+    {
+      "text": "Add the coconut oil and stir vigorously to combine the ingredients and distribute the oil evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-04-1.jpg"
+    },
+    {
+      "text": "Spoon the mixture into the prepared pan and spread it out evenly with the back of a spoon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-05-1.jpg"
+    },
+    {
+      "text": "Place a piece of wax paper on top of the fudge and press the mixture evenly into the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-06-1.jpg"
+    },
+    {
+      "text": "Remove the wax paper and discard. Place the fudge in the refrigerator for 1–2 hours, until cooled and firm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-07-1.jpg"
+    },
+    {
+      "text": "Remove the fudge from the refrigerator and carefully lift out the foil along with the fudge. Peel the foil back from the edges of the fudge. Use a sharp knife to cut the large brick of fudge into equal squares.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-08-1.jpg"
+    },
+    {
+      "text": "Keep in the fridge in a sealed container for up to 1 week.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-09-1.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/19a607541ae5f58a7ea27f64.jpg",
+      "archived": true,
+      "originalPath": "images/19a607541ae5f58a7ea27f64.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef.jpg",
+      "path": "images/c28e21692fc5935ec72a2549.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-01-1.jpg",
+      "path": "../../nenaudojama/dessert/images/99bf80dc6d6be2ce0d0d84fa.jpg",
+      "archived": true,
+      "originalPath": "images/99bf80dc6d6be2ce0d0d84fa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-02-1.jpg",
+      "path": "../../nenaudojama/dessert/images/0e981ca3191d8e89c810a9c3.jpg",
+      "archived": true,
+      "originalPath": "images/0e981ca3191d8e89c810a9c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-03.jpg",
+      "path": "../../nenaudojama/dessert/images/40cb33985c1fa1ae6399feaa.jpg",
+      "archived": true,
+      "originalPath": "images/40cb33985c1fa1ae6399feaa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-04-1.jpg",
+      "path": "../../nenaudojama/dessert/images/d1ab448fbff53e22f561b5d1.jpg",
+      "archived": true,
+      "originalPath": "images/d1ab448fbff53e22f561b5d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-05-1.jpg",
+      "path": "../../nenaudojama/dessert/images/5d3f6c05a76189076281723c.jpg",
+      "archived": true,
+      "originalPath": "images/5d3f6c05a76189076281723c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-06-1.jpg",
+      "path": "../../nenaudojama/dessert/images/fc036f3ed2ae0404c6e79814.jpg",
+      "archived": true,
+      "originalPath": "images/fc036f3ed2ae0404c6e79814.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-07-1.jpg",
+      "path": "../../nenaudojama/dessert/images/4dae90d19f949401f4e2a02c.jpg",
+      "archived": true,
+      "originalPath": "images/4dae90d19f949401f4e2a02c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-08-1.jpg",
+      "path": "../../nenaudojama/dessert/images/52935693ad1c53b566730097.jpg",
+      "archived": true,
+      "originalPath": "images/52935693ad1c53b566730097.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-09-1.jpg",
+      "path": "../../nenaudojama/dessert/images/1cb6ef251ebf792898be2bee.jpg",
+      "archived": true,
+      "originalPath": "images/1cb6ef251ebf792898be2bee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-2nd.jpg",
+      "path": "../../nenaudojama/dessert/images/399ef8c23041d53a90046225.avif",
+      "archived": true,
+      "originalPath": "images/399ef8c23041d53a90046225.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/b29ea789566eeeeaea82d4ac.avif",
+      "archived": true,
+      "originalPath": "images/b29ea789566eeeeaea82d4ac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-01-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/10162d2feba6af1294e73943.jpg",
+      "archived": true,
+      "originalPath": "images/10162d2feba6af1294e73943.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-02-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6699cd77a345a5f7ea1b3cfa.jpg",
+      "archived": true,
+      "originalPath": "images/6699cd77a345a5f7ea1b3cfa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/d020592a1c307b7ae6be14f6.jpg",
+      "archived": true,
+      "originalPath": "images/d020592a1c307b7ae6be14f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-04-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/57752a03a7003d3689b55582.jpg",
+      "archived": true,
+      "originalPath": "images/57752a03a7003d3689b55582.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-05-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9989401f8b96e7acf4fa1dab.jpg",
+      "archived": true,
+      "originalPath": "images/9989401f8b96e7acf4fa1dab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-06-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4c2b7edd97f0800d7c8da3b8.jpg",
+      "archived": true,
+      "originalPath": "images/4c2b7edd97f0800d7c8da3b8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-07-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/41c1db76c67cd5953b16fe6c.jpg",
+      "archived": true,
+      "originalPath": "images/41c1db76c67cd5953b16fe6c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-08-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5b5c8ab2e57718c9a05490a8.jpg",
+      "archived": true,
+      "originalPath": "images/5b5c8ab2e57718c9a05490a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-09-1-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1ebfba223c28121747f5980d.jpg",
+      "archived": true,
+      "originalPath": "images/1ebfba223c28121747f5980d.jpg"
+    }
+  ],
+  "featuredImage": "images/c28e21692fc5935ec72a2549.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pumpkin Fudge",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 25 servings of Pumpkin Fudge. Each serving comes out to be 127 calories, 12.1g fats, 1.9g net carbs, and 1.4g protein.",
+    "datePublished": "2016-11-22T12:00:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef-480x270.jpg"
+    ],
+    "recipeYield": [
+      "25",
+      "25 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT120M",
+    "totalTime": "PT130M",
+    "recipeIngredient": [
+      "1 3/4 cup coconut butter",
+      "1 cup pumpkin puree",
+      "1/4 teaspoon ground nutmeg",
+      "1 teaspoon ground cinnamon",
+      "1 tablespoon coconut oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Line a square baking pan with aluminum foil and set aside.",
+        "name": "Line a square baking pan with aluminum foil and set aside.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-01-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the coconut butter into a saucepan, warming it over low heat until melted. Stir and remove from the heat.",
+        "name": "Spoon the coconut butter into a saucepan, warming it over low heat until melted. Stir and remove from the heat.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-02-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pumpkin, nutmeg, and cinnamon. Stir to combine into a thick, almost grainy mixture.",
+        "name": "Add the pumpkin, nutmeg, and cinnamon. Stir to combine into a thick, almost grainy mixture.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut oil and stir vigorously to combine the ingredients and distribute the oil evenly.",
+        "name": "Add the coconut oil and stir vigorously to combine the ingredients and distribute the oil evenly.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-04-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the mixture into the prepared pan and spread it out evenly with the back of a spoon.",
+        "name": "Spoon the mixture into the prepared pan and spread it out evenly with the back of a spoon.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-05-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place a piece of wax paper on top of the fudge and press the mixture evenly into the pan.",
+        "name": "Place a piece of wax paper on top of the fudge and press the mixture evenly into the pan.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-06-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the wax paper and discard. Place the fudge in the refrigerator for 1–2 hours, until cooled and firm.",
+        "name": "Remove the wax paper and discard. Place the fudge in the refrigerator for 1–2 hours, until cooled and firm.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-07-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the fudge from the refrigerator and carefully lift out the foil along with the fudge. Peel the foil back from the edges of the fudge. Use a sharp knife to cut the large brick of fudge into equal squares.",
+        "name": "Remove the fudge from the refrigerator and carefully lift out the foil along with the fudge. Peel the foil back from the edges of the fudge. Use a sharp knife to cut the large brick of fudge into equal squares.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-08-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Keep in the fridge in a sealed container for up to 1 week.",
+        "name": "Keep in the fridge in a sealed container for up to 1 week.",
+        "url": "https://www.ruled.me/pumpkin-fudge/#wprm-recipe-51975-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/11/pumpkin-fudge-step-09-1.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, dairy-free, egg-free, fall, gluten-free, keto, low-carb, make-ahead, nut-free, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "127 kcal",
+      "fatContent": "12.1 g",
+      "proteinContent": "1.4 g",
+      "carbohydrateContent": "1.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pumpkin-fudge/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pumpkin-fudge/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pumpkin-fudge/"
+  },
+  "sourceIndex": {
+    "id": 28281,
+    "rid": 51975,
+    "t": "Pumpkin Fudge",
+    "u": "/pumpkin-fudge/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/11/82ac7e35029d64582379d764b85129ef-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.9,
+    "cal": 127,
+    "pr": 1.4,
+    "fa": 12.1,
+    "tm": 130,
+    "sv": 25,
+    "kw": [
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2016-11-22",
+    "cm": 4,
+    "ex": "If you love a sweet treat from time to time but think that’s not possible on a keto diet, think again! This Pumpkin Fudge is every bit as indulgent as regular fudge, but with zero added sugar. We",
+    "pv": 60
+  },
+  "sourceHtml": "pages/pumpkin-fudge.html",
+  "scrapedAt": "2026-11-07T08:30:47.357Z"
+}

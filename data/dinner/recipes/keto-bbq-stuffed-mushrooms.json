@@ -1,0 +1,359 @@
+{
+  "id": "ruled-46539",
+  "slug": "keto-bbq-stuffed-mushrooms",
+  "title": "Keto BBQ Stuffed Mushrooms",
+  "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto BBQ Stuffed Mushrooms. Each serving comes out to be 864 calories, 56.6g fats, 8.5g net carbs, and 78.2g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "864 kcal",
+    "fatContent": "56.6 g",
+    "proteinContent": "78.2 g",
+    "carbohydrateContent": "8.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 864,
+    "netCarbsGrams": 8.5,
+    "proteinGrams": 78.2,
+    "fatGrams": 56.6
+  },
+  "ingredients": [
+    "2 large portobello mushrooms",
+    "1/2 whole rotisserie chicken",
+    "1 cup cheddar cheese (shredded)",
+    "1/4 cup low-carb bbq sauce",
+    "1 tablespoon olive oil",
+    "4 ounce coleslaw mix",
+    "1 ounce mayonnaise",
+    "1/2 tablespoon apple cider vinegar",
+    "1/2 tablespoon lemon juice",
+    "1/2 drop liquid stevia",
+    "1/2 teaspoon celery seed",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 400F and mix up the ingredients for the coleslaw.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-1.jpg"
+    },
+    {
+      "text": "Line a baking pan with parchment paper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-2.jpg"
+    },
+    {
+      "text": "In a bowl with the shredded rotisserie chicken, add the low-carb BBQ sauce and shredded cheddar cheese. Mix until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-3.jpg"
+    },
+    {
+      "text": "Break the stem off the portobello mushroom caps. Remove the black gills. Drizzle the mushroom caps with olive oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-4.jpg"
+    },
+    {
+      "text": "Using the rotisserie chicken mixture, spoon it into the mushroom caps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-5.jpg"
+    },
+    {
+      "text": "Bake in the preheated oven for 30-40 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-6.jpg"
+    },
+    {
+      "text": "Serve the mushroom caps with coleslaw. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/f391405fe26743a44f5d08b5.jpg",
+      "archived": true,
+      "originalPath": "images/f391405fe26743a44f5d08b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Featured.jpg",
+      "path": "images/32f3904cd0df38b406a6de58.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-1.jpg",
+      "path": "../../nenaudojama/dinner/images/d4ed5aee8794590f30184b99.jpg",
+      "archived": true,
+      "originalPath": "images/d4ed5aee8794590f30184b99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-2.jpg",
+      "path": "../../nenaudojama/dinner/images/41e66867669da2fe193beb5b.jpg",
+      "archived": true,
+      "originalPath": "images/41e66867669da2fe193beb5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-3.jpg",
+      "path": "../../nenaudojama/dinner/images/c584ea4fe90f45a849c4093e.jpg",
+      "archived": true,
+      "originalPath": "images/c584ea4fe90f45a849c4093e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-4.jpg",
+      "path": "../../nenaudojama/dinner/images/b8fb576e6397551ee27af57f.jpg",
+      "archived": true,
+      "originalPath": "images/b8fb576e6397551ee27af57f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-5.jpg",
+      "path": "../../nenaudojama/dinner/images/0777c63a8d86ffcb3ba32014.jpg",
+      "archived": true,
+      "originalPath": "images/0777c63a8d86ffcb3ba32014.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-6.jpg",
+      "path": "../../nenaudojama/dinner/images/5bb689a4d85bb09f128f61a7.jpg",
+      "archived": true,
+      "originalPath": "images/5bb689a4d85bb09f128f61a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/27a4885c6150d041839aa261.jpg",
+      "archived": true,
+      "originalPath": "images/27a4885c6150d041839aa261.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/ca579a062764c50b013c8e99.jpg",
+      "archived": true,
+      "originalPath": "images/ca579a062764c50b013c8e99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/ecb450ae1fa4be4938e48179.jpg",
+      "archived": true,
+      "originalPath": "images/ecb450ae1fa4be4938e48179.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/db417fd3b4a54773d0b4d78e.jpg",
+      "archived": true,
+      "originalPath": "images/db417fd3b4a54773d0b4d78e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/365bb8fd7d6b7eb0f371da18.jpg",
+      "archived": true,
+      "originalPath": "images/365bb8fd7d6b7eb0f371da18.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cfadd0855dccd196371a2365.jpg",
+      "archived": true,
+      "originalPath": "images/cfadd0855dccd196371a2365.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8947a7e16b9e3f6c340ed860.jpg",
+      "archived": true,
+      "originalPath": "images/8947a7e16b9e3f6c340ed860.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1088f2f34fc8bd560bd017ba.jpg",
+      "archived": true,
+      "originalPath": "images/1088f2f34fc8bd560bd017ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/761b0b192ae33945a9988cad.jpg",
+      "archived": true,
+      "originalPath": "images/761b0b192ae33945a9988cad.jpg"
+    }
+  ],
+  "featuredImage": "images/32f3904cd0df38b406a6de58.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto BBQ Stuffed Mushrooms",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto BBQ Stuffed Mushrooms. Each serving comes out to be 864 calories, 56.6g fats, 8.5g net carbs, and 78.2g protein.",
+    "datePublished": "2022-01-04T10:00:20+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "2 large portobello mushrooms",
+      "1/2 whole rotisserie chicken",
+      "1 cup cheddar cheese (shredded)",
+      "1/4 cup low-carb bbq sauce",
+      "1 tablespoon olive oil",
+      "4 ounce coleslaw mix",
+      "1 ounce mayonnaise",
+      "1/2 tablespoon apple cider vinegar",
+      "1/2 tablespoon lemon juice",
+      "1/2 drop liquid stevia",
+      "1/2 teaspoon celery seed",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 400F and mix up the ingredients for the coleslaw.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 400F and mix up the ingredients for the coleslaw.",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a baking pan with parchment paper.",
+        "name": "Line a baking pan with parchment paper.",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl with the shredded rotisserie chicken, add the low-carb BBQ sauce and shredded cheddar cheese. Mix until combined well.",
+        "name": "In a bowl with the shredded rotisserie chicken, add the low-carb BBQ sauce and shredded cheddar cheese. Mix until combined well.",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Break the stem off the portobello mushroom caps. Remove the black gills. Drizzle the mushroom caps with olive oil.",
+        "name": "Break the stem off the portobello mushroom caps. Remove the black gills. Drizzle the mushroom caps with olive oil.",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using the rotisserie chicken mixture, spoon it into the mushroom caps.",
+        "name": "Using the rotisserie chicken mixture, spoon it into the mushroom caps.",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 30-40 minutes.",
+        "name": "Bake in the preheated oven for 30-40 minutes.",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the mushroom caps with coleslaw. Serve and enjoy!",
+        "name": "Serve the mushroom caps with coleslaw. Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#wprm-recipe-54045-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "game-day, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, poultry, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "864 kcal",
+      "fatContent": "56.6 g",
+      "proteinContent": "78.2 g",
+      "carbohydrateContent": "8.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-bbq-stuffed-mushrooms/"
+  },
+  "sourceIndex": {
+    "id": 46539,
+    "rid": 54045,
+    "t": "Keto BBQ Stuffed Mushrooms",
+    "u": "/keto-bbq-stuffed-mushrooms/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/11/BBQ-Chicken-Mushroom-Caps-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 8.5,
+    "cal": 864,
+    "pr": 78.2,
+    "fa": 56.6,
+    "tm": 50,
+    "sv": 2,
+    "kw": [
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2022-01-04",
+    "cm": 0,
+    "ex": "This BBQ mushroom recipe is like an open-faced burger! Easy to make with a rotisserie chicken mixed with low-carb BBQ sauce and cheddar cheese, topped with coleslaw, this is one tasty dinner! I'll",
+    "pv": 48
+  },
+  "sourceHtml": "pages/keto-bbq-stuffed-mushrooms.html",
+  "scrapedAt": "2026-11-07T08:27:43.930Z"
+}

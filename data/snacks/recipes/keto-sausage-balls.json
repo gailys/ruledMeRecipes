@@ -1,0 +1,305 @@
+{
+  "id": "ruled-47350",
+  "slug": "keto-sausage-balls",
+  "title": "Keto Sausage Balls",
+  "url": "https://www.ruled.me/keto-sausage-balls/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Sausage Balls. Each serving comes out to be 689 calories, 59.5g fats, 5.7g net carbs, and 29.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT35M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "689 kcal",
+    "fatContent": "59.5 g",
+    "proteinContent": "29.7 g",
+    "carbohydrateContent": "5.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 689,
+    "netCarbsGrams": 5.7,
+    "proteinGrams": 29.7,
+    "fatGrams": 59.5
+  },
+  "ingredients": [
+    "16 ounce mild italian sausage",
+    "1 cup almond flour",
+    "1 cup cheddar cheese (shredded)",
+    "1/4 cup heavy cream",
+    "3 medium green onion (thinly sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Preheat oven to 350F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-1.jpg"
+    },
+    {
+      "text": "In a bowl, mash up the Italian sausage. Add in the shredded cheddar cheese, almond flour, heavy cream, and sliced green onion. Stir to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-2.jpg"
+    },
+    {
+      "text": "Using clean hands, form balls and place them on a parchment paper lined baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-3.jpg"
+    },
+    {
+      "text": "Bake in the oven for about 35 minutes or until internal temperature reaches 165F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-4.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/6dcb28f6e8219bd27fe9eb64.avif",
+      "archived": true,
+      "originalPath": "images/6dcb28f6e8219bd27fe9eb64.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/a373a58b5216d3dd412970a0.avif",
+      "archived": true,
+      "originalPath": "images/a373a58b5216d3dd412970a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-1.jpg",
+      "path": "../../nenaudojama/snacks/images/64968bc21f6ede3f92a2f6e7.jpg",
+      "archived": true,
+      "originalPath": "images/64968bc21f6ede3f92a2f6e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-2.jpg",
+      "path": "../../nenaudojama/snacks/images/57b71414217c69d211d68ec9.avif",
+      "archived": true,
+      "originalPath": "images/57b71414217c69d211d68ec9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-3.jpg",
+      "path": "../../nenaudojama/snacks/images/65bf02c16828232fe61ddb3d.avif",
+      "archived": true,
+      "originalPath": "images/65bf02c16828232fe61ddb3d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-4.jpg",
+      "path": "../../nenaudojama/snacks/images/6a6a67c6f2e6e124aadcb9d9.jpg",
+      "archived": true,
+      "originalPath": "images/6a6a67c6f2e6e124aadcb9d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/cdd6137f997e9adb11c7ae03.avif",
+      "archived": true,
+      "originalPath": "images/cdd6137f997e9adb11c7ae03.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/37f06c35b0d346ea20ca8b9c.avif",
+      "archived": true,
+      "originalPath": "images/37f06c35b0d346ea20ca8b9c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/289a37b27c1b6bf0acadcafb.jpg",
+      "archived": true,
+      "originalPath": "images/289a37b27c1b6bf0acadcafb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/f7ad9eb0b6b6ed88982b29b0.avif",
+      "archived": true,
+      "originalPath": "images/f7ad9eb0b6b6ed88982b29b0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/0daf44937371c6adb321b8ae.jpg",
+      "archived": true,
+      "originalPath": "images/0daf44937371c6adb321b8ae.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4d077f22ca7132d4d4c722f0.jpg",
+      "archived": true,
+      "originalPath": "images/4d077f22ca7132d4d4c722f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/ceda7eaeed6ccf7e40e76d96.jpg",
+      "archived": true,
+      "originalPath": "images/ceda7eaeed6ccf7e40e76d96.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/a373a58b5216d3dd412970a0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Sausage Balls",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Sausage Balls. Each serving comes out to be 689 calories, 59.5g fats, 5.7g net carbs, and 29.7g protein.",
+    "datePublished": "2022-07-12T09:00:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT35M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "16 ounce mild italian sausage",
+      "1 cup almond flour",
+      "1 cup cheddar cheese (shredded)",
+      "1/4 cup heavy cream",
+      "3 medium green onion (thinly sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Preheat oven to 350F.",
+        "name": "Measure out and prepare all of the ingredients. Preheat oven to 350F.",
+        "url": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mash up the Italian sausage. Add in the shredded cheddar cheese, almond flour, heavy cream, and sliced green onion. Stir to combine well.",
+        "name": "In a bowl, mash up the Italian sausage. Add in the shredded cheddar cheese, almond flour, heavy cream, and sliced green onion. Stir to combine well.",
+        "url": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using clean hands, form balls and place them on a parchment paper lined baking sheet.",
+        "name": "Using clean hands, form balls and place them on a parchment paper lined baking sheet.",
+        "url": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven for about 35 minutes or until internal temperature reaches 165F.",
+        "name": "Bake in the oven for about 35 minutes or until internal temperature reaches 165F.",
+        "url": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-sausage-balls/#wprm-recipe-54255-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, party-food, pork, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "689 kcal",
+      "fatContent": "59.5 g",
+      "proteinContent": "29.7 g",
+      "carbohydrateContent": "5.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-sausage-balls/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-sausage-balls/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-sausage-balls/"
+  },
+  "sourceIndex": {
+    "id": 47350,
+    "rid": 54255,
+    "t": "Keto Sausage Balls",
+    "u": "/keto-sausage-balls/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Sausage-Balls-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 5.7,
+    "cal": 689,
+    "pr": 29.7,
+    "fa": 59.5,
+    "tm": 45,
+    "sv": 4,
+    "kw": [
+      "batch-cooking",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2022-07-12",
+    "cm": 5,
+    "ex": "Being keto doesn’t mean you can’t eat tasty snacks. These tasty keto sausage balls are packed full of protein and are low in carbs. With only a handful of ingredients, they’re easy to whip up quickly",
+    "pv": 556
+  },
+  "sourceHtml": "pages/keto-sausage-balls.html",
+  "scrapedAt": "2026-11-07T08:30:47.241Z"
+}

@@ -1,0 +1,297 @@
+{
+  "id": "ruled-33071",
+  "slug": "cheesy-cauliflower-casserole",
+  "title": "Cheesy Cauliflower Casserole",
+  "url": "https://www.ruled.me/cheesy-cauliflower-casserole/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Cheesy Cauliflower Casserole. Each serving comes out to be 138 calories, 11g fats, 3.7g net carbs, and 5.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "fatContent": "11 g",
+    "proteinContent": "5.6 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 138,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 5.6,
+    "fatGrams": 11
+  },
+  "ingredients": [
+    "588 gram cauliflower",
+    "55 gram onion (chopped)",
+    "1 cup sour cream",
+    "1 cup cheddar cheese (shredded)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Chop up the cauliflower into bite-size pieces, place it into a casserole dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-01.jpg"
+    },
+    {
+      "text": "Dice up the onions and add it to the cauliflower.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-02.jpg"
+    },
+    {
+      "text": "Pour the sour cream and cheese into the dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-04.jpg"
+    },
+    {
+      "text": "Mix it all together!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-05.jpg"
+    },
+    {
+      "text": "Bake for 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "budget-friendly",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/370e8c2d8eab20a8bb1bb1de.avif",
+      "archived": true,
+      "originalPath": "images/370e8c2d8eab20a8bb1bb1de.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/261b0ff7066ba0da1479512a.avif",
+      "archived": true,
+      "originalPath": "images/261b0ff7066ba0da1479512a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-01.jpg",
+      "path": "../../nenaudojama/side-items/images/a68f6729ada6add72a06ce2a.avif",
+      "archived": true,
+      "originalPath": "images/a68f6729ada6add72a06ce2a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-02.jpg",
+      "path": "../../nenaudojama/side-items/images/dbe85093d6f56638c33f29e0.avif",
+      "archived": true,
+      "originalPath": "images/dbe85093d6f56638c33f29e0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-04.jpg",
+      "path": "../../nenaudojama/side-items/images/dfdbcc67194eb281d903e06f.jpg",
+      "archived": true,
+      "originalPath": "images/dfdbcc67194eb281d903e06f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-05.jpg",
+      "path": "../../nenaudojama/side-items/images/80533879f8d8e357d687e6d9.jpg",
+      "archived": true,
+      "originalPath": "images/80533879f8d8e357d687e6d9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-second.jpg",
+      "path": "../../nenaudojama/side-items/images/f67af8a0ae44de92d4085a9c.avif",
+      "archived": true,
+      "originalPath": "images/f67af8a0ae44de92d4085a9c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/fe3a596f8590059a603a3fe1.jpg",
+      "archived": true,
+      "originalPath": "images/fe3a596f8590059a603a3fe1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c308b081ec8452e9c65bcee7.avif",
+      "archived": true,
+      "originalPath": "images/c308b081ec8452e9c65bcee7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/a0e1f1e14222ebc8ca800726.avif",
+      "archived": true,
+      "originalPath": "images/a0e1f1e14222ebc8ca800726.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c4ad9e3c5956871cb1ddc87e.jpg",
+      "archived": true,
+      "originalPath": "images/c4ad9e3c5956871cb1ddc87e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7a3ed4dc4780b41b131ef39f.jpg",
+      "archived": true,
+      "originalPath": "images/7a3ed4dc4780b41b131ef39f.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/261b0ff7066ba0da1479512a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheesy Cauliflower Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Cheesy Cauliflower Casserole. Each serving comes out to be 138 calories, 11g fats, 3.7g net carbs, and 5.6g protein.",
+    "datePublished": "2017-10-12T11:00:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "588 gram cauliflower",
+      "55 gram onion (chopped)",
+      "1 cup sour cream",
+      "1 cup cheddar cheese (shredded)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Chop up the cauliflower into bite-size pieces, place it into a casserole dish.",
+        "name": "Preheat oven to 350F. Chop up the cauliflower into bite-size pieces, place it into a casserole dish.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice up the onions and add it to the cauliflower.",
+        "name": "Dice up the onions and add it to the cauliflower.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the sour cream and cheese into the dish.",
+        "name": "Pour the sour cream and cheese into the dish.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix it all together!",
+        "name": "Mix it all together!",
+        "url": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 30 minutes.",
+        "name": "Bake for 30 minutes.",
+        "url": "https://www.ruled.me/cheesy-cauliflower-casserole/#wprm-recipe-51371-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, budget-friendly, comfort-food, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, oven-baked, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "138 kcal",
+      "fatContent": "11 g",
+      "proteinContent": "5.6 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheesy-cauliflower-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheesy-cauliflower-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheesy-cauliflower-casserole/"
+  },
+  "sourceIndex": {
+    "id": 33071,
+    "rid": 51371,
+    "t": "Cheesy Cauliflower Casserole",
+    "u": "/cheesy-cauliflower-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/09/cheesy-cauliflower-casserole-pin-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.7,
+    "cal": 138,
+    "pr": 5.6,
+    "fa": 11,
+    "tm": 45,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "budget-friendly",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2017-10-12",
+    "cm": 7,
+    "ex": "One of the most delicious dishes I’ve ever had is one that my mother makes. A yummy, creamy and cheesy potato casserole. Today I decided it’s time to create a keto version of this delicious meal. Of",
+    "pv": 158
+  },
+  "sourceHtml": "pages/cheesy-cauliflower-casserole.html",
+  "scrapedAt": "2026-11-07T08:32:31.384Z"
+}

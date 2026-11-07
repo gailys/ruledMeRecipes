@@ -1,0 +1,328 @@
+{
+  "id": "ruled-24214",
+  "slug": "ham-cheddar-chive-souffle",
+  "title": "Ham, Cheddar, and Chive Souffle",
+  "url": "https://www.ruled.me/ham-cheddar-chive-souffle/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Ham, Cheddar, and Chive Souffle. Each serving comes out to be 411 calories, 34.6g fats, 3.3g net carbs, and 21.6g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "411 kcal",
+    "fatContent": "34.6 g",
+    "proteinContent": "21.6 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 411,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 21.6,
+    "fatGrams": 34.6
+  },
+  "ingredients": [
+    "6 ounce cooked ham",
+    "1/2 medium onion",
+    "1 1/2 teaspoon fresh garlic",
+    "1 cup cheddar cheese",
+    "2 tablespoon fresh chives",
+    "3 tablespoon olive oil",
+    "6 large egg",
+    "1/2 cup heavy whipping cream",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1 tablespoon butter (to grease ramekins)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Grease the ramekins with the butter. Prep all of the ingredients. Cube the ham steak, dice the onion, mince the garlic, grate the cheese, and chop the fresh chives.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_09841.jpg"
+    },
+    {
+      "text": "Heat up the olive oil in a pan. Once hot, add onions and sauté until soft.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_0992.jpg"
+    },
+    {
+      "text": "Once soft, add the garlic and sauté until lightly browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1000.jpg"
+    },
+    {
+      "text": "In a bowl, mix the eggs, heavy cream, chopped chives, salt, and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1002.jpg"
+    },
+    {
+      "text": "Add all of the other ingredients, including the onion and garlic from the pan. Mix well. Pour the batter into the greased ramekins.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1008.jpg"
+    },
+    {
+      "text": "Bake for 20 minutes or until puffed and lightly browned on the top. Let cool slightly before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1019.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "eggs",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/eggbake.jpg",
+      "path": "images/ee428654d9f080e4063e136b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_09841.jpg",
+      "path": "../../nenaudojama/breakfast/images/f762c813961b1efdf26d2fba.jpg",
+      "archived": true,
+      "originalPath": "images/f762c813961b1efdf26d2fba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0992.jpg",
+      "path": "../../nenaudojama/breakfast/images/f56d310e06e9edeac80fa7f9.jpg",
+      "archived": true,
+      "originalPath": "images/f56d310e06e9edeac80fa7f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1000.jpg",
+      "path": "../../nenaudojama/breakfast/images/b9ebc285a8c69713a523e73e.jpg",
+      "archived": true,
+      "originalPath": "images/b9ebc285a8c69713a523e73e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1002.jpg",
+      "path": "../../nenaudojama/breakfast/images/4eaf0d384f8040d33d2d9389.jpg",
+      "archived": true,
+      "originalPath": "images/4eaf0d384f8040d33d2d9389.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1008.jpg",
+      "path": "../../nenaudojama/breakfast/images/b00226ac81fd20cacae3cfde.jpg",
+      "archived": true,
+      "originalPath": "images/b00226ac81fd20cacae3cfde.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1019.jpg",
+      "path": "../../nenaudojama/breakfast/images/f160a0e684da85303b2502bc.avif",
+      "archived": true,
+      "originalPath": "images/f160a0e684da85303b2502bc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/eggbakelong.jpg",
+      "path": "../../nenaudojama/breakfast/images/6ad9c79d346a97f5f18ef78e.jpg",
+      "archived": true,
+      "originalPath": "images/6ad9c79d346a97f5f18ef78e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_09841-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e2172b1ea8a1582387716736.jpg",
+      "archived": true,
+      "originalPath": "images/e2172b1ea8a1582387716736.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_0992-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a2cd5c26a43cf3c93e54e089.jpg",
+      "archived": true,
+      "originalPath": "images/a2cd5c26a43cf3c93e54e089.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1000-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5cd819f31cb7390ba9fc4c17.jpg",
+      "archived": true,
+      "originalPath": "images/5cd819f31cb7390ba9fc4c17.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1002-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/91c637c111f6f7c36a2d7392.jpg",
+      "archived": true,
+      "originalPath": "images/91c637c111f6f7c36a2d7392.jpg"
+    }
+  ],
+  "featuredImage": "images/ee428654d9f080e4063e136b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Ham, Cheddar, and Chive Souffle",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 5 servings of Ham, Cheddar, and Chive Souffle. Each serving comes out to be 411 calories, 34.6g fats, 3.3g net carbs, and 21.6g protein.",
+    "datePublished": "2014-08-13T15:56:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/eggbake.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "6 ounce cooked ham",
+      "1/2 medium onion",
+      "1 1/2 teaspoon fresh garlic",
+      "1 cup cheddar cheese",
+      "2 tablespoon fresh chives",
+      "3 tablespoon olive oil",
+      "6 large egg",
+      "1/2 cup heavy whipping cream",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 tablespoon butter (to grease ramekins)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Grease the ramekins with the butter. Prep all of the ingredients. Cube the ham steak, dice the onion, mince the garlic, grate the cheese, and chop the fresh chives.",
+        "name": "Preheat oven to 400F. Grease the ramekins with the butter. Prep all of the ingredients. Cube the ham steak, dice the onion, mince the garlic, grate the cheese, and chop the fresh chives.",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_09841.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the olive oil in a pan. Once hot, add onions and sauté until soft.",
+        "name": "Heat up the olive oil in a pan. Once hot, add onions and sauté until soft.",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_0992.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once soft, add the garlic and sauté until lightly browned.",
+        "name": "Once soft, add the garlic and sauté until lightly browned.",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1000.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the eggs, heavy cream, chopped chives, salt, and pepper.",
+        "name": "In a bowl, mix the eggs, heavy cream, chopped chives, salt, and pepper.",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1002.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the other ingredients, including the onion and garlic from the pan. Mix well. Pour the batter into the greased ramekins.",
+        "name": "Add all of the other ingredients, including the onion and garlic from the pan. Mix well. Pour the batter into the greased ramekins.",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1008.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20 minutes or until puffed and lightly browned on the top. Let cool slightly before serving.",
+        "name": "Bake for 20 minutes or until puffed and lightly browned on the top. Let cool slightly before serving.",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1019.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/ham-cheddar-chive-souffle/#wprm-recipe-51277-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "eggs, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "411 kcal",
+      "fatContent": "34.6 g",
+      "proteinContent": "21.6 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/ham-cheddar-chive-souffle/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/ham-cheddar-chive-souffle/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/ham-cheddar-chive-souffle/"
+  },
+  "sourceIndex": {
+    "id": 24214,
+    "rid": 51277,
+    "t": "Ham Cheddar Chive Souffle",
+    "u": "/ham-cheddar-chive-souffle/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/eggbake.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.3,
+    "cal": 411,
+    "pr": 21.6,
+    "fa": 34.6,
+    "tm": 35,
+    "sv": 5,
+    "kw": [
+      "eggs",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2014-08-13",
+    "cm": 9,
+    "ex": "If you're getting a little tired of Ketoproof Coffee or simple Scrambled Eggs, take a few minutes out of your day and make something a little bit more on the luxurious side. If it's the weekend and",
+    "pv": 161
+  },
+  "sourceHtml": "pages/ham-cheddar-chive-souffle.html",
+  "scrapedAt": "2026-11-07T08:11:13.045Z"
+}

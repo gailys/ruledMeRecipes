@@ -1,0 +1,379 @@
+{
+  "id": "ruled-1110",
+  "slug": "low-carb-snickers-bar",
+  "title": "Low-Carb Mock Snickers Bar",
+  "url": "https://www.ruled.me/low-carb-snickers-bar/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Low-Carb Mock Snickers Bar. Each serving comes out to be 210 calories, 20.1g fats, 3.2g net carbs, and 4.3g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT90M",
+  "totalTime": "PT110M",
+  "totalMinutes": 110,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "fatContent": "20.1 g",
+    "proteinContent": "4.3 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 210,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 4.3,
+    "fatGrams": 20.1
+  },
+  "ingredients": [
+    "1 1/4 cup almond flour",
+    "1/4 cup butter (chilled)",
+    "1/4 cup stevia/erythritol blend",
+    "15 drop liquid stevia",
+    "1/2 teaspoon xanthan gum",
+    "1/2 cup stevia/erythritol blend",
+    "1 teaspoon water",
+    "1/2 cup heavy whipping cream",
+    "1/2 cup peanut butter",
+    "1 teaspoon vanilla extract",
+    "6 tablespoon butter",
+    "2 1/2 ounce low-carb dark chocolate",
+    "2 tablespoon stevia/erythritol blend",
+    "2 tablespoon unsweetened dark cocoa powder",
+    "15 drop liquid stevia",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Combine the almond flour, butter, granulated sweetener, liquid stevia, and xanthan gum in a food processor. Pulse until fine and crumbly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1.jpg"
+    },
+    {
+      "text": "Press the mixture evenly into a non-stick baking pan and bake for 15 minutes or until golden. Once done, remove from the oven and let cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-2.jpg"
+    },
+    {
+      "text": "Meanwhile, make the peanut butter caramel filling. Combine the sweetener with water in a small saucepan over medium-high heat, stirring frequently until the sweetener is dissolved and the mixture is bubbling (about 5 minutes). Remove from heat and stir in the heavy cream; the mixture should be bubbling. Return to the heat and let boil for 1 minute. Add the peanut butter and vanilla extract and stir until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-3.jpg"
+    },
+    {
+      "text": "Pour the filling over the cooled shortbread crust and spread it out evenly. Let cool completely.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-4.jpg"
+    },
+    {
+      "text": "To create the chocolate topping, melt the butter, chocolate, and sweetener in a small saucepan over low heat, stirring occasionally until the mixture is smooth and glossy. Add the cocoa powder and whisk until smooth. Next, add the liquid stevia and vanilla extract and whisk again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-6.jpg"
+    },
+    {
+      "text": "Pour the chocolate topping over the cooled peanut butter filling.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-7.jpg"
+    },
+    {
+      "text": "Let sit at room temperature for at least 1 hour before cutting. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-8.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/7cadc962cf01c3cf159c3b0b.jpg",
+      "archived": true,
+      "originalPath": "images/7cadc962cf01c3cf159c3b0b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1-featured.jpg",
+      "path": "images/ce42c44a415041978978b03e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1.jpg",
+      "path": "../../nenaudojama/dessert/images/a96a7c56d1cc8808925f2b17.avif",
+      "archived": true,
+      "originalPath": "images/a96a7c56d1cc8808925f2b17.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-2.jpg",
+      "path": "../../nenaudojama/dessert/images/0238087ee5f0688fef52ccd8.avif",
+      "archived": true,
+      "originalPath": "images/0238087ee5f0688fef52ccd8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-3.jpg",
+      "path": "../../nenaudojama/dessert/images/7d5ca1eaa973f0abe1b80348.avif",
+      "archived": true,
+      "originalPath": "images/7d5ca1eaa973f0abe1b80348.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-4.jpg",
+      "path": "../../nenaudojama/dessert/images/c682bc8b5e87aaba968e5e13.jpg",
+      "archived": true,
+      "originalPath": "images/c682bc8b5e87aaba968e5e13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-6.jpg",
+      "path": "../../nenaudojama/dessert/images/bd301e58c80c44f2bd87c64b.avif",
+      "archived": true,
+      "originalPath": "images/bd301e58c80c44f2bd87c64b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-7.jpg",
+      "path": "../../nenaudojama/dessert/images/a714b6464bbba973684310af.avif",
+      "archived": true,
+      "originalPath": "images/a714b6464bbba973684310af.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-8.jpg",
+      "path": "../../nenaudojama/dessert/images/219f70ac3ce410e94ef5c90e.avif",
+      "archived": true,
+      "originalPath": "images/219f70ac3ce410e94ef5c90e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-10.jpg",
+      "path": "../../nenaudojama/dessert/images/1491abf18cfc8c432ed72bd5.avif",
+      "archived": true,
+      "originalPath": "images/1491abf18cfc8c432ed72bd5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-9.jpg",
+      "path": "../../nenaudojama/dessert/images/d58c1e47dbbffb54a1279e6f.jpg",
+      "archived": true,
+      "originalPath": "images/d58c1e47dbbffb54a1279e6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-15.jpg",
+      "path": "../../nenaudojama/dessert/images/56a8e6fa4810b8e0c7caa207.avif",
+      "archived": true,
+      "originalPath": "images/56a8e6fa4810b8e0c7caa207.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/558b1df5ad2cab0fe649e32f.avif",
+      "archived": true,
+      "originalPath": "images/558b1df5ad2cab0fe649e32f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e77719409ac5e2c1db95a20e.avif",
+      "archived": true,
+      "originalPath": "images/e77719409ac5e2c1db95a20e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/bf5a045db19b32795e14bfa7.avif",
+      "archived": true,
+      "originalPath": "images/bf5a045db19b32795e14bfa7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/80d094e1b2f5aaa7968fc548.avif",
+      "archived": true,
+      "originalPath": "images/80d094e1b2f5aaa7968fc548.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-6-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6434f45e4d49d1cfbd9b6389.avif",
+      "archived": true,
+      "originalPath": "images/6434f45e4d49d1cfbd9b6389.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-7-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9d4b87c79cd3c381e958e0a0.avif",
+      "archived": true,
+      "originalPath": "images/9d4b87c79cd3c381e958e0a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-8-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8dfbd86b6ef48776c86a5352.avif",
+      "archived": true,
+      "originalPath": "images/8dfbd86b6ef48776c86a5352.avif"
+    }
+  ],
+  "featuredImage": "images/ce42c44a415041978978b03e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low-Carb Mock Snickers Bar",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 16 servings of Low-Carb Mock Snickers Bar. Each serving comes out to be 210 calories, 20.1g fats, 3.2g net carbs, and 4.3g protein.",
+    "datePublished": "2013-10-29T21:33:53+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1-featured.jpg"
+    ],
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT90M",
+    "totalTime": "PT110M",
+    "recipeIngredient": [
+      "1 1/4 cup almond flour",
+      "1/4 cup butter (chilled)",
+      "1/4 cup stevia/erythritol blend",
+      "15 drop liquid stevia",
+      "1/2 teaspoon xanthan gum",
+      "1/2 cup stevia/erythritol blend",
+      "1 teaspoon water",
+      "1/2 cup heavy whipping cream",
+      "1/2 cup peanut butter",
+      "1 teaspoon vanilla extract",
+      "6 tablespoon butter",
+      "2 1/2 ounce low-carb dark chocolate",
+      "2 tablespoon stevia/erythritol blend",
+      "2 tablespoon unsweetened dark cocoa powder",
+      "15 drop liquid stevia",
+      "1/2 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Combine the almond flour, butter, granulated sweetener, liquid stevia, and xanthan gum in a food processor. Pulse until fine and crumbly.",
+        "name": "Preheat oven to 350F. Combine the almond flour, butter, granulated sweetener, liquid stevia, and xanthan gum in a food processor. Pulse until fine and crumbly.",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Press the mixture evenly into a non-stick baking pan and bake for 15 minutes or until golden. Once done, remove from the oven and let cool.",
+        "name": "Press the mixture evenly into a non-stick baking pan and bake for 15 minutes or until golden. Once done, remove from the oven and let cool.",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, make the peanut butter caramel filling. Combine the sweetener with water in a small saucepan over medium-high heat, stirring frequently until the sweetener is dissolved and the mixture is bubbling (about 5 minutes). Remove from heat and stir in the heavy cream; the mixture should be bubbling. Return to the heat and let boil for 1 minute. Add the peanut butter and vanilla extract and stir until smooth.",
+        "name": "Meanwhile, make the peanut butter caramel filling. Combine the sweetener with water in a small saucepan over medium-high heat, stirring frequently until the sweetener is dissolved and the mixture is bubbling (about 5 minutes). Remove from heat and stir in the heavy cream; the mixture should be bubbling. Return to the heat and let boil for 1 minute. Add the peanut butter and vanilla extract and stir until smooth.",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the filling over the cooled shortbread crust and spread it out evenly. Let cool completely.",
+        "name": "Pour the filling over the cooled shortbread crust and spread it out evenly. Let cool completely.",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To create the chocolate topping, melt the butter, chocolate, and sweetener in a small saucepan over low heat, stirring occasionally until the mixture is smooth and glossy. Add the cocoa powder and whisk until smooth. Next, add the liquid stevia and vanilla extract and whisk again.",
+        "name": "To create the chocolate topping, melt the butter, chocolate, and sweetener in a small saucepan over low heat, stirring occasionally until the mixture is smooth and glossy. Add the cocoa powder and whisk until smooth. Next, add the liquid stevia and vanilla extract and whisk again.",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the chocolate topping over the cooled peanut butter filling.",
+        "name": "Pour the chocolate topping over the cooled peanut butter filling.",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let sit at room temperature for at least 1 hour before cutting. Enjoy!",
+        "name": "Let sit at room temperature for at least 1 hour before cutting. Enjoy!",
+        "url": "https://www.ruled.me/low-carb-snickers-bar/#wprm-recipe-50359-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-8.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, make-ahead, oven-baked, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "210 kcal",
+      "fatContent": "20.1 g",
+      "proteinContent": "4.3 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-snickers-bar/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-snickers-bar/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-snickers-bar/"
+  },
+  "sourceIndex": {
+    "id": 1110,
+    "rid": 50359,
+    "t": "Low Carb Mock Snickers Bar",
+    "u": "/low-carb-snickers-bar/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/Mock-Snickers-Bar-1-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.2,
+    "cal": 210,
+    "pr": 4.3,
+    "fa": 20.1,
+    "tm": 110,
+    "sv": 16,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 16,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2013-10-29",
+    "cm": 34,
+    "ex": "Chocolate, peanut butter, and caramel. I've never heard anyone in my life say they don't like that combination, even people with nut allergies! I try to be pretty honest when I am writing these",
+    "pv": 695
+  },
+  "sourceHtml": "pages/low-carb-snickers-bar.html",
+  "scrapedAt": "2026-11-07T08:30:47.750Z"
+}

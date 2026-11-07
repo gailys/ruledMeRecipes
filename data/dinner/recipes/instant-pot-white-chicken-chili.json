@@ -1,0 +1,399 @@
+{
+  "id": "ruled-35294",
+  "slug": "instant-pot-white-chicken-chili",
+  "title": "Instant Pot White Chicken Chili",
+  "url": "https://www.ruled.me/instant-pot-white-chicken-chili/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Instant Pot White Chicken Chili. Each serving comes out to be 468 calories, 36.8g fats, 9.6g net carbs, and 26.1g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT60M",
+  "totalTime": "PT65M",
+  "totalMinutes": 65,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "468 kcal",
+    "fatContent": "36.8 g",
+    "proteinContent": "26.1 g",
+    "carbohydrateContent": "9.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 468,
+    "netCarbsGrams": 9.6,
+    "proteinGrams": 26.1,
+    "fatGrams": 36.8
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "1 medium onion (diced)",
+    "36 ounce boneless, skinless chicken thighs (cubed)",
+    "14 ounce canned diced green chilies",
+    "2 teaspoon salt",
+    "2 teaspoon cumin",
+    "2 teaspoon dried oregano",
+    "1 teaspoon black pepper",
+    "16 ounce frozen cauliflower (florets)",
+    "4 cup chicken broth",
+    "2 cup sour cream",
+    "1 cup heavy whipping cream"
+  ],
+  "instructions": [
+    {
+      "text": "Set your Instant Pot on the saute setting, then melt the butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-01.jpg"
+    },
+    {
+      "text": "Add the diced onion and cubed chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-02.jpg"
+    },
+    {
+      "text": "Cook until the chicken looks mostly done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-03.jpg"
+    },
+    {
+      "text": "Add the green chilies, salt, cumin, oregano, black pepper, and frozen cauliflower. Stir together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-04.jpg"
+    },
+    {
+      "text": "Add the chicken broth. Seal the instant pot, then cook on high-pressure for 30 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-05.jpg"
+    },
+    {
+      "text": "Let the Instant Pot sit for 10 minutes before releasing the steam and opening it up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-06.jpg"
+    },
+    {
+      "text": "Whisk in the sour cream and heavy whipping cream. Serve immediately.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "instant-pot",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/ce89b29327e0375b0d93a553.avif",
+      "archived": true,
+      "originalPath": "images/ce89b29327e0375b0d93a553.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-featured.jpg",
+      "path": "images/a33fe3a80fb3e8b468f5c58f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-01.jpg",
+      "path": "../../nenaudojama/dinner/images/2efeae4ca76cf26c7a5338b6.webp",
+      "archived": true,
+      "originalPath": "images/2efeae4ca76cf26c7a5338b6.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-02.jpg",
+      "path": "../../nenaudojama/dinner/images/336efa7013dca96c9727f286.webp",
+      "archived": true,
+      "originalPath": "images/336efa7013dca96c9727f286.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-03.jpg",
+      "path": "../../nenaudojama/dinner/images/f671459d4e81d19b91af5e10.webp",
+      "archived": true,
+      "originalPath": "images/f671459d4e81d19b91af5e10.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-04.jpg",
+      "path": "../../nenaudojama/dinner/images/aeaff52056d7dcbe230f7bfd.jpg",
+      "archived": true,
+      "originalPath": "images/aeaff52056d7dcbe230f7bfd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-05.jpg",
+      "path": "../../nenaudojama/dinner/images/f04fe23e7100b2578e732f52.webp",
+      "archived": true,
+      "originalPath": "images/f04fe23e7100b2578e732f52.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-06.jpg",
+      "path": "../../nenaudojama/dinner/images/e82b40023d2aa21edae6a9d6.webp",
+      "archived": true,
+      "originalPath": "images/e82b40023d2aa21edae6a9d6.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-second.jpg",
+      "path": "../../nenaudojama/dinner/images/45a9234671350b50593f19f9.avif",
+      "archived": true,
+      "originalPath": "images/45a9234671350b50593f19f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/c4d4c3558cb8ac9cf5dbcd64.jpg",
+      "archived": true,
+      "originalPath": "images/c4d4c3558cb8ac9cf5dbcd64.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/af73486068a0ad25ddd84280.avif",
+      "archived": true,
+      "originalPath": "images/af73486068a0ad25ddd84280.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bcbde85612b827c629ed30bf.webp",
+      "archived": true,
+      "originalPath": "images/bcbde85612b827c629ed30bf.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/96c2b42ccd8b389f5f3664eb.jpg",
+      "archived": true,
+      "originalPath": "images/96c2b42ccd8b389f5f3664eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/90e216f514425c44a2a79aa6.webp",
+      "archived": true,
+      "originalPath": "images/90e216f514425c44a2a79aa6.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/018a420d00834052c4442c75.jpg",
+      "archived": true,
+      "originalPath": "images/018a420d00834052c4442c75.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/606ac54ccdaced2e7dca8d57.avif",
+      "archived": true,
+      "originalPath": "images/606ac54ccdaced2e7dca8d57.avif"
+    }
+  ],
+  "featuredImage": "images/a33fe3a80fb3e8b468f5c58f.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Instant Pot White Chicken Chili",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Instant Pot White Chicken Chili. Each serving comes out to be 468 calories, 36.8g fats, 9.6g net carbs, and 26.1g protein.",
+    "datePublished": "2018-02-15T12:00:07+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto White Chicken Chili [Instant Pot Recipe]",
+      "description": "This white chicken chili is packed full of green chilies and chicken thighs. It creates a generous 12 cup batch that is sure to leave some delicious leftovers. A fun alternative to traditional beef chilies.\n\nIt’s simple to cook, and fast to cleanup, if you use your Instant Pot. If you don’t own an Instant Pot then you could brown the chicken and onions on a stovetop, then simmer the chili in a slow cooker for 6-8 hours.\n\nIt’s a bit protein heavy, so just keep that in mind when planning out the rest of your day. You can reduce it to 27.42 grams of protein by changing the serving size to 1 cup.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 tablespoons butter\n1 medium onion, diced\n10 medium boneless skinless chicken thighs, cubed\n14 ounces canned diced green chilies\n2 teaspoons salt\n2 teaspoons cumin\n2 teaspoons oregano\n1 teaspoon black pepper\n1 pound frozen cauliflower\n4 cups chicken broth\n2 cups sour cream\n1 cup heavy whipping cream\n\nNutrition Summary: This makes a total of 8 (1.5-cup) servings of Instant Pot White Chicken Chili. Each serving comes out to be 509.88 Calories, 32.99g Fats, 8.5g Net Carbs, and 41.15g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-04-11T14:00:07+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 10036
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 433
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 13
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QcTN71vxVkA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QcTN71vxVkA?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=QcTN71vxVkA",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT60M",
+    "totalTime": "PT65M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "1 medium onion (diced)",
+      "36 ounce boneless, skinless chicken thighs (cubed)",
+      "14 ounce canned diced green chilies",
+      "2 teaspoon salt",
+      "2 teaspoon cumin",
+      "2 teaspoon dried oregano",
+      "1 teaspoon black pepper",
+      "16 ounce frozen cauliflower (florets)",
+      "4 cup chicken broth",
+      "2 cup sour cream",
+      "1 cup heavy whipping cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Set your Instant Pot on the saute setting, then melt the butter.",
+        "name": "Set your Instant Pot on the saute setting, then melt the butter.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced onion and cubed chicken.",
+        "name": "Add the diced onion and cubed chicken.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the chicken looks mostly done.",
+        "name": "Cook until the chicken looks mostly done.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the green chilies, salt, cumin, oregano, black pepper, and frozen cauliflower. Stir together.",
+        "name": "Add the green chilies, salt, cumin, oregano, black pepper, and frozen cauliflower. Stir together.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken broth. Seal the instant pot, then cook on high-pressure for 30 minutes.",
+        "name": "Add the chicken broth. Seal the instant pot, then cook on high-pressure for 30 minutes.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the Instant Pot sit for 10 minutes before releasing the steam and opening it up.",
+        "name": "Let the Instant Pot sit for 10 minutes before releasing the steam and opening it up.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in the sour cream and heavy whipping cream. Serve immediately.",
+        "name": "Whisk in the sour cream and heavy whipping cream. Serve immediately.",
+        "url": "https://www.ruled.me/instant-pot-white-chicken-chili/#wprm-recipe-52437-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, comfort-food, egg-free, fall, gluten-free, high-fat, high-protein, instant pot, keto, low-carb, nut-free, poultry, simple &amp; easy, simple-and-easy, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "468 kcal",
+      "fatContent": "36.8 g",
+      "proteinContent": "26.1 g",
+      "carbohydrateContent": "9.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/instant-pot-white-chicken-chili/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/instant-pot-white-chicken-chili/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/instant-pot-white-chicken-chili/"
+  },
+  "sourceIndex": {
+    "id": 35294,
+    "rid": 52437,
+    "t": "Instant Pot White Chicken Chili",
+    "u": "/instant-pot-white-chicken-chili/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/white-chicken-chili-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 9.6,
+    "cal": 468,
+    "pr": 26.1,
+    "fa": 36.8,
+    "tm": 65,
+    "sv": 8,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "instant-pot",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2018-02-15",
+    "cm": 18,
+    "ex": "This white chicken chili is packed full of green chilies and chicken thighs. It creates a generous 12 cup batch that is sure to leave some delicious leftovers. A fun alternative to traditional beef",
+    "pv": 588
+  },
+  "sourceHtml": "pages/instant-pot-white-chicken-chili.html",
+  "scrapedAt": "2026-11-07T08:27:44.608Z"
+}

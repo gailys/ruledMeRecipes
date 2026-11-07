@@ -1,0 +1,311 @@
+{
+  "id": "ruled-43368",
+  "slug": "keto-hummus",
+  "title": "Keto Hummus",
+  "url": "https://www.ruled.me/keto-hummus/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Hummus. Each serving comes out to be 219 calories, 20g fats, 5.5g net carbs, and 4.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT45M",
+  "cookTime": "PT0M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "fatContent": "20 g",
+    "proteinContent": "4.9 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 219,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 4.9,
+    "fatGrams": 20
+  },
+  "ingredients": [
+    "16 ounce cauliflower (florets)",
+    "1/4 cup olive oil",
+    "1/2 cup tahini",
+    "3 teaspoon fresh garlic (chopped)",
+    "2 tablespoon lemon juice",
+    "1 teaspoon salt (or to taste)",
+    "1/4 teaspoon paprika",
+    "3 tablespoon water (as needed for texture)"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat oven to 425F and prep ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-1.jpg"
+    },
+    {
+      "text": "Grease a non-stick baking sheet lightly, then toss cauliflower in half of the olive oil. Spread the cauliflower into a single layer so that each piece of cauliflower is touching the baking sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-2.jpg"
+    },
+    {
+      "text": "Roast the cauliflower for 30-40 minutes or until browned and softened through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-3.jpg"
+    },
+    {
+      "text": "In a blender or food processor, add the tahini, remaining olive oil, garlic, lemon juice, salt, paprika, roasted cauliflower, and 2 tablespoons of water. Blend the mixture together until a smooth paste appears, scraping down the sides as needed. Add more water to thin it out if out if needed, 1 tablespoon at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-4.jpg"
+    },
+    {
+      "text": "Serve with your favorite crunchy low-carb side dishes (peppers, cucumber, pork rinds, homemade crackers) and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/ad971c4103852d2be5ea3dea.avif",
+      "archived": true,
+      "originalPath": "images/ad971c4103852d2be5ea3dea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Featured.jpg",
+      "path": "../../nenaudojama/condiments/images/ee98d3248d622fcb9ea92bd9.jpg",
+      "archived": true,
+      "originalPath": "images/ee98d3248d622fcb9ea92bd9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-1.jpg",
+      "path": "../../nenaudojama/condiments/images/47d505711da6093b9babe1c7.avif",
+      "archived": true,
+      "originalPath": "images/47d505711da6093b9babe1c7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-2.jpg",
+      "path": "../../nenaudojama/condiments/images/a4702e1cf2a0bd499236a62a.avif",
+      "archived": true,
+      "originalPath": "images/a4702e1cf2a0bd499236a62a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-3.jpg",
+      "path": "../../nenaudojama/condiments/images/9b26cefbbf9d3d4dc3d21250.avif",
+      "archived": true,
+      "originalPath": "images/9b26cefbbf9d3d4dc3d21250.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-4.jpg",
+      "path": "../../nenaudojama/condiments/images/bde53c48ae88f08d908289a5.avif",
+      "archived": true,
+      "originalPath": "images/bde53c48ae88f08d908289a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Second.jpg",
+      "path": "../../nenaudojama/condiments/images/e845269ac9e6da5177678e6c.avif",
+      "archived": true,
+      "originalPath": "images/e845269ac9e6da5177678e6c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Long.jpg",
+      "path": "../../nenaudojama/condiments/images/c41e29f2d0c012ff2c1fc847.avif",
+      "archived": true,
+      "originalPath": "images/c41e29f2d0c012ff2c1fc847.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Featured-300x300.jpg",
+      "path": "../../nenaudojama/condiments/images/08b7629e6078e507b1d87ec8.jpg",
+      "archived": true,
+      "originalPath": "images/08b7629e6078e507b1d87ec8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-1-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/eecd0e2b6360616a3c5f1755.jpg",
+      "archived": true,
+      "originalPath": "images/eecd0e2b6360616a3c5f1755.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-2-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d91ca8fd5b281fe0d906f885.jpg",
+      "archived": true,
+      "originalPath": "images/d91ca8fd5b281fe0d906f885.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-3-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/472f5dab71f199e6f89f125f.jpg",
+      "archived": true,
+      "originalPath": "images/472f5dab71f199e6f89f125f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-4-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/f19f2994a6b7d9cd4cadb88d.jpg",
+      "archived": true,
+      "originalPath": "images/f19f2994a6b7d9cd4cadb88d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/ee98d3248d622fcb9ea92bd9.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Hummus",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Keto Hummus. Each serving comes out to be 219 calories, 20g fats, 5.5g net carbs, and 4.9g protein.",
+    "datePublished": "2020-06-23T09:31:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT45M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "16 ounce cauliflower (florets)",
+      "1/4 cup olive oil",
+      "1/2 cup tahini",
+      "3 teaspoon fresh garlic (chopped)",
+      "2 tablespoon lemon juice",
+      "1 teaspoon salt (or to taste)",
+      "1/4 teaspoon paprika",
+      "3 tablespoon water (as needed for texture)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat oven to 425F and prep ingredients.",
+        "name": "Pre-heat oven to 425F and prep ingredients.",
+        "url": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grease a non-stick baking sheet lightly, then toss cauliflower in half of the olive oil. Spread the cauliflower into a single layer so that each piece of cauliflower is touching the baking sheet.",
+        "name": "Grease a non-stick baking sheet lightly, then toss cauliflower in half of the olive oil. Spread the cauliflower into a single layer so that each piece of cauliflower is touching the baking sheet.",
+        "url": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast the cauliflower for 30-40 minutes or until browned and softened through.",
+        "name": "Roast the cauliflower for 30-40 minutes or until browned and softened through.",
+        "url": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender or food processor, add the tahini, remaining olive oil, garlic, lemon juice, salt, paprika, roasted cauliflower, and 2 tablespoons of water. Blend the mixture together until a smooth paste appears, scraping down the sides as needed. Add more water to thin it out if out if needed, 1 tablespoon at a time.",
+        "name": "In a blender or food processor, add the tahini, remaining olive oil, garlic, lemon juice, salt, paprika, roasted cauliflower, and 2 tablespoons of water. Blend the mixture together until a smooth paste appears, scraping down the sides as needed. Add more water to thin it out if out if needed, 1 tablespoon at a time.",
+        "url": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-roasted-cauliflower-hummus-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with your favorite crunchy low-carb side dishes (peppers, cucumber, pork rinds, homemade crackers) and enjoy!",
+        "name": "Serve with your favorite crunchy low-carb side dishes (peppers, cucumber, pork rinds, homemade crackers) and enjoy!",
+        "url": "https://www.ruled.me/keto-hummus/#wprm-recipe-53389-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Condiments",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "219 kcal",
+      "fatContent": "20 g",
+      "proteinContent": "4.9 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-hummus/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-hummus/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-hummus/"
+  },
+  "sourceIndex": {
+    "id": 43368,
+    "rid": 53389,
+    "t": "Keto Hummus",
+    "u": "/keto-hummus/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Hummus-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 5.5,
+    "cal": 219,
+    "pr": 4.9,
+    "fa": 20,
+    "tm": 45,
+    "sv": 6,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2020-06-23",
+    "cm": 0,
+    "ex": "The creamy deliciousness of hummus is hard to resist. Unfortunately, so are the high-carb ingredients. Most hummus products and recipes rely on chickpeas (garbanzo beans) — a legume with ~5 grams of",
+    "pv": 328
+  },
+  "sourceHtml": "pages/keto-hummus.html",
+  "scrapedAt": "2026-11-07T08:33:28.832Z"
+}

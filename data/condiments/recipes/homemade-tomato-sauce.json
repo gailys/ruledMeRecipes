@@ -1,0 +1,348 @@
+{
+  "id": "ruled-5660",
+  "slug": "homemade-tomato-sauce",
+  "title": "Homemade Tomato Sauce",
+  "url": "https://www.ruled.me/homemade-tomato-sauce/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Homemade Tomato Sauce. Each serving comes out to be 93 calories, 6g fats, 5.4g net carbs, and 1.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "93 kcal",
+    "fatContent": "6 g",
+    "proteinContent": "1.6 g",
+    "carbohydrateContent": "5.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 93,
+    "netCarbsGrams": 5.4,
+    "proteinGrams": 1.6,
+    "fatGrams": 6
+  },
+  "ingredients": [
+    "1 large green bell pepper",
+    "2 tablespoon butter",
+    "salt and pepper (to taste)",
+    "1 tablespoon fresh thyme",
+    "1 1/2 cup low-carb tomato sauce (such as Rao's)",
+    "1/4 cup dry red wine"
+  ],
+  "instructions": [
+    {
+      "text": "Chop the green pepper into relatively small pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-01.jpg"
+    },
+    {
+      "text": "Add the chopped green pepper to a pan with the butter. Season to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-2.jpg"
+    },
+    {
+      "text": "Sauté the green pepper for about 4–5 minutes or until slightly softened.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-4.jpg"
+    },
+    {
+      "text": "While the green pepper is cooking, finely chop the thyme. If using dried thyme, use one-third of the amount.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-5.jpg"
+    },
+    {
+      "text": "Add the tomato sauce to the green peppers and stir well. Let cook for about 4–5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-6.jpg"
+    },
+    {
+      "text": "Add the red wine to the sauce and mix well. Finally, add the thyme to the sauce and stir everything together well. Let cook and reduce for 5–10 minutes over medium-low heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-10.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-13-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/b104bfcc461927d722b9e012.jpg",
+      "archived": true,
+      "originalPath": "images/b104bfcc461927d722b9e012.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-13.jpg",
+      "path": "../../nenaudojama/condiments/images/0484266c109974a43a755797.avif",
+      "archived": true,
+      "originalPath": "images/0484266c109974a43a755797.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-01.jpg",
+      "path": "../../nenaudojama/condiments/images/154d8dcd482991264457e0d1.jpg",
+      "archived": true,
+      "originalPath": "images/154d8dcd482991264457e0d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-2.jpg",
+      "path": "../../nenaudojama/condiments/images/bddae7448db8420273a6b431.jpg",
+      "archived": true,
+      "originalPath": "images/bddae7448db8420273a6b431.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-4.jpg",
+      "path": "../../nenaudojama/condiments/images/26acbd0a760a28273e09a277.jpg",
+      "archived": true,
+      "originalPath": "images/26acbd0a760a28273e09a277.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-5.jpg",
+      "path": "../../nenaudojama/condiments/images/51082f3f24f4045e3482a276.jpg",
+      "archived": true,
+      "originalPath": "images/51082f3f24f4045e3482a276.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-6.jpg",
+      "path": "../../nenaudojama/condiments/images/9b72e9a6ccd31a1ccb074321.jpg",
+      "archived": true,
+      "originalPath": "images/9b72e9a6ccd31a1ccb074321.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-10.jpg",
+      "path": "../../nenaudojama/condiments/images/bcd326e4747eda1e67b1d194.avif",
+      "archived": true,
+      "originalPath": "images/bcd326e4747eda1e67b1d194.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-3.jpg",
+      "path": "../../nenaudojama/condiments/images/00638c7d254c9661626222a1.jpg",
+      "archived": true,
+      "originalPath": "images/00638c7d254c9661626222a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-14.jpg",
+      "path": "../../nenaudojama/condiments/images/c7d00fc381c23e1ce0cdbe56.jpg",
+      "archived": true,
+      "originalPath": "images/c7d00fc381c23e1ce0cdbe56.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-01-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/2461a3a0dd62844a901b1951.avif",
+      "archived": true,
+      "originalPath": "images/2461a3a0dd62844a901b1951.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-2-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/f122c592ec7bb0cab0e48b80.avif",
+      "archived": true,
+      "originalPath": "images/f122c592ec7bb0cab0e48b80.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-4-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/2766387097ccd001d5bf7bfb.avif",
+      "archived": true,
+      "originalPath": "images/2766387097ccd001d5bf7bfb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-5-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/cf4670b36c0d92c4ba7e66a7.avif",
+      "archived": true,
+      "originalPath": "images/cf4670b36c0d92c4ba7e66a7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-6-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/c641361cbc32202d78a30c9d.avif",
+      "archived": true,
+      "originalPath": "images/c641361cbc32202d78a30c9d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-10-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/b6dcad8d4a401a83b2cd307f.avif",
+      "archived": true,
+      "originalPath": "images/b6dcad8d4a401a83b2cd307f.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/0484266c109974a43a755797.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Homemade Tomato Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Homemade Tomato Sauce. Each serving comes out to be 93 calories, 6g fats, 5.4g net carbs, and 1.6g protein.",
+    "datePublished": "2014-01-05T16:24:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-13.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 large green bell pepper",
+      "2 tablespoon butter",
+      "salt and pepper (to taste)",
+      "1 tablespoon fresh thyme",
+      "1 1/2 cup low-carb tomato sauce (such as Rao's)",
+      "1/4 cup dry red wine"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the green pepper into relatively small pieces.",
+        "name": "Chop the green pepper into relatively small pieces.",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped green pepper to a pan with the butter. Season to taste.",
+        "name": "Add the chopped green pepper to a pan with the butter. Season to taste.",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sauté the green pepper for about 4–5 minutes or until slightly softened.",
+        "name": "Sauté the green pepper for about 4–5 minutes or until slightly softened.",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the green pepper is cooking, finely chop the thyme. If using dried thyme, use one-third of the amount.",
+        "name": "While the green pepper is cooking, finely chop the thyme. If using dried thyme, use one-third of the amount.",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the tomato sauce to the green peppers and stir well. Let cook for about 4–5 minutes.",
+        "name": "Add the tomato sauce to the green peppers and stir well. Let cook for about 4–5 minutes.",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the red wine to the sauce and mix well. Finally, add the thyme to the sauce and stir everything together well. Let cook and reduce for 5–10 minutes over medium-low heat.",
+        "name": "Add the red wine to the sauce and mix well. Finally, add the thyme to the sauce and stir everything together well. Let cook and reduce for 5–10 minutes over medium-low heat.",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/homemade-tomato-sauce/#wprm-recipe-50693-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "93 kcal",
+      "fatContent": "6 g",
+      "proteinContent": "1.6 g",
+      "carbohydrateContent": "5.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/homemade-tomato-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/homemade-tomato-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/homemade-tomato-sauce/"
+  },
+  "sourceIndex": {
+    "id": 5660,
+    "rid": 50693,
+    "t": "Homemade Tomato Sauce",
+    "u": "/homemade-tomato-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/Homemade_Tomato_Sauce-13-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 5.4,
+    "cal": 93,
+    "pr": 1.6,
+    "fa": 6,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2014-01-05",
+    "cm": 4,
+    "ex": "Although I don't use tomato sauce too much, I had to share this recipe. I recently made a trio of meatballs, including bacon with mozzerella, chorizo with cheddar, and italian sausage with",
+    "pv": 31
+  },
+  "sourceHtml": "pages/homemade-tomato-sauce.html",
+  "scrapedAt": "2026-11-07T08:33:43.204Z"
+}

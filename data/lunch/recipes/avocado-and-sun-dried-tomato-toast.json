@@ -1,0 +1,227 @@
+{
+  "id": "ruled-59821",
+  "slug": "avocado-and-sun-dried-tomato-toast",
+  "title": "Avocado and Sun Dried Tomato Toast",
+  "url": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Avocado and Sun Dried Tomato Toast. Each serving comes out to be 425 calories, 33.7g fats, 12.6g net carbs, and 14g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "174 kcal",
+    "fatContent": "12.5 g",
+    "proteinContent": "3.9 g",
+    "carbohydrateContent": "10 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 174,
+    "netCarbsGrams": 10,
+    "proteinGrams": 3.9,
+    "fatGrams": 12.5
+  },
+  "ingredients": [
+    "4 leftover ruled.me focaccia bread",
+    "1 large avocado",
+    "1 tablespoon olive oil",
+    "1 tablespoon lime juice",
+    "salt and pepper (to taste)",
+    "80 gram sun-dried tomatoes",
+    "crushed red pepper flakes (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Puree the avocado, olive oil, and lime juice together. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/#wprm-recipe-59820-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-01.jpg"
+    },
+    {
+      "text": "Toast the slices of bread, then top with the avocado spread. Top with sun dried tomato pieces and crushed red pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/#wprm-recipe-59820-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/b27665e17bba0ee806d5eb0c.jpg",
+      "archived": true,
+      "originalPath": "images/b27665e17bba0ee806d5eb0c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c.jpg",
+      "path": "images/41f1e9af0590cef0de3ddbf8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/77e6c7632321fd489e36cf1d.jpg",
+      "archived": true,
+      "originalPath": "images/77e6c7632321fd489e36cf1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/bb1c3ee2546d094da26eac88.jpg",
+      "archived": true,
+      "originalPath": "images/bb1c3ee2546d094da26eac88.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/92935df089b9baf7917f120b.avif",
+      "archived": true,
+      "originalPath": "images/92935df089b9baf7917f120b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bb43aaeba9d99729df852b27.jpg",
+      "archived": true,
+      "originalPath": "images/bb43aaeba9d99729df852b27.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-02-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c7e23f2b71923b7e2fcf400b.jpg",
+      "archived": true,
+      "originalPath": "images/c7e23f2b71923b7e2fcf400b.jpg"
+    }
+  ],
+  "featuredImage": "images/41f1e9af0590cef0de3ddbf8.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Avocado and Sun Dried Tomato Toast",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Avocado and Sun Dried Tomato Toast. Each serving comes out to be 425 calories, 33.7g fats, 12.6g net carbs, and 14g protein.",
+    "datePublished": "2026-04-14T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "4 leftover ruled.me focaccia bread",
+      "1 large avocado",
+      "1 tablespoon olive oil",
+      "1 tablespoon lime juice",
+      "salt and pepper (to taste)",
+      "80 gram sun-dried tomatoes",
+      "crushed red pepper flakes (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Puree the avocado, olive oil, and lime juice together. Season with salt and pepper.",
+        "name": "Puree the avocado, olive oil, and lime juice together. Season with salt and pepper.",
+        "url": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/#wprm-recipe-59820-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toast the slices of bread, then top with the avocado spread. Top with sun dried tomato pieces and crushed red pepper.",
+        "name": "Toast the slices of bread, then top with the avocado spread. Top with sun dried tomato pieces and crushed red pepper.",
+        "url": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/#wprm-recipe-59820-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/avocado-and-sun-dried-tomato-toast-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, packed-lunch, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "174 kcal",
+      "fatContent": "12.5 g",
+      "proteinContent": "3.9 g",
+      "carbohydrateContent": "10 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/avocado-and-sun-dried-tomato-toast/"
+  },
+  "sourceIndex": {
+    "id": 59821,
+    "rid": 59820,
+    "t": "Avocado and Sun Dried Tomato Toast",
+    "u": "/avocado-and-sun-dried-tomato-toast/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/33c68ce4d892384a4074bc80c53b964c-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 10,
+    "cal": 174,
+    "pr": 3.9,
+    "fa": 12.5,
+    "tm": 15,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "d": "2026-04-14",
+    "cm": 2,
+    "ex": "This Avocado and Sun Dried Tomato Toast is a vibrant and satisfying lunch that brings a gourmet flair to your keto lifestyle without any of the heavy carb counts. You will love the contrast between",
+    "pv": 186
+  },
+  "sourceHtml": "pages/avocado-and-sun-dried-tomato-toast.html",
+  "scrapedAt": "2026-11-07T08:14:44.713Z"
+}

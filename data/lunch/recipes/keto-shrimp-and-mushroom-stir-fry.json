@@ -1,0 +1,289 @@
+{
+  "id": "ruled-59127",
+  "slug": "keto-shrimp-and-mushroom-stir-fry",
+  "title": "Keto Shrimp and Mushroom Stir-Fry",
+  "url": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Shrimp and Mushroom Stir-Fry. Each serving comes out to be 249 calories, 14.5g fats, 4.2g net carbs, and 26g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "249 kcal",
+    "fatContent": "14.5 g",
+    "proteinContent": "26 g",
+    "carbohydrateContent": "4.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 249,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 26,
+    "fatGrams": 14.5
+  },
+  "ingredients": [
+    "2 tablespoon avocado oil",
+    "3 teaspoon fresh garlic (diced)",
+    "8 ounce shrimp",
+    "10 medium button mushrooms",
+    "1 tablespoon soy sauce",
+    "1 teaspoon apple cider vinegar",
+    "2 large green onion"
+  ],
+  "instructions": [
+    {
+      "text": "Heat the avocado oil in a large skillet. Add the garlic, shrimp, and mushrooms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-01.jpg"
+    },
+    {
+      "text": "Fry until the shrimp are cooked through and the mushrooms have browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-02.jpg"
+    },
+    {
+      "text": "Add the soy sauce and vinegar, then stir fry for a few more minutes. Mix in the diced green onions, then remove the pan from the heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-03.jpg"
+    },
+    {
+      "text": "Serve over some cauliflower rice!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/2ce34b8af9e97f71ad7dd7c1.avif",
+      "archived": true,
+      "originalPath": "images/2ce34b8af9e97f71ad7dd7c1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334.jpg",
+      "path": "images/6b2cde8efe4cb897a734d81f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/3835711894797823b6a45614.jpg",
+      "archived": true,
+      "originalPath": "images/3835711894797823b6a45614.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/7fe0baaaa95679982b570cf6.jpg",
+      "archived": true,
+      "originalPath": "images/7fe0baaaa95679982b570cf6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-03.jpg",
+      "path": "../../nenaudojama/lunch/images/4fcc8de2e9a98d97523e3eb8.jpg",
+      "archived": true,
+      "originalPath": "images/4fcc8de2e9a98d97523e3eb8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-04.jpg",
+      "path": "../../nenaudojama/lunch/images/a905d9463000569b80f7e637.jpg",
+      "archived": true,
+      "originalPath": "images/a905d9463000569b80f7e637.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/543f18ed6b7a7b938e90071e.avif",
+      "archived": true,
+      "originalPath": "images/543f18ed6b7a7b938e90071e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e6b3bb6ab2f1068fa2cdce37.jpg",
+      "archived": true,
+      "originalPath": "images/e6b3bb6ab2f1068fa2cdce37.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/68fb99bc14953826121c3cc9.jpg",
+      "archived": true,
+      "originalPath": "images/68fb99bc14953826121c3cc9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/66404d5d4ed49523f8182bca.jpg",
+      "archived": true,
+      "originalPath": "images/66404d5d4ed49523f8182bca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-04-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2e7aad451d04153aad5f257d.jpg",
+      "archived": true,
+      "originalPath": "images/2e7aad451d04153aad5f257d.jpg"
+    }
+  ],
+  "featuredImage": "images/6b2cde8efe4cb897a734d81f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Shrimp and Mushroom Stir-Fry",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Shrimp and Mushroom Stir-Fry. Each serving comes out to be 249 calories, 14.5g fats, 4.2g net carbs, and 26g protein.",
+    "datePublished": "2026-04-09T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "2 tablespoon avocado oil",
+      "3 teaspoon fresh garlic (diced)",
+      "8 ounce shrimp",
+      "10 medium button mushrooms",
+      "1 tablespoon soy sauce",
+      "1 teaspoon apple cider vinegar",
+      "2 large green onion"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat the avocado oil in a large skillet. Add the garlic, shrimp, and mushrooms.",
+        "name": "Heat the avocado oil in a large skillet. Add the garlic, shrimp, and mushrooms.",
+        "url": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry until the shrimp are cooked through and the mushrooms have browned.",
+        "name": "Fry until the shrimp are cooked through and the mushrooms have browned.",
+        "url": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the soy sauce and vinegar, then stir fry for a few more minutes. Mix in the diced green onions, then remove the pan from the heat.",
+        "name": "Add the soy sauce and vinegar, then stir fry for a few more minutes. Mix in the diced green onions, then remove the pan from the heat.",
+        "url": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve over some cauliflower rice!",
+        "name": "Serve over some cauliflower rice!",
+        "url": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#wprm-recipe-59124-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/keto-shrimp-and-mushroom-stir-fry-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, egg-free, fish, high-protein, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "249 kcal",
+      "fatContent": "14.5 g",
+      "proteinContent": "26 g",
+      "carbohydrateContent": "4.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-shrimp-and-mushroom-stir-fry/"
+  },
+  "sourceIndex": {
+    "id": 59127,
+    "rid": 59124,
+    "t": "Keto Shrimp and Mushroom Stir-Fry",
+    "u": "/keto-shrimp-and-mushroom-stir-fry/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/e6c398e0ae08bb2c949088514a061334-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.2,
+    "cal": 249,
+    "pr": 26,
+    "fa": 14.5,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2026-04-09",
+    "cm": 0,
+    "ex": "This Keto Shrimp and Mushroom Stir-Fry is the perfect solution for those busy weekday afternoons when you need a nutrient-dense lunch that does not skimp on flavor. Each bite offers a satisfying",
+    "pv": 140
+  },
+  "sourceHtml": "pages/keto-shrimp-and-mushroom-stir-fry.html",
+  "scrapedAt": "2026-11-07T08:14:45.829Z"
+}

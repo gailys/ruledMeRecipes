@@ -1,0 +1,363 @@
+{
+  "id": "ruled-36855",
+  "slug": "keto-blt-style-dip",
+  "title": "BLT Style Dip",
+  "url": "https://www.ruled.me/keto-blt-style-dip/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 10 servings of BLT Style Dip. Each serving comes out to be 421 calories, 41g fats, 3g net carbs, and 10.1g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "421 kcal",
+    "fatContent": "41 g",
+    "proteinContent": "10.1 g",
+    "carbohydrateContent": "3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 421,
+    "netCarbsGrams": 3,
+    "proteinGrams": 10.1,
+    "fatGrams": 41
+  },
+  "ingredients": [
+    "12 ounce bacon",
+    "8 ounce cream cheese (softened)",
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "1 1/2 cup cheddar cheese (shredded)",
+    "1 medium fresh tomatoes",
+    "2 tablespoon fresh chives (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Use a skillet to fry up the bacon slices, then set aside on a paper towel to drain.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-02.jpg"
+    },
+    {
+      "text": "In a mixing bowl, combine the softened cream cheese, mayonnaise, and sour cream, blending well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-03.jpg"
+    },
+    {
+      "text": "Add the crumbled bacon and most of the shredded cheddar cheese, reserving a small amount for topping the dip.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-04.jpg"
+    },
+    {
+      "text": "Dice up the tomato and set a little bit aside, then mix the rest into the dip.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-05.jpg"
+    },
+    {
+      "text": "Spread the dip out into a baking pan or small casserole dish. Evenly distribute the reserved shredded cheese and tomato, then sprinkle the chives on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-06.jpg"
+    },
+    {
+      "text": "Bake for 20 minutes, or until hot and bubbly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/05367f060870a1b06f99db26.jpg",
+      "archived": true,
+      "originalPath": "images/05367f060870a1b06f99db26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-featured.jpg",
+      "path": "../../nenaudojama/snacks/images/0d6220d7dc805ae5ae96248f.avif",
+      "archived": true,
+      "originalPath": "images/0d6220d7dc805ae5ae96248f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-02.jpg",
+      "path": "../../nenaudojama/snacks/images/7fe7d22bdb98454940b9d980.jpg",
+      "archived": true,
+      "originalPath": "images/7fe7d22bdb98454940b9d980.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-03.jpg",
+      "path": "../../nenaudojama/snacks/images/ff194f38329ceb69a8f5aca6.jpg",
+      "archived": true,
+      "originalPath": "images/ff194f38329ceb69a8f5aca6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-04.jpg",
+      "path": "../../nenaudojama/snacks/images/2033c7d7d9c230d59f39dc85.jpg",
+      "archived": true,
+      "originalPath": "images/2033c7d7d9c230d59f39dc85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-05.jpg",
+      "path": "../../nenaudojama/snacks/images/c0671755fa6fd3f30a1584fc.jpg",
+      "archived": true,
+      "originalPath": "images/c0671755fa6fd3f30a1584fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-06.jpg",
+      "path": "../../nenaudojama/snacks/images/8466ecf423bf00d7d537d96d.jpg",
+      "archived": true,
+      "originalPath": "images/8466ecf423bf00d7d537d96d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-second.jpg",
+      "path": "../../nenaudojama/snacks/images/5920a2b9c3c742b986434b04.jpg",
+      "archived": true,
+      "originalPath": "images/5920a2b9c3c742b986434b04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-pin.jpg",
+      "path": "../../nenaudojama/snacks/images/b1ebaa25ef89d031e92ff481.jpg",
+      "archived": true,
+      "originalPath": "images/b1ebaa25ef89d031e92ff481.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-02-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/c376d15bce1f0b96c672d889.avif",
+      "archived": true,
+      "originalPath": "images/c376d15bce1f0b96c672d889.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-03-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/f49dbf5f9761aea91a368685.jpg",
+      "archived": true,
+      "originalPath": "images/f49dbf5f9761aea91a368685.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-04-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/78e8f239916764d10351aa87.avif",
+      "archived": true,
+      "originalPath": "images/78e8f239916764d10351aa87.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-05-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/def16a476c234cf7b3bffa6e.avif",
+      "archived": true,
+      "originalPath": "images/def16a476c234cf7b3bffa6e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-06-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/58f812aa4a6ea7efb86e65ea.avif",
+      "archived": true,
+      "originalPath": "images/58f812aa4a6ea7efb86e65ea.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/0d6220d7dc805ae5ae96248f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "BLT Style Dip",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 10 servings of BLT Style Dip. Each serving comes out to be 421 calories, 41g fats, 3g net carbs, and 10.1g protein.",
+    "datePublished": "2018-04-19T06:21:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto BLT Style Dip [Low-Carb Gameday Dip]",
+      "description": "There is nothing better than a hot, cheesy dip, and this one is no exception. Whisk this creamy dip out of the bowl with pork rinds or celery sticks. It’s packed full of salty bacon, cheddar cheese, and fresh chunks of tomato.\n\nWhile this is a great recipe to whip up for parties, I like serving this when we’re just home catching up on our favorite shows too. It’s a quick crowd pleaser, and people will definitely ask you for this recipe!\n\nInstead of baking in the oven, feel free to cook in your slow cooker. Use the low setting for a couple of hours, then leave it on warm so it’s ready whenever you are.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n12 ounces bacon\n8 ounces cream cheese, softened\n1 cup mayonnaise\n1 cup sour cream\n1 ½ cups shredded cheddar cheese\n1 medium slicing tomato\n2 tablespoons chopped fresh chives\n\nNutrition Summary: This makes a total of 10 (½-cup)servings of Keto BLT Style Dip. Each serving comes out to be 398.7 Calories, 38.61g Fats, 3.44g Net Carbs, and 9.64g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-11-07T16:00:20+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M18S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 5949
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 368
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 25
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iZhmDwA7gqk/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iZhmDwA7gqk?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=iZhmDwA7gqk",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "12 ounce bacon",
+      "8 ounce cream cheese (softened)",
+      "1 cup mayonnaise",
+      "1 cup sour cream",
+      "1 1/2 cup cheddar cheese (shredded)",
+      "1 medium fresh tomatoes",
+      "2 tablespoon fresh chives (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Use a skillet to fry up the bacon slices, then set aside on a paper towel to drain.",
+        "name": "Preheat oven to 375F. Use a skillet to fry up the bacon slices, then set aside on a paper towel to drain.",
+        "url": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the softened cream cheese, mayonnaise, and sour cream, blending well.",
+        "name": "In a mixing bowl, combine the softened cream cheese, mayonnaise, and sour cream, blending well.",
+        "url": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the crumbled bacon and most of the shredded cheddar cheese, reserving a small amount for topping the dip.",
+        "name": "Add the crumbled bacon and most of the shredded cheddar cheese, reserving a small amount for topping the dip.",
+        "url": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice up the tomato and set a little bit aside, then mix the rest into the dip.",
+        "name": "Dice up the tomato and set a little bit aside, then mix the rest into the dip.",
+        "url": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the dip out into a baking pan or small casserole dish. Evenly distribute the reserved shredded cheese and tomato, then sprinkle the chives on top.",
+        "name": "Spread the dip out into a baking pan or small casserole dish. Evenly distribute the reserved shredded cheese and tomato, then sprinkle the chives on top.",
+        "url": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20 minutes, or until hot and bubbly.",
+        "name": "Bake for 20 minutes, or until hot and bubbly.",
+        "url": "https://www.ruled.me/keto-blt-style-dip/#wprm-recipe-52563-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, game-day, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, party-food, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "421 kcal",
+      "fatContent": "41 g",
+      "proteinContent": "10.1 g",
+      "carbohydrateContent": "3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-blt-style-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-blt-style-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-blt-style-dip/"
+  },
+  "sourceIndex": {
+    "id": 36855,
+    "rid": 52563,
+    "t": "Keto BLT Style Dip",
+    "u": "/keto-blt-style-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/04/blt-dip-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3,
+    "cal": 421,
+    "pr": 10.1,
+    "fa": 41,
+    "tm": 25,
+    "sv": 10,
+    "kw": [
+      "30-minute",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "pork"
+    ],
+    "d": "2018-04-19",
+    "cm": 4,
+    "ex": "There is nothing better than a hot, cheesy dip, and this one is no exception. Whisk this creamy dip out of the bowl with pork rinds or celery sticks. It's packed full of salty bacon, cheddar cheese",
+    "pv": 270
+  },
+  "sourceHtml": "pages/keto-blt-style-dip.html",
+  "scrapedAt": "2026-11-07T08:31:09.206Z"
+}

@@ -1,0 +1,234 @@
+{
+  "id": "ruled-58841",
+  "slug": "keto-double-chocolate-oatmeal",
+  "title": "Keto Double Chocolate Oatmeal",
+  "url": "https://www.ruled.me/keto-double-chocolate-oatmeal/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Double Chocolate Oatmeal. The serving comes out to be 448 calories, 41g fats, 5.7g net carbs, and 13.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT3M",
+  "cookTime": "PT0M",
+  "totalTime": "PT3M",
+  "totalMinutes": 3,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "448 kcal",
+    "fatContent": "41 g",
+    "proteinContent": "13.7 g",
+    "carbohydrateContent": "5.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 448,
+    "netCarbsGrams": 5.7,
+    "proteinGrams": 13.7,
+    "fatGrams": 41
+  },
+  "ingredients": [
+    "3 tablespoon hemp hearts",
+    "1 tablespoon unsweetened dark cocoa powder",
+    "1/2 tablespoon low-carb dark chocolate chips",
+    "1/4 cup heavy whipping cream",
+    "2 teaspoon chia seeds",
+    "2 drop liquid stevia",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Mix all of the ingredients together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-double-chocolate-oatmeal/#wprm-recipe-58838-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-01.jpg"
+    },
+    {
+      "text": "Chill in the fridge overnight or for a minimum of 4 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-double-chocolate-oatmeal/#wprm-recipe-58838-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/209d658a85ec8f4fe4c99ecf.jpg",
+      "archived": true,
+      "originalPath": "images/209d658a85ec8f4fe4c99ecf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e.jpg",
+      "path": "images/d42993dc3e21d02e50396e75.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/bd3d5362f7fdc7beacd0dcff.jpg",
+      "archived": true,
+      "originalPath": "images/bd3d5362f7fdc7beacd0dcff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/bb4c3343458e16385ee92a68.jpg",
+      "archived": true,
+      "originalPath": "images/bb4c3343458e16385ee92a68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/6737bba29258ece1e572c43d.jpg",
+      "archived": true,
+      "originalPath": "images/6737bba29258ece1e572c43d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2c1c7d9787e4989f8e421cea.jpg",
+      "archived": true,
+      "originalPath": "images/2c1c7d9787e4989f8e421cea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-02-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/aefec4d8e01b56212ab90aa6.jpg",
+      "archived": true,
+      "originalPath": "images/aefec4d8e01b56212ab90aa6.jpg"
+    }
+  ],
+  "featuredImage": "images/d42993dc3e21d02e50396e75.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Double Chocolate Oatmeal",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Double Chocolate Oatmeal. The serving comes out to be 448 calories, 41g fats, 5.7g net carbs, and 13.7g protein.",
+    "datePublished": "2026-04-16T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e-480x270.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT3M",
+    "totalTime": "PT3M",
+    "recipeIngredient": [
+      "3 tablespoon hemp hearts",
+      "1 tablespoon unsweetened dark cocoa powder",
+      "1/2 tablespoon low-carb dark chocolate chips",
+      "1/4 cup heavy whipping cream",
+      "2 teaspoon chia seeds",
+      "2 drop liquid stevia",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix all of the ingredients together.",
+        "name": "Mix all of the ingredients together.",
+        "url": "https://www.ruled.me/keto-double-chocolate-oatmeal/#wprm-recipe-58838-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill in the fridge overnight or for a minimum of 4 hours.",
+        "name": "Chill in the fridge overnight or for a minimum of 4 hours.",
+        "url": "https://www.ruled.me/keto-double-chocolate-oatmeal/#wprm-recipe-58838-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/keto-double-chocolate-oatmeal-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, make-ahead, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "448 kcal",
+      "fatContent": "41 g",
+      "proteinContent": "13.7 g",
+      "carbohydrateContent": "5.7 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-double-chocolate-oatmeal/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-double-chocolate-oatmeal/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-double-chocolate-oatmeal/"
+  },
+  "sourceIndex": {
+    "id": 58841,
+    "rid": 58838,
+    "t": "Keto Double Chocolate Oatmeal",
+    "u": "/keto-double-chocolate-oatmeal/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/f090428d3070be6585642413ba07314e-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.7,
+    "cal": 448,
+    "pr": 13.7,
+    "fa": 41,
+    "tm": 3,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2026-04-16",
+    "cm": 0,
+    "ex": "This Keto Double Chocolate Oatmeal is the ultimate morning treat for anyone who misses the convenience and comfort of traditional overnight oats without the heavy carb load. By swapping out high-carb",
+    "pv": 530
+  },
+  "sourceHtml": "pages/keto-double-chocolate-oatmeal.html",
+  "scrapedAt": "2026-11-07T08:11:11.677Z"
+}

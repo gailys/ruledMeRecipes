@@ -1,0 +1,329 @@
+{
+  "id": "ruled-38911",
+  "slug": "maple-shrimp-salad",
+  "title": "Maple Shrimp Salad",
+  "url": "https://www.ruled.me/maple-shrimp-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Maple Shrimp Salad. Each serving comes out to be 410 calories, 23.6g fats, 6.4g net carbs, and 42.3g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "410 kcal",
+    "fatContent": "23.6 g",
+    "proteinContent": "42.3 g",
+    "carbohydrateContent": "6.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 410,
+    "netCarbsGrams": 6.4,
+    "proteinGrams": 42.3,
+    "fatGrams": 23.6
+  },
+  "ingredients": [
+    "6 ounce mixed greens",
+    "16 ounce feta cheese (chopped)",
+    "2 tablespoon butter",
+    "1 teaspoon garlic (minced)",
+    "32 ounce shrimp",
+    "1/2 medium onion (chopped)",
+    "2 medium red bell pepper (diced)",
+    "3 teaspoon olive oil",
+    "5 teaspoon ruled.me maple syrup",
+    "2 teaspoon apple cider vinegar",
+    "1 tablespoon lemon juice"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a pan on the stove, then melt the butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-01.jpg"
+    },
+    {
+      "text": "Add minced garlic to melted butter. Place shrimp in the pan. Sauté until garlic is lightly browned and shrimp is cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-02.jpg"
+    },
+    {
+      "text": "Remove the pan from the stove and allow the shrimp to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-03.jpg"
+    },
+    {
+      "text": "Mix field greens, shrimp, chopped feta, onion, and sliced red peppers in a salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-05.jpg"
+    },
+    {
+      "text": "In a separate bowl, whisk together olive oil, sugar-free maple syrup, apple cider vinegar, and lemon juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-04.jpg"
+    },
+    {
+      "text": "Pour salad dressing onto salad. Toss so ingredients are evenly coated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "spring",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/346c370e410f5edabca8fc88.jpg",
+      "archived": true,
+      "originalPath": "images/346c370e410f5edabca8fc88.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-featured.jpg",
+      "path": "images/2959bb6fe13714832afcf0a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/a75a52f985342a9d016bb4aa.jpg",
+      "archived": true,
+      "originalPath": "images/a75a52f985342a9d016bb4aa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/9075f5dcddf5ffb76b6b1b40.avif",
+      "archived": true,
+      "originalPath": "images/9075f5dcddf5ffb76b6b1b40.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-03.jpg",
+      "path": "../../nenaudojama/lunch/images/ff076de15685c763468dde5d.jpg",
+      "archived": true,
+      "originalPath": "images/ff076de15685c763468dde5d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-05.jpg",
+      "path": "../../nenaudojama/lunch/images/3cd27d113b1e4a35aa6fb3c8.jpg",
+      "archived": true,
+      "originalPath": "images/3cd27d113b1e4a35aa6fb3c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/22eb85df771156c63e480348.jpg",
+      "archived": true,
+      "originalPath": "images/22eb85df771156c63e480348.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/6d2b9a2a46f4d33fafa1e05f.jpg",
+      "archived": true,
+      "originalPath": "images/6d2b9a2a46f4d33fafa1e05f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/1d90df5b1bc323435c1898cc.jpg",
+      "archived": true,
+      "originalPath": "images/1d90df5b1bc323435c1898cc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/81b70b760135e31c2ed10735.avif",
+      "archived": true,
+      "originalPath": "images/81b70b760135e31c2ed10735.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/48e83aa403e436eef3f61cc6.jpg",
+      "archived": true,
+      "originalPath": "images/48e83aa403e436eef3f61cc6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7b729164a606334065817ec5.avif",
+      "archived": true,
+      "originalPath": "images/7b729164a606334065817ec5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/4e2c10e7e49516133b8aa440.jpg",
+      "archived": true,
+      "originalPath": "images/4e2c10e7e49516133b8aa440.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d8e9a2ff05b11fc327ae86a0.jpg",
+      "archived": true,
+      "originalPath": "images/d8e9a2ff05b11fc327ae86a0.jpg"
+    }
+  ],
+  "featuredImage": "images/2959bb6fe13714832afcf0a4.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Maple Shrimp Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Maple Shrimp Salad. Each serving comes out to be 410 calories, 23.6g fats, 6.4g net carbs, and 42.3g protein.",
+    "datePublished": "2019-01-31T12:00:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "6 ounce mixed greens",
+      "16 ounce feta cheese (chopped)",
+      "2 tablespoon butter",
+      "1 teaspoon garlic (minced)",
+      "32 ounce shrimp",
+      "1/2 medium onion (chopped)",
+      "2 medium red bell pepper (diced)",
+      "3 teaspoon olive oil",
+      "5 teaspoon ruled.me maple syrup",
+      "2 teaspoon apple cider vinegar",
+      "1 tablespoon lemon juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a pan on the stove, then melt the butter.",
+        "name": "Preheat a pan on the stove, then melt the butter.",
+        "url": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add minced garlic to melted butter. Place shrimp in the pan. Sauté until garlic is lightly browned and shrimp is cooked through.",
+        "name": "Add minced garlic to melted butter. Place shrimp in the pan. Sauté until garlic is lightly browned and shrimp is cooked through.",
+        "url": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pan from the stove and allow the shrimp to cool.",
+        "name": "Remove the pan from the stove and allow the shrimp to cool.",
+        "url": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix field greens, shrimp, chopped feta, onion, and sliced red peppers in a salad bowl.",
+        "name": "Mix field greens, shrimp, chopped feta, onion, and sliced red peppers in a salad bowl.",
+        "url": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, whisk together olive oil, sugar-free maple syrup, apple cider vinegar, and lemon juice.",
+        "name": "In a separate bowl, whisk together olive oil, sugar-free maple syrup, apple cider vinegar, and lemon juice.",
+        "url": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour salad dressing onto salad. Toss so ingredients are evenly coated.",
+        "name": "Pour salad dressing onto salad. Toss so ingredients are evenly coated.",
+        "url": "https://www.ruled.me/maple-shrimp-salad/#wprm-recipe-52870-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, egg-free, fish, gluten-free, high-fat, keto, low-carb, nut-free, quick, spring, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "410 kcal",
+      "fatContent": "23.6 g",
+      "proteinContent": "42.3 g",
+      "carbohydrateContent": "6.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/maple-shrimp-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/maple-shrimp-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/maple-shrimp-salad/"
+  },
+  "sourceIndex": {
+    "id": 38911,
+    "rid": 52870,
+    "t": "Maple Shrimp Salad",
+    "u": "/maple-shrimp-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/01/keto-maple-shrimp-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.4,
+    "cal": 410,
+    "pr": 42.3,
+    "fa": 23.6,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "spring",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2019-01-31",
+    "cm": 0,
+    "ex": "Maple Shrimp Salad is a sweet and savory dish that can be served as an entrée or as a side salad for dinner. It reminds me of warm, slightly saccharine spring nights. The kind where you sit for hours",
+    "pv": 79
+  },
+  "sourceHtml": "pages/maple-shrimp-salad.html",
+  "scrapedAt": "2026-11-07T08:16:43.847Z"
+}

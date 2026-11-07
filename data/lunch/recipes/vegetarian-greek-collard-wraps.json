@@ -1,0 +1,333 @@
+{
+  "id": "ruled-34593",
+  "slug": "vegetarian-greek-collard-wraps",
+  "title": "Vegetarian Greek Collard Wraps",
+  "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Vegetarian Greek Collard Wraps. Each serving comes out to be 235 calories, 16.8g fats, 9.1g net carbs, and 11g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "fatContent": "16.8 g",
+    "proteinContent": "11 g",
+    "carbohydrateContent": "9.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 235,
+    "netCarbsGrams": 9.1,
+    "proteinGrams": 11,
+    "fatGrams": 16.8
+  },
+  "ingredients": [
+    "1 cup full-fat plain greek yogurt",
+    "1 teaspoon garlic powder",
+    "1 tablespoon white vinegar",
+    "2 tablespoon olive oil",
+    "2 1/2 ounce cucumber (peeled, grated)",
+    "2 tablespoon fresh dill (minced)",
+    "salt and pepper",
+    "4 large collard green leaves",
+    "1 medium cucumber (cut into matchsticks)",
+    "1/2 medium red bell pepper (cut into matchsticks)",
+    "1/2 cup red onion (sliced)",
+    "8 whole black olives (sliced)",
+    "4 ounce feta cheese",
+    "4 large cherry tomatoes (halved)"
+  ],
+  "instructions": [
+    {
+      "text": "Mix all of the ingredients for the tzatziki sauce together and also store in the fridge. Be sure to squeeze all of the water out of the cucumber after you grate it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-01.jpg"
+    },
+    {
+      "text": "Prepare collard green wraps by washing leaves well and trimming the fibrous stem from each leaf.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-02.jpg"
+    },
+    {
+      "text": "Spread 2 tablespoons of tzatziki onto the center of each wrap and smooth the sauce out.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-03.jpg"
+    },
+    {
+      "text": "Layer the cucumber, pepper, onion, olives, feta and tomatoes in the center of the wrap. I’ve shown them spread out in a line to display each ingredient, but when assembling these wraps it works best to keep all of the ingredients close and toward the center of the leaf. Imagine piling them high rather than spreading them out!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-04.jpg"
+    },
+    {
+      "text": "Fold as you would a burrito, folding in each side toward the center and then folding the rounded end over the filling and roll.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-05.jpg"
+    },
+    {
+      "text": "Slice in halves and serve with any leftover tzatziki or wrap in plastic for a quick lunchtime meal!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/fe84c176533226a41f6e7364.jpg",
+      "archived": true,
+      "originalPath": "images/fe84c176533226a41f6e7364.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-featured.jpg",
+      "path": "images/5f920f3028e4de361405fa9a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-01.jpg",
+      "path": "../../nenaudojama/lunch/images/8977c7c4d939966e79ebe663.jpg",
+      "archived": true,
+      "originalPath": "images/8977c7c4d939966e79ebe663.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-02.jpg",
+      "path": "../../nenaudojama/lunch/images/2f0df504266557b90a5fa607.jpg",
+      "archived": true,
+      "originalPath": "images/2f0df504266557b90a5fa607.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-03.jpg",
+      "path": "../../nenaudojama/lunch/images/8f1c045336ec938b11c6464a.jpg",
+      "archived": true,
+      "originalPath": "images/8f1c045336ec938b11c6464a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-04.jpg",
+      "path": "../../nenaudojama/lunch/images/d48f505a0313f8d26bd00c28.jpg",
+      "archived": true,
+      "originalPath": "images/d48f505a0313f8d26bd00c28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-05.jpg",
+      "path": "../../nenaudojama/lunch/images/04267693e9f212dea90e3fee.jpg",
+      "archived": true,
+      "originalPath": "images/04267693e9f212dea90e3fee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-second.jpg",
+      "path": "../../nenaudojama/lunch/images/e860f0179c8d01d34172b6f6.avif",
+      "archived": true,
+      "originalPath": "images/e860f0179c8d01d34172b6f6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/edde583bf484e7a2654f51ff.jpg",
+      "archived": true,
+      "originalPath": "images/edde583bf484e7a2654f51ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6606bfdf43d575f794972e76.jpg",
+      "archived": true,
+      "originalPath": "images/6606bfdf43d575f794972e76.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a6f68d9133c4e8923e76b9a1.jpg",
+      "archived": true,
+      "originalPath": "images/a6f68d9133c4e8923e76b9a1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/921fe332cd2d79e35bee2b4e.jpg",
+      "archived": true,
+      "originalPath": "images/921fe332cd2d79e35bee2b4e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2958bfefd689dbbf4f351d24.jpg",
+      "archived": true,
+      "originalPath": "images/2958bfefd689dbbf4f351d24.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/146c95942ebcd13ed7f84042.jpg",
+      "archived": true,
+      "originalPath": "images/146c95942ebcd13ed7f84042.jpg"
+    }
+  ],
+  "featuredImage": "images/5f920f3028e4de361405fa9a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Vegetarian Greek Collard Wraps",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Vegetarian Greek Collard Wraps. Each serving comes out to be 235 calories, 16.8g fats, 9.1g net carbs, and 11g protein.",
+    "datePublished": "2017-11-30T12:00:28+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT20M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "1 cup full-fat plain greek yogurt",
+      "1 teaspoon garlic powder",
+      "1 tablespoon white vinegar",
+      "2 tablespoon olive oil",
+      "2 1/2 ounce cucumber (peeled, grated)",
+      "2 tablespoon fresh dill (minced)",
+      "salt and pepper",
+      "4 large collard green leaves",
+      "1 medium cucumber (cut into matchsticks)",
+      "1/2 medium red bell pepper (cut into matchsticks)",
+      "1/2 cup red onion (sliced)",
+      "8 whole black olives (sliced)",
+      "4 ounce feta cheese",
+      "4 large cherry tomatoes (halved)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix all of the ingredients for the tzatziki sauce together and also store in the fridge. Be sure to squeeze all of the water out of the cucumber after you grate it.",
+        "name": "Mix all of the ingredients for the tzatziki sauce together and also store in the fridge. Be sure to squeeze all of the water out of the cucumber after you grate it.",
+        "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare collard green wraps by washing leaves well and trimming the fibrous stem from each leaf.",
+        "name": "Prepare collard green wraps by washing leaves well and trimming the fibrous stem from each leaf.",
+        "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread 2 tablespoons of tzatziki onto the center of each wrap and smooth the sauce out.",
+        "name": "Spread 2 tablespoons of tzatziki onto the center of each wrap and smooth the sauce out.",
+        "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer the cucumber, pepper, onion, olives, feta and tomatoes in the center of the wrap. I’ve shown them spread out in a line to display each ingredient, but when assembling these wraps it works best to keep all of the ingredients close and toward the center of the leaf. Imagine piling them high rather than spreading them out!",
+        "name": "Layer the cucumber, pepper, onion, olives, feta and tomatoes in the center of the wrap. I’ve shown them spread out in a line to display each ingredient, but when assembling these wraps it works best to keep all of the ingredients close and toward the center of the leaf. Imagine piling them high rather than spreading them out!",
+        "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold as you would a burrito, folding in each side toward the center and then folding the rounded end over the filling and roll.",
+        "name": "Fold as you would a burrito, folding in each side toward the center and then folding the rounded end over the filling and roll.",
+        "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice in halves and serve with any leftover tzatziki or wrap in plastic for a quick lunchtime meal!",
+        "name": "Slice in halves and serve with any leftover tzatziki or wrap in plastic for a quick lunchtime meal!",
+        "url": "https://www.ruled.me/vegetarian-greek-collard-wraps/#wprm-recipe-52365-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Greek"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, packed-lunch, quick, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235 kcal",
+      "fatContent": "16.8 g",
+      "proteinContent": "11 g",
+      "carbohydrateContent": "9.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/vegetarian-greek-collard-wraps/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/vegetarian-greek-collard-wraps/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/vegetarian-greek-collard-wraps/"
+  },
+  "sourceIndex": {
+    "id": 34593,
+    "rid": 52365,
+    "t": "Vegetarian Greek Collard Wraps",
+    "u": "/vegetarian-greek-collard-wraps/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/vegetarian-greek-collard-wraps-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 9.1,
+    "cal": 235,
+    "pr": 11,
+    "fa": 16.8,
+    "tm": 20,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 14,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2017-11-30",
+    "cm": 1,
+    "ex": "Being keto and vegetarian can be difficult when you feel like you are always eating vegetables the same way! Then, there’s the obvious lettuce wraps that are always keto friendly but 9 times out of",
+    "pv": 230
+  },
+  "sourceHtml": "pages/vegetarian-greek-collard-wraps.html",
+  "scrapedAt": "2026-11-07T08:17:21.717Z"
+}

@@ -1,0 +1,218 @@
+{
+  "id": "ruled-37599",
+  "slug": "raspberry-pecan-salad",
+  "title": "Raspberry Pecan Salad",
+  "url": "https://www.ruled.me/raspberry-pecan-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Raspberry Pecan Salad. Each serving comes out to be 262 calories, 24.1g fats, 4g net carbs, and 6.1g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "fatContent": "24.1 g",
+    "proteinContent": "6.1 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 262,
+    "netCarbsGrams": 4,
+    "proteinGrams": 6.1,
+    "fatGrams": 24.1
+  },
+  "ingredients": [
+    "170 gram mixed greens",
+    "200 gram feta cheese (diced)",
+    "150 gram pecans (halves)",
+    "200 gram raspberries",
+    "3 tablespoon olive oil",
+    "5 tablespoon apple cider vinegar",
+    "1 tablespoon lemon juice"
+  ],
+  "instructions": [
+    {
+      "text": "In a salad bowl mix together the lettuce, feta, pecans, and raspberries. In a separate bowl, whisk together the olive oil, apple cider vinegar, and lemon juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-pecan-salad/#wprm-recipe-52651-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-01.jpg"
+    },
+    {
+      "text": "Plate salad and drizzle dressing over all. So simple, yet so delicious!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/raspberry-pecan-salad/#wprm-recipe-52651-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/c5801be5cccfe8a79f9290e6.jpg",
+      "archived": true,
+      "originalPath": "images/c5801be5cccfe8a79f9290e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/3feb6e8d366b8837bc5b57c5.avif",
+      "archived": true,
+      "originalPath": "images/3feb6e8d366b8837bc5b57c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-01.jpg",
+      "path": "../../nenaudojama/side-items/images/ab6b0b6a6693e92b73d961b9.jpg",
+      "archived": true,
+      "originalPath": "images/ab6b0b6a6693e92b73d961b9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-second.jpg",
+      "path": "../../nenaudojama/side-items/images/ad53f6eb07bc366b667adf09.jpg",
+      "archived": true,
+      "originalPath": "images/ad53f6eb07bc366b667adf09.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/cfb42c976937456657b7a916.jpg",
+      "archived": true,
+      "originalPath": "images/cfb42c976937456657b7a916.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9a8729751f3368dc9efe5dba.jpg",
+      "archived": true,
+      "originalPath": "images/9a8729751f3368dc9efe5dba.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/3feb6e8d366b8837bc5b57c5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Raspberry Pecan Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Raspberry Pecan Salad. Each serving comes out to be 262 calories, 24.1g fats, 4g net carbs, and 6.1g protein.",
+    "datePublished": "2018-07-19T11:00:40+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "170 gram mixed greens",
+      "200 gram feta cheese (diced)",
+      "150 gram pecans (halves)",
+      "200 gram raspberries",
+      "3 tablespoon olive oil",
+      "5 tablespoon apple cider vinegar",
+      "1 tablespoon lemon juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a salad bowl mix together the lettuce, feta, pecans, and raspberries. In a separate bowl, whisk together the olive oil, apple cider vinegar, and lemon juice.",
+        "name": "In a salad bowl mix together the lettuce, feta, pecans, and raspberries. In a separate bowl, whisk together the olive oil, apple cider vinegar, and lemon juice.",
+        "url": "https://www.ruled.me/raspberry-pecan-salad/#wprm-recipe-52651-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate salad and drizzle dressing over all. So simple, yet so delicious!",
+        "name": "Plate salad and drizzle dressing over all. So simple, yet so delicious!",
+        "url": "https://www.ruled.me/raspberry-pecan-salad/#wprm-recipe-52651-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "262 kcal",
+      "fatContent": "24.1 g",
+      "proteinContent": "6.1 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/raspberry-pecan-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/raspberry-pecan-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/raspberry-pecan-salad/"
+  },
+  "sourceIndex": {
+    "id": 37599,
+    "rid": 52651,
+    "t": "Raspberry Pecan Salad",
+    "u": "/raspberry-pecan-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-pecan-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 4,
+    "cal": 262,
+    "pr": 6.1,
+    "fa": 24.1,
+    "tm": 10,
+    "sv": 8,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2018-07-19",
+    "cm": 0,
+    "ex": "Fresh raspberries, crunchy pecans, and salty feta cheese are what makes this salad one of the best I’ve had. For this recipe, I used a mix of lettuce called field greens, which are made up of several",
+    "pv": 288
+  },
+  "sourceHtml": "pages/raspberry-pecan-salad.html",
+  "scrapedAt": "2026-11-07T08:32:21.267Z"
+}

@@ -1,0 +1,295 @@
+{
+  "id": "ruled-40358",
+  "slug": "keto-blueberry-pancake-bites",
+  "title": "Keto Blueberry Pancake Bites",
+  "url": "https://www.ruled.me/keto-blueberry-pancake-bites/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Blueberry Pancake Bites. Each serving comes out to be 152 calories, 12.5g fats, 3.1g net carbs, and 5.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "fatContent": "12.5 g",
+    "proteinContent": "5.7 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 152,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 5.7,
+    "fatGrams": 12.5
+  },
+  "ingredients": [
+    "4 large egg",
+    "1/4 cup erythritol",
+    "1/2 teaspoon vanilla extract",
+    "1/2 cup coconut flour",
+    "1/4 cup butter (melted)",
+    "1 teaspoon baking powder",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon ground cinnamon",
+    "1/3 cup water",
+    "1/2 cup frozen blueberries"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 325F. Grease a mini muffin tin well, as the batter is very sticky.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-01.jpg"
+    },
+    {
+      "text": "Use a blender to puree the eggs, sweetener, and vanilla extract.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-03.jpg"
+    },
+    {
+      "text": "Add the coconut flour, butter, baking powder, salt, and cinnamon. Blend until smooth, then let the batter sit for a few minutes to thicken. Blend in the additional portion of water, about 1/3 at a time until the batter is thin enough to scoop easily but not thin enough to pour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-05.jpg"
+    },
+    {
+      "text": "Put the batter into the muffin tin. Top with a few blueberries per bite and press the berries down into the batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-07.jpg"
+    },
+    {
+      "text": "Bake for 25 minutes or until the batter fully cooks. Serve with sugar-free pancake syrup.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/faf2cc07f03eb0a6969a8ce0.avif",
+      "archived": true,
+      "originalPath": "images/faf2cc07f03eb0a6969a8ce0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-featured.jpg",
+      "path": "images/d02245523a0d8dacf724fe02.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/926ee2d6cb6c87d637b7b1be.jpg",
+      "archived": true,
+      "originalPath": "images/926ee2d6cb6c87d637b7b1be.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/1db362c96b734bd8db925462.jpg",
+      "archived": true,
+      "originalPath": "images/1db362c96b734bd8db925462.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/dceaf8766812b6333465ae6e.jpg",
+      "archived": true,
+      "originalPath": "images/dceaf8766812b6333465ae6e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-07.jpg",
+      "path": "../../nenaudojama/breakfast/images/5fd9762e4850bb763a89ad3d.jpg",
+      "archived": true,
+      "originalPath": "images/5fd9762e4850bb763a89ad3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-second-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/911b4a16401726c33a3421df.jpg",
+      "archived": true,
+      "originalPath": "images/911b4a16401726c33a3421df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/3c114be0488be74821aa8ad3.jpg",
+      "archived": true,
+      "originalPath": "images/3c114be0488be74821aa8ad3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1a2aa51c0939b74f7b3e8211.jpg",
+      "archived": true,
+      "originalPath": "images/1a2aa51c0939b74f7b3e8211.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1503f5de7bd279ba73c6b709.jpg",
+      "archived": true,
+      "originalPath": "images/1503f5de7bd279ba73c6b709.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-05-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/900a32414ecf71cc74fded26.jpg",
+      "archived": true,
+      "originalPath": "images/900a32414ecf71cc74fded26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-07-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e0b6d20bbec19f1d6a4a3318.jpg",
+      "archived": true,
+      "originalPath": "images/e0b6d20bbec19f1d6a4a3318.jpg"
+    }
+  ],
+  "featuredImage": "images/d02245523a0d8dacf724fe02.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Blueberry Pancake Bites",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Keto Blueberry Pancake Bites. Each serving comes out to be 152 calories, 12.5g fats, 3.1g net carbs, and 5.7g protein.",
+    "datePublished": "2019-06-04T11:00:43+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "4 large egg",
+      "1/4 cup erythritol",
+      "1/2 teaspoon vanilla extract",
+      "1/2 cup coconut flour",
+      "1/4 cup butter (melted)",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon ground cinnamon",
+      "1/3 cup water",
+      "1/2 cup frozen blueberries"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 325F. Grease a mini muffin tin well, as the batter is very sticky.",
+        "name": "Preheat your oven to 325F. Grease a mini muffin tin well, as the batter is very sticky.",
+        "url": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a blender to puree the eggs, sweetener, and vanilla extract.",
+        "name": "Use a blender to puree the eggs, sweetener, and vanilla extract.",
+        "url": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut flour, butter, baking powder, salt, and cinnamon. Blend until smooth, then let the batter sit for a few minutes to thicken. Blend in the additional portion of water, about 1/3 at a time until the batter is thin enough to scoop easily but not thin enough to pour.",
+        "name": "Add the coconut flour, butter, baking powder, salt, and cinnamon. Blend until smooth, then let the batter sit for a few minutes to thicken. Blend in the additional portion of water, about 1/3 at a time until the batter is thin enough to scoop easily but not thin enough to pour.",
+        "url": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the batter into the muffin tin. Top with a few blueberries per bite and press the berries down into the batter.",
+        "name": "Put the batter into the muffin tin. Top with a few blueberries per bite and press the berries down into the batter.",
+        "url": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 25 minutes or until the batter fully cooks. Serve with sugar-free pancake syrup.",
+        "name": "Bake for 25 minutes or until the batter fully cooks. Serve with sugar-free pancake syrup.",
+        "url": "https://www.ruled.me/keto-blueberry-pancake-bites/#wprm-recipe-53020-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Cakes"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, family-friendly, gluten-free, keto, low-carb, nut-free, oven-baked, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "152 kcal",
+      "fatContent": "12.5 g",
+      "proteinContent": "5.7 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-blueberry-pancake-bites/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-blueberry-pancake-bites/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-blueberry-pancake-bites/"
+  },
+  "sourceIndex": {
+    "id": 40358,
+    "rid": 53020,
+    "t": "Keto Blueberry Pancake Bites",
+    "u": "/keto-blueberry-pancake-bites/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/05/blueberry-pancake-bites-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.1,
+    "cal": 152,
+    "pr": 5.7,
+    "fa": 12.5,
+    "tm": 35,
+    "sv": 6,
+    "kw": [
+      "beginner-friendly",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked"
+    ],
+    "d": "2019-06-04",
+    "cm": 4,
+    "ex": "These mini muffins will perk up your breakfast with bites of blueberries (use frozen!) and a coconut flour base. They’re great for those of you who loved having a muffin in the morning before",
+    "pv": 78
+  },
+  "sourceHtml": "pages/keto-blueberry-pancake-bites.html",
+  "scrapedAt": "2026-11-07T08:11:12.586Z"
+}

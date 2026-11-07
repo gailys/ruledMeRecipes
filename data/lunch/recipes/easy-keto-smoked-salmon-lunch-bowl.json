@@ -1,0 +1,236 @@
+{
+  "id": "ruled-43144",
+  "slug": "easy-keto-smoked-salmon-lunch-bowl",
+  "title": "Easy Keto Smoked Salmon Lunch Bowl",
+  "url": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Easy Keto Smoked Salmon Lunch Bowl. Each serving comes out to be 457 calories, 34.8g fats, 1.8g net carbs, and 32.3g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "2",
+    "calories": "457 kcal",
+    "fatContent": "34.8 g",
+    "proteinContent": "32.3 g",
+    "carbohydrateContent": "1.8 g"
+  },
+  "nutritionPerServing": {
+    "calories": 457,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 32.3,
+    "fatGrams": 34.8
+  },
+  "ingredients": [
+    "12 ounce smoked salmon",
+    "4 tablespoon mayonnaise",
+    "2 ounce spinach",
+    "1 tablespoon olive oil",
+    "1/2 medium lime",
+    "salt and pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Arrange the salmon, spinach, and mayonnaise on a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/#wprm-recipe-53353-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-02.jpg"
+    },
+    {
+      "text": "Drizzle olive oil over the spinach. Season with salt and pepper and garnish with lime wedges.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/#wprm-recipe-53353-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/9e62337a06ffb11d412a49df.jpg",
+      "archived": true,
+      "originalPath": "images/9e62337a06ffb11d412a49df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-featured.jpg",
+      "path": "images/c4c1a66c7d986d0bb121644b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-02.jpg",
+      "path": "../../nenaudojama/lunch/images/d7fef7a531385d431b71eac3.jpg",
+      "archived": true,
+      "originalPath": "images/d7fef7a531385d431b71eac3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-second.jpg",
+      "path": "../../nenaudojama/lunch/images/d7293c16299c8849c209eec0.jpg",
+      "archived": true,
+      "originalPath": "images/d7293c16299c8849c209eec0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-01.jpg",
+      "path": "../../nenaudojama/lunch/images/3057d6161798470d2619e908.jpg",
+      "archived": true,
+      "originalPath": "images/3057d6161798470d2619e908.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/b3aace869375f767a40532d0.avif",
+      "archived": true,
+      "originalPath": "images/b3aace869375f767a40532d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/b97eb7251b060dcd808ddebd.jpg",
+      "archived": true,
+      "originalPath": "images/b97eb7251b060dcd808ddebd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/15f5ca8e3192647d53930398.jpg",
+      "archived": true,
+      "originalPath": "images/15f5ca8e3192647d53930398.jpg"
+    }
+  ],
+  "featuredImage": "images/c4c1a66c7d986d0bb121644b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Easy Keto Smoked Salmon Lunch Bowl",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Easy Keto Smoked Salmon Lunch Bowl. Each serving comes out to be 457 calories, 34.8g fats, 1.8g net carbs, and 32.3g protein.",
+    "datePublished": "2020-05-21T09:12:26+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "12 ounce smoked salmon",
+      "4 tablespoon mayonnaise",
+      "2 ounce spinach",
+      "1 tablespoon olive oil",
+      "1/2 medium lime",
+      "salt and pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the salmon, spinach, and mayonnaise on a plate.",
+        "name": "Arrange the salmon, spinach, and mayonnaise on a plate.",
+        "url": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/#wprm-recipe-53353-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle olive oil over the spinach. Season with salt and pepper and garnish with lime wedges.",
+        "name": "Drizzle olive oil over the spinach. Season with salt and pepper and garnish with lime wedges.",
+        "url": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/#wprm-recipe-53353-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "keywords": "15-minute, dairy-free, fish, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, packed-lunch, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "2",
+      "calories": "457 kcal",
+      "fatContent": "34.8 g",
+      "proteinContent": "32.3 g",
+      "carbohydrateContent": "1.8 g"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/easy-keto-smoked-salmon-lunch-bowl/"
+  },
+  "sourceIndex": {
+    "id": 43144,
+    "rid": 53353,
+    "t": "Easy Keto Smoked Salmon Lunch Bowl",
+    "u": "/easy-keto-smoked-salmon-lunch-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/05/smoked-salmon-plate-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 1.8,
+    "cal": 457,
+    "pr": 32.3,
+    "fa": 34.8,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2020-05-21",
+    "cm": 0,
+    "ex": "Smoked salmon is rich in its own right and can stand up as a meal in and of itself. Today, I bring you a super simple lunch that can be put together in just a few minutes and is filled with delicious",
+    "pv": 60
+  },
+  "sourceHtml": "pages/easy-keto-smoked-salmon-lunch-bowl.html",
+  "scrapedAt": "2026-11-07T08:15:57.024Z"
+}

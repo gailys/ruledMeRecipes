@@ -1,0 +1,347 @@
+{
+  "id": "ruled-47724",
+  "slug": "keto-rice-pudding",
+  "title": "Keto Rice Pudding",
+  "url": "https://www.ruled.me/keto-rice-pudding/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Rice Pudding. Each serving comes out to be 275 calories, 26.3g fats, 2.5g net carbs, and 4.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275 kcal",
+    "fatContent": "26.3 g",
+    "proteinContent": "4.5 g",
+    "carbohydrateContent": "2.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 275,
+    "netCarbsGrams": 2.5,
+    "proteinGrams": 4.5,
+    "fatGrams": 26.3
+  },
+  "ingredients": [
+    "200 gram shirataki rice",
+    "1/2 cup unsweetened almond milk",
+    "1 cup heavy cream",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon xanthan gum",
+    "4 large egg yolk",
+    "1/4 cup erythritol",
+    "1/2 teaspoon ground cinnamon"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-1.jpg"
+    },
+    {
+      "text": "In a saucepan, make the shirataki rice by adding in the water and the rice. Boil for 3 minutes then strain. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-2.jpg"
+    },
+    {
+      "text": "In a saucepan over medium heat, add in the almond milk, heavy cream, and vanilla extract. Let sit until the mixture is very hot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-3.jpg"
+    },
+    {
+      "text": "In a bowl, whisk together egg yolks, erythritol, and xanthan gum. Whisk until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-4.jpg"
+    },
+    {
+      "text": "Taking a very small amount at a time, add the milky mixture to the egg yolk mixture and whisk together well. Whisk every time you add some more milk mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-5.jpg"
+    },
+    {
+      "text": "After the two mixtures are combined well together, add everything back into the saucepan and heat it up over medium heat. Stir regularly until it gets creamy and thick. Stir in the shirataki rice and mix to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-6.jpg"
+    },
+    {
+      "text": "Serve it in bowls and garnish with cinnamon. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/ca22169a3b048f46f91d114e.jpg",
+      "archived": true,
+      "originalPath": "images/ca22169a3b048f46f91d114e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Featured.jpg",
+      "path": "images/5ee1098f3d21c953a0128b65.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-1.jpg",
+      "path": "../../nenaudojama/dessert/images/18f07e8f001457081cacb4f6.jpg",
+      "archived": true,
+      "originalPath": "images/18f07e8f001457081cacb4f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-2.jpg",
+      "path": "../../nenaudojama/dessert/images/dd49e6823b9ff99252ef2210.jpg",
+      "archived": true,
+      "originalPath": "images/dd49e6823b9ff99252ef2210.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-3.jpg",
+      "path": "../../nenaudojama/dessert/images/782416ed122a955b5ef20db1.jpg",
+      "archived": true,
+      "originalPath": "images/782416ed122a955b5ef20db1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-4.jpg",
+      "path": "../../nenaudojama/dessert/images/a12f5c1c72d94e9a299d97d6.jpg",
+      "archived": true,
+      "originalPath": "images/a12f5c1c72d94e9a299d97d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-5.jpg",
+      "path": "../../nenaudojama/dessert/images/077e83cc3c19674a1e5ac1d0.jpg",
+      "archived": true,
+      "originalPath": "images/077e83cc3c19674a1e5ac1d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-6.jpg",
+      "path": "../../nenaudojama/dessert/images/f500608f647dbf35dfa5ee07.jpg",
+      "archived": true,
+      "originalPath": "images/f500608f647dbf35dfa5ee07.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Second.jpg",
+      "path": "../../nenaudojama/dessert/images/98c0e178a809e90c195e15f6.jpg",
+      "archived": true,
+      "originalPath": "images/98c0e178a809e90c195e15f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Long.jpg",
+      "path": "../../nenaudojama/dessert/images/8ab8f442dc0d37705b3dfa1e.avif",
+      "archived": true,
+      "originalPath": "images/8ab8f442dc0d37705b3dfa1e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dessert/images/2d62f436d625a282aceb8da5.jpg",
+      "archived": true,
+      "originalPath": "images/2d62f436d625a282aceb8da5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c52b347b4aa3c3a03e3faf13.jpg",
+      "archived": true,
+      "originalPath": "images/c52b347b4aa3c3a03e3faf13.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/50d883abb19fc40a4a517c97.avif",
+      "archived": true,
+      "originalPath": "images/50d883abb19fc40a4a517c97.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-3-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4be43b7387154b6205451f50.avif",
+      "archived": true,
+      "originalPath": "images/4be43b7387154b6205451f50.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/36e44576c9c2efdfef7b953d.avif",
+      "archived": true,
+      "originalPath": "images/36e44576c9c2efdfef7b953d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/eeec4e86ae9f007cbca4a5a4.avif",
+      "archived": true,
+      "originalPath": "images/eeec4e86ae9f007cbca4a5a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-6-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1006ca3bde515127e33ffbd7.jpg",
+      "archived": true,
+      "originalPath": "images/1006ca3bde515127e33ffbd7.jpg"
+    }
+  ],
+  "featuredImage": "images/5ee1098f3d21c953a0128b65.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Rice Pudding",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Rice Pudding. Each serving comes out to be 275 calories, 26.3g fats, 2.5g net carbs, and 4.5g protein.",
+    "datePublished": "2022-10-13T09:00:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "200 gram shirataki rice",
+      "1/2 cup unsweetened almond milk",
+      "1 cup heavy cream",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon xanthan gum",
+      "4 large egg yolk",
+      "1/4 cup erythritol",
+      "1/2 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, make the shirataki rice by adding in the water and the rice. Boil for 3 minutes then strain. Set aside.",
+        "name": "In a saucepan, make the shirataki rice by adding in the water and the rice. Boil for 3 minutes then strain. Set aside.",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan over medium heat, add in the almond milk, heavy cream, and vanilla extract. Let sit until the mixture is very hot.",
+        "name": "In a saucepan over medium heat, add in the almond milk, heavy cream, and vanilla extract. Let sit until the mixture is very hot.",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, whisk together egg yolks, erythritol, and xanthan gum. Whisk until combined well.",
+        "name": "In a bowl, whisk together egg yolks, erythritol, and xanthan gum. Whisk until combined well.",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taking a very small amount at a time, add the milky mixture to the egg yolk mixture and whisk together well. Whisk every time you add some more milk mixture.",
+        "name": "Taking a very small amount at a time, add the milky mixture to the egg yolk mixture and whisk together well. Whisk every time you add some more milk mixture.",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the two mixtures are combined well together, add everything back into the saucepan and heat it up over medium heat. Stir regularly until it gets creamy and thick. Stir in the shirataki rice and mix to combine well.",
+        "name": "After the two mixtures are combined well together, add everything back into the saucepan and heat it up over medium heat. Stir regularly until it gets creamy and thick. Stir in the shirataki rice and mix to combine well.",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve it in bowls and garnish with cinnamon. Enjoy!",
+        "name": "Serve it in bowls and garnish with cinnamon. Enjoy!",
+        "url": "https://www.ruled.me/keto-rice-pudding/#wprm-recipe-54363-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "30-minute, comfort-food, gluten-free, keto, low-carb, make-ahead, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "275 kcal",
+      "fatContent": "26.3 g",
+      "proteinContent": "4.5 g",
+      "carbohydrateContent": "2.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-rice-pudding/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-rice-pudding/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-rice-pudding/"
+  },
+  "sourceIndex": {
+    "id": 47724,
+    "rid": 54363,
+    "t": "Keto Rice Pudding",
+    "u": "/keto-rice-pudding/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/07/Keto-Rice-Pudding-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.5,
+    "cal": 275,
+    "pr": 4.5,
+    "fa": 26.3,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2022-10-13",
+    "cm": 0,
+    "ex": "With a few simple changes, you can take famous desserts like rice pudding and make them keto-friendly without losing any of the flavors. This low-carb rice pudding recipe is easy to make and tastes",
+    "pv": 205
+  },
+  "sourceHtml": "pages/keto-rice-pudding.html",
+  "scrapedAt": "2026-11-07T08:30:47.033Z"
+}

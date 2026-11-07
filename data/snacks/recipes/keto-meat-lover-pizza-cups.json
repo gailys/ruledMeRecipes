@@ -1,0 +1,395 @@
+{
+  "id": "ruled-45255",
+  "slug": "keto-meat-lover-pizza-cups",
+  "title": "Keto Meat Lover Pizza Cups",
+  "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 12 servings of Keto Meat Lover Pizza Cups . Each serving comes out to be 269 calories, 19.9g fats, 3.2g net carbs, and 18.8g protein.",
+  "servings": 12,
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "fatContent": "19.9 g",
+    "proteinContent": "18.8 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 269,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 18.8,
+    "fatGrams": 19.9
+  },
+  "ingredients": [
+    "12 slice deli-sliced black forest ham",
+    "16 ounce ground mild italian sausage",
+    "12 tablespoon low-carb tomato sauce",
+    "3 cup fresh mozzarella cheese",
+    "6 slice cooked bacon",
+    "2 teaspoon basil"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 375F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-1.jpg"
+    },
+    {
+      "text": "Cook the Italian sausage in a frying pan over medium to high heat. Cook until brown on all sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-2.jpg"
+    },
+    {
+      "text": "Using a cupcake pan, add the ham deli slices to the cupcake inserts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-3.jpg"
+    },
+    {
+      "text": "Add the sausage, tomato sauce, mozzarella cheese, and bacon crumbles to the ham slices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-4.jpg"
+    },
+    {
+      "text": "Bake in the oven for about a minute or until the cheese starts to melt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-5.jpg"
+    },
+    {
+      "text": "Take out of the pan and put on a plate. Serve immediately!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/01fab8640cbeee0a70ffda37.avif",
+      "archived": true,
+      "originalPath": "images/01fab8640cbeee0a70ffda37.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/dbf87855c5884e100bd96d38.avif",
+      "archived": true,
+      "originalPath": "images/dbf87855c5884e100bd96d38.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-1.jpg",
+      "path": "../../nenaudojama/snacks/images/4104ce47d78c7277d5be49c1.jpg",
+      "archived": true,
+      "originalPath": "images/4104ce47d78c7277d5be49c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-2.jpg",
+      "path": "../../nenaudojama/snacks/images/28fad33bdfa4317d47d76142.jpg",
+      "archived": true,
+      "originalPath": "images/28fad33bdfa4317d47d76142.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-3.jpg",
+      "path": "../../nenaudojama/snacks/images/f7cdb4dd1502dcc6897694f0.jpg",
+      "archived": true,
+      "originalPath": "images/f7cdb4dd1502dcc6897694f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-4.jpg",
+      "path": "../../nenaudojama/snacks/images/8b589481aba9b1ed7f15c694.jpg",
+      "archived": true,
+      "originalPath": "images/8b589481aba9b1ed7f15c694.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-5.jpg",
+      "path": "../../nenaudojama/snacks/images/158b873a65cc179ab589fa83.jpg",
+      "archived": true,
+      "originalPath": "images/158b873a65cc179ab589fa83.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/24facaf9d5b0a4cd4114209f.avif",
+      "archived": true,
+      "originalPath": "images/24facaf9d5b0a4cd4114209f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/7f74cd6f3ee4289ce85570c8.jpg",
+      "archived": true,
+      "originalPath": "images/7f74cd6f3ee4289ce85570c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/ac7f55cd49dffc25cac0914b.jpg",
+      "archived": true,
+      "originalPath": "images/ac7f55cd49dffc25cac0914b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/ac2b57f34597a4cd497e72f5.jpg",
+      "archived": true,
+      "originalPath": "images/ac2b57f34597a4cd497e72f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/7e2e11e12cc65d586865fa86.jpg",
+      "archived": true,
+      "originalPath": "images/7e2e11e12cc65d586865fa86.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/3e5790bbcbefe8eb25ffa1d1.jpg",
+      "archived": true,
+      "originalPath": "images/3e5790bbcbefe8eb25ffa1d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2fdb443e2c8561de16946195.jpg",
+      "archived": true,
+      "originalPath": "images/2fdb443e2c8561de16946195.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-5-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/7f50194d380cb0eead6aab8d.jpg",
+      "archived": true,
+      "originalPath": "images/7f50194d380cb0eead6aab8d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/dbf87855c5884e100bd96d38.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Meat Lover Pizza Cups",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 12 servings of Keto Meat Lover Pizza Cups . Each serving comes out to be 269 calories, 19.9g fats, 3.2g net carbs, and 18.8g protein.",
+    "datePublished": "2021-05-20T09:00:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Meat Lover Pizza Cups [The Perfect Snack]",
+      "description": "I love to make these keto pizza cups when I have family/friends over for football games or gatherings. I use to feel like I was always in the kitchen making these, so from now on I just make too many batches of these so I can satisfy their cravings and enjoy the games too!\n\nThese pizza cups are packed with Italian sausage, tomato sauce, mozzarella cheese, and bacon crumbles then complete with a slice of ham that holds all these ingredients together.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n12 slice deli-sliced black forest ham\n16 ounce ground mild Italian sausage\n12 tablespoon low-carb tomato sauce\n3 cup fresh mozzarella cheese\n6 slice cooked bacon\n2 tablespoon basil\n\nNutrition Summary: This makes a total of 12 servings of Keto Meat Lovers Pizza Cups. Each serving comes out to be 278 calories, 20.4g fat, 3.3g net carbs, and 19.8g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-08-19T14:00:00+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 13811
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 637
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 37
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/05HpMKLmfQc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/05HpMKLmfQc?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=05HpMKLmfQc",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "12",
+      "12 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "12 slice deli-sliced black forest ham",
+      "16 ounce ground mild italian sausage",
+      "12 tablespoon low-carb tomato sauce",
+      "3 cup fresh mozzarella cheese",
+      "6 slice cooked bacon",
+      "2 teaspoon basil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 375F.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 375F.",
+        "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Italian sausage in a frying pan over medium to high heat. Cook until brown on all sides.",
+        "name": "Cook the Italian sausage in a frying pan over medium to high heat. Cook until brown on all sides.",
+        "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a cupcake pan, add the ham deli slices to the cupcake inserts.",
+        "name": "Using a cupcake pan, add the ham deli slices to the cupcake inserts.",
+        "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sausage, tomato sauce, mozzarella cheese, and bacon crumbles to the ham slices.",
+        "name": "Add the sausage, tomato sauce, mozzarella cheese, and bacon crumbles to the ham slices.",
+        "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven for about a minute or until the cheese starts to melt.",
+        "name": "Bake in the oven for about a minute or until the cheese starts to melt.",
+        "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Take out of the pan and put on a plate. Serve immediately!",
+        "name": "Take out of the pan and put on a plate. Serve immediately!",
+        "url": "https://www.ruled.me/keto-meat-lover-pizza-cups/#wprm-recipe-53777-step-0-5"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4"
+        },
+        "reviewBody": "would prefer Pepperoni to the ham but the rest is great",
+        "author": {
+          "@type": "Person",
+          "name": "Sybille Seidel"
+        },
+        "datePublished": "2025-02-07"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Side Items",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, family-friendly, game-day, gluten-free, keto, low-carb, nut-free, oven-baked, party-food, pork, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "269 kcal",
+      "fatContent": "19.9 g",
+      "proteinContent": "18.8 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-meat-lover-pizza-cups/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-meat-lover-pizza-cups/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-meat-lover-pizza-cups/"
+  },
+  "sourceIndex": {
+    "id": 45255,
+    "rid": 53777,
+    "t": "Keto Meat Lover Pizza Cups",
+    "u": "/keto-meat-lover-pizza-cups/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Meat-Lovers-Pizza-Cups-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.2,
+    "cal": 269,
+    "pr": 18.8,
+    "fa": 19.9,
+    "tm": 30,
+    "sv": 12,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "pork"
+    ],
+    "d": "2021-05-20",
+    "cm": 1,
+    "ex": "I love to make these keto pizza cups when I have family and friends over for football games. I use to feel like I was always in the kitchen making these, so from now on I just make too many batches",
+    "pv": 810
+  },
+  "sourceHtml": "pages/keto-meat-lover-pizza-cups.html",
+  "scrapedAt": "2026-11-07T08:30:50.565Z"
+}

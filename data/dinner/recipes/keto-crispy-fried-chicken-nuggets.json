@@ -1,0 +1,244 @@
+{
+  "id": "ruled-60189",
+  "slug": "keto-crispy-fried-chicken-nuggets",
+  "title": "Keto Crispy Fried Chicken Nuggets",
+  "url": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Crispy Fried Chicken Nuggets. Each serving comes out to be 414 calories, 29.2g fats, 1.6g net carbs, and 37.3g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT65M",
+  "cookTime": "PT10M",
+  "totalTime": "PT75M",
+  "totalMinutes": 75,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "414 kcal",
+    "fatContent": "29.2 g",
+    "proteinContent": "37.3 g",
+    "carbohydrateContent": "1.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 414,
+    "netCarbsGrams": 1.6,
+    "proteinGrams": 37.3,
+    "fatGrams": 29.2
+  },
+  "ingredients": [
+    "20 ounce boneless, skinless chicken thighs (cut into bite sized pieces)",
+    "1 teaspoon cayenne pepper (or to taste)",
+    "1 teaspoon garlic powder",
+    "1 teaspoon onion powder",
+    "salt and pepper (to taste)",
+    "2 large egg",
+    "3 tablespoon unsweetened almond milk (or unsweetened carton coconut milk)",
+    "1/2 cup unflavored low-carb protein powder",
+    "1/4 cup coconut oil"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. In a large baggie, add all spices, eggs, almond milk, and chicken pieces. Close bag and massage chicken pieces until coated with spice/egg mixture. Put bag in fridge for at least one hour. In another bag, place whey protein isolate powder, close and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "At end of marinating time, melt oil in a large frying pan or wok over medium high heat. While oil is heating, take some chicken pieces out of marinade bag, shake excess egg off, and place in protein powder bag. Seal bag, then turn or shake bag to coat chicken pieces well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "When oil is hot, carefully place chicken pieces in pan. Do not overcrowd pan. Fry for 5 minutes or until chicken is done. While chicken is cooking, remove more chicken from marinade and place in protein powder bag.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "When chicken is done, remove from pan to paper towels or rack, and put more chicken in oil. Repeat until all chicken is cooked. Serve with sauce of choice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/09/keto-crispy-fried-chicken-nuggets-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "deep-fried",
+    "family-friendly",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "poultry",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73-768x512.jpeg",
+      "path": "../../nenaudojama/dinner/images/9871ac73dca2c4ffe01cda3e.jpeg",
+      "archived": true,
+      "originalPath": "images/9871ac73dca2c4ffe01cda3e.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73.jpeg",
+      "path": "images/d654352b322d6cb9686ae29f.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/keto-crispy-fried-chicken-nuggets-step-01.jpeg",
+      "path": "../../nenaudojama/dinner/images/4178f49cd3cc219014cf1379.jpeg",
+      "archived": true,
+      "originalPath": "images/4178f49cd3cc219014cf1379.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73-300x300.jpeg",
+      "path": "../../nenaudojama/dinner/images/9f7eed9269cf432017a473b1.jpeg",
+      "archived": true,
+      "originalPath": "images/9f7eed9269cf432017a473b1.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/keto-crispy-fried-chicken-nuggets-step-01-241x350.jpeg",
+      "path": "../../nenaudojama/dinner/images/f41433952d7ea5a14de421a1.jpeg",
+      "archived": true,
+      "originalPath": "images/f41433952d7ea5a14de421a1.jpeg"
+    }
+  ],
+  "featuredImage": "images/d654352b322d6cb9686ae29f.jpeg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Crispy Fried Chicken Nuggets",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Crispy Fried Chicken Nuggets. Each serving comes out to be 414 calories, 29.2g fats, 1.6g net carbs, and 37.3g protein.",
+    "datePublished": "2026-09-08T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT65M",
+    "cookTime": "PT10M",
+    "totalTime": "PT75M",
+    "recipeIngredient": [
+      "20 ounce boneless, skinless chicken thighs (cut into bite sized pieces)",
+      "1 teaspoon cayenne pepper (or to taste)",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "salt and pepper (to taste)",
+      "2 large egg",
+      "3 tablespoon unsweetened almond milk (or unsweetened carton coconut milk)",
+      "1/2 cup unflavored low-carb protein powder",
+      "1/4 cup coconut oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. In a large baggie, add all spices, eggs, almond milk, and chicken pieces. Close bag and massage chicken pieces until coated with spice/egg mixture. Put bag in fridge for at least one hour. In another bag, place whey protein isolate powder, close and set aside.",
+        "name": "Gather all ingredients. In a large baggie, add all spices, eggs, almond milk, and chicken pieces. Close bag and massage chicken pieces until coated with spice/egg mixture. Put bag in fridge for at least one hour. In another bag, place whey protein isolate powder, close and set aside.",
+        "url": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "At end of marinating time, melt oil in a large frying pan or wok over medium high heat. While oil is heating, take some chicken pieces out of marinade bag, shake excess egg off, and place in protein powder bag. Seal bag, then turn or shake bag to coat chicken pieces well.",
+        "name": "At end of marinating time, melt oil in a large frying pan or wok over medium high heat. While oil is heating, take some chicken pieces out of marinade bag, shake excess egg off, and place in protein powder bag. Seal bag, then turn or shake bag to coat chicken pieces well.",
+        "url": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When oil is hot, carefully place chicken pieces in pan. Do not overcrowd pan. Fry for 5 minutes or until chicken is done. While chicken is cooking, remove more chicken from marinade and place in protein powder bag.",
+        "name": "When oil is hot, carefully place chicken pieces in pan. Do not overcrowd pan. Fry for 5 minutes or until chicken is done. While chicken is cooking, remove more chicken from marinade and place in protein powder bag.",
+        "url": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When chicken is done, remove from pan to paper towels or rack, and put more chicken in oil. Repeat until all chicken is cooked. Serve with sauce of choice.",
+        "name": "When chicken is done, remove from pan to paper towels or rack, and put more chicken in oil. Repeat until all chicken is cooked. Serve with sauce of choice.",
+        "url": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#wprm-recipe-60188-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/09/keto-crispy-fried-chicken-nuggets-step-01.jpeg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, dairy-free, deep-fried, family-friendly, gluten-free, high-protein, keto, low-carb, poultry, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "414 kcal",
+      "fatContent": "29.2 g",
+      "proteinContent": "37.3 g",
+      "carbohydrateContent": "1.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-crispy-fried-chicken-nuggets/"
+  },
+  "sourceIndex": {
+    "id": 60189,
+    "rid": 60188,
+    "t": "Keto Crispy Fried Chicken Nuggets",
+    "u": "/keto-crispy-fried-chicken-nuggets/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/2c2bbbf25de8985786c1da92a931af73-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.6,
+    "cal": 414,
+    "pr": 37.3,
+    "fa": 29.2,
+    "tm": 75,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "deep-fried",
+      "family-friendly",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "poultry",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2026-09-08",
+    "cm": 0,
+    "ex": "These Keto Crispy Fried Chicken Nuggets are the ultimate comfort food solution for anyone missing that classic fast-food crunch without the unwanted carbs. By using unflavored low-carb protein powder",
+    "pv": 56
+  },
+  "sourceHtml": "pages/keto-crispy-fried-chicken-nuggets.html",
+  "scrapedAt": "2026-11-07T08:27:43.294Z"
+}

@@ -1,0 +1,256 @@
+{
+  "id": "ruled-60141",
+  "slug": "keto-triple-breakfast-stack",
+  "title": "Keto Triple Breakfast Stack",
+  "url": "https://www.ruled.me/keto-triple-breakfast-stack/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Triple Breakfast Stack. Each serving comes out to be 589 calories, 51.5g fats, 4.1g net carbs, and 24.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT8M",
+  "cookTime": "PT8M",
+  "totalTime": "PT16M",
+  "totalMinutes": 16,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "589 kcal",
+    "fatContent": "51.5 g",
+    "proteinContent": "24.4 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 589,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 24.4,
+    "fatGrams": 51.5
+  },
+  "ingredients": [
+    "1 small avocado (cubed)",
+    "1 tablespoon salsa",
+    "1 tablespoon red onion (large dice)",
+    "1/2 small jalapeno pepper (diced, *see note)",
+    "1 teaspoon lime juice",
+    "salt and pepper (to taste)",
+    "6 ounce breakfast sausage",
+    "2 large egg",
+    "2 tablespoon butter",
+    "salt and pepper (to taste)",
+    "1/2 small jalapeno pepper (diced, optional topping)",
+    "1 teaspoon fresh cilantro (chopped, optional topping)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. Begin by making guacamole. To a bowl, add the avocado, onion, jalapeno, salsa, and lime juice. Add salt and pepper, to taste. Mash it up with a fork, leaving it somewhat chunky. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Heat a pan over medium heat. While pan is heating, shape patties out of the sausage meat. When pan is ready, add half the butter. Once the butter has melted, place patties in the pan and cook until they are browned and halfway cooked (about 3 minutes). Turn the patties and cook until completely cooked (2-3 more minutes). Set aside on a paper towel to absorb excess grease.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Turn heat under pan down slightly, if using an egg mold. To the pan, add the remaining butter and, once melted, crack in the eggs. Cook until the egg whites are cooked through, but the yolks remain runny.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "When done, set sausage patty on plate. Top each patty with guacamole. (To aid in this, place egg mold on top of patty, add guacamole, then remove mold.) Place fried egg on top and season with salt and pepper to taste. If desired, top with diced jalapeno and cilantro.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/keto-triple-breakfast-stack-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0-768x512.jpeg",
+      "path": "../../nenaudojama/breakfast/images/27fa9ca3b57b7f52a158f48a.avif",
+      "archived": true,
+      "originalPath": "images/27fa9ca3b57b7f52a158f48a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0.jpeg",
+      "path": "images/99cd1e9e3d5adf1030c9b222.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/keto-triple-breakfast-stack-step-01.jpeg",
+      "path": "../../nenaudojama/breakfast/images/cdda630617a6aff45656c886.jpeg",
+      "archived": true,
+      "originalPath": "images/cdda630617a6aff45656c886.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0-300x300.jpeg",
+      "path": "../../nenaudojama/breakfast/images/57e11a590759abbd278affa2.jpeg",
+      "archived": true,
+      "originalPath": "images/57e11a590759abbd278affa2.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/keto-triple-breakfast-stack-step-01-241x350.jpeg",
+      "path": "../../nenaudojama/breakfast/images/00f70aa0a7ac13ef6f329d08.jpeg",
+      "archived": true,
+      "originalPath": "images/00f70aa0a7ac13ef6f329d08.jpeg"
+    }
+  ],
+  "featuredImage": "images/99cd1e9e3d5adf1030c9b222.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Triple Breakfast Stack",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Triple Breakfast Stack. Each serving comes out to be 589 calories, 51.5g fats, 4.1g net carbs, and 24.4g protein.",
+    "datePublished": "2026-07-02T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT8M",
+    "cookTime": "PT8M",
+    "totalTime": "PT16M",
+    "recipeIngredient": [
+      "1 small avocado (cubed)",
+      "1 tablespoon salsa",
+      "1 tablespoon red onion (large dice)",
+      "1/2 small jalapeno pepper (diced, *see note)",
+      "1 teaspoon lime juice",
+      "salt and pepper (to taste)",
+      "6 ounce breakfast sausage",
+      "2 large egg",
+      "2 tablespoon butter",
+      "salt and pepper (to taste)",
+      "1/2 small jalapeno pepper (diced, optional topping)",
+      "1 teaspoon fresh cilantro (chopped, optional topping)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. Begin by making guacamole. To a bowl, add the avocado, onion, jalapeno, salsa, and lime juice. Add salt and pepper, to taste. Mash it up with a fork, leaving it somewhat chunky. Set aside.",
+        "name": "Gather all ingredients. Begin by making guacamole. To a bowl, add the avocado, onion, jalapeno, salsa, and lime juice. Add salt and pepper, to taste. Mash it up with a fork, leaving it somewhat chunky. Set aside.",
+        "url": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a pan over medium heat. While pan is heating, shape patties out of the sausage meat. When pan is ready, add half the butter. Once the butter has melted, place patties in the pan and cook until they are browned and halfway cooked (about 3 minutes). Turn the patties and cook until completely cooked (2-3 more minutes). Set aside on a paper towel to absorb excess grease.",
+        "name": "Heat a pan over medium heat. While pan is heating, shape patties out of the sausage meat. When pan is ready, add half the butter. Once the butter has melted, place patties in the pan and cook until they are browned and halfway cooked (about 3 minutes). Turn the patties and cook until completely cooked (2-3 more minutes). Set aside on a paper towel to absorb excess grease.",
+        "url": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn heat under pan down slightly, if using an egg mold. To the pan, add the remaining butter and, once melted, crack in the eggs. Cook until the egg whites are cooked through, but the yolks remain runny.",
+        "name": "Turn heat under pan down slightly, if using an egg mold. To the pan, add the remaining butter and, once melted, crack in the eggs. Cook until the egg whites are cooked through, but the yolks remain runny.",
+        "url": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When done, set sausage patty on plate. Top each patty with guacamole. (To aid in this, place egg mold on top of patty, add guacamole, then remove mold.) Place fried egg on top and season with salt and pepper to taste. If desired, top with diced jalapeno and cilantro.",
+        "name": "When done, set sausage patty on plate. Top each patty with guacamole. (To aid in this, place egg mold on top of patty, add guacamole, then remove mold.) Place fried egg on top and season with salt and pepper to taste. If desired, top with diced jalapeno and cilantro.",
+        "url": "https://www.ruled.me/keto-triple-breakfast-stack/#wprm-recipe-60140-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/keto-triple-breakfast-stack-step-01.jpeg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, eggs, gluten-free, high-fat, keto, low-carb, nut-free, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "589 kcal",
+      "fatContent": "51.5 g",
+      "proteinContent": "24.4 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-triple-breakfast-stack/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-triple-breakfast-stack/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-triple-breakfast-stack/"
+  },
+  "sourceIndex": {
+    "id": 60141,
+    "rid": 60140,
+    "t": "Keto Triple Breakfast Stack",
+    "u": "/keto-triple-breakfast-stack/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/51f375dcd100ded5ada3cd5dd8a77dc0-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.1,
+    "cal": 589,
+    "pr": 24.4,
+    "fa": 51.5,
+    "tm": 16,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2026-07-02",
+    "cm": 0,
+    "ex": "The Keto Triple Breakfast Stack is a powerhouse of a meal that brings together savory, creamy, and spicy flavors for a truly satisfying start to your morning. This dish features a perfectly seared",
+    "pv": 183
+  },
+  "sourceHtml": "pages/keto-triple-breakfast-stack.html",
+  "scrapedAt": "2026-11-07T08:11:11.653Z"
+}

@@ -1,0 +1,233 @@
+{
+  "id": "ruled-60065",
+  "slug": "simple-keto-turkey-plate",
+  "title": "Simple Keto Turkey Plate",
+  "url": "https://www.ruled.me/simple-keto-turkey-plate/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Simple Keto Turkey Plate. Each serving comes out to be 633 calories, 56.2g fats, 4.3g net carbs, and 24.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "633 kcal",
+    "fatContent": "56.2 g",
+    "proteinContent": "24.5 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 633,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 24.5,
+    "fatGrams": 56.2
+  },
+  "ingredients": [
+    "6 ounce deli sliced turkey",
+    "1 medium avocado (sliced)",
+    "2 ounce spring mix",
+    "3 ounce cream cheese",
+    "4 tablespoon olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Place the turkey, avocado, spring mix, and cream cheese on a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-turkey-plate/#wprm-recipe-60064-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-01.jpg"
+    },
+    {
+      "text": "Drizzle the olive oil over the greens and season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-keto-turkey-plate/#wprm-recipe-60064-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/a9e45218087b8f5c146aad96.jpg",
+      "archived": true,
+      "originalPath": "images/a9e45218087b8f5c146aad96.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80.jpg",
+      "path": "images/bad8e62cd7bd3bd52a4e52c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/6250287e658b91e2c1dbbda3.jpg",
+      "archived": true,
+      "originalPath": "images/6250287e658b91e2c1dbbda3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/d93dbb4635d2ac62bbbd6fdc.jpg",
+      "archived": true,
+      "originalPath": "images/d93dbb4635d2ac62bbbd6fdc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/d7bb5dc939d20faa3d6f945e.jpg",
+      "archived": true,
+      "originalPath": "images/d7bb5dc939d20faa3d6f945e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/01914ffef83fa3853c0a3451.jpg",
+      "archived": true,
+      "originalPath": "images/01914ffef83fa3853c0a3451.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-02-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/19f19be757fd910c2b06a0e9.jpg",
+      "archived": true,
+      "originalPath": "images/19f19be757fd910c2b06a0e9.jpg"
+    }
+  ],
+  "featuredImage": "images/bad8e62cd7bd3bd52a4e52c5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple Keto Turkey Plate",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Simple Keto Turkey Plate. Each serving comes out to be 633 calories, 56.2g fats, 4.3g net carbs, and 24.5g protein.",
+    "datePublished": "2026-03-10T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "6 ounce deli sliced turkey",
+      "1 medium avocado (sliced)",
+      "2 ounce spring mix",
+      "3 ounce cream cheese",
+      "4 tablespoon olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the turkey, avocado, spring mix, and cream cheese on a plate.",
+        "name": "Place the turkey, avocado, spring mix, and cream cheese on a plate.",
+        "url": "https://www.ruled.me/simple-keto-turkey-plate/#wprm-recipe-60064-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the olive oil over the greens and season with salt and pepper.",
+        "name": "Drizzle the olive oil over the greens and season with salt and pepper.",
+        "url": "https://www.ruled.me/simple-keto-turkey-plate/#wprm-recipe-60064-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/simple-keto-turkey-plate-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, egg-free, high-fat, keto, low-carb, no-cook, nut-free, packed-lunch, poultry, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "633 kcal",
+      "fatContent": "56.2 g",
+      "proteinContent": "24.5 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/simple-keto-turkey-plate/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-keto-turkey-plate/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-keto-turkey-plate/"
+  },
+  "sourceIndex": {
+    "id": 60065,
+    "rid": 60064,
+    "t": "Simple Keto Turkey Plate",
+    "u": "/simple-keto-turkey-plate/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/cdaffc679c2cb9c15ce76b9968ed6b80-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.3,
+    "cal": 633,
+    "pr": 24.5,
+    "fa": 56.2,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 6,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2026-03-10",
+    "cm": 0,
+    "ex": "This Simple Keto Turkey Plate is the ultimate solution for those busy afternoons when you need a satisfying, high-fat meal without ever having to turn on the stove. It offers a delightful balance of",
+    "pv": 99
+  },
+  "sourceHtml": "pages/simple-keto-turkey-plate.html",
+  "scrapedAt": "2026-11-07T08:14:48.959Z"
+}

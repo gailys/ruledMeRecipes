@@ -1,0 +1,374 @@
+{
+  "id": "ruled-43593",
+  "slug": "keto-poke-bowls",
+  "title": "Keto Poke Bowls",
+  "url": "https://www.ruled.me/keto-poke-bowls/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Poke Bowls. Each serving comes out to be 499 calories, 38.2g fats, 6.6g net carbs, and 28.2g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "499 kcal",
+    "fatContent": "38.2 g",
+    "proteinContent": "28.2 g",
+    "carbohydrateContent": "6.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 499,
+    "netCarbsGrams": 6.6,
+    "proteinGrams": 28.2,
+    "fatGrams": 38.2
+  },
+  "ingredients": [
+    "8 ounce salmon (skinless)",
+    "1 tablespoon sesame oil",
+    "1 teaspoon soy sauce (or tamari)",
+    "salt (to taste)",
+    "6 ounce red cabbage (thinly siced)",
+    "4 ounce cucumber (sliced)",
+    "1/2 medium avocado (diced)",
+    "1/4 cup fresh cilantro",
+    "2 tablespoon mayonnaise",
+    "1 teaspoon soy sauce",
+    "2 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients and prep as needed. We use red and green cabbage for aesthetic appeal, but you can use all of 1 color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-1.jpg"
+    },
+    {
+      "text": "Cut the salmon into small cubes and place into a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-3.jpg"
+    },
+    {
+      "text": "Add the sesame oil, soy sauce, and salt to the salmon and mix together. Set aside and let salmon marinate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-5.jpg"
+    },
+    {
+      "text": "In a bowl, place the cabbage, cucumber, avocado, and cilantro to act as a bed for the salmon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-7.jpg"
+    },
+    {
+      "text": "In a separate container, mix together the mayonnaise, soy sauce, and liquid stevia.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-12.jpg"
+    },
+    {
+      "text": "Place the marinated salmon over the vegetables. Drizzle the mayonnaise mixture over the top and optionally garnish with sesame seeds as well. Enjoy immediately after serving!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "fish",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "no-cook",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/32e9b2d3a3de4daed077befa.avif",
+      "archived": true,
+      "originalPath": "images/32e9b2d3a3de4daed077befa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Featured.jpg",
+      "path": "images/12d28dddd79c15c7c0302d2a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-1.jpg",
+      "path": "../../nenaudojama/lunch/images/691c4abe7e76f069d2873db2.jpg",
+      "archived": true,
+      "originalPath": "images/691c4abe7e76f069d2873db2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-3.jpg",
+      "path": "../../nenaudojama/lunch/images/9db9792c28018c655a3ffade.jpg",
+      "archived": true,
+      "originalPath": "images/9db9792c28018c655a3ffade.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-5.jpg",
+      "path": "../../nenaudojama/lunch/images/497bb5df5eca921403d5c1b5.jpg",
+      "archived": true,
+      "originalPath": "images/497bb5df5eca921403d5c1b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-7.jpg",
+      "path": "../../nenaudojama/lunch/images/f1d1ac50975191b73b906d1e.jpg",
+      "archived": true,
+      "originalPath": "images/f1d1ac50975191b73b906d1e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-12.jpg",
+      "path": "../../nenaudojama/lunch/images/26bfef465b88b7ec14629aee.avif",
+      "archived": true,
+      "originalPath": "images/26bfef465b88b7ec14629aee.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/3cba7bd191d36e00ceba45ca.jpg",
+      "archived": true,
+      "originalPath": "images/3cba7bd191d36e00ceba45ca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/1b188ed1a46343dc00009582.jpg",
+      "archived": true,
+      "originalPath": "images/1b188ed1a46343dc00009582.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/7909be6d8713de5f92521447.jpg",
+      "archived": true,
+      "originalPath": "images/7909be6d8713de5f92521447.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/a585d76a6f29d2eec169f127.jpg",
+      "archived": true,
+      "originalPath": "images/a585d76a6f29d2eec169f127.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/099fc7dd8e8cec45537c94ee.jpg",
+      "archived": true,
+      "originalPath": "images/099fc7dd8e8cec45537c94ee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-5-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5790fd38f7f2cbad0cb569e1.jpg",
+      "archived": true,
+      "originalPath": "images/5790fd38f7f2cbad0cb569e1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-7-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c78f1d2c58bce07840fde6e3.jpg",
+      "archived": true,
+      "originalPath": "images/c78f1d2c58bce07840fde6e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-12-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8769700b902ad7a0b1a97d8d.jpg",
+      "archived": true,
+      "originalPath": "images/8769700b902ad7a0b1a97d8d.jpg"
+    }
+  ],
+  "featuredImage": "images/12d28dddd79c15c7c0302d2a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Poke Bowls",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Poke Bowls. Each serving comes out to be 499 calories, 38.2g fats, 6.6g net carbs, and 28.2g protein.",
+    "datePublished": "2020-08-04T08:50:07+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Poke Bowls [Very Easy, Healthy, & Delicious]",
+      "description": "In Hawaiian, poke means “to slice,” which is the “hardest” part of putting together a delicious poke bowl. Everything about this keto-friendly poke recipe is easy: from the ingredients to the prep to the clean-up.\n\nThis makes it the perfect dish when you want something quick, delicious, healthy, and keto-friendly. Once you get the hang of making it yourself, you will no longer have to wonder how many carbs and calories are hiding in your takeout poke bowl.\n\nPoke is one of the main dishes of Native Hawaiian cuisine, which typically consists of cubed raw fish quickly marinated in soy sauce and other seasonings. It was traditionally made with skipjack tuna or octopus, but salmon and ahi tuna have become the more common feature fish.\n\nAs the dish evolved, other ingredients accompanied the fish and seasonings such as vegetables, seaweed, fish roe, herbs, nuts, and rice.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 ounce fresh salmon, skinless\n1 tablespoon sesame oil\n1 teaspoon soy sauce, or tamari\nsalt, to taste\n6 ounce cabbage, thinly sliced\n4 ounce cucumber, sliced\n1/2 medium avocado, diced\n1/4 cup cilantro\n2 tablespoon mayonnaise\n1 teaspoon soy sauce\n2 drops liquid stevia\n\nNutrition Summary: This makes a total of 2 Keto Poke Bowls. Each serving comes out to be 501 calories, 40.1g fats, 6.3g net carbs, and 26.9g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-03-29T14:00:09+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M31S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 33240
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 794
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 41
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dEsLU-BAXYU/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dEsLU-BAXYU?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=dEsLU-BAXYU",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "8 ounce salmon (skinless)",
+      "1 tablespoon sesame oil",
+      "1 teaspoon soy sauce (or tamari)",
+      "salt (to taste)",
+      "6 ounce red cabbage (thinly siced)",
+      "4 ounce cucumber (sliced)",
+      "1/2 medium avocado (diced)",
+      "1/4 cup fresh cilantro",
+      "2 tablespoon mayonnaise",
+      "1 teaspoon soy sauce",
+      "2 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients and prep as needed. We use red and green cabbage for aesthetic appeal, but you can use all of 1 color.",
+        "name": "Gather all ingredients and prep as needed. We use red and green cabbage for aesthetic appeal, but you can use all of 1 color.",
+        "url": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the salmon into small cubes and place into a bowl.",
+        "name": "Cut the salmon into small cubes and place into a bowl.",
+        "url": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sesame oil, soy sauce, and salt to the salmon and mix together. Set aside and let salmon marinate.",
+        "name": "Add the sesame oil, soy sauce, and salt to the salmon and mix together. Set aside and let salmon marinate.",
+        "url": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, place the cabbage, cucumber, avocado, and cilantro to act as a bed for the salmon.",
+        "name": "In a bowl, place the cabbage, cucumber, avocado, and cilantro to act as a bed for the salmon.",
+        "url": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate container, mix together the mayonnaise, soy sauce, and liquid stevia.",
+        "name": "In a separate container, mix together the mayonnaise, soy sauce, and liquid stevia.",
+        "url": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-salmon-poke-bowl-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the marinated salmon over the vegetables. Drizzle the mayonnaise mixture over the top and optionally garnish with sesame seeds as well. Enjoy immediately after serving!",
+        "name": "Place the marinated salmon over the vegetables. Drizzle the mayonnaise mixture over the top and optionally garnish with sesame seeds as well. Enjoy immediately after serving!",
+        "url": "https://www.ruled.me/keto-poke-bowls/#wprm-recipe-53437-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Hawaiian"
+    ],
+    "keywords": "15-minute, dairy-free, fish, high-fat, high-protein, keto, low-carb, no-cook, nut-free, quick, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "499 kcal",
+      "fatContent": "38.2 g",
+      "proteinContent": "28.2 g",
+      "carbohydrateContent": "6.6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-poke-bowls/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-poke-bowls/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-poke-bowls/"
+  },
+  "sourceIndex": {
+    "id": 43593,
+    "rid": 53437,
+    "t": "Keto Poke Bowls",
+    "u": "/keto-poke-bowls/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/08/Keto-Poke-Bowl-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.6,
+    "cal": 499,
+    "pr": 28.2,
+    "fa": 38.2,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "fish",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "no-cook",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2020-08-04",
+    "cm": 0,
+    "ex": "In Hawaiian, poke means “to slice,” which is the “hardest” part of putting together a delicious poke bowl. Everything about this keto-friendly poke recipe is easy: from the ingredients to the prep to",
+    "pv": 477
+  },
+  "sourceHtml": "pages/keto-poke-bowls.html",
+  "scrapedAt": "2026-11-07T08:15:55.778Z"
+}

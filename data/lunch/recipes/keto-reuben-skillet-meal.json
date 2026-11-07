@@ -1,0 +1,403 @@
+{
+  "id": "ruled-49317",
+  "slug": "keto-reuben-skillet-meal",
+  "title": "Keto Reuben Skillet Meal",
+  "url": "https://www.ruled.me/keto-reuben-skillet-meal/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Reuben Skillet Meal. Each serving comes out to be 638 calories, 55.1g fats, 3.5g net carbs, and 29.1g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT12M",
+  "totalTime": "PT17M",
+  "totalMinutes": 17,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "638 kcal",
+    "fatContent": "55.1 g",
+    "proteinContent": "29.1 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 638,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 29.1,
+    "fatGrams": 55.1
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "10 ounce corned beef (thinly sliced)",
+    "9 ounce sauerkraut (drained well)",
+    "1 tablespoon dijon mustard",
+    "4 ounce swiss cheese (sliced or shredded)",
+    "1/4 cup mayonnaise",
+    "1/4 cup sour cream",
+    "2 ounce dill pickle"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. Drain the sauerkraut, making sure to squeeze as much liquid out as you can.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-1.jpg"
+    },
+    {
+      "text": "Add butter to a pan over medium-low heat. Once melted and hot, add in the corned beef slices and fry for 1-2 minutes on each side, or until slightly crisped.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-2.jpg"
+    },
+    {
+      "text": "While the corned beef is cooking, combine the sour cream, mayonnaise, and dijon mustard and mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-3.jpg"
+    },
+    {
+      "text": "Add the drained sauerkraut and spread to distribute evenly across the layer of corned beef.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-4.jpg"
+    },
+    {
+      "text": "Dollop the mayo mixture over the top of the sauerkraut.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-5.jpg"
+    },
+    {
+      "text": "Layer sliced (or shredded) swiss cheese over the top. Allow cheese to melt, covering if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-6.jpg"
+    },
+    {
+      "text": "Spoon out and serve with pickle on the side. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/31ceeb3e45b2943e4cdb95e6.jpg",
+      "archived": true,
+      "originalPath": "images/31ceeb3e45b2943e4cdb95e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Featured.jpg",
+      "path": "images/ac95cb189fb348413b4aa7a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-1.jpg",
+      "path": "../../nenaudojama/lunch/images/c7adbc04ecedaa4d683fa392.avif",
+      "archived": true,
+      "originalPath": "images/c7adbc04ecedaa4d683fa392.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-2.jpg",
+      "path": "../../nenaudojama/lunch/images/df1ad13e0445f4f278a6fd5e.avif",
+      "archived": true,
+      "originalPath": "images/df1ad13e0445f4f278a6fd5e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-3.jpg",
+      "path": "../../nenaudojama/lunch/images/48aa9d5e00de7d1299847ffb.avif",
+      "archived": true,
+      "originalPath": "images/48aa9d5e00de7d1299847ffb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-4.jpg",
+      "path": "../../nenaudojama/lunch/images/5b98aeadb13b778f0a08ab17.avif",
+      "archived": true,
+      "originalPath": "images/5b98aeadb13b778f0a08ab17.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-5.jpg",
+      "path": "../../nenaudojama/lunch/images/495826dcbf3419f273de7ce9.avif",
+      "archived": true,
+      "originalPath": "images/495826dcbf3419f273de7ce9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-6.jpg",
+      "path": "../../nenaudojama/lunch/images/bd3a86937448e1a8606bd159.avif",
+      "archived": true,
+      "originalPath": "images/bd3a86937448e1a8606bd159.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/2ce8b8a642a16e9f4de05726.avif",
+      "archived": true,
+      "originalPath": "images/2ce8b8a642a16e9f4de05726.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/5c30dd6005f4312fbf9dbfa3.jpg",
+      "archived": true,
+      "originalPath": "images/5c30dd6005f4312fbf9dbfa3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/fb566429433c198847bbbc33.avif",
+      "archived": true,
+      "originalPath": "images/fb566429433c198847bbbc33.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/835156cadb557e7d8d985e2a.jpg",
+      "archived": true,
+      "originalPath": "images/835156cadb557e7d8d985e2a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5c3534818cf265aefa3249c1.jpg",
+      "archived": true,
+      "originalPath": "images/5c3534818cf265aefa3249c1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/02e7a27601650f692b1e606c.jpg",
+      "archived": true,
+      "originalPath": "images/02e7a27601650f692b1e606c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/fcef192dea2a5c5b24eae3b3.jpg",
+      "archived": true,
+      "originalPath": "images/fcef192dea2a5c5b24eae3b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-5-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6ccc80c7833eb98f71bd28f9.avif",
+      "archived": true,
+      "originalPath": "images/6ccc80c7833eb98f71bd28f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-6-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9538f047fa3cb9f57b372b07.jpg",
+      "archived": true,
+      "originalPath": "images/9538f047fa3cb9f57b372b07.jpg"
+    }
+  ],
+  "featuredImage": "images/ac95cb189fb348413b4aa7a2.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Reuben Skillet Meal",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Reuben Skillet Meal. Each serving comes out to be 638 calories, 55.1g fats, 3.5g net carbs, and 29.1g protein.",
+    "datePublished": "2023-08-31T09:03:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Reuben Skillet Meal [Low-Carb One Pan Recipe]",
+      "description": "This keto Reuban skillet meal allows you to enjoy all the flavors of the classic Reuban sandwich but without the added carbs of the bread. This dish contains a tangy explosion of flavors from the cheese and sauerkraut, perfectly complemented by the saltiness of the seasoned corned beef. If you’re looking for a new one-pan keto-friendly dish to whip up for lunch or dinner, this Reuben skillet recipe will surely be a winner.\n\nThe dish is super easy to prepare. You start by melting butter in a skillet and frying the corned beef until heated. Next comes the sauerkraut, followed by dollops of mustard and sliced Swiss cheese. Once the cheese melts, you can serve this delicious dish with mayonnaise, dill pickles, and additional mustard if desired.\n\nPrepare to be captivated by the irresistible cheesiness, the perfect balance of tang, and the exquisite blend of spices. Every bite is a tasty blend of textures and flavors that will transport you to culinary bliss. This keto one-skillet wonder is a testament to the fact that you can still enjoy classic dishes you love while maintaining a low-carb diet.\n\nGet ready to experience the Reuben sandwich in a new light, with fewer carbs but the same great flavor. This recipe is perfect for entertaining, so make it when you invite friends over. They’ll enjoy this stunning dish even if they aren’t on a keto diet!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 tablespoon butter\n10 ounce corned beef, thinly sliced\n9 ounce sauerkraut, drained\n1 tablespoon Dijon mustard\n4 ounce Swiss cheese, sliced or shredded\n1/4 cup mayonnaise\n1/4 cup sour cream\n3 small dill pickle\n\nNutrition Summary: This makes a total of 3 servings of Keto Reuben Skillet Meal. Each serving comes out to be 638 calories, 55.1g fats, 3.5g net carbs, and 29.1g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-11-26T17:00:29+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M21S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 23941
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 261
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 6
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hr2sr7UKLjo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/hr2sr7UKLjo?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=hr2sr7UKLjo",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT12M",
+    "totalTime": "PT17M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "10 ounce corned beef (thinly sliced)",
+      "9 ounce sauerkraut (drained well)",
+      "1 tablespoon dijon mustard",
+      "4 ounce swiss cheese (sliced or shredded)",
+      "1/4 cup mayonnaise",
+      "1/4 cup sour cream",
+      "2 ounce dill pickle"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. Drain the sauerkraut, making sure to squeeze as much liquid out as you can.",
+        "name": "Gather and prep all ingredients. Drain the sauerkraut, making sure to squeeze as much liquid out as you can.",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add butter to a pan over medium-low heat. Once melted and hot, add in the corned beef slices and fry for 1-2 minutes on each side, or until slightly crisped.",
+        "name": "Add butter to a pan over medium-low heat. Once melted and hot, add in the corned beef slices and fry for 1-2 minutes on each side, or until slightly crisped.",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the corned beef is cooking, combine the sour cream, mayonnaise, and dijon mustard and mix together well.",
+        "name": "While the corned beef is cooking, combine the sour cream, mayonnaise, and dijon mustard and mix together well.",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the drained sauerkraut and spread to distribute evenly across the layer of corned beef.",
+        "name": "Add the drained sauerkraut and spread to distribute evenly across the layer of corned beef.",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dollop the mayo mixture over the top of the sauerkraut.",
+        "name": "Dollop the mayo mixture over the top of the sauerkraut.",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer sliced (or shredded) swiss cheese over the top. Allow cheese to melt, covering if needed.",
+        "name": "Layer sliced (or shredded) swiss cheese over the top. Allow cheese to melt, covering if needed.",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon out and serve with pickle on the side. Enjoy!",
+        "name": "Spoon out and serve with pickle on the side. Enjoy!",
+        "url": "https://www.ruled.me/keto-reuben-skillet-meal/#wprm-recipe-54737-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan, one-pan meals, quick, red meat, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "638 kcal",
+      "fatContent": "55.1 g",
+      "proteinContent": "29.1 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-reuben-skillet-meal/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-reuben-skillet-meal/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-reuben-skillet-meal/"
+  },
+  "sourceIndex": {
+    "id": 49317,
+    "rid": 54737,
+    "t": "Keto Reuben Skillet Meal",
+    "u": "/keto-reuben-skillet-meal/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Reuben-Skillet-Meal-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 638,
+    "pr": 29.1,
+    "fa": 55.1,
+    "tm": 17,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2023-08-31",
+    "cm": 0,
+    "ex": "This keto Rueben skillet meal allows you to enjoy all the flavors of the classic Rueben sandwich but without the added carbs of the bread. This dish contains a tangy explosion of flavors from the",
+    "pv": 534
+  },
+  "sourceHtml": "pages/keto-reuben-skillet-meal.html",
+  "scrapedAt": "2026-11-07T08:15:19.103Z"
+}

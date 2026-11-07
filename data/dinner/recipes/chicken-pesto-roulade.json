@@ -1,0 +1,399 @@
+{
+  "id": "ruled-8997",
+  "slug": "chicken-pesto-roulade",
+  "title": "Chicken Pesto Roulade",
+  "url": "https://www.ruled.me/chicken-pesto-roulade/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Chicken Pesto Roulade. Each serving comes out to be 421 calories, 25.3g fats, 2g net carbs, and 43.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "421 kcal",
+    "fatContent": "25.3 g",
+    "proteinContent": "43.8 g",
+    "carbohydrateContent": "2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 421,
+    "netCarbsGrams": 2,
+    "proteinGrams": 43.8,
+    "fatGrams": 25.3
+  },
+  "ingredients": [
+    "16 ounce boneless, skinless chicken breast",
+    "1/4 cup pesto",
+    "1 tablespoon olive oil",
+    "2 teaspoon lemon zest",
+    "1 teaspoon fresh garlic",
+    "1 teaspoon salt",
+    "1 teaspoon black pepper",
+    "150 gram halloumi cheese",
+    "2 tablespoon olive oil (for frying)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 450F. Pat the chicken breasts dry with paper towels.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-04.jpg"
+    },
+    {
+      "text": "Pound the chicken breasts with the flat side of a meat hammer until about 1/8\" thick.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-05.jpg"
+    },
+    {
+      "text": "Combine the pesto and olive oil in a bowl. Spread the pesto over the chicken breasts and add the lemon zest, garlic, salt, and black pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-01.jpg"
+    },
+    {
+      "text": "Chop the halloumi cheese into small pieces and spread them out over the chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-11.jpg"
+    },
+    {
+      "text": "Roll up the chicken and secure with toothpicks or butcher's twine.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-13.jpg"
+    },
+    {
+      "text": "Bring the remaining olive oil (for frying) to its smoking point in a cast-iron skillet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-5",
+      "imageSource": null
+    },
+    {
+      "text": "Add the chicken to the pan and cook evenly to get a nice sear on all sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-14.jpg"
+    },
+    {
+      "text": "Place the skillet in the oven for 6–7 minutes to allow the chicken to cook through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-16.jpg"
+    },
+    {
+      "text": "Once cooked and the juices run clear, remove from the oven and let rest for 5–6 minutes before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "date-night",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/1bd0d46de5d1b09e0a8a4340.jpg",
+      "archived": true,
+      "originalPath": "images/1bd0d46de5d1b09e0a8a4340.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-featured.jpg",
+      "path": "images/e98c7ab30e43a88bf726d34c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-04.jpg",
+      "path": "../../nenaudojama/dinner/images/3573567ea90556bd196e9425.jpg",
+      "archived": true,
+      "originalPath": "images/3573567ea90556bd196e9425.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-05.jpg",
+      "path": "../../nenaudojama/dinner/images/15eb78444a5cc07308f9f3db.jpg",
+      "archived": true,
+      "originalPath": "images/15eb78444a5cc07308f9f3db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-01.jpg",
+      "path": "../../nenaudojama/dinner/images/5d476eac09f7b073d335b6cc.jpg",
+      "archived": true,
+      "originalPath": "images/5d476eac09f7b073d335b6cc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-11.jpg",
+      "path": "../../nenaudojama/dinner/images/b5990612d312a247eaf35c0f.jpg",
+      "archived": true,
+      "originalPath": "images/b5990612d312a247eaf35c0f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-13.jpg",
+      "path": "../../nenaudojama/dinner/images/a399a690d9a5f397bffcf53f.jpg",
+      "archived": true,
+      "originalPath": "images/a399a690d9a5f397bffcf53f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-14.jpg",
+      "path": "../../nenaudojama/dinner/images/f16d32f50eeed98d3d550f66.jpg",
+      "archived": true,
+      "originalPath": "images/f16d32f50eeed98d3d550f66.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-16.jpg",
+      "path": "../../nenaudojama/dinner/images/067365a21798e01717222ddf.jpg",
+      "archived": true,
+      "originalPath": "images/067365a21798e01717222ddf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-07.jpg",
+      "path": "../../nenaudojama/dinner/images/056ff3dfbfdfc63cf1a6cb49.jpg",
+      "archived": true,
+      "originalPath": "images/056ff3dfbfdfc63cf1a6cb49.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-12.jpg",
+      "path": "../../nenaudojama/dinner/images/a2c6ef61119ffca62e76e6bd.jpg",
+      "archived": true,
+      "originalPath": "images/a2c6ef61119ffca62e76e6bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/c0e13dde2b8a935e555f96c9.jpg",
+      "archived": true,
+      "originalPath": "images/c0e13dde2b8a935e555f96c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b5fd99a06874c94e046c8ca0.avif",
+      "archived": true,
+      "originalPath": "images/b5fd99a06874c94e046c8ca0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d438fa83d0d77253d36d12c6.avif",
+      "archived": true,
+      "originalPath": "images/d438fa83d0d77253d36d12c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f3a929dc85fdaa600ddeb94f.avif",
+      "archived": true,
+      "originalPath": "images/f3a929dc85fdaa600ddeb94f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-11-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0b6f4418ec7b747df3da767f.avif",
+      "archived": true,
+      "originalPath": "images/0b6f4418ec7b747df3da767f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-13-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8ef42eb4eed0dddff35b4574.avif",
+      "archived": true,
+      "originalPath": "images/8ef42eb4eed0dddff35b4574.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-14-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/55bdba7fe4584e40b17a45d5.avif",
+      "archived": true,
+      "originalPath": "images/55bdba7fe4584e40b17a45d5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-16-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c792c654ad543e89365fbbe4.avif",
+      "archived": true,
+      "originalPath": "images/c792c654ad543e89365fbbe4.avif"
+    }
+  ],
+  "featuredImage": "images/e98c7ab30e43a88bf726d34c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicken Pesto Roulade",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Chicken Pesto Roulade. Each serving comes out to be 421 calories, 25.3g fats, 2g net carbs, and 43.8g protein.",
+    "datePublished": "2014-02-17T18:24:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "16 ounce boneless, skinless chicken breast",
+      "1/4 cup pesto",
+      "1 tablespoon olive oil",
+      "2 teaspoon lemon zest",
+      "1 teaspoon fresh garlic",
+      "1 teaspoon salt",
+      "1 teaspoon black pepper",
+      "150 gram halloumi cheese",
+      "2 tablespoon olive oil (for frying)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 450F. Pat the chicken breasts dry with paper towels.",
+        "name": "Preheat oven to 450F. Pat the chicken breasts dry with paper towels.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pound the chicken breasts with the flat side of a meat hammer until about 1/8\" thick.",
+        "name": "Pound the chicken breasts with the flat side of a meat hammer until about 1/8\" thick.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the pesto and olive oil in a bowl. Spread the pesto over the chicken breasts and add the lemon zest, garlic, salt, and black pepper.",
+        "name": "Combine the pesto and olive oil in a bowl. Spread the pesto over the chicken breasts and add the lemon zest, garlic, salt, and black pepper.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the halloumi cheese into small pieces and spread them out over the chicken.",
+        "name": "Chop the halloumi cheese into small pieces and spread them out over the chicken.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll up the chicken and secure with toothpicks or butcher's twine.",
+        "name": "Roll up the chicken and secure with toothpicks or butcher's twine.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-13.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the remaining olive oil (for frying) to its smoking point in a cast-iron skillet.",
+        "name": "Bring the remaining olive oil (for frying) to its smoking point in a cast-iron skillet.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-5"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken to the pan and cook evenly to get a nice sear on all sides.",
+        "name": "Add the chicken to the pan and cook evenly to get a nice sear on all sides.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-14.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the skillet in the oven for 6–7 minutes to allow the chicken to cook through.",
+        "name": "Place the skillet in the oven for 6–7 minutes to allow the chicken to cook through.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-16.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once cooked and the juices run clear, remove from the oven and let rest for 5–6 minutes before serving.",
+        "name": "Once cooked and the juices run clear, remove from the oven and let rest for 5–6 minutes before serving.",
+        "url": "https://www.ruled.me/chicken-pesto-roulade/#wprm-recipe-50857-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, date-night, egg-free, gluten-free, high-protein, keto, low-carb, oven-baked, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "421 kcal",
+      "fatContent": "25.3 g",
+      "proteinContent": "43.8 g",
+      "carbohydrateContent": "2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chicken-pesto-roulade/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chicken-pesto-roulade/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chicken-pesto-roulade/"
+  },
+  "sourceIndex": {
+    "id": 8997,
+    "rid": 50857,
+    "t": "Chicken Pesto Roulade",
+    "u": "/chicken-pesto-roulade/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/chicken-pesto-roulade-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2,
+    "cal": 421,
+    "pr": 43.8,
+    "fa": 25.3,
+    "tm": 25,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "date-night",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-02-17",
+    "cm": 15,
+    "ex": "Great chicken is both juicy and flavorful - this hits the nail on the head in both of those categories. Pesto is one of my favorite sauces, basil and toasted pine nuts give a fantastic fresh and",
+    "pv": 167
+  },
+  "sourceHtml": "pages/chicken-pesto-roulade.html",
+  "scrapedAt": "2026-11-07T08:27:45.192Z"
+}

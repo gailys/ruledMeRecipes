@@ -1,0 +1,345 @@
+{
+  "id": "ruled-44217",
+  "slug": "keto-creamy-cabbage-casserole",
+  "title": "Creamy Cabbage Casserole",
+  "url": "https://www.ruled.me/keto-creamy-cabbage-casserole/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Creamy Cabbage Casserole . Each serving comes out to be 660 calories, 62.7g fats, 11.2g net carbs, and 12.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "660 kcal",
+    "fatContent": "62.7 g",
+    "proteinContent": "12.5 g",
+    "carbohydrateContent": "11.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 660,
+    "netCarbsGrams": 11.2,
+    "proteinGrams": 12.5,
+    "fatGrams": 62.7
+  },
+  "ingredients": [
+    "8 tablespoon butter",
+    "32 ounce green cabbage",
+    "1 medium yellow onion",
+    "2 teaspoon fresh garlic (minced)",
+    "1 1/2 cup heavy whipping cream",
+    "6 tablespoon ranch dressing",
+    "6 ounce cream cheese",
+    "salt and pepper (to taste)",
+    "6 ounce cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients. Preheat oven to 400F and grease a baking dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-1.jpg"
+    },
+    {
+      "text": "Using a mandolin or sharp knife, shred the cabbage, onion, and mince the garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-2.jpg"
+    },
+    {
+      "text": "In a frying pan, melt the butter on medium to high heat. Saute the shredded cabbage, onion, and garlic for 7-10 minutes or until softened. Add the heavy whipping cream, ranch dressing, and cream cheese. Add salt and pepper to taste. Stir together and let simmer for 5-8 minutes more.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-3.jpg"
+    },
+    {
+      "text": "Add the cabbage mixture to a greased baking pan. Sprinkle the shredded cheddar cheese evenly over the top. Bake for 15-20 minutes or until cheese is completely melted and golden brown in color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-4.jpg"
+    },
+    {
+      "text": "Serve hot and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "oven-baked",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/31dd7d8a8fd5c40ef293f9eb.jpg",
+      "archived": true,
+      "originalPath": "images/31dd7d8a8fd5c40ef293f9eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Featured.jpg",
+      "path": "../../nenaudojama/side-items/images/13b676f4565fbbeb38a96383.jpg",
+      "archived": true,
+      "originalPath": "images/13b676f4565fbbeb38a96383.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-1.jpg",
+      "path": "../../nenaudojama/side-items/images/fb101b2dc043660fed53f7e5.avif",
+      "archived": true,
+      "originalPath": "images/fb101b2dc043660fed53f7e5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-2.jpg",
+      "path": "../../nenaudojama/side-items/images/7e93500cb02c5e1defe041ca.avif",
+      "archived": true,
+      "originalPath": "images/7e93500cb02c5e1defe041ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-3.jpg",
+      "path": "../../nenaudojama/side-items/images/d39becb947833972d71c6691.avif",
+      "archived": true,
+      "originalPath": "images/d39becb947833972d71c6691.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-4.jpg",
+      "path": "../../nenaudojama/side-items/images/645a798efe35abece8b175a0.jpg",
+      "archived": true,
+      "originalPath": "images/645a798efe35abece8b175a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Second.jpg",
+      "path": "../../nenaudojama/side-items/images/30b83219e84ba1236745a414.avif",
+      "archived": true,
+      "originalPath": "images/30b83219e84ba1236745a414.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Long.jpg",
+      "path": "../../nenaudojama/side-items/images/c5cabfdbf994e578bdcb2459.avif",
+      "archived": true,
+      "originalPath": "images/c5cabfdbf994e578bdcb2459.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/5875ede122d0924da386281d.avif",
+      "archived": true,
+      "originalPath": "images/5875ede122d0924da386281d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d0bc78ff47d119292732dd86.avif",
+      "archived": true,
+      "originalPath": "images/d0bc78ff47d119292732dd86.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c196669db66cea189e9e5d18.avif",
+      "archived": true,
+      "originalPath": "images/c196669db66cea189e9e5d18.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-3-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/dd31415d29c345d787251ded.jpg",
+      "archived": true,
+      "originalPath": "images/dd31415d29c345d787251ded.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-4-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/0da5d1b7d9fca438e9297494.jpg",
+      "archived": true,
+      "originalPath": "images/0da5d1b7d9fca438e9297494.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/13b676f4565fbbeb38a96383.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Creamy Cabbage Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 6 servings of Creamy Cabbage Casserole . Each serving comes out to be 660 calories, 62.7g fats, 11.2g net carbs, and 12.5g protein.",
+    "datePublished": "2020-11-10T10:00:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Creamy Cabbage Casserole [Vegetarian-Friendly]",
+      "description": "This creamy cabbage casserole is a rich recipe. The cabbage, onion, and garlic are the main components of this recipe and they pair so well together. This dish is luscious with a cream mixture. the ranch, cream cheese, and heavy cream.\n\nThe vegetables are first sautéed, then the ranch dressing, cream cheese, and heavy whipping cream are added and simmered together. This is topped with shredded cheddar cheese and baked in the oven. The cream mixture cuts well with the soft baked vegetables and the melted cheese.\n\nFeel free to add cooked, shredded chicken to this for a non-vegetarian take!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 tablespoon butter\n32 ounce green cabbage\n1 medium yellow onion\n2 teaspoon garlic, minced\n1 1/2 cup heavy whipping cream\n6 tablespoon ranch dressing\n6 ounce cream cheese\nSalt and pepper to taste\n6 ounce cheddar cheese, shredded\n\nNutrition Summary:\nThis makes a total of 6 servings of Keto Creamy Cabbage Casserole. Each serving comes out to be 660 calories, 62.7g fat, 11.2g net carbs, and 12.5g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-03-15T14:00:16+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M18S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 61305
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 1407
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 58
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z0j9QcUCVoo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/z0j9QcUCVoo?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=z0j9QcUCVoo",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "8 tablespoon butter",
+      "32 ounce green cabbage",
+      "1 medium yellow onion",
+      "2 teaspoon fresh garlic (minced)",
+      "1 1/2 cup heavy whipping cream",
+      "6 tablespoon ranch dressing",
+      "6 ounce cream cheese",
+      "salt and pepper (to taste)",
+      "6 ounce cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients. Preheat oven to 400F and grease a baking dish.",
+        "name": "Measure out and prepare all the ingredients. Preheat oven to 400F and grease a baking dish.",
+        "url": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a mandolin or sharp knife, shred the cabbage, onion, and mince the garlic.",
+        "name": "Using a mandolin or sharp knife, shred the cabbage, onion, and mince the garlic.",
+        "url": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, melt the butter on medium to high heat. Saute the shredded cabbage, onion, and garlic for 7-10 minutes or until softened. Add the heavy whipping cream, ranch dressing, and cream cheese. Add salt and pepper to taste. Stir together and let simmer for 5-8 minutes more.",
+        "name": "In a frying pan, melt the butter on medium to high heat. Saute the shredded cabbage, onion, and garlic for 7-10 minutes or until softened. Add the heavy whipping cream, ranch dressing, and cream cheese. Add salt and pepper to taste. Stir together and let simmer for 5-8 minutes more.",
+        "url": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cabbage mixture to a greased baking pan. Sprinkle the shredded cheddar cheese evenly over the top. Bake for 15-20 minutes or until cheese is completely melted and golden brown in color.",
+        "name": "Add the cabbage mixture to a greased baking pan. Sprinkle the shredded cheddar cheese evenly over the top. Bake for 15-20 minutes or until cheese is completely melted and golden brown in color.",
+        "url": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Low-carb-Cabbage-Casserole-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and enjoy!",
+        "name": "Serve hot and enjoy!",
+        "url": "https://www.ruled.me/keto-creamy-cabbage-casserole/#wprm-recipe-53565-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner",
+      "Lunch",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "660 kcal",
+      "fatContent": "62.7 g",
+      "proteinContent": "12.5 g",
+      "carbohydrateContent": "11.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-creamy-cabbage-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-creamy-cabbage-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-creamy-cabbage-casserole/"
+  },
+  "sourceIndex": {
+    "id": 44217,
+    "rid": 53565,
+    "t": "Keto Creamy Cabbage Casserole",
+    "u": "/keto-creamy-cabbage-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/11/Low-Carb-Cabbage-Casserole-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 11.2,
+    "cal": 660,
+    "pr": 12.5,
+    "fa": 62.7,
+    "tm": 50,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "oven-baked",
+      "stovetop"
+    ],
+    "d": "2020-11-10",
+    "cm": 6,
+    "ex": "This creamy cabbage casserole is a rich recipe. The cabbage, onion, and garlic are the main components of this recipe and they pair so well together. This dish is luscious with a cream mixture. the",
+    "pv": 1122
+  },
+  "sourceHtml": "pages/keto-creamy-cabbage-casserole.html",
+  "scrapedAt": "2026-11-07T08:32:03.547Z"
+}

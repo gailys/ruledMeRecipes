@@ -1,0 +1,382 @@
+{
+  "id": "ruled-24415",
+  "slug": "chicharrones-con-huevos",
+  "title": "Chicharrones con Huevos",
+  "url": "https://www.ruled.me/chicharrones-con-huevos/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Chicharrones con Huevos. Each serving comes out to be 484 calories, 38.2g fats, 4.3g net carbs, and 25.8g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "484 kcal",
+    "fatContent": "38.2 g",
+    "proteinContent": "25.8 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 484,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 25.8,
+    "fatGrams": 38.2
+  },
+  "ingredients": [
+    "1 medium fresh tomatoes",
+    "2 medium jalapeno pepper (deseeded)",
+    "1/4 medium onion",
+    "4 ounce bacon",
+    "1 1/2 ounce pork rinds",
+    "salt and pepper (to taste)",
+    "1/4 cup fresh cilantro (chopped)",
+    "5 large egg",
+    "1 medium avocado"
+  ],
+  "instructions": [
+    {
+      "text": "Finely dice the tomatoes, jalapeño, and onion.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2834.jpg"
+    },
+    {
+      "text": "Start by frying the slices of bacon in a pan. Once done, remove and place them on paper towels for later. Try and keep as much of the bacon grease in the pan as possible.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2838.jpg"
+    },
+    {
+      "text": "Fry the pork rinds in the bacon fat, ensuring that they're coated properly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2851.jpg"
+    },
+    {
+      "text": "Once the pork rinds are nice and crispy, add the chopped vegetables to the pan. Mix everything and season as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2853.jpg"
+    },
+    {
+      "text": "Once the onions are almost translucent, add the chopped cilantro to the pan. Mix everything.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2860.jpg"
+    },
+    {
+      "text": "Whisk the eggs in a separate bowl, add them to the pan, then mix everything. Season as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2866.jpg"
+    },
+    {
+      "text": "Let this cook like an omelet. When ready, mix once to let the uncooked egg get to the bottom of the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2870.jpg"
+    },
+    {
+      "text": "Cube an avocado just before serving and fold it into the mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_2872.jpg"
+    },
+    {
+      "text": "Crumble the bacon and sprinkle over the top, then garnish with optional fresh chopped cilantro and some sour cream, if you'd like.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/porkrindseggs.jpg",
+      "path": "images/6dbed63a996806c77170e63f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2834.jpg",
+      "path": "../../nenaudojama/breakfast/images/5489dc8ff2f2ce3abd290647.avif",
+      "archived": true,
+      "originalPath": "images/5489dc8ff2f2ce3abd290647.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2838.jpg",
+      "path": "../../nenaudojama/breakfast/images/866c44ced35003e7ec7a2f29.jpg",
+      "archived": true,
+      "originalPath": "images/866c44ced35003e7ec7a2f29.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2851.jpg",
+      "path": "../../nenaudojama/breakfast/images/cc671458e3b11ba4316be7fe.jpg",
+      "archived": true,
+      "originalPath": "images/cc671458e3b11ba4316be7fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2853.jpg",
+      "path": "../../nenaudojama/breakfast/images/fe7972df49158a0862796351.jpg",
+      "archived": true,
+      "originalPath": "images/fe7972df49158a0862796351.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2860.jpg",
+      "path": "../../nenaudojama/breakfast/images/c0f2eecaab6a532aaade9df8.jpg",
+      "archived": true,
+      "originalPath": "images/c0f2eecaab6a532aaade9df8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2866.jpg",
+      "path": "../../nenaudojama/breakfast/images/bde65920c474f3a77f5d4920.jpg",
+      "archived": true,
+      "originalPath": "images/bde65920c474f3a77f5d4920.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2870.jpg",
+      "path": "../../nenaudojama/breakfast/images/d497d5b03ff0466bb2dce72a.avif",
+      "archived": true,
+      "originalPath": "images/d497d5b03ff0466bb2dce72a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2872.jpg",
+      "path": "../../nenaudojama/breakfast/images/7374273e4fb4e56a9cfdc37c.jpg",
+      "archived": true,
+      "originalPath": "images/7374273e4fb4e56a9cfdc37c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/porkrindseggslong.jpg",
+      "path": "../../nenaudojama/breakfast/images/0e8a8b07412aed308cba5bb8.jpg",
+      "archived": true,
+      "originalPath": "images/0e8a8b07412aed308cba5bb8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2834-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1ded1eacdec0d5977900d73a.avif",
+      "archived": true,
+      "originalPath": "images/1ded1eacdec0d5977900d73a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2838-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/189547cff77a2eee182855a2.avif",
+      "archived": true,
+      "originalPath": "images/189547cff77a2eee182855a2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2851-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e963da595902ea41b352a958.jpg",
+      "archived": true,
+      "originalPath": "images/e963da595902ea41b352a958.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2853-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/dfbeb4240b3f0b6d60b941b3.jpg",
+      "archived": true,
+      "originalPath": "images/dfbeb4240b3f0b6d60b941b3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2860-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f9d883897c8f106bf55b0405.jpg",
+      "archived": true,
+      "originalPath": "images/f9d883897c8f106bf55b0405.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2866-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ed1d5799af52ae6db53050b5.jpg",
+      "archived": true,
+      "originalPath": "images/ed1d5799af52ae6db53050b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_2870-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/73d0a9916621b4b422a67e9b.avif",
+      "archived": true,
+      "originalPath": "images/73d0a9916621b4b422a67e9b.avif"
+    }
+  ],
+  "featuredImage": "images/6dbed63a996806c77170e63f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicharrones con Huevos",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Chicharrones con Huevos. Each serving comes out to be 484 calories, 38.2g fats, 4.3g net carbs, and 25.8g protein.",
+    "datePublished": "2014-08-28T15:44:15+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/porkrindseggs.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 medium fresh tomatoes",
+      "2 medium jalapeno pepper (deseeded)",
+      "1/4 medium onion",
+      "4 ounce bacon",
+      "1 1/2 ounce pork rinds",
+      "salt and pepper (to taste)",
+      "1/4 cup fresh cilantro (chopped)",
+      "5 large egg",
+      "1 medium avocado"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the tomatoes, jalapeño, and onion.",
+        "name": "Finely dice the tomatoes, jalapeño, and onion.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2834.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start by frying the slices of bacon in a pan. Once done, remove and place them on paper towels for later. Try and keep as much of the bacon grease in the pan as possible.",
+        "name": "Start by frying the slices of bacon in a pan. Once done, remove and place them on paper towels for later. Try and keep as much of the bacon grease in the pan as possible.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2838.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the pork rinds in the bacon fat, ensuring that they're coated properly.",
+        "name": "Fry the pork rinds in the bacon fat, ensuring that they're coated properly.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2851.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the pork rinds are nice and crispy, add the chopped vegetables to the pan. Mix everything and season as needed.",
+        "name": "Once the pork rinds are nice and crispy, add the chopped vegetables to the pan. Mix everything and season as needed.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2853.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the onions are almost translucent, add the chopped cilantro to the pan. Mix everything.",
+        "name": "Once the onions are almost translucent, add the chopped cilantro to the pan. Mix everything.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2860.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the eggs in a separate bowl, add them to the pan, then mix everything. Season as needed.",
+        "name": "Whisk the eggs in a separate bowl, add them to the pan, then mix everything. Season as needed.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2866.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let this cook like an omelet. When ready, mix once to let the uncooked egg get to the bottom of the pan.",
+        "name": "Let this cook like an omelet. When ready, mix once to let the uncooked egg get to the bottom of the pan.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2870.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cube an avocado just before serving and fold it into the mixture.",
+        "name": "Cube an avocado just before serving and fold it into the mixture.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_2872.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crumble the bacon and sprinkle over the top, then garnish with optional fresh chopped cilantro and some sour cream, if you'd like.",
+        "name": "Crumble the bacon and sprinkle over the top, then garnish with optional fresh chopped cilantro and some sour cream, if you'd like.",
+        "url": "https://www.ruled.me/chicharrones-con-huevos/#wprm-recipe-51323-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, dairy-free, eggs, gluten-free, high-fat, keto, low-carb, nut-free, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "484 kcal",
+      "fatContent": "38.2 g",
+      "proteinContent": "25.8 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chicharrones-con-huevos/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chicharrones-con-huevos/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chicharrones-con-huevos/"
+  },
+  "sourceIndex": {
+    "id": 24415,
+    "rid": 51323,
+    "t": "Chicharrones con Huevos",
+    "u": "/chicharrones-con-huevos/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/porkrindseggs.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.3,
+    "cal": 484,
+    "pr": 25.8,
+    "fa": 38.2,
+    "tm": 25,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2014-08-28",
+    "cm": 18,
+    "ex": "Chicharrones con Huevos roughly translates to \"pork rinds with eggs\". Though, I thought I'd spice it up a little bit by adding tomato, avocado, jalapenos, and of course cilantro to the mix. While",
+    "pv": 574
+  },
+  "sourceHtml": "pages/chicharrones-con-huevos.html",
+  "scrapedAt": "2026-11-07T08:11:13.030Z"
+}

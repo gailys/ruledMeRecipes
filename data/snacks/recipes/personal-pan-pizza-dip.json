@@ -1,0 +1,352 @@
+{
+  "id": "ruled-25361",
+  "slug": "personal-pan-pizza-dip",
+  "title": "Personal Pan Pizza Dip",
+  "url": "https://www.ruled.me/personal-pan-pizza-dip/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Personal Pan Pizza Dip. Each serving comes out to be 363 calories, 32.9g fats, 4.7g net carbs, and 12.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "fatContent": "32.9 g",
+    "proteinContent": "12.2 g",
+    "carbohydrateContent": "4.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 363,
+    "netCarbsGrams": 4.7,
+    "proteinGrams": 12.2,
+    "fatGrams": 32.9
+  },
+  "ingredients": [
+    "4 ounce cream cheese",
+    "1/4 cup sour cream",
+    "1/4 cup mayonnaise",
+    "1 cup mozzarella cheese (shredded)",
+    "salt and pepper (to taste)",
+    "1/2 cup low-carb tomato sauce (such as Rao's)",
+    "1/4 cup parmesan cheese",
+    "1/2 ounce pepperoni (chopped)",
+    "1 tablespoon green bell pepper (diced)",
+    "4 whole black olives (sliced)",
+    "1/2 teaspoon italian seasoning",
+    "salt and pepper (to taste)",
+    "1 tablespoon green bell pepper (diced)",
+    "1 ounce cremini mushrooms (diced)",
+    "1/2 teaspoon italian seasoning",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Measure out the cream cheese and microwave for 20 seconds to get it to room temperature.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2860.jpg"
+    },
+    {
+      "text": "Add the sour cream, mayonnaise, and half of the mozzarella cheese. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2864.jpg"
+    },
+    {
+      "text": "Divide the mixture into ramekins.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2868.jpg"
+    },
+    {
+      "text": "Spoon tomato sauce over each ramekin and spread it out evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2872.jpg"
+    },
+    {
+      "text": "Combine the parmesan with the remaining mozzarella. Sprinkle this mixture evenly over the sauce and add toppings of choice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2877.jpg"
+    },
+    {
+      "text": "Bake for 18–20 minutes or until the cheese is bubbling. Remove from the oven and let cool for a few minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/01/img_2882.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/pizzadip1.jpg",
+      "path": "../../nenaudojama/snacks/images/986878a13fc6fafdd906b40f.avif",
+      "archived": true,
+      "originalPath": "images/986878a13fc6fafdd906b40f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2860.jpg",
+      "path": "../../nenaudojama/snacks/images/d24c44cd35554a617a5695fd.jpg",
+      "archived": true,
+      "originalPath": "images/d24c44cd35554a617a5695fd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2864.jpg",
+      "path": "../../nenaudojama/snacks/images/a52a03b3238822a6517baad7.jpg",
+      "archived": true,
+      "originalPath": "images/a52a03b3238822a6517baad7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2868.jpg",
+      "path": "../../nenaudojama/snacks/images/5980a33dd62c83b3aba62712.jpg",
+      "archived": true,
+      "originalPath": "images/5980a33dd62c83b3aba62712.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2872.jpg",
+      "path": "../../nenaudojama/snacks/images/153064bab2bb0c984d8ca19b.jpg",
+      "archived": true,
+      "originalPath": "images/153064bab2bb0c984d8ca19b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2877.jpg",
+      "path": "../../nenaudojama/snacks/images/c5698f7e489c7103ba73156f.jpg",
+      "archived": true,
+      "originalPath": "images/c5698f7e489c7103ba73156f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2882.jpg",
+      "path": "../../nenaudojama/snacks/images/858fae2b4fcfd38dff4bf0c9.jpg",
+      "archived": true,
+      "originalPath": "images/858fae2b4fcfd38dff4bf0c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/pizzadip.jpg",
+      "path": "../../nenaudojama/snacks/images/3a473f4acc8a0814613742d2.jpg",
+      "archived": true,
+      "originalPath": "images/3a473f4acc8a0814613742d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/pizzadiplong.jpg",
+      "path": "../../nenaudojama/snacks/images/e4af5b3b3a525c10be340814.avif",
+      "archived": true,
+      "originalPath": "images/e4af5b3b3a525c10be340814.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2860-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/072cc45b121817c269dbea7b.jpg",
+      "archived": true,
+      "originalPath": "images/072cc45b121817c269dbea7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2864-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/13e624ae3356983a398cd92d.jpg",
+      "archived": true,
+      "originalPath": "images/13e624ae3356983a398cd92d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2868-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/cb919278186f0a4f5949b9a0.jpg",
+      "archived": true,
+      "originalPath": "images/cb919278186f0a4f5949b9a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2872-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/e4cfcfce0b9a208126075b83.jpg",
+      "archived": true,
+      "originalPath": "images/e4cfcfce0b9a208126075b83.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2877-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/d3353b1577cf0a2366607b00.jpg",
+      "archived": true,
+      "originalPath": "images/d3353b1577cf0a2366607b00.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/01/img_2882-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/3311e894ee56a49eb2183508.jpg",
+      "archived": true,
+      "originalPath": "images/3311e894ee56a49eb2183508.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/986878a13fc6fafdd906b40f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Personal Pan Pizza Dip",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Personal Pan Pizza Dip. Each serving comes out to be 363 calories, 32.9g fats, 4.7g net carbs, and 12.2g protein.",
+    "datePublished": "2015-01-22T17:03:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/01/pizzadip1.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "4 ounce cream cheese",
+      "1/4 cup sour cream",
+      "1/4 cup mayonnaise",
+      "1 cup mozzarella cheese (shredded)",
+      "salt and pepper (to taste)",
+      "1/2 cup low-carb tomato sauce (such as Rao's)",
+      "1/4 cup parmesan cheese",
+      "1/2 ounce pepperoni (chopped)",
+      "1 tablespoon green bell pepper (diced)",
+      "4 whole black olives (sliced)",
+      "1/2 teaspoon italian seasoning",
+      "salt and pepper (to taste)",
+      "1 tablespoon green bell pepper (diced)",
+      "1 ounce cremini mushrooms (diced)",
+      "1/2 teaspoon italian seasoning",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Measure out the cream cheese and microwave for 20 seconds to get it to room temperature.",
+        "name": "Preheat oven to 350F. Measure out the cream cheese and microwave for 20 seconds to get it to room temperature.",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2860.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sour cream, mayonnaise, and half of the mozzarella cheese. Season with salt and pepper to taste.",
+        "name": "Add the sour cream, mayonnaise, and half of the mozzarella cheese. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2864.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the mixture into ramekins.",
+        "name": "Divide the mixture into ramekins.",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2868.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon tomato sauce over each ramekin and spread it out evenly.",
+        "name": "Spoon tomato sauce over each ramekin and spread it out evenly.",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2872.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the parmesan with the remaining mozzarella. Sprinkle this mixture evenly over the sauce and add toppings of choice.",
+        "name": "Combine the parmesan with the remaining mozzarella. Sprinkle this mixture evenly over the sauce and add toppings of choice.",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2877.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 18–20 minutes or until the cheese is bubbling. Remove from the oven and let cool for a few minutes.",
+        "name": "Bake for 18–20 minutes or until the cheese is bubbling. Remove from the oven and let cool for a few minutes.",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/01/img_2882.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/personal-pan-pizza-dip/#wprm-recipe-51551-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "game-day, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, party-food, simple &amp; easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "363 kcal",
+      "fatContent": "32.9 g",
+      "proteinContent": "12.2 g",
+      "carbohydrateContent": "4.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/personal-pan-pizza-dip/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/personal-pan-pizza-dip/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/personal-pan-pizza-dip/"
+  },
+  "sourceIndex": {
+    "id": 25361,
+    "rid": 51551,
+    "t": "Personal Pan Pizza Dip",
+    "u": "/personal-pan-pizza-dip/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/01/pizzadip1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 4.7,
+    "cal": 363,
+    "pr": 12.2,
+    "fa": 32.9,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 16,
+    "fk": [
+      "nut-free",
+      "oven-baked"
+    ],
+    "d": "2015-01-22",
+    "cm": 9,
+    "ex": "While searching for some new and creative ideas to be keto during the Super Bowl, I came across keto fat bomb Pizza Dip. Usually they're served in a large casserole dish, but I thought the idea of",
+    "pv": 537
+  },
+  "sourceHtml": "pages/personal-pan-pizza-dip.html",
+  "scrapedAt": "2026-11-07T08:31:26.568Z"
+}

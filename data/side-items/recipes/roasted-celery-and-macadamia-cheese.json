@@ -1,0 +1,291 @@
+{
+  "id": "ruled-35778",
+  "slug": "roasted-celery-and-macadamia-cheese",
+  "title": "Roasted Celery and Macadamia Cheese",
+  "url": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Roasted Celery and Macadamia Cheese. Each serving comes out to be 273 calories, 26.3g fats, 3.8g net carbs, and 5.5g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT40M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "273 kcal",
+    "fatContent": "26.3 g",
+    "proteinContent": "5.5 g",
+    "carbohydrateContent": "3.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 273,
+    "netCarbsGrams": 3.8,
+    "proteinGrams": 5.5,
+    "fatGrams": 26.3
+  },
+  "ingredients": [
+    "11 ounce celery",
+    "6 ounce macadamia nuts",
+    "2 tablespoon lemon juice",
+    "3 tablespoon nutritional yeast",
+    "1/2 teaspoon garlic powder",
+    "1/2 cup water",
+    "2 tablespoon fresh basil",
+    "salt and pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Wash, trim, and cut the stalks of celery into halves. Peel as many of the strings off as you can.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-01.jpg"
+    },
+    {
+      "text": "In a food processor blend the macadamia nuts, lemon juice, nutritional yeast, garlic powder, water, and fresh basil. Add salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-03.jpg"
+    },
+    {
+      "text": "Lay the celery in an oven proof dish. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-02.jpg"
+    },
+    {
+      "text": "Spoon the macadamia nut cheese into the celery. Divide it up as evenly as you can.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-04.jpg"
+    },
+    {
+      "text": "Bake for around 40 minutes. If you’d like the macadamia cheese to look more brown, then pop it under the broiler for a few minutes. It’s ready when the celery is soft and can be easily cut with a fork.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/ce66af4454dac8e239af0a7a.jpg",
+      "archived": true,
+      "originalPath": "images/ce66af4454dac8e239af0a7a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/977e85644d4b94777f2ba00a.avif",
+      "archived": true,
+      "originalPath": "images/977e85644d4b94777f2ba00a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-01.jpg",
+      "path": "../../nenaudojama/side-items/images/e4eb7469a5dce15911d993b4.avif",
+      "archived": true,
+      "originalPath": "images/e4eb7469a5dce15911d993b4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-03.jpg",
+      "path": "../../nenaudojama/side-items/images/b9940b16f99859dbd666468f.avif",
+      "archived": true,
+      "originalPath": "images/b9940b16f99859dbd666468f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-02.jpg",
+      "path": "../../nenaudojama/side-items/images/e0e3ec6191a1fc2ebda5e0af.avif",
+      "archived": true,
+      "originalPath": "images/e0e3ec6191a1fc2ebda5e0af.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-04.jpg",
+      "path": "../../nenaudojama/side-items/images/00754d32182a0b48e5a29946.avif",
+      "archived": true,
+      "originalPath": "images/00754d32182a0b48e5a29946.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-second.jpg",
+      "path": "../../nenaudojama/side-items/images/9936faa7b71f6397904faa0e.avif",
+      "archived": true,
+      "originalPath": "images/9936faa7b71f6397904faa0e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/8272dfbac72929d1c1e2dd7c.jpg",
+      "archived": true,
+      "originalPath": "images/8272dfbac72929d1c1e2dd7c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/219a5a57e3a693eb96a768f0.jpg",
+      "archived": true,
+      "originalPath": "images/219a5a57e3a693eb96a768f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/1c66a7143b3f078ff2ce6e9e.jpg",
+      "archived": true,
+      "originalPath": "images/1c66a7143b3f078ff2ce6e9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/281cb2d7822d9d2b9f527f85.jpg",
+      "archived": true,
+      "originalPath": "images/281cb2d7822d9d2b9f527f85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e2070730b309bafec9681e05.jpg",
+      "archived": true,
+      "originalPath": "images/e2070730b309bafec9681e05.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/977e85644d4b94777f2ba00a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Roasted Celery and Macadamia Cheese",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Roasted Celery and Macadamia Cheese. Each serving comes out to be 273 calories, 26.3g fats, 3.8g net carbs, and 5.5g protein.",
+    "datePublished": "2018-03-01T12:00:32+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "11 ounce celery",
+      "6 ounce macadamia nuts",
+      "2 tablespoon lemon juice",
+      "3 tablespoon nutritional yeast",
+      "1/2 teaspoon garlic powder",
+      "1/2 cup water",
+      "2 tablespoon fresh basil",
+      "salt and pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Wash, trim, and cut the stalks of celery into halves. Peel as many of the strings off as you can.",
+        "name": "Preheat oven to 350F. Wash, trim, and cut the stalks of celery into halves. Peel as many of the strings off as you can.",
+        "url": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor blend the macadamia nuts, lemon juice, nutritional yeast, garlic powder, water, and fresh basil. Add salt and pepper to taste.",
+        "name": "In a food processor blend the macadamia nuts, lemon juice, nutritional yeast, garlic powder, water, and fresh basil. Add salt and pepper to taste.",
+        "url": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay the celery in an oven proof dish. Season with salt and pepper.",
+        "name": "Lay the celery in an oven proof dish. Season with salt and pepper.",
+        "url": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the macadamia nut cheese into the celery. Divide it up as evenly as you can.",
+        "name": "Spoon the macadamia nut cheese into the celery. Divide it up as evenly as you can.",
+        "url": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for around 40 minutes. If you’d like the macadamia cheese to look more brown, then pop it under the broiler for a few minutes. It’s ready when the celery is soft and can be easily cut with a fork.",
+        "name": "Bake for around 40 minutes. If you’d like the macadamia cheese to look more brown, then pop it under the broiler for a few minutes. It’s ready when the celery is soft and can be easily cut with a fork.",
+        "url": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#wprm-recipe-52503-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, keto, low-carb, oven-baked, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "273 kcal",
+      "fatContent": "26.3 g",
+      "proteinContent": "5.5 g",
+      "carbohydrateContent": "3.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/roasted-celery-and-macadamia-cheese/"
+  },
+  "sourceIndex": {
+    "id": 35778,
+    "rid": 52503,
+    "t": "Roasted Celery and Macadamia Cheese",
+    "u": "/roasted-celery-and-macadamia-cheese/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/roasted-celery-n-macadamia-cheese-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.8,
+    "cal": 273,
+    "pr": 5.5,
+    "fa": 26.3,
+    "tm": 55,
+    "sv": 5,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2018-03-01",
+    "cm": 6,
+    "ex": "Celery that's roasted in the oven turns buttery and sweet. Pair this with a completely dairy-free macadamia cheese and you've got yourself a side dish that's rich but also low in carbs. Perfect for",
+    "pv": 113
+  },
+  "sourceHtml": "pages/roasted-celery-and-macadamia-cheese.html",
+  "scrapedAt": "2026-11-07T08:32:26.173Z"
+}

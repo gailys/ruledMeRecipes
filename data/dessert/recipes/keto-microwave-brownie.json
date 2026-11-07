@@ -1,0 +1,301 @@
+{
+  "id": "ruled-1092",
+  "slug": "keto-microwave-brownie",
+  "title": "Extremely Simple Keto Microwave Brownies",
+  "url": "https://www.ruled.me/keto-microwave-brownie/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Extremely Simple Keto Microwave Brownies. The serving comes out to be 112 calories, 8.9g fats, 1.8g net carbs, and 5.3g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "fatContent": "8.9 g",
+    "proteinContent": "5.3 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 112,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 5.3,
+    "fatGrams": 8.9
+  },
+  "ingredients": [
+    "1 tablespoon egg white",
+    "1 tablespoon almond butter",
+    "1 teaspoon unsweetened dark cocoa powder",
+    "1/8 teaspoon vanilla extract",
+    "3 drop liquid stevia",
+    "1/8 teaspoon baking soda",
+    "salt (to taste, see note)"
+  ],
+  "instructions": [
+    {
+      "text": "Find a microwave-safe cup or container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-7-e1483306516559.jpg"
+    },
+    {
+      "text": "In a small bowl, add the egg whites and beat until nicely aerated and frothy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-9.jpg"
+    },
+    {
+      "text": "Place all of the ingredients in the cup and mix them together well with a fork.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-2.jpg"
+    },
+    {
+      "text": "Stick the cup in the microwave for around 40 seconds (microwave times may vary). Shave 10 seconds off the microwave time for a more molten consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-4.jpg"
+    },
+    {
+      "text": "Remove from the microwave and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-5-e1483306437131.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-8-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/86cb019af5324f47c63bcc7b.jpg",
+      "archived": true,
+      "originalPath": "images/86cb019af5324f47c63bcc7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-8.jpg",
+      "path": "images/69636e31d9fd4aa22b4a060c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-7-e1483306516559.jpg",
+      "path": "../../nenaudojama/dessert/images/2dd91da53e342dc910bcdd3a.jpg",
+      "archived": true,
+      "originalPath": "images/2dd91da53e342dc910bcdd3a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-9.jpg",
+      "path": "../../nenaudojama/dessert/images/83ce933a947f8e61417d2153.avif",
+      "archived": true,
+      "originalPath": "images/83ce933a947f8e61417d2153.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-2.jpg",
+      "path": "../../nenaudojama/dessert/images/8fa54dee8c837980a4fe9cf8.avif",
+      "archived": true,
+      "originalPath": "images/8fa54dee8c837980a4fe9cf8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-4.jpg",
+      "path": "../../nenaudojama/dessert/images/17a4e3263329cbf3e487636f.jpg",
+      "archived": true,
+      "originalPath": "images/17a4e3263329cbf3e487636f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-5-e1483306437131.jpg",
+      "path": "../../nenaudojama/dessert/images/a5e60b05a739a48a0c219405.avif",
+      "archived": true,
+      "originalPath": "images/a5e60b05a739a48a0c219405.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-6-e1483306415150.jpg",
+      "path": "../../nenaudojama/dessert/images/baa8808242d3600710cabb64.jpg",
+      "archived": true,
+      "originalPath": "images/baa8808242d3600710cabb64.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-09.jpg",
+      "path": "../../nenaudojama/dessert/images/45a49f2e57847627c7c23662.jpg",
+      "archived": true,
+      "originalPath": "images/45a49f2e57847627c7c23662.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-7-e1483306516559-600x280.jpg",
+      "path": "../../nenaudojama/dessert/images/8cbfda629745c58efdf3a131.jpg",
+      "archived": true,
+      "originalPath": "images/8cbfda629745c58efdf3a131.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-9-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/810ed8a2d88801e7c3c0ef30.avif",
+      "archived": true,
+      "originalPath": "images/810ed8a2d88801e7c3c0ef30.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/98b4f191e6d2a6d28ec95edc.avif",
+      "archived": true,
+      "originalPath": "images/98b4f191e6d2a6d28ec95edc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c49a85a6ad9824c0f6d5d093.avif",
+      "archived": true,
+      "originalPath": "images/c49a85a6ad9824c0f6d5d093.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1460a29d4fa6d3e9e3efe287.jpg",
+      "archived": true,
+      "originalPath": "images/1460a29d4fa6d3e9e3efe287.jpg"
+    }
+  ],
+  "featuredImage": "images/69636e31d9fd4aa22b4a060c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Extremely Simple Keto Microwave Brownies",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Extremely Simple Keto Microwave Brownies. The serving comes out to be 112 calories, 8.9g fats, 1.8g net carbs, and 5.3g protein.",
+    "datePublished": "2013-10-29T19:08:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-8.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 tablespoon egg white",
+      "1 tablespoon almond butter",
+      "1 teaspoon unsweetened dark cocoa powder",
+      "1/8 teaspoon vanilla extract",
+      "3 drop liquid stevia",
+      "1/8 teaspoon baking soda",
+      "salt (to taste, see note)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Find a microwave-safe cup or container.",
+        "name": "Find a microwave-safe cup or container.",
+        "url": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-7-e1483306516559.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, add the egg whites and beat until nicely aerated and frothy.",
+        "name": "In a small bowl, add the egg whites and beat until nicely aerated and frothy.",
+        "url": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place all of the ingredients in the cup and mix them together well with a fork.",
+        "name": "Place all of the ingredients in the cup and mix them together well with a fork.",
+        "url": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stick the cup in the microwave for around 40 seconds (microwave times may vary). Shave 10 seconds off the microwave time for a more molten consistency.",
+        "name": "Stick the cup in the microwave for around 40 seconds (microwave times may vary). Shave 10 seconds off the microwave time for a more molten consistency.",
+        "url": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the microwave and serve.",
+        "name": "Remove from the microwave and serve.",
+        "url": "https://www.ruled.me/keto-microwave-brownie/#wprm-recipe-50343-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-5-e1483306437131.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "112 kcal",
+      "fatContent": "8.9 g",
+      "proteinContent": "5.3 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-microwave-brownie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-microwave-brownie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-microwave-brownie/"
+  },
+  "sourceIndex": {
+    "id": 1092,
+    "rid": 50343,
+    "t": "Extremely Simple Keto Microwave Brownies",
+    "u": "/keto-microwave-brownie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/microwave_brownies-8-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.8,
+    "cal": 112,
+    "pr": 5.3,
+    "fa": 8.9,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "d": "2013-10-29",
+    "cm": 1,
+    "ex": "So I know many of you look for quick and easy recipes like I do. Lately I've been trying to put together a list of my craving busting recipes to make it easier for anyone transitioning into a keto",
+    "pv": 117
+  },
+  "sourceHtml": "pages/keto-microwave-brownie.html",
+  "scrapedAt": "2026-11-07T08:30:47.749Z"
+}

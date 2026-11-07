@@ -1,0 +1,304 @@
+{
+  "id": "ruled-10255",
+  "slug": "perfect-sunday-roast",
+  "title": "Perfect Sunday Roast",
+  "url": "https://www.ruled.me/perfect-sunday-roast/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Perfect Sunday Roast. Each serving comes out to be 997 calories, 79.7g fats, 0.4g net carbs, and 64.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT240M",
+  "totalTime": "PT255M",
+  "totalMinutes": 255,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "997 kcal",
+    "fatContent": "79.7 g",
+    "proteinContent": "64.6 g",
+    "carbohydrateContent": "0.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 997,
+    "netCarbsGrams": 0.4,
+    "proteinGrams": 64.6,
+    "fatGrams": 79.7
+  },
+  "ingredients": [
+    "80 ounce beef rib roast",
+    "2 teaspoon salt",
+    "1 teaspoon black pepper",
+    "1 teaspoon garlic powder"
+  ],
+  "instructions": [
+    {
+      "text": "In a roasting pan, let the roast sit at room temperature for 60 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-01.jpg"
+    },
+    {
+      "text": "Preheat the oven to 375F. Mix the spices together in a small bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Rub the roast down with the seasonings, making sure the whole top is liberally covered.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-05.jpg"
+    },
+    {
+      "text": "Now, for the hard part. Let the roast sit in the oven for 1 hour. After 1 hour, turn off the oven completely. Let the roast sit in the oven for 3 hours. Do NOT open the oven door – you want the residual heat to continue cooking the meat. Remove the roast from the oven and cover with foil. Let it rest for 10 minutes additionally.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-06.jpg"
+    },
+    {
+      "text": "Slice the roast as thick as you’d like it. Serve! I had this with a side of broccoli with ranch and hot sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-11.jpg"
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "holiday",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "red-meat",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/4ccbb52dc54e874b9662e85b.jpg",
+      "archived": true,
+      "originalPath": "images/4ccbb52dc54e874b9662e85b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-featured.jpg",
+      "path": "images/03475acbca83e2f4970205dc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-01.jpg",
+      "path": "../../nenaudojama/dinner/images/5c1be6c7e7c4b5237fa0398f.avif",
+      "archived": true,
+      "originalPath": "images/5c1be6c7e7c4b5237fa0398f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-05.jpg",
+      "path": "../../nenaudojama/dinner/images/48f2ac3fd92695929cca351c.avif",
+      "archived": true,
+      "originalPath": "images/48f2ac3fd92695929cca351c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-06.jpg",
+      "path": "../../nenaudojama/dinner/images/492f2ca2234194f55df340b1.avif",
+      "archived": true,
+      "originalPath": "images/492f2ca2234194f55df340b1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-11.jpg",
+      "path": "../../nenaudojama/dinner/images/7096aa83b302b68f4d621159.avif",
+      "archived": true,
+      "originalPath": "images/7096aa83b302b68f4d621159.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-09.jpg",
+      "path": "../../nenaudojama/dinner/images/e0fb7a32ec878934223bdc3f.jpg",
+      "archived": true,
+      "originalPath": "images/e0fb7a32ec878934223bdc3f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/09c67a59679120a5893b5fe6.avif",
+      "archived": true,
+      "originalPath": "images/09c67a59679120a5893b5fe6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3e0337db5fd51417caecff2d.jpg",
+      "archived": true,
+      "originalPath": "images/3e0337db5fd51417caecff2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5aea0a803405810ab3024013.jpg",
+      "archived": true,
+      "originalPath": "images/5aea0a803405810ab3024013.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3d44db843c8a879bb3ba2177.avif",
+      "archived": true,
+      "originalPath": "images/3d44db843c8a879bb3ba2177.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-11-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/541acc3aa98904590ec92055.avif",
+      "archived": true,
+      "originalPath": "images/541acc3aa98904590ec92055.avif"
+    }
+  ],
+  "featuredImage": "images/03475acbca83e2f4970205dc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Perfect Sunday Roast",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Perfect Sunday Roast. Each serving comes out to be 997 calories, 79.7g fats, 0.4g net carbs, and 64.6g protein.",
+    "datePublished": "2014-03-02T13:48:46+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT240M",
+    "totalTime": "PT255M",
+    "recipeIngredient": [
+      "80 ounce beef rib roast",
+      "2 teaspoon salt",
+      "1 teaspoon black pepper",
+      "1 teaspoon garlic powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a roasting pan, let the roast sit at room temperature for 60 minutes.",
+        "name": "In a roasting pan, let the roast sit at room temperature for 60 minutes.",
+        "url": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375F. Mix the spices together in a small bowl.",
+        "name": "Preheat the oven to 375F. Mix the spices together in a small bowl.",
+        "url": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rub the roast down with the seasonings, making sure the whole top is liberally covered.",
+        "name": "Rub the roast down with the seasonings, making sure the whole top is liberally covered.",
+        "url": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Now, for the hard part. Let the roast sit in the oven for 1 hour. After 1 hour, turn off the oven completely. Let the roast sit in the oven for 3 hours. Do NOT open the oven door – you want the residual heat to continue cooking the meat. Remove the roast from the oven and cover with foil. Let it rest for 10 minutes additionally.",
+        "name": "Now, for the hard part. Let the roast sit in the oven for 1 hour. After 1 hour, turn off the oven completely. Let the roast sit in the oven for 3 hours. Do NOT open the oven door – you want the residual heat to continue cooking the meat. Remove the roast from the oven and cover with foil. Let it rest for 10 minutes additionally.",
+        "url": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the roast as thick as you’d like it. Serve! I had this with a side of broccoli with ranch and hot sauce.",
+        "name": "Slice the roast as thick as you’d like it. Serve! I had this with a side of broccoli with ranch and hot sauce.",
+        "url": "https://www.ruled.me/perfect-sunday-roast/#wprm-recipe-50905-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-11.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, comfort-food, dairy-free, egg-free, family-friendly, gluten-free, high-fat, high-protein, holiday, keto, low-carb, nut-free, oven-baked, red meat, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "997 kcal",
+      "fatContent": "79.7 g",
+      "proteinContent": "64.6 g",
+      "carbohydrateContent": "0.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/perfect-sunday-roast/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/perfect-sunday-roast/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/perfect-sunday-roast/"
+  },
+  "sourceIndex": {
+    "id": 10255,
+    "rid": 50905,
+    "t": "Perfect Sunday Roast",
+    "u": "/perfect-sunday-roast/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/perfect-sunday-roast-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 0.4,
+    "cal": 997,
+    "pr": 64.6,
+    "fa": 79.7,
+    "tm": 255,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "holiday",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "red-meat",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 4,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2014-03-02",
+    "cm": 4,
+    "ex": "A Sunday roast is the perfect meal for any special occasion. Whether it's a birthday, holiday, or just a family get together, a roast is a classic and traditional way to get everyone around the table",
+    "pv": 226
+  },
+  "sourceHtml": "pages/perfect-sunday-roast.html",
+  "scrapedAt": "2026-11-07T08:27:45.149Z"
+}

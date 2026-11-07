@@ -1,0 +1,323 @@
+{
+  "id": "ruled-60125",
+  "slug": "easy-keto-chicken-tonnato",
+  "title": "Easy Keto Chicken Tonnato",
+  "url": "https://www.ruled.me/easy-keto-chicken-tonnato/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Easy Keto Chicken Tonnato. Each serving comes out to be 551 calories, 39.3g fats, 2.9g net carbs, and 43.7g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "551 kcal",
+    "fatContent": "39.3 g",
+    "proteinContent": "43.7 g",
+    "carbohydrateContent": "2.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 551,
+    "netCarbsGrams": 2.9,
+    "proteinGrams": 43.7,
+    "fatGrams": 39.3
+  },
+  "ingredients": [
+    "1 tablespoon capers",
+    "2 ounce canned tuna",
+    "1 teaspoon fresh garlic (minced)",
+    "2 tablespoon fresh basil (chopped)",
+    "1 tablespoon lemon juice",
+    "2 tablespoon olive oil",
+    "4 tablespoon mayonnaise",
+    "1/2 teaspoon dried parsley",
+    "salt and pepper (to taste)",
+    "8 ounce boneless, skinless chicken breast",
+    "salt and pepper (to taste)",
+    "water",
+    "4 ounce spring mix"
+  ],
+  "instructions": [
+    {
+      "text": "Add all of the tonnato sauce ingredients to a bowl and blend together using an immersion blender. A food processor can also work. Set aside in the refrigerator.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-01.jpg"
+    },
+    {
+      "text": "Add the chicken breast to a pot with enough water to cover it. Season with salt and pepper. Bring the water to a boil, discarding any scum on the top of the water.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-02.jpg"
+    },
+    {
+      "text": "Let the chicken simmer for about 15 minutes or until fully cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-03.jpg"
+    },
+    {
+      "text": "Allow the chicken breast to cool for 5-10 minutes, then slice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-04.jpg"
+    },
+    {
+      "text": "Prepare the salad by plating the spring mix, chicken, and tonnato sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-05.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/de0c4ccd653a4a5b5a4890bc.jpg",
+      "archived": true,
+      "originalPath": "images/de0c4ccd653a4a5b5a4890bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd.jpg",
+      "path": "images/0bf379186343ccf4be4ed99d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/576400dd8460b62a608ee54e.jpg",
+      "archived": true,
+      "originalPath": "images/576400dd8460b62a608ee54e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/b5e0d0d2f2b22e0ac10586a2.jpg",
+      "archived": true,
+      "originalPath": "images/b5e0d0d2f2b22e0ac10586a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-03.jpg",
+      "path": "../../nenaudojama/lunch/images/89956f3cc4221bbaeffa71a4.jpg",
+      "archived": true,
+      "originalPath": "images/89956f3cc4221bbaeffa71a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-04.jpg",
+      "path": "../../nenaudojama/lunch/images/8b17ff0e703273a66c2d7e89.jpg",
+      "archived": true,
+      "originalPath": "images/8b17ff0e703273a66c2d7e89.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-05.jpg",
+      "path": "../../nenaudojama/lunch/images/ba2d0b369a6736838e332eff.jpg",
+      "archived": true,
+      "originalPath": "images/ba2d0b369a6736838e332eff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/bffb59d862b469854f3a264d.jpg",
+      "archived": true,
+      "originalPath": "images/bffb59d862b469854f3a264d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ac462ea8f1cd5be29927f948.jpg",
+      "archived": true,
+      "originalPath": "images/ac462ea8f1cd5be29927f948.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/867e95392a11b2e5927299db.jpg",
+      "archived": true,
+      "originalPath": "images/867e95392a11b2e5927299db.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5066d171567c248c590c98ed.jpg",
+      "archived": true,
+      "originalPath": "images/5066d171567c248c590c98ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/21bfd07ba18ab64364a1dab0.jpg",
+      "archived": true,
+      "originalPath": "images/21bfd07ba18ab64364a1dab0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-05-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/61d8515ed8d2e1a7a1eb7394.jpg",
+      "archived": true,
+      "originalPath": "images/61d8515ed8d2e1a7a1eb7394.jpg"
+    }
+  ],
+  "featuredImage": "images/0bf379186343ccf4be4ed99d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Easy Keto Chicken Tonnato",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Easy Keto Chicken Tonnato. Each serving comes out to be 551 calories, 39.3g fats, 2.9g net carbs, and 43.7g protein.",
+    "datePublished": "2026-10-27T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd-480x270.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 tablespoon capers",
+      "2 ounce canned tuna",
+      "1 teaspoon fresh garlic (minced)",
+      "2 tablespoon fresh basil (chopped)",
+      "1 tablespoon lemon juice",
+      "2 tablespoon olive oil",
+      "4 tablespoon mayonnaise",
+      "1/2 teaspoon dried parsley",
+      "salt and pepper (to taste)",
+      "8 ounce boneless, skinless chicken breast",
+      "salt and pepper (to taste)",
+      "water",
+      "4 ounce spring mix"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the tonnato sauce ingredients to a bowl and blend together using an immersion blender. A food processor can also work. Set aside in the refrigerator.",
+        "name": "Add all of the tonnato sauce ingredients to a bowl and blend together using an immersion blender. A food processor can also work. Set aside in the refrigerator.",
+        "url": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken breast to a pot with enough water to cover it. Season with salt and pepper. Bring the water to a boil, discarding any scum on the top of the water.",
+        "name": "Add the chicken breast to a pot with enough water to cover it. Season with salt and pepper. Bring the water to a boil, discarding any scum on the top of the water.",
+        "url": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the chicken simmer for about 15 minutes or until fully cooked through.",
+        "name": "Let the chicken simmer for about 15 minutes or until fully cooked through.",
+        "url": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow the chicken breast to cool for 5-10 minutes, then slice.",
+        "name": "Allow the chicken breast to cool for 5-10 minutes, then slice.",
+        "url": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the salad by plating the spring mix, chicken, and tonnato sauce.",
+        "name": "Prepare the salad by plating the spring mix, chicken, and tonnato sauce.",
+        "url": "https://www.ruled.me/easy-keto-chicken-tonnato/#wprm-recipe-60124-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/10/easy-keto-chicken-tonnato-step-05.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, dairy-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, poultry, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "551 kcal",
+      "fatContent": "39.3 g",
+      "proteinContent": "43.7 g",
+      "carbohydrateContent": "2.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/easy-keto-chicken-tonnato/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/easy-keto-chicken-tonnato/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/easy-keto-chicken-tonnato/"
+  },
+  "sourceIndex": {
+    "id": 60125,
+    "rid": 60124,
+    "t": "Easy Keto Chicken Tonnato",
+    "u": "/easy-keto-chicken-tonnato/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/a9ba5dacb6492e18c45ef0c207b891fd-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 2.9,
+    "cal": 551,
+    "pr": 43.7,
+    "fa": 39.3,
+    "tm": 25,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 13,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2026-10-27",
+    "cm": 0,
+    "ex": "This Easy Keto Chicken Tonnato is a refreshing, protein-packed twist on the classic Italian Vitello Tonnato that swaps traditional veal for tender, poached chicken breast. The star of the show is the",
+    "pv": 10
+  },
+  "sourceHtml": "pages/easy-keto-chicken-tonnato.html",
+  "scrapedAt": "2026-11-07T08:14:35.580Z"
+}

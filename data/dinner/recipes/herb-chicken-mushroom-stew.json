@@ -1,0 +1,311 @@
+{
+  "id": "ruled-34672",
+  "slug": "herb-chicken-mushroom-stew",
+  "title": "Herb Chicken and Mushroom Stew",
+  "url": "https://www.ruled.me/herb-chicken-mushroom-stew/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Herb Chicken and Mushroom Stew. Each serving comes out to be 362 calories, 21g fats, 4.4g net carbs, and 38g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT240M",
+  "totalTime": "PT250M",
+  "totalMinutes": 250,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 kcal",
+    "fatContent": "21 g",
+    "proteinContent": "38 g",
+    "carbohydrateContent": "4.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 362,
+    "netCarbsGrams": 4.4,
+    "proteinGrams": 38,
+    "fatGrams": 21
+  },
+  "ingredients": [
+    "24 ounce button mushrooms",
+    "16 ounce chicken tenderloins",
+    "1/2 teaspoon dried basil",
+    "1/2 teaspoon dried oregano",
+    "1/4 teaspoon dried thyme",
+    "3 teaspoon fresh garlic (lightly chopped)",
+    "2 whole bay leaf",
+    "1 cup chicken broth",
+    "salt and pepper",
+    "2 tablespoon butter",
+    "1/4 cup heavy whipping cream",
+    "1/4 cup fresh basil (chopped)",
+    "8 slice cooked bacon (crumbled)"
+  ],
+  "instructions": [
+    {
+      "text": "Wash all of the mushrooms. I like to take the stems off of the larger ones, but I also include them. Cut all of the chicken tenders into bite size pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-00.jpg"
+    },
+    {
+      "text": "Place the mushrooms into the slow cooker.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-01.jpg"
+    },
+    {
+      "text": "Add the chicken, basil, oregano, thyme, garlic, bay leaves, and chicken broth. Season well with salt and pepper. Cover and cook for 3-4 hours on the low setting.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-03.jpg"
+    },
+    {
+      "text": "Mix in the two tablespoons of butter and heavy whipping cream. Taste and add additional salt and pepper if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-04.jpg"
+    },
+    {
+      "text": "Serve with crumbled bacon and parsley.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/3cbb4f6b855c5f08ec10536b.jpg",
+      "archived": true,
+      "originalPath": "images/3cbb4f6b855c5f08ec10536b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-featured.jpg",
+      "path": "images/d2b4fa9009e4a6ff61448c4d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-00.jpg",
+      "path": "../../nenaudojama/dinner/images/7e4d91322affae9868a80026.jpg",
+      "archived": true,
+      "originalPath": "images/7e4d91322affae9868a80026.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-01.jpg",
+      "path": "../../nenaudojama/dinner/images/184c92f856636f0e5c7178b7.jpg",
+      "archived": true,
+      "originalPath": "images/184c92f856636f0e5c7178b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-03.jpg",
+      "path": "../../nenaudojama/dinner/images/6dde93095993a10a90928768.jpg",
+      "archived": true,
+      "originalPath": "images/6dde93095993a10a90928768.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-04.jpg",
+      "path": "../../nenaudojama/dinner/images/5fcb39a7bf0c908de6f78eec.jpg",
+      "archived": true,
+      "originalPath": "images/5fcb39a7bf0c908de6f78eec.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-second.jpg",
+      "path": "../../nenaudojama/dinner/images/9c52c6f162eb32314bbd202c.jpg",
+      "archived": true,
+      "originalPath": "images/9c52c6f162eb32314bbd202c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/6b7b06de04d9a5c0234cc823.jpg",
+      "archived": true,
+      "originalPath": "images/6b7b06de04d9a5c0234cc823.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-00-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e822bee65ff5bf68cb595ea8.jpg",
+      "archived": true,
+      "originalPath": "images/e822bee65ff5bf68cb595ea8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/79c982b6d2808d3add3e7182.jpg",
+      "archived": true,
+      "originalPath": "images/79c982b6d2808d3add3e7182.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8081435a877540e1f78db126.jpg",
+      "archived": true,
+      "originalPath": "images/8081435a877540e1f78db126.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dfa191cf93f7521b05738511.jpg",
+      "archived": true,
+      "originalPath": "images/dfa191cf93f7521b05738511.jpg"
+    }
+  ],
+  "featuredImage": "images/d2b4fa9009e4a6ff61448c4d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Herb Chicken and Mushroom Stew",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Herb Chicken and Mushroom Stew. Each serving comes out to be 362 calories, 21g fats, 4.4g net carbs, and 38g protein.",
+    "datePublished": "2017-12-12T12:00:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT240M",
+    "totalTime": "PT250M",
+    "recipeIngredient": [
+      "24 ounce button mushrooms",
+      "16 ounce chicken tenderloins",
+      "1/2 teaspoon dried basil",
+      "1/2 teaspoon dried oregano",
+      "1/4 teaspoon dried thyme",
+      "3 teaspoon fresh garlic (lightly chopped)",
+      "2 whole bay leaf",
+      "1 cup chicken broth",
+      "salt and pepper",
+      "2 tablespoon butter",
+      "1/4 cup heavy whipping cream",
+      "1/4 cup fresh basil (chopped)",
+      "8 slice cooked bacon (crumbled)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash all of the mushrooms. I like to take the stems off of the larger ones, but I also include them. Cut all of the chicken tenders into bite size pieces.",
+        "name": "Wash all of the mushrooms. I like to take the stems off of the larger ones, but I also include them. Cut all of the chicken tenders into bite size pieces.",
+        "url": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-00.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the mushrooms into the slow cooker.",
+        "name": "Place the mushrooms into the slow cooker.",
+        "url": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken, basil, oregano, thyme, garlic, bay leaves, and chicken broth. Season well with salt and pepper. Cover and cook for 3-4 hours on the low setting.",
+        "name": "Add the chicken, basil, oregano, thyme, garlic, bay leaves, and chicken broth. Season well with salt and pepper. Cover and cook for 3-4 hours on the low setting.",
+        "url": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the two tablespoons of butter and heavy whipping cream. Taste and add additional salt and pepper if needed.",
+        "name": "Mix in the two tablespoons of butter and heavy whipping cream. Taste and add additional salt and pepper if needed.",
+        "url": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with crumbled bacon and parsley.",
+        "name": "Serve with crumbled bacon and parsley.",
+        "url": "https://www.ruled.me/herb-chicken-mushroom-stew/#wprm-recipe-52377-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, fall, gluten-free, high-protein, keto, low-carb, nut-free, poultry, simple-and-easy, slow cooker, sugar-free, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "362 kcal",
+      "fatContent": "21 g",
+      "proteinContent": "38 g",
+      "carbohydrateContent": "4.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/herb-chicken-mushroom-stew/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/herb-chicken-mushroom-stew/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/herb-chicken-mushroom-stew/"
+  },
+  "sourceIndex": {
+    "id": 34672,
+    "rid": 52377,
+    "t": "Herb Chicken and Mushroom Stew",
+    "u": "/herb-chicken-mushroom-stew/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/herbed-mushroom-chicken-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.4,
+    "cal": 362,
+    "pr": 38,
+    "fa": 21,
+    "tm": 250,
+    "sv": 5,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2017-12-12",
+    "cm": 16,
+    "ex": "The easiest way to get dinner on the table is to throw everything into your slow cooker and forget about it for a few hours. That's the basis of this herb chicken and mushroom stew recipe. It's",
+    "pv": 321
+  },
+  "sourceHtml": "pages/herb-chicken-mushroom-stew.html",
+  "scrapedAt": "2026-11-07T08:27:44.639Z"
+}

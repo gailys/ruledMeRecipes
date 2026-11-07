@@ -1,0 +1,253 @@
+{
+  "id": "ruled-40075",
+  "slug": "dairy-free-dark-chocolate-shake",
+  "title": "Dairy-Free Dark Chocolate Shake",
+  "url": "https://www.ruled.me/dairy-free-dark-chocolate-shake/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Dairy-Free Dark Chocolate Shake. Each serving comes out to be 401 calories, 39.4g fats, 8.1g net carbs, and 7g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "401 kcal",
+    "fatContent": "39.4 g",
+    "proteinContent": "7 g",
+    "carbohydrateContent": "8.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 401,
+    "netCarbsGrams": 8.1,
+    "proteinGrams": 7,
+    "fatGrams": 39.4
+  },
+  "ingredients": [
+    "1 ounce low-carb dark chocolate",
+    "2 tablespoon hemp seeds",
+    "2 tablespoon powdered erythritol (to taste)",
+    "1 tablespoon cocoa powder",
+    "1/2 cup coconut cream (chilled)",
+    "1/2 medium avocado",
+    "1/2 cup unsweetened almond milk",
+    "1 cup ice cubes",
+    "sea salt (flaked to garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "In a high-powered blender, pulse the dark chocolate cacao powder, sweetener, and hulled hemp seeds to chop the chocolate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#wprm-recipe-52958-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-01.jpg"
+    },
+    {
+      "text": "Add the rest of the ingredients to the blender cup and blend until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#wprm-recipe-52958-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-03.jpg"
+    },
+    {
+      "text": "Divide into 1-cup servings and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#wprm-recipe-52958-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/b2299ab0e195e8361148ed41.avif",
+      "archived": true,
+      "originalPath": "images/b2299ab0e195e8361148ed41.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-featured.jpg",
+      "path": "images/3c124e8d382aa0a8f5d1fad1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/644a50a20faa6cfb26f88bd3.jpg",
+      "archived": true,
+      "originalPath": "images/644a50a20faa6cfb26f88bd3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/eb6ff828d2a62f6c05907d1d.jpg",
+      "archived": true,
+      "originalPath": "images/eb6ff828d2a62f6c05907d1d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/0af4fb23aa62d58157e8b51b.jpg",
+      "archived": true,
+      "originalPath": "images/0af4fb23aa62d58157e8b51b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/6681d5d9ccdb7c3fb99ced4b.jpg",
+      "archived": true,
+      "originalPath": "images/6681d5d9ccdb7c3fb99ced4b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0b13c6cded447e31d508c206.avif",
+      "archived": true,
+      "originalPath": "images/0b13c6cded447e31d508c206.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4e22caebe9d263f8ef5763c9.jpg",
+      "archived": true,
+      "originalPath": "images/4e22caebe9d263f8ef5763c9.jpg"
+    }
+  ],
+  "featuredImage": "images/3c124e8d382aa0a8f5d1fad1.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Dairy-Free Dark Chocolate Shake",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Dairy-Free Dark Chocolate Shake. Each serving comes out to be 401 calories, 39.4g fats, 8.1g net carbs, and 7g protein.",
+    "datePublished": "2019-04-09T11:00:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "1 ounce low-carb dark chocolate",
+      "2 tablespoon hemp seeds",
+      "2 tablespoon powdered erythritol (to taste)",
+      "1 tablespoon cocoa powder",
+      "1/2 cup coconut cream (chilled)",
+      "1/2 medium avocado",
+      "1/2 cup unsweetened almond milk",
+      "1 cup ice cubes",
+      "sea salt (flaked to garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a high-powered blender, pulse the dark chocolate cacao powder, sweetener, and hulled hemp seeds to chop the chocolate.",
+        "name": "In a high-powered blender, pulse the dark chocolate cacao powder, sweetener, and hulled hemp seeds to chop the chocolate.",
+        "url": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#wprm-recipe-52958-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the rest of the ingredients to the blender cup and blend until smooth.",
+        "name": "Add the rest of the ingredients to the blender cup and blend until smooth.",
+        "url": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#wprm-recipe-52958-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide into 1-cup servings and enjoy!",
+        "name": "Divide into 1-cup servings and enjoy!",
+        "url": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#wprm-recipe-52958-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, dairy-free, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "401 kcal",
+      "fatContent": "39.4 g",
+      "proteinContent": "7 g",
+      "carbohydrateContent": "8.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/dairy-free-dark-chocolate-shake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/dairy-free-dark-chocolate-shake/"
+  },
+  "sourceIndex": {
+    "id": 40075,
+    "rid": 52958,
+    "t": "Dairy-Free Dark Chocolate Shake",
+    "u": "/dairy-free-dark-chocolate-shake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/03/dairy-free-dark-chocolate-shake-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 8.1,
+    "cal": 401,
+    "pr": 7,
+    "fa": 39.4,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2019-04-09",
+    "cm": 5,
+    "ex": "On a typical weekday, we may not always have time to enjoy a satisfying breakfast. Busy schedules and on-the-go mornings can leave you without enough time to whip up a keto breakfast. Those are the",
+    "pv": 289
+  },
+  "sourceHtml": "pages/dairy-free-dark-chocolate-shake.html",
+  "scrapedAt": "2026-11-07T08:11:12.598Z"
+}

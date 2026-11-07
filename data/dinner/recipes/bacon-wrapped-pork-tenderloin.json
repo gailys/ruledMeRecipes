@@ -1,0 +1,389 @@
+{
+  "id": "ruled-9300",
+  "slug": "bacon-wrapped-pork-tenderloin",
+  "title": "Bacon Wrapped Pork Tenderloin",
+  "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Bacon Wrapped Pork Tenderloin. Each serving comes out to be 475 calories, 29.6g fats, 1.3g net carbs, and 47.5g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT180M",
+  "cookTime": "PT60M",
+  "totalTime": "PT240M",
+  "totalMinutes": 240,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "475 kcal",
+    "fatContent": "29.6 g",
+    "proteinContent": "47.5 g",
+    "carbohydrateContent": "1.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 475,
+    "netCarbsGrams": 1.3,
+    "proteinGrams": 47.5,
+    "fatGrams": 29.6
+  },
+  "ingredients": [
+    "2 tablespoon dijon mustard",
+    "2 tablespoon low-carb maple syrup",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "1 teaspoon fresh garlic (minced)",
+    "1 teaspoon liquid smoke",
+    "1 teaspoon dried rosemary",
+    "1/4 teaspoon black pepper",
+    "1/4 teaspoon cayenne pepper",
+    "1/4 teaspoon dried sage",
+    "34 ounce pork tenderloin",
+    "10 ounce bacon"
+  ],
+  "instructions": [
+    {
+      "text": "Mix together dijon mustard, low carb maple syrup, soy sauce, minced garlic, liquid smoke, dried rosemary, black pepper, cayenne, and dried sage.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin01.jpg"
+    },
+    {
+      "text": "Get the pork tenderloins out and pat them dry with paper towels.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Add the pork tenderloins to a Ziploc bag.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Pour the marinade into the Ziploc bag and spread the marinade onto the tenderloins. Make sure every inch of tenderloin gets some of the marinade. Put this in the fridge for 3-5 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin04.jpg"
+    },
+    {
+      "text": "Remove the pork tenderloins from the fridge once time is up and preheat the oven to 350F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin05.jpg"
+    },
+    {
+      "text": "On a foiled baking sheet, wrap your tenderloins in bacon. For me, this was about 5 slices per tenderloin.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin07.jpg"
+    },
+    {
+      "text": "Bake the tenderloins for 60 minutes, and then broil the bacon on the outside for 5-10 minutes. Be careful that the bacon doesn’t burn.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin08.jpg"
+    },
+    {
+      "text": "Wrap the tenderloins in the foil on the baking sheet and let rest for 10-15 minutes. Slice and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "make-ahead",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/52f4d80b90aadaebc1766a7e.avif",
+      "archived": true,
+      "originalPath": "images/52f4d80b90aadaebc1766a7e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin-featured.jpg",
+      "path": "images/dfc120dfed966d4abea6b50e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin01.jpg",
+      "path": "../../nenaudojama/dinner/images/6e02683d029630af1f1d8f14.jpg",
+      "archived": true,
+      "originalPath": "images/6e02683d029630af1f1d8f14.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin04.jpg",
+      "path": "../../nenaudojama/dinner/images/f9060b45ee971d9f330d8b9b.jpg",
+      "archived": true,
+      "originalPath": "images/f9060b45ee971d9f330d8b9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin05.jpg",
+      "path": "../../nenaudojama/dinner/images/a5d2af2e1da13ce8c41fdb69.jpg",
+      "archived": true,
+      "originalPath": "images/a5d2af2e1da13ce8c41fdb69.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin07.jpg",
+      "path": "../../nenaudojama/dinner/images/ef58f64d0f5e8e9e16b38b1f.jpg",
+      "archived": true,
+      "originalPath": "images/ef58f64d0f5e8e9e16b38b1f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin08.jpg",
+      "path": "../../nenaudojama/dinner/images/b0092039566c5a18c9aef8bc.jpg",
+      "archived": true,
+      "originalPath": "images/b0092039566c5a18c9aef8bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/cbb84c6b6116bfbbfaccfa7e.jpg",
+      "archived": true,
+      "originalPath": "images/cbb84c6b6116bfbbfaccfa7e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9da2b21e891d63a609ddfa2a.avif",
+      "archived": true,
+      "originalPath": "images/9da2b21e891d63a609ddfa2a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/91119b50ee5fa57a61036ae5.avif",
+      "archived": true,
+      "originalPath": "images/91119b50ee5fa57a61036ae5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bc348bcc3854858809b242c5.avif",
+      "archived": true,
+      "originalPath": "images/bc348bcc3854858809b242c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c469ff7ba7d33a4205348004.avif",
+      "archived": true,
+      "originalPath": "images/c469ff7ba7d33a4205348004.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0de7ce2f05a93c8d7ab0735b.avif",
+      "archived": true,
+      "originalPath": "images/0de7ce2f05a93c8d7ab0735b.avif"
+    }
+  ],
+  "featuredImage": "images/dfc120dfed966d4abea6b50e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon Wrapped Pork Tenderloin",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 5 servings of Bacon Wrapped Pork Tenderloin. Each serving comes out to be 475 calories, 29.6g fats, 1.3g net carbs, and 47.5g protein.",
+    "datePublished": "2014-02-19T20:11:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin-featured.jpg"
+    ],
+    "video": {
+      "name": "Bacon Wrapped Pork Tenderloin [Great Low-Carb Dinner]",
+      "description": "Pork wrapped in pork and then topped with some pork. Sounds like a good idea, right? Well it is! The mustard tones that come through in the marinade really give a taste that’ll keep you coming back. The deep flavors that get imparted in both the bacon and the tenderloin are fantastic, and the twang of the mustard slightly comes through after each few bites.\n\nSince this is a higher protein meal, I recommend serving with roasted vegetables in olive oil. Brussels sprouts, cauliflower, or broccoli would go great with this! Even cauliflower mash could make a fantastic high-fat side.\n\nThough I used sugar free maple syrup, feel free to omit this. I wanted that brown sugar taste from the maple, and it certainly came through – Torani and Walden Farms does a great job with their flavorings and if you haven’t tried them yet I suggest you give them a go! There are plenty of other maple syrup alternatives out there nowadays, so you can use any of those if you already have them in your pantry as well.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2.2 pounds pork tenderloins*\n10 slices bacon\n2 tablespoons Dijon mustard\n2 tablespoons Sugar Free Maple Syrup\n1 tablespoon soy sauce\n1 teaspoon minced garlic\n1 teaspoon liquid smoke\n1 teaspoon dried rosemary\n¼ teaspoon black pepper\n¼ teaspoon cayenne\n¼ teaspoon dried sage\n\n*You can use an 2-3 pounds of pork tenderloin(s), just make sure to adjust cook time and macros as needed.\n\nNutrition Summary: Each serving has 334 Calories, 16g Fats, 0.2g Net Carbs, and 43.2g Protein. So, make sure you serve up with something fatty like Bacon Jam and a side of Bacon Infused Snap Peas.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-03-30T16:00:24+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M21S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 2946
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 159
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 7
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cjfWW8oYeTs/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/cjfWW8oYeTs?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=cjfWW8oYeTs",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT180M",
+    "cookTime": "PT60M",
+    "totalTime": "PT240M",
+    "recipeIngredient": [
+      "2 tablespoon dijon mustard",
+      "2 tablespoon low-carb maple syrup",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "1 teaspoon fresh garlic (minced)",
+      "1 teaspoon liquid smoke",
+      "1 teaspoon dried rosemary",
+      "1/4 teaspoon black pepper",
+      "1/4 teaspoon cayenne pepper",
+      "1/4 teaspoon dried sage",
+      "34 ounce pork tenderloin",
+      "10 ounce bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix together dijon mustard, low carb maple syrup, soy sauce, minced garlic, liquid smoke, dried rosemary, black pepper, cayenne, and dried sage.",
+        "name": "Mix together dijon mustard, low carb maple syrup, soy sauce, minced garlic, liquid smoke, dried rosemary, black pepper, cayenne, and dried sage.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Get the pork tenderloins out and pat them dry with paper towels.",
+        "name": "Get the pork tenderloins out and pat them dry with paper towels.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pork tenderloins to a Ziploc bag.",
+        "name": "Add the pork tenderloins to a Ziploc bag.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the marinade into the Ziploc bag and spread the marinade onto the tenderloins. Make sure every inch of tenderloin gets some of the marinade. Put this in the fridge for 3-5 hours.",
+        "name": "Pour the marinade into the Ziploc bag and spread the marinade onto the tenderloins. Make sure every inch of tenderloin gets some of the marinade. Put this in the fridge for 3-5 hours.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pork tenderloins from the fridge once time is up and preheat the oven to 350F.",
+        "name": "Remove the pork tenderloins from the fridge once time is up and preheat the oven to 350F.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a foiled baking sheet, wrap your tenderloins in bacon. For me, this was about 5 slices per tenderloin.",
+        "name": "On a foiled baking sheet, wrap your tenderloins in bacon. For me, this was about 5 slices per tenderloin.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the tenderloins for 60 minutes, and then broil the bacon on the outside for 5-10 minutes. Be careful that the bacon doesn’t burn.",
+        "name": "Bake the tenderloins for 60 minutes, and then broil the bacon on the outside for 5-10 minutes. Be careful that the bacon doesn’t burn.",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wrap the tenderloins in the foil on the baking sheet and let rest for 10-15 minutes. Slice and serve!",
+        "name": "Wrap the tenderloins in the foil on the baking sheet and let rest for 10-15 minutes. Slice and serve!",
+        "url": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#wprm-recipe-50593-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, egg-free, high-fat, high-protein, keto, low-carb, make-ahead, nut-free, oven-baked, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "475 kcal",
+      "fatContent": "29.6 g",
+      "proteinContent": "47.5 g",
+      "carbohydrateContent": "1.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-wrapped-pork-tenderloin/"
+  },
+  "sourceIndex": {
+    "id": 9300,
+    "rid": 50593,
+    "t": "Bacon Wrapped Pork Tenderloin",
+    "u": "/bacon-wrapped-pork-tenderloin/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/bacon-wrapped-tenderloin-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.3,
+    "cal": 475,
+    "pr": 47.5,
+    "fa": 29.6,
+    "tm": 240,
+    "sv": 5,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "make-ahead",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-02-19",
+    "cm": 6,
+    "ex": "Pork wrapped in pork and then topped with some pork. Sounds like a good idea, right? Well it is! The mustard tones that come through in the marinade really give a taste that'll keep you coming back",
+    "pv": 362
+  },
+  "sourceHtml": "pages/bacon-wrapped-pork-tenderloin.html",
+  "scrapedAt": "2026-11-07T08:27:45.185Z"
+}

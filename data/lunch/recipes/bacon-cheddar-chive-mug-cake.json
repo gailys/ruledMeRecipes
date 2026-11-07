@@ -1,0 +1,381 @@
+{
+  "id": "ruled-11607",
+  "slug": "bacon-cheddar-chive-mug-cake",
+  "title": "Bacon, Cheddar, and Chive Mug Cake",
+  "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Bacon, Cheddar, and Chive Mug Cake. The serving comes out to be 586 calories, 54.2g fats, 3.5g net carbs, and 21.1g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT1M",
+  "totalTime": "PT6M",
+  "totalMinutes": 6,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "586 kcal",
+    "fatContent": "54.2 g",
+    "proteinContent": "21.1 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 586,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 21.1,
+    "fatGrams": 54.2
+  },
+  "ingredients": [
+    "1 large egg",
+    "2 tablespoon butter (room temperature)",
+    "2 tablespoon almond flour",
+    "1/2 teaspoon baking powder",
+    "2 slice cooked bacon (chopped)",
+    "1 tablespoon almond flour",
+    "1 tablespoon cheddar cheese (shredded)",
+    "1 tablespoon white cheddar cheese (shredded)",
+    "1 tablespoon fresh chives (chopped)",
+    "1/4 teaspoon all-purpose seasoning (such as Mrs. Dash)",
+    "salt (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Get a mug ready! Add in the egg and softened butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4464.jpg"
+    },
+    {
+      "text": "Add the bacon, almond flour (base), chives, and shredded cheeses.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4469.jpg"
+    },
+    {
+      "text": "Mix everything together and then add in the Mrs. Dash.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4473.jpg"
+    },
+    {
+      "text": "Finally, add the remaining almond flour (for the topping), baking powder, and a pinch of salt. Mix everything well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4475.jpg"
+    },
+    {
+      "text": "Microwave for 65 seconds on high (power level 10).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4488.jpg"
+    },
+    {
+      "text": "Lightly tap the mug against a plate to slide it out.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddarbig.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddar.jpg",
+      "path": "images/3878b389742b6f1b47fc6cfc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4464.jpg",
+      "path": "../../nenaudojama/lunch/images/7681ac3605b432045dbb11ac.avif",
+      "archived": true,
+      "originalPath": "images/7681ac3605b432045dbb11ac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4469.jpg",
+      "path": "../../nenaudojama/lunch/images/6b3ec33af899b29393b5a356.avif",
+      "archived": true,
+      "originalPath": "images/6b3ec33af899b29393b5a356.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4473.jpg",
+      "path": "../../nenaudojama/lunch/images/426cd04f306e25a8bcdf32f7.avif",
+      "archived": true,
+      "originalPath": "images/426cd04f306e25a8bcdf32f7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4475.jpg",
+      "path": "../../nenaudojama/lunch/images/40c4bc99d7a8d1ec95151520.jpg",
+      "archived": true,
+      "originalPath": "images/40c4bc99d7a8d1ec95151520.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4488.jpg",
+      "path": "../../nenaudojama/lunch/images/472b5288389291dfd08f6c69.jpg",
+      "archived": true,
+      "originalPath": "images/472b5288389291dfd08f6c69.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddarbig.jpg",
+      "path": "../../nenaudojama/lunch/images/4f817afa1f497d84ce0e4651.avif",
+      "archived": true,
+      "originalPath": "images/4f817afa1f497d84ce0e4651.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddarsecond.jpg",
+      "path": "../../nenaudojama/lunch/images/689a9d7c2d5478684777ecf0.avif",
+      "archived": true,
+      "originalPath": "images/689a9d7c2d5478684777ecf0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4464-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3dfb461e451d2cc17d364ff6.avif",
+      "archived": true,
+      "originalPath": "images/3dfb461e451d2cc17d364ff6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4469-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d0183aa4edb9921312cec21d.avif",
+      "archived": true,
+      "originalPath": "images/d0183aa4edb9921312cec21d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4473-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ca77c4e5f964ad0a2634be2d.jpg",
+      "archived": true,
+      "originalPath": "images/ca77c4e5f964ad0a2634be2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4475-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/15021ded7d23b84d331f3ebb.jpg",
+      "archived": true,
+      "originalPath": "images/15021ded7d23b84d331f3ebb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4488-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c8912ef6492814a2fca999b9.avif",
+      "archived": true,
+      "originalPath": "images/c8912ef6492814a2fca999b9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddarbig-228x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d579eac39dd2dd556afa1ca5.avif",
+      "archived": true,
+      "originalPath": "images/d579eac39dd2dd556afa1ca5.avif"
+    }
+  ],
+  "featuredImage": "images/3878b389742b6f1b47fc6cfc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon, Cheddar, and Chive Mug Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Bacon, Cheddar, and Chive Mug Cake. The serving comes out to be 586 calories, 54.2g fats, 3.5g net carbs, and 21.1g protein.",
+    "datePublished": "2014-03-19T16:00:36+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddar.jpg"
+    ],
+    "video": {
+      "name": "Easy Keto Savory Mug Cake [Bacon, Cheddar, Chive]",
+      "description": "When you think of a mug cake, you might think of one of the sweeter options. But, savory mug cakes can be made too! Not to mention, they’re pretty freakin’ awesome. Cheese really helps these things out with the texture too. It gives a more moist, more delicious, more hearty and filling keto fat bomb that you can actually use to replace a full meal – breakfast or lunch!\n\nThe delicious bacon, the butter, the cheese all coming together with flavorings from the chives and Mrs. Dash Table Blend. I used to be a hater of pre-made spice mixes but this one is actually awesome! It’s one of the few I regularly keep around because it compliments almost any dish. Vegetables, meat, seafood – sprinkle it on top of anything you’re cooking or sauteing and you have yourself a nicely seasoned meal. Of course, don’t forget the salt and pepper – this is salt free.\n\nI literally always have some sort of bacon cooked in my house, whether it’s chocolate covered, spice rubbed, cured, or the good ol’ plain stuff. I suggest you do the same! Cook up 2 baking sheets worth (that’s about 20-24 slices) and keep them in the fridge, ready to go at all times. Don’t forget to save the bacon fat off of those either, it’s a perfect way to render a ton of fat and keep it for your own personal uses. This stuff is like gold in my house, and when I see it disappear I know someone’s getting a lecture about it.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nBase\n1 large egg\n2 tablespoons butter\n3 tablespoons almond flour\n½ teaspoon baking powder\n\nFlavor\n2 slices pre-cooked bacon, chopped\n1 tablespoon shredded cheddar\n1 tablespoon shredded white cheddar\n1 tablespoon chopped chives\n¼ teaspoon Mrs. Dash Table Blend\nPinch of salt\n\nNutrition Summary: Per serving this is 546 Calories, 49.5g Fats, 4g Net Carbs, and 20.1g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-07-02T15:00:39+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 3802
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 231
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 16
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/y-6Hzhqucv0/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/y-6Hzhqucv0?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=y-6Hzhqucv0",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT1M",
+    "totalTime": "PT6M",
+    "recipeIngredient": [
+      "1 large egg",
+      "2 tablespoon butter (room temperature)",
+      "2 tablespoon almond flour",
+      "1/2 teaspoon baking powder",
+      "2 slice cooked bacon (chopped)",
+      "1 tablespoon almond flour",
+      "1 tablespoon cheddar cheese (shredded)",
+      "1 tablespoon white cheddar cheese (shredded)",
+      "1 tablespoon fresh chives (chopped)",
+      "1/4 teaspoon all-purpose seasoning (such as Mrs. Dash)",
+      "salt (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get a mug ready! Add in the egg and softened butter.",
+        "name": "Get a mug ready! Add in the egg and softened butter.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4464.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the bacon, almond flour (base), chives, and shredded cheeses.",
+        "name": "Add the bacon, almond flour (base), chives, and shredded cheeses.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4469.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything together and then add in the Mrs. Dash.",
+        "name": "Mix everything together and then add in the Mrs. Dash.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4473.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, add the remaining almond flour (for the topping), baking powder, and a pinch of salt. Mix everything well.",
+        "name": "Finally, add the remaining almond flour (for the topping), baking powder, and a pinch of salt. Mix everything well.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4475.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Microwave for 65 seconds on high (power level 10).",
+        "name": "Microwave for 65 seconds on high (power level 10).",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4488.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lightly tap the mug against a plate to slide it out.",
+        "name": "Lightly tap the mug against a plate to slide it out.",
+        "url": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#wprm-recipe-50965-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddarbig.jpg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "This is my go to for brunch, when I have not eaten breakfast, and has been for years!",
+        "author": {
+          "@type": "Person",
+          "name": "Kat"
+        },
+        "datePublished": "2025-08-25"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, pork, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "586 kcal",
+      "fatContent": "54.2 g",
+      "proteinContent": "21.1 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-cheddar-chive-mug-cake/"
+  },
+  "sourceIndex": {
+    "id": 11607,
+    "rid": 50965,
+    "t": "Bacon, Cheddar and Chive Mug Cake",
+    "u": "/bacon-cheddar-chive-mug-cake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/chivebaconcheddar.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 586,
+    "pr": 21.1,
+    "fa": 54.2,
+    "tm": 6,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 11,
+    "fk": [
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-03-19",
+    "cm": 25,
+    "ex": "When you think of a mug cake, you might think of one of the sweeter options. But, savory mug cakes can be made too! Not to mention, they're pretty freakin' awesome. Cheese really helps these things",
+    "pv": 624
+  },
+  "sourceHtml": "pages/bacon-cheddar-chive-mug-cake.html",
+  "scrapedAt": "2026-11-07T08:18:14.469Z"
+}

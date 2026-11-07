@@ -1,0 +1,293 @@
+{
+  "id": "ruled-60009",
+  "slug": "low-carb-apple-cinnamon-breakfast-bars",
+  "title": "Low Carb Apple Cinnamon Breakfast Bars",
+  "url": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Low Carb Apple Cinnamon Breakfast Bars. Each serving comes out to be 163 calories, 14.6g fats, 4g net carbs, and 1.9g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT45M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "fatContent": "14.6 g",
+    "proteinContent": "1.9 g",
+    "carbohydrateContent": "4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 163,
+    "netCarbsGrams": 4,
+    "proteinGrams": 1.9,
+    "fatGrams": 14.6
+  },
+  "ingredients": [
+    "1 cup water",
+    "1 cup pecans",
+    "1/4 cup coconut butter",
+    "1/4 cup freeze dried apples",
+    "2 tablespoon erythritol",
+    "1 tablespoon psyllium husk powder",
+    "2 teaspoon pumpkin pie spice",
+    "1 1/2 teaspoon baking powder",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat the oven to 350F and grease a baking dish. Gather the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-01.jpg"
+    },
+    {
+      "text": "Add all of the ingredients to a food processor, then puree until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-02.jpg"
+    },
+    {
+      "text": "Pour into the baking dish and bake for 40-45 minutes. To test for doneness, insert a toothpick or tester. When the dish is done, the tester will come out clean.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-03.jpg"
+    },
+    {
+      "text": "Cool the bars completely. Cut into serving sized pieces and enjoy. Note: these bars must be cool before attempting to cut and remove from the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-04.jpg"
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "oven-baked",
+    "meal-prep",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/ebeb38d55acf9e0191d5db9b.jpg",
+      "archived": true,
+      "originalPath": "images/ebeb38d55acf9e0191d5db9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6.jpg",
+      "path": "images/0892f410f75b2fe735a3853c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e1dafdad98127bee1d7ca7e.jpg",
+      "archived": true,
+      "originalPath": "images/3e1dafdad98127bee1d7ca7e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/081845b3000aac5afd845b6c.jpg",
+      "archived": true,
+      "originalPath": "images/081845b3000aac5afd845b6c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/49aeee1764fd21738e45c8f3.jpg",
+      "archived": true,
+      "originalPath": "images/49aeee1764fd21738e45c8f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/201fc2a774c82d5cfd3ed75d.jpg",
+      "archived": true,
+      "originalPath": "images/201fc2a774c82d5cfd3ed75d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/edcf2bba962574ad6b3683c4.jpg",
+      "archived": true,
+      "originalPath": "images/edcf2bba962574ad6b3683c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/691bc6cc7d5f577915bbc7a2.jpg",
+      "archived": true,
+      "originalPath": "images/691bc6cc7d5f577915bbc7a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f2dd7f4938d9c11fabe247eb.jpg",
+      "archived": true,
+      "originalPath": "images/f2dd7f4938d9c11fabe247eb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c3accc57cc342d0bdbf06119.jpg",
+      "archived": true,
+      "originalPath": "images/c3accc57cc342d0bdbf06119.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-04-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6848c8834b98fc909098ea87.jpg",
+      "archived": true,
+      "originalPath": "images/6848c8834b98fc909098ea87.jpg"
+    }
+  ],
+  "featuredImage": "images/0892f410f75b2fe735a3853c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Apple Cinnamon Breakfast Bars",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Low Carb Apple Cinnamon Breakfast Bars. Each serving comes out to be 163 calories, 14.6g fats, 4g net carbs, and 1.9g protein.",
+    "datePublished": "2026-03-05T10:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6-480x270.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT45M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "1 cup water",
+      "1 cup pecans",
+      "1/4 cup coconut butter",
+      "1/4 cup freeze dried apples",
+      "2 tablespoon erythritol",
+      "1 tablespoon psyllium husk powder",
+      "2 teaspoon pumpkin pie spice",
+      "1 1/2 teaspoon baking powder",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350F and grease a baking dish. Gather the ingredients.",
+        "name": "Preheat the oven to 350F and grease a baking dish. Gather the ingredients.",
+        "url": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the ingredients to a food processor, then puree until smooth.",
+        "name": "Add all of the ingredients to a food processor, then puree until smooth.",
+        "url": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into the baking dish and bake for 40-45 minutes. To test for doneness, insert a toothpick or tester. When the dish is done, the tester will come out clean.",
+        "name": "Pour into the baking dish and bake for 40-45 minutes. To test for doneness, insert a toothpick or tester. When the dish is done, the tester will come out clean.",
+        "url": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cool the bars completely. Cut into serving sized pieces and enjoy. \r\nNote: these bars must be cool before attempting to cut and remove from the pan.",
+        "name": "Cool the bars completely. Cut into serving sized pieces and enjoy. \r\nNote: these bars must be cool before attempting to cut and remove from the pan.",
+        "url": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#wprm-recipe-60008-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/03/low-carb-apple-cinnamon-breakfast-bars-step-04.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, egg-free, fall, gluten-free, keto, low-carb, make-ahead, meal-prep, oven-baked, simple &amp; easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "163 kcal",
+      "fatContent": "14.6 g",
+      "proteinContent": "1.9 g",
+      "carbohydrateContent": "4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-apple-cinnamon-breakfast-bars/"
+  },
+  "sourceIndex": {
+    "id": 60009,
+    "rid": 60008,
+    "t": "Low Carb Apple Cinnamon Breakfast Bars",
+    "u": "/low-carb-apple-cinnamon-breakfast-bars/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/9ba49f0c12eda99fb4c01ba036c9bee6-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4,
+    "cal": 163,
+    "pr": 1.9,
+    "fa": 14.6,
+    "tm": 55,
+    "sv": 8,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "oven-baked",
+      "meal-prep",
+      "make-ahead"
+    ],
+    "d": "2026-03-05",
+    "cm": 0,
+    "ex": "These Low Carb Apple Cinnamon Breakfast Bars are the perfect way to embrace autumnal flavors any time of year while staying perfectly on track with your keto goals. Each bite offers a delightful",
+    "pv": 468
+  },
+  "sourceHtml": "pages/low-carb-apple-cinnamon-breakfast-bars.html",
+  "scrapedAt": "2026-11-07T08:11:11.694Z"
+}

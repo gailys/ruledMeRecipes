@@ -1,0 +1,409 @@
+{
+  "id": "ruled-34765",
+  "slug": "keto-tuna-casserole",
+  "title": "Keto Tuna Casserole",
+  "url": "https://www.ruled.me/keto-tuna-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Tuna Casserole. Each serving comes out to be 270 calories, 23.3g fats, 2.5g net carbs, and 11.3g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M",
+  "totalMinutes": 55,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "270 kcal",
+    "fatContent": "23.3 g",
+    "proteinContent": "11.3 g",
+    "carbohydrateContent": "2.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 270,
+    "netCarbsGrams": 2.5,
+    "proteinGrams": 11.3,
+    "fatGrams": 23.3
+  },
+  "ingredients": [
+    "1 tablespoon butter",
+    "1/4 cup carrot (chopped)",
+    "1/4 cup cremini mushrooms (chopped)",
+    "1/4 cup green onion (chopped)",
+    "1 cup heavy whipping cream",
+    "1/4 teaspoon xanthan gum",
+    "678 gram shirataki noodles",
+    "3/4 cup cheddar cheese (shredded)",
+    "146 gram canned tuna (drained)",
+    "salt and pepper (to taste)",
+    "2 tablespoon almond flour"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Melt the butter in a deep pot on medium.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-01.jpg"
+    },
+    {
+      "text": "Add in the green onions, mushrooms, and carrots.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-02.jpg"
+    },
+    {
+      "text": "Saute the veggies for 3-5 minutes. Sprinkle xanthan gum over the vegetables.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-03.jpg"
+    },
+    {
+      "text": "Quickly add in the cream and stir. It should start thickening immediately, but continue heating until it starts to bubble.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-04.jpg"
+    },
+    {
+      "text": "Drain shirataki noodles and rinse very well. Dry with paper towel. Place the shirataki noodles in a casserole dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-05.jpg"
+    },
+    {
+      "text": "Stir the cream mixture into the noodles.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-06.jpg"
+    },
+    {
+      "text": "Mix in the cheddar cheese and flaked tuna.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-09.jpg"
+    },
+    {
+      "text": "Top the casserole with almond flour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-11-1.jpg"
+    },
+    {
+      "text": "Bake for 35 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-8",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "fish",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "make-ahead",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/541475cf76da823b1a0f293d.avif",
+      "archived": true,
+      "originalPath": "images/541475cf76da823b1a0f293d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-featured.jpg",
+      "path": "images/86af97bb0d3247699e0f0e81.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-01.jpg",
+      "path": "../../nenaudojama/dinner/images/28b189ff3007f72cde8f6520.avif",
+      "archived": true,
+      "originalPath": "images/28b189ff3007f72cde8f6520.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-02.jpg",
+      "path": "../../nenaudojama/dinner/images/a675654d946ef08f4d2c7e8f.avif",
+      "archived": true,
+      "originalPath": "images/a675654d946ef08f4d2c7e8f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-03.jpg",
+      "path": "../../nenaudojama/dinner/images/6452cddfa79d6bf787001d7a.avif",
+      "archived": true,
+      "originalPath": "images/6452cddfa79d6bf787001d7a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-04.jpg",
+      "path": "../../nenaudojama/dinner/images/4d1e3160fa783a5b530c79da.avif",
+      "archived": true,
+      "originalPath": "images/4d1e3160fa783a5b530c79da.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-05.jpg",
+      "path": "../../nenaudojama/dinner/images/8dca94adb28dae2010f135c4.avif",
+      "archived": true,
+      "originalPath": "images/8dca94adb28dae2010f135c4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-06.jpg",
+      "path": "../../nenaudojama/dinner/images/07c519e0b5ddd5059e308366.avif",
+      "archived": true,
+      "originalPath": "images/07c519e0b5ddd5059e308366.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-09.jpg",
+      "path": "../../nenaudojama/dinner/images/9361845f25d9757ce479e6c0.avif",
+      "archived": true,
+      "originalPath": "images/9361845f25d9757ce479e6c0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-11-1.jpg",
+      "path": "../../nenaudojama/dinner/images/3cfe2f9fba9e961d3399a1c7.avif",
+      "archived": true,
+      "originalPath": "images/3cfe2f9fba9e961d3399a1c7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-second.jpg",
+      "path": "../../nenaudojama/dinner/images/f9057d02bf4a6d39c9c19283.avif",
+      "archived": true,
+      "originalPath": "images/f9057d02bf4a6d39c9c19283.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/d13e0fb78e0a727fc437c807.avif",
+      "archived": true,
+      "originalPath": "images/d13e0fb78e0a727fc437c807.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ddc6402d889f64aeeca6836e.jpg",
+      "archived": true,
+      "originalPath": "images/ddc6402d889f64aeeca6836e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ff6d2f1325e09515b1005954.jpg",
+      "archived": true,
+      "originalPath": "images/ff6d2f1325e09515b1005954.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/99f75495ff0010f98c6f5131.avif",
+      "archived": true,
+      "originalPath": "images/99f75495ff0010f98c6f5131.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/507e772c31f9b68dd1e0958e.avif",
+      "archived": true,
+      "originalPath": "images/507e772c31f9b68dd1e0958e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ff6c0732bfae108d4973ead5.jpg",
+      "archived": true,
+      "originalPath": "images/ff6c0732bfae108d4973ead5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/62831e0bb6f9691d54296889.avif",
+      "archived": true,
+      "originalPath": "images/62831e0bb6f9691d54296889.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3d41ddcedba6328436219355.jpg",
+      "archived": true,
+      "originalPath": "images/3d41ddcedba6328436219355.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-11-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/72624e3bc09b819bc006bed2.avif",
+      "archived": true,
+      "originalPath": "images/72624e3bc09b819bc006bed2.avif"
+    }
+  ],
+  "featuredImage": "images/86af97bb0d3247699e0f0e81.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Tuna Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Keto Tuna Casserole. Each serving comes out to be 270 calories, 23.3g fats, 2.5g net carbs, and 11.3g protein.",
+    "datePublished": "2017-12-21T12:00:54+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "recipeIngredient": [
+      "1 tablespoon butter",
+      "1/4 cup carrot (chopped)",
+      "1/4 cup cremini mushrooms (chopped)",
+      "1/4 cup green onion (chopped)",
+      "1 cup heavy whipping cream",
+      "1/4 teaspoon xanthan gum",
+      "678 gram shirataki noodles",
+      "3/4 cup cheddar cheese (shredded)",
+      "146 gram canned tuna (drained)",
+      "salt and pepper (to taste)",
+      "2 tablespoon almond flour"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Melt the butter in a deep pot on medium.",
+        "name": "Preheat oven to 350F. Melt the butter in a deep pot on medium.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the green onions, mushrooms, and carrots.",
+        "name": "Add in the green onions, mushrooms, and carrots.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Saute the veggies for 3-5 minutes. Sprinkle xanthan gum over the vegetables.",
+        "name": "Saute the veggies for 3-5 minutes. Sprinkle xanthan gum over the vegetables.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Quickly add in the cream and stir. It should start thickening immediately, but continue heating until it starts to bubble.",
+        "name": "Quickly add in the cream and stir. It should start thickening immediately, but continue heating until it starts to bubble.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain shirataki noodles and rinse very well. Dry with paper towel. Place the shirataki noodles in a casserole dish.",
+        "name": "Drain shirataki noodles and rinse very well. Dry with paper towel. Place the shirataki noodles in a casserole dish.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir the cream mixture into the noodles.",
+        "name": "Stir the cream mixture into the noodles.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the cheddar cheese and flaked tuna.",
+        "name": "Mix in the cheddar cheese and flaked tuna.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the casserole with almond flour.",
+        "name": "Top the casserole with almond flour.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-11-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 35 minutes.",
+        "name": "Bake for 35 minutes.",
+        "url": "https://www.ruled.me/keto-tuna-casserole/#wprm-recipe-52401-step-0-8"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, fish, freezer-friendly, gluten-free, keto, low-carb, make-ahead, oven-baked, stovetop, sugar-free, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "270 kcal",
+      "fatContent": "23.3 g",
+      "proteinContent": "11.3 g",
+      "carbohydrateContent": "2.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-tuna-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-tuna-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-tuna-casserole/"
+  },
+  "sourceIndex": {
+    "id": 34765,
+    "rid": 52401,
+    "t": "Keto Tuna Casserole",
+    "u": "/keto-tuna-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/tuna-casserole-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.5,
+    "cal": 270,
+    "pr": 11.3,
+    "fa": 23.3,
+    "tm": 55,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "fish",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 11,
+    "fk": [
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "make-ahead",
+      "seafood"
+    ],
+    "d": "2017-12-21",
+    "cm": 30,
+    "ex": "Growing up, I ate tuna casserole often. It's probably one of my favorite comfort dinners during the winter season and thankfully it's also super easy to keto-fy! Now, tuna casserole is usually made",
+    "pv": 1063
+  },
+  "sourceHtml": "pages/keto-tuna-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.643Z"
+}

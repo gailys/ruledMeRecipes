@@ -1,0 +1,287 @@
+{
+  "id": "ruled-26297",
+  "slug": "butterscotch-sea-salt-ice-cream",
+  "title": "Salted Butterscotch Ice Cream",
+  "url": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Salted Butterscotch Ice Cream. Each serving comes out to be 256 calories, 23.7g fats, 1.8g net carbs, and 1.2g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "fatContent": "23.7 g",
+    "proteinContent": "1.2 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 256,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 1.2,
+    "fatGrams": 23.7
+  },
+  "ingredients": [
+    "1 cup unsweetened carton coconut milk",
+    "1/4 cup sour cream",
+    "1/4 cup heavy whipping cream",
+    "2 tablespoon vodka (optional)",
+    "2 teaspoon butterscotch extract",
+    "2 tablespoon erythritol",
+    "25 drop liquid stevia",
+    "1 teaspoon sea salt",
+    "1/2 teaspoon xanthan gum",
+    "3 tablespoon butter (browned)"
+  ],
+  "instructions": [
+    {
+      "text": "Add the coconut milk, sour cream, heavy cream, vodka, butterscotch extract, sweetener, liquid stevia, salt, and xanthan gum to a container. Use an immersion blender to blend everything together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8430.jpg"
+    },
+    {
+      "text": "In a pan over low heat, brown the butter until it is a dark amber color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8436.jpg"
+    },
+    {
+      "text": "Add the butter to the ice cream base and use the immersion blender to blend everything together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8439.jpg"
+    },
+    {
+      "text": "Add the ice cream base to an ice cream machine and churn according to the manufacturer's instructions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8443.jpg"
+    },
+    {
+      "text": "Scoop and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/butterscotchseasalticecream.jpg",
+      "path": "images/dd4052df7887c52b115c6ef8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8430.jpg",
+      "path": "../../nenaudojama/dessert/images/e7bbdb384af26235df973619.jpg",
+      "archived": true,
+      "originalPath": "images/e7bbdb384af26235df973619.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8436.jpg",
+      "path": "../../nenaudojama/dessert/images/581190830d1ca17e5b7cf45c.jpg",
+      "archived": true,
+      "originalPath": "images/581190830d1ca17e5b7cf45c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8439.jpg",
+      "path": "../../nenaudojama/dessert/images/64a014aa5fd9ac71f0f7a6d2.jpg",
+      "archived": true,
+      "originalPath": "images/64a014aa5fd9ac71f0f7a6d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8443.jpg",
+      "path": "../../nenaudojama/dessert/images/4ecefa3554f260a7ad675f8d.jpg",
+      "archived": true,
+      "originalPath": "images/4ecefa3554f260a7ad675f8d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/butterscotchseasalticecreamsecond.jpg",
+      "path": "../../nenaudojama/dessert/images/b25b757c995c47dd485b037d.jpg",
+      "archived": true,
+      "originalPath": "images/b25b757c995c47dd485b037d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/butterscotchseasalticecreamlong1.jpg",
+      "path": "../../nenaudojama/dessert/images/d642d00c374097a78bda8c93.jpg",
+      "archived": true,
+      "originalPath": "images/d642d00c374097a78bda8c93.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8430-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/b86856d7e368d0f638b86b6e.jpg",
+      "archived": true,
+      "originalPath": "images/b86856d7e368d0f638b86b6e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8436-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/7f1b50014e1212c2bb5a72b0.jpg",
+      "archived": true,
+      "originalPath": "images/7f1b50014e1212c2bb5a72b0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8439-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e07869eb36f9128dd5172277.jpg",
+      "archived": true,
+      "originalPath": "images/e07869eb36f9128dd5172277.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8443-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/8acfdf761a9b4ac921d9f569.jpg",
+      "archived": true,
+      "originalPath": "images/8acfdf761a9b4ac921d9f569.jpg"
+    }
+  ],
+  "featuredImage": "images/dd4052df7887c52b115c6ef8.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Salted Butterscotch Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Salted Butterscotch Ice Cream. Each serving comes out to be 256 calories, 23.7g fats, 1.8g net carbs, and 1.2g protein.",
+    "datePublished": "2015-07-15T16:10:08+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/butterscotchseasalticecream.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT30M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1 cup unsweetened carton coconut milk",
+      "1/4 cup sour cream",
+      "1/4 cup heavy whipping cream",
+      "2 tablespoon vodka (optional)",
+      "2 teaspoon butterscotch extract",
+      "2 tablespoon erythritol",
+      "25 drop liquid stevia",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon xanthan gum",
+      "3 tablespoon butter (browned)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut milk, sour cream, heavy cream, vodka, butterscotch extract, sweetener, liquid stevia, salt, and xanthan gum to a container. Use an immersion blender to blend everything together.",
+        "name": "Add the coconut milk, sour cream, heavy cream, vodka, butterscotch extract, sweetener, liquid stevia, salt, and xanthan gum to a container. Use an immersion blender to blend everything together.",
+        "url": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8430.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over low heat, brown the butter until it is a dark amber color.",
+        "name": "In a pan over low heat, brown the butter until it is a dark amber color.",
+        "url": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8436.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the butter to the ice cream base and use the immersion blender to blend everything together.",
+        "name": "Add the butter to the ice cream base and use the immersion blender to blend everything together.",
+        "url": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8439.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ice cream base to an ice cream machine and churn according to the manufacturer's instructions.",
+        "name": "Add the ice cream base to an ice cream machine and churn according to the manufacturer's instructions.",
+        "url": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8443.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop and enjoy!",
+        "name": "Scoop and enjoy!",
+        "url": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#wprm-recipe-51773-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "comfort-food, egg-free, gluten-free, keto, low-carb, nut-free, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "256 kcal",
+      "fatContent": "23.7 g",
+      "proteinContent": "1.2 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/butterscotch-sea-salt-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 26297,
+    "rid": 51773,
+    "t": "Butterscotch Sea Salt Ice Cream",
+    "u": "/butterscotch-sea-salt-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/butterscotchseasalticecream.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.8,
+    "cal": 256,
+    "pr": 1.2,
+    "fa": 23.7,
+    "tm": 35,
+    "sv": 3,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2015-07-15",
+    "cm": 2,
+    "ex": "My girlfriend's favorite flavor of ice cream is Salted Caramel from a local creamery here. I've really been playing around with the ideas of sweet and salty for a keto ice cream flavor to see how",
+    "pv": 312
+  },
+  "sourceHtml": "pages/butterscotch-sea-salt-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.426Z"
+}

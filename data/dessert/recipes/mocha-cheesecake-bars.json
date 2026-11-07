@@ -1,0 +1,324 @@
+{
+  "id": "ruled-29372",
+  "slug": "mocha-cheesecake-bars",
+  "title": "Mocha Cheesecake Bars",
+  "url": "https://www.ruled.me/mocha-cheesecake-bars/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Mocha Cheesecake Bars. Each serving comes out to be 231 calories, 20.7g fats, 3.1g net carbs, and 6.1g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "fatContent": "20.7 g",
+    "proteinContent": "6.1 g",
+    "carbohydrateContent": "3.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 231,
+    "netCarbsGrams": 3.1,
+    "proteinGrams": 6.1,
+    "fatGrams": 20.7
+  },
+  "ingredients": [
+    "6 tablespoon butter (unsalted, melted)",
+    "2 teaspoon vanilla extract",
+    "3 large egg",
+    "1 1/2 cup almond flour",
+    "1/2 tablespoon instant coffee",
+    "1/2 cup unsweetened dark cocoa powder",
+    "1/2 teaspoon salt",
+    "1 cup erythritol",
+    "1 teaspoon baking powder",
+    "16 ounce cream cheese (softened)",
+    "1 large egg (room temperature)",
+    "1 teaspoon vanilla extract",
+    "1/2 cup erythritol"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F and lightly grease a baking pan. In a large mixing bowl, whisk together the melted unsalted butter and vanilla extract. Add eggs and whisk until combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-1.jpg"
+    },
+    {
+      "text": "In a small bowl, mix together the almond flour, instant coffee, cocoa powder, salt, erythritol, and baking powder. Then, combine the wet ingredients with the dry ingredients. Set aside a small portion of the batter for the thin brownie crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bar-2.jpg"
+    },
+    {
+      "text": "Add the larger portion of batter to the baking pan. The batter will be a bit thicker than traditional brownie batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-4.jpg"
+    },
+    {
+      "text": "In a mixing bowl, blend the room-temperature cream cheese, egg, vanilla extract, and erythritol until smooth. Spread this mixture on top of the brownie layer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-5.jpg"
+    },
+    {
+      "text": "Using the smaller portion of brownie set aside earlier, mix it into the top layer of cream cheese to create a brownie crust. This layer should be very thin.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-6.jpg"
+    },
+    {
+      "text": "Bake for 30–35 minutes. When finished, allow the bars to cool completely before slicing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-620x900.jpg"
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "holiday",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-900x600-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/7c58a1d8ce85d8fdc7c1bb5a.jpg",
+      "archived": true,
+      "originalPath": "images/7c58a1d8ce85d8fdc7c1bb5a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-900x600.jpg",
+      "path": "images/12365bdfe20a03c8dcc507ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-1.jpg",
+      "path": "../../nenaudojama/dessert/images/bf696ff7049ab664373b3c14.jpg",
+      "archived": true,
+      "originalPath": "images/bf696ff7049ab664373b3c14.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bar-2.jpg",
+      "path": "../../nenaudojama/dessert/images/bf5b875663898a16f8aacd26.jpg",
+      "archived": true,
+      "originalPath": "images/bf5b875663898a16f8aacd26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-4.jpg",
+      "path": "../../nenaudojama/dessert/images/24f3e4d0a5306b5ba3e5517f.jpg",
+      "archived": true,
+      "originalPath": "images/24f3e4d0a5306b5ba3e5517f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-5.jpg",
+      "path": "../../nenaudojama/dessert/images/8a258c5cdbd8b1282666e5c0.jpg",
+      "archived": true,
+      "originalPath": "images/8a258c5cdbd8b1282666e5c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-6.jpg",
+      "path": "../../nenaudojama/dessert/images/0ff5d2fe5b017cf47f33c6cb.jpg",
+      "archived": true,
+      "originalPath": "images/0ff5d2fe5b017cf47f33c6cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-620x900.jpg",
+      "path": "../../nenaudojama/dessert/images/e0c56d6b2d4a7b6c359551df.jpg",
+      "archived": true,
+      "originalPath": "images/e0c56d6b2d4a7b6c359551df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-900x450.jpg",
+      "path": "../../nenaudojama/dessert/images/1edc4ec13eae037fe076ddc7.jpg",
+      "archived": true,
+      "originalPath": "images/1edc4ec13eae037fe076ddc7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/46cc27ab7131dd4a4089bed2.jpg",
+      "archived": true,
+      "originalPath": "images/46cc27ab7131dd4a4089bed2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bar-2-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/df5be8179279e2722ad006f8.jpg",
+      "archived": true,
+      "originalPath": "images/df5be8179279e2722ad006f8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-4-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/2eee44c1b623f40f4cfc8a95.jpg",
+      "archived": true,
+      "originalPath": "images/2eee44c1b623f40f4cfc8a95.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-5-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a7569667e7193c30d0e19f6a.jpg",
+      "archived": true,
+      "originalPath": "images/a7569667e7193c30d0e19f6a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-6-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3cafd5d9d38819b1d73568bd.jpg",
+      "archived": true,
+      "originalPath": "images/3cafd5d9d38819b1d73568bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-620x900-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/991074b14118b287a2e10325.jpg",
+      "archived": true,
+      "originalPath": "images/991074b14118b287a2e10325.jpg"
+    }
+  ],
+  "featuredImage": "images/12365bdfe20a03c8dcc507ba.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Mocha Cheesecake Bars",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 16 servings of Mocha Cheesecake Bars. Each serving comes out to be 231 calories, 20.7g fats, 3.1g net carbs, and 6.1g protein.",
+    "datePublished": "2017-02-16T12:00:32+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-900x600.jpg"
+    ],
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "6 tablespoon butter (unsalted, melted)",
+      "2 teaspoon vanilla extract",
+      "3 large egg",
+      "1 1/2 cup almond flour",
+      "1/2 tablespoon instant coffee",
+      "1/2 cup unsweetened dark cocoa powder",
+      "1/2 teaspoon salt",
+      "1 cup erythritol",
+      "1 teaspoon baking powder",
+      "16 ounce cream cheese (softened)",
+      "1 large egg (room temperature)",
+      "1 teaspoon vanilla extract",
+      "1/2 cup erythritol"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F and lightly grease a baking pan. In a large mixing bowl, whisk together the melted unsalted butter and vanilla extract. Add eggs and whisk until combined.",
+        "name": "Preheat oven to 350F and lightly grease a baking pan. In a large mixing bowl, whisk together the melted unsalted butter and vanilla extract. Add eggs and whisk until combined.",
+        "url": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix together the almond flour, instant coffee, cocoa powder, salt, erythritol, and baking powder. Then, combine the wet ingredients with the dry ingredients. Set aside a small portion of the batter for the thin brownie crust.",
+        "name": "In a small bowl, mix together the almond flour, instant coffee, cocoa powder, salt, erythritol, and baking powder. Then, combine the wet ingredients with the dry ingredients. Set aside a small portion of the batter for the thin brownie crust.",
+        "url": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bar-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the larger portion of batter to the baking pan. The batter will be a bit thicker than traditional brownie batter.",
+        "name": "Add the larger portion of batter to the baking pan. The batter will be a bit thicker than traditional brownie batter.",
+        "url": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, blend the room-temperature cream cheese, egg, vanilla extract, and erythritol until smooth. Spread this mixture on top of the brownie layer.",
+        "name": "In a mixing bowl, blend the room-temperature cream cheese, egg, vanilla extract, and erythritol until smooth. Spread this mixture on top of the brownie layer.",
+        "url": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using the smaller portion of brownie set aside earlier, mix it into the top layer of cream cheese to create a brownie crust. This layer should be very thin.",
+        "name": "Using the smaller portion of brownie set aside earlier, mix it into the top layer of cream cheese to create a brownie crust. This layer should be very thin.",
+        "url": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 30–35 minutes. When finished, allow the bars to cool completely before slicing.",
+        "name": "Bake for 30–35 minutes. When finished, allow the bars to cool completely before slicing.",
+        "url": "https://www.ruled.me/mocha-cheesecake-bars/#wprm-recipe-52067-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-620x900.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, holiday, keto, low-carb, oven-baked, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231 kcal",
+      "fatContent": "20.7 g",
+      "proteinContent": "6.1 g",
+      "carbohydrateContent": "3.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/mocha-cheesecake-bars/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/mocha-cheesecake-bars/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/mocha-cheesecake-bars/"
+  },
+  "sourceIndex": {
+    "id": 29372,
+    "rid": 52067,
+    "t": "Mocha Cheesecake Bars",
+    "u": "/mocha-cheesecake-bars/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/01/Mocha-Cheesecake-Bars-Final-900x600-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.1,
+    "cal": 231,
+    "pr": 6.1,
+    "fa": 20.7,
+    "tm": 60,
+    "sv": 16,
+    "kw": [
+      "gluten-free",
+      "holiday",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 13,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2017-02-16",
+    "cm": 47,
+    "ex": "With the holiday season in full swing, I find myself making a lot of sugar-free goodies. When I was baking in the kitchen recently, I decided to try making a sugar-free cheesecake brownie bar. I",
+    "pv": 429
+  },
+  "sourceHtml": "pages/mocha-cheesecake-bars.html",
+  "scrapedAt": "2026-11-07T08:30:47.317Z"
+}

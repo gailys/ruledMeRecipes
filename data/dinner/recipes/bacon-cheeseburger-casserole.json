@@ -1,0 +1,426 @@
+{
+  "id": "ruled-26976",
+  "slug": "bacon-cheeseburger-casserole",
+  "title": "Bacon Cheeseburger Casserole",
+  "url": "https://www.ruled.me/bacon-cheeseburger-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Bacon Cheeseburger Casserole. Each serving comes out to be 478 calories, 38.1g fats, 3.5g net carbs, and 25.5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT35M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "478 kcal",
+    "fatContent": "38.1 g",
+    "proteinContent": "25.5 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 478,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 25.5,
+    "fatGrams": 38.1
+  },
+  "ingredients": [
+    "265 gram cauliflower (riced)",
+    "1/2 cup almond flour",
+    "1 tablespoon psyllium husk powder",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon onion powder",
+    "3 ounce bacon",
+    "16 ounce ground beef (80/20)",
+    "salt and pepper (to taste)",
+    "4 ounce cheddar cheese",
+    "3 large egg",
+    "2 tablespoon mayonnaise",
+    "2 tablespoon low-carb ketchup",
+    "1 tablespoon dijon mustard"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Rice the cauliflower in a food processor, then remove to a large bowl. To the bowl, add the almond flour, psyllium husk powder, garlic powder, and onion powder and mix together. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4720.jpg"
+    },
+    {
+      "text": "Process the bacon and ground beef in the food processor until crumbly and slightly pasty. Cook over medium-high heat, seasoning with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4724.jpg"
+    },
+    {
+      "text": "Shred the cheese while the meat is cooking. Once the meat is cooked through, combine it with the dry ingredients/cauli rice in the large bowl and add half of the cheddar cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4730.jpg"
+    },
+    {
+      "text": "Add the eggs, mayonnaise, ketchup, and mustard to the mixture. Mix everything together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4732.jpg"
+    },
+    {
+      "text": "Press the mixture into a baking pan lined with parchment paper. Top with the remaining cheddar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4737.jpg"
+    },
+    {
+      "text": "Place on the top rack and bake for 25–30 minutes. For additional crispness on top, broil for 2–3 minutes or until browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4740.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool for 5–10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4748.jpg"
+    },
+    {
+      "text": "Slice, serve, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "oven-baked",
+    "pork",
+    "red-meat",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "oven-baked",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "pork",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/BaconCheeseburgerCasserole.jpg",
+      "path": "images/1f568339490e1b5f150ca01d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4720.jpg",
+      "path": "../../nenaudojama/dinner/images/d59f20e67d5ad6f170e079df.jpg",
+      "archived": true,
+      "originalPath": "images/d59f20e67d5ad6f170e079df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4724.jpg",
+      "path": "../../nenaudojama/dinner/images/412f619c05cb12d10015d5c9.jpg",
+      "archived": true,
+      "originalPath": "images/412f619c05cb12d10015d5c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4730.jpg",
+      "path": "../../nenaudojama/dinner/images/c728bcf1a8f5699a9d79bb3f.avif",
+      "archived": true,
+      "originalPath": "images/c728bcf1a8f5699a9d79bb3f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4732.jpg",
+      "path": "../../nenaudojama/dinner/images/7075c5c0803042f76cb3f7eb.avif",
+      "archived": true,
+      "originalPath": "images/7075c5c0803042f76cb3f7eb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4737.jpg",
+      "path": "../../nenaudojama/dinner/images/ae19fa18c1dbffbbb122e15f.avif",
+      "archived": true,
+      "originalPath": "images/ae19fa18c1dbffbbb122e15f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4740.jpg",
+      "path": "../../nenaudojama/dinner/images/e7ae6235532cdbfc95cea9b4.avif",
+      "archived": true,
+      "originalPath": "images/e7ae6235532cdbfc95cea9b4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4748.jpg",
+      "path": "../../nenaudojama/dinner/images/292bda33137e4c0b7f75e71d.jpg",
+      "archived": true,
+      "originalPath": "images/292bda33137e4c0b7f75e71d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/BaconCheeseburgerCasseroleSecond.jpg",
+      "path": "../../nenaudojama/dinner/images/4b33a355b341488b343dbab5.avif",
+      "archived": true,
+      "originalPath": "images/4b33a355b341488b343dbab5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/BaconCheeseburgerCasseroleLong.jpg",
+      "path": "../../nenaudojama/dinner/images/8433d5f1b1e70a232354bf73.avif",
+      "archived": true,
+      "originalPath": "images/8433d5f1b1e70a232354bf73.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4720-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5974a62dd7e75041faeb9c58.avif",
+      "archived": true,
+      "originalPath": "images/5974a62dd7e75041faeb9c58.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4724-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2b03fe77af3322be17aedb5e.jpg",
+      "archived": true,
+      "originalPath": "images/2b03fe77af3322be17aedb5e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4730-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/26692deb3a89f209731b2d08.jpg",
+      "archived": true,
+      "originalPath": "images/26692deb3a89f209731b2d08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4732-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d7ace810ecb4d936146c41b5.avif",
+      "archived": true,
+      "originalPath": "images/d7ace810ecb4d936146c41b5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4737-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cdc15ade792bdec436a64da4.avif",
+      "archived": true,
+      "originalPath": "images/cdc15ade792bdec436a64da4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4740-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1698f59dcc9b0c87c8b3e513.avif",
+      "archived": true,
+      "originalPath": "images/1698f59dcc9b0c87c8b3e513.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4748-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/00980a805a840dfd78b1ff40.avif",
+      "archived": true,
+      "originalPath": "images/00980a805a840dfd78b1ff40.avif"
+    }
+  ],
+  "featuredImage": "images/1f568339490e1b5f150ca01d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon Cheeseburger Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Bacon Cheeseburger Casserole. Each serving comes out to be 478 calories, 38.1g fats, 3.5g net carbs, and 25.5g protein.",
+    "datePublished": "2015-10-14T20:37:08+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/10/BaconCheeseburgerCasserole.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Bacon Cheeseburger Casserole",
+      "description": "While on a ketogenic diet, we’re usually looking for simple meals that re-create old tastes that we love. A meal that I used to love to take to work was a cheeseburger salad. Practically all of the flavors of a cheeseburger, but crumbled up over lettuce.\n\nI wanted to create a heartier version of this dish that can be easily re-heated or served straight to a hungry family as-is. Plus, you may know I love my cold keto food – and this one tastes just as good right out of the fridge for a fast and tasty breakfast!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 lb. Ground Beef (80/20)\n3 slices Bacon\n1/2 cup Almond Flour\n265 g Cauliflower, riced (~3 cups chopped)\n1 tbsp. Psyllium Husk Powder\n1/2 tsp. Garlic Powder\n1/2 tsp. Onion Powder\n2 tbsp. Reduced Sugar Ketchup\n1 tbsp. Dijon Mustard\n2 tbsp. Mayonnaise\n3 large Eggs\n4 oz. Cheddar Cheese (2 oz. inside, 2 oz. on top)\nSalt and Pepper to Taste\n\nNutrition Summary:\nThis makes a total of 6 servings of Bacon Cheeseburger Casserole. Each serving comes out to be 478 Calories, 35.5g Fats, 3.6g Net Carbs, and 32.2g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-08-24T15:00:27+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M38S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 9102
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 405
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 22
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pfQkG0m5QC4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/pfQkG0m5QC4?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=pfQkG0m5QC4",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT35M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "265 gram cauliflower (riced)",
+      "1/2 cup almond flour",
+      "1 tablespoon psyllium husk powder",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "3 ounce bacon",
+      "16 ounce ground beef (80/20)",
+      "salt and pepper (to taste)",
+      "4 ounce cheddar cheese",
+      "3 large egg",
+      "2 tablespoon mayonnaise",
+      "2 tablespoon low-carb ketchup",
+      "1 tablespoon dijon mustard"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Rice the cauliflower in a food processor, then remove to a large bowl. To the bowl, add the almond flour, psyllium husk powder, garlic powder, and onion powder and mix together. Set aside.",
+        "name": "Preheat oven to 350F. Rice the cauliflower in a food processor, then remove to a large bowl. To the bowl, add the almond flour, psyllium husk powder, garlic powder, and onion powder and mix together. Set aside.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4720.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Process the bacon and ground beef in the food processor until crumbly and slightly pasty. Cook over medium-high heat, seasoning with salt and pepper to taste.",
+        "name": "Process the bacon and ground beef in the food processor until crumbly and slightly pasty. Cook over medium-high heat, seasoning with salt and pepper to taste.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4724.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the cheese while the meat is cooking. Once the meat is cooked through, combine it with the dry ingredients/cauli rice in the large bowl and add half of the cheddar cheese.",
+        "name": "Shred the cheese while the meat is cooking. Once the meat is cooked through, combine it with the dry ingredients/cauli rice in the large bowl and add half of the cheddar cheese.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4730.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs, mayonnaise, ketchup, and mustard to the mixture. Mix everything together well.",
+        "name": "Add the eggs, mayonnaise, ketchup, and mustard to the mixture. Mix everything together well.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4732.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Press the mixture into a baking pan lined with parchment paper. Top with the remaining cheddar.",
+        "name": "Press the mixture into a baking pan lined with parchment paper. Top with the remaining cheddar.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4737.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place on the top rack and bake for 25–30 minutes. For additional crispness on top, broil for 2–3 minutes or until browned.",
+        "name": "Place on the top rack and bake for 25–30 minutes. For additional crispness on top, broil for 2–3 minutes or until browned.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4740.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool for 5–10 minutes.",
+        "name": "Remove from the oven and let cool for 5–10 minutes.",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/10/IMG_4748.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice, serve, and enjoy!",
+        "name": "Slice, serve, and enjoy!",
+        "url": "https://www.ruled.me/bacon-cheeseburger-casserole/#wprm-recipe-51815-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, make-ahead, meal-prep, oven-baked, pork, red meat, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "478 kcal",
+      "fatContent": "38.1 g",
+      "proteinContent": "25.5 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-cheeseburger-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-cheeseburger-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-cheeseburger-casserole/"
+  },
+  "sourceIndex": {
+    "id": 26976,
+    "rid": 51815,
+    "t": "Bacon Cheeseburger Casserole",
+    "u": "/bacon-cheeseburger-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/10/BaconCheeseburgerCasserole.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.5,
+    "cal": 478,
+    "pr": 25.5,
+    "fa": 38.1,
+    "tm": 45,
+    "sv": 6,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "oven-baked",
+      "pork",
+      "red-meat",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 13,
+    "fk": [
+      "oven-baked",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "pork",
+      "red-meat"
+    ],
+    "d": "2015-10-14",
+    "cm": 32,
+    "ex": "While on a ketogenic diet, we're usually looking for simple meals that re-create old tastes that we love. A meal that I used to love to take to work was a cheeseburger salad. Practically all of the",
+    "pv": 575
+  },
+  "sourceHtml": "pages/bacon-cheeseburger-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.845Z"
+}

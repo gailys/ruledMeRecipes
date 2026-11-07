@@ -1,0 +1,303 @@
+{
+  "id": "ruled-50100",
+  "slug": "keto-nutty-yogurt-bowl",
+  "title": "Keto Nutty Yogurt Bowl",
+  "url": "https://www.ruled.me/keto-nutty-yogurt-bowl/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Nutty Yogurt Bowl. The serving comes out to be 499 calories, 33.3g fats, 8.7g net carbs, and 39.2g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT8M",
+  "cookTime": "PT0M",
+  "totalTime": "PT8M",
+  "totalMinutes": 8,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "499 kcal",
+    "fatContent": "33.3 g",
+    "proteinContent": "39.2 g",
+    "carbohydrateContent": "8.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 499,
+    "netCarbsGrams": 8.7,
+    "proteinGrams": 39.2,
+    "fatGrams": 33.3
+  },
+  "ingredients": [
+    "1/2 cup full-fat plain greek yogurt",
+    "1/4 cup unsweetened almond milk",
+    "1 ounce vegan vanilla protein powder (or unflavored protein powder + vanilla extract)",
+    "2 tablespoon almond butter",
+    "2 tablespoon walnuts (crumbled)",
+    "1/4 teaspoon ground cinnamon (to garnish (optional))"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. If you prefer toasted walnuts, you can put them in a pan over low heat while preparing the yogurt bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-1.jpg"
+    },
+    {
+      "text": "In a bowl, combine the greek yogurt, almond milk, protein powder, and almond butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-2.jpg"
+    },
+    {
+      "text": "Using a whisk, mix the yogurt thoroughly until all lumps are gone and yogurt is completely smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-3.jpg"
+    },
+    {
+      "text": "Pour yogurt mixture into a separate container if using one, then top with walnuts.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-4.jpg"
+    },
+    {
+      "text": "Place in the refrigerator until ready to eat. Feel free to garnish with some extra cinnamon if desired. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/88b2a84bbf7e02e2d708e9d7.jpg",
+      "archived": true,
+      "originalPath": "images/88b2a84bbf7e02e2d708e9d7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Featured.jpg",
+      "path": "images/9f7da09e5b8043ec40618849.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/3d7c3d04453ce50af95a5382.avif",
+      "archived": true,
+      "originalPath": "images/3d7c3d04453ce50af95a5382.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/7f9a50b12dc860f61df59dc6.jpg",
+      "archived": true,
+      "originalPath": "images/7f9a50b12dc860f61df59dc6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/8345d81cf66bf2f995c1d2f2.avif",
+      "archived": true,
+      "originalPath": "images/8345d81cf66bf2f995c1d2f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/3d57908b4039faa9b59830fe.avif",
+      "archived": true,
+      "originalPath": "images/3d57908b4039faa9b59830fe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/6aee7689bd284a1d90776d74.avif",
+      "archived": true,
+      "originalPath": "images/6aee7689bd284a1d90776d74.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/7e340f26fbcdf55202262e27.avif",
+      "archived": true,
+      "originalPath": "images/7e340f26fbcdf55202262e27.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/50710ec72b0bbc55c3237daf.avif",
+      "archived": true,
+      "originalPath": "images/50710ec72b0bbc55c3237daf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3ef9c647caa01dd501b2e8ff.jpg",
+      "archived": true,
+      "originalPath": "images/3ef9c647caa01dd501b2e8ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9fe2fc87ed4c5b577bde6c12.jpg",
+      "archived": true,
+      "originalPath": "images/9fe2fc87ed4c5b577bde6c12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0e0945e4c13f10d4dd9b1c48.avif",
+      "archived": true,
+      "originalPath": "images/0e0945e4c13f10d4dd9b1c48.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b246fd3b46b9fa4529792bf3.avif",
+      "archived": true,
+      "originalPath": "images/b246fd3b46b9fa4529792bf3.avif"
+    }
+  ],
+  "featuredImage": "images/9f7da09e5b8043ec40618849.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Nutty Yogurt Bowl",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Nutty Yogurt Bowl. The serving comes out to be 499 calories, 33.3g fats, 8.7g net carbs, and 39.2g protein.",
+    "datePublished": "2024-04-04T09:04:32+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT8M",
+    "totalTime": "PT8M",
+    "recipeIngredient": [
+      "1/2 cup full-fat plain greek yogurt",
+      "1/4 cup unsweetened almond milk",
+      "1 ounce vegan vanilla protein powder (or unflavored protein powder + vanilla extract)",
+      "2 tablespoon almond butter",
+      "2 tablespoon walnuts (crumbled)",
+      "1/4 teaspoon ground cinnamon (to garnish (optional))"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. If you prefer toasted walnuts, you can put them in a pan over low heat while preparing the yogurt bowl.",
+        "name": "Gather and prep all ingredients. If you prefer toasted walnuts, you can put them in a pan over low heat while preparing the yogurt bowl.",
+        "url": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the greek yogurt, almond milk, protein powder, and almond butter.",
+        "name": "In a bowl, combine the greek yogurt, almond milk, protein powder, and almond butter.",
+        "url": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using a whisk, mix the yogurt thoroughly until all lumps are gone and yogurt is completely smooth.",
+        "name": "Using a whisk, mix the yogurt thoroughly until all lumps are gone and yogurt is completely smooth.",
+        "url": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour yogurt mixture into a separate container if using one, then top with walnuts.",
+        "name": "Pour yogurt mixture into a separate container if using one, then top with walnuts.",
+        "url": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the refrigerator until ready to eat. Feel free to garnish with some extra cinnamon if desired. Enjoy!",
+        "name": "Place in the refrigerator until ready to eat. Feel free to garnish with some extra cinnamon if desired. Enjoy!",
+        "url": "https://www.ruled.me/keto-nutty-yogurt-bowl/#wprm-recipe-54989-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "499 kcal",
+      "fatContent": "33.3 g",
+      "proteinContent": "39.2 g",
+      "carbohydrateContent": "8.7 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-nutty-yogurt-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-nutty-yogurt-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-nutty-yogurt-bowl/"
+  },
+  "sourceIndex": {
+    "id": 50100,
+    "rid": 54989,
+    "t": "Keto Nutty Yogurt Bowl",
+    "u": "/keto-nutty-yogurt-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/04/Keto-Nutty-Yogurt-Bowl-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 8.7,
+    "cal": 499,
+    "pr": 39.2,
+    "fa": 33.3,
+    "tm": 8,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2024-04-04",
+    "cm": 0,
+    "ex": "Kickstart your day with a burst of energy and flavor with this nutty yogurt bowl - a high-protein delight that will leave you feeling nourished and satisfied. Crafted with creamy Greek yogurt, almond",
+    "pv": 180
+  },
+  "sourceHtml": "pages/keto-nutty-yogurt-bowl.html",
+  "scrapedAt": "2026-11-07T08:11:11.860Z"
+}

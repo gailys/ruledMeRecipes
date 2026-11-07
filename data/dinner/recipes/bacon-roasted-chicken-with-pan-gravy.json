@@ -1,0 +1,353 @@
+{
+  "id": "ruled-24537",
+  "slug": "bacon-roasted-chicken-with-pan-gravy",
+  "title": "Bacon-Wrapped Roast Chicken with Pan Gravy",
+  "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Bacon-Wrapped Roast Chicken with Pan Gravy. Each serving comes out to be 561 calories, 38g fats, 1.8g net carbs, and 50.7g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT75M",
+  "totalTime": "PT85M",
+  "totalMinutes": 85,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "561 kcal",
+    "fatContent": "38 g",
+    "proteinContent": "50.7 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 561,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 50.7,
+    "fatGrams": 38
+  },
+  "ingredients": [
+    "48 ounce whole chicken (gutted)",
+    "1 medium lemon (halved)",
+    "1 medium lime (halved)",
+    "2 teaspoon fresh thyme",
+    "salt and pepper (to taste)",
+    "10 ounce bacon",
+    "1 tablespoon whole grain mustard"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 500F. Rinse the chicken and stuff with the lemon halves, lime halves, and sprigs of thyme. Rub salt and pepper over the chicken lightly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5942.jpg"
+    },
+    {
+      "text": "Arrange the strips of bacon over the chicken, slightly overlapping. Go overboard if needed — the whole bird should be covered. Lightly season again with salt and pepper. Transfer the chicken to a roasting rack (a cooling rack over a foil-lined cookie sheet can also be used for this).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5967.jpg"
+    },
+    {
+      "text": "Place the chicken in the oven and cook for 15 minutes. Then, lower the temperature to 350F and cook for an additional 40–50 minutes or until the juices run clear.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5971.jpg"
+    },
+    {
+      "text": "Remove from the oven and let rest for 15 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5973.jpg"
+    },
+    {
+      "text": "Cover the chicken with foil and transfer the broth to a saucepan over high heat. Allow the sauce to come to a boil and then add the grain mustard. Mix together well and let the sauce reduce slightly. Season as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5988.jpg"
+    },
+    {
+      "text": "Using an immersion blender, blend the sauce to a thick, even consistency. Add extra lemon and lime juice if needed, using the leftovers in the chicken cavity.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5997.jpg"
+    },
+    {
+      "text": "Serve the chicken with the pan gravy on the side, carve as desired, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "fall",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "high-protein",
+    "poultry",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/baconwrappedchicken.jpg",
+      "path": "images/8f410066d17ff8271b6063cc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5942.jpg",
+      "path": "../../nenaudojama/dinner/images/4339460a9c2d0bbe6e96a3c7.jpg",
+      "archived": true,
+      "originalPath": "images/4339460a9c2d0bbe6e96a3c7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5967.jpg",
+      "path": "../../nenaudojama/dinner/images/353548d00c50cc474a45d787.jpg",
+      "archived": true,
+      "originalPath": "images/353548d00c50cc474a45d787.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5971.jpg",
+      "path": "../../nenaudojama/dinner/images/c19af621392d559107c82e1f.jpg",
+      "archived": true,
+      "originalPath": "images/c19af621392d559107c82e1f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5973.jpg",
+      "path": "../../nenaudojama/dinner/images/316e0b327111b51bcce38b7b.jpg",
+      "archived": true,
+      "originalPath": "images/316e0b327111b51bcce38b7b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5988.jpg",
+      "path": "../../nenaudojama/dinner/images/8c89b43495d1e24d170bb71c.jpg",
+      "archived": true,
+      "originalPath": "images/8c89b43495d1e24d170bb71c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5997.jpg",
+      "path": "../../nenaudojama/dinner/images/6430a8bbdd6ecb236a58fa45.jpg",
+      "archived": true,
+      "originalPath": "images/6430a8bbdd6ecb236a58fa45.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/baconwrappedchickensecond.jpg",
+      "path": "../../nenaudojama/dinner/images/ffc2c17f353cc080a8f7873f.avif",
+      "archived": true,
+      "originalPath": "images/ffc2c17f353cc080a8f7873f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/baconwrappedchickenlong.jpg",
+      "path": "../../nenaudojama/dinner/images/c1be069b3e5a295b93dc64c0.jpg",
+      "archived": true,
+      "originalPath": "images/c1be069b3e5a295b93dc64c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5942-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/8ba449a4f409291eaf9013ab.jpg",
+      "archived": true,
+      "originalPath": "images/8ba449a4f409291eaf9013ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5967-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/73dd38638504490c8003a42c.jpg",
+      "archived": true,
+      "originalPath": "images/73dd38638504490c8003a42c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5971-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/81c3f0eaec4936cec4d6d93f.jpg",
+      "archived": true,
+      "originalPath": "images/81c3f0eaec4936cec4d6d93f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5973-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/850e79bc1214dd3200a08d51.jpg",
+      "archived": true,
+      "originalPath": "images/850e79bc1214dd3200a08d51.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5988-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/59b183e45b9f41aa63c8ad81.jpg",
+      "archived": true,
+      "originalPath": "images/59b183e45b9f41aa63c8ad81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5997-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b85abc68e1e6485c226cde9c.avif",
+      "archived": true,
+      "originalPath": "images/b85abc68e1e6485c226cde9c.avif"
+    }
+  ],
+  "featuredImage": "images/8f410066d17ff8271b6063cc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon-Wrapped Roast Chicken with Pan Gravy",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Bacon-Wrapped Roast Chicken with Pan Gravy. Each serving comes out to be 561 calories, 38g fats, 1.8g net carbs, and 50.7g protein.",
+    "datePublished": "2014-09-08T14:49:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/baconwrappedchicken.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT75M",
+    "totalTime": "PT85M",
+    "recipeIngredient": [
+      "48 ounce whole chicken (gutted)",
+      "1 medium lemon (halved)",
+      "1 medium lime (halved)",
+      "2 teaspoon fresh thyme",
+      "salt and pepper (to taste)",
+      "10 ounce bacon",
+      "1 tablespoon whole grain mustard"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 500F. Rinse the chicken and stuff with the lemon halves, lime halves, and sprigs of thyme. Rub salt and pepper over the chicken lightly.",
+        "name": "Preheat oven to 500F. Rinse the chicken and stuff with the lemon halves, lime halves, and sprigs of thyme. Rub salt and pepper over the chicken lightly.",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5942.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the strips of bacon over the chicken, slightly overlapping. Go overboard if needed — the whole bird should be covered. Lightly season again with salt and pepper. Transfer the chicken to a roasting rack (a cooling rack over a foil-lined cookie sheet can also be used for this).",
+        "name": "Arrange the strips of bacon over the chicken, slightly overlapping. Go overboard if needed — the whole bird should be covered. Lightly season again with salt and pepper. Transfer the chicken to a roasting rack (a cooling rack over a foil-lined cookie sheet can also be used for this).",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5967.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken in the oven and cook for 15 minutes. Then, lower the temperature to 350F and cook for an additional 40–50 minutes or until the juices run clear.",
+        "name": "Place the chicken in the oven and cook for 15 minutes. Then, lower the temperature to 350F and cook for an additional 40–50 minutes or until the juices run clear.",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5971.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let rest for 15 minutes.",
+        "name": "Remove from the oven and let rest for 15 minutes.",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5973.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the chicken with foil and transfer the broth to a saucepan over high heat. Allow the sauce to come to a boil and then add the grain mustard. Mix together well and let the sauce reduce slightly. Season as needed.",
+        "name": "Cover the chicken with foil and transfer the broth to a saucepan over high heat. Allow the sauce to come to a boil and then add the grain mustard. Mix together well and let the sauce reduce slightly. Season as needed.",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5988.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using an immersion blender, blend the sauce to a thick, even consistency. Add extra lemon and lime juice if needed, using the leftovers in the chicken cavity.",
+        "name": "Using an immersion blender, blend the sauce to a thick, even consistency. Add extra lemon and lime juice if needed, using the leftovers in the chicken cavity.",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5997.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the chicken with the pan gravy on the side, carve as desired, and enjoy!",
+        "name": "Serve the chicken with the pan gravy on the side, carve as desired, and enjoy!",
+        "url": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#wprm-recipe-51391-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "keywords": "comfort-food, dairy-free, egg-free, fall, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, pork, poultry, simple &amp; easy, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "561 kcal",
+      "fatContent": "38 g",
+      "proteinContent": "50.7 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-roasted-chicken-with-pan-gravy/"
+  },
+  "sourceIndex": {
+    "id": 24537,
+    "rid": 51391,
+    "t": "Bacon Roasted Chicken with Pan Gravy",
+    "u": "/bacon-roasted-chicken-with-pan-gravy/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/baconwrappedchicken.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.8,
+    "cal": 561,
+    "pr": 50.7,
+    "fa": 38,
+    "tm": 85,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "dairy-free",
+      "egg-free",
+      "fall",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 7,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "high-protein",
+      "poultry",
+      "pork"
+    ],
+    "d": "2014-09-08",
+    "cm": 5,
+    "ex": "Nothing says cooler weather than a roasted chicken. Since we're on a keto diet, we get to wrap this guy in bacon, too! It's slightly zesty and full of citrus flavor which gives a fantastic balance to",
+    "pv": 41
+  },
+  "sourceHtml": "pages/bacon-roasted-chicken-with-pan-gravy.html",
+  "scrapedAt": "2026-11-07T08:27:45.026Z"
+}

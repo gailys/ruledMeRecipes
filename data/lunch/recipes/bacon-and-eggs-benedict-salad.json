@@ -1,0 +1,346 @@
+{
+  "id": "ruled-38776",
+  "slug": "bacon-and-eggs-benedict-salad",
+  "title": "Bacon and Eggs Benedict Salad",
+  "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Bacon and Eggs Benedict Salad. Each serving comes out to be 509 calories, 44.5g fats, 5.1g net carbs, and 21.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "509 kcal",
+    "fatContent": "44.5 g",
+    "proteinContent": "21.4 g",
+    "carbohydrateContent": "5.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 509,
+    "netCarbsGrams": 5.1,
+    "proteinGrams": 21.4,
+    "fatGrams": 44.5
+  },
+  "ingredients": [
+    "3 slice bacon",
+    "3 tablespoon parmesan cheese (shredded)",
+    "3 cup mixed greens",
+    "6 whole cherry tomatoes (halved)",
+    "2 medium egg yolk",
+    "1/4 cup butter",
+    "1 teaspoon lemon juice",
+    "3 medium egg (poached)",
+    "1 tablespoon dried chives"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat pan on a stove. Place bacon in the pan, cook to desired consistency. Remove pan from stove. Drain and cool bacon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-01.jpg"
+    },
+    {
+      "text": "Spray a light coat of nonstick spray onto a microwave safe plate. Place the tablespoons of parmesan cheese into 3 mounds on the plate. Microwave plate of cheese mounds until crisp. Remove plate of cheese mounds from microwave and allow to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-02.jpg"
+    },
+    {
+      "text": "Place egg yolks and lemon juice in a blender to create hollandaise sauce. Blend the mixture until it becomes a pale yellow.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-04.jpg"
+    },
+    {
+      "text": "Melt the butter in a microwave-safe dish until it begins to bubble. Drizzle melted butter into blender mixture and blend until the sauce is well combined. It will be light in color and will thicken as it begins to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-05.jpg"
+    },
+    {
+      "text": "Place greens, sliced tomatoes, and bacon slices on a plate to form a salad bed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-06.jpg"
+    },
+    {
+      "text": "Apply a layer of parmesan cheese to the salad bed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-07.jpg"
+    },
+    {
+      "text": "Top salad bed with poached eggs. Pour hollandaise sauce over the eggs and garnish with chives.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/1ff7db15da8c93f30f1d076a.jpg",
+      "archived": true,
+      "originalPath": "images/1ff7db15da8c93f30f1d076a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-featured.jpg",
+      "path": "images/28033124241f6eeb0da4b923.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/fac0fe2283a6ca38dc739385.jpg",
+      "archived": true,
+      "originalPath": "images/fac0fe2283a6ca38dc739385.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/490e48f0ae22107ffa5557f9.jpg",
+      "archived": true,
+      "originalPath": "images/490e48f0ae22107ffa5557f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/060199787968fc234cedf0df.jpg",
+      "archived": true,
+      "originalPath": "images/060199787968fc234cedf0df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-05.jpg",
+      "path": "../../nenaudojama/lunch/images/4baddd4be9b8e0b51386b614.jpg",
+      "archived": true,
+      "originalPath": "images/4baddd4be9b8e0b51386b614.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-06.jpg",
+      "path": "../../nenaudojama/lunch/images/07157d929bdac0e0735b173b.jpg",
+      "archived": true,
+      "originalPath": "images/07157d929bdac0e0735b173b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-07.jpg",
+      "path": "../../nenaudojama/lunch/images/b69fcf2ef61c892389e9ac35.jpg",
+      "archived": true,
+      "originalPath": "images/b69fcf2ef61c892389e9ac35.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/55c37927fc162dd0051197a2.jpg",
+      "archived": true,
+      "originalPath": "images/55c37927fc162dd0051197a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/9776d2ec0b3954b88b996cff.jpg",
+      "archived": true,
+      "originalPath": "images/9776d2ec0b3954b88b996cff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e658c335701382449313e0cc.jpg",
+      "archived": true,
+      "originalPath": "images/e658c335701382449313e0cc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6645f20da88ab46d8f9f91ff.jpg",
+      "archived": true,
+      "originalPath": "images/6645f20da88ab46d8f9f91ff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f1334e4255dcbf54e75ddb8a.jpg",
+      "archived": true,
+      "originalPath": "images/f1334e4255dcbf54e75ddb8a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/be15aa162adf8be0e8fdbe6f.jpg",
+      "archived": true,
+      "originalPath": "images/be15aa162adf8be0e8fdbe6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d1b326cf0b2b42452668452c.jpg",
+      "archived": true,
+      "originalPath": "images/d1b326cf0b2b42452668452c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3be143afe886540f2df6af63.jpg",
+      "archived": true,
+      "originalPath": "images/3be143afe886540f2df6af63.jpg"
+    }
+  ],
+  "featuredImage": "images/28033124241f6eeb0da4b923.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon and Eggs Benedict Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Bacon and Eggs Benedict Salad. Each serving comes out to be 509 calories, 44.5g fats, 5.1g net carbs, and 21.4g protein.",
+    "datePublished": "2019-01-10T12:00:48+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "3 slice bacon",
+      "3 tablespoon parmesan cheese (shredded)",
+      "3 cup mixed greens",
+      "6 whole cherry tomatoes (halved)",
+      "2 medium egg yolk",
+      "1/4 cup butter",
+      "1 teaspoon lemon juice",
+      "3 medium egg (poached)",
+      "1 tablespoon dried chives"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat pan on a stove. Place bacon in the pan, cook to desired consistency. Remove pan from stove. Drain and cool bacon.",
+        "name": "Preheat pan on a stove. Place bacon in the pan, cook to desired consistency. Remove pan from stove. Drain and cool bacon.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spray a light coat of nonstick spray onto a microwave safe plate. Place the tablespoons of parmesan cheese into 3 mounds on the plate.  Microwave plate of cheese mounds until crisp. Remove plate of cheese mounds from microwave and allow to cool.",
+        "name": "Spray a light coat of nonstick spray onto a microwave safe plate. Place the tablespoons of parmesan cheese into 3 mounds on the plate.  Microwave plate of cheese mounds until crisp. Remove plate of cheese mounds from microwave and allow to cool.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place egg yolks and lemon juice in a blender to create hollandaise sauce.  Blend the mixture until it becomes a pale yellow.",
+        "name": "Place egg yolks and lemon juice in a blender to create hollandaise sauce.  Blend the mixture until it becomes a pale yellow.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a microwave-safe dish until it begins to bubble. Drizzle melted butter into blender mixture and blend until the sauce is well combined. It will be light in color and will thicken as it begins to cool.",
+        "name": "Melt the butter in a microwave-safe dish until it begins to bubble. Drizzle melted butter into blender mixture and blend until the sauce is well combined. It will be light in color and will thicken as it begins to cool.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place greens, sliced tomatoes, and bacon slices on a plate to form a salad bed.",
+        "name": "Place greens, sliced tomatoes, and bacon slices on a plate to form a salad bed.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Apply a layer of parmesan cheese to the salad bed.",
+        "name": "Apply a layer of parmesan cheese to the salad bed.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top salad bed with poached eggs. Pour hollandaise sauce over the eggs and garnish with chives.",
+        "name": "Top salad bed with poached eggs. Pour hollandaise sauce over the eggs and garnish with chives.",
+        "url": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#wprm-recipe-52846-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, high-fat, keto, low-carb, nut-free, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "509 kcal",
+      "fatContent": "44.5 g",
+      "proteinContent": "21.4 g",
+      "carbohydrateContent": "5.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-and-eggs-benedict-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-and-eggs-benedict-salad/"
+  },
+  "sourceIndex": {
+    "id": 38776,
+    "rid": 52846,
+    "t": "Bacon and Eggs Benedict Salad",
+    "u": "/bacon-and-eggs-benedict-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/01/bacon-and-egg-benedict-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.1,
+    "cal": 509,
+    "pr": 21.4,
+    "fa": 44.5,
+    "tm": 30,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2019-01-10",
+    "cm": 0,
+    "ex": "My idea of a perfect weekend is sleeping in, eating brunch with an excellent cup of coffee, and exploring my local farmer’s market. Eggs Benedict is a hearty brunch staple that will give you the",
+    "pv": 101
+  },
+  "sourceHtml": "pages/bacon-and-eggs-benedict-salad.html",
+  "scrapedAt": "2026-11-07T08:16:46.814Z"
+}

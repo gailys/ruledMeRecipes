@@ -1,0 +1,256 @@
+{
+  "id": "ruled-11504",
+  "slug": "spinach-shamrock-latte",
+  "title": "Spinach Shamrock Latte",
+  "url": "https://www.ruled.me/spinach-shamrock-latte/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Spinach Shamrock Latte. Each serving comes out to be 216 calories, 13.4g fats, 4.5g net carbs, and 2.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "fatContent": "13.4 g",
+    "proteinContent": "2.4 g",
+    "carbohydrateContent": "4.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 216,
+    "netCarbsGrams": 4.5,
+    "proteinGrams": 2.4,
+    "fatGrams": 13.4
+  },
+  "ingredients": [
+    "1 cup brewed coffee (strong)",
+    "3/4 cup unsweetened carton coconut milk",
+    "1/2 cup pumpkin puree (such as Libby's)",
+    "90 gram spinach",
+    "2 tablespoon butter",
+    "2 tablespoon erythritol",
+    "1/2 teaspoon vanilla extract",
+    "1/2 teaspoon ground cinnamon",
+    "1/4 teaspoon ground ginger",
+    "1/4 teaspoon cardamom",
+    "1/4 teaspoon ground allspice",
+    "10 drop liquid stevia",
+    "10 large ice cubes",
+    "1/4 cup scotch (optional (you can also use whiskey or bourbon))"
+  ],
+  "instructions": [
+    {
+      "text": "Add all of the ingredients to a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-shamrock-latte/#wprm-recipe-50973-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6131.jpg"
+    },
+    {
+      "text": "Blend until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-shamrock-latte/#wprm-recipe-50973-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6136.jpg"
+    },
+    {
+      "text": "Serve cold!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-shamrock-latte/#wprm-recipe-50973-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/ShamrockShake.jpg",
+      "path": "../../nenaudojama/snacks/images/a589de72c7680ffa0055d659.jpg",
+      "archived": true,
+      "originalPath": "images/a589de72c7680ffa0055d659.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6131.jpg",
+      "path": "../../nenaudojama/snacks/images/6c646d3695dd3109edcee4cb.jpg",
+      "archived": true,
+      "originalPath": "images/6c646d3695dd3109edcee4cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6136.jpg",
+      "path": "../../nenaudojama/snacks/images/54ecb295d9f71b7df3df044f.jpg",
+      "archived": true,
+      "originalPath": "images/54ecb295d9f71b7df3df044f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/ShamrockShakeSecond.jpg",
+      "path": "../../nenaudojama/snacks/images/37dd282049072b6246e2f2a1.avif",
+      "archived": true,
+      "originalPath": "images/37dd282049072b6246e2f2a1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/ShamrockShakePin.jpg",
+      "path": "../../nenaudojama/snacks/images/c5251ae21c67511d093bf43d.jpg",
+      "archived": true,
+      "originalPath": "images/c5251ae21c67511d093bf43d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6131-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/c451f5d982879014b157cf78.avif",
+      "archived": true,
+      "originalPath": "images/c451f5d982879014b157cf78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6136-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/46885f53195f5e1413b14299.jpg",
+      "archived": true,
+      "originalPath": "images/46885f53195f5e1413b14299.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/a589de72c7680ffa0055d659.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Spinach Shamrock Latte",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Spinach Shamrock Latte. Each serving comes out to be 216 calories, 13.4g fats, 4.5g net carbs, and 2.4g protein.",
+    "datePublished": "2014-03-17T14:26:26+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/ShamrockShake.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 cup brewed coffee (strong)",
+      "3/4 cup unsweetened carton coconut milk",
+      "1/2 cup pumpkin puree (such as Libby's)",
+      "90 gram spinach",
+      "2 tablespoon butter",
+      "2 tablespoon erythritol",
+      "1/2 teaspoon vanilla extract",
+      "1/2 teaspoon ground cinnamon",
+      "1/4 teaspoon ground ginger",
+      "1/4 teaspoon cardamom",
+      "1/4 teaspoon ground allspice",
+      "10 drop liquid stevia",
+      "10 large ice cubes",
+      "1/4 cup scotch (optional (you can also use whiskey or bourbon))"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the ingredients to a blender.",
+        "name": "Add all of the ingredients to a blender.",
+        "url": "https://www.ruled.me/spinach-shamrock-latte/#wprm-recipe-50973-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6131.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend until well combined.",
+        "name": "Blend until well combined.",
+        "url": "https://www.ruled.me/spinach-shamrock-latte/#wprm-recipe-50973-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_6136.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve cold!",
+        "name": "Serve cold!",
+        "url": "https://www.ruled.me/spinach-shamrock-latte/#wprm-recipe-50973-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "216 kcal",
+      "fatContent": "13.4 g",
+      "proteinContent": "2.4 g",
+      "carbohydrateContent": "4.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/spinach-shamrock-latte/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spinach-shamrock-latte/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spinach-shamrock-latte/"
+  },
+  "sourceIndex": {
+    "id": 11504,
+    "rid": 50973,
+    "t": "Spinach Shamrock Latte",
+    "u": "/spinach-shamrock-latte/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/ShamrockShake.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 4.5,
+    "cal": 216,
+    "pr": 2.4,
+    "fa": 13.4,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 14,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2014-03-17",
+    "cm": 3,
+    "ex": "Happy St. Patty's day everybody! I think I'll be staying pretty classic this time and make some Corned Beef and Cabbage tonight, but we'll see what happens to give it a twist. So, you rarely see me",
+    "pv": 99
+  },
+  "sourceHtml": "pages/spinach-shamrock-latte.html",
+  "scrapedAt": "2026-11-07T08:31:39.649Z"
+}

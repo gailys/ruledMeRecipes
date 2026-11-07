@@ -1,0 +1,322 @@
+{
+  "id": "ruled-31596",
+  "slug": "spinach-watercress-keto-salad",
+  "title": "Keto Spinach & Watercress Salad",
+  "url": "https://www.ruled.me/spinach-watercress-keto-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Spinach & Watercress Salad. Each serving comes out to be 262 calories, 24.2g fats, 2.1g net carbs, and 6.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "fatContent": "24.2 g",
+    "proteinContent": "6.6 g",
+    "carbohydrateContent": "2.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 262,
+    "netCarbsGrams": 2.1,
+    "proteinGrams": 6.6,
+    "fatGrams": 24.2
+  },
+  "ingredients": [
+    "3 cup baby spinach",
+    "1 cup watercress",
+    "1 medium avocado (sliced)",
+    "1/8 cup lemon juice",
+    "1/4 cup avocado oil",
+    "1 tablespoon mediterranean seasoning",
+    "1/2 cup parmesan cheese (shredded)",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Prepare the greens by washing and removing the stems from the spinach and watercress. Pat dry.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-01.jpg"
+    },
+    {
+      "text": "Combine the spinach and watercress in a large bowl or serving platter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-02.jpg"
+    },
+    {
+      "text": "Cut the avocado in half and remove the pit. Peel the skin off of each side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-07.jpg"
+    },
+    {
+      "text": "Slice the avocado in thin strips and set these aside for later.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-04.jpg"
+    },
+    {
+      "text": "To prepare the dressing, combine the lemon juice, avocado oil, and Mediterranean seasoning. Shake well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-05.jpg"
+    },
+    {
+      "text": "Add the shredded parmesan, avocado slices, and salt and pepper to the spinach. Drizzle with the dressing and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/5f61629ee71b8b4f10c77ce8.jpg",
+      "archived": true,
+      "originalPath": "images/5f61629ee71b8b4f10c77ce8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/9c12f710bbdf7746553d9dee.jpg",
+      "archived": true,
+      "originalPath": "images/9c12f710bbdf7746553d9dee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-01.jpg",
+      "path": "../../nenaudojama/side-items/images/6433da9d876ca1aba3754492.jpg",
+      "archived": true,
+      "originalPath": "images/6433da9d876ca1aba3754492.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-02.jpg",
+      "path": "../../nenaudojama/side-items/images/6271ea1c69ec599ba1860b61.avif",
+      "archived": true,
+      "originalPath": "images/6271ea1c69ec599ba1860b61.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-07.jpg",
+      "path": "../../nenaudojama/side-items/images/df3c499f3e17821aefdb3554.avif",
+      "archived": true,
+      "originalPath": "images/df3c499f3e17821aefdb3554.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-04.jpg",
+      "path": "../../nenaudojama/side-items/images/0b6bf727beb5478eb80c928b.jpg",
+      "archived": true,
+      "originalPath": "images/0b6bf727beb5478eb80c928b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-05.jpg",
+      "path": "../../nenaudojama/side-items/images/a5d0f3abf869dfcad38cca34.jpg",
+      "archived": true,
+      "originalPath": "images/a5d0f3abf869dfcad38cca34.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-second.jpg",
+      "path": "../../nenaudojama/side-items/images/a5d1cf64d04853bed226245b.avif",
+      "archived": true,
+      "originalPath": "images/a5d1cf64d04853bed226245b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/30ba7d14d0f21adf0e8418ea.avif",
+      "archived": true,
+      "originalPath": "images/30ba7d14d0f21adf0e8418ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-01-490x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c9e3a03273083f5e453d04e0.jpg",
+      "archived": true,
+      "originalPath": "images/c9e3a03273083f5e453d04e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9396f830b6a11b9a79e8871d.avif",
+      "archived": true,
+      "originalPath": "images/9396f830b6a11b9a79e8871d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-07-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/faf7c51565a01341497d4f3a.jpg",
+      "archived": true,
+      "originalPath": "images/faf7c51565a01341497d4f3a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/ef7f1c113d53b9095b6fda31.jpg",
+      "archived": true,
+      "originalPath": "images/ef7f1c113d53b9095b6fda31.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e3ddad11c949cd3da25590fe.avif",
+      "archived": true,
+      "originalPath": "images/e3ddad11c949cd3da25590fe.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/9c12f710bbdf7746553d9dee.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Spinach &amp; Watercress Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Spinach &amp; Watercress Salad. Each serving comes out to be 262 calories, 24.2g fats, 2.1g net carbs, and 6.6g protein.",
+    "datePublished": "2017-08-24T11:00:49+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "3 cup baby spinach",
+      "1 cup watercress",
+      "1 medium avocado (sliced)",
+      "1/8 cup lemon juice",
+      "1/4 cup avocado oil",
+      "1 tablespoon mediterranean seasoning",
+      "1/2 cup parmesan cheese (shredded)",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the greens by washing and removing the stems from the spinach and watercress. Pat dry.",
+        "name": "Prepare the greens by washing and removing the stems from the spinach and watercress. Pat dry.",
+        "url": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the spinach and watercress in a large bowl or serving platter.",
+        "name": "Combine the spinach and watercress in a large bowl or serving platter.",
+        "url": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the avocado in half and remove the pit. Peel the skin off of each side.",
+        "name": "Cut the avocado in half and remove the pit. Peel the skin off of each side.",
+        "url": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the avocado in thin strips and set these aside for later.",
+        "name": "Slice the avocado in thin strips and set these aside for later.",
+        "url": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To prepare the dressing, combine the lemon juice, avocado oil, and Mediterranean seasoning. Shake well.",
+        "name": "To prepare the dressing, combine the lemon juice, avocado oil, and Mediterranean seasoning. Shake well.",
+        "url": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the shredded parmesan, avocado slices, and salt and pepper to the spinach. Drizzle with the dressing and serve.",
+        "name": "Add the shredded parmesan, avocado slices, and salt and pepper to the spinach. Drizzle with the dressing and serve.",
+        "url": "https://www.ruled.me/spinach-watercress-keto-salad/#wprm-recipe-52285-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad",
+      "Side Items"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "262 kcal",
+      "fatContent": "24.2 g",
+      "proteinContent": "6.6 g",
+      "carbohydrateContent": "2.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/spinach-watercress-keto-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spinach-watercress-keto-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spinach-watercress-keto-salad/"
+  },
+  "sourceIndex": {
+    "id": 31596,
+    "rid": 52285,
+    "t": "Spinach Watercress Keto Salad",
+    "u": "/spinach-watercress-keto-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/07/spinach-watercress-salad-keto-lemon-dressing-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 2.1,
+    "cal": 262,
+    "pr": 6.6,
+    "fa": 24.2,
+    "tm": 10,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2017-08-24",
+    "cm": 3,
+    "ex": "A keto salad doesn't always have to have twelve different toppings or a long list of ingredients to be delicious, satisfying and nutrient dense! Sometimes the simplest of recipes can be a staple meal",
+    "pv": 154
+  },
+  "sourceHtml": "pages/spinach-watercress-keto-salad.html",
+  "scrapedAt": "2026-11-07T08:32:32.325Z"
+}

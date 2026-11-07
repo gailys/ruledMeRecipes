@@ -1,0 +1,403 @@
+{
+  "id": "ruled-25965",
+  "slug": "keto-tater-tots",
+  "title": "Keto Tater Tots",
+  "url": "https://www.ruled.me/keto-tater-tots/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 36 servings of Keto Tater Tots. Each serving comes out to be 66 calories, 6.5g fats, 0.5g net carbs, and 1.1g protein.",
+  "servings": 36,
+  "yield": [
+    "36",
+    "36 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "66 kcal",
+    "fatContent": "6.5 g",
+    "proteinContent": "1.1 g",
+    "carbohydrateContent": "0.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 66,
+    "netCarbsGrams": 0.5,
+    "proteinGrams": 1.1,
+    "fatGrams": 6.5
+  },
+  "ingredients": [
+    "588 gram cauliflower",
+    "2 ounce mozzarella cheese (shredded)",
+    "1/4 cup parmesan cheese (grated)",
+    "1 large egg",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon garlic powder",
+    "2 teaspoon psyllium husk powder",
+    "salt and pepper (to taste)",
+    "1 cup lard (or other high smoke point oil)"
+  ],
+  "instructions": [
+    {
+      "text": "Cut the cauliflower into florets, discarding the longer stems.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_0951.jpg"
+    },
+    {
+      "text": "Steam the cauliflower until tender, then add to a food processor and pulse until it resembles mashed potatoes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_0965.jpg"
+    },
+    {
+      "text": "Let the cauliflower cool, then place into a dish cloth and wring out any excess water (use two dish cloths if needed).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_0969.jpg"
+    },
+    {
+      "text": "Add the cheese, egg, and spices. Mix together until the dough is thickened and workable. If the dough is still too runny, add an extra teaspoon of psyllium husk powder at a time until it reaches the proper consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_0979.jpg"
+    },
+    {
+      "text": "Start by rolling the tater tot batter into a ball. Next, roll the ball into a log. Finally, press the two ends together gently to form that characteristic tater tot shape (more squared off on the ends).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_0987.jpg"
+    },
+    {
+      "text": "Repeat for the rest of the dough.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_1005.jpg"
+    },
+    {
+      "text": "Heat up the oil in a cast-iron skillet over medium heat. Once the oil is hot, reduce the heat to medium-low and add in the tater tots. Fry them in batches until golden on both sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_1011.jpg"
+    },
+    {
+      "text": "Lay on paper towels to cool before serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "batch-cooking",
+    "deep-fried",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/ketotatertots.jpg",
+      "path": "../../nenaudojama/side-items/images/b45cb70a47591f8b0e9894d5.avif",
+      "archived": true,
+      "originalPath": "images/b45cb70a47591f8b0e9894d5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0951.jpg",
+      "path": "../../nenaudojama/side-items/images/93445ce9b7c39fabf48eca5d.jpg",
+      "archived": true,
+      "originalPath": "images/93445ce9b7c39fabf48eca5d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0965.jpg",
+      "path": "../../nenaudojama/side-items/images/1ca8766815daa2a7bbf07050.avif",
+      "archived": true,
+      "originalPath": "images/1ca8766815daa2a7bbf07050.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0969.jpg",
+      "path": "../../nenaudojama/side-items/images/a97670ff779986fd7485c302.avif",
+      "archived": true,
+      "originalPath": "images/a97670ff779986fd7485c302.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0979.jpg",
+      "path": "../../nenaudojama/side-items/images/7499fea7f7db71d45801ef10.jpg",
+      "archived": true,
+      "originalPath": "images/7499fea7f7db71d45801ef10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0987.jpg",
+      "path": "../../nenaudojama/side-items/images/d3b4056dabbe2a0beaf230c6.avif",
+      "archived": true,
+      "originalPath": "images/d3b4056dabbe2a0beaf230c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1005.jpg",
+      "path": "../../nenaudojama/side-items/images/b39aef4390736428460b8218.avif",
+      "archived": true,
+      "originalPath": "images/b39aef4390736428460b8218.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1011.jpg",
+      "path": "../../nenaudojama/side-items/images/afa3d94b069c0dbacdc33e8c.avif",
+      "archived": true,
+      "originalPath": "images/afa3d94b069c0dbacdc33e8c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/ketotatertotssecond.jpg",
+      "path": "../../nenaudojama/side-items/images/4dee13e1a1368138d1892f12.avif",
+      "archived": true,
+      "originalPath": "images/4dee13e1a1368138d1892f12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/ketotatertotslong.jpg",
+      "path": "../../nenaudojama/side-items/images/f41d6b6ac057f1529f3bbac3.jpg",
+      "archived": true,
+      "originalPath": "images/f41d6b6ac057f1529f3bbac3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0951-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9df5b1ac433720e47732c822.avif",
+      "archived": true,
+      "originalPath": "images/9df5b1ac433720e47732c822.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0965-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/b601faab9c579af4b7987cbe.avif",
+      "archived": true,
+      "originalPath": "images/b601faab9c579af4b7987cbe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0969-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/7eb2d69d0515e3294b053c6e.jpg",
+      "archived": true,
+      "originalPath": "images/7eb2d69d0515e3294b053c6e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0979-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/0d979e0f508a1cca40dc2da2.jpg",
+      "archived": true,
+      "originalPath": "images/0d979e0f508a1cca40dc2da2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_0987-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/ac2cc0e71e2bbe9efa25c207.avif",
+      "archived": true,
+      "originalPath": "images/ac2cc0e71e2bbe9efa25c207.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1005-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/f5a5542d6ac8b88379d571ab.avif",
+      "archived": true,
+      "originalPath": "images/f5a5542d6ac8b88379d571ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_1011-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/421e8815bcea0116e161220e.avif",
+      "archived": true,
+      "originalPath": "images/421e8815bcea0116e161220e.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/b45cb70a47591f8b0e9894d5.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Tater Tots",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 36 servings of Keto Tater Tots. Each serving comes out to be 66 calories, 6.5g fats, 0.5g net carbs, and 1.1g protein.",
+    "datePublished": "2015-04-20T15:43:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/04/ketotatertots.jpg"
+    ],
+    "video": {
+      "name": "Keto Tater Tots [Low-Carb Copycat Recipe]",
+      "description": "Tater Tots were an obsession of mine as a kid. Ever since my mom used to buy them, they’d always be requested by me in place of mashed potatoes. They’re crispy, they’re crunchy, and they’re just plain good. Being that I’m keto now, I decided to take it upon myself to delve into the creativity of my childhood and re-create this favorite of mine with keto tater tots.\n\nYou definitely won’t miss the potato here, and unlike many other cauliflower goods – you can’t actually taste much of the cauliflower. This is partly due to the frying oil I used (bacon fat), as the flavors really impart themselves into the tater tots. If you can, choose lard, tallow, or some sort of animal fat to fry with. If you don’t have any on hand, feel free to use olive oil.\n\nYou’ll end up with miniature sized, golden brown bites of deliciousness that will go with just about every meal. Feel free to serve them up with fry sauce, and dip away!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n1 medium head cauliflower\n¼ cup grated Parmesan cheese\n2 ounces mozzarella cheese, shredded\n1 large egg\n½ teaspoon onion powder\n½ teaspoon garlic powder\n2 teaspoons psyllium husk powder\nSalt and pepper to taste\n1 cup frying oil (I used Bacon Fat)\n\nNutrition Summary: This makes a total of 36 Keto Tater Tots. Each 9 piece serving comes out to be 235.75 Calories,18.65g Fats, 5.5g Net Carbs, and 9.05g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2024-01-07T17:00:34+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M21S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 13021
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 352
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 22
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VNXbotDiNDA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/VNXbotDiNDA?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=VNXbotDiNDA",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "36",
+      "36 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "588 gram cauliflower",
+      "2 ounce mozzarella cheese (shredded)",
+      "1/4 cup parmesan cheese (grated)",
+      "1 large egg",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "2 teaspoon psyllium husk powder",
+      "salt and pepper (to taste)",
+      "1 cup lard (or other high smoke point oil)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the cauliflower into florets, discarding the longer stems.",
+        "name": "Cut the cauliflower into florets, discarding the longer stems.",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_0951.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Steam the cauliflower until tender, then add to a food processor and pulse until it resembles mashed potatoes.",
+        "name": "Steam the cauliflower until tender, then add to a food processor and pulse until it resembles mashed potatoes.",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_0965.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the cauliflower cool, then place into a dish cloth and wring out any excess water (use two dish cloths if needed).",
+        "name": "Let the cauliflower cool, then place into a dish cloth and wring out any excess water (use two dish cloths if needed).",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_0969.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cheese, egg, and spices. Mix together until the dough is thickened and workable. If the dough is still too runny, add an extra teaspoon of psyllium husk powder at a time until it reaches the proper consistency.",
+        "name": "Add the cheese, egg, and spices. Mix together until the dough is thickened and workable. If the dough is still too runny, add an extra teaspoon of psyllium husk powder at a time until it reaches the proper consistency.",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_0979.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start by rolling the tater tot batter into a ball. Next, roll the ball into a log. Finally, press the two ends together gently to form that characteristic tater tot shape (more squared off on the ends).",
+        "name": "Start by rolling the tater tot batter into a ball. Next, roll the ball into a log. Finally, press the two ends together gently to form that characteristic tater tot shape (more squared off on the ends).",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_0987.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat for the rest of the dough.",
+        "name": "Repeat for the rest of the dough.",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_1005.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the oil in a cast-iron skillet over medium heat. Once the oil is hot, reduce the heat to medium-low and add in the tater tots. Fry them in batches until golden on both sides.",
+        "name": "Heat up the oil in a cast-iron skillet over medium heat. Once the oil is hot, reduce the heat to medium-low and add in the tater tots. Fry them in batches until golden on both sides.",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_1011.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay on paper towels to cool before serving.",
+        "name": "Lay on paper towels to cool before serving.",
+        "url": "https://www.ruled.me/keto-tater-tots/#wprm-recipe-51665-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, batch-cooking, deep-fried, family-friendly, gluten-free, keto, low-carb, nut-free, quick, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "66 kcal",
+      "fatContent": "6.5 g",
+      "proteinContent": "1.1 g",
+      "carbohydrateContent": "0.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-tater-tots/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-tater-tots/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-tater-tots/"
+  },
+  "sourceIndex": {
+    "id": 25965,
+    "rid": 51665,
+    "t": "Keto Tater Tots",
+    "u": "/keto-tater-tots/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/04/ketotatertots.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 0.5,
+    "cal": 66,
+    "pr": 1.1,
+    "fa": 6.5,
+    "tm": 30,
+    "sv": 36,
+    "kw": [
+      "30-minute",
+      "batch-cooking",
+      "deep-fried",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free"
+    ],
+    "d": "2015-04-20",
+    "cm": 38,
+    "ex": "Tater Tots were an obsession of mine as a kid. Ever since my mom used to buy them, they'd always be requested by me in place of mashed potatoes. They're crispy, they're crunchy, and they're just",
+    "pv": 628
+  },
+  "sourceHtml": "pages/keto-tater-tots.html",
+  "scrapedAt": "2026-11-07T08:32:47.421Z"
+}

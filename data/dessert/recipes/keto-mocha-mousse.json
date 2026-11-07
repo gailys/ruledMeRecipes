@@ -1,0 +1,356 @@
+{
+  "id": "ruled-29499",
+  "slug": "keto-mocha-mousse",
+  "title": "Keto Mocha Mousse",
+  "url": "https://www.ruled.me/keto-mocha-mousse/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Mocha Mousse. Each serving comes out to be 440 calories, 42g fats, 6.7g net carbs, and 6.4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT150M",
+  "totalTime": "PT165M",
+  "totalMinutes": 165,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "440 kcal",
+    "fatContent": "42 g",
+    "proteinContent": "6.4 g",
+    "carbohydrateContent": "6.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 440,
+    "netCarbsGrams": 6.7,
+    "proteinGrams": 6.4,
+    "fatGrams": 42
+  },
+  "ingredients": [
+    "8 ounce cream cheese (softened)",
+    "3 tablespoon sour cream",
+    "2 tablespoon butter (softened)",
+    "1 1/2 teaspoon vanilla extract",
+    "1/3 cup stevia/erythritol blend (such as Swerve)",
+    "1/4 cup unsweetened dark cocoa powder",
+    "3 teaspoon instant coffee",
+    "2/3 cup heavy whipping cream",
+    "1 1/2 teaspoon stevia/erythritol blend (such as Swerve)",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "In a medium bowl, beat the cream cheese, sour cream, and butter with an electric mixer until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1407.jpg"
+    },
+    {
+      "text": "Blend in the vanilla extract, sweetener, cocoa powder, and coffee powder until well incorporated. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1426.jpg"
+    },
+    {
+      "text": "In a separate bowl, beat the heavy whipping cream until soft peaks form. (Be sure beaters are clean and dry.)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1434.jpg"
+    },
+    {
+      "text": "Add the sweetener and vanilla extract and beat until stiff peaks form.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1442.jpg"
+    },
+    {
+      "text": "Gently fold one-third of the whipped cream mixture into the cream cheese mixture to lighten it. Take care not to deflate the bubbles. Fold in the remaining two-thirds of the mixture until the whipped cream is evenly incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1446.jpg"
+    },
+    {
+      "text": "Transfer the mousse into serving dishes and refrigerate until set before serving (about 2 1/2 hours).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-bake",
+    "nut-free",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/keto-mocha-mousse-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/ff23af8b3ae3007f27d318c1.avif",
+      "archived": true,
+      "originalPath": "images/ff23af8b3ae3007f27d318c1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/keto-mocha-mousse-featured.jpg",
+      "path": "images/76d08d1207ab243b9b321968.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1407.jpg",
+      "path": "../../nenaudojama/dessert/images/ccd71508ef7cf498a445564e.avif",
+      "archived": true,
+      "originalPath": "images/ccd71508ef7cf498a445564e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1426.jpg",
+      "path": "../../nenaudojama/dessert/images/033bfc169edd755238e386b4.avif",
+      "archived": true,
+      "originalPath": "images/033bfc169edd755238e386b4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1434.jpg",
+      "path": "../../nenaudojama/dessert/images/bd7093fe46a1bc5ebba097df.avif",
+      "archived": true,
+      "originalPath": "images/bd7093fe46a1bc5ebba097df.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1442.jpg",
+      "path": "../../nenaudojama/dessert/images/6b204ee6b7ff619bebfe94ca.avif",
+      "archived": true,
+      "originalPath": "images/6b204ee6b7ff619bebfe94ca.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1446.jpg",
+      "path": "../../nenaudojama/dessert/images/981b39afab4556a83aac6e14.avif",
+      "archived": true,
+      "originalPath": "images/981b39afab4556a83aac6e14.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/keto-mocha-mousse.jpg",
+      "path": "../../nenaudojama/dessert/images/3d82243d4182675340758546.avif",
+      "archived": true,
+      "originalPath": "images/3d82243d4182675340758546.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/keto-mocha-mousse-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/ea8383c6c9570383fe42c5a3.avif",
+      "archived": true,
+      "originalPath": "images/ea8383c6c9570383fe42c5a3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1407-526x350.jpg",
+      "path": "../../nenaudojama/dessert/images/788c85fc158134c37430f23e.jpg",
+      "archived": true,
+      "originalPath": "images/788c85fc158134c37430f23e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1426-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/02a4ee4daaf2e4846be4099b.avif",
+      "archived": true,
+      "originalPath": "images/02a4ee4daaf2e4846be4099b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1434-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1eb1d6bafcf6efca40f0abca.jpg",
+      "archived": true,
+      "originalPath": "images/1eb1d6bafcf6efca40f0abca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1442-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/838d135480e237e5ec61c845.avif",
+      "archived": true,
+      "originalPath": "images/838d135480e237e5ec61c845.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1446-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/78406e6e56438b12535616c5.avif",
+      "archived": true,
+      "originalPath": "images/78406e6e56438b12535616c5.avif"
+    }
+  ],
+  "featuredImage": "images/76d08d1207ab243b9b321968.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Mocha Mousse",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Mocha Mousse. Each serving comes out to be 440 calories, 42g fats, 6.7g net carbs, and 6.4g protein.",
+    "datePublished": "2017-02-28T12:00:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/02/keto-mocha-mousse-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Mocha Mousse Recipe",
+      "description": "This Keto Mocha Mousse is a velvety cloud of rich chocolate and coffee. Each bite melts in your mouth and is guaranteed to satisfy all your chocolate cravings. While this elegant dessert tastes gourmet, it couldn’t be any easier to prepare at home! Unlike many mousse recipes, this recipe is simple and doesn’t require any cooking. This recipe can easily be prepared in less than 20 minutes.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nFor the cream cheese mixture:\n8 ounces cream cheese, softened\n3 tablespoons sour cream\n2 tablespoons butter, softened\n1 ½ teaspoons vanilla extract\n1/3 cup granulated stevia erythritol blend*\n¼ cup unsweetened cocoa powder\n3 teaspoons instant coffee powder\n\nFor the whipped cream mixture:\n2/3 cup heavy whipping cream\n1 ½ teaspoons granulated stevia erythritol blend*\n½ teaspoon vanilla extract\n\n*The stevia erythritol blend we use in this recipe is twice as sweet as sugar—One teaspoon of the blend is as sweet as two teaspoons of sugar. If using a different sugar-free sweetener, adjust amount accordingly.\n\nNutrition Summary:\nThis makes a total of 4 servings of Keto Mocha Mousse. Each serving comes out to be 421.75 calories, 41.94g Fats, 6.57g Net Carbs, and 6.03g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-05-13T14:00:04+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT1M47S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 145816
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 3703
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 151
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MBCqscerU3k/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/MBCqscerU3k?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=MBCqscerU3k",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT150M",
+    "totalTime": "PT165M",
+    "recipeIngredient": [
+      "8 ounce cream cheese (softened)",
+      "3 tablespoon sour cream",
+      "2 tablespoon butter (softened)",
+      "1 1/2 teaspoon vanilla extract",
+      "1/3 cup stevia/erythritol blend (such as Swerve)",
+      "1/4 cup unsweetened dark cocoa powder",
+      "3 teaspoon instant coffee",
+      "2/3 cup heavy whipping cream",
+      "1 1/2 teaspoon stevia/erythritol blend (such as Swerve)",
+      "1/2 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, beat the cream cheese, sour cream, and butter with an electric mixer until smooth.",
+        "name": "In a medium bowl, beat the cream cheese, sour cream, and butter with an electric mixer until smooth.",
+        "url": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1407.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend in the vanilla extract, sweetener, cocoa powder, and coffee powder until well incorporated. Set aside.",
+        "name": "Blend in the vanilla extract, sweetener, cocoa powder, and coffee powder until well incorporated. Set aside.",
+        "url": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1426.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, beat the heavy whipping cream until soft peaks form. (Be sure beaters are clean and dry.)",
+        "name": "In a separate bowl, beat the heavy whipping cream until soft peaks form. (Be sure beaters are clean and dry.)",
+        "url": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1434.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sweetener and vanilla extract and beat until stiff peaks form.",
+        "name": "Add the sweetener and vanilla extract and beat until stiff peaks form.",
+        "url": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1442.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold one-third of the whipped cream mixture into the cream cheese mixture to lighten it. Take care not to deflate the bubbles. Fold in the remaining two-thirds of the mixture until the whipped cream is evenly incorporated.",
+        "name": "Gently fold one-third of the whipped cream mixture into the cream cheese mixture to lighten it. Take care not to deflate the bubbles. Fold in the remaining two-thirds of the mixture until the whipped cream is evenly incorporated.",
+        "url": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/DSC_1446.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the mousse into serving dishes and refrigerate until set before serving (about 2 1/2 hours).",
+        "name": "Transfer the mousse into serving dishes and refrigerate until set before serving (about 2 1/2 hours).",
+        "url": "https://www.ruled.me/keto-mocha-mousse/#wprm-recipe-52095-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, keto, low-carb, make-ahead, no-bake, nut-free, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "440 kcal",
+      "fatContent": "42 g",
+      "proteinContent": "6.4 g",
+      "carbohydrateContent": "6.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-mocha-mousse/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-mocha-mousse/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-mocha-mousse/"
+  },
+  "sourceIndex": {
+    "id": 29499,
+    "rid": 52095,
+    "t": "Keto Mocha Mousse",
+    "u": "/keto-mocha-mousse/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/02/keto-mocha-mousse-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 6.7,
+    "cal": 440,
+    "pr": 6.4,
+    "fa": 42,
+    "tm": 165,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-bake",
+      "nut-free",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2017-02-28",
+    "cm": 23,
+    "ex": "This Keto Mocha Mousse is a velvety cloud of rich chocolate and coffee. Each bite melts in your mouth and is guaranteed to satisfy all your chocolate cravings. While this elegant dessert tastes",
+    "pv": 1380
+  },
+  "sourceHtml": "pages/keto-mocha-mousse.html",
+  "scrapedAt": "2026-11-07T08:30:47.294Z"
+}

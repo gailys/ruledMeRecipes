@@ -1,0 +1,370 @@
+{
+  "id": "ruled-45594",
+  "slug": "keto-avocado-salmon-eggs-benedict",
+  "title": "Keto Avocado Salmon Eggs Benedict",
+  "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Avocado Salmon Eggs Benedict. Each serving comes out to be 516 calories, 47g fats, 2.7g net carbs, and 17.4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "516 kcal",
+    "fatContent": "47 g",
+    "proteinContent": "17.4 g",
+    "carbohydrateContent": "2.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 516,
+    "netCarbsGrams": 2.7,
+    "proteinGrams": 17.4,
+    "fatGrams": 47
+  },
+  "ingredients": [
+    "3 large egg yolk",
+    "1 tablespoon lemon juice",
+    "salt and pepper (to taste)",
+    "8 tablespoon unsalted butter",
+    "2 medium avocado (pitted + skinned)",
+    "4 large egg (poached)",
+    "5 ounce smoked salmon"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-1.jpg"
+    },
+    {
+      "text": "Add butter to a large microwave safe bowl. Put in the microwave in spurts of 20 seconds increments until melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-2.jpg"
+    },
+    {
+      "text": "Once melted, add the egg yolks to the large bowl with the lemon juice and salt and pepper. With an immersion blender on the bottom of the bowl, mix this together until you get a white, creamy mixture. Then, lift the blender up and down until it gets more creamy. Set the hollandaise aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-3.jpg"
+    },
+    {
+      "text": "Boil water in a saucepan. Then lower to low to medium heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-4.jpg"
+    },
+    {
+      "text": "Crack the eggs for the eggs benedict in a bowl and slowly pour them into the boiling water. Consistently stir the water in a circle. Stirring it in a circle will keep the egg white and egg yolk together. Do this for 3-4 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-5.jpg"
+    },
+    {
+      "text": "Once cooked, put the poached eggs on a paper towel lined plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-6.jpg"
+    },
+    {
+      "text": "Cut the avocados in half. Pit and skin them. On the backend of the avocados, cut a little off so it will sit on the plate even.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-7.jpg"
+    },
+    {
+      "text": "Add a poached egg to the avocado center, then add hollandaise sauce on top. Add smoked salmon on the side or on top. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/879f169a735583d821610d80.avif",
+      "archived": true,
+      "originalPath": "images/879f169a735583d821610d80.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Featured.jpg",
+      "path": "images/a36d995934014eb9f264247d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/35dc379d50507f5363169aff.jpg",
+      "archived": true,
+      "originalPath": "images/35dc379d50507f5363169aff.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/a648dbfd979a90e77e0fcbd7.jpg",
+      "archived": true,
+      "originalPath": "images/a648dbfd979a90e77e0fcbd7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/cf5362b22340706c67aee465.jpg",
+      "archived": true,
+      "originalPath": "images/cf5362b22340706c67aee465.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/d69a5233f3a2c909109d3bca.jpg",
+      "archived": true,
+      "originalPath": "images/d69a5233f3a2c909109d3bca.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/1e9c8b26e7d496f033bf2f71.avif",
+      "archived": true,
+      "originalPath": "images/1e9c8b26e7d496f033bf2f71.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-6.jpg",
+      "path": "../../nenaudojama/breakfast/images/1903bc1c0ec79c0dc4370c75.jpg",
+      "archived": true,
+      "originalPath": "images/1903bc1c0ec79c0dc4370c75.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-7.jpg",
+      "path": "../../nenaudojama/breakfast/images/035821e9b398666bb1c8f2f9.jpg",
+      "archived": true,
+      "originalPath": "images/035821e9b398666bb1c8f2f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/b059d7cbdf3964280f5192d6.jpg",
+      "archived": true,
+      "originalPath": "images/b059d7cbdf3964280f5192d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/11e4c93c5e153c0d9686826a.avif",
+      "archived": true,
+      "originalPath": "images/11e4c93c5e153c0d9686826a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/0a0f35e93ccc723a5de390f2.jpg",
+      "archived": true,
+      "originalPath": "images/0a0f35e93ccc723a5de390f2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e121c258e986701bcfa94664.jpg",
+      "archived": true,
+      "originalPath": "images/e121c258e986701bcfa94664.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/79b0797a3279d55465bf17b7.jpg",
+      "archived": true,
+      "originalPath": "images/79b0797a3279d55465bf17b7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ef13a7b011899863d4a9443f.jpg",
+      "archived": true,
+      "originalPath": "images/ef13a7b011899863d4a9443f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9b752c957b023039c6b66ff1.jpg",
+      "archived": true,
+      "originalPath": "images/9b752c957b023039c6b66ff1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/e1428af9f819ed31fcb01363.avif",
+      "archived": true,
+      "originalPath": "images/e1428af9f819ed31fcb01363.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-6-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f5734e30d5181c4fdced53c3.jpg",
+      "archived": true,
+      "originalPath": "images/f5734e30d5181c4fdced53c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-7-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4933b2d4dc36fb78299a1916.jpg",
+      "archived": true,
+      "originalPath": "images/4933b2d4dc36fb78299a1916.jpg"
+    }
+  ],
+  "featuredImage": "images/a36d995934014eb9f264247d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Avocado Salmon Eggs Benedict",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Avocado Salmon Eggs Benedict. Each serving comes out to be 516 calories, 47g fats, 2.7g net carbs, and 17.4g protein.",
+    "datePublished": "2021-07-22T09:00:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3 large egg yolk",
+      "1 tablespoon lemon juice",
+      "salt and pepper (to taste)",
+      "8 tablespoon unsalted butter",
+      "2 medium avocado (pitted + skinned)",
+      "4 large egg (poached)",
+      "5 ounce smoked salmon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all ingredients.",
+        "name": "Measure out and prepare all ingredients.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add butter to a large microwave safe bowl. Put in the microwave in spurts of 20 seconds increments until melted.",
+        "name": "Add butter to a large microwave safe bowl. Put in the microwave in spurts of 20 seconds increments until melted.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once melted, add the egg yolks to the large bowl with the lemon juice and salt and pepper. With an immersion blender on the bottom of the bowl, mix this together until you get a white, creamy mixture. Then, lift the blender up and down until it gets more creamy. Set the hollandaise aside.",
+        "name": "Once melted, add the egg yolks to the large bowl with the lemon juice and salt and pepper. With an immersion blender on the bottom of the bowl, mix this together until you get a white, creamy mixture. Then, lift the blender up and down until it gets more creamy. Set the hollandaise aside.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil water in a saucepan. Then lower to low to medium heat.",
+        "name": "Boil water in a saucepan. Then lower to low to medium heat.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs for the eggs benedict in a bowl and slowly pour them into the boiling water. Consistently stir the water in a circle. Stirring it in a circle will keep the egg white and egg yolk together. Do this for 3-4 minutes.",
+        "name": "Crack the eggs for the eggs benedict in a bowl and slowly pour them into the boiling water. Consistently stir the water in a circle. Stirring it in a circle will keep the egg white and egg yolk together. Do this for 3-4 minutes.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once cooked, put the poached eggs on a paper towel lined plate.",
+        "name": "Once cooked, put the poached eggs on a paper towel lined plate.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the avocados in half. Pit and skin them. On the backend of the avocados, cut a little off so it will sit on the plate even.",
+        "name": "Cut the avocados in half. Pit and skin them. On the backend of the avocados, cut a little off so it will sit on the plate even.",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add a poached egg to the avocado center, then add hollandaise sauce on top. Add smoked salmon on the side or on top. Enjoy!",
+        "name": "Add a poached egg to the avocado center, then add hollandaise sauce on top. Add smoked salmon on the side or on top. Enjoy!",
+        "url": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#wprm-recipe-53849-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, eggs, gluten-free, high-fat, keto, low-carb, nut-free, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "516 kcal",
+      "fatContent": "47 g",
+      "proteinContent": "17.4 g",
+      "carbohydrateContent": "2.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-avocado-salmon-eggs-benedict/"
+  },
+  "sourceIndex": {
+    "id": 45594,
+    "rid": 53849,
+    "t": "Keto Avocado Salmon Eggs Benedict",
+    "u": "/keto-avocado-salmon-eggs-benedict/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/05/Avocado-Salmon-Eggs-Benedict-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.7,
+    "cal": 516,
+    "pr": 17.4,
+    "fa": 47,
+    "tm": 15,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "stovetop",
+      "eggs"
+    ],
+    "d": "2021-07-22",
+    "cm": 0,
+    "ex": "You guys know that I love making new things with avocados and turning them into \"boats\". This morning I wanted to create a breakfast avocado boat. So I poached some eggs and took a keto spin on Eggs",
+    "pv": 145
+  },
+  "sourceHtml": "pages/keto-avocado-salmon-eggs-benedict.html",
+  "scrapedAt": "2026-11-07T08:11:12.353Z"
+}

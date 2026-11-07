@@ -1,0 +1,300 @@
+{
+  "id": "ruled-59495",
+  "slug": "prosciutto-wrapped-chicken-with-green-beans",
+  "title": "Prosciutto Wrapped Chicken with Green Beans",
+  "url": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Prosciutto Wrapped Chicken with Green Beans. Each serving comes out to be 363 calories, 15.3g fats, 1.7g net carbs, and 51.2g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "fatContent": "15.3 g",
+    "proteinContent": "51.2 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 363,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 51.2,
+    "fatGrams": 15.3
+  },
+  "ingredients": [
+    "16 ounce boneless, skinless chicken breast (sliced thin)",
+    "4 ounce swiss cheese (sliced)",
+    "100 gram green beans (blanched)",
+    "4 ounce prosciutto"
+  ],
+  "instructions": [
+    {
+      "text": "Gather ingredients and preheat oven to 400F. If your chicken needs to be flattened out, pound it thinner with a mallet. Divide green beans into bundles equal to number of servings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-01.jpg"
+    },
+    {
+      "text": "Lay a piece of Swiss cheese and a bundle of green beans on top of each chicken slice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-02.jpg"
+    },
+    {
+      "text": "Roll the chicken up then secure by wrapping with prosciutto.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-03.jpg"
+    },
+    {
+      "text": "Place the chicken seam side down in the baking dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-04.jpg"
+    },
+    {
+      "text": "Bake for 30 minutes, ensuring chicken is cooked through, then serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-05.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "poultry",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "high-protein",
+    "poultry",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/6d3e0092577b8dd6cde8ff15.avif",
+      "archived": true,
+      "originalPath": "images/6d3e0092577b8dd6cde8ff15.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d.jpg",
+      "path": "images/56590310957f150bf3533e56.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-01.jpg",
+      "path": "../../nenaudojama/dinner/images/ea063e54ab8074057b65aa5f.jpg",
+      "archived": true,
+      "originalPath": "images/ea063e54ab8074057b65aa5f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-02.jpg",
+      "path": "../../nenaudojama/dinner/images/8b4063578c0ee09564b46c26.jpg",
+      "archived": true,
+      "originalPath": "images/8b4063578c0ee09564b46c26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-03.jpg",
+      "path": "../../nenaudojama/dinner/images/b7fc0e3bdf351a5c0bcf222b.jpg",
+      "archived": true,
+      "originalPath": "images/b7fc0e3bdf351a5c0bcf222b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-04.jpg",
+      "path": "../../nenaudojama/dinner/images/a143f3477c4547a284da3b28.jpg",
+      "archived": true,
+      "originalPath": "images/a143f3477c4547a284da3b28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-05.jpg",
+      "path": "../../nenaudojama/dinner/images/544627d3fc4c766d2e52aa2e.jpg",
+      "archived": true,
+      "originalPath": "images/544627d3fc4c766d2e52aa2e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/7a734a6c1a55ed7dbe08d091.jpg",
+      "archived": true,
+      "originalPath": "images/7a734a6c1a55ed7dbe08d091.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/daceffabc03470e7c16a4c0d.jpg",
+      "archived": true,
+      "originalPath": "images/daceffabc03470e7c16a4c0d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b3ab9e8d2b16ac7e040d8f57.jpg",
+      "archived": true,
+      "originalPath": "images/b3ab9e8d2b16ac7e040d8f57.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/87d71b2611dce5ea4473cea6.jpg",
+      "archived": true,
+      "originalPath": "images/87d71b2611dce5ea4473cea6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0e4fdf5152f11c3100c76f6f.jpg",
+      "archived": true,
+      "originalPath": "images/0e4fdf5152f11c3100c76f6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-05-233x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cbe5b00c6a1a4cd776e4736e.jpg",
+      "archived": true,
+      "originalPath": "images/cbe5b00c6a1a4cd776e4736e.jpg"
+    }
+  ],
+  "featuredImage": "images/56590310957f150bf3533e56.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Prosciutto Wrapped Chicken with Green Beans",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Prosciutto Wrapped Chicken with Green Beans. Each serving comes out to be 363 calories, 15.3g fats, 1.7g net carbs, and 51.2g protein.",
+    "datePublished": "2026-04-30T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT30M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "16 ounce boneless, skinless chicken breast (sliced thin)",
+      "4 ounce swiss cheese (sliced)",
+      "100 gram green beans (blanched)",
+      "4 ounce prosciutto"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather ingredients and preheat oven to 400F. If your chicken needs to be flattened out, pound it thinner with a mallet. Divide green beans into bundles equal to number of servings.",
+        "name": "Gather ingredients and preheat oven to 400F. If your chicken needs to be flattened out, pound it thinner with a mallet. Divide green beans into bundles equal to number of servings.",
+        "url": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay a piece of Swiss cheese and a bundle of green beans on top of each chicken slice.",
+        "name": "Lay a piece of Swiss cheese and a bundle of green beans on top of each chicken slice.",
+        "url": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll the chicken up then secure by wrapping with prosciutto.",
+        "name": "Roll the chicken up then secure by wrapping with prosciutto.",
+        "url": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken seam side down in the baking dish.",
+        "name": "Place the chicken seam side down in the baking dish.",
+        "url": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 30 minutes, ensuring chicken is cooked through, then serve.",
+        "name": "Bake for 30 minutes, ensuring chicken is cooked through, then serve.",
+        "url": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#wprm-recipe-59492-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/04/prosciutto-wrapped-chicken-with-green-beans-step-05.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "keywords": "egg-free, gluten-free, high-protein, keto, low-carb, nut-free, oven-baked, pork, poultry, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "363 kcal",
+      "fatContent": "15.3 g",
+      "proteinContent": "51.2 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/prosciutto-wrapped-chicken-with-green-beans/"
+  },
+  "sourceIndex": {
+    "id": 59495,
+    "rid": 59492,
+    "t": "Prosciutto Wrapped Chicken with Green Beans",
+    "u": "/prosciutto-wrapped-chicken-with-green-beans/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/10db21e19140482a0c33aae34183975d-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.7,
+    "cal": 363,
+    "pr": 51.2,
+    "fa": 15.3,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "poultry",
+      "sugar-free"
+    ],
+    "ni": 4,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "high-protein",
+      "poultry",
+      "pork"
+    ],
+    "d": "2026-04-30",
+    "cm": 0,
+    "ex": "This prosciutto wrapped chicken with green beans is a sophisticated yet incredibly simple dinner that brings a touch of gourmet flair to your weeknight keto routine. The saltiness of the thinly",
+    "pv": 176
+  },
+  "sourceHtml": "pages/prosciutto-wrapped-chicken-with-green-beans.html",
+  "scrapedAt": "2026-11-07T08:27:43.349Z"
+}

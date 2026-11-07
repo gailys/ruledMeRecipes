@@ -1,0 +1,297 @@
+{
+  "id": "ruled-1073",
+  "slug": "keto-recipe-better-goldfish",
+  "title": "Better Than Goldfish",
+  "url": "https://www.ruled.me/keto-recipe-better-goldfish/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Better Than Goldfish. The serving comes out to be 239 calories, 22.3g fats, 1.8g net carbs, and 8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "239 kcal",
+    "fatContent": "22.3 g",
+    "proteinContent": "8 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 239,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 8,
+    "fatGrams": 22.3
+  },
+  "ingredients": [
+    "1 ounce sharp cheddar cheese (grated)",
+    "1 tablespoon butter",
+    "1 tablespoon coconut flour",
+    "salt (to taste)",
+    "1/8 teaspoon onion powder"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 325F",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/m1uTP4C.jpg"
+    },
+    {
+      "text": "Put the cheese, butter, coconut flour, salt and onion powder into a food processor.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Pulse all ingredients until a light dough forms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Wrap the dough in plastic wrap and stick it in the fridge for 30 minutes. If you're really in need of them, you can put the dough in the freezer for 10 minutes (consistency turns out a little less crunchy).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Place dough between 2 sheets of parchment paper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Roll dough to about 1/8 inch thickness.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-5",
+      "imageSource": null
+    },
+    {
+      "text": "Cut the dough into triangles, or use a cookie cutter if you have one.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-6",
+      "imageSource": null
+    },
+    {
+      "text": "Spread the chips onto your parchment paper evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-7",
+      "imageSource": null
+    },
+    {
+      "text": "Bake for 4-5 minutes, or until the edges are starting to to turn light brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-8",
+      "imageSource": null
+    },
+    {
+      "text": "Let sit for 3-4 minutes, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-9",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/img_2532.jpg",
+      "path": "../../nenaudojama/snacks/images/55c4e76ba34d308a780e4ba3.avif",
+      "archived": true,
+      "originalPath": "images/55c4e76ba34d308a780e4ba3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/m1uTP4C.jpg",
+      "path": "../../nenaudojama/snacks/images/fd3877b53b0b267617173ddb.jpg",
+      "archived": true,
+      "originalPath": "images/fd3877b53b0b267617173ddb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/m1uTP4C-350x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2d9e8c535b8fdcbf32612b7e.jpg",
+      "archived": true,
+      "originalPath": "images/2d9e8c535b8fdcbf32612b7e.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/55c4e76ba34d308a780e4ba3.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Better Than Goldfish",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Better Than Goldfish. The serving comes out to be 239 calories, 22.3g fats, 1.8g net carbs, and 8g protein.",
+    "datePublished": "2013-10-28T19:32:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/img_2532.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1 ounce sharp cheddar cheese (grated)",
+      "1 tablespoon butter",
+      "1 tablespoon coconut flour",
+      "salt (to taste)",
+      "1/8 teaspoon onion powder"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325F",
+        "name": "Preheat oven to 325F",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/m1uTP4C.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the cheese, butter, coconut flour, salt and onion powder into a food processor.",
+        "name": "Put the cheese, butter, coconut flour, salt and onion powder into a food processor.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pulse all ingredients until a light dough forms.",
+        "name": "Pulse all ingredients until a light dough forms.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wrap the dough in plastic wrap and stick it in the fridge for 30 minutes. If you're really in need of them, you can put the dough in the freezer for 10 minutes (consistency turns out a little less crunchy).",
+        "name": "Wrap the dough in plastic wrap and stick it in the fridge for 30 minutes. If you're really in need of them, you can put the dough in the freezer for 10 minutes (consistency turns out a little less crunchy).",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place dough between 2 sheets of parchment paper.",
+        "name": "Place dough between 2 sheets of parchment paper.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll dough to about 1/8 inch thickness.",
+        "name": "Roll dough to about 1/8 inch thickness.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-5"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the dough into triangles, or use a cookie cutter if you have one.",
+        "name": "Cut the dough into triangles, or use a cookie cutter if you have one.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-6"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the chips onto your parchment paper evenly.",
+        "name": "Spread the chips onto your parchment paper evenly.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-7"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 4-5 minutes, or until the edges are starting to to turn light brown.",
+        "name": "Bake for 4-5 minutes, or until the edges are starting to to turn light brown.",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-8"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let sit for 3-4 minutes, and enjoy!",
+        "name": "Let sit for 3-4 minutes, and enjoy!",
+        "url": "https://www.ruled.me/keto-recipe-better-goldfish/#wprm-recipe-50347-step-0-9"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "239 kcal",
+      "fatContent": "22.3 g",
+      "proteinContent": "8 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-recipe-better-goldfish/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-recipe-better-goldfish/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-recipe-better-goldfish/"
+  },
+  "sourceIndex": {
+    "id": 1073,
+    "rid": 50347,
+    "t": "Keto Recipe: Better Than Goldfish",
+    "u": "/keto-recipe-better-goldfish/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/img_2532.jpg",
+    "w": 560,
+    "h": 418,
+    "c": "snacks",
+    "nc": 1.8,
+    "cal": 239,
+    "pr": 8,
+    "fa": 22.3,
+    "tm": 25,
+    "sv": 1,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked"
+    ],
+    "d": "2013-10-28",
+    "cm": 61,
+    "ex": "It's not always easy finding something that's crunchy and satisfying when it comes to keto recipes, in fact most of the things I eat have no crunch at all. Sometimes those crunch cravings hit me hard",
+    "pv": 691
+  },
+  "sourceHtml": "pages/keto-recipe-better-goldfish.html",
+  "scrapedAt": "2026-11-07T08:31:49.833Z"
+}

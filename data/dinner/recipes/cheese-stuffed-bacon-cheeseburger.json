@@ -1,0 +1,350 @@
+{
+  "id": "ruled-26132",
+  "slug": "cheese-stuffed-bacon-cheeseburger",
+  "title": "Cheese-Stuffed Bacon Cheeseburger",
+  "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Cheese-Stuffed Bacon Cheeseburger. Each serving comes out to be 558 calories, 46.2g fats, 1.7g net carbs, and 32.2g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "558 kcal",
+    "fatContent": "46.2 g",
+    "proteinContent": "32.2 g",
+    "carbohydrateContent": "1.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 558,
+    "netCarbsGrams": 1.7,
+    "proteinGrams": 32.2,
+    "fatGrams": 46.2
+  },
+  "ingredients": [
+    "8 ounce ground beef",
+    "1 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "1 teaspoon cajun seasoning",
+    "1 ounce mozzarella cheese",
+    "2 ounce cheddar cheese",
+    "1 tablespoon butter (per burger)",
+    "2 slice cooked bacon"
+  ],
+  "instructions": [
+    {
+      "text": "Season the ground beef with the salt, pepper, and cajun seasoning. Mix together lightly until combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_4449.jpg"
+    },
+    {
+      "text": "Prepare the cheese by cubing the mozzarella and slicing the cheddar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_4460.jpg"
+    },
+    {
+      "text": "Form the ground beef into rough patties and place the mozzarella inside, enclosing the cheese within the beef.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_4462.jpg"
+    },
+    {
+      "text": "Heat the butter in a pan, and wait until it's bubbling and hot. Add the burger to the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_4469.jpg"
+    },
+    {
+      "text": "Cover with a cloche and let cook for 5–6 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_4474.jpg"
+    },
+    {
+      "text": "Flip the burger and place the cheddar cheese on top. Cover again and let cook until the desired temperature is reached (about 3–4 more minutes).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/06/img_4479.jpg"
+    },
+    {
+      "text": "Chop the bacon in half and place it on top of the burger. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/stuffedbaconcheeseburger.jpg",
+      "path": "images/d101b7c893a62ba733d86212.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4449.jpg",
+      "path": "../../nenaudojama/dinner/images/9743e324cae44e0b35def941.jpg",
+      "archived": true,
+      "originalPath": "images/9743e324cae44e0b35def941.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4460.jpg",
+      "path": "../../nenaudojama/dinner/images/68e780cfec519c4b5ba623e3.jpg",
+      "archived": true,
+      "originalPath": "images/68e780cfec519c4b5ba623e3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4462.jpg",
+      "path": "../../nenaudojama/dinner/images/29b76300a305121627cdb2e3.avif",
+      "archived": true,
+      "originalPath": "images/29b76300a305121627cdb2e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4469.jpg",
+      "path": "../../nenaudojama/dinner/images/f5e230fac8d9cc9924982137.jpg",
+      "archived": true,
+      "originalPath": "images/f5e230fac8d9cc9924982137.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4474.jpg",
+      "path": "../../nenaudojama/dinner/images/ade8aae261fc15c63e9fc327.jpg",
+      "archived": true,
+      "originalPath": "images/ade8aae261fc15c63e9fc327.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4479.jpg",
+      "path": "../../nenaudojama/dinner/images/ca75dde2e2a7e64c0e5ec731.jpg",
+      "archived": true,
+      "originalPath": "images/ca75dde2e2a7e64c0e5ec731.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/stuffedbaconcheeseburgersecond.jpg",
+      "path": "../../nenaudojama/dinner/images/1fb8b822e1bae644a1e693b0.avif",
+      "archived": true,
+      "originalPath": "images/1fb8b822e1bae644a1e693b0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/stuffedbaconcheeseburgerlong.jpg",
+      "path": "../../nenaudojama/dinner/images/afc8e66dbd1a0a013bbb0ae8.jpg",
+      "archived": true,
+      "originalPath": "images/afc8e66dbd1a0a013bbb0ae8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4449-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/44b50b9c541b4e2288aad599.avif",
+      "archived": true,
+      "originalPath": "images/44b50b9c541b4e2288aad599.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4460-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d4736b4ab502555c9f13d7c6.avif",
+      "archived": true,
+      "originalPath": "images/d4736b4ab502555c9f13d7c6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4462-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/25ea960de487c18aa7c6f226.avif",
+      "archived": true,
+      "originalPath": "images/25ea960de487c18aa7c6f226.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4469-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d9f324f4d14f4b57148011d0.avif",
+      "archived": true,
+      "originalPath": "images/d9f324f4d14f4b57148011d0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4474-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2400076d8ed8559a5dc3ff4b.jpg",
+      "archived": true,
+      "originalPath": "images/2400076d8ed8559a5dc3ff4b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/06/img_4479-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/465d04625ab467be2348e137.jpg",
+      "archived": true,
+      "originalPath": "images/465d04625ab467be2348e137.jpg"
+    }
+  ],
+  "featuredImage": "images/d101b7c893a62ba733d86212.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cheese-Stuffed Bacon Cheeseburger",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Cheese-Stuffed Bacon Cheeseburger. Each serving comes out to be 558 calories, 46.2g fats, 1.7g net carbs, and 32.2g protein.",
+    "datePublished": "2015-06-01T15:48:23+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/06/stuffedbaconcheeseburger.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "8 ounce ground beef",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1 teaspoon cajun seasoning",
+      "1 ounce mozzarella cheese",
+      "2 ounce cheddar cheese",
+      "1 tablespoon butter (per burger)",
+      "2 slice cooked bacon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Season the ground beef with the salt, pepper, and cajun seasoning. Mix together lightly until combined.",
+        "name": "Season the ground beef with the salt, pepper, and cajun seasoning. Mix together lightly until combined.",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_4449.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the cheese by cubing the mozzarella and slicing the cheddar.",
+        "name": "Prepare the cheese by cubing the mozzarella and slicing the cheddar.",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_4460.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the ground beef into rough patties and place the mozzarella inside, enclosing the cheese within the beef.",
+        "name": "Form the ground beef into rough patties and place the mozzarella inside, enclosing the cheese within the beef.",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_4462.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the butter in a pan, and wait until it's bubbling and hot. Add the burger to the pan.",
+        "name": "Heat the butter in a pan, and wait until it's bubbling and hot. Add the burger to the pan.",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_4469.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover with a cloche and let cook for 5–6 minutes.",
+        "name": "Cover with a cloche and let cook for 5–6 minutes.",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_4474.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the burger and place the cheddar cheese on top. Cover again and let cook until the desired temperature is reached (about 3–4 more minutes).",
+        "name": "Flip the burger and place the cheddar cheese on top. Cover again and let cook until the desired temperature is reached (about 3–4 more minutes).",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/06/img_4479.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the bacon in half and place it on top of the burger. Enjoy!",
+        "name": "Chop the bacon in half and place it on top of the burger. Enjoy!",
+        "url": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#wprm-recipe-51713-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, comfort-food, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, quick, red meat, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "558 kcal",
+      "fatContent": "46.2 g",
+      "proteinContent": "32.2 g",
+      "carbohydrateContent": "1.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/"
+  },
+  "sourceIndex": {
+    "id": 26132,
+    "rid": 51713,
+    "t": "Cheese Stuffed Bacon Cheeseburger",
+    "u": "/cheese-stuffed-bacon-cheeseburger/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/06/stuffedbaconcheeseburger.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 1.7,
+    "cal": 558,
+    "pr": 32.2,
+    "fa": 46.2,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2015-06-01",
+    "cm": 14,
+    "ex": "We're continuing on with ketogenic recipes that are simple, easy, and have been staples of mine over the last 6 years. Generally speaking, keto does demand a bit more time in the kitchen than most",
+    "pv": 265
+  },
+  "sourceHtml": "pages/cheese-stuffed-bacon-cheeseburger.html",
+  "scrapedAt": "2026-11-07T08:27:44.869Z"
+}

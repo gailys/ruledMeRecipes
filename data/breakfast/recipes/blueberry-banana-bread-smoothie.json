@@ -1,0 +1,299 @@
+{
+  "id": "ruled-24489",
+  "slug": "blueberry-banana-bread-smoothie",
+  "title": "Blueberry Banana Bread Smoothie",
+  "url": "https://www.ruled.me/blueberry-banana-bread-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Blueberry Banana Bread Smoothie. Each serving comes out to be 270 calories, 23.5g fats, 3.3g net carbs, and 2.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "270 kcal",
+    "fatContent": "23.5 g",
+    "proteinContent": "2.9 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 270,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 2.9,
+    "fatGrams": 23.5
+  },
+  "ingredients": [
+    "2 cup unsweetened carton coconut milk",
+    "14 large ice cubes",
+    "1 1/2 teaspoon banana extract",
+    "2 tablespoon mct oil",
+    "1/4 teaspoon xanthan gum",
+    "10 drop liquid stevia",
+    "1/4 cup blueberries",
+    "3 tablespoon flaxseed meal",
+    "1 tablespoon chia seeds"
+  ],
+  "instructions": [
+    {
+      "text": "Pour the coconut milk into a blender along with the ice cubes, banana extract, MCT oil, xanthan gum, and liquid stevia. I'm using a Ninja Blender with the Mini Ninja attachment.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5583.jpg"
+    },
+    {
+      "text": "Add the blueberries.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5585.jpg"
+    },
+    {
+      "text": "Add the flaxseed meal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5591.jpg"
+    },
+    {
+      "text": "Measure out the chia seeds and add them in. Let sit for a few minutes and then blend for 1–2 minutes, or until all the ingredients are thoroughly incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_5595.jpg"
+    },
+    {
+      "text": "Pour and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/blueberrybananabreadsmoothie1.jpg",
+      "path": "images/6565fb6e88bf0b92d8c4b6b0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5583.jpg",
+      "path": "../../nenaudojama/breakfast/images/83377d7ed4ff210e52825a78.avif",
+      "archived": true,
+      "originalPath": "images/83377d7ed4ff210e52825a78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5585.jpg",
+      "path": "../../nenaudojama/breakfast/images/834b52e4c4d5453389e45fe4.jpg",
+      "archived": true,
+      "originalPath": "images/834b52e4c4d5453389e45fe4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5591.jpg",
+      "path": "../../nenaudojama/breakfast/images/b27423cd852ef1ee8c7f5765.jpg",
+      "archived": true,
+      "originalPath": "images/b27423cd852ef1ee8c7f5765.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5595.jpg",
+      "path": "../../nenaudojama/breakfast/images/d953167a383ba767f9cab541.jpg",
+      "archived": true,
+      "originalPath": "images/d953167a383ba767f9cab541.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/blueberrybananabreadsmoothiesecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/ff16c540d705ac53f59fe447.avif",
+      "archived": true,
+      "originalPath": "images/ff16c540d705ac53f59fe447.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/blueberrybananabreadsmoothielong.jpg",
+      "path": "../../nenaudojama/breakfast/images/9a1a1188c695435566cfa4c8.jpg",
+      "archived": true,
+      "originalPath": "images/9a1a1188c695435566cfa4c8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5583-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4254ab8d0c878745ee5077cb.jpg",
+      "archived": true,
+      "originalPath": "images/4254ab8d0c878745ee5077cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5585-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bc6a2f92aec455245b4c7dce.jpg",
+      "archived": true,
+      "originalPath": "images/bc6a2f92aec455245b4c7dce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5591-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/df1b1fc9c448707af9095d9a.jpg",
+      "archived": true,
+      "originalPath": "images/df1b1fc9c448707af9095d9a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_5595-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/0648b75da9d6ce8b5cafb14e.jpg",
+      "archived": true,
+      "originalPath": "images/0648b75da9d6ce8b5cafb14e.jpg"
+    }
+  ],
+  "featuredImage": "images/6565fb6e88bf0b92d8c4b6b0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Blueberry Banana Bread Smoothie",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Blueberry Banana Bread Smoothie. Each serving comes out to be 270 calories, 23.5g fats, 3.3g net carbs, and 2.9g protein.",
+    "datePublished": "2014-09-04T15:25:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/blueberrybananabreadsmoothie1.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "2 cup unsweetened carton coconut milk",
+      "14 large ice cubes",
+      "1 1/2 teaspoon banana extract",
+      "2 tablespoon mct oil",
+      "1/4 teaspoon xanthan gum",
+      "10 drop liquid stevia",
+      "1/4 cup blueberries",
+      "3 tablespoon flaxseed meal",
+      "1 tablespoon chia seeds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pour the coconut milk into a blender along with the ice cubes, banana extract, MCT oil, xanthan gum, and liquid stevia. I'm using a Ninja Blender with the Mini Ninja attachment.",
+        "name": "Pour the coconut milk into a blender along with the ice cubes, banana extract, MCT oil, xanthan gum, and liquid stevia. I'm using a Ninja Blender with the Mini Ninja attachment.",
+        "url": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5583.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the blueberries.",
+        "name": "Add the blueberries.",
+        "url": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5585.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the flaxseed meal.",
+        "name": "Add the flaxseed meal.",
+        "url": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5591.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure out the chia seeds and add them in. Let sit for a few minutes and then blend for 1–2 minutes, or until all the ingredients are thoroughly incorporated.",
+        "name": "Measure out the chia seeds and add them in. Let sit for a few minutes and then blend for 1–2 minutes, or until all the ingredients are thoroughly incorporated.",
+        "url": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_5595.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour and enjoy!",
+        "name": "Pour and enjoy!",
+        "url": "https://www.ruled.me/blueberry-banana-bread-smoothie/#wprm-recipe-51367-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "270 kcal",
+      "fatContent": "23.5 g",
+      "proteinContent": "2.9 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/blueberry-banana-bread-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/blueberry-banana-bread-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/blueberry-banana-bread-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 24489,
+    "rid": 51367,
+    "t": "Blueberry Banana Bread Smoothie",
+    "u": "/blueberry-banana-bread-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/blueberrybananabreadsmoothie1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.3,
+    "cal": 270,
+    "pr": 2.9,
+    "fa": 23.5,
+    "tm": 5,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2014-09-04",
+    "cm": 11,
+    "ex": "Before you say it, I know what you're thinking: \"But Craig, bananas are definitely not allowed on a ketogenic diet!\" Don't worry guys, we're using banana flavored extract to impart some flavor into",
+    "pv": 1214
+  },
+  "sourceHtml": "pages/blueberry-banana-bread-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:13.001Z"
+}

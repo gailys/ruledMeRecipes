@@ -1,0 +1,245 @@
+{
+  "id": "ruled-45201",
+  "slug": "cinnamon-raspberry-smoothie",
+  "title": "Cinnamon Raspberry Smoothie",
+  "url": "https://www.ruled.me/cinnamon-raspberry-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Cinnamon Raspberry Smoothie . The serving comes out to be 478 calories, 41.9g fats, 10.5g net carbs, and 11.1g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "478 kcal",
+    "fatContent": "41.9 g",
+    "proteinContent": "11.1 g",
+    "carbohydrateContent": "10.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 478,
+    "netCarbsGrams": 10.5,
+    "proteinGrams": 11.1,
+    "fatGrams": 41.9
+  },
+  "ingredients": [
+    "3/4 cup unsweetened almond milk",
+    "1/4 cup heavy cream",
+    "100 gram frozen raspberries",
+    "20 gram spinach",
+    "32 gram almond butter",
+    "1/8 teaspoon ground cinnamon"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-raspberry-smoothie/#wprm-recipe-53765-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-1.jpg"
+    },
+    {
+      "text": "Put all the ingredients into a blender and mix until you achieve a smooth consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-raspberry-smoothie/#wprm-recipe-53765-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-2.jpg"
+    },
+    {
+      "text": "Top with extra raspberries, serve, and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/cinnamon-raspberry-smoothie/#wprm-recipe-53765-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/8e2a938cd38f047c61d917c4.jpg",
+      "archived": true,
+      "originalPath": "images/8e2a938cd38f047c61d917c4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Featured.jpg",
+      "path": "images/df8af1cef299f82678b5012b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/8f6ad844fe45ebb356e2c7e6.jpg",
+      "archived": true,
+      "originalPath": "images/8f6ad844fe45ebb356e2c7e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/8ea54e21463e7bcec9fd77bb.jpg",
+      "archived": true,
+      "originalPath": "images/8ea54e21463e7bcec9fd77bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/945091bcfd323da99d3256c9.jpg",
+      "archived": true,
+      "originalPath": "images/945091bcfd323da99d3256c9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/859a5c8bebe5ccc25f86a673.jpg",
+      "archived": true,
+      "originalPath": "images/859a5c8bebe5ccc25f86a673.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/6e97b224a190deabae207507.jpg",
+      "archived": true,
+      "originalPath": "images/6e97b224a190deabae207507.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4903f2af01a35aa36cc6ff80.jpg",
+      "archived": true,
+      "originalPath": "images/4903f2af01a35aa36cc6ff80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/542f10faeea9c8fcdad9328e.jpg",
+      "archived": true,
+      "originalPath": "images/542f10faeea9c8fcdad9328e.jpg"
+    }
+  ],
+  "featuredImage": "images/df8af1cef299f82678b5012b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Cinnamon Raspberry Smoothie",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 1 serving of Cinnamon Raspberry Smoothie . The serving comes out to be 478 calories, 41.9g fats, 10.5g net carbs, and 11.1g protein.",
+    "datePublished": "2021-05-11T09:00:29+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "3/4 cup unsweetened almond milk",
+      "1/4 cup heavy cream",
+      "100 gram frozen raspberries",
+      "20 gram spinach",
+      "32 gram almond butter",
+      "1/8 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/cinnamon-raspberry-smoothie/#wprm-recipe-53765-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put all the ingredients into a blender and mix until you achieve a smooth consistency.",
+        "name": "Put all the ingredients into a blender and mix until you achieve a smooth consistency.",
+        "url": "https://www.ruled.me/cinnamon-raspberry-smoothie/#wprm-recipe-53765-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with extra raspberries, serve, and enjoy!",
+        "name": "Top with extra raspberries, serve, and enjoy!",
+        "url": "https://www.ruled.me/cinnamon-raspberry-smoothie/#wprm-recipe-53765-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "15-minute, egg-free, gluten-free, high-fat, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "478 kcal",
+      "fatContent": "41.9 g",
+      "proteinContent": "11.1 g",
+      "carbohydrateContent": "10.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/cinnamon-raspberry-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/cinnamon-raspberry-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/cinnamon-raspberry-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 45201,
+    "rid": 53765,
+    "t": "Cinnamon Raspberry Smoothie",
+    "u": "/cinnamon-raspberry-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Cinnamon-Raspberry-Smoothie-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 10.5,
+    "cal": 478,
+    "pr": 11.1,
+    "fa": 41.9,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2021-05-11",
+    "cm": 2,
+    "ex": "Raspberries and cinnamon might seem like an odd combination, but combine them in a smoothie, and they taste amazing! One of the best things about smoothies is how convenient they are. A good smoothie",
+    "pv": 197
+  },
+  "sourceHtml": "pages/cinnamon-raspberry-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:12.368Z"
+}

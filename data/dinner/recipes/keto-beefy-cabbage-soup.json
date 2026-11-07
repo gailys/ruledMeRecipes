@@ -1,0 +1,350 @@
+{
+  "id": "ruled-56624",
+  "slug": "keto-beefy-cabbage-soup",
+  "title": "Keto Beefy Cabbage Soup",
+  "url": "https://www.ruled.me/keto-beefy-cabbage-soup/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Beefy Cabbage Soup. Each serving comes out to be 491 calories, 33.6g fats, 9g net carbs, and 34.5g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT35M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "491 kcal",
+    "fatContent": "33.6 g",
+    "proteinContent": "34.5 g",
+    "carbohydrateContent": "9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 491,
+    "netCarbsGrams": 9,
+    "proteinGrams": 34.5,
+    "fatGrams": 33.6
+  },
+  "ingredients": [
+    "16 ounce ground beef (85/15)",
+    "3 tablespoon butter",
+    "16 ounce green cabbage (shredded)",
+    "6 cup beef broth",
+    "2 tablespoon dijon mustard",
+    "2 tablespoon tomato paste",
+    "2 whole bay leaf",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "2 teaspoon worcestershire sauce",
+    "3 ounce leek (finely chopped)",
+    "1/2 cup sour cream",
+    "1/4 cup fresh parsley (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all of your ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-1.jpg"
+    },
+    {
+      "text": "In a pot over medium-high heat, add the ground beef and butter, then season with salt and pepper. Cook until browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-2.jpg"
+    },
+    {
+      "text": "Add the cabbage and continue to cook until cabbage has softened.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-3.jpg"
+    },
+    {
+      "text": "Add in the remaining ingredients (except for the leek). Bring to a boil and then reduce the heat. Simmer for additional 15-20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-4.jpg"
+    },
+    {
+      "text": "Remove the bay leaves if still whole, then add the leek into the soup a few minutes before serving. Taste and season with salt and pepper as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-5.jpg"
+    },
+    {
+      "text": "Serve with a dollop of sour cream and garnish with freshly chopped parsley. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/39788f8f1ad9ccd481548468.jpg",
+      "archived": true,
+      "originalPath": "images/39788f8f1ad9ccd481548468.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured.jpg",
+      "path": "images/fd67ac5d7607adaba8119489.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-1.jpg",
+      "path": "../../nenaudojama/dinner/images/1c31e5cd16a77c7ea02453de.jpg",
+      "archived": true,
+      "originalPath": "images/1c31e5cd16a77c7ea02453de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-2.jpg",
+      "path": "../../nenaudojama/dinner/images/4e8e9952ab05397566180398.jpg",
+      "archived": true,
+      "originalPath": "images/4e8e9952ab05397566180398.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-3.jpg",
+      "path": "../../nenaudojama/dinner/images/2dfd9a2619f2606958c4f88a.jpg",
+      "archived": true,
+      "originalPath": "images/2dfd9a2619f2606958c4f88a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-4.jpg",
+      "path": "../../nenaudojama/dinner/images/7aa1cc07e0bb772959b581cc.jpg",
+      "archived": true,
+      "originalPath": "images/7aa1cc07e0bb772959b581cc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-5.jpg",
+      "path": "../../nenaudojama/dinner/images/a7334e93d20c1ca9a6da5de6.jpg",
+      "archived": true,
+      "originalPath": "images/a7334e93d20c1ca9a6da5de6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/1d02b6a1e4e47dc8fd750328.jpg",
+      "archived": true,
+      "originalPath": "images/1d02b6a1e4e47dc8fd750328.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/6fa2742963718c3976188ef3.avif",
+      "archived": true,
+      "originalPath": "images/6fa2742963718c3976188ef3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/1857a359ff2a7b8e896b4a87.avif",
+      "archived": true,
+      "originalPath": "images/1857a359ff2a7b8e896b4a87.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c408bf2fe175ef946f21ae1f.avif",
+      "archived": true,
+      "originalPath": "images/c408bf2fe175ef946f21ae1f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b4f84115ff0e9af798064eda.avif",
+      "archived": true,
+      "originalPath": "images/b4f84115ff0e9af798064eda.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/976c7222677a5774ed750b33.avif",
+      "archived": true,
+      "originalPath": "images/976c7222677a5774ed750b33.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e5cb7a1e8bdcb842db894b85.avif",
+      "archived": true,
+      "originalPath": "images/e5cb7a1e8bdcb842db894b85.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/db0f050d42311becf3409a63.avif",
+      "archived": true,
+      "originalPath": "images/db0f050d42311becf3409a63.avif"
+    }
+  ],
+  "featuredImage": "images/fd67ac5d7607adaba8119489.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Beefy Cabbage Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Keto Beefy Cabbage Soup. Each serving comes out to be 491 calories, 33.6g fats, 9g net carbs, and 34.5g protein.",
+    "datePublished": "2024-06-11T09:33:57+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured-480x270.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT35M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "16 ounce ground beef (85/15)",
+      "3 tablespoon butter",
+      "16 ounce green cabbage (shredded)",
+      "6 cup beef broth",
+      "2 tablespoon dijon mustard",
+      "2 tablespoon tomato paste",
+      "2 whole bay leaf",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "2 teaspoon worcestershire sauce",
+      "3 ounce leek (finely chopped)",
+      "1/2 cup sour cream",
+      "1/4 cup fresh parsley (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all of your ingredients.",
+        "name": "Gather and prep all of your ingredients.",
+        "url": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pot over medium-high heat, add the ground beef and butter, then season with salt and pepper. Cook until browned.",
+        "name": "In a pot over medium-high heat, add the ground beef and butter, then season with salt and pepper. Cook until browned.",
+        "url": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cabbage and continue to cook until cabbage has softened.",
+        "name": "Add the cabbage and continue to cook until cabbage has softened.",
+        "url": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the remaining ingredients (except for the leek). Bring to a boil and then reduce the heat. Simmer for additional 15-20 minutes.",
+        "name": "Add in the remaining ingredients (except for the leek). Bring to a boil and then reduce the heat. Simmer for additional 15-20 minutes.",
+        "url": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the bay leaves if still whole, then add the leek into the soup a few minutes before serving. Taste and season with salt and pepper as needed.",
+        "name": "Remove the bay leaves if still whole, then add the leek into the soup a few minutes before serving. Taste and season with salt and pepper as needed.",
+        "url": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with a dollop of sour cream and garnish with freshly chopped parsley. Enjoy!",
+        "name": "Serve with a dollop of sour cream and garnish with freshly chopped parsley. Enjoy!",
+        "url": "https://www.ruled.me/keto-beefy-cabbage-soup/#wprm-recipe-56633-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, high-fat, high-protein, keto, low-carb, nut-free, one-pan, one-pan meals, red meat, simple &amp; easy, simple-and-easy, stovetop, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "491 kcal",
+      "fatContent": "33.6 g",
+      "proteinContent": "34.5 g",
+      "carbohydrateContent": "9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-beefy-cabbage-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-beefy-cabbage-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-beefy-cabbage-soup/"
+  },
+  "sourceIndex": {
+    "id": 56624,
+    "rid": 56633,
+    "t": "Keto Beefy Cabbage Soup",
+    "u": "/keto-beefy-cabbage-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/05/Keto-Beefy-Cabbage-Soup-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 9,
+    "cal": 491,
+    "pr": 34.5,
+    "fa": 33.6,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 12,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2024-06-11",
+    "cm": 0,
+    "ex": "Transport yourself to the rugged landscapes of Scandinavia with our hearty and satisfying Beefy Cabbage Soup — a traditional dish that captures the essence of Nordic cuisine. This recipe combines",
+    "pv": 632
+  },
+  "sourceHtml": "pages/keto-beefy-cabbage-soup.html",
+  "scrapedAt": "2026-11-07T08:27:43.491Z"
+}

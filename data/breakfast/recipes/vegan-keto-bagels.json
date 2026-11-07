@@ -1,0 +1,306 @@
+{
+  "id": "ruled-59857",
+  "slug": "vegan-keto-bagels",
+  "title": "Vegan Keto Bagels",
+  "url": "https://www.ruled.me/vegan-keto-bagels/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Vegan Keto Bagels. Each serving comes out to be 203 calories, 14.5g fats, 5.1g net carbs, and 5g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "203 kcal",
+    "fatContent": "14.5 g",
+    "proteinContent": "5 g",
+    "carbohydrateContent": "5.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 203,
+    "netCarbsGrams": 5.1,
+    "proteinGrams": 5,
+    "fatGrams": 14.5
+  },
+  "ingredients": [
+    "1/4 cup psyllium husk powder",
+    "1/2 cup flaxseed meal",
+    "1 teaspoon baking powder",
+    "salt (to taste)",
+    "1/2 cup tahini",
+    "1 cup water",
+    "1 teaspoon sesame seeds (for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Mix together the psyllium husk, flax seeds, baking powder, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-01.jpg"
+    },
+    {
+      "text": "Add water to the tahini then whisk together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-02.jpg"
+    },
+    {
+      "text": "Add the tahini paste to the dry ingredients. Make sure the dough is mixed together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-03.jpg"
+    },
+    {
+      "text": "Divide the bagel dough among the wells of a donut pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-04.jpg"
+    },
+    {
+      "text": "Top with the sesame seeds, then bake for 40 minutes or until cooked through and browned. Serve with your favorite vegan cream cheese substitute or other desired spread.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-05.jpg"
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/d70185bea6835c6dd38fcc43.jpg",
+      "archived": true,
+      "originalPath": "images/d70185bea6835c6dd38fcc43.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81.jpg",
+      "path": "images/821a67462bbeac06385134ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/9263bb6285f079cd81ff2c73.jpg",
+      "archived": true,
+      "originalPath": "images/9263bb6285f079cd81ff2c73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/45e427237d4adc47680c5479.jpg",
+      "archived": true,
+      "originalPath": "images/45e427237d4adc47680c5479.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/81c415133e2e222739b464dc.jpg",
+      "archived": true,
+      "originalPath": "images/81c415133e2e222739b464dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-04.jpg",
+      "path": "../../nenaudojama/breakfast/images/c17cd509790e5dd324936480.jpg",
+      "archived": true,
+      "originalPath": "images/c17cd509790e5dd324936480.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/bb3a48d2e8d2514406dce737.jpg",
+      "archived": true,
+      "originalPath": "images/bb3a48d2e8d2514406dce737.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/b6f3d78a77c2d9249dc7baac.jpg",
+      "archived": true,
+      "originalPath": "images/b6f3d78a77c2d9249dc7baac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/aae6c996bc90bb104fec2723.jpg",
+      "archived": true,
+      "originalPath": "images/aae6c996bc90bb104fec2723.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b85689e2b2b39c66a7440fbb.jpg",
+      "archived": true,
+      "originalPath": "images/b85689e2b2b39c66a7440fbb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-03-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ee3c6066038d144c50bc3c1c.jpg",
+      "archived": true,
+      "originalPath": "images/ee3c6066038d144c50bc3c1c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-04-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/89ecf462ad9970c97552f501.jpg",
+      "archived": true,
+      "originalPath": "images/89ecf462ad9970c97552f501.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-05-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a947ffb2f3bc94f90dc74473.jpg",
+      "archived": true,
+      "originalPath": "images/a947ffb2f3bc94f90dc74473.jpg"
+    }
+  ],
+  "featuredImage": "images/821a67462bbeac06385134ce.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Vegan Keto Bagels",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Vegan Keto Bagels. Each serving comes out to be 203 calories, 14.5g fats, 5.1g net carbs, and 5g protein.",
+    "datePublished": "2026-08-11T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81-480x270.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "1/4 cup psyllium husk powder",
+      "1/2 cup flaxseed meal",
+      "1 teaspoon baking powder",
+      "salt (to taste)",
+      "1/2 cup tahini",
+      "1 cup water",
+      "1 teaspoon sesame seeds (for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Mix together the psyllium husk, flax seeds, baking powder, and salt.",
+        "name": "Preheat oven to 375F. Mix together the psyllium husk, flax seeds, baking powder, and salt.",
+        "url": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add water to the tahini then whisk together.",
+        "name": "Add water to the tahini then whisk together.",
+        "url": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the tahini paste to the dry ingredients. Make sure the dough is mixed together well.",
+        "name": "Add the tahini paste to the dry ingredients. Make sure the dough is mixed together well.",
+        "url": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the bagel dough among the wells of a donut pan.",
+        "name": "Divide the bagel dough among the wells of a donut pan.",
+        "url": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with the sesame seeds, then bake for 40 minutes or until cooked through and browned. Serve with your favorite vegan cream cheese substitute or other desired spread.",
+        "name": "Top with the sesame seeds, then bake for 40 minutes or until cooked through and browned. Serve with your favorite vegan cream cheese substitute or other desired spread.",
+        "url": "https://www.ruled.me/vegan-keto-bagels/#wprm-recipe-59856-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/08/vegan-keto-bagels-step-05.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "dairy-free, egg-free, gluten-free, keto, low-carb, nut-free, oven-baked, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "203 kcal",
+      "fatContent": "14.5 g",
+      "proteinContent": "5 g",
+      "carbohydrateContent": "5.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/vegan-keto-bagels/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/vegan-keto-bagels/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/vegan-keto-bagels/"
+  },
+  "sourceIndex": {
+    "id": 59857,
+    "rid": 59856,
+    "t": "Vegan Keto Bagels",
+    "u": "/vegan-keto-bagels/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/6007583d086f8ba7245d0995c359ae81-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.1,
+    "cal": 203,
+    "pr": 5,
+    "fa": 14.5,
+    "tm": 50,
+    "sv": 6,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2026-08-11",
+    "cm": 0,
+    "ex": "These Vegan Keto Bagels are a game-changer for anyone missing the classic chew of a morning bagel while sticking to a plant-based, low-carb lifestyle. Unlike many gluten-free alternatives that turn",
+    "pv": 54
+  },
+  "sourceHtml": "pages/vegan-keto-bagels.html",
+  "scrapedAt": "2026-11-07T08:11:11.644Z"
+}

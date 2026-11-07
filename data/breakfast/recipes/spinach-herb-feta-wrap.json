@@ -1,0 +1,396 @@
+{
+  "id": "ruled-30838",
+  "slug": "spinach-herb-feta-wrap",
+  "title": "Herbed Spinach & Feta Wrap",
+  "url": "https://www.ruled.me/spinach-herb-feta-wrap/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Herbed Spinach & Feta Wrap. Each serving comes out to be 362 calories, 24.7g fats, 5.2g net carbs, and 28g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 kcal",
+    "fatContent": "24.7 g",
+    "proteinContent": "28 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 362,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 28,
+    "fatGrams": 24.7
+  },
+  "ingredients": [
+    "5 large egg",
+    "3 large egg white",
+    "1 teaspoon sesame oil",
+    "1/2 teaspoon salt",
+    "2 cup spinach",
+    "1/2 cup feta cheese (crumbled)",
+    "3 whole sun-dried tomatoes (chopped)",
+    "2 tablespoon basil (chopped)",
+    "1 teaspoon olive oil (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "In a large mixing bowl, combine the eggs, egg whites, sesame oil, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-03.jpg"
+    },
+    {
+      "text": "Whisk together until slightly foamy — about 30 seconds to 1 minute.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-05.jpg"
+    },
+    {
+      "text": "Use a nonstick pan or spray a regular pan with cooking spray. I used a square pan because I find the shape easier to wrap. Heat up the pan over medium heat. Pour the egg mixture into the skillet, cover, and reduce the heat to medium-low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-06.jpg"
+    },
+    {
+      "text": "Once the wrap is cooked through and there is no raw egg left in the center, remove from the pan and let cool on a paper towel or plate. Prepare the remaining wrap(s) in the same way, cooking them slowly on medium-low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-08.jpg"
+    },
+    {
+      "text": "Once the wraps are done, add the spinach to the same pan over low heat to gently wilt the leaves. If you prefer softer leaves, leave them in the pan for about a minute.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-10.jpg"
+    },
+    {
+      "text": "Portion out the feta, sun-dried tomatoes, basil, and oil (if using). Get ready to fill the wraps!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-11.jpg"
+    },
+    {
+      "text": "Begin with a layer of wilted spinach, followed by the feta, sun-dried tomatoes, basil, and a drizzle of oil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-12.jpg"
+    },
+    {
+      "text": "Roll from one end to the other. Wrap in parchment paper to make these easier to eat on the go!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3093.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "stovetop",
+    "meal-prep",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3089-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/9a3a7d4ec511aa4014114804.jpg",
+      "archived": true,
+      "originalPath": "images/9a3a7d4ec511aa4014114804.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3089.jpg",
+      "path": "images/ce42c0a62d82fe19adcb1ffc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-03.jpg",
+      "path": "../../nenaudojama/breakfast/images/e507a4e29f10ca5c851d8edd.jpg",
+      "archived": true,
+      "originalPath": "images/e507a4e29f10ca5c851d8edd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-05.jpg",
+      "path": "../../nenaudojama/breakfast/images/bddc664f232a1d1e6759dded.jpg",
+      "archived": true,
+      "originalPath": "images/bddc664f232a1d1e6759dded.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-06.jpg",
+      "path": "../../nenaudojama/breakfast/images/52165747b739cce7d3cf484b.jpg",
+      "archived": true,
+      "originalPath": "images/52165747b739cce7d3cf484b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-08.jpg",
+      "path": "../../nenaudojama/breakfast/images/aac170f22165c7956456627d.avif",
+      "archived": true,
+      "originalPath": "images/aac170f22165c7956456627d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-10.jpg",
+      "path": "../../nenaudojama/breakfast/images/ef3d7d21d11937cca6d5e0dc.jpg",
+      "archived": true,
+      "originalPath": "images/ef3d7d21d11937cca6d5e0dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-11.jpg",
+      "path": "../../nenaudojama/breakfast/images/1e6f6bcb5bcee98d306e2c10.jpg",
+      "archived": true,
+      "originalPath": "images/1e6f6bcb5bcee98d306e2c10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-12.jpg",
+      "path": "../../nenaudojama/breakfast/images/5d8212b7e9da94095be01501.jpg",
+      "archived": true,
+      "originalPath": "images/5d8212b7e9da94095be01501.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3093.jpg",
+      "path": "../../nenaudojama/breakfast/images/edf18c946e38e4fba87aef00.jpg",
+      "archived": true,
+      "originalPath": "images/edf18c946e38e4fba87aef00.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-2nd.jpg",
+      "path": "../../nenaudojama/breakfast/images/b0030aab6fa09d2f1af0a13a.avif",
+      "archived": true,
+      "originalPath": "images/b0030aab6fa09d2f1af0a13a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-03-261x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d3a4a690b8b77b88db712c0a.jpg",
+      "archived": true,
+      "originalPath": "images/d3a4a690b8b77b88db712c0a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-05-233x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3d40f9d479c38c1199a84ebc.jpg",
+      "archived": true,
+      "originalPath": "images/3d40f9d479c38c1199a84ebc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-06-253x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/03cfb52dd249ac9d43720fc9.avif",
+      "archived": true,
+      "originalPath": "images/03cfb52dd249ac9d43720fc9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-08-459x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ccbfef999973a564a086b045.jpg",
+      "archived": true,
+      "originalPath": "images/ccbfef999973a564a086b045.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-10-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c88a1d79c45fa98925ffc589.jpg",
+      "archived": true,
+      "originalPath": "images/c88a1d79c45fa98925ffc589.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-11-448x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/13353af09a269951376f1db4.avif",
+      "archived": true,
+      "originalPath": "images/13353af09a269951376f1db4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-12-256x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/5b332dbd561041d667beeb12.jpg",
+      "archived": true,
+      "originalPath": "images/5b332dbd561041d667beeb12.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3093-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/20d238eafda4231b4929775c.jpg",
+      "archived": true,
+      "originalPath": "images/20d238eafda4231b4929775c.jpg"
+    }
+  ],
+  "featuredImage": "images/ce42c0a62d82fe19adcb1ffc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Herbed Spinach & Feta Wrap",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 2 servings of Herbed Spinach &amp; Feta Wrap. Each serving comes out to be 362 calories, 24.7g fats, 5.2g net carbs, and 28g protein.",
+    "datePublished": "2017-06-06T11:00:34+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3089.jpg"
+    ],
+    "video": {
+      "name": "Keto Spinach, Herb & Feta Wrap Recipe",
+      "description": "The wrap is made of a mixture of egg whites and whole eggs whipped with sesame oil to take the texture from “omelet style” to a more flexible and unique texture perfect for filling! Wilted baby spinach and hunks of tangy feta twirl around in fragrant basil and slightly sweet sun-dried tomato bits. You can also increase the flavor by using sun-dried tomato feta and adding a drizzle of oil before wrapping. Sold yet?\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n5 large eggs\n3 large egg whites\n1 teaspoon sesame oil\n½ teaspoon salt\n2 cups spinach, fresh\n½ cup feta cheese, crumbled\n4 leaves basil, roughly chopped\n3 whole sundried tomatoes, chopped\nOptional: 1 teaspoon olive oil\n\nNutrition Summary:\nThis makes a total of 2 single-serving Spinach, Herb and Feta Wraps. Each wrap comes out to be 361.5 Calories, 25.27 g Fat, 4.06 g Net Carbs, and 27.55 g Protein.\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 30 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2019-07-08T17:00:01+00:00",
+      "duration": "PT1M41S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-WZQjg6qhh8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/-WZQjg6qhh8?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=-WZQjg6qhh8",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "5 large egg",
+      "3 large egg white",
+      "1 teaspoon sesame oil",
+      "1/2 teaspoon salt",
+      "2 cup spinach",
+      "1/2 cup feta cheese (crumbled)",
+      "3 whole sun-dried tomatoes (chopped)",
+      "2 tablespoon basil (chopped)",
+      "1 teaspoon olive oil (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the eggs, egg whites, sesame oil, and salt.",
+        "name": "In a large mixing bowl, combine the eggs, egg whites, sesame oil, and salt.",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk together until slightly foamy — about 30 seconds to 1 minute.",
+        "name": "Whisk together until slightly foamy — about 30 seconds to 1 minute.",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a nonstick pan or spray a regular pan with cooking spray. I used a square pan because I find the shape easier to wrap. Heat up the pan over medium heat. Pour the egg mixture into the skillet, cover, and reduce the heat to medium-low.",
+        "name": "Use a nonstick pan or spray a regular pan with cooking spray. I used a square pan because I find the shape easier to wrap. Heat up the pan over medium heat. Pour the egg mixture into the skillet, cover, and reduce the heat to medium-low.",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the wrap is cooked through and there is no raw egg left in the center, remove from the pan and let cool on a paper towel or plate. Prepare the remaining wrap(s) in the same way, cooking them slowly on medium-low.",
+        "name": "Once the wrap is cooked through and there is no raw egg left in the center, remove from the pan and let cool on a paper towel or plate. Prepare the remaining wrap(s) in the same way, cooking them slowly on medium-low.",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the wraps are done, add the spinach to the same pan over low heat to gently wilt the leaves. If you prefer softer leaves, leave them in the pan for about a minute.",
+        "name": "Once the wraps are done, add the spinach to the same pan over low heat to gently wilt the leaves. If you prefer softer leaves, leave them in the pan for about a minute.",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Portion out the feta, sun-dried tomatoes, basil, and oil (if using). Get ready to fill the wraps!",
+        "name": "Portion out the feta, sun-dried tomatoes, basil, and oil (if using). Get ready to fill the wraps!",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Begin with a layer of wilted spinach, followed by the feta, sun-dried tomatoes, basil, and a drizzle of oil.",
+        "name": "Begin with a layer of wilted spinach, followed by the feta, sun-dried tomatoes, basil, and a drizzle of oil.",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/spinach-feta-egg-wrap-12.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll from one end to the other. Wrap in parchment paper to make these easier to eat on the go!",
+        "name": "Roll from one end to the other. Wrap in parchment paper to make these easier to eat on the go!",
+        "url": "https://www.ruled.me/spinach-herb-feta-wrap/#wprm-recipe-52197-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3093.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, high-protein, keto, low-carb, meal-prep, nut-free, packed-lunch, quick, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "362 kcal",
+      "fatContent": "24.7 g",
+      "proteinContent": "28 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/spinach-herb-feta-wrap/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/spinach-herb-feta-wrap/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/spinach-herb-feta-wrap/"
+  },
+  "sourceIndex": {
+    "id": 30838,
+    "rid": 52197,
+    "t": "Spinach, Herb & Feta Wrap",
+    "u": "/spinach-herb-feta-wrap/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/06/Spinach-Feta-Egg-Wrap-3089-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.2,
+    "cal": 362,
+    "pr": 28,
+    "fa": 24.7,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "stovetop",
+      "meal-prep",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2017-06-06",
+    "cm": 8,
+    "ex": "One of my favorite pre-keto breakfast indulgences was the infamous Spinach Feta Wrap by the one and only Starbucks. Seemingly healthy, right? Spinach and egg whites with chopped sun-dried tomatoes",
+    "pv": 224
+  },
+  "sourceHtml": "pages/spinach-herb-feta-wrap.html",
+  "scrapedAt": "2026-11-07T08:11:12.755Z"
+}

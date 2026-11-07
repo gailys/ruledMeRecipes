@@ -1,0 +1,316 @@
+{
+  "id": "ruled-12964",
+  "slug": "peanut-butter-pancakes",
+  "title": "Peanut Butter Pancakes",
+  "url": "https://www.ruled.me/peanut-butter-pancakes/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Peanut Butter Pancakes. Each serving comes out to be 396 calories, 35.3g fats, 4.1g net carbs, and 14.2g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "fatContent": "35.3 g",
+    "proteinContent": "14.2 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 396,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 14.2,
+    "fatGrams": 35.3
+  },
+  "ingredients": [
+    "2 tablespoon peanut butter",
+    "2 tablespoon low-carb maple syrup",
+    "2 large egg",
+    "4 tablespoon heavy whipping cream",
+    "4 tablespoon flaxseed meal",
+    "1/2 teaspoon baking powder",
+    "1 tablespoon butter"
+  ],
+  "instructions": [
+    {
+      "text": "Mix together the peanut butter, low-carb maple syrup, and eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9490.jpg"
+    },
+    {
+      "text": "Once the peanut butter is beginning to break up and incorporate, add in the heavy cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94912.jpg"
+    },
+    {
+      "text": "Combine once more and then add the flaxseed and baking powder. Mix everything well to form a pancake batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94981.jpg"
+    },
+    {
+      "text": "Grease a pan with a little bit of butter over medium-low heat. Once the pan is hot, pour in the pancake batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9503.jpg"
+    },
+    {
+      "text": "Cook the pancake until the sides are hardening up and the top is bubbling. If using a ring mold (which I highly recommend), remove it now. Use a spatula to flip the pancake over. Cook for an additional 1–2 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_95061.jpg"
+    },
+    {
+      "text": "Continue with the remaining batter. Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakesLarge.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakes3.jpg",
+      "path": "images/99d7e8dd1f601178ae6de706.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9490.jpg",
+      "path": "../../nenaudojama/breakfast/images/18832f0149a7c1be47261e2c.avif",
+      "archived": true,
+      "originalPath": "images/18832f0149a7c1be47261e2c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94912.jpg",
+      "path": "../../nenaudojama/breakfast/images/f7b07e67fd5f0f2185b836d1.avif",
+      "archived": true,
+      "originalPath": "images/f7b07e67fd5f0f2185b836d1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94981.jpg",
+      "path": "../../nenaudojama/breakfast/images/52dec4f6a93490991f32f47d.avif",
+      "archived": true,
+      "originalPath": "images/52dec4f6a93490991f32f47d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9503.jpg",
+      "path": "../../nenaudojama/breakfast/images/cb030d6e4ea2a353a7d448f5.avif",
+      "archived": true,
+      "originalPath": "images/cb030d6e4ea2a353a7d448f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_95061.jpg",
+      "path": "../../nenaudojama/breakfast/images/8a47571b9034e6307edf9e9f.jpg",
+      "archived": true,
+      "originalPath": "images/8a47571b9034e6307edf9e9f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakesLarge.jpg",
+      "path": "../../nenaudojama/breakfast/images/70ed9e0e1619096735c2d8ac.avif",
+      "archived": true,
+      "originalPath": "images/70ed9e0e1619096735c2d8ac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakesSecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/34e1e036a673e83a9298c3d4.avif",
+      "archived": true,
+      "originalPath": "images/34e1e036a673e83a9298c3d4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9490-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fa4a4d446e676ee6f4a8d5b9.jpg",
+      "archived": true,
+      "originalPath": "images/fa4a4d446e676ee6f4a8d5b9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94912-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ba9e2323ef142a42d4bec3b9.jpg",
+      "archived": true,
+      "originalPath": "images/ba9e2323ef142a42d4bec3b9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94981-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6e8b474374f9cac97fee09f9.avif",
+      "archived": true,
+      "originalPath": "images/6e8b474374f9cac97fee09f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9503-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/df6af035803c673971a1a99c.jpg",
+      "archived": true,
+      "originalPath": "images/df6af035803c673971a1a99c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_95061-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/2940397580bcc8bb70a92a35.jpg",
+      "archived": true,
+      "originalPath": "images/2940397580bcc8bb70a92a35.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakesLarge-233x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6ec8819c808674ed50caf380.avif",
+      "archived": true,
+      "originalPath": "images/6ec8819c808674ed50caf380.avif"
+    }
+  ],
+  "featuredImage": "images/99d7e8dd1f601178ae6de706.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Peanut Butter Pancakes",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Peanut Butter Pancakes. Each serving comes out to be 396 calories, 35.3g fats, 4.1g net carbs, and 14.2g protein.",
+    "datePublished": "2014-04-15T16:54:29+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakes3.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 tablespoon peanut butter",
+      "2 tablespoon low-carb maple syrup",
+      "2 large egg",
+      "4 tablespoon heavy whipping cream",
+      "4 tablespoon flaxseed meal",
+      "1/2 teaspoon baking powder",
+      "1 tablespoon butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the peanut butter, low-carb maple syrup, and eggs.",
+        "name": "Mix together the peanut butter, low-carb maple syrup, and eggs.",
+        "url": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9490.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the peanut butter is beginning to break up and incorporate, add in the heavy cream.",
+        "name": "Once the peanut butter is beginning to break up and incorporate, add in the heavy cream.",
+        "url": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94912.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine once more and then add the flaxseed and baking powder. Mix everything well to form a pancake batter.",
+        "name": "Combine once more and then add the flaxseed and baking powder. Mix everything well to form a pancake batter.",
+        "url": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_94981.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grease a pan with a little bit of butter over medium-low heat. Once the pan is hot, pour in the pancake batter.",
+        "name": "Grease a pan with a little bit of butter over medium-low heat. Once the pan is hot, pour in the pancake batter.",
+        "url": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_9503.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the pancake until the sides are hardening up and the top is bubbling. If using a ring mold (which I highly recommend), remove it now. Use a spatula to flip the pancake over. Cook for an additional 1–2 minutes.",
+        "name": "Cook the pancake until the sides are hardening up and the top is bubbling. If using a ring mold (which I highly recommend), remove it now. Use a spatula to flip the pancake over. Cook for an additional 1–2 minutes.",
+        "url": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/IMG_95061.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue with the remaining batter. Serve and enjoy!",
+        "name": "Continue with the remaining batter. Serve and enjoy!",
+        "url": "https://www.ruled.me/peanut-butter-pancakes/#wprm-recipe-51025-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakesLarge.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "396 kcal",
+      "fatContent": "35.3 g",
+      "proteinContent": "14.2 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/peanut-butter-pancakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/peanut-butter-pancakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/peanut-butter-pancakes/"
+  },
+  "sourceIndex": {
+    "id": 12964,
+    "rid": 51025,
+    "t": "Peanut Butter Pancakes",
+    "u": "/peanut-butter-pancakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/04/PBPancakes3.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 4.1,
+    "cal": 396,
+    "pr": 14.2,
+    "fa": 35.3,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "stovetop"
+    ],
+    "d": "2014-04-15",
+    "cm": 96,
+    "ex": "A great deal of you out there use the coveted Cream Cheese Pancakes from IBIH. I have nothing against her (she's an amazing cook), but I do have something against her pancakes. They're just not",
+    "pv": 617
+  },
+  "sourceHtml": "pages/peanut-butter-pancakes.html",
+  "scrapedAt": "2026-11-07T08:11:13.103Z"
+}

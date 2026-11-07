@@ -1,0 +1,279 @@
+{
+  "id": "ruled-24837",
+  "slug": "pumpkin-spiced-french-toast",
+  "title": "Pumpkin Spiced French Toast",
+  "url": "https://www.ruled.me/pumpkin-spiced-french-toast/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings. Each serving comes out to be 429.73 Calories, 36.7g Fats, 7.33g Net Carbs, and 13.36g Protein.",
+  "servings": 2,
+  "yield": [
+    "2"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "429.73 kcal",
+    "fatContent": "36.7 g",
+    "proteinContent": "13.36 g",
+    "carbohydrateContent": "7.33 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 429.73,
+    "netCarbsGrams": 7.33,
+    "proteinGrams": 13.36,
+    "fatGrams": 36.7
+  },
+  "ingredients": [
+    "4 slices pumpkin bread (recipe here)",
+    "1 large egg",
+    "2 tablespoons cream",
+    "½ teaspoon vanilla extract",
+    "1/8 teaspoon orange extract",
+    "¼ teaspoon pumpkin pie spice (recipe here)",
+    "2 tablespoons butter"
+  ],
+  "instructions": [
+    {
+      "text": "Let the bread dry out overnight in open air after you have sliced it.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_8297.jpg"
+    },
+    {
+      "text": "Mix together egg, extracts, and pumpkin pie spice. Let the bread soak on both sides in the mixture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_8300.jpg"
+    },
+    {
+      "text": "Heat butter in pan until almost browned, then add bread slices. Flip when browned and continue to cook until browned on both sides.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_8316.jpg"
+    },
+    {
+      "text": "Serve with keto maple syrup (recipe here) and some extra powdered swerve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "fall",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinspicefrenchtoast1.jpg",
+      "path": "images/7416fa61c132aee50c350d08.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8297.jpg",
+      "path": "../../nenaudojama/breakfast/images/f81937f6fe55710ea6ba9836.jpg",
+      "archived": true,
+      "originalPath": "images/f81937f6fe55710ea6ba9836.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8300.jpg",
+      "path": "../../nenaudojama/breakfast/images/2647b54e0c598255f82b8668.avif",
+      "archived": true,
+      "originalPath": "images/2647b54e0c598255f82b8668.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8316.jpg",
+      "path": "../../nenaudojama/breakfast/images/e6ea6c52fe31ec4a9cbcbff3.jpg",
+      "archived": true,
+      "originalPath": "images/e6ea6c52fe31ec4a9cbcbff3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinspicefrenchtoastsecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/c1967e0ec13d342799db3c0e.avif",
+      "archived": true,
+      "originalPath": "images/c1967e0ec13d342799db3c0e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8305.jpg",
+      "path": "../../nenaudojama/breakfast/images/b23521524347523a1923f49c.jpg",
+      "archived": true,
+      "originalPath": "images/b23521524347523a1923f49c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8308.jpg",
+      "path": "../../nenaudojama/breakfast/images/8a32e3cc15a8cdd00da3ee42.jpg",
+      "archived": true,
+      "originalPath": "images/8a32e3cc15a8cdd00da3ee42.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8327.jpg",
+      "path": "../../nenaudojama/breakfast/images/578b7eab6a8113ec215541db.avif",
+      "archived": true,
+      "originalPath": "images/578b7eab6a8113ec215541db.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinspicefrenchtoastlong.jpg",
+      "path": "../../nenaudojama/breakfast/images/3eb36dae1d838efc2aad0181.jpg",
+      "archived": true,
+      "originalPath": "images/3eb36dae1d838efc2aad0181.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8297-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/82313ddf0209b9d063201968.jpg",
+      "archived": true,
+      "originalPath": "images/82313ddf0209b9d063201968.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8300-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/33157f0e4175808f8a1dc1ce.jpg",
+      "archived": true,
+      "originalPath": "images/33157f0e4175808f8a1dc1ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_8316-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/6dd6a232753dbc2c15d55996.jpg",
+      "archived": true,
+      "originalPath": "images/6dd6a232753dbc2c15d55996.jpg"
+    }
+  ],
+  "featuredImage": "images/7416fa61c132aee50c350d08.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pumpkin Spiced French Toast",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings. Each serving comes out to be 429.73 Calories, 36.7g Fats, 7.33g Net Carbs, and 13.36g Protein.",
+    "datePublished": "2014-10-27T14:41:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinspicefrenchtoast1.jpg"
+    ],
+    "recipeYield": [
+      "2"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "4 slices pumpkin bread (recipe here)",
+      "1 large egg",
+      "2 tablespoons cream",
+      "½ teaspoon vanilla extract",
+      "1/8 teaspoon orange extract",
+      "¼ teaspoon pumpkin pie spice (recipe here)",
+      "2 tablespoons butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Let the bread dry out overnight in open air after you have sliced it.",
+        "name": "Let the bread dry out overnight in open air after you have sliced it.",
+        "url": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_8297.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together egg, extracts, and pumpkin pie spice. Let the bread soak on both sides in the mixture.",
+        "name": "Mix together egg, extracts, and pumpkin pie spice. Let the bread soak on both sides in the mixture.",
+        "url": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_8300.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat butter in pan until almost browned, then add bread slices. Flip when browned and continue to cook until browned on both sides.",
+        "name": "Heat butter in pan until almost browned, then add bread slices. Flip when browned and continue to cook until browned on both sides.",
+        "url": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_8316.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with keto maple syrup (recipe here) and some extra powdered swerve.",
+        "name": "Serve with keto maple syrup (recipe here) and some extra powdered swerve.",
+        "url": "https://www.ruled.me/pumpkin-spiced-french-toast/#wprm-recipe-51443-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, fall, gluten-free, high-fat, keto, low-carb, make-ahead, quick, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "429.73 kcal",
+      "fatContent": "36.7 g",
+      "proteinContent": "13.36 g",
+      "carbohydrateContent": "7.33 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pumpkin-spiced-french-toast/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pumpkin-spiced-french-toast/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pumpkin-spiced-french-toast/"
+  },
+  "sourceIndex": {
+    "id": 24837,
+    "rid": 51443,
+    "t": "Pumpkin Spiced French Toast",
+    "u": "/pumpkin-spiced-french-toast/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinspicefrenchtoast1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.33,
+    "cal": 429.73,
+    "pr": 13.36,
+    "fa": 36.7,
+    "tm": 25,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "fall",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2014-10-27",
+    "cm": 1,
+    "ex": "This delightful classic comes back with a vengeance and is packed full of flavor. Keto French Toast made into a fantastic breakfast that will please anyone! The great flavors of pumpkin spice come",
+    "pv": 250
+  },
+  "sourceHtml": "pages/pumpkin-spiced-french-toast.html",
+  "scrapedAt": "2026-11-07T08:11:12.961Z"
+}

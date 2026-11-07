@@ -1,0 +1,343 @@
+{
+  "id": "ruled-29576",
+  "slug": "savory-italian-egg-bake",
+  "title": "Savory Italian Egg Bake",
+  "url": "https://www.ruled.me/savory-italian-egg-bake/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Savory Italian Egg Bake. Each serving comes out to be 317 calories, 22.5g fats, 3.5g net carbs, and 23.2g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "fatContent": "22.5 g",
+    "proteinContent": "23.2 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 317,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 23.2,
+    "fatGrams": 22.5
+  },
+  "ingredients": [
+    "10 large egg",
+    "3 tablespoon yellow mustard",
+    "2 teaspoon garlic and herb seasoning",
+    "1/2 cup heavy whipping cream",
+    "1/2 cup low-carb tomato sauce (like rao's)",
+    "8 1/2 ounce cooked chicken (diced)",
+    "12 ounce frozen broccoli (florets)",
+    "1/2 cup parmesan cheese (grated)",
+    "1 teaspoon dried parsley",
+    "1 cup sharp cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. In a large mixing bowl, whisk together the eggs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/Step-1-2.jpg"
+    },
+    {
+      "text": "Whisk in the mustard, garlic and herb seasoning, and heavy whipping cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/Step-2-2.jpg"
+    },
+    {
+      "text": "When that’s blended well, slowly whisk in the tomato sauce until it’s no longer lumpy. Add in the diced chicken and broccoli florets.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/Step-3-2.jpg"
+    },
+    {
+      "text": "Grease a casserole dish or a large baking pan, then pour in the Italian bake.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/Step-4-1.jpg"
+    },
+    {
+      "text": "Sprinkle Parmesan cheese and parsley flakes on top of the Italian bake. Bake for 30-40 or until the top looks like a crust.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/Step-5-2.jpg"
+    },
+    {
+      "text": "Before serving, top the Italian bake with some extra sharp cheese. You could also use any other cheese that you like, such as mozzarella or pepper jack.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-620x900.jpg"
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "eggs",
+    "family-friendly",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "meal-prep",
+    "high-protein",
+    "poultry",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-900x600-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/2ca34a00201e5bf06c658ebe.avif",
+      "archived": true,
+      "originalPath": "images/2ca34a00201e5bf06c658ebe.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-900x600.jpg",
+      "path": "images/20219ebb21e4e264fd598a29.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-1-2.jpg",
+      "path": "../../nenaudojama/dinner/images/fe9cd2f2488b3e7d23ffe25a.jpg",
+      "archived": true,
+      "originalPath": "images/fe9cd2f2488b3e7d23ffe25a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-2-2.jpg",
+      "path": "../../nenaudojama/dinner/images/01f082ecc636244d1766ff45.jpg",
+      "archived": true,
+      "originalPath": "images/01f082ecc636244d1766ff45.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-3-2.jpg",
+      "path": "../../nenaudojama/dinner/images/fdb2fe3d484489d09bece3ac.jpg",
+      "archived": true,
+      "originalPath": "images/fdb2fe3d484489d09bece3ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-4-1.jpg",
+      "path": "../../nenaudojama/dinner/images/9cc31917fb3a0507b04b523f.jpg",
+      "archived": true,
+      "originalPath": "images/9cc31917fb3a0507b04b523f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-5-2.jpg",
+      "path": "../../nenaudojama/dinner/images/ed1634ee22a49311c991fed0.jpg",
+      "archived": true,
+      "originalPath": "images/ed1634ee22a49311c991fed0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-620x900.jpg",
+      "path": "../../nenaudojama/dinner/images/9a07c814eb93cb075a35524b.avif",
+      "archived": true,
+      "originalPath": "images/9a07c814eb93cb075a35524b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-900x450.jpg",
+      "path": "../../nenaudojama/dinner/images/d1b38ac030579ea595070fa3.jpg",
+      "archived": true,
+      "originalPath": "images/d1b38ac030579ea595070fa3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-1-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0666054e807486397252837e.jpg",
+      "archived": true,
+      "originalPath": "images/0666054e807486397252837e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-2-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c3a1859d807b22c365a0fc8f.jpg",
+      "archived": true,
+      "originalPath": "images/c3a1859d807b22c365a0fc8f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-3-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/da98cef2fa806c43ae61e5a9.jpg",
+      "archived": true,
+      "originalPath": "images/da98cef2fa806c43ae61e5a9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-4-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/53b21159091a5ee50de26027.jpg",
+      "archived": true,
+      "originalPath": "images/53b21159091a5ee50de26027.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Step-5-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0631be345e4bb4fe8993d046.jpg",
+      "archived": true,
+      "originalPath": "images/0631be345e4bb4fe8993d046.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-620x900-241x350.jpg",
+      "path": "../../nenaudojama/dinner/images/140466283779e45546ae72d5.jpg",
+      "archived": true,
+      "originalPath": "images/140466283779e45546ae72d5.jpg"
+    }
+  ],
+  "featuredImage": "images/20219ebb21e4e264fd598a29.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Savory Italian Egg Bake",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Savory Italian Egg Bake. Each serving comes out to be 317 calories, 22.5g fats, 3.5g net carbs, and 23.2g protein.",
+    "datePublished": "2017-03-07T12:00:36+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-900x600.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "10 large egg",
+      "3 tablespoon yellow mustard",
+      "2 teaspoon garlic and herb seasoning",
+      "1/2 cup heavy whipping cream",
+      "1/2 cup low-carb tomato sauce (like rao's)",
+      "8 1/2 ounce cooked chicken (diced)",
+      "12 ounce frozen broccoli (florets)",
+      "1/2 cup parmesan cheese (grated)",
+      "1 teaspoon dried parsley",
+      "1 cup sharp cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. In a large mixing bowl, whisk together the eggs.",
+        "name": "Preheat oven to 350F. In a large mixing bowl, whisk together the eggs.",
+        "url": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/Step-1-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk in the mustard, garlic and herb seasoning, and heavy whipping cream.",
+        "name": "Whisk in the mustard, garlic and herb seasoning, and heavy whipping cream.",
+        "url": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/Step-2-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When that’s blended well, slowly whisk in the tomato sauce until it’s no longer lumpy. Add in the diced chicken and broccoli florets.",
+        "name": "When that’s blended well, slowly whisk in the tomato sauce until it’s no longer lumpy. Add in the diced chicken and broccoli florets.",
+        "url": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/Step-3-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grease a casserole dish or a large baking pan, then pour in the Italian bake.",
+        "name": "Grease a casserole dish or a large baking pan, then pour in the Italian bake.",
+        "url": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/Step-4-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle Parmesan cheese and parsley flakes on top of the Italian bake. Bake for 30-40 or until the top looks like a crust.",
+        "name": "Sprinkle Parmesan cheese and parsley flakes on top of the Italian bake. Bake for 30-40 or until the top looks like a crust.",
+        "url": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/Step-5-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Before serving, top the Italian bake with some extra sharp cheese. You could also use any other cheese that you like, such as mozzarella or pepper jack.",
+        "name": "Before serving, top the Italian bake with some extra sharp cheese. You could also use any other cheese that you like, such as mozzarella or pepper jack.",
+        "url": "https://www.ruled.me/savory-italian-egg-bake/#wprm-recipe-52091-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-620x900.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "batch-cooking, comfort-food, eggs, family-friendly, freezer-friendly, gluten-free, keto, low-carb, meal-prep, nut-free, oven-baked, poultry, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "317 kcal",
+      "fatContent": "22.5 g",
+      "proteinContent": "23.2 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/savory-italian-egg-bake/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/savory-italian-egg-bake/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/savory-italian-egg-bake/"
+  },
+  "sourceIndex": {
+    "id": 29576,
+    "rid": 52091,
+    "t": "Savory Italian Egg Bake",
+    "u": "/savory-italian-egg-bake/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/02/Italian-Bake-900x600-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.5,
+    "cal": 317,
+    "pr": 23.2,
+    "fa": 22.5,
+    "tm": 50,
+    "sv": 8,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "eggs",
+      "family-friendly",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "meal-prep",
+      "high-protein",
+      "poultry",
+      "eggs"
+    ],
+    "d": "2017-03-07",
+    "cm": 8,
+    "ex": "This easy Italian bake combines the delicious tastes of chicken, broccoli, and cheese. This creates an Italian inspired dish that's quick to make. The recipe uses eggs and heavy whipping cream for a",
+    "pv": 120
+  },
+  "sourceHtml": "pages/savory-italian-egg-bake.html",
+  "scrapedAt": "2026-11-07T08:27:44.758Z"
+}

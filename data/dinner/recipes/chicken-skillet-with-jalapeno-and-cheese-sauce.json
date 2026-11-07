@@ -1,0 +1,320 @@
+{
+  "id": "ruled-41666",
+  "slug": "chicken-skillet-with-jalapeno-and-cheese-sauce",
+  "title": "Chicken Skillet with Jalapeno and Cheese Sauce",
+  "url": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Chicken Skillet with Jalapeno and Cheese Sauce. Each serving comes out to be 503 calories, 44.5g fats, 3.2g net carbs, and 22.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT40M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "503 kcal",
+    "fatContent": "44.5 g",
+    "proteinContent": "22.9 g",
+    "carbohydrateContent": "3.2 g"
+  },
+  "nutritionPerServing": {
+    "calories": 503,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 22.9,
+    "fatGrams": 44.5
+  },
+  "ingredients": [
+    "2 teaspoon olive oil",
+    "28 ounce bone-in, skin-on chicken thighs",
+    "salt and pepper (to taste)",
+    "3/4 teaspoon chili powder",
+    "3/4 teaspoon cumin",
+    "1/2 cup onion (finely diced)",
+    "3 medium jalapeno pepper (seeds removed, finely diced)",
+    "2 teaspoon fresh garlic (minced)",
+    "1/2 cup chicken broth",
+    "4 ounce cream cheese",
+    "1 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 425F, and a large oven-safe skillet over medium-high heat. Add half of the olive oil to the skillet. Season the chicken with salt, pepper, chili powder, and cumin.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-01.jpg"
+    },
+    {
+      "text": "Sear the chicken by placing the skin side down into the skillet. Allow it to cook for about 10 minutes before flipping the chicken oven. Move the skillet to the oven the bake for another 15 minutes or until fully cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-02.jpg"
+    },
+    {
+      "text": "Set the chicken thighs aside then drain the pan so that only a few teaspoons of oil remain. Heat the pan over medium-low heat before dumping in the onion and jalapenos. Cook for about five minutes, or until softened before adding the garlic then continue to cook until fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-03.jpg"
+    },
+    {
+      "text": "Stir in the chicken broth and cream cheese. Once it emulsifies into a cream sauce, mix in the shredded cheddar cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-04.jpg"
+    },
+    {
+      "text": "Add the chicken thighs back into the skillet, make sure that they’re thoroughly coated with the cheese sauce then serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/143388423180328d75874ebd.avif",
+      "archived": true,
+      "originalPath": "images/143388423180328d75874ebd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-featured.jpg",
+      "path": "images/01e619c893e61aa8d08e9ad2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-01.jpg",
+      "path": "../../nenaudojama/dinner/images/95efd917bb7c590b6dc09a12.avif",
+      "archived": true,
+      "originalPath": "images/95efd917bb7c590b6dc09a12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-02.jpg",
+      "path": "../../nenaudojama/dinner/images/690a8472f1ae71f8c76470f0.jpg",
+      "archived": true,
+      "originalPath": "images/690a8472f1ae71f8c76470f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-03.jpg",
+      "path": "../../nenaudojama/dinner/images/596b47955a93e5625a890385.avif",
+      "archived": true,
+      "originalPath": "images/596b47955a93e5625a890385.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-04.jpg",
+      "path": "../../nenaudojama/dinner/images/7fe64410715441dee4bec640.avif",
+      "archived": true,
+      "originalPath": "images/7fe64410715441dee4bec640.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-second.jpg",
+      "path": "../../nenaudojama/dinner/images/bbf2082697c5be6956f49691.avif",
+      "archived": true,
+      "originalPath": "images/bbf2082697c5be6956f49691.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/3a842076971147ee14f1656f.avif",
+      "archived": true,
+      "originalPath": "images/3a842076971147ee14f1656f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/038fcaafd5039d6d3952dbbd.avif",
+      "archived": true,
+      "originalPath": "images/038fcaafd5039d6d3952dbbd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6e79aeadee1d875ee9ce2a90.avif",
+      "archived": true,
+      "originalPath": "images/6e79aeadee1d875ee9ce2a90.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0cc958e2cd47af6fb314dd52.jpg",
+      "archived": true,
+      "originalPath": "images/0cc958e2cd47af6fb314dd52.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3e995c8b35c6e9ce17f2c49a.avif",
+      "archived": true,
+      "originalPath": "images/3e995c8b35c6e9ce17f2c49a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/be9b7f5c8280f7bcb55931ba.jpg",
+      "archived": true,
+      "originalPath": "images/be9b7f5c8280f7bcb55931ba.jpg"
+    }
+  ],
+  "featuredImage": "images/01e619c893e61aa8d08e9ad2.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicken Skillet with Jalapeno and Cheese Sauce",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Chicken Skillet with Jalapeno and Cheese Sauce. Each serving comes out to be 503 calories, 44.5g fats, 3.2g net carbs, and 22.9g protein.",
+    "datePublished": "2019-10-15T09:00:56+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "2 teaspoon olive oil",
+      "28 ounce bone-in, skin-on chicken thighs",
+      "salt and pepper (to taste)",
+      "3/4 teaspoon chili powder",
+      "3/4 teaspoon cumin",
+      "1/2 cup onion (finely diced)",
+      "3 medium jalapeno pepper (seeds removed, finely diced)",
+      "2 teaspoon fresh garlic (minced)",
+      "1/2 cup chicken broth",
+      "4 ounce cream cheese",
+      "1 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 425F, and a large oven-safe skillet over medium-high heat. Add half of the olive oil to the skillet. Season the chicken with salt, pepper, chili powder, and cumin.",
+        "name": "Preheat your oven to 425F, and a large oven-safe skillet over medium-high heat. Add half of the olive oil to the skillet. Season the chicken with salt, pepper, chili powder, and cumin.",
+        "url": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sear the chicken by placing the skin side down into the skillet. Allow it to cook for about 10 minutes before flipping the chicken oven. Move the skillet to the oven the bake for another 15 minutes or until fully cooked through.",
+        "name": "Sear the chicken by placing the skin side down into the skillet. Allow it to cook for about 10 minutes before flipping the chicken oven. Move the skillet to the oven the bake for another 15 minutes or until fully cooked through.",
+        "url": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set the chicken thighs aside then drain the pan so that only a few teaspoons of oil remain. Heat the pan over medium-low heat before dumping in the onion and jalapenos. Cook for about five minutes, or until softened before adding the garlic then continue to cook until fragrant.",
+        "name": "Set the chicken thighs aside then drain the pan so that only a few teaspoons of oil remain. Heat the pan over medium-low heat before dumping in the onion and jalapenos. Cook for about five minutes, or until softened before adding the garlic then continue to cook until fragrant.",
+        "url": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the chicken broth and cream cheese. Once it emulsifies into a cream sauce, mix in the shredded cheddar cheese.",
+        "name": "Stir in the chicken broth and cream cheese. Once it emulsifies into a cream sauce, mix in the shredded cheddar cheese.",
+        "url": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken thighs back into the skillet, make sure that they’re thoroughly coated with the cheese sauce then serve.",
+        "name": "Add the chicken thighs back into the skillet, make sure that they’re thoroughly coated with the cheese sauce then serve.",
+        "url": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#wprm-recipe-53163-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, high-fat, keto, low-carb, nut-free, one-pan, one-pan meals, oven-baked, poultry, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "503 kcal",
+      "fatContent": "44.5 g",
+      "proteinContent": "22.9 g",
+      "carbohydrateContent": "3.2 g"
+    },
+    "@id": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chicken-skillet-with-jalapeno-and-cheese-sauce/"
+  },
+  "sourceIndex": {
+    "id": 41666,
+    "rid": 53163,
+    "t": "Chicken Skillet with Jalapeno and Cheese Sauce",
+    "u": "/chicken-skillet-with-jalapeno-and-cheese-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/10/chicken-thighs-jalapeno-cheese-sauce-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.2,
+    "cal": 503,
+    "pr": 22.9,
+    "fa": 44.5,
+    "tm": 50,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2019-10-15",
+    "cm": 6,
+    "ex": "This skillet dinner coats delicious chicken thighs with a creamy jalapeno cheese sauce. They're an easy weeknight dinner because you don't have to dirty a ton of dishes to create it. All you need is",
+    "pv": 340
+  },
+  "sourceHtml": "pages/chicken-skillet-with-jalapeno-and-cheese-sauce.html",
+  "scrapedAt": "2026-11-07T08:27:44.407Z"
+}

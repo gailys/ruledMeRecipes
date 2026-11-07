@@ -1,0 +1,366 @@
+{
+  "id": "ruled-10198",
+  "slug": "roasted-pecan-green-beans",
+  "title": "Roasted Pecan Green Beans",
+  "url": "https://www.ruled.me/roasted-pecan-green-beans/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Roasted Pecan Green Beans. Each serving comes out to be 281 calories, 25.1g fats, 6.9g net carbs, and 5.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "fatContent": "25.1 g",
+    "proteinContent": "5.9 g",
+    "carbohydrateContent": "6.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 281,
+    "netCarbsGrams": 6.9,
+    "proteinGrams": 5.9,
+    "fatGrams": 25.1
+  },
+  "ingredients": [
+    "16 ounce green beans",
+    "1/2 cup pecans (chopped)",
+    "1/4 cup olive oil",
+    "1/4 cup parmesan cheese (grated)",
+    "2 tablespoon lemon zest",
+    "2 teaspoon fresh garlic (minced)",
+    "1 teaspoon crushed red pepper flakes"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 450F. Place the green beans into a large mixing bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3239.jpg"
+    },
+    {
+      "text": "Add the pecans to a food processor and process until small and crumbly, with some slightly larger pieces for contrasting texture. Add the processed pecans to the green beans.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3244.jpg"
+    },
+    {
+      "text": "Add the olive oil, parmesan cheese, lemon zest, minced garlic, and red pepper flakes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3257.jpg"
+    },
+    {
+      "text": "Use a fork to mix the green beans together well with the rest of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3261.jpg"
+    },
+    {
+      "text": "Line a baking sheet with foil and spread the green beans out on top. Don't worry if some of them are overlapping, as this will add even more textural contrasts to the final dish!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3272.jpg"
+    },
+    {
+      "text": "Roast for 20–25 minutes, checking on them regularly after the 20-minute mark.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3279.jpg"
+    },
+    {
+      "text": "Let cool for 4–5 minutes and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans1.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans2.jpg",
+      "path": "../../nenaudojama/side-items/images/2a9ad71d853e4b9b8618c811.avif",
+      "archived": true,
+      "originalPath": "images/2a9ad71d853e4b9b8618c811.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3239.jpg",
+      "path": "../../nenaudojama/side-items/images/5429414f6dbe296f1c45edcb.avif",
+      "archived": true,
+      "originalPath": "images/5429414f6dbe296f1c45edcb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3244.jpg",
+      "path": "../../nenaudojama/side-items/images/521d0910a33895a62906645a.avif",
+      "archived": true,
+      "originalPath": "images/521d0910a33895a62906645a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3257.jpg",
+      "path": "../../nenaudojama/side-items/images/64c25413710ebcf031a61853.jpg",
+      "archived": true,
+      "originalPath": "images/64c25413710ebcf031a61853.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3261.jpg",
+      "path": "../../nenaudojama/side-items/images/d18016e63df11a765c610fef.avif",
+      "archived": true,
+      "originalPath": "images/d18016e63df11a765c610fef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3272.jpg",
+      "path": "../../nenaudojama/side-items/images/2db4cba15fd0abec010f7751.avif",
+      "archived": true,
+      "originalPath": "images/2db4cba15fd0abec010f7751.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3279.jpg",
+      "path": "../../nenaudojama/side-items/images/0ef1ee221976d0178abf2b22.avif",
+      "archived": true,
+      "originalPath": "images/0ef1ee221976d0178abf2b22.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans1.jpg",
+      "path": "../../nenaudojama/side-items/images/8a7de714169f697a9af5e4ab.jpg",
+      "archived": true,
+      "originalPath": "images/8a7de714169f697a9af5e4ab.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeansSecond.jpg",
+      "path": "../../nenaudojama/side-items/images/973cc7ad2392a21f45481cee.jpg",
+      "archived": true,
+      "originalPath": "images/973cc7ad2392a21f45481cee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3246.jpg",
+      "path": "../../nenaudojama/side-items/images/0af6ca0d6c60a074629bdefb.jpg",
+      "archived": true,
+      "originalPath": "images/0af6ca0d6c60a074629bdefb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3239-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/9b3417e41ce422d944c80042.jpg",
+      "archived": true,
+      "originalPath": "images/9b3417e41ce422d944c80042.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3244-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/698058822f9cb097429fd712.jpg",
+      "archived": true,
+      "originalPath": "images/698058822f9cb097429fd712.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3257-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/ead6f40425ba4b5e468fd64c.jpg",
+      "archived": true,
+      "originalPath": "images/ead6f40425ba4b5e468fd64c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3261-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/49f67cc29f444f8e3e4fe3d3.jpg",
+      "archived": true,
+      "originalPath": "images/49f67cc29f444f8e3e4fe3d3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3272-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6096b090cf734c45df202799.jpg",
+      "archived": true,
+      "originalPath": "images/6096b090cf734c45df202799.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3279-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/db37c98791c210d80f5d5329.avif",
+      "archived": true,
+      "originalPath": "images/db37c98791c210d80f5d5329.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/fdbc64e2afe6a79c0712c12a.jpg",
+      "archived": true,
+      "originalPath": "images/fdbc64e2afe6a79c0712c12a.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/2a9ad71d853e4b9b8618c811.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Roasted Pecan Green Beans",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Roasted Pecan Green Beans. Each serving comes out to be 281 calories, 25.1g fats, 6.9g net carbs, and 5.9g protein.",
+    "datePublished": "2014-03-01T17:39:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans2.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "16 ounce green beans",
+      "1/2 cup pecans (chopped)",
+      "1/4 cup olive oil",
+      "1/4 cup parmesan cheese (grated)",
+      "2 tablespoon lemon zest",
+      "2 teaspoon fresh garlic (minced)",
+      "1 teaspoon crushed red pepper flakes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 450F. Place the green beans into a large mixing bowl.",
+        "name": "Preheat oven to 450F. Place the green beans into a large mixing bowl.",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3239.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pecans to a food processor and process until small and crumbly, with some slightly larger pieces for contrasting texture. Add the processed pecans to the green beans.",
+        "name": "Add the pecans to a food processor and process until small and crumbly, with some slightly larger pieces for contrasting texture. Add the processed pecans to the green beans.",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3244.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the olive oil, parmesan cheese, lemon zest, minced garlic, and red pepper flakes.",
+        "name": "Add the olive oil, parmesan cheese, lemon zest, minced garlic, and red pepper flakes.",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3257.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a fork to mix the green beans together well with the rest of the ingredients.",
+        "name": "Use a fork to mix the green beans together well with the rest of the ingredients.",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3261.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a baking sheet with foil and spread the green beans out on top. Don't worry if some of them are overlapping, as this will add even more textural contrasts to the final dish!",
+        "name": "Line a baking sheet with foil and spread the green beans out on top. Don't worry if some of them are overlapping, as this will add even more textural contrasts to the final dish!",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3272.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast for 20–25 minutes, checking on them regularly after the 20-minute mark.",
+        "name": "Roast for 20–25 minutes, checking on them regularly after the 20-minute mark.",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_3279.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool for 4–5 minutes and serve!",
+        "name": "Let cool for 4–5 minutes and serve!",
+        "url": "https://www.ruled.me/roasted-pecan-green-beans/#wprm-recipe-50909-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans1.jpg"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "LOVED this, as did my hubby who hates green beans (I set out to find a recipe that would make him like them. It worked! He took seconds!)",
+        "author": {
+          "@type": "Person",
+          "name": "Joanne"
+        },
+        "datePublished": "2025-11-13"
+      }
+    ],
+    "recipeCategory": [
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, gluten-free, keto, low-carb, oven-baked, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "281 kcal",
+      "fatContent": "25.1 g",
+      "proteinContent": "5.9 g",
+      "carbohydrateContent": "6.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/roasted-pecan-green-beans/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/roasted-pecan-green-beans/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/roasted-pecan-green-beans/"
+  },
+  "sourceIndex": {
+    "id": 10198,
+    "rid": 50909,
+    "t": "Roasted Pecan Green Beans",
+    "u": "/roasted-pecan-green-beans/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/RoastedGreenBeans2.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 6.9,
+    "cal": 281,
+    "pr": 5.9,
+    "fa": 25.1,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "oven-baked"
+    ],
+    "d": "2014-03-01",
+    "cm": 7,
+    "ex": "Being on a ketogenic diet usually means that you're missing some kind of crunch in your meals. Whether it's meat and vegetables, a dessert, or just a snack - it's notorious for being something",
+    "pv": 932
+  },
+  "sourceHtml": "pages/roasted-pecan-green-beans.html",
+  "scrapedAt": "2026-11-07T08:33:03.566Z"
+}

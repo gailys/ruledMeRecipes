@@ -1,0 +1,431 @@
+{
+  "id": "ruled-10824",
+  "slug": "inside-out-bacon-burger",
+  "title": "Inside Out Bacon Burger",
+  "url": "https://www.ruled.me/inside-out-bacon-burger/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Inside Out Bacon Burger. Each serving comes out to be 522 calories, 43.2g fats, 1.8g net carbs, and 29.2g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "522 kcal",
+    "fatContent": "43.2 g",
+    "proteinContent": "29.2 g",
+    "carbohydrateContent": "1.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 522,
+    "netCarbsGrams": 1.8,
+    "proteinGrams": 29.2,
+    "fatGrams": 43.2
+  },
+  "ingredients": [
+    "8 slice bacon (chopped)",
+    "800 gram ground beef",
+    "1/4 cup cheddar cheese",
+    "2 tablespoon fresh chives (chopped)",
+    "2 teaspoon fresh garlic (minced)",
+    "2 teaspoon black pepper",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "1 1/4 teaspoon salt",
+    "1 teaspoon onion powder",
+    "1 teaspoon worcestershire sauce"
+  ],
+  "instructions": [
+    {
+      "text": "In a cast iron skillet, start cooking the slices of chopped bacon. You can season with spices if you’d like.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4833.jpg"
+    },
+    {
+      "text": "Continue cooking it, covering the pan with a grease catcher – this stuff will get seriously messy without one!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4838.jpg"
+    },
+    {
+      "text": "Once the bacon is cooked, remove it from the pan and set aside on some paper towels to crisp up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4842.jpg"
+    },
+    {
+      "text": "In a large mixing bowl, add the ground beef.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4847.jpg"
+    },
+    {
+      "text": "Add 2/3 of your bacon, chopped chives, minced garlic, black pepper, soy sauce, salt, onion powder, and Worcestershire sauce.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4851.jpg"
+    },
+    {
+      "text": "Mix the meat and spice mixture together well; make sure that all of the spices are evenly distributed in the meat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4856.jpg"
+    },
+    {
+      "text": "Form patties with your hands. You should be able to get relatively large patties from this.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4858.jpg"
+    },
+    {
+      "text": "In a cast iron skillet, add the previously saved bacon fat. Wait until it gets hot and then add your burger patties. You can add 3-4 at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-7",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4859.jpg"
+    },
+    {
+      "text": "Flip the burger patties after 3-5 minutes (depending on the done-ness you want) and continue to cook on the other side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-8",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4861.jpg"
+    },
+    {
+      "text": "Serve with cheese, extra bacon, and onion if you’d like. Also, feel free to add a dash of sriracha over the top!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-9",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/03/baconburger3.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "family-friendly",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "red-meat",
+    "stovetop",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/baconburger.jpg",
+      "path": "images/c77462e2ce6d6094826f1c7d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4833.jpg",
+      "path": "../../nenaudojama/lunch/images/1b270625be54d75b9c0365dc.jpg",
+      "archived": true,
+      "originalPath": "images/1b270625be54d75b9c0365dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4838.jpg",
+      "path": "../../nenaudojama/lunch/images/b15bdd6b233bbd5c5113a498.jpg",
+      "archived": true,
+      "originalPath": "images/b15bdd6b233bbd5c5113a498.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4842.jpg",
+      "path": "../../nenaudojama/lunch/images/a0acaec8ffb553c2133da7ae.avif",
+      "archived": true,
+      "originalPath": "images/a0acaec8ffb553c2133da7ae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4847.jpg",
+      "path": "../../nenaudojama/lunch/images/2ce2e842a68bbf84d10007ea.jpg",
+      "archived": true,
+      "originalPath": "images/2ce2e842a68bbf84d10007ea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4851.jpg",
+      "path": "../../nenaudojama/lunch/images/f7fddfbf509b802a3af961b6.jpg",
+      "archived": true,
+      "originalPath": "images/f7fddfbf509b802a3af961b6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4856.jpg",
+      "path": "../../nenaudojama/lunch/images/025876766c32190c9d10ba17.jpg",
+      "archived": true,
+      "originalPath": "images/025876766c32190c9d10ba17.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4858.jpg",
+      "path": "../../nenaudojama/lunch/images/fc2e0596e09cf8e951d647ea.jpg",
+      "archived": true,
+      "originalPath": "images/fc2e0596e09cf8e951d647ea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4859.jpg",
+      "path": "../../nenaudojama/lunch/images/cb086f7108623fc6113f2131.jpg",
+      "archived": true,
+      "originalPath": "images/cb086f7108623fc6113f2131.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4861.jpg",
+      "path": "../../nenaudojama/lunch/images/a3da33af5f0f400f26b71e5d.jpg",
+      "archived": true,
+      "originalPath": "images/a3da33af5f0f400f26b71e5d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/baconburger3.jpg",
+      "path": "../../nenaudojama/lunch/images/0297df337d7c246906f9d16c.jpg",
+      "archived": true,
+      "originalPath": "images/0297df337d7c246906f9d16c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/baconburgersecond.jpg",
+      "path": "../../nenaudojama/lunch/images/0fb0834d9b7e1aef2e5d72df.jpg",
+      "archived": true,
+      "originalPath": "images/0fb0834d9b7e1aef2e5d72df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4833-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f6d029416697ac59144eea9f.jpg",
+      "archived": true,
+      "originalPath": "images/f6d029416697ac59144eea9f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4838-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3c753f2c879f6787cfb860ac.jpg",
+      "archived": true,
+      "originalPath": "images/3c753f2c879f6787cfb860ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4842-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7b2f20f5421b334525fb6b99.jpg",
+      "archived": true,
+      "originalPath": "images/7b2f20f5421b334525fb6b99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4847-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bf87b6e8816a72af4e85da43.jpg",
+      "archived": true,
+      "originalPath": "images/bf87b6e8816a72af4e85da43.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4851-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d11d74b29eb4de1418e43c46.jpg",
+      "archived": true,
+      "originalPath": "images/d11d74b29eb4de1418e43c46.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4856-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0662e57afd09f341764b5590.jpg",
+      "archived": true,
+      "originalPath": "images/0662e57afd09f341764b5590.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4858-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/4932ca47e3b2f0f0ada7f53d.jpg",
+      "archived": true,
+      "originalPath": "images/4932ca47e3b2f0f0ada7f53d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4859-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7a132d59993bb1cad5a1ef04.jpg",
+      "archived": true,
+      "originalPath": "images/7a132d59993bb1cad5a1ef04.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4861-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/3e6fe75e318def5e8adb6ecc.jpg",
+      "archived": true,
+      "originalPath": "images/3e6fe75e318def5e8adb6ecc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/03/baconburger3-228x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0ce0f56d5533e8348266524d.jpg",
+      "archived": true,
+      "originalPath": "images/0ce0f56d5533e8348266524d.jpg"
+    }
+  ],
+  "featuredImage": "images/c77462e2ce6d6094826f1c7d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Inside Out Bacon Burger",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 6 servings of Inside Out Bacon Burger. Each serving comes out to be 522 calories, 43.2g fats, 1.8g net carbs, and 29.2g protein.",
+    "datePublished": "2014-03-07T15:42:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/03/baconburger.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "8 slice bacon (chopped)",
+      "800 gram ground beef",
+      "1/4 cup cheddar cheese",
+      "2 tablespoon fresh chives (chopped)",
+      "2 teaspoon fresh garlic (minced)",
+      "2 teaspoon black pepper",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "1 1/4 teaspoon salt",
+      "1 teaspoon onion powder",
+      "1 teaspoon worcestershire sauce"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a cast iron skillet, start cooking the slices of chopped bacon. You can season with spices if you’d like.",
+        "name": "In a cast iron skillet, start cooking the slices of chopped bacon. You can season with spices if you’d like.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4833.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue cooking it, covering the pan with a grease catcher – this stuff will get seriously messy without one!",
+        "name": "Continue cooking it, covering the pan with a grease catcher – this stuff will get seriously messy without one!",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4838.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the bacon is cooked, remove it from the pan and set aside on some paper towels to crisp up.",
+        "name": "Once the bacon is cooked, remove it from the pan and set aside on some paper towels to crisp up.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4842.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, add the ground beef.",
+        "name": "In a large mixing bowl, add the ground beef.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4847.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 2/3 of your bacon, chopped chives, minced garlic, black pepper, soy sauce, salt, onion powder, and Worcestershire sauce.",
+        "name": "Add 2/3 of your bacon, chopped chives, minced garlic, black pepper, soy sauce, salt, onion powder, and Worcestershire sauce.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4851.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the meat and spice mixture together well; make sure that all of the spices are evenly distributed in the meat.",
+        "name": "Mix the meat and spice mixture together well; make sure that all of the spices are evenly distributed in the meat.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4856.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form patties with your hands. You should be able to get relatively large patties from this.",
+        "name": "Form patties with your hands. You should be able to get relatively large patties from this.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4858.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a cast iron skillet, add the previously saved bacon fat. Wait until it gets hot and then add your burger patties. You can add 3-4 at a time.",
+        "name": "In a cast iron skillet, add the previously saved bacon fat. Wait until it gets hot and then add your burger patties. You can add 3-4 at a time.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-7",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4859.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the burger patties after 3-5 minutes (depending on the done-ness you want) and continue to cook on the other side.",
+        "name": "Flip the burger patties after 3-5 minutes (depending on the done-ness you want) and continue to cook on the other side.",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-8",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/IMG_4861.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with cheese, extra bacon, and onion if you’d like. Also, feel free to add a dash of sriracha over the top!",
+        "name": "Serve with cheese, extra bacon, and onion if you’d like. Also, feel free to add a dash of sriracha over the top!",
+        "url": "https://www.ruled.me/inside-out-bacon-burger/#wprm-recipe-50917-step-0-9",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/03/baconburger3.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, family-friendly, high-fat, high-protein, keto, low-carb, nut-free, pork, red meat, stovetop, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "522 kcal",
+      "fatContent": "43.2 g",
+      "proteinContent": "29.2 g",
+      "carbohydrateContent": "1.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/inside-out-bacon-burger/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/inside-out-bacon-burger/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/inside-out-bacon-burger/"
+  },
+  "sourceIndex": {
+    "id": 10824,
+    "rid": 50917,
+    "t": "Inside Out Bacon Burger",
+    "u": "/inside-out-bacon-burger/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/03/baconburger.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 1.8,
+    "cal": 522,
+    "pr": 29.2,
+    "fa": 43.2,
+    "tm": 50,
+    "sv": 6,
+    "kw": [
+      "egg-free",
+      "family-friendly",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "red-meat",
+      "stovetop",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "red-meat"
+    ],
+    "d": "2014-03-07",
+    "cm": 19,
+    "ex": "It's been a long time coming that I actually use the meat of a burger as buns - but that time has finally come! Bacon, cheese, and some crispy raw onion between 2 patties of...more bacon and ground",
+    "pv": 208
+  },
+  "sourceHtml": "pages/inside-out-bacon-burger.html",
+  "scrapedAt": "2026-11-07T08:18:19.738Z"
+}

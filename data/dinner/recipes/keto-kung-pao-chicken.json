@@ -1,0 +1,390 @@
+{
+  "id": "ruled-26721",
+  "slug": "keto-kung-pao-chicken",
+  "title": "Keto Kung Pao Chicken",
+  "url": "https://www.ruled.me/keto-kung-pao-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Kung Pao Chicken. Each serving comes out to be 232 calories, 16.5g fats, 4.2g net carbs, and 16.6g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "232 kcal",
+    "fatContent": "16.5 g",
+    "proteinContent": "16.6 g",
+    "carbohydrateContent": "4.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 232,
+    "netCarbsGrams": 4.2,
+    "proteinGrams": 16.6,
+    "fatGrams": 16.5
+  },
+  "ingredients": [
+    "7 1/2 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)",
+    "1 teaspoon ground ginger",
+    "1/2 medium green bell pepper",
+    "30 gram green onion",
+    "4 bird's eye chile pepper (deseeded)",
+    "1/4 cup peanuts",
+    "1 tablespoon soy sauce (or coconut aminos)",
+    "2 teaspoon unseasoned rice vinegar",
+    "2 tablespoon chili-garlic paste (such as sambal oelek with garlic)",
+    "1 tablespoon low-carb ketchup",
+    "2 teaspoon sesame oil",
+    "1/2 teaspoon maple extract",
+    "10 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "Cut chicken into bite-sized pieces. Season with salt, pepper, and ground ginger.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_9494.jpg"
+    },
+    {
+      "text": "Heat a non-stick pan over medium-high heat and add the chicken once very hot. Let cook until browned (about 10 minutes). I advise using a splatter screen or covering the pan with paper towels, as there will be quite a lot of grease splatter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_9497.jpg"
+    },
+    {
+      "text": "Chop up and prep the vegetables and chiles. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_9606.jpg"
+    },
+    {
+      "text": "Prepare the sauce by combining all sauce ingredients and mixing well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_9506.jpg"
+    },
+    {
+      "text": "Once the chicken is browned, stir it well and let cook for a few more minutes. Add the vegetables and peanuts to the pan and let the mixture cook down (about 3–4 minutes).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_9615.jpg"
+    },
+    {
+      "text": "Add the sauce to the pan, letting it boil down and reduce slightly. It should have a nearly sticky texture once done.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/08/img_9517.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "poultry",
+    "quick",
+    "spicy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "egg-free",
+    "stovetop",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/kungpaochicken1.jpg",
+      "path": "images/6cd7add063c581c32736995b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9494.jpg",
+      "path": "../../nenaudojama/dinner/images/be9d1b0cfa180394f8a20249.avif",
+      "archived": true,
+      "originalPath": "images/be9d1b0cfa180394f8a20249.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9497.jpg",
+      "path": "../../nenaudojama/dinner/images/f3567b8f4e1c48e7bc209e32.jpg",
+      "archived": true,
+      "originalPath": "images/f3567b8f4e1c48e7bc209e32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9606.jpg",
+      "path": "../../nenaudojama/dinner/images/10620598d3c796be00b9f3f2.avif",
+      "archived": true,
+      "originalPath": "images/10620598d3c796be00b9f3f2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9506.jpg",
+      "path": "../../nenaudojama/dinner/images/634ecd28e5693f0684a29e2d.avif",
+      "archived": true,
+      "originalPath": "images/634ecd28e5693f0684a29e2d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9615.jpg",
+      "path": "../../nenaudojama/dinner/images/a304e826f86e54eb8042ee2d.avif",
+      "archived": true,
+      "originalPath": "images/a304e826f86e54eb8042ee2d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9517.jpg",
+      "path": "../../nenaudojama/dinner/images/15741aef9aeae7c892de460a.avif",
+      "archived": true,
+      "originalPath": "images/15741aef9aeae7c892de460a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/kungpaochickensecond2.jpg",
+      "path": "../../nenaudojama/dinner/images/252f4988d8591ad9f5bf6533.avif",
+      "archived": true,
+      "originalPath": "images/252f4988d8591ad9f5bf6533.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/kungpaochickenlong1.jpg",
+      "path": "../../nenaudojama/dinner/images/e0aa38b8e402f92823940f30.avif",
+      "archived": true,
+      "originalPath": "images/e0aa38b8e402f92823940f30.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9494-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3e737169bf558901b45f82bd.jpg",
+      "archived": true,
+      "originalPath": "images/3e737169bf558901b45f82bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9497-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d81db1b5ef7958db27a1a49e.jpg",
+      "archived": true,
+      "originalPath": "images/d81db1b5ef7958db27a1a49e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9606-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6d17682f9d1bb0a4b474710e.jpg",
+      "archived": true,
+      "originalPath": "images/6d17682f9d1bb0a4b474710e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9506-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6f61f02c49de267be642cae6.jpg",
+      "archived": true,
+      "originalPath": "images/6f61f02c49de267be642cae6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9615-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dc52e00df2881633ebdaca3c.jpg",
+      "archived": true,
+      "originalPath": "images/dc52e00df2881633ebdaca3c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/08/img_9517-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/82eb72478ca8afedb267ba56.jpg",
+      "archived": true,
+      "originalPath": "images/82eb72478ca8afedb267ba56.jpg"
+    }
+  ],
+  "featuredImage": "images/6cd7add063c581c32736995b.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Kung Pao Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Keto Kung Pao Chicken. Each serving comes out to be 232 calories, 16.5g fats, 4.2g net carbs, and 16.6g protein.",
+    "datePublished": "2015-08-14T16:05:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/08/kungpaochicken1.jpg"
+    ],
+    "video": {
+      "name": "Keto Kung Pao Chicken Recipe [Takeout Style]",
+      "description": "If you all didn’t know by now, Asian food is in one of my favorite categories of food. Prior to keto, grabbing take-out was the time of the week I looked forward to the most. From Sweet and Sour Chicken to Grilled Short Ribs, I’ve tried to recreate as many favorites as I can into keto friendly recipes that everyone can enjoy.\n\nKung Pao Chicken is traditionally a spicy stir fry made with chicken, peanuts, vegetables, and chili peppers. It normally calls for Sichuan peppercorns, but since they can be a bit expensive and for some hard to get – we replace that with the bird’s eye chili for heat. They’re available in most grocery stores and they pack a real punch!\n\nIt’s a relatively spicy dish, but the flavors sing and each note comes through perfectly. The green pepper, scallions, peanuts, and chili paste really come together for a great bite each and every time. If you’re not much of a fan of spicy, try cutting this down to 1 or 1 1/2 chili pepper. Definitely make sure you have room to serve these over some cauliflower fried rice (in bacon fat!) or over some zoodles.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 medium Chicken Thighs, bone in skin on\n1 tsp. Ground Ginger\nSalt and Pepper to Taste\n1/4 cup Peanuts\n1/2 medium Green Pepper\n2 large Spring Onions\n4 red Bird’s Eye Chilis, de-seeded\n\nThe Sauce:\n1 tbsp. Soy Sauce\n2 tsp. Rice Wine Vinegar\n2 tbsp. Chili Garlic Paste\n1 tbsp. Reduced Sugar Ketchup\n2 tsp. Sesame Oil\n1/2 tsp. Maple Extract\n10 drops Liquid Stevia\n\nNutrition Summary: This makes a total of 3 servings of Keto Kung Pao Chicken. Per serving, it comes out to be 362 Calories, 27.4g Fats, 3.2g Net Carbs, and 22.3g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-07-08T14:00:18+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M29S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 11416
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 462
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 18
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yBGm4txT4TI/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yBGm4txT4TI?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=yBGm4txT4TI",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "7 1/2 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)",
+      "1 teaspoon ground ginger",
+      "1/2 medium green bell pepper",
+      "30 gram green onion",
+      "4 bird's eye chile pepper (deseeded)",
+      "1/4 cup peanuts",
+      "1 tablespoon soy sauce (or coconut aminos)",
+      "2 teaspoon unseasoned rice vinegar",
+      "2 tablespoon chili-garlic paste (such as sambal oelek with garlic)",
+      "1 tablespoon low-carb ketchup",
+      "2 teaspoon sesame oil",
+      "1/2 teaspoon maple extract",
+      "10 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut chicken into bite-sized pieces. Season with salt, pepper, and ground ginger.",
+        "name": "Cut chicken into bite-sized pieces. Season with salt, pepper, and ground ginger.",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_9494.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick pan over medium-high heat and add the chicken once very hot. Let cook until browned (about 10 minutes). I advise using a splatter screen or covering the pan with paper towels, as there will be quite a lot of grease splatter.",
+        "name": "Heat a non-stick pan over medium-high heat and add the chicken once very hot. Let cook until browned (about 10 minutes). I advise using a splatter screen or covering the pan with paper towels, as there will be quite a lot of grease splatter.",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_9497.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop up and prep the vegetables and chiles. Set aside.",
+        "name": "Chop up and prep the vegetables and chiles. Set aside.",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_9606.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the sauce by combining all sauce ingredients and mixing well.",
+        "name": "Prepare the sauce by combining all sauce ingredients and mixing well.",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_9506.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the chicken is browned, stir it well and let cook for a few more minutes. Add the vegetables and peanuts to the pan and let the mixture cook down (about 3–4 minutes).",
+        "name": "Once the chicken is browned, stir it well and let cook for a few more minutes. Add the vegetables and peanuts to the pan and let the mixture cook down (about 3–4 minutes).",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_9615.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sauce to the pan, letting it boil down and reduce slightly. It should have a nearly sticky texture once done.",
+        "name": "Add the sauce to the pan, letting it boil down and reduce slightly. It should have a nearly sticky texture once done.",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/08/img_9517.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-kung-pao-chicken/#wprm-recipe-51793-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Chinese"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, keto, low-carb, poultry, quick, spicy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "232 kcal",
+      "fatContent": "16.5 g",
+      "proteinContent": "16.6 g",
+      "carbohydrateContent": "4.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-kung-pao-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-kung-pao-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-kung-pao-chicken/"
+  },
+  "sourceIndex": {
+    "id": 26721,
+    "rid": 51793,
+    "t": "Keto Kung Pao Chicken",
+    "u": "/keto-kung-pao-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/08/kungpaochicken1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.2,
+    "cal": 232,
+    "pr": 16.6,
+    "fa": 16.5,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "poultry",
+      "quick",
+      "spicy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 14,
+    "fk": [
+      "dairy-free",
+      "egg-free",
+      "stovetop",
+      "poultry"
+    ],
+    "d": "2015-08-14",
+    "cm": 29,
+    "ex": "If you all didn't know by now, Asian food is in one of my favorite categories of food. Prior to keto, grabbing take-out was the time of the week I looked forward to the most. From Sweet and Sour",
+    "pv": 997
+  },
+  "sourceHtml": "pages/keto-kung-pao-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:44.848Z"
+}

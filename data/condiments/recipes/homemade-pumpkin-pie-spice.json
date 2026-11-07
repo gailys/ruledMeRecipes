@@ -1,0 +1,274 @@
+{
+  "id": "ruled-24777",
+  "slug": "homemade-pumpkin-pie-spice",
+  "title": "Homemade Pumpkin Pie Spice",
+  "url": "https://www.ruled.me/homemade-pumpkin-pie-spice/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 10 servings of Homemade Pumpkin Pie Spice. Each serving comes out to be 7 calories, 0.1g fats, 0.9g net carbs, and 0.1g protein.",
+  "servings": 10,
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "7 kcal",
+    "fatContent": "0.1 g",
+    "proteinContent": "0.1 g",
+    "carbohydrateContent": "0.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 7,
+    "netCarbsGrams": 0.9,
+    "proteinGrams": 0.1,
+    "fatGrams": 0.1
+  },
+  "ingredients": [
+    "1/2 teaspoon ground cloves",
+    "2 tablespoon ground cinnamon",
+    "1 tablespoon ground ginger",
+    "1/2 teaspoon ground nutmeg",
+    "1/2 teaspoon ground allspice",
+    "1/4 teaspoon cardamom"
+  ],
+  "instructions": [
+    {
+      "text": "This recipe can be made with powdered or whole cloves. If using whole cloves, use a spice grinder to grind them into a powder, then measure.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_5151.jpg"
+    },
+    {
+      "text": "Add all of the spices to a small bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_5147.jpg"
+    },
+    {
+      "text": "Mix together until well combined and the color of the spices is the same throughout.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/10/img_5162.jpg"
+    },
+    {
+      "text": "Store in a leftover spice container and sprinkle over just about anything!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "fall",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinpiespice.jpg",
+      "path": "../../nenaudojama/condiments/images/ecbf84c0b05f0136984d9c9d.jpg",
+      "archived": true,
+      "originalPath": "images/ecbf84c0b05f0136984d9c9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5151.jpg",
+      "path": "../../nenaudojama/condiments/images/5f465d1a227f45d49f54e3d7.avif",
+      "archived": true,
+      "originalPath": "images/5f465d1a227f45d49f54e3d7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5147.jpg",
+      "path": "../../nenaudojama/condiments/images/968fa86a16340d56be0f1b42.avif",
+      "archived": true,
+      "originalPath": "images/968fa86a16340d56be0f1b42.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5162.jpg",
+      "path": "../../nenaudojama/condiments/images/32c215628f61873cbbdac28b.avif",
+      "archived": true,
+      "originalPath": "images/32c215628f61873cbbdac28b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5157.jpg",
+      "path": "../../nenaudojama/condiments/images/21afeef74f1c69bcfe4a7182.avif",
+      "archived": true,
+      "originalPath": "images/21afeef74f1c69bcfe4a7182.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinpiespicelong.jpg",
+      "path": "../../nenaudojama/condiments/images/5fbc8c7ebad6826e547f1797.avif",
+      "archived": true,
+      "originalPath": "images/5fbc8c7ebad6826e547f1797.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5151-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/ccdb4b21fdb7bb81877c5152.jpg",
+      "archived": true,
+      "originalPath": "images/ccdb4b21fdb7bb81877c5152.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5147-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/080a420e3c1a9f96fb5a14c5.avif",
+      "archived": true,
+      "originalPath": "images/080a420e3c1a9f96fb5a14c5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/10/img_5162-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/bad33f42f995783b03e78993.avif",
+      "archived": true,
+      "originalPath": "images/bad33f42f995783b03e78993.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/ecbf84c0b05f0136984d9c9d.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Homemade Pumpkin Pie Spice",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 10 servings of Homemade Pumpkin Pie Spice. Each serving comes out to be 7 calories, 0.1g fats, 0.9g net carbs, and 0.1g protein.",
+    "datePublished": "2014-10-17T13:56:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinpiespice.jpg"
+    ],
+    "recipeYield": [
+      "10",
+      "10 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 teaspoon ground cloves",
+      "2 tablespoon ground cinnamon",
+      "1 tablespoon ground ginger",
+      "1/2 teaspoon ground nutmeg",
+      "1/2 teaspoon ground allspice",
+      "1/4 teaspoon cardamom"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "This recipe can be made with powdered or whole cloves. If using whole cloves, use a spice grinder to grind them into a powder, then measure.",
+        "name": "This recipe can be made with powdered or whole cloves. If using whole cloves, use a spice grinder to grind them into a powder, then measure.",
+        "url": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_5151.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the spices to a small bowl.",
+        "name": "Add all of the spices to a small bowl.",
+        "url": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_5147.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together until well combined and the color of the spices is the same throughout.",
+        "name": "Mix together until well combined and the color of the spices is the same throughout.",
+        "url": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/10/img_5162.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Store in a leftover spice container and sprinkle over just about anything!",
+        "name": "Store in a leftover spice container and sprinkle over just about anything!",
+        "url": "https://www.ruled.me/homemade-pumpkin-pie-spice/#wprm-recipe-51439-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, fall, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "7 kcal",
+      "fatContent": "0.1 g",
+      "proteinContent": "0.1 g",
+      "carbohydrateContent": "0.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/homemade-pumpkin-pie-spice/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/homemade-pumpkin-pie-spice/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/homemade-pumpkin-pie-spice/"
+  },
+  "sourceIndex": {
+    "id": 24777,
+    "rid": 51439,
+    "t": "Homemade Pumpkin Pie Spice",
+    "u": "/homemade-pumpkin-pie-spice/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/10/pumpkinpiespice.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.9,
+    "cal": 7,
+    "pr": 0.1,
+    "fa": 0.1,
+    "tm": 5,
+    "sv": 10,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "fall",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2014-10-17",
+    "cm": 4,
+    "ex": "It's that time of year when every recipe seems to have hints of pumpkin or squash in them. Well, I'm going to be no different and going to be posting quite a large array of pumpkin based recipes for",
+    "pv": 162
+  },
+  "sourceHtml": "pages/homemade-pumpkin-pie-spice.html",
+  "scrapedAt": "2026-11-07T08:33:33.880Z"
+}

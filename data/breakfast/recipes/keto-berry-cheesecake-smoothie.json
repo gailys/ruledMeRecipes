@@ -1,0 +1,304 @@
+{
+  "id": "ruled-49846",
+  "slug": "keto-berry-cheesecake-smoothie",
+  "title": "Keto Berry Cheesecake Smoothie",
+  "url": "https://www.ruled.me/keto-berry-cheesecake-smoothie/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Keto Berry Cheesecake Smoothie. The serving comes out to be 561 calories, 44g fats, 9.1g net carbs, and 29g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "561 kcal",
+    "fatContent": "44 g",
+    "proteinContent": "29 g",
+    "carbohydrateContent": "9.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 561,
+    "netCarbsGrams": 9.1,
+    "proteinGrams": 29,
+    "fatGrams": 44
+  },
+  "ingredients": [
+    "1/3 cup frozen berries",
+    "1 cup unsweetened almond milk",
+    "1/4 cup heavy cream",
+    "1 ounce unflavored low-carb protein powder",
+    "2 ounce cream cheese",
+    "1 tablespoon erythritol",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-1.jpg"
+    },
+    {
+      "text": "Add all of the ingredients to a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-2.jpg"
+    },
+    {
+      "text": "Blend until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-4.jpg"
+    },
+    {
+      "text": "Pour into a glass or to-go cup.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-5.jpg"
+    },
+    {
+      "text": "Enjoy while cold!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/40ac2f82ea0b16d008b86edc.avif",
+      "archived": true,
+      "originalPath": "images/40ac2f82ea0b16d008b86edc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Featured.jpg",
+      "path": "images/ae93a10fb2f928fbc5ca09f6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/9064fd0cf5f100a7f853f7df.avif",
+      "archived": true,
+      "originalPath": "images/9064fd0cf5f100a7f853f7df.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/159406b8c37ecf071eec5199.avif",
+      "archived": true,
+      "originalPath": "images/159406b8c37ecf071eec5199.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/d5d3c12879ef492faa6c724d.avif",
+      "archived": true,
+      "originalPath": "images/d5d3c12879ef492faa6c724d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-5.jpg",
+      "path": "../../nenaudojama/breakfast/images/a1acc218d9e848e741b943df.avif",
+      "archived": true,
+      "originalPath": "images/a1acc218d9e848e741b943df.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/233410e015e6198e40263edc.jpg",
+      "archived": true,
+      "originalPath": "images/233410e015e6198e40263edc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/b083f4ca69396b843c6f0739.avif",
+      "archived": true,
+      "originalPath": "images/b083f4ca69396b843c6f0739.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/9bef45b660f722ee93a2ba5e.avif",
+      "archived": true,
+      "originalPath": "images/9bef45b660f722ee93a2ba5e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9fca8780b904a98ff537c5e4.avif",
+      "archived": true,
+      "originalPath": "images/9fca8780b904a98ff537c5e4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/1a4178e442825e79a95b2333.avif",
+      "archived": true,
+      "originalPath": "images/1a4178e442825e79a95b2333.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/50edca18265b5df82cc03d5d.avif",
+      "archived": true,
+      "originalPath": "images/50edca18265b5df82cc03d5d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-5-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/bf49530f3006fc3e76117668.jpg",
+      "archived": true,
+      "originalPath": "images/bf49530f3006fc3e76117668.jpg"
+    }
+  ],
+  "featuredImage": "images/ae93a10fb2f928fbc5ca09f6.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Berry Cheesecake Smoothie",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Keto Berry Cheesecake Smoothie. The serving comes out to be 561 calories, 44g fats, 9.1g net carbs, and 29g protein.",
+    "datePublished": "2024-02-01T10:42:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/3 cup frozen berries",
+      "1 cup unsweetened almond milk",
+      "1/4 cup heavy cream",
+      "1 ounce unflavored low-carb protein powder",
+      "2 ounce cream cheese",
+      "1 tablespoon erythritol",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the ingredients to a blender.",
+        "name": "Add all of the ingredients to a blender.",
+        "url": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend until smooth.",
+        "name": "Blend until smooth.",
+        "url": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a glass or to-go cup.",
+        "name": "Pour into a glass or to-go cup.",
+        "url": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy while cold!",
+        "name": "Enjoy while cold!",
+        "url": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#wprm-recipe-54897-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "561 kcal",
+      "fatContent": "44 g",
+      "proteinContent": "29 g",
+      "carbohydrateContent": "9.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-berry-cheesecake-smoothie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-berry-cheesecake-smoothie/"
+  },
+  "sourceIndex": {
+    "id": 49846,
+    "rid": 54897,
+    "t": "Keto Berry Cheesecake Smoothie",
+    "u": "/keto-berry-cheesecake-smoothie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/Keto-Berry-Cheesecake-Smoothie-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 9.1,
+    "cal": 561,
+    "pr": 29,
+    "fa": 44,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2024-02-01",
+    "cm": 0,
+    "ex": "Indulge in a burst of fruity delight with our Mixed Berry Cheesecake Smoothie, a low-carb masterpiece that blends creamy decadence with vibrant berries. This recipe is your ticket to a guilt-free",
+    "pv": 226
+  },
+  "sourceHtml": "pages/keto-berry-cheesecake-smoothie.html",
+  "scrapedAt": "2026-11-07T08:11:11.892Z"
+}

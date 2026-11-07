@@ -1,0 +1,288 @@
+{
+  "id": "ruled-40366",
+  "slug": "keto-neapolitan-chia-pudding",
+  "title": "Keto Neapolitan Chia Pudding",
+  "url": "https://www.ruled.me/keto-neapolitan-chia-pudding/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Keto Neapolitan Chia Pudding. Each serving comes out to be 255 calories, 18.5g fats, 5g net carbs, and 6.8g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT25M",
+  "cookTime": "PT0M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "fatContent": "18.5 g",
+    "proteinContent": "6.8 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 255,
+    "netCarbsGrams": 5,
+    "proteinGrams": 6.8,
+    "fatGrams": 18.5
+  },
+  "ingredients": [
+    "1/2 cup chia seeds",
+    "1 1/2 cup unsweetened almond milk",
+    "2 tablespoon stevia/erythritol blend",
+    "1 teaspoon vanilla extract",
+    "6 medium strawberries",
+    "2 teaspoon unsweetened dark cocoa powder",
+    "1/4 cup heavy cream (whipped)"
+  ],
+  "instructions": [
+    {
+      "text": "In a bowl, mix the chia seeds, almond milk, sweetener, and vanilla extract. Chill in the fridge for 10-15 minutes or until firm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-02.jpg"
+    },
+    {
+      "text": "Evenly divide the chia seed mixture into three bowls.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-03.jpg"
+    },
+    {
+      "text": "In one bowl, add in the cocoa powder then mix. Taste and adjust the sweetness if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-04.jpg"
+    },
+    {
+      "text": "Dice most of the strawberries, reserving some strawberry for laying inside the cup. Microwave the strawberries for about 30 seconds to soften, then mash with a fork. Mix into another one of the chia seed bowls.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-05.jpg"
+    },
+    {
+      "text": "You should now have vanilla, chocolate, and strawberry layers. Use small glasses then layer a bit of each color inside. I like to do chocolate, strawberry, then vanilla. Use some reserved strawberries, slice, then lay along the sides of the glass for the middle layer. Top with whipped cream and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/2f5f2d0a8168ed012f51176f.jpg",
+      "archived": true,
+      "originalPath": "images/2f5f2d0a8168ed012f51176f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-featured.jpg",
+      "path": "images/eb3550e30219e5b15cf523dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-02.jpg",
+      "path": "../../nenaudojama/dessert/images/febc089094f53eb68df1ec23.avif",
+      "archived": true,
+      "originalPath": "images/febc089094f53eb68df1ec23.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-03.jpg",
+      "path": "../../nenaudojama/dessert/images/464a525857d9136f2302c7ac.avif",
+      "archived": true,
+      "originalPath": "images/464a525857d9136f2302c7ac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-04.jpg",
+      "path": "../../nenaudojama/dessert/images/c70d1b0d366a2bc9a697e0d4.jpg",
+      "archived": true,
+      "originalPath": "images/c70d1b0d366a2bc9a697e0d4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-05.jpg",
+      "path": "../../nenaudojama/dessert/images/a68cf6ff2c3312c99502aae3.jpg",
+      "archived": true,
+      "originalPath": "images/a68cf6ff2c3312c99502aae3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-second.jpg",
+      "path": "../../nenaudojama/dessert/images/3ea5b395f1c5ede75a74b436.avif",
+      "archived": true,
+      "originalPath": "images/3ea5b395f1c5ede75a74b436.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/b87720dd7651ddee4ee25a9e.avif",
+      "archived": true,
+      "originalPath": "images/b87720dd7651ddee4ee25a9e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6fe96c98c0fee6fb79f4501b.avif",
+      "archived": true,
+      "originalPath": "images/6fe96c98c0fee6fb79f4501b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/16bb6d6bc7768eb83a85ed40.avif",
+      "archived": true,
+      "originalPath": "images/16bb6d6bc7768eb83a85ed40.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/0c6603f294bd7050d605b523.jpg",
+      "archived": true,
+      "originalPath": "images/0c6603f294bd7050d605b523.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4542eaedf684145215b32d9e.avif",
+      "archived": true,
+      "originalPath": "images/4542eaedf684145215b32d9e.avif"
+    }
+  ],
+  "featuredImage": "images/eb3550e30219e5b15cf523dc.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Neapolitan Chia Pudding",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Keto Neapolitan Chia Pudding. Each serving comes out to be 255 calories, 18.5g fats, 5g net carbs, and 6.8g protein.",
+    "datePublished": "2019-06-20T08:00:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT25M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "1/2 cup chia seeds",
+      "1 1/2 cup unsweetened almond milk",
+      "2 tablespoon stevia/erythritol blend",
+      "1 teaspoon vanilla extract",
+      "6 medium strawberries",
+      "2 teaspoon unsweetened dark cocoa powder",
+      "1/4 cup heavy cream (whipped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the chia seeds, almond milk, sweetener, and vanilla extract. Chill in the fridge for 10-15 minutes or until firm.",
+        "name": "In a bowl, mix the chia seeds, almond milk, sweetener, and vanilla extract. Chill in the fridge for 10-15 minutes or until firm.",
+        "url": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Evenly divide the chia seed mixture into three bowls.",
+        "name": "Evenly divide the chia seed mixture into three bowls.",
+        "url": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In one bowl, add in the cocoa powder then mix. Taste and adjust the sweetness if desired.",
+        "name": "In one bowl, add in the cocoa powder then mix. Taste and adjust the sweetness if desired.",
+        "url": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice most of the strawberries, reserving some strawberry for laying inside the cup. Microwave the strawberries for about 30 seconds to soften, then mash with a fork. Mix into another one of the chia seed bowls.",
+        "name": "Dice most of the strawberries, reserving some strawberry for laying inside the cup. Microwave the strawberries for about 30 seconds to soften, then mash with a fork. Mix into another one of the chia seed bowls.",
+        "url": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "You should now have vanilla, chocolate, and strawberry layers. Use small glasses then layer a bit of each color inside. I like to do chocolate, strawberry, then vanilla. Use some reserved strawberries, slice, then lay along the sides of the glass for the middle layer. Top with whipped cream and serve.",
+        "name": "You should now have vanilla, chocolate, and strawberry layers. Use small glasses then layer a bit of each color inside. I like to do chocolate, strawberry, then vanilla. Use some reserved strawberries, slice, then lay along the sides of the glass for the middle layer. Top with whipped cream and serve.",
+        "url": "https://www.ruled.me/keto-neapolitan-chia-pudding/#wprm-recipe-53052-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "keywords": "30-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, make-ahead, quick, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "255 kcal",
+      "fatContent": "18.5 g",
+      "proteinContent": "6.8 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-neapolitan-chia-pudding/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-neapolitan-chia-pudding/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-neapolitan-chia-pudding/"
+  },
+  "sourceIndex": {
+    "id": 40366,
+    "rid": 53052,
+    "t": "Keto Neapolitan Chia Pudding",
+    "u": "/keto-neapolitan-chia-pudding/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/05/neopolitan-chia-chai-pudding-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 5,
+    "cal": 255,
+    "pr": 6.8,
+    "fa": 18.5,
+    "tm": 25,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2019-06-20",
+    "cm": 0,
+    "ex": "This recipe provides a fun spin on chia pudding. Instead of it just being one flavor, we’re layering several to create a Neapolitan style dessert. First, we create the base chia seed pudding recipe",
+    "pv": 78
+  },
+  "sourceHtml": "pages/keto-neapolitan-chia-pudding.html",
+  "scrapedAt": "2026-11-07T08:30:47.127Z"
+}

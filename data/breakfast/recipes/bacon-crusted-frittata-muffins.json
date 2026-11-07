@@ -1,0 +1,282 @@
+{
+  "id": "ruled-4203",
+  "slug": "bacon-crusted-frittata-muffins",
+  "title": "Bacon-Crusted Frittata Muffins",
+  "url": "https://www.ruled.me/bacon-crusted-frittata-muffins/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 7 servings of Bacon-Crusted Frittata Muffins. Each serving comes out to be 484 calories, 43.1g fats, 2.3g net carbs, and 20.4g protein.",
+  "servings": 7,
+  "yield": [
+    "7",
+    "7 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "484 kcal",
+    "fatContent": "43.1 g",
+    "proteinContent": "20.4 g",
+    "carbohydrateContent": "2.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 484,
+    "netCarbsGrams": 2.3,
+    "proteinGrams": 20.4,
+    "fatGrams": 43.1
+  },
+  "ingredients": [
+    "18 ounce bacon",
+    "7 large egg",
+    "4 tablespoon heavy whipping cream",
+    "1/2 teaspoon black pepper",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon celery salt",
+    "1/2 teaspoon cayenne pepper",
+    "1 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 375F. Cut the bacon slices in half and shape them around the outsides and bottom of each cupcake mold, making sure not to leave any gaps.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/step1frittatamuffin.jpg"
+    },
+    {
+      "text": "Bake for 15 minutes to precook the bacon baskets. Meanwhile, whisk together the eggs, heavy cream, and seasonings. Feel free to add any extra fresh herbs you'd like here!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/step2frittatamuffins.jpg"
+    },
+    {
+      "text": "Place some shredded cheddar cheese at the bottom of each bacon basket. Pour the egg mixture into the cups, trying your best not to let any egg leak out. Bake for an additional 12–15 minutes or until beginning to brown on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/step3frittatamuffin.jpg"
+    },
+    {
+      "text": "Remove from the oven and let cool. Store them for later, or serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "eggs",
+    "family-friendly",
+    "freezer-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "oven-baked",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "meal-prep",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/10/Frittata-Muffins-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/3553c95e9837b4cf16612e4e.jpg",
+      "archived": true,
+      "originalPath": "images/3553c95e9837b4cf16612e4e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/10/Frittata-Muffins-Featured.jpg",
+      "path": "images/1ec104783803e444fdd50280.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/step1frittatamuffin.jpg",
+      "path": "../../nenaudojama/breakfast/images/feb78e3aa491652c2ac3c38a.jpg",
+      "archived": true,
+      "originalPath": "images/feb78e3aa491652c2ac3c38a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/step2frittatamuffins.jpg",
+      "path": "../../nenaudojama/breakfast/images/766dcc16aa774c5b5c648f96.avif",
+      "archived": true,
+      "originalPath": "images/766dcc16aa774c5b5c648f96.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/step3frittatamuffin.jpg",
+      "path": "../../nenaudojama/breakfast/images/048ba6f7024ce2c7a1073440.jpg",
+      "archived": true,
+      "originalPath": "images/048ba6f7024ce2c7a1073440.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Frittata-Muffins-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/63b801397f9745853dee7181.avif",
+      "archived": true,
+      "originalPath": "images/63b801397f9745853dee7181.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Frittata-Muffins-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/43ea37eed959dde1206aa20d.jpg",
+      "archived": true,
+      "originalPath": "images/43ea37eed959dde1206aa20d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/step1frittatamuffin-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/c18ae9029a7479b4834e3c6f.avif",
+      "archived": true,
+      "originalPath": "images/c18ae9029a7479b4834e3c6f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/step2frittatamuffins-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/d5c3b6c4c323c344df576df3.jpg",
+      "archived": true,
+      "originalPath": "images/d5c3b6c4c323c344df576df3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/step3frittatamuffin-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ccd19c1fec7e4e15ddba028b.avif",
+      "archived": true,
+      "originalPath": "images/ccd19c1fec7e4e15ddba028b.avif"
+    }
+  ],
+  "featuredImage": "images/1ec104783803e444fdd50280.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Bacon-Crusted Frittata Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 7 servings of Bacon-Crusted Frittata Muffins. Each serving comes out to be 484 calories, 43.1g fats, 2.3g net carbs, and 20.4g protein.",
+    "datePublished": "2013-12-13T18:28:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/10/Frittata-Muffins-Featured.jpg"
+    ],
+    "recipeYield": [
+      "7",
+      "7 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "18 ounce bacon",
+      "7 large egg",
+      "4 tablespoon heavy whipping cream",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon celery salt",
+      "1/2 teaspoon cayenne pepper",
+      "1 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375F. Cut the bacon slices in half and shape them around the outsides and bottom of each cupcake mold, making sure not to leave any gaps.",
+        "name": "Preheat oven to 375F. Cut the bacon slices in half and shape them around the outsides and bottom of each cupcake mold, making sure not to leave any gaps.",
+        "url": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/step1frittatamuffin.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 15 minutes to precook the bacon baskets. Meanwhile, whisk together the eggs, heavy cream, and seasonings. Feel free to add any extra fresh herbs you'd like here!",
+        "name": "Bake for 15 minutes to precook the bacon baskets. Meanwhile, whisk together the eggs, heavy cream, and seasonings. Feel free to add any extra fresh herbs you'd like here!",
+        "url": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/step2frittatamuffins.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place some shredded cheddar cheese at the bottom of each bacon basket. Pour the egg mixture into the cups, trying your best not to let any egg leak out. Bake for an additional 12–15 minutes or until beginning to brown on top.",
+        "name": "Place some shredded cheddar cheese at the bottom of each bacon basket. Pour the egg mixture into the cups, trying your best not to let any egg leak out. Bake for an additional 12–15 minutes or until beginning to brown on top.",
+        "url": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/step3frittatamuffin.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and let cool. Store them for later, or serve and enjoy!",
+        "name": "Remove from the oven and let cool. Store them for later, or serve and enjoy!",
+        "url": "https://www.ruled.me/bacon-crusted-frittata-muffins/#wprm-recipe-50573-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Frittata"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "batch-cooking, eggs, family-friendly, freezer-friendly, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, nut-free, oven-baked, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "484 kcal",
+      "fatContent": "43.1 g",
+      "proteinContent": "20.4 g",
+      "carbohydrateContent": "2.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/bacon-crusted-frittata-muffins/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/bacon-crusted-frittata-muffins/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/bacon-crusted-frittata-muffins/"
+  },
+  "sourceIndex": {
+    "id": 4203,
+    "rid": 50573,
+    "t": "Bacon Crusted Frittata Muffins",
+    "u": "/bacon-crusted-frittata-muffins/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/10/Frittata-Muffins-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.3,
+    "cal": 484,
+    "pr": 20.4,
+    "fa": 43.1,
+    "tm": 40,
+    "sv": 7,
+    "kw": [
+      "batch-cooking",
+      "eggs",
+      "family-friendly",
+      "freezer-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "oven-baked",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "meal-prep",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2013-12-13",
+    "cm": 13,
+    "ex": "These are one of my favorite things to cook; they're easy, pretty fast, and they save extremely well. Cook them in bulk and then you have breakfast for the entire week! When I cooked these, I tried 2",
+    "pv": 434
+  },
+  "sourceHtml": "pages/bacon-crusted-frittata-muffins.html",
+  "scrapedAt": "2026-11-07T08:11:13.298Z"
+}

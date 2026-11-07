@@ -1,0 +1,355 @@
+{
+  "id": "ruled-29324",
+  "slug": "keto-vanilla-bean-cupcakes",
+  "title": "Keto Vanilla Cupcakes",
+  "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Vanilla Cupcakes. Each serving comes out to be 330 calories, 30.6g fats, 3.7g net carbs, and 7.9g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "fatContent": "30.6 g",
+    "proteinContent": "7.9 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 330,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 7.9,
+    "fatGrams": 30.6
+  },
+  "ingredients": [
+    "2 large egg",
+    "1/2 cup mayonnaise",
+    "1 tablespoon vanilla extract",
+    "1 3/4 cup almond flour",
+    "1/2 cup erythritol",
+    "1/4 teaspoon salt",
+    "2 teaspoon baking powder",
+    "4 ounce cream cheese (softened)",
+    "1/4 cup erythritol (powdered)",
+    "3 tablespoon heavy whipping cream",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 350F. Combine the eggs, mayonnaise, and vanilla extract in a medium-sized bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Step-1-1.jpg"
+    },
+    {
+      "text": "The batter should be really smooth, so use a hand mixer if needed. Set the bowl aside once done mixing.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Step-3-1.jpg"
+    },
+    {
+      "text": "In a separate bowl, combine the almond flour, erythritol, salt, and baking powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Step-4-1.jpg"
+    },
+    {
+      "text": "Slowly add the batter to the dry ingredients, whisking until smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Step-5-1.jpg"
+    },
+    {
+      "text": "The mixture might seem a little dry, but this is normal.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Step-6-1.jpg"
+    },
+    {
+      "text": "Spoon out the desired number of servings into a greased cupcake tray.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Step-7-1.jpg"
+    },
+    {
+      "text": "Bake for 20–25 minutes or until lightly browned on top. Mix together the frosting ingredients while baking and frost the cupcakes after they have cooled. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-620x900.jpg"
+    }
+  ],
+  "keywords": [
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "oven-baked"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-900x600-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/b8e5d6c45f3d174a1334a1e6.jpg",
+      "archived": true,
+      "originalPath": "images/b8e5d6c45f3d174a1334a1e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-900x600.jpg",
+      "path": "images/feb18d2d3d9ec35fe106836e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-1-1.jpg",
+      "path": "../../nenaudojama/dessert/images/fa41013a7d59c960bea5b306.avif",
+      "archived": true,
+      "originalPath": "images/fa41013a7d59c960bea5b306.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-3-1.jpg",
+      "path": "../../nenaudojama/dessert/images/0c7501b5393b3d331678c408.avif",
+      "archived": true,
+      "originalPath": "images/0c7501b5393b3d331678c408.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-4-1.jpg",
+      "path": "../../nenaudojama/dessert/images/2049557b6f4ff6c86ae598e8.jpg",
+      "archived": true,
+      "originalPath": "images/2049557b6f4ff6c86ae598e8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-5-1.jpg",
+      "path": "../../nenaudojama/dessert/images/033801360853f942e89f27bb.jpg",
+      "archived": true,
+      "originalPath": "images/033801360853f942e89f27bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-6-1.jpg",
+      "path": "../../nenaudojama/dessert/images/cfcb5b1303e9816c8d1baa05.jpg",
+      "archived": true,
+      "originalPath": "images/cfcb5b1303e9816c8d1baa05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-7-1.jpg",
+      "path": "../../nenaudojama/dessert/images/228c32530d8ea1dd9806aba9.jpg",
+      "archived": true,
+      "originalPath": "images/228c32530d8ea1dd9806aba9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-620x900.jpg",
+      "path": "../../nenaudojama/dessert/images/8126aabada6bf0eeda58777d.jpg",
+      "archived": true,
+      "originalPath": "images/8126aabada6bf0eeda58777d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-900x450.jpg",
+      "path": "../../nenaudojama/dessert/images/e27e6fc66ede2781aa3206c0.jpg",
+      "archived": true,
+      "originalPath": "images/e27e6fc66ede2781aa3206c0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-2-1.jpg",
+      "path": "../../nenaudojama/dessert/images/8b29ad8080f1a63b222b85b5.jpg",
+      "archived": true,
+      "originalPath": "images/8b29ad8080f1a63b222b85b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-1-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ea292752cc5b5acf441da865.avif",
+      "archived": true,
+      "originalPath": "images/ea292752cc5b5acf441da865.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-3-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/51a3655e77cdeec046da79f0.jpg",
+      "archived": true,
+      "originalPath": "images/51a3655e77cdeec046da79f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-4-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1684849c5212b0a6020fdd40.jpg",
+      "archived": true,
+      "originalPath": "images/1684849c5212b0a6020fdd40.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-5-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3cdf1da86d85395745aec57b.jpg",
+      "archived": true,
+      "originalPath": "images/3cdf1da86d85395745aec57b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-6-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/c2c9eb61d776d7faed1c6190.jpg",
+      "archived": true,
+      "originalPath": "images/c2c9eb61d776d7faed1c6190.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Step-7-1-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/360513bf2b6a2ea880336cf3.jpg",
+      "archived": true,
+      "originalPath": "images/360513bf2b6a2ea880336cf3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-620x900-241x350.jpg",
+      "path": "../../nenaudojama/dessert/images/431eab98fbb43dee0c9e5a6d.jpg",
+      "archived": true,
+      "originalPath": "images/431eab98fbb43dee0c9e5a6d.jpg"
+    }
+  ],
+  "featuredImage": "images/feb18d2d3d9ec35fe106836e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Vanilla Cupcakes",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 8 servings of Keto Vanilla Cupcakes. Each serving comes out to be 330 calories, 30.6g fats, 3.7g net carbs, and 7.9g protein.",
+    "datePublished": "2017-02-09T12:00:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-900x600.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "2 large egg",
+      "1/2 cup mayonnaise",
+      "1 tablespoon vanilla extract",
+      "1 3/4 cup almond flour",
+      "1/2 cup erythritol",
+      "1/4 teaspoon salt",
+      "2 teaspoon baking powder",
+      "4 ounce cream cheese (softened)",
+      "1/4 cup erythritol (powdered)",
+      "3 tablespoon heavy whipping cream",
+      "1/2 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F. Combine the eggs, mayonnaise, and vanilla extract in a medium-sized bowl.",
+        "name": "Preheat oven to 350F. Combine the eggs, mayonnaise, and vanilla extract in a medium-sized bowl.",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Step-1-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The batter should be really smooth, so use a hand mixer if needed. Set the bowl aside once done mixing.",
+        "name": "The batter should be really smooth, so use a hand mixer if needed. Set the bowl aside once done mixing.",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Step-3-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, combine the almond flour, erythritol, salt, and baking powder.",
+        "name": "In a separate bowl, combine the almond flour, erythritol, salt, and baking powder.",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Step-4-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add the batter to the dry ingredients, whisking until smooth.",
+        "name": "Slowly add the batter to the dry ingredients, whisking until smooth.",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Step-5-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The mixture might seem a little dry, but this is normal.",
+        "name": "The mixture might seem a little dry, but this is normal.",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Step-6-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon out the desired number of servings into a greased cupcake tray.",
+        "name": "Spoon out the desired number of servings into a greased cupcake tray.",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Step-7-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20–25 minutes or until lightly browned on top. Mix together the frosting ingredients while baking and frost the cupcakes after they have cooled. Enjoy!",
+        "name": "Bake for 20–25 minutes or until lightly browned on top. Mix together the frosting ingredients while baking and frost the cupcakes after they have cooled. Enjoy!",
+        "url": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#wprm-recipe-52075-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-620x900.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "family-friendly, gluten-free, high-fat, keto, low-carb, oven-baked, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "330 kcal",
+      "fatContent": "30.6 g",
+      "proteinContent": "7.9 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-vanilla-bean-cupcakes/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-vanilla-bean-cupcakes/"
+  },
+  "sourceIndex": {
+    "id": 29324,
+    "rid": 52075,
+    "t": "Keto Vanilla Bean Cupcakes",
+    "u": "/keto-vanilla-bean-cupcakes/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/01/Vanilla-Bean-Cupcakes-900x600-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 3.7,
+    "cal": 330,
+    "pr": 7.9,
+    "fa": 30.6,
+    "tm": 35,
+    "sv": 8,
+    "kw": [
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "oven-baked"
+    ],
+    "d": "2017-02-09",
+    "cm": 20,
+    "ex": "My keto vanilla bean cupcakes are sweet and full of flavor. Each cupcake is rich enough in vanilla that anyone would be able to taste it. This is a recipe you really have to try for yourself. I",
+    "pv": 177
+  },
+  "sourceHtml": "pages/keto-vanilla-bean-cupcakes.html",
+  "scrapedAt": "2026-11-07T08:30:47.324Z"
+}

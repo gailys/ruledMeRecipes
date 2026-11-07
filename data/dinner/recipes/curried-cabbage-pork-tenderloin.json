@@ -1,0 +1,383 @@
+{
+  "id": "ruled-49304",
+  "slug": "curried-cabbage-pork-tenderloin",
+  "title": "Curried Cabbage & Pork Tenderloin",
+  "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Curried Cabbage & Pork Tenderloin. Each serving comes out to be 454 calories, 35.9g fats, 5.5g net carbs, and 26.7g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "fatContent": "35.9 g",
+    "proteinContent": "26.7 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 454,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 26.7,
+    "fatGrams": 35.9
+  },
+  "ingredients": [
+    "250 gram green cabbage (sliced thin)",
+    "4 tablespoon butter",
+    "1 teaspoon onion powder",
+    "12 ounce pork tenderloin",
+    "1 1/2 tablespoon curry powder",
+    "1 cup canned coconut milk",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients. If shredding the cabbage, make sure to cut the cabbage thin enough. Peel silverskin off of pork tenderloin if it is on there.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-1.jpg"
+    },
+    {
+      "text": "Add half of the butter and cabbage to a pan over medium heat. Season with salt and pepper to taste. Saute cabbage, stirring occasionally, until soft and slightly golden. Set aside and keep warm.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-2.jpg"
+    },
+    {
+      "text": "Slice the tenderloin into 1/2 to 3/4 inch thick pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-3.jpg"
+    },
+    {
+      "text": "Season the pork slices with onion powder and salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-4.jpg"
+    },
+    {
+      "text": "Add the remaining half of the butter to a pan over medium heat. Once hot, add in the pork slices and brown on both sides, about 2 minutes on each side. Remove from pan and set aside, leaving any juices in the pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-5.jpg"
+    },
+    {
+      "text": "Add the coconut milk and curry powder to the pan over medium-low heat and stir together well, until there are no lumps of spice remaining.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-6.jpg"
+    },
+    {
+      "text": "Once sauce has thickened slightly, add pork back over low heat and stir to coat. If pork is not cooked all the way through, cover and allow to finish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-7.jpg"
+    },
+    {
+      "text": "Serve the pork and curry sauce with fried cabbage. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/33b7556bb4e35b7322215d2d.jpg",
+      "archived": true,
+      "originalPath": "images/33b7556bb4e35b7322215d2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Featured.jpg",
+      "path": "images/388028418a68b062a7c7f1b0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-1.jpg",
+      "path": "../../nenaudojama/dinner/images/fad84c75a8da7688fb6316ec.avif",
+      "archived": true,
+      "originalPath": "images/fad84c75a8da7688fb6316ec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-2.jpg",
+      "path": "../../nenaudojama/dinner/images/7bbed1633e96b8b6f7df38e3.avif",
+      "archived": true,
+      "originalPath": "images/7bbed1633e96b8b6f7df38e3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-3.jpg",
+      "path": "../../nenaudojama/dinner/images/a114f8a08d6de3ebaff53468.avif",
+      "archived": true,
+      "originalPath": "images/a114f8a08d6de3ebaff53468.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-4.jpg",
+      "path": "../../nenaudojama/dinner/images/300c6ed1747f84593a66296d.avif",
+      "archived": true,
+      "originalPath": "images/300c6ed1747f84593a66296d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-5.jpg",
+      "path": "../../nenaudojama/dinner/images/8dda592cdaf768cb7452764d.jpg",
+      "archived": true,
+      "originalPath": "images/8dda592cdaf768cb7452764d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-6.jpg",
+      "path": "../../nenaudojama/dinner/images/6f6351661e0ed1cf5a8e8a6e.avif",
+      "archived": true,
+      "originalPath": "images/6f6351661e0ed1cf5a8e8a6e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-7.jpg",
+      "path": "../../nenaudojama/dinner/images/f3970dd00616b98132c66597.avif",
+      "archived": true,
+      "originalPath": "images/f3970dd00616b98132c66597.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/91838de683ab248c469fd14f.avif",
+      "archived": true,
+      "originalPath": "images/91838de683ab248c469fd14f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/52c8be7099d3af42abb5882b.avif",
+      "archived": true,
+      "originalPath": "images/52c8be7099d3af42abb5882b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/13506994aec60fd180ee0d1a.avif",
+      "archived": true,
+      "originalPath": "images/13506994aec60fd180ee0d1a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0b73ae345fa25d943cb38e77.avif",
+      "archived": true,
+      "originalPath": "images/0b73ae345fa25d943cb38e77.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ea8d0a3cf162a5adf13d2a8b.avif",
+      "archived": true,
+      "originalPath": "images/ea8d0a3cf162a5adf13d2a8b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/26771f2386a487104995ba51.avif",
+      "archived": true,
+      "originalPath": "images/26771f2386a487104995ba51.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b5f30e91af63e1ff4c0d0f62.avif",
+      "archived": true,
+      "originalPath": "images/b5f30e91af63e1ff4c0d0f62.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/aff772c7aaf8e0e5dc493603.avif",
+      "archived": true,
+      "originalPath": "images/aff772c7aaf8e0e5dc493603.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/246e44e0ebd56d22ab8746a5.jpg",
+      "archived": true,
+      "originalPath": "images/246e44e0ebd56d22ab8746a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-7-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1cd63275273612c958c04749.jpg",
+      "archived": true,
+      "originalPath": "images/1cd63275273612c958c04749.jpg"
+    }
+  ],
+  "featuredImage": "images/388028418a68b062a7c7f1b0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Curried Cabbage &amp; Pork Tenderloin",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 3 servings of Curried Cabbage &amp; Pork Tenderloin. Each serving comes out to be 454 calories, 35.9g fats, 5.5g net carbs, and 26.7g protein.",
+    "datePublished": "2023-08-29T09:42:28+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Featured.jpg"
+    ],
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "250 gram green cabbage (sliced thin)",
+      "4 tablespoon butter",
+      "1 teaspoon onion powder",
+      "12 ounce pork tenderloin",
+      "1 1/2 tablespoon curry powder",
+      "1 cup canned coconut milk",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients. If shredding the cabbage, make sure to cut the cabbage thin enough. Peel silverskin off of pork tenderloin if it is on there.",
+        "name": "Gather and prep all ingredients. If shredding the cabbage, make sure to cut the cabbage thin enough. Peel silverskin off of pork tenderloin if it is on there.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add half of the butter and cabbage to a pan over medium heat. Season with salt and pepper to taste. Saute cabbage, stirring occasionally, until soft and slightly golden. Set aside and keep warm.",
+        "name": "Add half of the butter and cabbage to a pan over medium heat. Season with salt and pepper to taste. Saute cabbage, stirring occasionally, until soft and slightly golden. Set aside and keep warm.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the tenderloin into 1/2 to 3/4 inch thick pieces.",
+        "name": "Slice the tenderloin into 1/2 to 3/4 inch thick pieces.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the pork slices with onion powder and salt and pepper to taste.",
+        "name": "Season the pork slices with onion powder and salt and pepper to taste.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the remaining half of the butter to a pan over medium heat. Once hot, add in the pork slices and brown on both sides, about 2 minutes on each side. Remove from pan and set aside, leaving any juices in the pan.",
+        "name": "Add the remaining half of the butter to a pan over medium heat. Once hot, add in the pork slices and brown on both sides, about 2 minutes on each side. Remove from pan and set aside, leaving any juices in the pan.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the coconut milk and curry powder to the pan over medium-low heat and stir together well, until there are no lumps of spice remaining.",
+        "name": "Add the coconut milk and curry powder to the pan over medium-low heat and stir together well, until there are no lumps of spice remaining.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once sauce has thickened slightly, add pork back over low heat and stir to coat. If pork is not cooked all the way through, cover and allow to finish.",
+        "name": "Once sauce has thickened slightly, add pork back over low heat and stir to coat. If pork is not cooked all the way through, cover and allow to finish.",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the pork and curry sauce with fried cabbage. Enjoy!",
+        "name": "Serve the pork and curry sauce with fried cabbage. Enjoy!",
+        "url": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#wprm-recipe-54717-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Indian"
+    ],
+    "keywords": "30-minute, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, pork, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "454 kcal",
+      "fatContent": "35.9 g",
+      "proteinContent": "26.7 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/curried-cabbage-pork-tenderloin/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/curried-cabbage-pork-tenderloin/"
+  },
+  "sourceIndex": {
+    "id": 49304,
+    "rid": 54717,
+    "t": "Curried Cabbage & Pork Tenderloin",
+    "u": "/curried-cabbage-pork-tenderloin/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/08/Curried-Cabbage-and-Pork-Tenderloin-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.5,
+    "cal": 454,
+    "pr": 26.7,
+    "fa": 35.9,
+    "tm": 30,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2023-08-29",
+    "cm": 0,
+    "ex": "Elevate your pork tenderloin to new heights with the tantalizing flavors of this curried cabbage and pork tenderloin recipe. This delicious dish will exceed your expectations in every way, from its",
+    "pv": 216
+  },
+  "sourceHtml": "pages/curried-cabbage-pork-tenderloin.html",
+  "scrapedAt": "2026-11-07T08:27:43.635Z"
+}

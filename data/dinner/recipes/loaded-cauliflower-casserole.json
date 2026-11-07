@@ -1,0 +1,307 @@
+{
+  "id": "ruled-39051",
+  "slug": "loaded-cauliflower-casserole",
+  "title": "Loaded Cauliflower Casserole",
+  "url": "https://www.ruled.me/loaded-cauliflower-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Loaded Cauliflower Casserole. Each serving comes out to be 501 calories, 41.8g fats, 5g net carbs, and 27g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT60M",
+  "totalTime": "PT75M",
+  "totalMinutes": 75,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "501 kcal",
+    "fatContent": "41.8 g",
+    "proteinContent": "27 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 501,
+    "netCarbsGrams": 5,
+    "proteinGrams": 27,
+    "fatGrams": 41.8
+  },
+  "ingredients": [
+    "1 small cauliflower",
+    "1 cup cream cheese",
+    "1 cup cheddar cheese (shredded)",
+    "4 slice cooked bacon (chopped)",
+    "1/4 cup mushrooms (chopped)",
+    "1 medium jalapeno pepper (chopped)",
+    "10 ounce boneless, skinless chicken thighs"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat oven to 350 degrees. Chop cauliflower into florets and place it in a casserole dish.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-01.jpg"
+    },
+    {
+      "text": "In a separate dish, mix cream cheese together with shredded cheddar cheese and chopped jalapeno, mushrooms, and bacon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-05.jpg"
+    },
+    {
+      "text": "Spoon the cheese mixture onto the cauliflower and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-06.jpg"
+    },
+    {
+      "text": "Coat baking pan with a layer of non-stick spray. Layer the cauliflower mixture and chicken thighs into the baking pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-08.jpg"
+    },
+    {
+      "text": "Bake for 1 hour or until the cheese has melted, the chicken is cooked, and the top of the casserole is nicely browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "meal-prep",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/346674f1a957a80cf8d9f1ab.avif",
+      "archived": true,
+      "originalPath": "images/346674f1a957a80cf8d9f1ab.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-featured.jpg",
+      "path": "images/4b6adefb2e3097d5812616a6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-01.jpg",
+      "path": "../../nenaudojama/dinner/images/cfe3d3556f0fcb2596c8114a.avif",
+      "archived": true,
+      "originalPath": "images/cfe3d3556f0fcb2596c8114a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-05.jpg",
+      "path": "../../nenaudojama/dinner/images/151250de27905f6bdb8c9e2e.avif",
+      "archived": true,
+      "originalPath": "images/151250de27905f6bdb8c9e2e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-06.jpg",
+      "path": "../../nenaudojama/dinner/images/0acb25846119eac5ea095e3a.avif",
+      "archived": true,
+      "originalPath": "images/0acb25846119eac5ea095e3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-08.jpg",
+      "path": "../../nenaudojama/dinner/images/9f621af7012a278b6907fc9e.jpg",
+      "archived": true,
+      "originalPath": "images/9f621af7012a278b6907fc9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-second.jpg",
+      "path": "../../nenaudojama/dinner/images/66ccfcf30e4ab5cd34fd990a.avif",
+      "archived": true,
+      "originalPath": "images/66ccfcf30e4ab5cd34fd990a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/61870fb718719ad379d55318.jpg",
+      "archived": true,
+      "originalPath": "images/61870fb718719ad379d55318.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/acc96779ba5b011caea51532.avif",
+      "archived": true,
+      "originalPath": "images/acc96779ba5b011caea51532.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ab1ed1dc98f74ac3fd3b9dea.jpg",
+      "archived": true,
+      "originalPath": "images/ab1ed1dc98f74ac3fd3b9dea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9590ac8c81b088c0f8b01d95.avif",
+      "archived": true,
+      "originalPath": "images/9590ac8c81b088c0f8b01d95.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/18a65594309d86b9c0f7522d.avif",
+      "archived": true,
+      "originalPath": "images/18a65594309d86b9c0f7522d.avif"
+    }
+  ],
+  "featuredImage": "images/4b6adefb2e3097d5812616a6.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Loaded Cauliflower Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Loaded Cauliflower Casserole. Each serving comes out to be 501 calories, 41.8g fats, 5g net carbs, and 27g protein.",
+    "datePublished": "2019-02-12T10:34:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT60M",
+    "totalTime": "PT75M",
+    "recipeIngredient": [
+      "1 small cauliflower",
+      "1 cup cream cheese",
+      "1 cup cheddar cheese (shredded)",
+      "4 slice cooked bacon (chopped)",
+      "1/4 cup mushrooms (chopped)",
+      "1 medium jalapeno pepper (chopped)",
+      "10 ounce boneless, skinless chicken thighs"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat oven to 350 degrees. Chop cauliflower into florets and place it in a casserole dish.",
+        "name": "Pre-heat oven to 350 degrees. Chop cauliflower into florets and place it in a casserole dish.",
+        "url": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate dish, mix cream cheese together with shredded cheddar cheese and chopped jalapeno, mushrooms, and bacon.",
+        "name": "In a separate dish, mix cream cheese together with shredded cheddar cheese and chopped jalapeno, mushrooms, and bacon.",
+        "url": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the cheese mixture onto the cauliflower and mix well.",
+        "name": "Spoon the cheese mixture onto the cauliflower and mix well.",
+        "url": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Coat baking pan with a layer of non-stick spray. Layer the cauliflower mixture and chicken thighs into the baking pan.",
+        "name": "Coat baking pan with a layer of non-stick spray. Layer the cauliflower mixture and chicken thighs into the baking pan.",
+        "url": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 1 hour or until the cheese has melted, the chicken is cooked,  and the top of the casserole is nicely browned.",
+        "name": "Bake for 1 hour or until the cheese has melted, the chicken is cooked,  and the top of the casserole is nicely browned.",
+        "url": "https://www.ruled.me/loaded-cauliflower-casserole/#wprm-recipe-52898-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, nut-free, oven-baked, poultry, simple &amp; easy, sugar-free, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "501 kcal",
+      "fatContent": "41.8 g",
+      "proteinContent": "27 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/loaded-cauliflower-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/loaded-cauliflower-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/loaded-cauliflower-casserole/"
+  },
+  "sourceIndex": {
+    "id": 39051,
+    "rid": 52898,
+    "t": "Loaded Cauliflower Casserole",
+    "u": "/loaded-cauliflower-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/loaded-cauliflower-casserole-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5,
+    "cal": 501,
+    "pr": 27,
+    "fa": 41.8,
+    "tm": 75,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "meal-prep",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2019-02-12",
+    "cm": 2,
+    "ex": "I went to make a casserole today, but couldn’t decide what kind! I had all these ingredients, but nothing specific in mind…jalapeno popper casserole? Mushroom casserole? Instead, I decided to combine",
+    "pv": 88
+  },
+  "sourceHtml": "pages/loaded-cauliflower-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.492Z"
+}

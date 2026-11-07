@@ -1,0 +1,321 @@
+{
+  "id": "ruled-43159",
+  "slug": "keto-whipped-cream",
+  "title": "Keto Whipped Cream",
+  "url": "https://www.ruled.me/keto-whipped-cream/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Whipped Cream. Each serving comes out to be 103 calories, 10.7g fats, 0.9g net carbs, and 0.8g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "103 kcal",
+    "fatContent": "10.7 g",
+    "proteinContent": "0.8 g",
+    "carbohydrateContent": "0.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 103,
+    "netCarbsGrams": 0.9,
+    "proteinGrams": 0.8,
+    "fatGrams": 10.7
+  },
+  "ingredients": [
+    "1 cup heavy cream (chilled well)",
+    "1 tablespoon erythritol (powdered)",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Powder the erythritol using a spice grinder or small blender. Set aside with the rest of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-1.jpg"
+    },
+    {
+      "text": "Pour cold heavy cream into a large, dry mixing bowl. If washed prior, make sure that all water is wiped from the mixing bowl as just a small amount of water can ruin whipped cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-2.jpg"
+    },
+    {
+      "text": "Start slowly mixing the cream together using a hand mixer. Increase the speed as the cream thickens to not splash the cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-3.jpg"
+    },
+    {
+      "text": "After about 60 seconds of whipping, add the powdered erythritol and vanilla extract.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-5.jpg"
+    },
+    {
+      "text": "Continue whipping until medium peaks form. The peaks should be noticeable on your beaters when lifted out of the cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-7.jpg"
+    },
+    {
+      "text": "Transfer the cream to a serving bowl to serve with the dish of your choice. You can save in an airtight container for 2-3 days in the fridge.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/4edcef64cdd68a1ed0b32d53.avif",
+      "archived": true,
+      "originalPath": "images/4edcef64cdd68a1ed0b32d53.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/f7bd3021949c8452468372ce.avif",
+      "archived": true,
+      "originalPath": "images/f7bd3021949c8452468372ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-1.jpg",
+      "path": "../../nenaudojama/side-items/images/937fc06355c9d87ca5a09667.avif",
+      "archived": true,
+      "originalPath": "images/937fc06355c9d87ca5a09667.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-2.jpg",
+      "path": "../../nenaudojama/side-items/images/cf25c7ee755d033eeada11e8.avif",
+      "archived": true,
+      "originalPath": "images/cf25c7ee755d033eeada11e8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-3.jpg",
+      "path": "../../nenaudojama/side-items/images/f5c774d04e5e4472beb37dbd.avif",
+      "archived": true,
+      "originalPath": "images/f5c774d04e5e4472beb37dbd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-5.jpg",
+      "path": "../../nenaudojama/side-items/images/90d4f18f909b13ab284aff78.avif",
+      "archived": true,
+      "originalPath": "images/90d4f18f909b13ab284aff78.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-7.jpg",
+      "path": "../../nenaudojama/side-items/images/e14dca03430a29c9e7649097.avif",
+      "archived": true,
+      "originalPath": "images/e14dca03430a29c9e7649097.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-second.jpg",
+      "path": "../../nenaudojama/side-items/images/ed029d784af0da00b4172279.avif",
+      "archived": true,
+      "originalPath": "images/ed029d784af0da00b4172279.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/85ff0fb20a60989f735864cb.jpg",
+      "archived": true,
+      "originalPath": "images/85ff0fb20a60989f735864cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-featured-300x300.jpg",
+      "path": "../../nenaudojama/side-items/images/528c1e7d895e9fb21bca2e64.avif",
+      "archived": true,
+      "originalPath": "images/528c1e7d895e9fb21bca2e64.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-1-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/40ec18c31bafe2821ace5a40.avif",
+      "archived": true,
+      "originalPath": "images/40ec18c31bafe2821ace5a40.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-2-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/916bab8c6759ecfb2916bf4f.avif",
+      "archived": true,
+      "originalPath": "images/916bab8c6759ecfb2916bf4f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-3-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/c3bcfad921e5015a99ba4496.avif",
+      "archived": true,
+      "originalPath": "images/c3bcfad921e5015a99ba4496.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-5-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/3d1f57f53f3441569fcb162c.avif",
+      "archived": true,
+      "originalPath": "images/3d1f57f53f3441569fcb162c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-7-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/41c4b01f0fed957605ec755d.avif",
+      "archived": true,
+      "originalPath": "images/41c4b01f0fed957605ec755d.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/f7bd3021949c8452468372ce.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Whipped Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Keto Whipped Cream. Each serving comes out to be 103 calories, 10.7g fats, 0.9g net carbs, and 0.8g protein.",
+    "datePublished": "2020-05-26T09:34:27+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 cup heavy cream (chilled well)",
+      "1 tablespoon erythritol (powdered)",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Powder the erythritol using a spice grinder or small blender. Set aside with the rest of the ingredients.",
+        "name": "Powder the erythritol using a spice grinder or small blender. Set aside with the rest of the ingredients.",
+        "url": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour cold heavy cream into a large, dry mixing bowl. If washed prior, make sure that all water is wiped from the mixing bowl as just a small amount of water can ruin whipped cream.",
+        "name": "Pour cold heavy cream into a large, dry mixing bowl. If washed prior, make sure that all water is wiped from the mixing bowl as just a small amount of water can ruin whipped cream.",
+        "url": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start slowly mixing the cream together using a hand mixer. Increase the speed as the cream thickens to not splash the cream.",
+        "name": "Start slowly mixing the cream together using a hand mixer. Increase the speed as the cream thickens to not splash the cream.",
+        "url": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After about 60 seconds of whipping, add the powdered erythritol and vanilla extract.",
+        "name": "After about 60 seconds of whipping, add the powdered erythritol and vanilla extract.",
+        "url": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue whipping until medium peaks form. The peaks should be noticeable on your beaters when lifted out of the cream.",
+        "name": "Continue whipping until medium peaks form. The peaks should be noticeable on your beaters when lifted out of the cream.",
+        "url": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-sugar-free-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the cream to a serving bowl to serve with the dish of your choice. You can save in an airtight container for 2-3 days in the fridge.",
+        "name": "Transfer the cream to a serving bowl to serve with the dish of your choice. You can save in an airtight container for 2-3 days in the fridge.",
+        "url": "https://www.ruled.me/keto-whipped-cream/#wprm-recipe-53373-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Side Items"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "103 kcal",
+      "fatContent": "10.7 g",
+      "proteinContent": "0.8 g",
+      "carbohydrateContent": "0.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-whipped-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-whipped-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-whipped-cream/"
+  },
+  "sourceIndex": {
+    "id": 43159,
+    "rid": 53373,
+    "t": "Keto Whipped Cream",
+    "u": "/keto-whipped-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/05/Keto-whipped-cream-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 0.9,
+    "cal": 103,
+    "pr": 0.8,
+    "fa": 10.7,
+    "tm": 5,
+    "sv": 8,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2020-05-26",
+    "cm": 0,
+    "ex": "Whipped cream is a surprisingly satisfying guilty pleasure, but it doesn’t have to come with the guilt. Unfortunately, most of the recipes and canned products contain enough added sugar to slow your",
+    "pv": 800
+  },
+  "sourceHtml": "pages/keto-whipped-cream.html",
+  "scrapedAt": "2026-11-07T08:32:10.923Z"
+}

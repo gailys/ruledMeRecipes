@@ -1,0 +1,355 @@
+{
+  "id": "ruled-44585",
+  "slug": "keto-baked-caesar-chicken",
+  "title": "Keto Baked Casesar Chicken",
+  "url": "https://www.ruled.me/keto-baked-caesar-chicken/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Baked Casesar Chicken . Each serving comes out to be 612 calories, 50g fats, 7.7g net carbs, and 34g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT125M",
+  "cookTime": "PT35M",
+  "totalTime": "PT160M",
+  "totalMinutes": 160,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "612 kcal",
+    "fatContent": "50 g",
+    "proteinContent": "34 g",
+    "carbohydrateContent": "7.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 612,
+    "netCarbsGrams": 7.7,
+    "proteinGrams": 34,
+    "fatGrams": 50
+  },
+  "ingredients": [
+    "12 ounce boneless, skinless chicken thighs",
+    "4 tablespoon caesar dressing",
+    "1 teaspoon lemon juice",
+    "1 teaspoon kosher salt",
+    "1/4 teaspoon garlic powder",
+    "1/4 teaspoon onion powder",
+    "12 ounce spring mix",
+    "4 tablespoon caesar dressing"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-1.jpg"
+    },
+    {
+      "text": "In a bowl, combine caesar dressing, lemon juice, salt, garlic, and onion powder. Stir until well combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-2.jpg"
+    },
+    {
+      "text": "Add the chicken into the bowl, smothering them and getting the marinade on every part of the chicken.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-3.jpg"
+    },
+    {
+      "text": "Cover with plastic wrap and put in refrigerator for at least 2 hours but up to 24 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-4.jpg"
+    },
+    {
+      "text": "Before cooking, pre-heat oven to 400F. Evenly space out the chicken on a baking sheet lined with aluminum foil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-5.jpg"
+    },
+    {
+      "text": "Bake chicken in the oven for 30-35 minutes or until chicken reaches an internal temperature of 165F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-6.jpg"
+    },
+    {
+      "text": "Plate the chicken with leafy greens and additional caesar dressing. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "make-ahead",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/618006181d0bcc77cac9f621.jpg",
+      "archived": true,
+      "originalPath": "images/618006181d0bcc77cac9f621.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Featured.jpg",
+      "path": "images/29684a52b921785c584cff4e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-1.jpg",
+      "path": "../../nenaudojama/dinner/images/47284cb7c0e7551023cdf7bc.jpg",
+      "archived": true,
+      "originalPath": "images/47284cb7c0e7551023cdf7bc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-2.jpg",
+      "path": "../../nenaudojama/dinner/images/5bda6b4c1482cc053a886841.jpg",
+      "archived": true,
+      "originalPath": "images/5bda6b4c1482cc053a886841.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-3.jpg",
+      "path": "../../nenaudojama/dinner/images/c4660f3f6af74976fe23275e.avif",
+      "archived": true,
+      "originalPath": "images/c4660f3f6af74976fe23275e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-4.jpg",
+      "path": "../../nenaudojama/dinner/images/ce68c28a9a0e0bafc4e628a5.avif",
+      "archived": true,
+      "originalPath": "images/ce68c28a9a0e0bafc4e628a5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-5.jpg",
+      "path": "../../nenaudojama/dinner/images/dc823e751d7043e5e8e33839.jpg",
+      "archived": true,
+      "originalPath": "images/dc823e751d7043e5e8e33839.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-6.jpg",
+      "path": "../../nenaudojama/dinner/images/b7b29ddf135217f8a9aaed7f.jpg",
+      "archived": true,
+      "originalPath": "images/b7b29ddf135217f8a9aaed7f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/7d29bf853977c2543da3d1f4.jpg",
+      "archived": true,
+      "originalPath": "images/7d29bf853977c2543da3d1f4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/f5625257084fa8a05c741e5b.jpg",
+      "archived": true,
+      "originalPath": "images/f5625257084fa8a05c741e5b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/0da583cbcd15a8896357cfa4.avif",
+      "archived": true,
+      "originalPath": "images/0da583cbcd15a8896357cfa4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/f715f6efb000a4679396ff60.avif",
+      "archived": true,
+      "originalPath": "images/f715f6efb000a4679396ff60.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/61f777d8f3d8e093ea520142.avif",
+      "archived": true,
+      "originalPath": "images/61f777d8f3d8e093ea520142.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d079bfc202de4ebfaef719f8.jpg",
+      "archived": true,
+      "originalPath": "images/d079bfc202de4ebfaef719f8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e27fe087c2d814fadbe08a4d.avif",
+      "archived": true,
+      "originalPath": "images/e27fe087c2d814fadbe08a4d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6d08d098c442bb6e93aa91d6.avif",
+      "archived": true,
+      "originalPath": "images/6d08d098c442bb6e93aa91d6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/32b30dcbf699e4f69deee086.avif",
+      "archived": true,
+      "originalPath": "images/32b30dcbf699e4f69deee086.avif"
+    }
+  ],
+  "featuredImage": "images/29684a52b921785c584cff4e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Baked Casesar Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Baked Casesar Chicken . Each serving comes out to be 612 calories, 50g fats, 7.7g net carbs, and 34g protein.",
+    "datePublished": "2021-01-14T10:00:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT125M",
+    "cookTime": "PT35M",
+    "totalTime": "PT160M",
+    "recipeIngredient": [
+      "12 ounce boneless, skinless chicken thighs",
+      "4 tablespoon caesar dressing",
+      "1 teaspoon lemon juice",
+      "1 teaspoon kosher salt",
+      "1/4 teaspoon garlic powder",
+      "1/4 teaspoon onion powder",
+      "12 ounce spring mix",
+      "4 tablespoon caesar dressing"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine caesar dressing, lemon juice, salt, garlic, and onion powder. Stir until well combined.",
+        "name": "In a bowl, combine caesar dressing, lemon juice, salt, garlic, and onion powder. Stir until well combined.",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken into the bowl, smothering them and getting the marinade on every part of the chicken.",
+        "name": "Add the chicken into the bowl, smothering them and getting the marinade on every part of the chicken.",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover with plastic wrap and put in refrigerator for at least 2 hours but up to 24 hours.",
+        "name": "Cover with plastic wrap and put in refrigerator for at least 2 hours but up to 24 hours.",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Before cooking, pre-heat oven to 400F. Evenly space out the chicken on a baking sheet lined with aluminum foil.",
+        "name": "Before cooking, pre-heat oven to 400F. Evenly space out the chicken on a baking sheet lined with aluminum foil.",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake chicken in the oven for 30-35 minutes or until chicken reaches an internal temperature of 165F.",
+        "name": "Bake chicken in the oven for 30-35 minutes or until chicken reaches an internal temperature of 165F.",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/01/Keto-Caesar-Baked-Chicken-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the chicken with leafy greens and additional caesar dressing. Enjoy!",
+        "name": "Plate the chicken with leafy greens and additional caesar dressing. Enjoy!",
+        "url": "https://www.ruled.me/keto-baked-caesar-chicken/#wprm-recipe-53633-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "high-fat, high-protein, keto, low-carb, make-ahead, nut-free, oven-baked, poultry, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "612 kcal",
+      "fatContent": "50 g",
+      "proteinContent": "34 g",
+      "carbohydrateContent": "7.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-baked-caesar-chicken/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-baked-caesar-chicken/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-baked-caesar-chicken/"
+  },
+  "sourceIndex": {
+    "id": 44585,
+    "rid": 53633,
+    "t": "Keto Baked Caesar Chicken",
+    "u": "/keto-baked-caesar-chicken/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/01/Caesar-Baked-Chicken-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 7.7,
+    "cal": 612,
+    "pr": 34,
+    "fa": 50,
+    "tm": 160,
+    "sv": 2,
+    "kw": [
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "make-ahead",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2021-01-14",
+    "cm": 0,
+    "ex": "Caesar salads are one of my favorite classic salads. I made this recipe to make one of my go-to flavors easier. Simply mix all the ingredients into a bowl and marinate the chicken for at least 2",
+    "pv": 172
+  },
+  "sourceHtml": "pages/keto-baked-caesar-chicken.html",
+  "scrapedAt": "2026-11-07T08:27:44.257Z"
+}

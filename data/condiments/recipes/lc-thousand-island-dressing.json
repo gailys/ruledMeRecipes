@@ -1,0 +1,275 @@
+{
+  "id": "ruled-3592",
+  "slug": "lc-thousand-island-dressing",
+  "title": "Low Carb Thousand Island Dressing",
+  "url": "https://www.ruled.me/lc-thousand-island-dressing/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Low Carb Thousand Island Dressing. Each serving comes out to be 64 calories, 6.9g fats, 0.2g net carbs, and 0.1g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "fatContent": "6.9 g",
+    "proteinContent": "0.1 g",
+    "carbohydrateContent": "0.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 64,
+    "netCarbsGrams": 0.2,
+    "proteinGrams": 0.1,
+    "fatGrams": 6.9
+  },
+  "ingredients": [
+    "2 tablespoon unsweetened dill pickle relish",
+    "2 tablespoon onion (diced)",
+    "1 cup mayonnaise",
+    "2 tablespoon low-carb ketchup (like Heinz)",
+    "1 tablespoon apple cider vinegar",
+    "4 drop liquid stevia",
+    "1/8 teaspoon salt",
+    "1/8 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Chop pickle and divide in half. Finely dice the onion and divide in half.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-01.jpg"
+    },
+    {
+      "text": "Add half the pickle and onion, plus all the other ingredients, in the emulsion blender container (or food processor or blender).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-05.jpg"
+    },
+    {
+      "text": "Place bottom of emulsion blender in the container all the way to the bottom. Begin blending and move blender as needed to thoroughly combine ingredients, approximately 30-60 seconds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-06.jpg"
+    },
+    {
+      "text": "Stir the reserved pickle and onion into the dressing. Pour into a jar and place in refrigerator to let flavors meld for a couple of hours. If you can't wait, that's okay. It will taste pretty delicious fresh out of the jar!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/966d2589015e7dde0a46cc2a.jpg",
+      "archived": true,
+      "originalPath": "images/966d2589015e7dde0a46cc2a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/2354ebec225c3453ff8f6d73.jpg",
+      "archived": true,
+      "originalPath": "images/2354ebec225c3453ff8f6d73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-01.jpg",
+      "path": "../../nenaudojama/condiments/images/455429bd9613bd4ec8a1e2a4.avif",
+      "archived": true,
+      "originalPath": "images/455429bd9613bd4ec8a1e2a4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-05.jpg",
+      "path": "../../nenaudojama/condiments/images/c420591f4c801c903a6f1603.avif",
+      "archived": true,
+      "originalPath": "images/c420591f4c801c903a6f1603.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-06.jpg",
+      "path": "../../nenaudojama/condiments/images/720e6e5aa5c34fb3ff779a3a.avif",
+      "archived": true,
+      "originalPath": "images/720e6e5aa5c34fb3ff779a3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-03.jpg",
+      "path": "../../nenaudojama/condiments/images/95eee46109f96c5c73c47034.jpg",
+      "archived": true,
+      "originalPath": "images/95eee46109f96c5c73c47034.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-pin.jpg",
+      "path": "../../nenaudojama/condiments/images/c0370c9dd4ee1e6982a29c9d.avif",
+      "archived": true,
+      "originalPath": "images/c0370c9dd4ee1e6982a29c9d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-01-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/649c9162c670a1d47577f2d6.jpg",
+      "archived": true,
+      "originalPath": "images/649c9162c670a1d47577f2d6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-05-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/264140c49afc3a93256c8bf9.jpg",
+      "archived": true,
+      "originalPath": "images/264140c49afc3a93256c8bf9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-06-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/9bf27698af393c39701c4690.jpg",
+      "archived": true,
+      "originalPath": "images/9bf27698af393c39701c4690.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/2354ebec225c3453ff8f6d73.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Thousand Island Dressing",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 24 servings of Low Carb Thousand Island Dressing. Each serving comes out to be 64 calories, 6.9g fats, 0.2g net carbs, and 0.1g protein.",
+    "datePublished": "2013-12-07T01:41:37+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-featured.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "2 tablespoon unsweetened dill pickle relish",
+      "2 tablespoon onion (diced)",
+      "1 cup mayonnaise",
+      "2 tablespoon low-carb ketchup (like Heinz)",
+      "1 tablespoon apple cider vinegar",
+      "4 drop liquid stevia",
+      "1/8 teaspoon salt",
+      "1/8 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop pickle and divide in half. Finely dice the onion and divide in half.",
+        "name": "Chop pickle and divide in half. Finely dice the onion and divide in half.",
+        "url": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add half the pickle and onion, plus all the other ingredients, in the emulsion blender container (or food processor or blender).",
+        "name": "Add half the pickle and onion, plus all the other ingredients, in the emulsion blender container (or food processor or blender).",
+        "url": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place bottom of emulsion blender in the container all the way to the bottom. Begin blending and move blender as needed to thoroughly combine ingredients, approximately 30-60 seconds.",
+        "name": "Place bottom of emulsion blender in the container all the way to the bottom. Begin blending and move blender as needed to thoroughly combine ingredients, approximately 30-60 seconds.",
+        "url": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir the reserved pickle and onion into the dressing. Pour into a jar and place in refrigerator to let flavors meld for a couple of hours. If you can't wait, that's okay. It will taste pretty delicious fresh out of the jar!",
+        "name": "Stir the reserved pickle and onion into the dressing. Pour into a jar and place in refrigerator to let flavors meld for a couple of hours. If you can't wait, that's okay. It will taste pretty delicious fresh out of the jar!",
+        "url": "https://www.ruled.me/lc-thousand-island-dressing/#wprm-recipe-50501-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "64 kcal",
+      "fatContent": "6.9 g",
+      "proteinContent": "0.1 g",
+      "carbohydrateContent": "0.2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/lc-thousand-island-dressing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/lc-thousand-island-dressing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/lc-thousand-island-dressing/"
+  },
+  "sourceIndex": {
+    "id": 3592,
+    "rid": 50501,
+    "t": "Thousand Island Dressing",
+    "u": "/lc-thousand-island-dressing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/keto-thousand-island-dressing-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.2,
+    "cal": 64,
+    "pr": 0.1,
+    "fa": 6.9,
+    "tm": 5,
+    "sv": 24,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "dairy-free",
+      "nut-free",
+      "no-cook"
+    ],
+    "d": "2013-12-06",
+    "cm": 4,
+    "ex": "Of all of the ketogenic salad dressings I make, this has to be our favorite. I mean, they all taste like our favorite when we're eating them, but if I had to choose one it would be this one. It has",
+    "pv": 171
+  },
+  "sourceHtml": "pages/lc-thousand-island-dressing.html",
+  "scrapedAt": "2026-11-07T08:33:46.028Z"
+}

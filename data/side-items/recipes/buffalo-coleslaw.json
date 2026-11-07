@@ -1,0 +1,279 @@
+{
+  "id": "ruled-31270",
+  "slug": "buffalo-coleslaw",
+  "title": "Buffalo Coleslaw",
+  "url": "https://www.ruled.me/buffalo-coleslaw/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Buffalo Coleslaw. Each serving comes out to be 178 calories, 13.5g fats, 5.4g net carbs, and 6.6g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "178 kcal",
+    "fatContent": "13.5 g",
+    "proteinContent": "6.6 g",
+    "carbohydrateContent": "5.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 178,
+    "netCarbsGrams": 5.4,
+    "proteinGrams": 6.6,
+    "fatGrams": 13.5
+  },
+  "ingredients": [
+    "1/4 cup mayonnaise",
+    "1/4 cup hot sauce (like franks)",
+    "1/4 cup apple cider vinegar",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon salt",
+    "1/2 large green cabbage (sliced thin)",
+    "80 gram celery (finely diced)",
+    "1/2 medium onion (diced)",
+    "2 tablespoon fresh chives (chopped)",
+    "1 cup blue cheese (crumbled)"
+  ],
+  "instructions": [
+    {
+      "text": "In a medium-size bowl whisk together the mayonnaise, hot sauce, apple cider vinegar, garlic powder, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-01.jpg"
+    },
+    {
+      "text": "In a large mixing bowl toss together the green cabbage, celery, white onion, half the chives, and half the blue cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-02.jpg"
+    },
+    {
+      "text": "Add the dressing to the cabbage and toss together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-03.jpg"
+    },
+    {
+      "text": "Serve the coleslaw with a drizzle of hot sauce, the remaining chives, and the blue cheese sprinkled on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "spicy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-featured-3-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/f2773326b0ea30c19d848620.jpg",
+      "archived": true,
+      "originalPath": "images/f2773326b0ea30c19d848620.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-featured-3.jpg",
+      "path": "../../nenaudojama/side-items/images/77e9ec65bdd7545d39f2944a.avif",
+      "archived": true,
+      "originalPath": "images/77e9ec65bdd7545d39f2944a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-01.jpg",
+      "path": "../../nenaudojama/side-items/images/bd52ed912d0ddc665c3d9e0b.avif",
+      "archived": true,
+      "originalPath": "images/bd52ed912d0ddc665c3d9e0b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-02.jpg",
+      "path": "../../nenaudojama/side-items/images/7bc3c20d3f1065e1c1ad25b7.avif",
+      "archived": true,
+      "originalPath": "images/7bc3c20d3f1065e1c1ad25b7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-03.jpg",
+      "path": "../../nenaudojama/side-items/images/29a6e7fcc7d415edd18b20f3.avif",
+      "archived": true,
+      "originalPath": "images/29a6e7fcc7d415edd18b20f3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-second.jpg",
+      "path": "../../nenaudojama/side-items/images/cb906aa0958f97c4bd346ac2.jpg",
+      "archived": true,
+      "originalPath": "images/cb906aa0958f97c4bd346ac2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-pin2.jpg",
+      "path": "../../nenaudojama/side-items/images/f74c63e7c6e4176e70a814cd.avif",
+      "archived": true,
+      "originalPath": "images/f74c63e7c6e4176e70a814cd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/09da65d5f2f7a9ab8524db73.jpg",
+      "archived": true,
+      "originalPath": "images/09da65d5f2f7a9ab8524db73.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/db2b15f6dd81d4022f9e9ee1.jpg",
+      "archived": true,
+      "originalPath": "images/db2b15f6dd81d4022f9e9ee1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/e899c25ad678bb2157b80b06.avif",
+      "archived": true,
+      "originalPath": "images/e899c25ad678bb2157b80b06.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/77e9ec65bdd7545d39f2944a.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Buffalo Coleslaw",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Buffalo Coleslaw. Each serving comes out to be 178 calories, 13.5g fats, 5.4g net carbs, and 6.6g protein.",
+    "datePublished": "2017-08-01T11:00:23+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-featured-3.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT20M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "1/4 cup mayonnaise",
+      "1/4 cup hot sauce (like franks)",
+      "1/4 cup apple cider vinegar",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon salt",
+      "1/2 large green cabbage (sliced thin)",
+      "80 gram celery (finely diced)",
+      "1/2 medium onion (diced)",
+      "2 tablespoon fresh chives (chopped)",
+      "1 cup blue cheese (crumbled)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a medium-size bowl whisk together the mayonnaise, hot sauce, apple cider vinegar, garlic powder, and salt.",
+        "name": "In a medium-size bowl whisk together the mayonnaise, hot sauce, apple cider vinegar, garlic powder, and salt.",
+        "url": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl toss together the green cabbage, celery, white onion, half the chives, and half the blue cheese.",
+        "name": "In a large mixing bowl toss together the green cabbage, celery, white onion, half the chives, and half the blue cheese.",
+        "url": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dressing to the cabbage and toss together.",
+        "name": "Add the dressing to the cabbage and toss together.",
+        "url": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the coleslaw with a drizzle of hot sauce, the remaining chives, and the blue cheese sprinkled on top.",
+        "name": "Serve the coleslaw with a drizzle of hot sauce, the remaining chives, and the blue cheese sprinkled on top.",
+        "url": "https://www.ruled.me/buffalo-coleslaw/#wprm-recipe-52257-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, gluten-free, keto, low-carb, no-cook, nut-free, party-food, quick, simple-and-easy, spicy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "178 kcal",
+      "fatContent": "13.5 g",
+      "proteinContent": "6.6 g",
+      "carbohydrateContent": "5.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/buffalo-coleslaw/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/buffalo-coleslaw/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/buffalo-coleslaw/"
+  },
+  "sourceIndex": {
+    "id": 31270,
+    "rid": 52257,
+    "t": "Buffalo Coleslaw",
+    "u": "/buffalo-coleslaw/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/06/buffalo-coleslaw-featured-3-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 5.4,
+    "cal": 178,
+    "pr": 6.6,
+    "fa": 13.5,
+    "tm": 20,
+    "sv": 6,
+    "kw": [
+      "30-minute",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "spicy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 10,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "no-cook"
+    ],
+    "d": "2017-08-01",
+    "cm": 10,
+    "ex": "This coleslaw packs a punch! It's a spicy, tangy, and creamy but also very simple to make side dish. Buffalo Coleslaw is not for the faint of heart, it takes traditional coleslaw and kicks it up a",
+    "pv": 861
+  },
+  "sourceHtml": "pages/buffalo-coleslaw.html",
+  "scrapedAt": "2026-11-07T08:32:33.766Z"
+}

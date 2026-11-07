@@ -1,0 +1,260 @@
+{
+  "id": "ruled-60209",
+  "slug": "buffalo-chicken-mac-n-cheese",
+  "title": "Buffalo Chicken Mac 'n Cheese",
+  "url": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Buffalo Chicken Mac 'n Cheese. Each serving comes out to be 399 calories, 31.2g fats, 2.5g net carbs, and 25.8g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT35M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "fatContent": "31.2 g",
+    "proteinContent": "25.8 g",
+    "carbohydrateContent": "2.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 399,
+    "netCarbsGrams": 2.5,
+    "proteinGrams": 25.8,
+    "fatGrams": 31.2
+  },
+  "ingredients": [
+    "3 cup cauliflower (florets)",
+    "2 cup cooked chicken (shredded)",
+    "2 tablespoon butter",
+    "1 tablespoon fresh garlic (minced)",
+    "1/4 cup hot sauce (like Frank's)",
+    "2 cup sharp cheddar cheese (shredded)",
+    "2 cup gruyere cheese (shredded)",
+    "3 ounce cream cheese (softened)",
+    "1/4 teaspoon smoked paprika (for garnish)",
+    "2 whole green onion (sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. Preheat oven to 400F. In a microwave safe bowl, place florets with a small amount of water. Cover with paper towel and microwave until just tender, about 4 minutes. Remove to a colander and drain water well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "In a large skillet, melt butter over medium heat. Add garlic and stir fry 1 minute. Add hot sauce and stir, then add chicken. Stir to combine well. Add the cream cheese, the gruyere cheese and ¾ of the cheddar cheese. Cook, stirring frequently, until the cheeses have melted, about 3 minutes. Turn heat off.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Mix cauliflower with chicken/cheese mixture to combine. Pour into an oven safe baking dish. Sprinkle remaining cheddar cheese over the top. Bake for 20 minutes, then turn broiler on and broil for 5 minutes or until cheese begins to turn brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Sprinkle paprika over top and garnish with green onion slices. Plate and serve. Top with additional hot sauce, if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/07/buffalo-chicken-mac-n-cheese-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3-768x512.jpeg",
+      "path": "../../nenaudojama/dinner/images/85f6245f69f54ad6d036a43d.jpeg",
+      "archived": true,
+      "originalPath": "images/85f6245f69f54ad6d036a43d.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3.jpeg",
+      "path": "images/251aebeb7d4bb03e5bb406ce.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/buffalo-chicken-mac-n-cheese-step-01.jpeg",
+      "path": "../../nenaudojama/dinner/images/1b008d816a984cea7e6407d1.jpeg",
+      "archived": true,
+      "originalPath": "images/1b008d816a984cea7e6407d1.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3-300x300.jpeg",
+      "path": "../../nenaudojama/dinner/images/f56b9f76de97e87497fae6c5.jpeg",
+      "archived": true,
+      "originalPath": "images/f56b9f76de97e87497fae6c5.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/07/buffalo-chicken-mac-n-cheese-step-01-233x350.jpeg",
+      "path": "../../nenaudojama/dinner/images/35fe76617cbba648f4a80aa2.jpeg",
+      "archived": true,
+      "originalPath": "images/35fe76617cbba648f4a80aa2.jpeg"
+    }
+  ],
+  "featuredImage": "images/251aebeb7d4bb03e5bb406ce.jpeg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Buffalo Chicken Mac 'n Cheese",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Buffalo Chicken Mac &#039;n Cheese. Each serving comes out to be 399 calories, 31.2g fats, 2.5g net carbs, and 25.8g protein.",
+    "datePublished": "2026-07-16T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT35M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "3 cup cauliflower (florets)",
+      "2 cup cooked chicken (shredded)",
+      "2 tablespoon butter",
+      "1 tablespoon fresh garlic (minced)",
+      "1/4 cup hot sauce (like Frank's)",
+      "2 cup sharp cheddar cheese (shredded)",
+      "2 cup gruyere cheese (shredded)",
+      "3 ounce cream cheese (softened)",
+      "1/4 teaspoon smoked paprika (for garnish)",
+      "2 whole green onion (sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. Preheat oven to 400F. In a microwave safe bowl, place florets with a small amount of water. Cover with paper towel and microwave until just tender, about 4 minutes. Remove to a colander and drain water well.",
+        "name": "Gather all ingredients. Preheat oven to 400F. In a microwave safe bowl, place florets with a small amount of water. Cover with paper towel and microwave until just tender, about 4 minutes. Remove to a colander and drain water well.",
+        "url": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, melt butter over medium heat. Add garlic and stir fry 1 minute. Add hot sauce and stir, then add chicken. Stir to combine well. Add the cream cheese, the gruyere cheese and ¾ of the cheddar cheese. Cook, stirring frequently, until the cheeses have melted, about 3 minutes. Turn heat off.",
+        "name": "In a large skillet, melt butter over medium heat. Add garlic and stir fry 1 minute. Add hot sauce and stir, then add chicken. Stir to combine well. Add the cream cheese, the gruyere cheese and ¾ of the cheddar cheese. Cook, stirring frequently, until the cheeses have melted, about 3 minutes. Turn heat off.",
+        "url": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix cauliflower with chicken/cheese mixture to combine. Pour into an oven safe baking dish. Sprinkle remaining cheddar cheese over the top. Bake for 20 minutes, then turn broiler on and broil for 5 minutes or until cheese begins to turn brown.",
+        "name": "Mix cauliflower with chicken/cheese mixture to combine. Pour into an oven safe baking dish. Sprinkle remaining cheddar cheese over the top. Bake for 20 minutes, then turn broiler on and broil for 5 minutes or until cheese begins to turn brown.",
+        "url": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle paprika over top and garnish with green onion slices. Plate and serve. Top with additional hot sauce, if desired.",
+        "name": "Sprinkle paprika over top and garnish with green onion slices. Plate and serve. Top with additional hot sauce, if desired.",
+        "url": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#wprm-recipe-60208-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/07/buffalo-chicken-mac-n-cheese-step-01.jpeg"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, one-pan meals, oven-baked, poultry, simple &amp; easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "399 kcal",
+      "fatContent": "31.2 g",
+      "proteinContent": "25.8 g",
+      "carbohydrateContent": "2.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/buffalo-chicken-mac-n-cheese/"
+  },
+  "sourceIndex": {
+    "id": 60209,
+    "rid": 60208,
+    "t": "Buffalo Chicken Mac ‘n Cheese",
+    "u": "/buffalo-chicken-mac-n-cheese/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/ae135f61cf12cd138550c552e4e8f8e3-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.5,
+    "cal": 399,
+    "pr": 25.8,
+    "fa": 31.2,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2026-07-16",
+    "cm": 0,
+    "ex": "This Buffalo Chicken Mac 'n Cheese is the ultimate comfort food for anyone following a ketogenic lifestyle, offering all the bold, zesty flavors of your favorite wings in a creamy, oven-baked",
+    "pv": 236
+  },
+  "sourceHtml": "pages/buffalo-chicken-mac-n-cheese.html",
+  "scrapedAt": "2026-11-07T08:27:43.334Z"
+}

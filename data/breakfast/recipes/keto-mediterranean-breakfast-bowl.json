@@ -1,0 +1,276 @@
+{
+  "id": "ruled-47392",
+  "slug": "keto-mediterranean-breakfast-bowl",
+  "title": "Keto Mediterranean Breakfast Bowl",
+  "url": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Mediterranean Breakfast Bowl. Each serving comes out to be 443 calories, 37.3g fats, 11.1g net carbs, and 15.8g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "443 kcal",
+    "fatContent": "37.3 g",
+    "proteinContent": "15.8 g",
+    "carbohydrateContent": "11.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 443,
+    "netCarbsGrams": 11.1,
+    "proteinGrams": 15.8,
+    "fatGrams": 37.3
+  },
+  "ingredients": [
+    "6 ounce cucumber",
+    "1/2 medium red bell pepper",
+    "1 medium fresh tomatoes",
+    "6 ounce feta cheese",
+    "1/4 cup walnuts",
+    "1 tablespoon olive oil",
+    "1 teaspoon fresh oregano",
+    "1/2 cup black olives"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-1.jpg"
+    },
+    {
+      "text": "On a cutting board, slice the cucumbers and the red bell pepper. Arrange the cucumbers, red bell pepper, and feta cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-2.jpg"
+    },
+    {
+      "text": "Slice the tomato. Arrange the tomato, olives, and walnuts. Drizzle with olive oil and garnish with oregano.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-3.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/5eb8386ac9d7e55f74b6e13f.jpg",
+      "archived": true,
+      "originalPath": "images/5eb8386ac9d7e55f74b6e13f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Featured.jpg",
+      "path": "images/49156ce01ce05743faaddc60.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/89bd4c7431e9197f8e55ceef.jpg",
+      "archived": true,
+      "originalPath": "images/89bd4c7431e9197f8e55ceef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/4ac918c01d71604bb19c3b81.jpg",
+      "archived": true,
+      "originalPath": "images/4ac918c01d71604bb19c3b81.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/7e04eed9506db9f2c4796e2b.jpg",
+      "archived": true,
+      "originalPath": "images/7e04eed9506db9f2c4796e2b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/76d401dca1c9bc37768f6ef8.avif",
+      "archived": true,
+      "originalPath": "images/76d401dca1c9bc37768f6ef8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/031bf77cd8f50a412baf9f52.avif",
+      "archived": true,
+      "originalPath": "images/031bf77cd8f50a412baf9f52.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/04a384d28d52c27d88f29b7b.avif",
+      "archived": true,
+      "originalPath": "images/04a384d28d52c27d88f29b7b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/93e1bbceec7eaebcbcee4d55.avif",
+      "archived": true,
+      "originalPath": "images/93e1bbceec7eaebcbcee4d55.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/3daa01e219c8c089af83978a.avif",
+      "archived": true,
+      "originalPath": "images/3daa01e219c8c089af83978a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/83a45b74ca696769bf65219c.avif",
+      "archived": true,
+      "originalPath": "images/83a45b74ca696769bf65219c.avif"
+    }
+  ],
+  "featuredImage": "images/49156ce01ce05743faaddc60.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Mediterranean Breakfast Bowl",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Mediterranean Breakfast Bowl. Each serving comes out to be 443 calories, 37.3g fats, 11.1g net carbs, and 15.8g protein.",
+    "datePublished": "2022-07-26T09:00:54+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "6 ounce cucumber",
+      "1/2 medium red bell pepper",
+      "1 medium fresh tomatoes",
+      "6 ounce feta cheese",
+      "1/4 cup walnuts",
+      "1 tablespoon olive oil",
+      "1 teaspoon fresh oregano",
+      "1/2 cup black olives"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a cutting board, slice the cucumbers and the red bell pepper. Arrange the cucumbers, red bell pepper, and feta cheese.",
+        "name": "On a cutting board, slice the cucumbers and the red bell pepper. Arrange the cucumbers, red bell pepper, and feta cheese.",
+        "url": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the tomato. Arrange the tomato, olives, and walnuts. Drizzle with olive oil and garnish with oregano.",
+        "name": "Slice the tomato. Arrange the tomato, olives, and walnuts. Drizzle with olive oil and garnish with oregano.",
+        "url": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#wprm-recipe-54263-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Breakfast",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, keto, low-carb, quick, simple &amp; easy, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "443 kcal",
+      "fatContent": "37.3 g",
+      "proteinContent": "15.8 g",
+      "carbohydrateContent": "11.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-mediterranean-breakfast-bowl/"
+  },
+  "sourceIndex": {
+    "id": 47392,
+    "rid": 54263,
+    "t": "Keto Mediterranean Breakfast Bowl",
+    "u": "/keto-mediterranean-breakfast-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/04/Keto-Mediterranean-Breakfast-Bowl-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 11.1,
+    "cal": 443,
+    "pr": 15.8,
+    "fa": 37.3,
+    "tm": 15,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "egg-free"
+    ],
+    "d": "2022-07-26",
+    "cm": 0,
+    "ex": "Start your day the right way with a delicious, colorful plate of goodness. This Mediterranean breakfast bowl is full of flavor and perfect for breakfast, brunch, or lunch. To top it off, it can be",
+    "pv": 139
+  },
+  "sourceHtml": "pages/keto-mediterranean-breakfast-bowl.html",
+  "scrapedAt": "2026-11-07T08:11:12.229Z"
+}

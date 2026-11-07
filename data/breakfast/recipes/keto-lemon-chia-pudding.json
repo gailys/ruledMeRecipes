@@ -1,0 +1,278 @@
+{
+  "id": "ruled-43839",
+  "slug": "keto-lemon-chia-pudding",
+  "title": "Keto Lemon Chia Pudding",
+  "url": "https://www.ruled.me/keto-lemon-chia-pudding/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Lemon Chia Pudding. Each serving comes out to be 344 calories, 30.8g fats, 5.9g net carbs, and 6.4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT300M",
+  "totalTime": "PT305M",
+  "totalMinutes": 305,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "344 kcal",
+    "fatContent": "30.8 g",
+    "proteinContent": "6.4 g",
+    "carbohydrateContent": "5.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 344,
+    "netCarbsGrams": 5.9,
+    "proteinGrams": 6.4,
+    "fatGrams": 30.8
+  },
+  "ingredients": [
+    "1 cup canned coconut milk",
+    "1 cup unsweetened almond milk",
+    "1/2 cup heavy cream",
+    "3 tablespoon stevia/erythritol blend",
+    "1/2 cup chia seeds",
+    "1/2 cup lemon juice",
+    "2 teaspoon lemon zest"
+  ],
+  "instructions": [
+    {
+      "text": "Put the coconut milk, almond milk, cream, stevia/erythritol blend, chia seeds, lemon juice, and lemon zest into a blender.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding2.jpg"
+    },
+    {
+      "text": "Put the lid on the blender and pulse until everything is combined.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding3.png"
+    },
+    {
+      "text": "Pour the lemon chia pudding into cups.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding4.png"
+    },
+    {
+      "text": "Cover the cups with plastic wrap and refrigerate for at least 5 hours before enjoying.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/d7f6514b7e1186672d6755db.avif",
+      "archived": true,
+      "originalPath": "images/d7f6514b7e1186672d6755db.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Featured.jpg",
+      "path": "images/913d5a8c0643a7517ca00675.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding2.jpg",
+      "path": "../../nenaudojama/breakfast/images/4eef151eaf57e6f61539b26d.jpg",
+      "archived": true,
+      "originalPath": "images/4eef151eaf57e6f61539b26d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding3.png",
+      "path": "../../nenaudojama/breakfast/images/8ce59e309896b7c31959c7ba.png",
+      "archived": true,
+      "originalPath": "images/8ce59e309896b7c31959c7ba.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding4.png",
+      "path": "../../nenaudojama/breakfast/images/e591061e68105af052f1b6d5.png",
+      "archived": true,
+      "originalPath": "images/e591061e68105af052f1b6d5.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Second-600x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/aba4e4d968e410a010f9d15e.jpg",
+      "archived": true,
+      "originalPath": "images/aba4e4d968e410a010f9d15e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding1.jpg",
+      "path": "../../nenaudojama/breakfast/images/b3fe7b1148b0836124b3eae4.avif",
+      "archived": true,
+      "originalPath": "images/b3fe7b1148b0836124b3eae4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding3-525x350.png",
+      "path": "../../nenaudojama/breakfast/images/eac22fb52892461f1e47447c.webp",
+      "archived": true,
+      "originalPath": "images/eac22fb52892461f1e47447c.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/829d1f6b7988b6bfc952b92e.jpg",
+      "archived": true,
+      "originalPath": "images/829d1f6b7988b6bfc952b92e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/dec8b546892597d6a608d800.avif",
+      "archived": true,
+      "originalPath": "images/dec8b546892597d6a608d800.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/fc950351d63b608f1291a525.avif",
+      "archived": true,
+      "originalPath": "images/fc950351d63b608f1291a525.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding4-525x350.png",
+      "path": "../../nenaudojama/breakfast/images/056f776199382bbf366cc3df.webp",
+      "archived": true,
+      "originalPath": "images/056f776199382bbf366cc3df.webp"
+    }
+  ],
+  "featuredImage": "images/913d5a8c0643a7517ca00675.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Lemon Chia Pudding",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Lemon Chia Pudding. Each serving comes out to be 344 calories, 30.8g fats, 5.9g net carbs, and 6.4g protein.",
+    "datePublished": "2020-09-10T09:00:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT300M",
+    "totalTime": "PT305M",
+    "recipeIngredient": [
+      "1 cup canned coconut milk",
+      "1 cup unsweetened almond milk",
+      "1/2 cup heavy cream",
+      "3 tablespoon stevia/erythritol blend",
+      "1/2 cup chia seeds",
+      "1/2 cup lemon juice",
+      "2 teaspoon lemon zest"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Put the coconut milk, almond milk, cream, stevia/erythritol blend, chia seeds, lemon juice, and lemon zest into a blender.",
+        "name": "Put the coconut milk, almond milk, cream, stevia/erythritol blend, chia seeds, lemon juice, and lemon zest into a blender.",
+        "url": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the lid on the blender and pulse until everything is combined.",
+        "name": "Put the lid on the blender and pulse until everything is combined.",
+        "url": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding3.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the lemon chia pudding into cups.",
+        "name": "Pour the lemon chia pudding into cups.",
+        "url": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding4.png"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the cups with plastic wrap and refrigerate for at least 5 hours before enjoying.",
+        "name": "Cover the cups with plastic wrap and refrigerate for at least 5 hours before enjoying.",
+        "url": "https://www.ruled.me/keto-lemon-chia-pudding/#wprm-recipe-53493-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, keto, low-carb, make-ahead, no-cook, simple &amp; easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "344 kcal",
+      "fatContent": "30.8 g",
+      "proteinContent": "6.4 g",
+      "carbohydrateContent": "5.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-lemon-chia-pudding/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-lemon-chia-pudding/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-lemon-chia-pudding/"
+  },
+  "sourceIndex": {
+    "id": 43839,
+    "rid": 53493,
+    "t": "Keto Lemon Chia Pudding",
+    "u": "/keto-lemon-chia-pudding/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/09/Keto-Lemon-Chia-Seed-Pudding-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 5.9,
+    "cal": 344,
+    "pr": 6.4,
+    "fa": 30.8,
+    "tm": 305,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2020-09-10",
+    "cm": 2,
+    "ex": "Prepare this keto lemon chia pudding at night in 5 minutes for a very easy and portable breakfast or snack the next day. This is by far one of the easiest (and delicious) recipes I have made yet",
+    "pv": 525
+  },
+  "sourceHtml": "pages/keto-lemon-chia-pudding.html",
+  "scrapedAt": "2026-11-07T08:11:12.461Z"
+}

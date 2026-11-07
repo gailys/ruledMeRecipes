@@ -1,0 +1,342 @@
+{
+  "id": "ruled-26590",
+  "slug": "keto-breakfast-burger",
+  "title": "Keto Breakfast Burger",
+  "url": "https://www.ruled.me/keto-breakfast-burger/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Breakfast Burger. Each serving comes out to be 549 calories, 45.8g fats, 2.1g net carbs, and 31.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "549 kcal",
+    "fatContent": "45.8 g",
+    "proteinContent": "31.5 g",
+    "carbohydrateContent": "2.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 549,
+    "netCarbsGrams": 2.1,
+    "proteinGrams": 31.5,
+    "fatGrams": 45.8
+  },
+  "ingredients": [
+    "4 ounce bacon",
+    "1 tablespoon butter (melted)",
+    "1 tablespoon powdered peanut butter (such as PBfit)",
+    "4 ounce breakfast sausage",
+    "2 ounce pepper jack cheese",
+    "2 large egg",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Place the bacon on a cookie sheet with a wire rack and bake for 20–25 minutes or until crisp.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_6499.jpg"
+    },
+    {
+      "text": "Mix the butter and PBfit in a small container to rehydrate the powdered peanut butter into a paste. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_6510.jpg"
+    },
+    {
+      "text": "Form the sausage patties and cook them in a pan over medium-high heat. Flip once the bottom sides are browned.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_6512.jpg"
+    },
+    {
+      "text": "Grate the cheese and have it ready.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_6515.jpg"
+    },
+    {
+      "text": "Once the other side of the sausage patty is browned, add the cheese and cover the pan until melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_6522.jpg"
+    },
+    {
+      "text": "Remove the sausage patties and set aside. Fry an egg over easy in the same pan. Season to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_6530.jpg"
+    },
+    {
+      "text": "Assemble the sausage patties with egg, bacon, and peanut butter on top. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "pork",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastburger.jpg",
+      "path": "images/4f3ba421799debd4feb4a15f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6499.jpg",
+      "path": "../../nenaudojama/breakfast/images/390c01d21a0b350a4525747c.jpg",
+      "archived": true,
+      "originalPath": "images/390c01d21a0b350a4525747c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6510.jpg",
+      "path": "../../nenaudojama/breakfast/images/929117f2c95f653a6024cb62.jpg",
+      "archived": true,
+      "originalPath": "images/929117f2c95f653a6024cb62.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6512.jpg",
+      "path": "../../nenaudojama/breakfast/images/3614d1cff4bddaab7c0fdc8f.jpg",
+      "archived": true,
+      "originalPath": "images/3614d1cff4bddaab7c0fdc8f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6515.jpg",
+      "path": "../../nenaudojama/breakfast/images/56fdb4c5509f54e9ee7af3a0.jpg",
+      "archived": true,
+      "originalPath": "images/56fdb4c5509f54e9ee7af3a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6522.jpg",
+      "path": "../../nenaudojama/breakfast/images/e79e24ebba6a37ed7ba9f0ea.jpg",
+      "archived": true,
+      "originalPath": "images/e79e24ebba6a37ed7ba9f0ea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6530.jpg",
+      "path": "../../nenaudojama/breakfast/images/c6210310d8b3aa5b22ed6b6d.jpg",
+      "archived": true,
+      "originalPath": "images/c6210310d8b3aa5b22ed6b6d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastburgersecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/f5400c61af9006a7c0c67ff8.jpg",
+      "archived": true,
+      "originalPath": "images/f5400c61af9006a7c0c67ff8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastburgerlong.jpg",
+      "path": "../../nenaudojama/breakfast/images/13b1e55a45bd9fe005b81ff0.jpg",
+      "archived": true,
+      "originalPath": "images/13b1e55a45bd9fe005b81ff0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6499-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/f29ffaacb52fac6765af56a8.jpg",
+      "archived": true,
+      "originalPath": "images/f29ffaacb52fac6765af56a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6510-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/79c2b28530fd06a8eb962cdc.jpg",
+      "archived": true,
+      "originalPath": "images/79c2b28530fd06a8eb962cdc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6512-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/cd64b869c5b58a215ba12e2d.jpg",
+      "archived": true,
+      "originalPath": "images/cd64b869c5b58a215ba12e2d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6515-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/be0ca225470fec5961273f1c.jpg",
+      "archived": true,
+      "originalPath": "images/be0ca225470fec5961273f1c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6522-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a9613e96077c981e0d769c97.jpg",
+      "archived": true,
+      "originalPath": "images/a9613e96077c981e0d769c97.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_6530-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/ac029346ae3824241c6f6ebf.jpg",
+      "archived": true,
+      "originalPath": "images/ac029346ae3824241c6f6ebf.jpg"
+    }
+  ],
+  "featuredImage": "images/4f3ba421799debd4feb4a15f.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Breakfast Burger",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Breakfast Burger. Each serving comes out to be 549 calories, 45.8g fats, 2.1g net carbs, and 31.5g protein.",
+    "datePublished": "2015-07-22T15:57:17+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/breakfastburger.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "4 ounce bacon",
+      "1 tablespoon butter (melted)",
+      "1 tablespoon powdered peanut butter (such as PBfit)",
+      "4 ounce breakfast sausage",
+      "2 ounce pepper jack cheese",
+      "2 large egg",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Place the bacon on a cookie sheet with a wire rack and bake for 20–25 minutes or until crisp.",
+        "name": "Preheat oven to 400F. Place the bacon on a cookie sheet with a wire rack and bake for 20–25 minutes or until crisp.",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_6499.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the butter and PBfit in a small container to rehydrate the powdered peanut butter into a paste. Set aside.",
+        "name": "Mix the butter and PBfit in a small container to rehydrate the powdered peanut butter into a paste. Set aside.",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_6510.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Form the sausage patties and cook them in a pan over medium-high heat. Flip once the bottom sides are browned.",
+        "name": "Form the sausage patties and cook them in a pan over medium-high heat. Flip once the bottom sides are browned.",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_6512.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the cheese and have it ready.",
+        "name": "Grate the cheese and have it ready.",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_6515.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the other side of the sausage patty is browned, add the cheese and cover the pan until melted.",
+        "name": "Once the other side of the sausage patty is browned, add the cheese and cover the pan until melted.",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_6522.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the sausage patties and set aside. Fry an egg over easy in the same pan. Season to taste.",
+        "name": "Remove the sausage patties and set aside. Fry an egg over easy in the same pan. Season to taste.",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_6530.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the sausage patties with egg, bacon, and peanut butter on top. Enjoy!",
+        "name": "Assemble the sausage patties with egg, bacon, and peanut butter on top. Enjoy!",
+        "url": "https://www.ruled.me/keto-breakfast-burger/#wprm-recipe-51785-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, eggs, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, pork, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "549 kcal",
+      "fatContent": "45.8 g",
+      "proteinContent": "31.5 g",
+      "carbohydrateContent": "2.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-breakfast-burger/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-breakfast-burger/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-breakfast-burger/"
+  },
+  "sourceIndex": {
+    "id": 26590,
+    "rid": 51785,
+    "t": "Keto Breakfast Burger",
+    "u": "/keto-breakfast-burger/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastburger.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 2.1,
+    "cal": 549,
+    "pr": 31.5,
+    "fa": 45.8,
+    "tm": 25,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "pork",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2015-07-22",
+    "cm": 8,
+    "ex": "When this was first made for me, I didn't believe that the peanut butter would add anything of value to this dish - in fact, I thought it would take away from the taste. Boy was I wrong. The peanut",
+    "pv": 74
+  },
+  "sourceHtml": "pages/keto-breakfast-burger.html",
+  "scrapedAt": "2026-11-07T08:11:12.878Z"
+}

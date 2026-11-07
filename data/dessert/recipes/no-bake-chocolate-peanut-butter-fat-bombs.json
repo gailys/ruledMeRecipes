@@ -1,0 +1,288 @@
+{
+  "id": "ruled-25920",
+  "slug": "no-bake-chocolate-peanut-butter-fat-bombs",
+  "title": "No-Bake Chocolate Peanut Butter Fat Bombs",
+  "url": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of No-Bake Chocolate Peanut Butter Fat Bombs. Each serving comes out to be 215 calories, 20.8g fats, 1.9g net carbs, and 4.3g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "215 kcal",
+    "fatContent": "20.8 g",
+    "proteinContent": "4.3 g",
+    "carbohydrateContent": "1.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 215,
+    "netCarbsGrams": 1.9,
+    "proteinGrams": 4.3,
+    "fatGrams": 20.8
+  },
+  "ingredients": [
+    "1/4 cup unsweetened dark cocoa powder",
+    "4 tablespoon powdered peanut butter (such as PBfit)",
+    "6 tablespoon hemp seeds",
+    "1/2 cup coconut oil",
+    "2 tablespoon heavy whipping cream",
+    "1 teaspoon vanilla extract",
+    "28 drop liquid stevia",
+    "1/4 cup unsweetened shredded coconut"
+  ],
+  "instructions": [
+    {
+      "text": "Mix the cocoa powder, powdered peanut butter, and hemp seeds together with the coconut oil. This may take a bit of work, but it will eventually form a paste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_9171.jpg"
+    },
+    {
+      "text": "Add in the heavy cream, vanilla, and liquid stevia. Mix again until everything is combined and slightly creamy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_9185.jpg"
+    },
+    {
+      "text": "Measure the unsweetened shredded coconut out onto a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_9190.jpg"
+    },
+    {
+      "text": "Roll the mixture out into balls and then roll them in the unsweetened shredded coconut. Place on a baking tray lined with parchment paper. Freeze for about 20 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/04/img_9194.jpg"
+    },
+    {
+      "text": "Remove from the freezer and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "egg-free",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-bake",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/nobakepbfatbombs1.jpg",
+      "path": "images/1131e7b59457ee31128f4ec2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9171.jpg",
+      "path": "../../nenaudojama/dessert/images/664bd7a6a08f653c2c17cea1.avif",
+      "archived": true,
+      "originalPath": "images/664bd7a6a08f653c2c17cea1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9185.jpg",
+      "path": "../../nenaudojama/dessert/images/5f5296a127f8b1c90f20bfc6.jpg",
+      "archived": true,
+      "originalPath": "images/5f5296a127f8b1c90f20bfc6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9190.jpg",
+      "path": "../../nenaudojama/dessert/images/5f8e838be0377aa5fbb6559d.avif",
+      "archived": true,
+      "originalPath": "images/5f8e838be0377aa5fbb6559d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9194.jpg",
+      "path": "../../nenaudojama/dessert/images/fab14e566b9900d2a408d5ba.jpg",
+      "archived": true,
+      "originalPath": "images/fab14e566b9900d2a408d5ba.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/nobakepbfatbombssecond.jpg",
+      "path": "../../nenaudojama/dessert/images/eb548792c2e0294117de0efc.avif",
+      "archived": true,
+      "originalPath": "images/eb548792c2e0294117de0efc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/nobakepbfatbombslong1.jpg",
+      "path": "../../nenaudojama/dessert/images/4974471fe4d683ee32f8f907.avif",
+      "archived": true,
+      "originalPath": "images/4974471fe4d683ee32f8f907.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9171-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ed84d604988a5d1f32a3e445.avif",
+      "archived": true,
+      "originalPath": "images/ed84d604988a5d1f32a3e445.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9185-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/38bd079f52a6eb1ca9655145.avif",
+      "archived": true,
+      "originalPath": "images/38bd079f52a6eb1ca9655145.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9190-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ffb585ffda4a46a141866aa7.avif",
+      "archived": true,
+      "originalPath": "images/ffb585ffda4a46a141866aa7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/04/img_9194-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/63366643e082a10aa63e77be.avif",
+      "archived": true,
+      "originalPath": "images/63366643e082a10aa63e77be.avif"
+    }
+  ],
+  "featuredImage": "images/1131e7b59457ee31128f4ec2.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "No-Bake Chocolate Peanut Butter Fat Bombs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of No-Bake Chocolate Peanut Butter Fat Bombs. Each serving comes out to be 215 calories, 20.8g fats, 1.9g net carbs, and 4.3g protein.",
+    "datePublished": "2015-04-08T16:12:02+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/04/nobakepbfatbombs1.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1/4 cup unsweetened dark cocoa powder",
+      "4 tablespoon powdered peanut butter (such as PBfit)",
+      "6 tablespoon hemp seeds",
+      "1/2 cup coconut oil",
+      "2 tablespoon heavy whipping cream",
+      "1 teaspoon vanilla extract",
+      "28 drop liquid stevia",
+      "1/4 cup unsweetened shredded coconut"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix the cocoa powder, powdered peanut butter, and hemp seeds together with the coconut oil. This may take a bit of work, but it will eventually form a paste.",
+        "name": "Mix the cocoa powder, powdered peanut butter, and hemp seeds together with the coconut oil. This may take a bit of work, but it will eventually form a paste.",
+        "url": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_9171.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the heavy cream, vanilla, and liquid stevia. Mix again until everything is combined and slightly creamy.",
+        "name": "Add in the heavy cream, vanilla, and liquid stevia. Mix again until everything is combined and slightly creamy.",
+        "url": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_9185.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure the unsweetened shredded coconut out onto a plate.",
+        "name": "Measure the unsweetened shredded coconut out onto a plate.",
+        "url": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_9190.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll the mixture out into balls and then roll them in the unsweetened shredded coconut. Place on a baking tray lined with parchment paper. Freeze for about 20 minutes.",
+        "name": "Roll the mixture out into balls and then roll them in the unsweetened shredded coconut. Place on a baking tray lined with parchment paper. Freeze for about 20 minutes.",
+        "url": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/04/img_9194.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the freezer and enjoy!",
+        "name": "Remove from the freezer and enjoy!",
+        "url": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#wprm-recipe-51635-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, egg-free, freezer-friendly, gluten-free, keto, low-carb, make-ahead, no-bake, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "215 kcal",
+      "fatContent": "20.8 g",
+      "proteinContent": "4.3 g",
+      "carbohydrateContent": "1.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/no-bake-chocolate-peanut-butter-fat-bombs/"
+  },
+  "sourceIndex": {
+    "id": 25920,
+    "rid": 51635,
+    "t": "No Bake Chocolate Peanut Butter Fat Bombs",
+    "u": "/no-bake-chocolate-peanut-butter-fat-bombs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/04/nobakepbfatbombs1.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 1.9,
+    "cal": 215,
+    "pr": 4.3,
+    "fa": 20.8,
+    "tm": 35,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "egg-free",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-bake",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 8,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2015-04-08",
+    "cm": 57,
+    "ex": "I've been seeing a lot of pins on Pinterest for recipes on No Bake Oatmeal Power Bites. I wanted to create a keto friendly version, with a similar texture in mind. Because they're no bake, they're",
+    "pv": 668
+  },
+  "sourceHtml": "pages/no-bake-chocolate-peanut-butter-fat-bombs.html",
+  "scrapedAt": "2026-11-07T08:30:47.437Z"
+}

@@ -1,0 +1,311 @@
+{
+  "id": "ruled-38663",
+  "slug": "chimichurri-chicken-salad",
+  "title": "Chimichurri Chicken Salad",
+  "url": "https://www.ruled.me/chimichurri-chicken-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 5 servings of Chimichurri Chicken Salad. Each serving comes out to be 424 calories, 26.3g fats, 3.5g net carbs, and 37.9g protein.",
+  "servings": 5,
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "fatContent": "26.3 g",
+    "proteinContent": "37.9 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 424,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 37.9,
+    "fatGrams": 26.3
+  },
+  "ingredients": [
+    "250 gram mixed greens",
+    "20 ounce boneless, skinless chicken breast (cubed)",
+    "2 medium avocado (diced)",
+    "1/4 cup olive oil",
+    "3 tablespoon red wine vinegar",
+    "1/4 cup fresh parsley (chopped)",
+    "1 tablespoon dried oregano",
+    "1 teaspoon crushed red pepper flakes",
+    "1 teaspoon fresh garlic (minced)",
+    "salt and pepper (To taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat non-stick pan to medium heat. While pan is heating, place mixed greens and cubed avocado into a salad bowl, reserving some avocado as desired for topping.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-01.jpg"
+    },
+    {
+      "text": "Once pan is heated, add cubed chicken and a small amount of oil, if needed. (Some non-stick pans don't require any) Cook chicken until firm and no longer pink, stirring as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-02.jpg"
+    },
+    {
+      "text": "In a small bowl, thoroughly mix olive oil, vinegar, parsley, oregano, garlic, and chili flakes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-05.jpg"
+    },
+    {
+      "text": "Add the cubed chicken breasts to the salad and toss to coat with chimichurri dressing, reserving some dressing for topping.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-04.jpg"
+    },
+    {
+      "text": "Serve and top with additional chimichurri dressing and avocado, as desired. Add salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "poultry",
+    "quick",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "stovetop",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/ac3fe711ac5d5c37421b482a.avif",
+      "archived": true,
+      "originalPath": "images/ac3fe711ac5d5c37421b482a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-featured.jpg",
+      "path": "images/9ed6d813b534c3c9a6186aaa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-01.jpg",
+      "path": "../../nenaudojama/lunch/images/fbea05e1fc0c8f4b7caa443d.jpg",
+      "archived": true,
+      "originalPath": "images/fbea05e1fc0c8f4b7caa443d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-02.jpg",
+      "path": "../../nenaudojama/lunch/images/70b55207c5507b98d7bd590d.jpg",
+      "archived": true,
+      "originalPath": "images/70b55207c5507b98d7bd590d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-05.jpg",
+      "path": "../../nenaudojama/lunch/images/eb3c702b3413c2849ec25f44.jpg",
+      "archived": true,
+      "originalPath": "images/eb3c702b3413c2849ec25f44.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-04.jpg",
+      "path": "../../nenaudojama/lunch/images/1fbc25dfe942e52c608738bb.jpg",
+      "archived": true,
+      "originalPath": "images/1fbc25dfe942e52c608738bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-second.jpg",
+      "path": "../../nenaudojama/lunch/images/5e29cb9a94771779743f01ed.jpg",
+      "archived": true,
+      "originalPath": "images/5e29cb9a94771779743f01ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-03.jpg",
+      "path": "../../nenaudojama/lunch/images/9bf4bb5248f3fb5325cd4bb4.jpg",
+      "archived": true,
+      "originalPath": "images/9bf4bb5248f3fb5325cd4bb4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/0d00e12f8a5811d5f285c98f.jpg",
+      "archived": true,
+      "originalPath": "images/0d00e12f8a5811d5f285c98f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/167987cf6148642e2e17226b.jpg",
+      "archived": true,
+      "originalPath": "images/167987cf6148642e2e17226b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e54a5d86ea006a94b4dc3e10.jpg",
+      "archived": true,
+      "originalPath": "images/e54a5d86ea006a94b4dc3e10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/709df0d3dfc2d8b62d721b3c.jpg",
+      "archived": true,
+      "originalPath": "images/709df0d3dfc2d8b62d721b3c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/d6f1bc251b4f3fa05c0ce6b9.jpg",
+      "archived": true,
+      "originalPath": "images/d6f1bc251b4f3fa05c0ce6b9.jpg"
+    }
+  ],
+  "featuredImage": "images/9ed6d813b534c3c9a6186aaa.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chimichurri Chicken Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 5 servings of Chimichurri Chicken Salad. Each serving comes out to be 424 calories, 26.3g fats, 3.5g net carbs, and 37.9g protein.",
+    "datePublished": "2018-12-18T22:12:21+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "5",
+      "5 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "250 gram mixed greens",
+      "20 ounce boneless, skinless chicken breast (cubed)",
+      "2 medium avocado (diced)",
+      "1/4 cup olive oil",
+      "3 tablespoon red wine vinegar",
+      "1/4 cup fresh parsley (chopped)",
+      "1 tablespoon dried oregano",
+      "1 teaspoon crushed red pepper flakes",
+      "1 teaspoon fresh garlic (minced)",
+      "salt and pepper (To taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat non-stick pan to medium heat. While pan is heating, place mixed greens and cubed avocado into a salad bowl, reserving some avocado as desired for topping.",
+        "name": "Preheat non-stick pan to medium heat. While pan is heating, place mixed greens and cubed avocado into a salad bowl, reserving some avocado as desired for topping.",
+        "url": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once pan is heated, add cubed chicken and a small amount of oil, if needed. (Some non-stick pans don't require any) Cook chicken until firm and no longer pink, stirring as needed.",
+        "name": "Once pan is heated, add cubed chicken and a small amount of oil, if needed. (Some non-stick pans don't require any) Cook chicken until firm and no longer pink, stirring as needed.",
+        "url": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, thoroughly mix olive oil, vinegar, parsley, oregano, garlic, and chili flakes.",
+        "name": "In a small bowl, thoroughly mix olive oil, vinegar, parsley, oregano, garlic, and chili flakes.",
+        "url": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cubed chicken breasts to the salad and toss to coat with chimichurri dressing, reserving some dressing for topping.",
+        "name": "Add the cubed chicken breasts to the salad and toss to coat with chimichurri dressing, reserving some dressing for topping.",
+        "url": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and top with additional chimichurri dressing and avocado, as desired. Add salt and pepper to taste.",
+        "name": "Serve and top with additional chimichurri dressing and avocado, as desired. Add salt and pepper to taste.",
+        "url": "https://www.ruled.me/chimichurri-chicken-salad/#wprm-recipe-52826-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, gluten-free, high-protein, keto, low-carb, nut-free, poultry, quick, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "424 kcal",
+      "fatContent": "26.3 g",
+      "proteinContent": "37.9 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/chimichurri-chicken-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chimichurri-chicken-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chimichurri-chicken-salad/"
+  },
+  "sourceIndex": {
+    "id": 38663,
+    "rid": 52826,
+    "t": "Chimichurri Chicken Salad",
+    "u": "/chimichurri-chicken-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/12/chimichurri-chicken-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 424,
+    "pr": 37.9,
+    "fa": 26.3,
+    "tm": 25,
+    "sv": 5,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "poultry",
+      "quick",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "stovetop",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2018-12-18",
+    "cm": 0,
+    "ex": "This South American fusion dish is a festive meal for kids and adults. It’s an explosion of flavor and textures with spices, creamy avocado, greens, and chicken. You can use the chimichurri sauce as",
+    "pv": 175
+  },
+  "sourceHtml": "pages/chimichurri-chicken-salad.html",
+  "scrapedAt": "2026-11-07T08:16:52.810Z"
+}

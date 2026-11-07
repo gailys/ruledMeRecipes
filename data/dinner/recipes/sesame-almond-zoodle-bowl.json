@@ -1,0 +1,393 @@
+{
+  "id": "ruled-35266",
+  "slug": "sesame-almond-zoodle-bowl",
+  "title": "Sesame Almond Zoodle Bowl",
+  "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 3 servings of Sesame Almond Zoodle Bowl. Each serving comes out to be 327 calories, 28.8g fats, 7.3g net carbs, and 9.4g protein.",
+  "servings": 3,
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "totalMinutes": 25,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "327 kcal",
+    "fatContent": "28.8 g",
+    "proteinContent": "9.4 g",
+    "carbohydrateContent": "7.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 327,
+    "netCarbsGrams": 7.3,
+    "proteinGrams": 9.4,
+    "fatGrams": 28.8
+  },
+  "ingredients": [
+    "2 medium zucchini (spiralized)",
+    "1/2 cup shiitake mushrooms (sliced)",
+    "1 cup broccoli slaw",
+    "1 tablespoon avocado oil",
+    "1/4 cup almond butter",
+    "2 tablespoon soy sauce",
+    "2 tablespoon sesame oil",
+    "1/4 teaspoon garlic powder",
+    "1 teaspoon crushed red pepper flakes",
+    "1 teaspoon erythritol",
+    "2 tablespoon almonds (chopped to garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Heat 1 teaspoon of sesame oil in a large skillet on medium heat. Add the shredded broccoli cabbage mix, and mushrooms, and sauté until they begin to soften.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-01.jpg"
+    },
+    {
+      "text": "Make your zucchini noodles using a vegetable spiralizer and pat them dry with a towel to remove some of the excess moisture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-02.jpg"
+    },
+    {
+      "text": "Add your zoodles to the skillet and heat evenly by gently turning the zoodles with a fork or tongs until the noodles become soft but not soggy. This takes about 3-5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-03.jpg"
+    },
+    {
+      "text": "Mix your sauce by adding all ingredients in a large bowl and combining thoroughly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-04.jpg"
+    },
+    {
+      "text": "Add a touch more water or oil if necessary to reach a thin consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-05.jpg"
+    },
+    {
+      "text": "Portion your zoodles in three bowls and drizzle with sesame almond sauce then toss to coat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-07.jpg"
+    },
+    {
+      "text": "Top with chopped almonds and additional crushed red pepper flakes if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/01fe38bc7b299e295e18de88.jpg",
+      "archived": true,
+      "originalPath": "images/01fe38bc7b299e295e18de88.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-featured.jpg",
+      "path": "images/7d6f6d578ec0419920887d1c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-01.jpg",
+      "path": "../../nenaudojama/dinner/images/1ad14ce4a5b815ca8d2a317d.avif",
+      "archived": true,
+      "originalPath": "images/1ad14ce4a5b815ca8d2a317d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-02.jpg",
+      "path": "../../nenaudojama/dinner/images/db6f1ff8ea1b5748cbce3706.jpg",
+      "archived": true,
+      "originalPath": "images/db6f1ff8ea1b5748cbce3706.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-03.jpg",
+      "path": "../../nenaudojama/dinner/images/c8499aea5f5e8c32d6492760.avif",
+      "archived": true,
+      "originalPath": "images/c8499aea5f5e8c32d6492760.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-04.jpg",
+      "path": "../../nenaudojama/dinner/images/23dbe692c3b377a800c378be.avif",
+      "archived": true,
+      "originalPath": "images/23dbe692c3b377a800c378be.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-05.jpg",
+      "path": "../../nenaudojama/dinner/images/f28b861f4b00697c4cb833ff.avif",
+      "archived": true,
+      "originalPath": "images/f28b861f4b00697c4cb833ff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-07.jpg",
+      "path": "../../nenaudojama/dinner/images/912983b79324f69df7fce5a2.jpg",
+      "archived": true,
+      "originalPath": "images/912983b79324f69df7fce5a2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-second.jpg",
+      "path": "../../nenaudojama/dinner/images/39b3384c7cfbbe1da25c0136.avif",
+      "archived": true,
+      "originalPath": "images/39b3384c7cfbbe1da25c0136.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/8c6a5a86b682975d887f9fa0.jpg",
+      "archived": true,
+      "originalPath": "images/8c6a5a86b682975d887f9fa0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/a90fe8404d4953336f4a7968.avif",
+      "archived": true,
+      "originalPath": "images/a90fe8404d4953336f4a7968.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/2f426dc28c3b751a1e36231c.avif",
+      "archived": true,
+      "originalPath": "images/2f426dc28c3b751a1e36231c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/6e046ac2791fdbeac18a0872.avif",
+      "archived": true,
+      "originalPath": "images/6e046ac2791fdbeac18a0872.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/197dfbfe8fde90e15e502bda.jpg",
+      "archived": true,
+      "originalPath": "images/197dfbfe8fde90e15e502bda.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/22bd9a6d2b43b690f6a42b85.jpg",
+      "archived": true,
+      "originalPath": "images/22bd9a6d2b43b690f6a42b85.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/cca0f8d69dc0a0c9dde41d05.avif",
+      "archived": true,
+      "originalPath": "images/cca0f8d69dc0a0c9dde41d05.avif"
+    }
+  ],
+  "featuredImage": "images/7d6f6d578ec0419920887d1c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Sesame Almond Zoodle Bowl",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 3 servings of Sesame Almond Zoodle Bowl. Each serving comes out to be 327 calories, 28.8g fats, 7.3g net carbs, and 9.4g protein.",
+    "datePublished": "2018-01-11T12:00:20+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Recipe - Sesame Almond Zoodle Bowl",
+      "description": "The sesame almond zoodle bowl is the perfect vehicle for this amazing sauce. Peanut sauce has been one of my favorite dipping and drizzling sauces for everything from low carb egg rolls to an overflowing bowl of stir fry veggies. Sadly, I’ve recently begun reducing my peanut intake. I’ve been focusing on more recipes that incorporate keto-friendly nuts and nut butters like cashews and almonds and I have fallen in love!\n\nSwapping traditional peanut butter with almond butter for this sweet and savory sauce is the perfect stand-in for all of my beloved Asian-inspired recipes. It pairs beautifully with almost any stir fry veggie you pour it on and can be altered to be spicy or mild.\n\nThe best part? This zoodle bowl is almost better reheated the second day when all of the moisture from the noodles mixes and thickens with the sauce for an even creamier, dreamier, zoodle bowl!\n\nShredded cabbage and broccoli are stir-fried in just a touch of sesame oil and are tossed with zucchini noodles to make this “zoodle bowl” a quick and easy weeknight meal.\n\nTopped with the creamy almond butter sauce and crunchy chopped almonds, this bowl is brimming with healthy fats and packed with filling fiber. Serve this as a side with your favorite chicken or for my vegetarian friends, pair it with a hard-boiled soy egg!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nZoodles\n2 medium zucchini, spiralized\n½ cup sliced mushrooms\n1 cup shredded broccoli slaw*\n1 teaspoon sesame oil\n\nSauce\n¼ cup almond butter\n2 tablespoons soy sauce\n2 tablespoons sesame oil\n¼ teaspoon garlic powder\n1 teaspoon crushed red pepper flakes\n1 teaspoon erythritol\n2 tablespoon chopped almonds, garnish\nOptional: pinch of chili powder\n\n*This item usually comes as a bag blend that includes julienned carrot. As carrots are not recommended on keto, I remove the few carrot pieces that are included which is less work than shredding the other vegetables. You can certainly shred broccoli and stems by hand to accomplish this as well!\n\nNutrition Summary:\nThis makes a total of 3 servings of Low Carb Sesame Almond Zoodle Bowl. Each serving comes out to be 276 Calories, 24g Fat, 6g Net Carbs, and 8g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-12-31T15:00:31+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M21S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 3862
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 188
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 22
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z-MNIyFDnVg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Z-MNIyFDnVg?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=Z-MNIyFDnVg",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "3",
+      "3 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeIngredient": [
+      "2 medium zucchini (spiralized)",
+      "1/2 cup shiitake mushrooms (sliced)",
+      "1 cup broccoli slaw",
+      "1 tablespoon avocado oil",
+      "1/4 cup almond butter",
+      "2 tablespoon soy sauce",
+      "2 tablespoon sesame oil",
+      "1/4 teaspoon garlic powder",
+      "1 teaspoon crushed red pepper flakes",
+      "1 teaspoon erythritol",
+      "2 tablespoon almonds (chopped to garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat 1 teaspoon of sesame oil in a large skillet on medium heat. Add the shredded broccoli cabbage mix, and mushrooms, and sauté until they begin to soften.",
+        "name": "Heat 1 teaspoon of sesame oil in a large skillet on medium heat. Add the shredded broccoli cabbage mix, and mushrooms, and sauté until they begin to soften.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make your zucchini noodles using a vegetable spiralizer and pat them dry with a towel to remove some of the excess moisture.",
+        "name": "Make your zucchini noodles using a vegetable spiralizer and pat them dry with a towel to remove some of the excess moisture.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add your zoodles to the skillet and heat evenly by gently turning the zoodles with a fork or tongs until the noodles become soft but not soggy. This takes about 3-5 minutes.",
+        "name": "Add your zoodles to the skillet and heat evenly by gently turning the zoodles with a fork or tongs until the noodles become soft but not soggy. This takes about 3-5 minutes.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix your sauce by adding all ingredients in a large bowl and combining thoroughly.",
+        "name": "Mix your sauce by adding all ingredients in a large bowl and combining thoroughly.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add a touch more water or oil if necessary to reach a thin consistency.",
+        "name": "Add a touch more water or oil if necessary to reach a thin consistency.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Portion your zoodles in three bowls and drizzle with sesame almond sauce then toss to coat.",
+        "name": "Portion your zoodles in three bowls and drizzle with sesame almond sauce then toss to coat.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with chopped almonds and additional crushed red pepper flakes if desired.",
+        "name": "Top with chopped almonds and additional crushed red pepper flakes if desired.",
+        "url": "https://www.ruled.me/sesame-almond-zoodle-bowl/#wprm-recipe-52445-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Asian"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, keto, low-carb, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, vegan, vegetarian, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "327 kcal",
+      "fatContent": "28.8 g",
+      "proteinContent": "9.4 g",
+      "carbohydrateContent": "7.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/sesame-almond-zoodle-bowl/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/sesame-almond-zoodle-bowl/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/sesame-almond-zoodle-bowl/"
+  },
+  "sourceIndex": {
+    "id": 35266,
+    "rid": 52445,
+    "t": "Sesame Almond Zoodle Bowl",
+    "u": "/sesame-almond-zoodle-bowl/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/01/sesame-almond-zoodle-bowl-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 7.3,
+    "cal": 327,
+    "pr": 9.4,
+    "fa": 28.8,
+    "tm": 25,
+    "sv": 3,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2018-01-11",
+    "cm": 7,
+    "ex": "The sesame almond zoodle bowl is the perfect vehicle for this amazing sauce. Peanut sauce has been one of my favorite dipping and drizzling sauces for everything from low carb egg rolls to an",
+    "pv": 366
+  },
+  "sourceHtml": "pages/sesame-almond-zoodle-bowl.html",
+  "scrapedAt": "2026-11-07T08:27:44.622Z"
+}

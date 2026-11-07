@@ -1,0 +1,336 @@
+{
+  "id": "ruled-49050",
+  "slug": "keto-cheese-sauce",
+  "title": "Keto Cheese Sauce",
+  "url": "https://www.ruled.me/keto-cheese-sauce/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 9 servings of Keto Cheese Sauce. Each serving comes out to be 140 calories, 12.9g fats, 1g net carbs, and 5.1g protein.",
+  "servings": 9,
+  "yield": [
+    "9",
+    "9 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140 kcal",
+    "fatContent": "12.9 g",
+    "proteinContent": "5.1 g",
+    "carbohydrateContent": "1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 140,
+    "netCarbsGrams": 1,
+    "proteinGrams": 5.1,
+    "fatGrams": 12.9
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "2 tablespoon cream cheese",
+    "1/4 cup heavy cream",
+    "1/3 cup unsweetened almond milk",
+    "1 1/2 cup cheddar cheese"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-1.jpg"
+    },
+    {
+      "text": "In a saucepan, add all of the ingredients over low heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-2.jpg"
+    },
+    {
+      "text": "Stir constantly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-3.jpg"
+    },
+    {
+      "text": "Once everything is combined well, a bit thick, and hot, remove from heat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-4.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/55c5147996c770cd7a382012.avif",
+      "archived": true,
+      "originalPath": "images/55c5147996c770cd7a382012.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/e47ff728e2a1aeed055ac583.avif",
+      "archived": true,
+      "originalPath": "images/e47ff728e2a1aeed055ac583.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-1.jpg",
+      "path": "../../nenaudojama/condiments/images/2f7340b2af6a11dd0845a134.jpg",
+      "archived": true,
+      "originalPath": "images/2f7340b2af6a11dd0845a134.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-2.jpg",
+      "path": "../../nenaudojama/condiments/images/bf5938b196c9ecd67984652b.jpg",
+      "archived": true,
+      "originalPath": "images/bf5938b196c9ecd67984652b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-3.jpg",
+      "path": "../../nenaudojama/condiments/images/7340ff21ddee1c4f27ca1adf.jpg",
+      "archived": true,
+      "originalPath": "images/7340ff21ddee1c4f27ca1adf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-4.jpg",
+      "path": "../../nenaudojama/condiments/images/c31359ea4d78062cbbe414ef.jpg",
+      "archived": true,
+      "originalPath": "images/c31359ea4d78062cbbe414ef.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-second.jpg",
+      "path": "../../nenaudojama/condiments/images/bf6fe7c482aec445e066f586.jpg",
+      "archived": true,
+      "originalPath": "images/bf6fe7c482aec445e066f586.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/long.jpg",
+      "path": "../../nenaudojama/condiments/images/b10bbb1cb8b80b10178c917b.jpg",
+      "archived": true,
+      "originalPath": "images/b10bbb1cb8b80b10178c917b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-featured-300x300.jpg",
+      "path": "../../nenaudojama/condiments/images/412fbedfd8e44ebd2b31f984.avif",
+      "archived": true,
+      "originalPath": "images/412fbedfd8e44ebd2b31f984.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-1-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/eba508d8f090a4a3087da01f.avif",
+      "archived": true,
+      "originalPath": "images/eba508d8f090a4a3087da01f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-2-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/26da8b21983649facbed5b3d.jpg",
+      "archived": true,
+      "originalPath": "images/26da8b21983649facbed5b3d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-3-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d9ccb69a7249fdb6f8f92b00.jpg",
+      "archived": true,
+      "originalPath": "images/d9ccb69a7249fdb6f8f92b00.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-4-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/69ecda53737e703295673ab0.jpg",
+      "archived": true,
+      "originalPath": "images/69ecda53737e703295673ab0.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/e47ff728e2a1aeed055ac583.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cheese Sauce",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 9 servings of Keto Cheese Sauce. Each serving comes out to be 140 calories, 12.9g fats, 1g net carbs, and 5.1g protein.",
+    "datePublished": "2023-06-29T09:00:51+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Cheese Sauce [Low Carb Nacho Cheese]",
+      "description": "Cheese sauce is one of those foods that never fails to satisfy. Thick, gooey, and of course, cheesy, this keto cheese sauce can be whipped up very easily. Serve it on vegetables, with your favorite keto nachos, or even just on its own as a dip. No matter how you enjoy this cheese sauce, we know you’ll be going back for more.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 tablespoon butter\n2 teaspoon cream cheese\n1/4 cup heavy cream\n1/3 cup unsweetened almond milk\n1 1/2 cup cheddar cheese\n\nNutrition Summary: This makes a total of 9 servings of Keto Cheese Sauce. Each serving comes out to be 140 calories, 12.9g fat, 1g net carbs, and 5.1g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-09-17T15:00:42+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M19S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 14997
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 227
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 5
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xrUmtFIsYys/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/xrUmtFIsYys?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=xrUmtFIsYys",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "9",
+      "9 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "2 tablespoon cream cheese",
+      "1/4 cup heavy cream",
+      "1/3 cup unsweetened almond milk",
+      "1 1/2 cup cheddar cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients.",
+        "name": "Measure out and prepare all of the ingredients.",
+        "url": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, add all of the ingredients over low heat.",
+        "name": "In a saucepan, add all of the ingredients over low heat.",
+        "url": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir constantly.",
+        "name": "Stir constantly.",
+        "url": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once everything is combined well, a bit thick, and hot, remove from heat.",
+        "name": "Once everything is combined well, a bit thick, and hot, remove from heat.",
+        "url": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/keto-cheese-sauce/#wprm-recipe-54665-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Condiments",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, keto, low-carb, quick, simple-and-easy, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "140 kcal",
+      "fatContent": "12.9 g",
+      "proteinContent": "5.1 g",
+      "carbohydrateContent": "1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-cheese-sauce/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cheese-sauce/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cheese-sauce/"
+  },
+  "sourceIndex": {
+    "id": 49050,
+    "rid": 54665,
+    "t": "Keto Cheese Sauce",
+    "u": "/keto-cheese-sauce/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/05/Keto-Cheese-Sauce-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 1,
+    "cal": 140,
+    "pr": 5.1,
+    "fa": 12.9,
+    "tm": 10,
+    "sv": 9,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2023-06-29",
+    "cm": 0,
+    "ex": "Cheese sauce is one of those foods that never fails to satisfy. Thick, gooey, and of course, cheesy, this keto cheese sauce can be whipped up very easily. Serve it on vegetables, with your favorite",
+    "pv": 228
+  },
+  "sourceHtml": "pages/keto-cheese-sauce.html",
+  "scrapedAt": "2026-11-07T08:33:24.261Z"
+}

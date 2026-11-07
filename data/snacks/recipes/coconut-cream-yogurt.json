@@ -1,0 +1,357 @@
+{
+  "id": "ruled-15160",
+  "slug": "coconut-cream-yogurt",
+  "title": "Coconut Cream Yogurt",
+  "url": "https://www.ruled.me/coconut-cream-yogurt/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Coconut Cream Yogurt. Each serving comes out to be 326 calories, 34.8g fats, 3.8g net carbs, and 3.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT800M",
+  "totalTime": "PT805M",
+  "totalMinutes": 805,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "326 kcal",
+    "fatContent": "34.8 g",
+    "proteinContent": "3.1 g",
+    "carbohydrateContent": "3.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 326,
+    "netCarbsGrams": 3.8,
+    "proteinGrams": 3.1,
+    "fatGrams": 34.8
+  },
+  "ingredients": [
+    "13 1/2 ounce canned coconut milk",
+    "2 whole probiotic tablet (such as NOW Probiotic-10)",
+    "1/2 teaspoon xanthan gum",
+    "2/3 cup heavy whipping cream"
+  ],
+  "instructions": [
+    {
+      "text": "Open a can of coconut milk and stir it well to thoroughly mix the coconut water and cream.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3476.jpg"
+    },
+    {
+      "text": "Pour the coconut milk into a container or jar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3481.jpg"
+    },
+    {
+      "text": "Break the probiotic capsules into the coconut milk, distributing the amounts evenly if using more than one jar. Stir the mixture together well and place the lid(s) on the jar(s).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3483.jpg"
+    },
+    {
+      "text": "Turn on the oven light and place the jars in the oven. Close the oven door, keeping the light on, and let sit for 12–24 hours. The longer the bacteria can culture, the thicker the mixture will get, but the exact timing doesn't make too much of a difference here.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3487.jpg"
+    },
+    {
+      "text": "Empty all of the yogurt into a mixing bowl and sprinkle in the xanthan gum (use a little at a time, so as not to go overboard). Use a hand mixer to mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3722.jpg"
+    },
+    {
+      "text": "In a separate bowl, whip the heavy cream until stiff peaks form and it is almost solid.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3729.jpg"
+    },
+    {
+      "text": "Fold the cream into the yogurt and mix on a low speed until the desired consistency is reached.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3736.jpg"
+    },
+    {
+      "text": "Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/Yogurt.jpg",
+      "path": "../../nenaudojama/snacks/images/7183916ca99ec5870fda5c9b.jpg",
+      "archived": true,
+      "originalPath": "images/7183916ca99ec5870fda5c9b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3476.jpg",
+      "path": "../../nenaudojama/snacks/images/ae0ce923fbfd3a5362e1f888.jpg",
+      "archived": true,
+      "originalPath": "images/ae0ce923fbfd3a5362e1f888.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3481.jpg",
+      "path": "../../nenaudojama/snacks/images/50add036a90768878d3fd1f3.jpg",
+      "archived": true,
+      "originalPath": "images/50add036a90768878d3fd1f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3483.jpg",
+      "path": "../../nenaudojama/snacks/images/7a9791390ef596c4bad3b405.jpg",
+      "archived": true,
+      "originalPath": "images/7a9791390ef596c4bad3b405.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3487.jpg",
+      "path": "../../nenaudojama/snacks/images/592cb4dc06308ab67ba8d051.jpg",
+      "archived": true,
+      "originalPath": "images/592cb4dc06308ab67ba8d051.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3722.jpg",
+      "path": "../../nenaudojama/snacks/images/6cfa6dd78b5da65ad25fda08.jpg",
+      "archived": true,
+      "originalPath": "images/6cfa6dd78b5da65ad25fda08.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3729.jpg",
+      "path": "../../nenaudojama/snacks/images/87ac35b822117643b4cdb3b8.jpg",
+      "archived": true,
+      "originalPath": "images/87ac35b822117643b4cdb3b8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3736.jpg",
+      "path": "../../nenaudojama/snacks/images/cd1a90590b9698851aa7f01a.jpg",
+      "archived": true,
+      "originalPath": "images/cd1a90590b9698851aa7f01a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/YogurtSecond.jpg",
+      "path": "../../nenaudojama/snacks/images/cd11b5bb867d7aa1efc42b9d.jpg",
+      "archived": true,
+      "originalPath": "images/cd11b5bb867d7aa1efc42b9d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/YogurtLong.jpg",
+      "path": "../../nenaudojama/snacks/images/12c2daaa0545a696d0e22c15.jpg",
+      "archived": true,
+      "originalPath": "images/12c2daaa0545a696d0e22c15.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3476-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/6c85a83586179b4668f4316f.jpg",
+      "archived": true,
+      "originalPath": "images/6c85a83586179b4668f4316f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3481-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/b1e8733b558e780d83002ec3.jpg",
+      "archived": true,
+      "originalPath": "images/b1e8733b558e780d83002ec3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3483-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/d3165b1d889fc6b9ee35db2c.jpg",
+      "archived": true,
+      "originalPath": "images/d3165b1d889fc6b9ee35db2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3487-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/66f2cbedb5a7e2bba68f459c.jpg",
+      "archived": true,
+      "originalPath": "images/66f2cbedb5a7e2bba68f459c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3722-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/2ff36cac6047716236437a28.jpg",
+      "archived": true,
+      "originalPath": "images/2ff36cac6047716236437a28.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3729-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/e5ef66679f9079fd008d8bee.jpg",
+      "archived": true,
+      "originalPath": "images/e5ef66679f9079fd008d8bee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3736-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/36920d9284a1145da605675d.jpg",
+      "archived": true,
+      "originalPath": "images/36920d9284a1145da605675d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/7183916ca99ec5870fda5c9b.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Coconut Cream Yogurt",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Coconut Cream Yogurt. Each serving comes out to be 326 calories, 34.8g fats, 3.8g net carbs, and 3.1g protein.",
+    "datePublished": "2014-05-20T14:38:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/05/Yogurt.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT800M",
+    "totalTime": "PT805M",
+    "recipeIngredient": [
+      "13 1/2 ounce canned coconut milk",
+      "2 whole probiotic tablet (such as NOW Probiotic-10)",
+      "1/2 teaspoon xanthan gum",
+      "2/3 cup heavy whipping cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Open a can of coconut milk and stir it well to thoroughly mix the coconut water and cream.",
+        "name": "Open a can of coconut milk and stir it well to thoroughly mix the coconut water and cream.",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3476.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the coconut milk into a container or jar.",
+        "name": "Pour the coconut milk into a container or jar.",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3481.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Break the probiotic capsules into the coconut milk, distributing the amounts evenly if using more than one jar. Stir the mixture together well and place the lid(s) on the jar(s).",
+        "name": "Break the probiotic capsules into the coconut milk, distributing the amounts evenly if using more than one jar. Stir the mixture together well and place the lid(s) on the jar(s).",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3483.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn on the oven light and place the jars in the oven. Close the oven door, keeping the light on, and let sit for 12–24 hours. The longer the bacteria can culture, the thicker the mixture will get, but the exact timing doesn't make too much of a difference here.",
+        "name": "Turn on the oven light and place the jars in the oven. Close the oven door, keeping the light on, and let sit for 12–24 hours. The longer the bacteria can culture, the thicker the mixture will get, but the exact timing doesn't make too much of a difference here.",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3487.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Empty all of the yogurt into a mixing bowl and sprinkle in the xanthan gum (use a little at a time, so as not to go overboard). Use a hand mixer to mix well.",
+        "name": "Empty all of the yogurt into a mixing bowl and sprinkle in the xanthan gum (use a little at a time, so as not to go overboard). Use a hand mixer to mix well.",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3722.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, whip the heavy cream until stiff peaks form and it is almost solid.",
+        "name": "In a separate bowl, whip the heavy cream until stiff peaks form and it is almost solid.",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3729.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold the cream into the yogurt and mix on a low speed until the desired consistency is reached.",
+        "name": "Fold the cream into the yogurt and mix on a low speed until the desired consistency is reached.",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_3736.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy!",
+        "name": "Enjoy!",
+        "url": "https://www.ruled.me/coconut-cream-yogurt/#wprm-recipe-51109-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "egg-free, gluten-free, high-fat, keto, low-carb, make-ahead, nut-free, simple &amp; easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "326 kcal",
+      "fatContent": "34.8 g",
+      "proteinContent": "3.1 g",
+      "carbohydrateContent": "3.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/coconut-cream-yogurt/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/coconut-cream-yogurt/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/coconut-cream-yogurt/"
+  },
+  "sourceIndex": {
+    "id": 15160,
+    "rid": 51109,
+    "t": "Coconut Cream Yogurt",
+    "u": "/coconut-cream-yogurt/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/05/Yogurt.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.8,
+    "cal": 326,
+    "pr": 3.1,
+    "fa": 34.8,
+    "tm": 805,
+    "sv": 4,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "make-ahead"
+    ],
+    "d": "2014-05-20",
+    "cm": 29,
+    "ex": "Making your own yogurt might seem like a weird idea at first, but it's pretty simple and it's almost all hands off. We're going to culture the coconut milk in the oven using the light of the oven and",
+    "pv": 361
+  },
+  "sourceHtml": "pages/coconut-cream-yogurt.html",
+  "scrapedAt": "2026-11-07T08:31:36.258Z"
+}

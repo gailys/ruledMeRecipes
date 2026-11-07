@@ -1,0 +1,294 @@
+{
+  "id": "ruled-44227",
+  "slug": "pancakes-with-cream-cheese-topping",
+  "title": "Pancakes with Cream Cheese Topping",
+  "url": "https://www.ruled.me/pancakes-with-cream-cheese-topping/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Pancakes with Cream Cheese Topping . Each serving comes out to be 512 calories, 43.7g fats, 7g net carbs, and 19.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "512 kcal",
+    "fatContent": "43.7 g",
+    "proteinContent": "19.8 g",
+    "carbohydrateContent": "7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 512,
+    "netCarbsGrams": 7,
+    "proteinGrams": 19.8,
+    "fatGrams": 43.7
+  },
+  "ingredients": [
+    "8 ounce cream cheese",
+    "2 tablespoon olive oil",
+    "2 tablespoon pesto",
+    "1/2 medium red onion (sliced thin)",
+    "salt and pepper (to taste)",
+    "5 large egg",
+    "9 ounce cottage cheese",
+    "1 tablespoon psyllium husk powder",
+    "1 teaspoon fresh garlic (minced)",
+    "salt (to taste)",
+    "2 tablespoon butter (for frying)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-1.jpg"
+    },
+    {
+      "text": "In a bowl, make the cream cheese topping by mixing cream cheese, pesto, and half of the olive oil together. Stir until well combined and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-2.jpg"
+    },
+    {
+      "text": "Make the pancake batter next. In a bowl, add the eggs, cottage cheese, psyllium husk powder, minced garlic, and salt to taste. Mix until the consistency is smooth then let it sit for about 10 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-3.jpg"
+    },
+    {
+      "text": "In a frying pan, melt the butter on medium heat. Spoon the pancake batter into the pan, forming small circles about 2-3\" in diameter. Fry the pancakes on both sides until golden brown in color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-4.jpg"
+    },
+    {
+      "text": "Plate the pancakes and top with cream cheese topping, sliced onion, and remaining olive oil. Season additionally with salt and pepper if desired. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "stovetop",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/729616d14e72d2ae8d2a095d.jpg",
+      "archived": true,
+      "originalPath": "images/729616d14e72d2ae8d2a095d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Featured.jpg",
+      "path": "images/0568be660c31bfcf0e3c1143.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-1.jpg",
+      "path": "../../nenaudojama/breakfast/images/f18f3f0237bc75e4facb0e2f.avif",
+      "archived": true,
+      "originalPath": "images/f18f3f0237bc75e4facb0e2f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-2.jpg",
+      "path": "../../nenaudojama/breakfast/images/e96b41adb0bb5dad5fe889de.jpg",
+      "archived": true,
+      "originalPath": "images/e96b41adb0bb5dad5fe889de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-3.jpg",
+      "path": "../../nenaudojama/breakfast/images/f6046a45518d5298cf40e812.avif",
+      "archived": true,
+      "originalPath": "images/f6046a45518d5298cf40e812.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-4.jpg",
+      "path": "../../nenaudojama/breakfast/images/8c3d6df9f59095e033f2547f.avif",
+      "archived": true,
+      "originalPath": "images/8c3d6df9f59095e033f2547f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Second.jpg",
+      "path": "../../nenaudojama/breakfast/images/b6380cae25988426eb6ed7d1.jpg",
+      "archived": true,
+      "originalPath": "images/b6380cae25988426eb6ed7d1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Long.jpg",
+      "path": "../../nenaudojama/breakfast/images/3ff3d17428aa98caa0f0aafa.avif",
+      "archived": true,
+      "originalPath": "images/3ff3d17428aa98caa0f0aafa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Featured-300x300.jpg",
+      "path": "../../nenaudojama/breakfast/images/a3beef30b664f11037e336ea.avif",
+      "archived": true,
+      "originalPath": "images/a3beef30b664f11037e336ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-1-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4b040bedb735dfdab7d2e522.avif",
+      "archived": true,
+      "originalPath": "images/4b040bedb735dfdab7d2e522.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-2-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4a1a7bd86fe51b460deddf71.avif",
+      "archived": true,
+      "originalPath": "images/4a1a7bd86fe51b460deddf71.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-3-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/a14c0e56da74dbaa950b99f5.avif",
+      "archived": true,
+      "originalPath": "images/a14c0e56da74dbaa950b99f5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-4-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/daefe4ad33551aeb1b505197.avif",
+      "archived": true,
+      "originalPath": "images/daefe4ad33551aeb1b505197.avif"
+    }
+  ],
+  "featuredImage": "images/0568be660c31bfcf0e3c1143.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pancakes with Cream Cheese Topping",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Pancakes with Cream Cheese Topping . Each serving comes out to be 512 calories, 43.7g fats, 7g net carbs, and 19.8g protein.",
+    "datePublished": "2020-11-12T10:00:35+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "8 ounce cream cheese",
+      "2 tablespoon olive oil",
+      "2 tablespoon pesto",
+      "1/2 medium red onion (sliced thin)",
+      "salt and pepper (to taste)",
+      "5 large egg",
+      "9 ounce cottage cheese",
+      "1 tablespoon psyllium husk powder",
+      "1 teaspoon fresh garlic (minced)",
+      "salt (to taste)",
+      "2 tablespoon butter (for frying)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, make the cream cheese topping by mixing cream cheese, pesto, and half of the olive oil together. Stir until well combined and set aside.",
+        "name": "In a bowl, make the cream cheese topping by mixing cream cheese, pesto, and half of the olive oil together. Stir until well combined and set aside.",
+        "url": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make the pancake batter next. In a bowl, add the eggs, cottage cheese, psyllium husk powder, minced garlic, and salt to taste. Mix until the consistency is smooth then let it sit for about 10 minutes.",
+        "name": "Make the pancake batter next. In a bowl, add the eggs, cottage cheese, psyllium husk powder, minced garlic, and salt to taste. Mix until the consistency is smooth then let it sit for about 10 minutes.",
+        "url": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, melt the butter on medium heat. Spoon the pancake batter into the pan, forming small circles about 2-3\" in diameter. Fry the pancakes on both sides until golden brown in color.",
+        "name": "In a frying pan, melt the butter on medium heat. Spoon the pancake batter into the pan, forming small circles about 2-3\" in diameter. Fry the pancakes on both sides until golden brown in color.",
+        "url": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the pancakes and top with cream cheese topping, sliced onion, and remaining olive oil. Season additionally with salt and pepper if desired. Enjoy!",
+        "name": "Plate the pancakes and top with cream cheese topping, sliced onion, and remaining olive oil. Season additionally with salt and pepper if desired. Enjoy!",
+        "url": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#wprm-recipe-53561-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch",
+      "Side Items",
+      "Snacks"
+    ],
+    "keywords": "gluten-free, high-fat, keto, low-carb, stovetop, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "512 kcal",
+      "fatContent": "43.7 g",
+      "proteinContent": "19.8 g",
+      "carbohydrateContent": "7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pancakes-with-cream-cheese-topping/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pancakes-with-cream-cheese-topping/"
+  },
+  "sourceIndex": {
+    "id": 44227,
+    "rid": 53561,
+    "t": "Pancakes with Cream Cheese Topping",
+    "u": "/pancakes-with-cream-cheese-topping/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/11/Pancakes-with-Cream-Cheese-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7,
+    "cal": 512,
+    "pr": 19.8,
+    "fa": 43.7,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "stovetop",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "stovetop"
+    ],
+    "d": "2020-11-12",
+    "cm": 4,
+    "ex": "Pancakes are one of the many breakfast foods that are almost always too high in carbs for the keto diet when prepared traditionally. This is the ultimate flour-less low carb, high fat pancake recipe",
+    "pv": 200
+  },
+  "sourceHtml": "pages/pancakes-with-cream-cheese-topping.html",
+  "scrapedAt": "2026-11-07T08:11:12.425Z"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "ruled-31607",
+  "slug": "creamy-keto-potato-salad",
+  "title": "Creamy Keto \"Potato\" Salad",
+  "url": "https://www.ruled.me/creamy-keto-potato-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Creamy Keto \"Potato\" Salad. Each serving comes out to be 225 calories, 19.8g fats, 3.2g net carbs, and 6.7g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT60M",
+  "totalTime": "PT70M",
+  "totalMinutes": 70,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "fatContent": "19.8 g",
+    "proteinContent": "6.7 g",
+    "carbohydrateContent": "3.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 225,
+    "netCarbsGrams": 3.2,
+    "proteinGrams": 6.7,
+    "fatGrams": 19.8
+  },
+  "ingredients": [
+    "588 gram cauliflower",
+    "1/4 cup sour cream",
+    "1/2 cup mayonnaise",
+    "2 tablespoon white vinegar",
+    "1 tablespoon yellow mustard",
+    "1 teaspoon celery seed",
+    "1/4 teaspoon salt",
+    "4 large hard-boiled egg (reseve half of the egg yolks and chop the rest)",
+    "50 gram celery (diced)",
+    "1 teaspoon fresh dill",
+    "30 gram green onion (thinly sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "Prepare the cauliflower by cutting the head into bite-sized florets and steaming in a silicone steamer (as shown) for 3–4 minutes, or in a stovetop steamer, until the cauliflower is only slightly tender. Set aside to cool.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-01.jpg"
+    },
+    {
+      "text": "Make the dressing by whisking together the sour cream, mayo, vinegar, mustard, celery seed, and salt.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-02.jpg"
+    },
+    {
+      "text": "Mash the reserved egg yolks into the cream mixture and whisk until very smooth.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-03.jpg"
+    },
+    {
+      "text": "Add the cooled cauliflower, chopped hard-boiled eggs, celery, green onion, and dill. Stir to coat everything evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-06.jpg"
+    },
+    {
+      "text": "Refrigerate for about 1 hour to allow the cauliflower to completely cool and the flavors to meld. Garnish with a bit of extra green onion and serve cold!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "party-food",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "stovetop",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-featured-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/61829b3be75542e72f2f261e.jpg",
+      "archived": true,
+      "originalPath": "images/61829b3be75542e72f2f261e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-featured.jpg",
+      "path": "../../nenaudojama/side-items/images/13d2ff2875717b3327c5ceae.avif",
+      "archived": true,
+      "originalPath": "images/13d2ff2875717b3327c5ceae.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-01.jpg",
+      "path": "../../nenaudojama/side-items/images/b009017a87a86789c8ac50e7.avif",
+      "archived": true,
+      "originalPath": "images/b009017a87a86789c8ac50e7.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-02.jpg",
+      "path": "../../nenaudojama/side-items/images/879427d55b064bd4fcbc7266.avif",
+      "archived": true,
+      "originalPath": "images/879427d55b064bd4fcbc7266.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-03.jpg",
+      "path": "../../nenaudojama/side-items/images/a228ce99e4cb4d2c5e6b391c.avif",
+      "archived": true,
+      "originalPath": "images/a228ce99e4cb4d2c5e6b391c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-06.jpg",
+      "path": "../../nenaudojama/side-items/images/412a0d9f4279df48dd6ad7cb.jpg",
+      "archived": true,
+      "originalPath": "images/412a0d9f4279df48dd6ad7cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-second.jpg",
+      "path": "../../nenaudojama/side-items/images/0d72a5cf675a076da891d233.avif",
+      "archived": true,
+      "originalPath": "images/0d72a5cf675a076da891d233.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-pin.jpg",
+      "path": "../../nenaudojama/side-items/images/55fd034fbce367e00d155500.avif",
+      "archived": true,
+      "originalPath": "images/55fd034fbce367e00d155500.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5593f2c3c006ebbf5995a9ce.avif",
+      "archived": true,
+      "originalPath": "images/5593f2c3c006ebbf5995a9ce.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-02-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d5197adb7d45bcb83d5a6e0d.avif",
+      "archived": true,
+      "originalPath": "images/d5197adb7d45bcb83d5a6e0d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/853e211e713ab87133cc6411.avif",
+      "archived": true,
+      "originalPath": "images/853e211e713ab87133cc6411.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-06-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d668872fe8bfa7f7df81cc7e.avif",
+      "archived": true,
+      "originalPath": "images/d668872fe8bfa7f7df81cc7e.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/13d2ff2875717b3327c5ceae.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Creamy Keto \"Potato\" Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Creamy Keto &quot;Potato&quot; Salad. Each serving comes out to be 225 calories, 19.8g fats, 3.2g net carbs, and 6.7g protein.",
+    "datePublished": "2017-08-17T11:00:38+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT60M",
+    "totalTime": "PT70M",
+    "recipeIngredient": [
+      "588 gram cauliflower",
+      "1/4 cup sour cream",
+      "1/2 cup mayonnaise",
+      "2 tablespoon white vinegar",
+      "1 tablespoon yellow mustard",
+      "1 teaspoon celery seed",
+      "1/4 teaspoon salt",
+      "4 large hard-boiled egg (reseve half of the egg yolks and chop the rest)",
+      "50 gram celery (diced)",
+      "1 teaspoon fresh dill",
+      "30 gram green onion (thinly sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the cauliflower by cutting the head into bite-sized florets and steaming in a silicone steamer (as shown) for 3–4 minutes, or in a stovetop steamer, until the cauliflower is only slightly tender. Set aside to cool.",
+        "name": "Prepare the cauliflower by cutting the head into bite-sized florets and steaming in a silicone steamer (as shown) for 3–4 minutes, or in a stovetop steamer, until the cauliflower is only slightly tender. Set aside to cool.",
+        "url": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make the dressing by whisking together the sour cream, mayo, vinegar, mustard, celery seed, and salt.",
+        "name": "Make the dressing by whisking together the sour cream, mayo, vinegar, mustard, celery seed, and salt.",
+        "url": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mash the reserved egg yolks into the cream mixture and whisk until very smooth.",
+        "name": "Mash the reserved egg yolks into the cream mixture and whisk until very smooth.",
+        "url": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooled cauliflower, chopped hard-boiled eggs, celery, green onion, and dill. Stir to coat everything evenly.",
+        "name": "Add the cooled cauliflower, chopped hard-boiled eggs, celery, green onion, and dill. Stir to coat everything evenly.",
+        "url": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Refrigerate for about 1 hour to allow the cauliflower to completely cool and the flavors to meld. Garnish with a bit of extra green onion and serve cold!",
+        "name": "Refrigerate for about 1 hour to allow the cauliflower to completely cool and the flavors to meld. Garnish with a bit of extra green onion and serve cold!",
+        "url": "https://www.ruled.me/creamy-keto-potato-salad/#wprm-recipe-52281-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Salad",
+      "Side Items"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "gluten-free, keto, low-carb, make-ahead, nut-free, party-food, simple &amp; easy, simple-and-easy, stovetop, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225 kcal",
+      "fatContent": "19.8 g",
+      "proteinContent": "6.7 g",
+      "carbohydrateContent": "3.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/creamy-keto-potato-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/creamy-keto-potato-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/creamy-keto-potato-salad/"
+  },
+  "sourceIndex": {
+    "id": 31607,
+    "rid": 52281,
+    "t": "Creamy Keto “Potato” Salad",
+    "u": "/creamy-keto-potato-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/07/faux-keto-potato-salad-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 3.2,
+    "cal": 225,
+    "pr": 6.7,
+    "fa": 19.8,
+    "tm": 70,
+    "sv": 6,
+    "kw": [
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "party-food",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 11,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "stovetop",
+      "make-ahead"
+    ],
+    "d": "2017-08-17",
+    "cm": 19,
+    "ex": "There are a few foods that I have never been able to bring myself to buy pre-made. Guacamole is one because the amount of work involved is worth the fresh taste. The other is potato salad. Why would",
+    "pv": 636
+  },
+  "sourceHtml": "pages/creamy-keto-potato-salad.html",
+  "scrapedAt": "2026-11-07T08:32:33.468Z"
+}

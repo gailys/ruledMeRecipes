@@ -1,0 +1,306 @@
+{
+  "id": "ruled-9134",
+  "slug": "double-peanut-butter-balls",
+  "title": "Double Peanut Butter Balls",
+  "url": "https://www.ruled.me/double-peanut-butter-balls/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Double Peanut Butter Balls. Each serving comes out to be 172 calories, 16.8g fats, 2g net carbs, and 3.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT60M",
+  "cookTime": "PT0M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "172 kcal",
+    "fatContent": "16.8 g",
+    "proteinContent": "3.9 g",
+    "carbohydrateContent": "2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 172,
+    "netCarbsGrams": 2,
+    "proteinGrams": 3.9,
+    "fatGrams": 16.8
+  },
+  "ingredients": [
+    "2 tablespoon peanut butter",
+    "2 tablespoon almond butter",
+    "2 tablespoon butter",
+    "2 tablespoon heavy whipping cream",
+    "1 1/2 teaspoon erythritol",
+    "4 drop liquid stevia"
+  ],
+  "instructions": [
+    {
+      "text": "In a small container, measure out peanut butter and almond butter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-01.jpg"
+    },
+    {
+      "text": "Add butter and heavy cream to the nut butters.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-02.jpg"
+    },
+    {
+      "text": "Add erythritol and liquid stevia.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-03.jpg"
+    },
+    {
+      "text": "Mix everything well, so it is all combined. Leave butter in chunks so you get small chunks as you eat. (I'm very well known for eating it just like this.)",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-05.jpg"
+    },
+    {
+      "text": "Let the mixture sit in the freezer for 20-40 minutes. You want it to get to a consistency you can work with.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-06.jpg"
+    },
+    {
+      "text": "Roll the mixture into serving sized balls and garnish with peanuts. If you like, you can also add sprigs of mint.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/ce82fcd8b638435e214b02bf.jpg",
+      "archived": true,
+      "originalPath": "images/ce82fcd8b638435e214b02bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-featured.jpg",
+      "path": "images/d4c0f087002386e7794d5db7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-01.jpg",
+      "path": "../../nenaudojama/dessert/images/c67fbde6fe3d410013198183.jpg",
+      "archived": true,
+      "originalPath": "images/c67fbde6fe3d410013198183.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-02.jpg",
+      "path": "../../nenaudojama/dessert/images/950731a5ac5da453798d8e3f.jpg",
+      "archived": true,
+      "originalPath": "images/950731a5ac5da453798d8e3f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-03.jpg",
+      "path": "../../nenaudojama/dessert/images/d3576023257c77ed4e63df99.jpg",
+      "archived": true,
+      "originalPath": "images/d3576023257c77ed4e63df99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-05.jpg",
+      "path": "../../nenaudojama/dessert/images/5f08769b242a7c71be243b80.jpg",
+      "archived": true,
+      "originalPath": "images/5f08769b242a7c71be243b80.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-06.jpg",
+      "path": "../../nenaudojama/dessert/images/70ddf8d44dd0f4102bde87bd.jpg",
+      "archived": true,
+      "originalPath": "images/70ddf8d44dd0f4102bde87bd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/52dfc7afe19c6cf5d4e534e4.jpg",
+      "archived": true,
+      "originalPath": "images/52dfc7afe19c6cf5d4e534e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/1ea57049136dbfd6c5ab9c49.jpg",
+      "archived": true,
+      "originalPath": "images/1ea57049136dbfd6c5ab9c49.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-02-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/07605d9a886c799f50f3717e.jpg",
+      "archived": true,
+      "originalPath": "images/07605d9a886c799f50f3717e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-03-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/414da4a2e2f2308bac6228f3.jpg",
+      "archived": true,
+      "originalPath": "images/414da4a2e2f2308bac6228f3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9abac7ab68b0e7f550b7a01c.jpg",
+      "archived": true,
+      "originalPath": "images/9abac7ab68b0e7f550b7a01c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-06-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/5cdb9031f8fb86bfa859ce77.jpg",
+      "archived": true,
+      "originalPath": "images/5cdb9031f8fb86bfa859ce77.jpg"
+    }
+  ],
+  "featuredImage": "images/d4c0f087002386e7794d5db7.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Double Peanut Butter Balls",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Double Peanut Butter Balls. Each serving comes out to be 172 calories, 16.8g fats, 2g net carbs, and 3.9g protein.",
+    "datePublished": "2014-02-18T14:32:09+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT60M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "2 tablespoon peanut butter",
+      "2 tablespoon almond butter",
+      "2 tablespoon butter",
+      "2 tablespoon heavy whipping cream",
+      "1 1/2 teaspoon erythritol",
+      "4 drop liquid stevia"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a small container, measure out peanut butter and almond butter.",
+        "name": "In a small container, measure out peanut butter and almond butter.",
+        "url": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add butter and heavy cream to the nut butters.",
+        "name": "Add butter and heavy cream to the nut butters.",
+        "url": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add erythritol and liquid stevia.",
+        "name": "Add erythritol and liquid stevia.",
+        "url": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix everything well, so it is all combined. Leave butter in chunks so you get small chunks as you eat. (I'm very well known for eating it just like this.)",
+        "name": "Mix everything well, so it is all combined. Leave butter in chunks so you get small chunks as you eat. (I'm very well known for eating it just like this.)",
+        "url": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the mixture sit in the freezer for 20-40 minutes. You want it to get to a consistency you can work with.",
+        "name": "Let the mixture sit in the freezer for 20-40 minutes. You want it to get to a consistency you can work with.",
+        "url": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll the mixture into serving sized balls and garnish with peanuts. If you like, you can also add sprigs of mint.",
+        "name": "Roll the mixture into serving sized balls and garnish with peanuts. If you like, you can also add sprigs of mint.",
+        "url": "https://www.ruled.me/double-peanut-butter-balls/#wprm-recipe-50425-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "beginner-friendly, egg-free, gluten-free, keto, low-carb, no-bake, no-cook, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "172 kcal",
+      "fatContent": "16.8 g",
+      "proteinContent": "3.9 g",
+      "carbohydrateContent": "2 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/double-peanut-butter-balls/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/double-peanut-butter-balls/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/double-peanut-butter-balls/"
+  },
+  "sourceIndex": {
+    "id": 9134,
+    "rid": 50425,
+    "t": "Double Peanut Butter Balls",
+    "u": "/double-peanut-butter-balls/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/02/double-peanut-butter-balls-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2,
+    "cal": 172,
+    "pr": 3.9,
+    "fa": 16.8,
+    "tm": 60,
+    "sv": 4,
+    "kw": [
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2014-02-18",
+    "cm": 11,
+    "ex": "You'd imagine from all the recipes that I make, that my favorite dessert would be something baked, something very out of the ordinary, or something difficult to make. Well, that's far from the truth",
+    "pv": 88
+  },
+  "sourceHtml": "pages/double-peanut-butter-balls.html",
+  "scrapedAt": "2026-11-07T08:30:47.598Z"
+}

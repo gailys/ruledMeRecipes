@@ -1,0 +1,336 @@
+{
+  "id": "ruled-50078",
+  "slug": "smoked-salmon-fat-bombs",
+  "title": "Smoked Salmon Fat Bombs",
+  "url": "https://www.ruled.me/smoked-salmon-fat-bombs/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Smoked Salmon Fat Bombs. The serving comes out to be 430 calories, 35.3g fats, 0.5g net carbs, and 27.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT660M",
+  "cookTime": "PT0M",
+  "totalTime": "PT660M",
+  "totalMinutes": 660,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "430 kcal",
+    "fatContent": "35.3 g",
+    "proteinContent": "27.7 g",
+    "carbohydrateContent": "0.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 430,
+    "netCarbsGrams": 0.5,
+    "proteinGrams": 27.7,
+    "fatGrams": 35.3
+  },
+  "ingredients": [
+    "1/4 cup goat cheese (room temperature)",
+    "2 tablespoon butter (room temperature)",
+    "4 ounce smoked salmon",
+    "2 teaspoon lemon juice (freshly squeezed)",
+    "ground black pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather and prep all ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-1.jpg"
+    },
+    {
+      "text": "Chop smoked salmon into fine pieces. It doesn't have to be perfect - just do the best you can.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-2.jpg"
+    },
+    {
+      "text": "Mix together the smoked salmon, goats cheese, butter, and lemon juice.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-3.jpg"
+    },
+    {
+      "text": "Season with black pepper to taste. Line a container (that can be sealed) with parchment paper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-4.jpg"
+    },
+    {
+      "text": "Scoop the mixture and form into ~1 inch balls. Place the balls into the parchment-lined container. Set in the fridge overnight (or at minimum a few hours) for the mixture to firm up.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-5.jpg"
+    },
+    {
+      "text": "Serve as needed and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "meal-prep",
+    "no-cook",
+    "nut-free",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "meal-prep",
+    "make-ahead",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/09dee07256e6192b79e9a6cf.jpg",
+      "archived": true,
+      "originalPath": "images/09dee07256e6192b79e9a6cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/15506052ac04cadddc77a862.jpg",
+      "archived": true,
+      "originalPath": "images/15506052ac04cadddc77a862.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-1.jpg",
+      "path": "../../nenaudojama/snacks/images/9a5770238bf6d5d20b96adc2.jpg",
+      "archived": true,
+      "originalPath": "images/9a5770238bf6d5d20b96adc2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-2.jpg",
+      "path": "../../nenaudojama/snacks/images/3cf27ce7b1abc22a0ed99437.jpg",
+      "archived": true,
+      "originalPath": "images/3cf27ce7b1abc22a0ed99437.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-3.jpg",
+      "path": "../../nenaudojama/snacks/images/447a6f54eabffbcf67b0cf40.jpg",
+      "archived": true,
+      "originalPath": "images/447a6f54eabffbcf67b0cf40.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-4.jpg",
+      "path": "../../nenaudojama/snacks/images/ebd5d887652f249a3519381a.jpg",
+      "archived": true,
+      "originalPath": "images/ebd5d887652f249a3519381a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-5.jpg",
+      "path": "../../nenaudojama/snacks/images/cf8d42663b8c238e20df0459.jpg",
+      "archived": true,
+      "originalPath": "images/cf8d42663b8c238e20df0459.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/660230e52708018e82053627.jpg",
+      "archived": true,
+      "originalPath": "images/660230e52708018e82053627.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/49fe60ad1f8beba3e400da4f.jpg",
+      "archived": true,
+      "originalPath": "images/49fe60ad1f8beba3e400da4f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/66f3624a72ae99bf7b186053.jpg",
+      "archived": true,
+      "originalPath": "images/66f3624a72ae99bf7b186053.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/65f2314f8bedc64e489246d3.avif",
+      "archived": true,
+      "originalPath": "images/65f2314f8bedc64e489246d3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/aafe37ff34ad109d4aaf52cf.jpg",
+      "archived": true,
+      "originalPath": "images/aafe37ff34ad109d4aaf52cf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/d1c5f831b24a4a7c1c15336d.avif",
+      "archived": true,
+      "originalPath": "images/d1c5f831b24a4a7c1c15336d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-4-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/f07ff460eaf7ff733e5fe272.avif",
+      "archived": true,
+      "originalPath": "images/f07ff460eaf7ff733e5fe272.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-5-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/5d8ba1d88d9434d71815196b.avif",
+      "archived": true,
+      "originalPath": "images/5d8ba1d88d9434d71815196b.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/15506052ac04cadddc77a862.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Smoked Salmon Fat Bombs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Smoked Salmon Fat Bombs. The serving comes out to be 430 calories, 35.3g fats, 0.5g net carbs, and 27.7g protein.",
+    "datePublished": "2024-03-28T09:34:56+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Featured.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT660M",
+    "totalTime": "PT660M",
+    "recipeIngredient": [
+      "1/4 cup goat cheese (room temperature)",
+      "2 tablespoon butter (room temperature)",
+      "4 ounce smoked salmon",
+      "2 teaspoon lemon juice (freshly squeezed)",
+      "ground black pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather and prep all ingredients.",
+        "name": "Gather and prep all ingredients.",
+        "url": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop smoked salmon into fine pieces. It doesn't have to be perfect - just do the best you can.",
+        "name": "Chop smoked salmon into fine pieces. It doesn't have to be perfect - just do the best you can.",
+        "url": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the smoked salmon, goats cheese, butter, and lemon juice.",
+        "name": "Mix together the smoked salmon, goats cheese, butter, and lemon juice.",
+        "url": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with black pepper to taste. Line a container (that can be sealed) with parchment paper.",
+        "name": "Season with black pepper to taste. Line a container (that can be sealed) with parchment paper.",
+        "url": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop the mixture and form into ~1 inch balls. Place the balls into the parchment-lined container. Set in the fridge overnight (or at minimum a few hours) for the mixture to firm up.",
+        "name": "Scoop the mixture and form into ~1 inch balls. Place the balls into the parchment-lined container. Set in the fridge overnight (or at minimum a few hours) for the mixture to firm up.",
+        "url": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve as needed and enjoy!",
+        "name": "Serve as needed and enjoy!",
+        "url": "https://www.ruled.me/smoked-salmon-fat-bombs/#wprm-recipe-54973-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Mediterranean"
+    ],
+    "keywords": "egg-free, fish, gluten-free, high-fat, high-protein, keto, low-carb, make-ahead, meal-prep, no-cook, nut-free, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "430 kcal",
+      "fatContent": "35.3 g",
+      "proteinContent": "27.7 g",
+      "carbohydrateContent": "0.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/smoked-salmon-fat-bombs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/smoked-salmon-fat-bombs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/smoked-salmon-fat-bombs/"
+  },
+  "sourceIndex": {
+    "id": 50078,
+    "rid": 54973,
+    "t": "Smoked Salmon Fat Bombs",
+    "u": "/smoked-salmon-fat-bombs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2024/03/Smoked-Salmon-Fat-Bombs-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 0.5,
+    "cal": 430,
+    "pr": 27.7,
+    "fa": 35.3,
+    "tm": 660,
+    "sv": 1,
+    "kw": [
+      "egg-free",
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "meal-prep",
+      "no-cook",
+      "nut-free",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "meal-prep",
+      "make-ahead",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2024-03-28",
+    "cm": 0,
+    "ex": "Elevate your snacking experience to new heights with this irresistible recipe. These smoked salmon balls are perfect for those following a low-carb lifestyle or simply looking for a flavorful and",
+    "pv": 219
+  },
+  "sourceHtml": "pages/smoked-salmon-fat-bombs.html",
+  "scrapedAt": "2026-11-07T08:30:42.620Z"
+}

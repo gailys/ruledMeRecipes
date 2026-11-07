@@ -1,0 +1,315 @@
+{
+  "id": "ruled-14295",
+  "slug": "simple-delicious-guacamole",
+  "title": "Simple, Delicious Guacamole",
+  "url": "https://www.ruled.me/simple-delicious-guacamole/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 32 servings of Simple, Delicious Guacamole. Each serving comes out to be 20 calories, 1.7g fats, 0.4g net carbs, and 0.3g protein.",
+  "servings": 32,
+  "yield": [
+    "32",
+    "32 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "20 kcal",
+    "fatContent": "1.7 g",
+    "proteinContent": "0.3 g",
+    "carbohydrateContent": "0.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 20,
+    "netCarbsGrams": 0.4,
+    "proteinGrams": 0.3,
+    "fatGrams": 1.7
+  },
+  "ingredients": [
+    "2 medium avocado",
+    "1/3 medium red onion",
+    "1 medium jalapeno pepper",
+    "1 tablespoon lime juice",
+    "2 tablespoon salsa",
+    "salt and pepper (to taste)",
+    "1 ounce fresh cilantro"
+  ],
+  "instructions": [
+    {
+      "text": "Slice avocados in half, then take the pit out by slamming your knife into the pit and twisting while you pull. Slice the avocados in the shell by slicing through the meat horizontally and vertically.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2300.jpg"
+    },
+    {
+      "text": "Prep the vegetables. Get the limes (or lime, depending on size) ready by slicing them in half. Slice the red onions somewhat thin, but thick enough to add a crunchy texture. Finally, dice the jalapeno into small pieces and take out the seeds, if you do not like your food too spicy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2303.jpg"
+    },
+    {
+      "text": "In a bowl, combine all ingredients. To get the meat out of the avocado, use a spoon to scoop it out of the shell.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2305.jpg"
+    },
+    {
+      "text": "Add salsa and the juice of the limes to the mixture. Add salt and pepper to your taste and mix well. Mash some of the avocado, using a fork to get the proper consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2310.jpg"
+    },
+    {
+      "text": "Coarsely chop cilantro and add it to your guacamole. Fold it in carefully so that you don't make the guacamole too smooth. Garnish with some fresh cilantro and lime on the side and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2315.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SimpleGuacamoleOverhead.jpg",
+      "path": "../../nenaudojama/condiments/images/c2c1dd189cf33909c5860892.avif",
+      "archived": true,
+      "originalPath": "images/c2c1dd189cf33909c5860892.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2300.jpg",
+      "path": "../../nenaudojama/condiments/images/4f381aac4ba77b7a060e4cbb.jpg",
+      "archived": true,
+      "originalPath": "images/4f381aac4ba77b7a060e4cbb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2303.jpg",
+      "path": "../../nenaudojama/condiments/images/7da566cd53b075e95975d68b.avif",
+      "archived": true,
+      "originalPath": "images/7da566cd53b075e95975d68b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2305.jpg",
+      "path": "../../nenaudojama/condiments/images/858f64bd91889552ab0c6aa1.jpg",
+      "archived": true,
+      "originalPath": "images/858f64bd91889552ab0c6aa1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2310.jpg",
+      "path": "../../nenaudojama/condiments/images/f967bd34fc5f193366baf4a4.jpg",
+      "archived": true,
+      "originalPath": "images/f967bd34fc5f193366baf4a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2315.jpg",
+      "path": "../../nenaudojama/condiments/images/e3f563986bc7ad935d3dcb2e.jpg",
+      "archived": true,
+      "originalPath": "images/e3f563986bc7ad935d3dcb2e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SimpleGuacamoleSecond.jpg",
+      "path": "../../nenaudojama/condiments/images/8a4ad90f1b56c7031c522cad.jpg",
+      "archived": true,
+      "originalPath": "images/8a4ad90f1b56c7031c522cad.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/SimpleGuacamoleLong.jpg",
+      "path": "../../nenaudojama/condiments/images/c0d252fd3641da1e312589bb.jpg",
+      "archived": true,
+      "originalPath": "images/c0d252fd3641da1e312589bb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2300-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/6cd4e12d08de860bc2a5fe5f.jpg",
+      "archived": true,
+      "originalPath": "images/6cd4e12d08de860bc2a5fe5f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2303-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/79921653ffed55bdb84ebb95.jpg",
+      "archived": true,
+      "originalPath": "images/79921653ffed55bdb84ebb95.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2305-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/b2f3448f1ab080a6e46e8d47.jpg",
+      "archived": true,
+      "originalPath": "images/b2f3448f1ab080a6e46e8d47.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2310-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/2543060d0e53449743ef123f.jpg",
+      "archived": true,
+      "originalPath": "images/2543060d0e53449743ef123f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2315-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/79f500e2c4e3299d55568a4d.jpg",
+      "archived": true,
+      "originalPath": "images/79f500e2c4e3299d55568a4d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/c2c1dd189cf33909c5860892.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Simple, Delicious Guacamole",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 32 servings of Simple, Delicious Guacamole. Each serving comes out to be 20 calories, 1.7g fats, 0.4g net carbs, and 0.3g protein.",
+    "datePublished": "2014-05-05T15:05:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/05/SimpleGuacamoleOverhead.jpg"
+    ],
+    "recipeYield": [
+      "32",
+      "32 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 medium avocado",
+      "1/3 medium red onion",
+      "1 medium jalapeno pepper",
+      "1 tablespoon lime juice",
+      "2 tablespoon salsa",
+      "salt and pepper (to taste)",
+      "1 ounce fresh cilantro"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice avocados in half, then take the pit out by slamming your knife into the pit and twisting while you pull. Slice the avocados in the shell by slicing through the meat horizontally and vertically.",
+        "name": "Slice avocados in half, then take the pit out by slamming your knife into the pit and twisting while you pull. Slice the avocados in the shell by slicing through the meat horizontally and vertically.",
+        "url": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2300.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prep the vegetables. Get the limes (or lime, depending on size) ready by slicing them in half. Slice the red onions somewhat thin, but thick enough to add a crunchy texture. Finally, dice the jalapeno into small pieces and take out the seeds, if you do not like your food too spicy.",
+        "name": "Prep the vegetables. Get the limes (or lime, depending on size) ready by slicing them in half. Slice the red onions somewhat thin, but thick enough to add a crunchy texture. Finally, dice the jalapeno into small pieces and take out the seeds, if you do not like your food too spicy.",
+        "url": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2303.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine all ingredients. To get the meat out of the avocado, use a spoon to scoop it out of the shell.",
+        "name": "In a bowl, combine all ingredients. To get the meat out of the avocado, use a spoon to scoop it out of the shell.",
+        "url": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2305.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add salsa and the juice of the limes to the mixture. Add salt and pepper to your taste and mix well. Mash some of the avocado, using a fork to get the proper consistency.",
+        "name": "Add salsa and the juice of the limes to the mixture. Add salt and pepper to your taste and mix well. Mash some of the avocado, using a fork to get the proper consistency.",
+        "url": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2310.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Coarsely chop cilantro and add it to your guacamole. Fold it in carefully so that you don't make the guacamole too smooth. Garnish with some fresh cilantro and lime on the side and serve!",
+        "name": "Coarsely chop cilantro and add it to your guacamole. Fold it in carefully so that you don't make the guacamole too smooth. Garnish with some fresh cilantro and lime on the side and serve!",
+        "url": "https://www.ruled.me/simple-delicious-guacamole/#wprm-recipe-51077-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/05/IMG_2315.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "15-minute, beginner-friendly, budget-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "20 kcal",
+      "fatContent": "1.7 g",
+      "proteinContent": "0.3 g",
+      "carbohydrateContent": "0.4 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/simple-delicious-guacamole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/simple-delicious-guacamole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/simple-delicious-guacamole/"
+  },
+  "sourceIndex": {
+    "id": 14295,
+    "rid": 51077,
+    "t": "Simple, Delicious Guacamole",
+    "u": "/simple-delicious-guacamole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/05/SimpleGuacamoleOverhead.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.4,
+    "cal": 20,
+    "pr": 0.3,
+    "fa": 1.7,
+    "tm": 15,
+    "sv": 32,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2014-05-05",
+    "cm": 6,
+    "ex": "Happy Cinco de Mayo everyone! Time to crack the tequila open, make some keto Mexican food and enjoy yourselves. Today we're going to be making Guacamole that's super simple and easy to make. In about",
+    "pv": 182
+  },
+  "sourceHtml": "pages/simple-delicious-guacamole.html",
+  "scrapedAt": "2026-11-07T08:33:40.133Z"
+}

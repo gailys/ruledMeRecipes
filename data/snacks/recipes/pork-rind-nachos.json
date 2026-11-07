@@ -1,0 +1,333 @@
+{
+  "id": "ruled-46801",
+  "slug": "pork-rind-nachos",
+  "title": "Keto Pork Rind Nachos",
+  "url": "https://www.ruled.me/pork-rind-nachos/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Pork Rind Nachos. Each serving comes out to be 729 calories, 53.6g fats, 3.4g net carbs, and 52.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "729 kcal",
+    "fatContent": "53.6 g",
+    "proteinContent": "52.1 g",
+    "carbohydrateContent": "3.4 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 729,
+    "netCarbsGrams": 3.4,
+    "proteinGrams": 52.1,
+    "fatGrams": 53.6
+  },
+  "ingredients": [
+    "8 ounce pork rinds",
+    "8 ounce ground beef",
+    "1/2 cup cherry tomatoes",
+    "1 medium avocado (diced)",
+    "1 medium jalapeno pepper (sliced)",
+    "1 1/2 cup shredded mexican blend cheese",
+    "1/4 medium red onion",
+    "1 tablespoon fresh cilantro (minced)",
+    "1/4 cup sour cream (for garnish)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-1.jpg"
+    },
+    {
+      "text": "In a skillet over medium heat, add the ground beef. Cook for about 8 minutes or until the meat is no longer pink.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-2.jpg"
+    },
+    {
+      "text": "Turn the broiler on in your oven. In the same pan with the cooked ground beef, add the pork rinds, cherry tomatoes, avocado, jalapeno pepper, red onion, and Mexican-style cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-3.jpg"
+    },
+    {
+      "text": "Place in the oven for 5-10 minutes or until the cheese has melted. Serve with minced cilantro and sour cream. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "egg-free",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "quick",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Featured-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/8a57ba2f3f799572eac6de22.avif",
+      "archived": true,
+      "originalPath": "images/8a57ba2f3f799572eac6de22.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Featured.jpg",
+      "path": "../../nenaudojama/snacks/images/fbea47e43af71ec51fb998dd.avif",
+      "archived": true,
+      "originalPath": "images/fbea47e43af71ec51fb998dd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-1.jpg",
+      "path": "../../nenaudojama/snacks/images/664291489815ebfd255a6da2.jpg",
+      "archived": true,
+      "originalPath": "images/664291489815ebfd255a6da2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-2.jpg",
+      "path": "../../nenaudojama/snacks/images/718fc3d32d992bd9d89efb27.jpg",
+      "archived": true,
+      "originalPath": "images/718fc3d32d992bd9d89efb27.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-3.jpg",
+      "path": "../../nenaudojama/snacks/images/ca9092a0ab2e335f8c499768.jpg",
+      "archived": true,
+      "originalPath": "images/ca9092a0ab2e335f8c499768.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Second.jpg",
+      "path": "../../nenaudojama/snacks/images/19e7e915e06f3d9fd69aa8b1.jpg",
+      "archived": true,
+      "originalPath": "images/19e7e915e06f3d9fd69aa8b1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Long.jpg",
+      "path": "../../nenaudojama/snacks/images/b59cc5c342e58a05a8adc754.avif",
+      "archived": true,
+      "originalPath": "images/b59cc5c342e58a05a8adc754.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Featured-300x300.jpg",
+      "path": "../../nenaudojama/snacks/images/a4d0c5480028ed614c52f142.avif",
+      "archived": true,
+      "originalPath": "images/a4d0c5480028ed614c52f142.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-1-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/921dfc0202d554d73b3ad507.jpg",
+      "archived": true,
+      "originalPath": "images/921dfc0202d554d73b3ad507.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-2-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/1b95c076912dae26ee0a1807.jpg",
+      "archived": true,
+      "originalPath": "images/1b95c076912dae26ee0a1807.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-3-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/007a823f5700f07bced24b86.jpg",
+      "archived": true,
+      "originalPath": "images/007a823f5700f07bced24b86.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/fbea47e43af71ec51fb998dd.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pork Rind Nachos",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Pork Rind Nachos. Each serving comes out to be 729 calories, 53.6g fats, 3.4g net carbs, and 52.1g protein.",
+    "datePublished": "2022-03-01T10:00:58+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Pork Rind Nachos [Crunchy Low-Carb Snack]",
+      "description": "Nachos have always been one of my favorite snacks! While the toppings of nachos are typically keto-friendly, the tortilla chips are not. When replacing the tortilla chips with pork rinds, it brings a crunchy low-carb element that fits in so well!\n\nI love pork rinds as they are a 0g carb snack and super versatile. I incorporate these a ton in my keto recipes, so when I thought what I was going to pair with these nachos, I immediately knew it would be pork rinds! These go fantastic with the ground beef, onion, avocado, and jalapeno peppers!\n\nWhile I refer to these as a snack, they certainly don't have to be. They can be a full meal or shared with a group of people as a snack!\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n8 ounce pork rinds\n8 ounce ground beef\n1/2 cup cherry tomatoes\n1 medium avocado, diced\n1 medium jalapeno pepper, sliced\n1 1/2 cup shredded Mexican blend cheese\n1/4 medium red onion\n1 tablespoon fresh cilantro, minced\n1/4 cup sour cream, for garnish\n\nNutrition Summary: This makes a total of 4 servings of Keto Pork Rind Nachos. Each serving comes out to be 729 calories, 53.6g fat, 3.4g net carbs, and 52.1g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-06-02T14:00:27+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 21859
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 512
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 27
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yZeBvMoeg8I/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yZeBvMoeg8I?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=yZeBvMoeg8I",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "8 ounce pork rinds",
+      "8 ounce ground beef",
+      "1/2 cup cherry tomatoes",
+      "1 medium avocado (diced)",
+      "1 medium jalapeno pepper (sliced)",
+      "1 1/2 cup shredded mexican blend cheese",
+      "1/4 medium red onion",
+      "1 tablespoon fresh cilantro (minced)",
+      "1/4 cup sour cream (for garnish)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, add the ground beef. Cook for about 8 minutes or until the meat is no longer pink.",
+        "name": "In a skillet over medium heat, add the ground beef. Cook for about 8 minutes or until the meat is no longer pink.",
+        "url": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the broiler on in your oven. In the same pan with the cooked ground beef, add the pork rinds, cherry tomatoes, avocado, jalapeno pepper, red onion, and Mexican-style cheese.",
+        "name": "Turn the broiler on in your oven. In the same pan with the cooked ground beef, add the pork rinds, cherry tomatoes, avocado, jalapeno pepper, red onion, and Mexican-style cheese.",
+        "url": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the oven for 5-10 minutes or until the cheese has melted. Serve with minced cilantro and sour cream. Enjoy!",
+        "name": "Place in the oven for 5-10 minutes or until the cheese has melted. Serve with minced cilantro and sour cream. Enjoy!",
+        "url": "https://www.ruled.me/pork-rind-nachos/#wprm-recipe-54095-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "Mexican"
+    ],
+    "keywords": "30-minute, egg-free, game-day, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, oven-baked, party-food, quick, red meat, simple &amp; easy, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "729 kcal",
+      "fatContent": "53.6 g",
+      "proteinContent": "52.1 g",
+      "carbohydrateContent": "3.4 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pork-rind-nachos/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pork-rind-nachos/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pork-rind-nachos/"
+  },
+  "sourceIndex": {
+    "id": 46801,
+    "rid": 54095,
+    "t": "Pork Rind Nachos",
+    "u": "/pork-rind-nachos/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/01/Pork-Rind-Nachos-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 3.4,
+    "cal": 729,
+    "pr": 52.1,
+    "fa": 53.6,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "egg-free",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "quick",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2022-03-01",
+    "cm": 0,
+    "ex": "Nachos have always been one of my favorite snacks! While nachos are usually keto-friendly, I still made some adjustments to limit the amount of carbs in this snack. I love pork rinds as they are a 0g",
+    "pv": 155
+  },
+  "sourceHtml": "pages/pork-rind-nachos.html",
+  "scrapedAt": "2026-11-07T08:30:47.961Z"
+}

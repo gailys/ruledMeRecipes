@@ -1,0 +1,283 @@
+{
+  "id": "ruled-34681",
+  "slug": "vegan-keto-porridge",
+  "title": "Vegan Keto Porridge",
+  "url": "https://www.ruled.me/vegan-keto-porridge/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Vegan Keto Porridge. The serving comes out to be 236 calories, 15g fats, 3.7g net carbs, and 16.6g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "236 kcal",
+    "fatContent": "15 g",
+    "proteinContent": "16.6 g",
+    "carbohydrateContent": "3.7 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 236,
+    "netCarbsGrams": 3.7,
+    "proteinGrams": 16.6,
+    "fatGrams": 15
+  },
+  "ingredients": [
+    "2 tablespoon coconut flour",
+    "3 tablespoon golden flaxseed meal",
+    "2 tablespoon vegan vanilla protein powder",
+    "1 1/2 cup unsweetened almond milk",
+    "1/2 tablespoon powdered erythritol"
+  ],
+  "instructions": [
+    {
+      "text": "In a bowl mix together the coconut flour, golden flaxseed meal, and protein powder.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-porridge/#wprm-recipe-52397-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-01.jpg"
+    },
+    {
+      "text": "Add to a sauce pan, along with the almond milk, and cook over medium heat. It will seem very loose at first.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-porridge/#wprm-recipe-52397-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-02.jpg"
+    },
+    {
+      "text": "When it thickens you can stir in your sweetener. Serve with your favorite toppings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/vegan-keto-porridge/#wprm-recipe-52397-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "budget-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-featured-768x512.jpg",
+      "path": "../../nenaudojama/breakfast/images/83680b969a204ded28c7de71.jpg",
+      "archived": true,
+      "originalPath": "images/83680b969a204ded28c7de71.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-featured.jpg",
+      "path": "images/7644b1490df8dcad58b7f16c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-01.jpg",
+      "path": "../../nenaudojama/breakfast/images/ca13ad0e31eb9c0cfe220cec.avif",
+      "archived": true,
+      "originalPath": "images/ca13ad0e31eb9c0cfe220cec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-02.jpg",
+      "path": "../../nenaudojama/breakfast/images/f3224b4fa6ffb293556f4937.jpg",
+      "archived": true,
+      "originalPath": "images/f3224b4fa6ffb293556f4937.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-second.jpg",
+      "path": "../../nenaudojama/breakfast/images/a5525d0c53ebc36be82635c2.avif",
+      "archived": true,
+      "originalPath": "images/a5525d0c53ebc36be82635c2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-pin.jpg",
+      "path": "../../nenaudojama/breakfast/images/d6f4c268d13ca5f2ffdd53fd.jpg",
+      "archived": true,
+      "originalPath": "images/d6f4c268d13ca5f2ffdd53fd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-01-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/17a0ad8b0ffdf0ce5d64396c.jpg",
+      "archived": true,
+      "originalPath": "images/17a0ad8b0ffdf0ce5d64396c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-02-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/41af99f42741affb20f40fc7.jpg",
+      "archived": true,
+      "originalPath": "images/41af99f42741affb20f40fc7.jpg"
+    }
+  ],
+  "featuredImage": "images/7644b1490df8dcad58b7f16c.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Vegan Keto Porridge",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 1 serving of Vegan Keto Porridge. The serving comes out to be 236 calories, 15g fats, 3.7g net carbs, and 16.6g protein.",
+    "datePublished": "2017-12-19T12:00:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-featured.jpg"
+    ],
+    "video": {
+      "name": "​Vegan Keto Porridge [Dairy Free Hot Cereal]",
+      "description": "This recipe for vegan keto breakfast porridge will keep you full all morning long. Stir your favorite toppings into this thick and creamy breakfast option to customize the flavor. The taste and texture is very similar to cream of wheat, and it only takes a few minutes to prepare.\n\nI prefer some cinnamon and blueberries, but there are infinite possibilities.\n\nObviously, this recipe is handy for vegans because it works as a great alternative to bacon and eggs. It’s also great for anyone who misses hot cereals, or has a sensitivity to eggs.\n\nI used golden flaxseed meal for this recipe. It has a more uniform color, but you should be able to use other styles of flaxseed meal as well. If you want a much thicker porridge, simply reduce the almond milk to one cup.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 tablespoons coconut flour\n3 tablespoons golden flaxseed meal\n2 tablespoons vegan vanilla protein powder*\n1 ½ cups unsweetened almond milk\nPowdered erythritol to taste\n\n* Try experimenting with different flavors!\n\nNutrition Summary: This makes a total of 1 serving of Vegan Keto Porridge. Each serving comes out to be 249 Calories, 13.07g Fats, 5.78g Net Carbs, and 17.82g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2022-12-05T16:00:18+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M20S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 10241
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 412
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 35
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kOJiQTxzH-s/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/kOJiQTxzH-s?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=kOJiQTxzH-s",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "2 tablespoon coconut flour",
+      "3 tablespoon golden flaxseed meal",
+      "2 tablespoon vegan vanilla protein powder",
+      "1 1/2 cup unsweetened almond milk",
+      "1/2 tablespoon powdered erythritol"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl mix together the coconut flour, golden flaxseed meal, and protein powder.",
+        "name": "In a bowl mix together the coconut flour, golden flaxseed meal, and protein powder.",
+        "url": "https://www.ruled.me/vegan-keto-porridge/#wprm-recipe-52397-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add to a sauce pan, along with the almond milk, and cook over medium heat. It will seem very loose at first.",
+        "name": "Add to a sauce pan, along with the almond milk, and cook over medium heat. It will seem very loose at first.",
+        "url": "https://www.ruled.me/vegan-keto-porridge/#wprm-recipe-52397-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When it thickens you can stir in your sweetener. Serve with your favorite toppings.",
+        "name": "When it thickens you can stir in your sweetener. Serve with your favorite toppings.",
+        "url": "https://www.ruled.me/vegan-keto-porridge/#wprm-recipe-52397-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "keywords": "15-minute, beginner-friendly, budget-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, quick, simple-and-easy, stovetop, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "236 kcal",
+      "fatContent": "15 g",
+      "proteinContent": "16.6 g",
+      "carbohydrateContent": "3.7 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/vegan-keto-porridge/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/vegan-keto-porridge/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/vegan-keto-porridge/"
+  },
+  "sourceIndex": {
+    "id": 34681,
+    "rid": 52397,
+    "t": "​Vegan Keto Porridge",
+    "u": "/vegan-keto-porridge/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/vegan-keto-porridge-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 3.7,
+    "cal": 236,
+    "pr": 16.6,
+    "fa": 15,
+    "tm": 15,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "budget-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "stovetop"
+    ],
+    "d": "2017-12-19",
+    "cm": 35,
+    "ex": "This recipe for vegan keto breakfast porridge will keep you full all morning long. Stir your favorite toppings into this thick and creamy breakfast option to customize the flavor. The taste and",
+    "pv": 1350
+  },
+  "sourceHtml": "pages/vegan-keto-porridge.html",
+  "scrapedAt": "2026-11-07T08:11:12.713Z"
+}

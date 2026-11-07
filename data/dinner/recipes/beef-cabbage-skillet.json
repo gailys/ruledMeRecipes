@@ -1,0 +1,336 @@
+{
+  "id": "ruled-45126",
+  "slug": "beef-cabbage-skillet",
+  "title": "Beef Cabbage Skillet",
+  "url": "https://www.ruled.me/beef-cabbage-skillet/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Beef Cabbage Skillet. Each serving comes out to be 229 calories, 17.7g fats, 5.5g net carbs, and 11.4g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "fatContent": "17.7 g",
+    "proteinContent": "11.4 g",
+    "carbohydrateContent": "5.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 229,
+    "netCarbsGrams": 5.5,
+    "proteinGrams": 11.4,
+    "fatGrams": 17.7
+  },
+  "ingredients": [
+    "16 ounce ground beef",
+    "1 medium yellow onion",
+    "2 tablespoon olive oil",
+    "1 teaspoon dried oregano",
+    "1/4 teaspoon crushed red pepper flakes",
+    "1/2 teaspoon celery seed",
+    "salt and pepper (to taste)",
+    "6 cup green cabbage leaves",
+    "10 ounce canned tomatoes with green chiles",
+    "1/2 cup sour cream (for serving)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all ingredients. Dice the onion.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-1.jpg"
+    },
+    {
+      "text": "In a frying pan, add olive oil and yellow onion. Fry until the onion is translucent.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-2.jpg"
+    },
+    {
+      "text": "Then, add in the ground beef with all of the seasonings. Cook the beef until brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-3.jpg"
+    },
+    {
+      "text": "Then, add the cabbage leaves and canned tomatoes. Stir once in a while, but let simmer for about 25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-4.jpg"
+    },
+    {
+      "text": "Once done, serve with sour cream. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "budget-friendly",
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "one-pan",
+    "red-meat",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "one-pan",
+    "stovetop",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/59e7b5e08b13d80ee7716fb9.jpg",
+      "archived": true,
+      "originalPath": "images/59e7b5e08b13d80ee7716fb9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-Featured.jpg",
+      "path": "images/52114e36d574a0174671e1a0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-1.jpg",
+      "path": "../../nenaudojama/dinner/images/9e3d5e678a1dcf29719d783b.jpg",
+      "archived": true,
+      "originalPath": "images/9e3d5e678a1dcf29719d783b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-2.jpg",
+      "path": "../../nenaudojama/dinner/images/cacaffb4939671f41a74c9e4.jpg",
+      "archived": true,
+      "originalPath": "images/cacaffb4939671f41a74c9e4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-3.jpg",
+      "path": "../../nenaudojama/dinner/images/ea15e4fc9f165c2bbbbc48f9.jpg",
+      "archived": true,
+      "originalPath": "images/ea15e4fc9f165c2bbbbc48f9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-4.jpg",
+      "path": "../../nenaudojama/dinner/images/f82868643cc39bf085dedbbf.jpg",
+      "archived": true,
+      "originalPath": "images/f82868643cc39bf085dedbbf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-and-Cabbage-Skillet-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/8cbeb8e2fbdcb4988e998bf8.jpg",
+      "archived": true,
+      "originalPath": "images/8cbeb8e2fbdcb4988e998bf8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-and-Cabbage-Skillet-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/dfcab4007f5ab9ee638b833b.jpg",
+      "archived": true,
+      "originalPath": "images/dfcab4007f5ab9ee638b833b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/3fd6448957c2482a70074aa9.jpg",
+      "archived": true,
+      "originalPath": "images/3fd6448957c2482a70074aa9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0ecbc68f1a3b337fc1147a98.jpg",
+      "archived": true,
+      "originalPath": "images/0ecbc68f1a3b337fc1147a98.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/593f16b6603a2bc0a41d996a.jpg",
+      "archived": true,
+      "originalPath": "images/593f16b6603a2bc0a41d996a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fa2193f768536c1f3dd977ea.jpg",
+      "archived": true,
+      "originalPath": "images/fa2193f768536c1f3dd977ea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b3ced79b5f9c6a7982f66f1e.jpg",
+      "archived": true,
+      "originalPath": "images/b3ced79b5f9c6a7982f66f1e.jpg"
+    }
+  ],
+  "featuredImage": "images/52114e36d574a0174671e1a0.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Beef Cabbage Skillet",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 8 servings of Beef Cabbage Skillet. Each serving comes out to be 229 calories, 17.7g fats, 5.5g net carbs, and 11.4g protein.",
+    "datePublished": "2021-04-15T09:00:22+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-Featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "16 ounce ground beef",
+      "1 medium yellow onion",
+      "2 tablespoon olive oil",
+      "1 teaspoon dried oregano",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1/2 teaspoon celery seed",
+      "salt and pepper (to taste)",
+      "6 cup green cabbage leaves",
+      "10 ounce canned tomatoes with green chiles",
+      "1/2 cup sour cream (for serving)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all ingredients. Dice the onion.",
+        "name": "Measure out and prepare all ingredients. Dice the onion.",
+        "url": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, add olive oil and yellow onion. Fry until the onion is translucent.",
+        "name": "In a frying pan, add olive oil and yellow onion. Fry until the onion is translucent.",
+        "url": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Then, add in the ground beef with all of the seasonings. Cook the beef until brown.",
+        "name": "Then, add in the ground beef with all of the seasonings. Cook the beef until brown.",
+        "url": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Then, add the cabbage leaves and canned tomatoes. Stir once in a while, but let simmer for about 25 minutes.",
+        "name": "Then, add the cabbage leaves and canned tomatoes. Stir once in a while, but let simmer for about 25 minutes.",
+        "url": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once done, serve with sour cream. Enjoy!",
+        "name": "Once done, serve with sour cream. Enjoy!",
+        "url": "https://www.ruled.me/beef-cabbage-skillet/#wprm-recipe-53745-step-0-4"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Just made this and I have to say it’s a keeper! The whole family loved it! Wouldn’t change a single thing!",
+        "author": {
+          "@type": "Person",
+          "name": "Shawna"
+        },
+        "datePublished": "2025-08-04"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "beginner-friendly, budget-friendly, comfort-food, egg-free, family-friendly, gluten-free, keto, low-carb, nut-free, one-pan, red meat, simple &amp; easy, simple-and-easy, stovetop, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "229 kcal",
+      "fatContent": "17.7 g",
+      "proteinContent": "11.4 g",
+      "carbohydrateContent": "5.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/beef-cabbage-skillet/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/beef-cabbage-skillet/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/beef-cabbage-skillet/"
+  },
+  "sourceIndex": {
+    "id": 45126,
+    "rid": 53745,
+    "t": "Beef Cabbage Skillet",
+    "u": "/beef-cabbage-skillet/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/03/Beef-Cabbage-Skillet-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.5,
+    "cal": 229,
+    "pr": 11.4,
+    "fa": 17.7,
+    "tm": 35,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "budget-friendly",
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "one-pan",
+      "red-meat",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "one-pan",
+      "stovetop",
+      "red-meat"
+    ],
+    "d": "2021-04-15",
+    "cm": 5,
+    "ex": "The best way to enjoy this beef cabbage skillet is by itself, it's like a thick soup or chili this way. But if you want a little something more, you could serve it over some cauliflower rice or with",
+    "pv": 181
+  },
+  "sourceHtml": "pages/beef-cabbage-skillet.html",
+  "scrapedAt": "2026-11-07T08:27:44.182Z"
+}

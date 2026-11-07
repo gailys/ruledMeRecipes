@@ -1,0 +1,259 @@
+{
+  "id": "ruled-60217",
+  "slug": "everything-bagel-pretzel-dogs",
+  "title": "Everything Bagel Pretzel Dogs",
+  "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Everything Bagel Pretzel Dogs. Each serving comes out to be 385 calories, 33g fats, 4.3g net carbs, and 17g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT20M",
+  "cookTime": "PT20M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "385 kcal",
+    "fatContent": "33 g",
+    "proteinContent": "17 g",
+    "carbohydrateContent": "4.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 385,
+    "netCarbsGrams": 4.3,
+    "proteinGrams": 17,
+    "fatGrams": 33
+  },
+  "ingredients": [
+    "8 whole beef hot dogs",
+    "1 1/2 cup almond flour",
+    "2 tablespoon coconut flour",
+    "1/2 teaspoon baking powder",
+    "1 1/2 cup mozzarella cheese (low-moisture, shredded)",
+    "2 ounce cream cheese (softened)",
+    "2 large egg (divided)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients. Line a baking sheet with parchment paper and set aside. In a food processor, add almond flour, coconut flour, and baking powder. Pulse to blend, then add the egg. Blend until a crumbly dough forms.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "In a microwave safe bowl, put the mozzarella and the cream cheese. Microwave for 1 ½ minutes. If the cheese hasn’t completely melted, microwave 15 seconds at a time, stirring between times, until melted.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Add melted cheeses to flour mixture in food processor and mix until thoroughly incorporated. Wrap dough in clear wrap and place in freezer for 10 minutes. When time is up, preheat oven to 375F. Remove hot dogs from package and dry them off. Set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Remove dough from freezer and cut into equal serving sized pieces. Roll each piece into a ball, then roll the ball out into a long breadstick-like shape. Divide each piece in half, then roll them again. The pieces should be approximately 8 inches.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-3",
+      "imageSource": null
+    },
+    {
+      "text": "Beginning at one end, roll the dough around the hot dog. It should end about halfway across; take another piece of dough and connect it to the last piece and wrap it around the second half. Roll lightly on counter to seal edges. Set on parchment wrapped pan.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-4",
+      "imageSource": null
+    },
+    {
+      "text": "Repeat for remaining hot dogs. Melt the butter and brush tops of each. Sprinkle Everything Bagel seasoning over the top. (Alternatively, put the seasoning on a plate and roll the tops in it) Bake for 15-20 minutes or until golden brown.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/09/everything-bagel-pretzel-dogs-step-01.jpeg"
+    }
+  ],
+  "keywords": [
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "party-food",
+    "red-meat",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0-768x512.jpeg",
+      "path": "../../nenaudojama/dinner/images/a2bc92a6ef911a20465d27df.avif",
+      "archived": true,
+      "originalPath": "images/a2bc92a6ef911a20465d27df.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0.jpeg",
+      "path": "images/8529f3544e0be2e1eb515dc1.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/everything-bagel-pretzel-dogs-step-01.jpeg",
+      "path": "../../nenaudojama/dinner/images/8921f91ec85f0ddd337bf82d.jpeg",
+      "archived": true,
+      "originalPath": "images/8921f91ec85f0ddd337bf82d.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0-300x300.jpeg",
+      "path": "../../nenaudojama/dinner/images/54061b3d9830799177440b99.jpeg",
+      "archived": true,
+      "originalPath": "images/54061b3d9830799177440b99.jpeg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/everything-bagel-pretzel-dogs-step-01-241x350.jpeg",
+      "path": "../../nenaudojama/dinner/images/4fb1c464205a2c3aabe9de1b.jpeg",
+      "archived": true,
+      "originalPath": "images/4fb1c464205a2c3aabe9de1b.jpeg"
+    }
+  ],
+  "featuredImage": "images/8529f3544e0be2e1eb515dc1.jpeg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Everything Bagel Pretzel Dogs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of Everything Bagel Pretzel Dogs. Each serving comes out to be 385 calories, 33g fats, 4.3g net carbs, and 17g protein.",
+    "datePublished": "2026-09-01T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0-500x500.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0-500x375.jpeg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0-480x270.jpeg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "8 whole beef hot dogs",
+      "1 1/2 cup almond flour",
+      "2 tablespoon coconut flour",
+      "1/2 teaspoon baking powder",
+      "1 1/2 cup mozzarella cheese (low-moisture, shredded)",
+      "2 ounce cream cheese (softened)",
+      "2 large egg (divided)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients. Line a baking sheet with parchment paper and set aside. In a food processor, add almond flour, coconut flour, and baking powder. Pulse to blend, then add the egg. Blend until a crumbly dough forms.",
+        "name": "Gather all ingredients. Line a baking sheet with parchment paper and set aside. In a food processor, add almond flour, coconut flour, and baking powder. Pulse to blend, then add the egg. Blend until a crumbly dough forms.",
+        "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a microwave safe bowl, put the mozzarella and the cream cheese. Microwave for 1 ½ minutes. If the cheese hasn’t completely melted, microwave 15 seconds at a time, stirring between times, until melted.",
+        "name": "In a microwave safe bowl, put the mozzarella and the cream cheese. Microwave for 1 ½ minutes. If the cheese hasn’t completely melted, microwave 15 seconds at a time, stirring between times, until melted.",
+        "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add melted cheeses to flour mixture in food processor and mix until thoroughly incorporated. Wrap dough in clear wrap and place in freezer for 10 minutes. When time is up, preheat oven to 375F. Remove hot dogs from package and dry them off. Set aside.",
+        "name": "Add melted cheeses to flour mixture in food processor and mix until thoroughly incorporated. Wrap dough in clear wrap and place in freezer for 10 minutes. When time is up, preheat oven to 375F. Remove hot dogs from package and dry them off. Set aside.",
+        "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove dough from freezer and cut into equal serving sized pieces. Roll each piece into a ball, then roll the ball out into a long breadstick-like shape. Divide each piece in half, then roll them again. The pieces should be approximately 8 inches.",
+        "name": "Remove dough from freezer and cut into equal serving sized pieces. Roll each piece into a ball, then roll the ball out into a long breadstick-like shape. Divide each piece in half, then roll them again. The pieces should be approximately 8 inches.",
+        "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-3"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beginning at one end, roll the dough around the hot dog. It should end about halfway across; take another piece of dough and connect it to the last piece and wrap it around the second half. Roll lightly on counter to seal edges. Set on parchment wrapped pan.",
+        "name": "Beginning at one end, roll the dough around the hot dog. It should end about halfway across; take another piece of dough and connect it to the last piece and wrap it around the second half. Roll lightly on counter to seal edges. Set on parchment wrapped pan.",
+        "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat for remaining hot dogs. Melt the butter and brush tops of each. Sprinkle Everything Bagel seasoning over the top. (Alternatively, put the seasoning on a plate and roll the tops in it) Bake for 15-20 minutes or until golden brown.",
+        "name": "Repeat for remaining hot dogs. Melt the butter and brush tops of each. Sprinkle Everything Bagel seasoning over the top. (Alternatively, put the seasoning on a plate and roll the tops in it) Bake for 15-20 minutes or until golden brown.",
+        "url": "https://www.ruled.me/everything-bagel-pretzel-dogs/#wprm-recipe-60216-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/09/everything-bagel-pretzel-dogs-step-01.jpeg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "family-friendly, game-day, gluten-free, high-fat, keto, low-carb, oven-baked, party-food, red meat, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "385 kcal",
+      "fatContent": "33 g",
+      "proteinContent": "17 g",
+      "carbohydrateContent": "4.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/everything-bagel-pretzel-dogs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/everything-bagel-pretzel-dogs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/everything-bagel-pretzel-dogs/"
+  },
+  "sourceIndex": {
+    "id": 60217,
+    "rid": 60216,
+    "t": "Everything Bagel Pretzel Dogs",
+    "u": "/everything-bagel-pretzel-dogs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/741bf19aa1a216e34b58fe2e38e338b0-768x512.jpeg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 4.3,
+    "cal": 385,
+    "pr": 17,
+    "fa": 33,
+    "tm": 40,
+    "sv": 8,
+    "kw": [
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "party-food",
+      "red-meat",
+      "sugar-free"
+    ],
+    "ni": 7,
+    "fk": [
+      "oven-baked",
+      "red-meat"
+    ],
+    "d": "2026-09-01",
+    "cm": 0,
+    "ex": "These Everything Bagel Pretzel Dogs bring all the nostalgic comfort of a boardwalk snack straight to your keto-friendly kitchen without any of the carb-heavy guilt. By using a clever blend of",
+    "pv": 75
+  },
+  "sourceHtml": "pages/everything-bagel-pretzel-dogs.html",
+  "scrapedAt": "2026-11-07T08:27:43.304Z"
+}

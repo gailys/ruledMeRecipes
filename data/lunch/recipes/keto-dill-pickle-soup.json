@@ -1,0 +1,336 @@
+{
+  "id": "ruled-37244",
+  "slug": "keto-dill-pickle-soup",
+  "title": "Dill Pickle Soup",
+  "url": "https://www.ruled.me/keto-dill-pickle-soup/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Dill Pickle Soup. Each serving comes out to be 482 calories, 47.4g fats, 4.1g net carbs, and 10.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "482 kcal",
+    "fatContent": "47.4 g",
+    "proteinContent": "10.1 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 482,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 10.1,
+    "fatGrams": 47.4
+  },
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 teaspoon fresh garlic (minced)",
+    "1 teaspoon dried parsley",
+    "40 gram celery (diced)",
+    "1/2 small onion (diced)",
+    "90 gram dill pickle (diced)",
+    "1/2 cup pickle juice",
+    "1/4 cup chicken broth",
+    "1 cup heavy whipping cream",
+    "3 tablespoon olive oil",
+    "1/2 teaspoon xanthan gum",
+    "6 slice cooked bacon (crumbled)",
+    "1/2 cup cheddar cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "In a deep pot, heat up the butter and minced garlic.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-01.jpg"
+    },
+    {
+      "text": "Add in your parsley, celery, onions and chopped pickles, sauteing for 5 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-02.jpg"
+    },
+    {
+      "text": "Pour in your pickle juice, chicken broth and heavy cream. Bring to a boil.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-05.jpg"
+    },
+    {
+      "text": "In a separate smaller bowl or cup, quickly stir together your olive oil and xanthan gum. Immediately pour it into the soup.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-07.jpg"
+    },
+    {
+      "text": "Stir frequently until the soup begins to thicken. Turn off heat and mix in your bacon bits and cheddar cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-08.jpg"
+    },
+    {
+      "text": "Pour into serving bowls and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "comfort-food",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/36ada37928b5afd58942f7a9.avif",
+      "archived": true,
+      "originalPath": "images/36ada37928b5afd58942f7a9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-featured.jpg",
+      "path": "images/3a42851b8bca3d5395cb5fc4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-01.jpg",
+      "path": "../../nenaudojama/lunch/images/411b52f54fdbfeebb3d3576f.jpg",
+      "archived": true,
+      "originalPath": "images/411b52f54fdbfeebb3d3576f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-02.jpg",
+      "path": "../../nenaudojama/lunch/images/d2c0aaf560578c5d5392f6fa.jpg",
+      "archived": true,
+      "originalPath": "images/d2c0aaf560578c5d5392f6fa.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-05.jpg",
+      "path": "../../nenaudojama/lunch/images/21bf6b61d45a5e85d769f02f.jpg",
+      "archived": true,
+      "originalPath": "images/21bf6b61d45a5e85d769f02f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-07.jpg",
+      "path": "../../nenaudojama/lunch/images/5fa334ce6a92cb2aee66f8cc.jpg",
+      "archived": true,
+      "originalPath": "images/5fa334ce6a92cb2aee66f8cc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-08.jpg",
+      "path": "../../nenaudojama/lunch/images/e32f92a6738ee0b4638dea93.jpg",
+      "archived": true,
+      "originalPath": "images/e32f92a6738ee0b4638dea93.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-second.jpg",
+      "path": "../../nenaudojama/lunch/images/c81157847ef6aee72cf67bbf.avif",
+      "archived": true,
+      "originalPath": "images/c81157847ef6aee72cf67bbf.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-09.jpg",
+      "path": "../../nenaudojama/lunch/images/50f0405b37fbd370497ea91e.jpg",
+      "archived": true,
+      "originalPath": "images/50f0405b37fbd370497ea91e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/ac2afa5f1ff454e6ac40c8cb.jpg",
+      "archived": true,
+      "originalPath": "images/ac2afa5f1ff454e6ac40c8cb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/bf077c56fd5d46823efc90a0.avif",
+      "archived": true,
+      "originalPath": "images/bf077c56fd5d46823efc90a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/551107fb8b8b8dd5df8d65a3.jpg",
+      "archived": true,
+      "originalPath": "images/551107fb8b8b8dd5df8d65a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/66ae57ad1c23ae98feae02f8.avif",
+      "archived": true,
+      "originalPath": "images/66ae57ad1c23ae98feae02f8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/4efa8e942b75506e8dbc1cf1.jpg",
+      "archived": true,
+      "originalPath": "images/4efa8e942b75506e8dbc1cf1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-08-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/0ad7ce8e33c1e402efcfb458.avif",
+      "archived": true,
+      "originalPath": "images/0ad7ce8e33c1e402efcfb458.avif"
+    }
+  ],
+  "featuredImage": "images/3a42851b8bca3d5395cb5fc4.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Dill Pickle Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Dill Pickle Soup. Each serving comes out to be 482 calories, 47.4g fats, 4.1g net carbs, and 10.1g protein.",
+    "datePublished": "2018-05-29T11:00:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "1 tablespoon butter",
+      "1 teaspoon fresh garlic (minced)",
+      "1 teaspoon dried parsley",
+      "40 gram celery (diced)",
+      "1/2 small onion (diced)",
+      "90 gram dill pickle (diced)",
+      "1/2 cup pickle juice",
+      "1/4 cup chicken broth",
+      "1 cup heavy whipping cream",
+      "3 tablespoon olive oil",
+      "1/2 teaspoon xanthan gum",
+      "6 slice cooked bacon (crumbled)",
+      "1/2 cup cheddar cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a deep pot, heat up the butter and minced garlic.",
+        "name": "In a deep pot, heat up the butter and minced garlic.",
+        "url": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in your parsley, celery, onions and chopped pickles, sauteing for 5 minutes.",
+        "name": "Add in your parsley, celery, onions and chopped pickles, sauteing for 5 minutes.",
+        "url": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in your pickle juice, chicken broth and heavy cream. Bring to a boil.",
+        "name": "Pour in your pickle juice, chicken broth and heavy cream. Bring to a boil.",
+        "url": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate smaller bowl or cup, quickly stir together your olive oil and xanthan gum. Immediately pour it into the soup.",
+        "name": "In a separate smaller bowl or cup, quickly stir together your olive oil and xanthan gum. Immediately pour it into the soup.",
+        "url": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir frequently until the soup begins to thicken. Turn off heat and mix in your bacon bits and cheddar cheese.",
+        "name": "Stir frequently until the soup begins to thicken. Turn off heat and mix in your bacon bits and cheddar cheese.",
+        "url": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into serving bowls and enjoy!",
+        "name": "Pour into serving bowls and enjoy!",
+        "url": "https://www.ruled.me/keto-dill-pickle-soup/#wprm-recipe-52591-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, comfort-food, gluten-free, high-fat, keto, low-carb, nut-free, quick, simple &amp; easy, simple-and-easy, stovetop, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "482 kcal",
+      "fatContent": "47.4 g",
+      "proteinContent": "10.1 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-dill-pickle-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-dill-pickle-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-dill-pickle-soup/"
+  },
+  "sourceIndex": {
+    "id": 37244,
+    "rid": 52591,
+    "t": "Keto Dill Pickle Soup",
+    "u": "/keto-dill-pickle-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/05/dill-pickle-soup-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4.1,
+    "cal": 482,
+    "pr": 10.1,
+    "fa": 47.4,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "comfort-food",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 13,
+    "fk": [
+      "nut-free",
+      "stovetop"
+    ],
+    "d": "2018-05-29",
+    "cm": 11,
+    "ex": "I have never made such a quick and straightforward soup, until this dill pickle soup. It’s incredibly easy and tastes fantastic. The best part of this is if you let it cool, it tastes exactly like",
+    "pv": 695
+  },
+  "sourceHtml": "pages/keto-dill-pickle-soup.html",
+  "scrapedAt": "2026-11-07T08:17:10.093Z"
+}

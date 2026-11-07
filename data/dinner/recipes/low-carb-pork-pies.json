@@ -1,0 +1,255 @@
+{
+  "id": "ruled-24335",
+  "slug": "low-carb-pork-pies",
+  "title": "Low Carb Pork Pies",
+  "url": "https://www.ruled.me/low-carb-pork-pies/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes 4 total Pork Pies. Each pie has 559 Calories, 43.1g Fats, 5g Net Carbs, and 30.4g Protein.",
+  "servings": 4,
+  "yield": [
+    "4"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "559 kcal",
+    "fatContent": "43.1 g",
+    "proteinContent": "30.4 g",
+    "carbohydrateContent": "5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 559,
+    "netCarbsGrams": 5,
+    "proteinGrams": 30.4,
+    "fatGrams": 43.1
+  },
+  "ingredients": [
+    "1 lb. Ground Pork",
+    "4 tbsp. Parmesan Cheese (grated)",
+    "2 large Eggs (beaten)",
+    "1/2 tsp. Ground Nutmeg",
+    "1/2 tsp. Ginger",
+    "1/2 tsp. Cardamom",
+    "Zest of 1/2 Lemon",
+    "Salt and Pepper to Taste",
+    "4 Tart Shells (Recipe Here)"
+  ],
+  "instructions": [
+    {
+      "text": "Add meat and spices to a pan over high heat. Once slightly cooked, remove from heat and add egg and lemon zest.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pork-pies/#wprm-recipe-51317-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1060.jpg"
+    },
+    {
+      "text": "Spoon mixture into pie shells and bake for 20-25 minutes in the oven.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pork-pies/#wprm-recipe-51317-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1088.jpg"
+    },
+    {
+      "text": "Remove from oven, let cool, and serve!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-pork-pies/#wprm-recipe-51317-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/08/img_1094.jpg"
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "oven-baked",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/porkpies.jpg",
+      "path": "images/d6c323a749f5511cdba412f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1060.jpg",
+      "path": "../../nenaudojama/dinner/images/22534fe87652e1389f63a548.jpg",
+      "archived": true,
+      "originalPath": "images/22534fe87652e1389f63a548.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1088.jpg",
+      "path": "../../nenaudojama/dinner/images/0ed34c409f121ba3b45297ce.jpg",
+      "archived": true,
+      "originalPath": "images/0ed34c409f121ba3b45297ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1094.jpg",
+      "path": "../../nenaudojama/dinner/images/59e1223b890f643912cb6c7f.avif",
+      "archived": true,
+      "originalPath": "images/59e1223b890f643912cb6c7f.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/porkpiessecond.jpg",
+      "path": "../../nenaudojama/dinner/images/7c4daf8065b3005b5efa0346.jpg",
+      "archived": true,
+      "originalPath": "images/7c4daf8065b3005b5efa0346.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1063.jpg",
+      "path": "../../nenaudojama/dinner/images/00abfb3043272736bb8c2f82.avif",
+      "archived": true,
+      "originalPath": "images/00abfb3043272736bb8c2f82.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/porkpieslong.jpg",
+      "path": "../../nenaudojama/dinner/images/305d0524e93192780847cf17.avif",
+      "archived": true,
+      "originalPath": "images/305d0524e93192780847cf17.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1060-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bf7afe50ecdbcaafa5403666.jpg",
+      "archived": true,
+      "originalPath": "images/bf7afe50ecdbcaafa5403666.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1088-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/06b426c0d0ad64686e4252ef.avif",
+      "archived": true,
+      "originalPath": "images/06b426c0d0ad64686e4252ef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/08/img_1094-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/81a67fb2c0ee31bc39b566f5.jpg",
+      "archived": true,
+      "originalPath": "images/81a67fb2c0ee31bc39b566f5.jpg"
+    }
+  ],
+  "featuredImage": "images/d6c323a749f5511cdba412f5.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Pork Pies",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes 4 total Pork Pies. Each pie has 559 Calories, 43.1g Fats, 5g Net Carbs, and 30.4g Protein.",
+    "datePublished": "2014-08-23T16:04:01+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/08/porkpies.jpg"
+    ],
+    "recipeYield": [
+      "4"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "1 lb. Ground Pork",
+      "4 tbsp. Parmesan Cheese (grated)",
+      "2 large Eggs (beaten)",
+      "1/2 tsp. Ground Nutmeg",
+      "1/2 tsp. Ginger",
+      "1/2 tsp. Cardamom",
+      "Zest of 1/2 Lemon",
+      "Salt and Pepper to Taste",
+      "4 Tart Shells (Recipe Here)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add meat and spices to a pan over high heat. Once slightly cooked, remove from heat and add egg and lemon zest.",
+        "name": "Add meat and spices to a pan over high heat. Once slightly cooked, remove from heat and add egg and lemon zest.",
+        "url": "https://www.ruled.me/low-carb-pork-pies/#wprm-recipe-51317-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1060.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon mixture into pie shells and bake for 20-25 minutes in the oven.",
+        "name": "Spoon mixture into pie shells and bake for 20-25 minutes in the oven.",
+        "url": "https://www.ruled.me/low-carb-pork-pies/#wprm-recipe-51317-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1088.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from oven, let cool, and serve!",
+        "name": "Remove from oven, let cool, and serve!",
+        "url": "https://www.ruled.me/low-carb-pork-pies/#wprm-recipe-51317-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/08/img_1094.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "British"
+    ],
+    "keywords": "comfort-food, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "559 kcal",
+      "fatContent": "43.1 g",
+      "proteinContent": "30.4 g",
+      "carbohydrateContent": "5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-pork-pies/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-pork-pies/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-pork-pies/"
+  },
+  "sourceIndex": {
+    "id": 24335,
+    "rid": 51317,
+    "t": "Low Carb Pork Pies",
+    "u": "/low-carb-pork-pies/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/08/porkpies.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5,
+    "cal": 559,
+    "pr": 30.4,
+    "fa": 43.1,
+    "tm": 40,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "oven-baked",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2014-08-23",
+    "cm": 4,
+    "ex": "Growing up in England taught me a valuable lesson in life: if you can eat it, you can make a pie out of it. Every bakery that you step foot in will have meat stuffed pies, sweet pies, cheese and",
+    "pv": 255
+  },
+  "sourceHtml": "pages/low-carb-pork-pies.html",
+  "scrapedAt": "2026-11-07T08:27:45.035Z"
+}

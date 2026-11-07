@@ -1,0 +1,404 @@
+{
+  "id": "ruled-24696",
+  "slug": "low-carb-zesty-chicken-nuggets",
+  "title": "Zesty Low-Carb Chicken Nuggets",
+  "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Zesty Low-Carb Chicken Nuggets. Each serving comes out to be 627 calories, 50.6g fats, 2.2g net carbs, and 39.7g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "627 kcal",
+    "fatContent": "50.6 g",
+    "proteinContent": "39.7 g",
+    "carbohydrateContent": "2.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 627,
+    "netCarbsGrams": 2.2,
+    "proteinGrams": 39.7,
+    "fatGrams": 50.6
+  },
+  "ingredients": [
+    "24 ounce boneless, skinless chicken thighs (cut into bite-sized pieces)",
+    "1 1/2 ounce pork rinds",
+    "1/4 cup almond flour",
+    "1/4 cup flaxseed meal",
+    "2 teaspoon lime zest",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1/4 teaspoon chili powder",
+    "1/4 teaspoon paprika",
+    "1/8 teaspoon onion powder",
+    "1/8 teaspoon garlic powder",
+    "1/8 teaspoon cayenne pepper",
+    "1 large egg",
+    "1/2 cup mayonnaise",
+    "1/2 medium avocado",
+    "1/2 teaspoon crushed red pepper flakes",
+    "1 tablespoon lime juice",
+    "1/4 teaspoon garlic powder",
+    "1/8 teaspoon cumin"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F. Pat thighs dry with a paper towel. Cut into bite-sized chunks and set aside.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6729.jpg"
+    },
+    {
+      "text": "In a food processor, combine pork rinds, almond flour, flaxseed meal, lime zest, and spices. Pulse until the mixture resembles fine crumbs.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6745.jpg"
+    },
+    {
+      "text": "Add the processed crumbs to a bowl and crack the egg into a second bowl. Whisk thoroughly — add a bit of water if needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6760.jpg"
+    },
+    {
+      "text": "Dip the chicken in the egg mixture and then the crumb mixture, making sure to coat each side well. Place on a lightly greased, foil-lined cookie sheet.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6764.jpg"
+    },
+    {
+      "text": "Bake for 15–18 minutes or until nuggets are golden-brown on top and the meat is cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6771.jpg"
+    },
+    {
+      "text": "While the nuggets are cooling, combine all the ingredients for the sauce and mix together well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/09/img_6778.jpg"
+    },
+    {
+      "text": "Serve the nuggets with sauce on the side and dip to your heart's content. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "family-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "poultry",
+    "quick",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "oven-baked",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/zestychickennuggets.jpg",
+      "path": "images/7aff516e45ac9ce3c6efa1e1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6729.jpg",
+      "path": "../../nenaudojama/dinner/images/4ec00f343676b281cbd10ca3.avif",
+      "archived": true,
+      "originalPath": "images/4ec00f343676b281cbd10ca3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6745.jpg",
+      "path": "../../nenaudojama/dinner/images/83d43c2537d0fd02f18c7e9e.jpg",
+      "archived": true,
+      "originalPath": "images/83d43c2537d0fd02f18c7e9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6760.jpg",
+      "path": "../../nenaudojama/dinner/images/30082c41386bb77a3514058a.avif",
+      "archived": true,
+      "originalPath": "images/30082c41386bb77a3514058a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6764.jpg",
+      "path": "../../nenaudojama/dinner/images/90d723346c63c30769d14fc5.avif",
+      "archived": true,
+      "originalPath": "images/90d723346c63c30769d14fc5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6771.jpg",
+      "path": "../../nenaudojama/dinner/images/dbb4ab83148e8a1e16e64fd6.jpg",
+      "archived": true,
+      "originalPath": "images/dbb4ab83148e8a1e16e64fd6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6778.jpg",
+      "path": "../../nenaudojama/dinner/images/2f6ee4bb90868830c865a222.jpg",
+      "archived": true,
+      "originalPath": "images/2f6ee4bb90868830c865a222.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/zestychickennuggetssecond.jpg",
+      "path": "../../nenaudojama/dinner/images/3fa78cb076bf798be0d13649.avif",
+      "archived": true,
+      "originalPath": "images/3fa78cb076bf798be0d13649.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/zestychickennuggetslong.jpg",
+      "path": "../../nenaudojama/dinner/images/ce0feb8251b801de752df0a7.jpg",
+      "archived": true,
+      "originalPath": "images/ce0feb8251b801de752df0a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6729-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0d218effd317546ecbb38042.avif",
+      "archived": true,
+      "originalPath": "images/0d218effd317546ecbb38042.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6745-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ace2e28218d9e063b269059f.jpg",
+      "archived": true,
+      "originalPath": "images/ace2e28218d9e063b269059f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6760-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/38c78afc0b8347950c819366.avif",
+      "archived": true,
+      "originalPath": "images/38c78afc0b8347950c819366.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6764-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0a3c1ee77c41baf31091d1fc.jpg",
+      "archived": true,
+      "originalPath": "images/0a3c1ee77c41baf31091d1fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6771-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/214972efda404ff20f199ca3.avif",
+      "archived": true,
+      "originalPath": "images/214972efda404ff20f199ca3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/09/img_6778-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/fc9c0566e98145ca497a377b.jpg",
+      "archived": true,
+      "originalPath": "images/fc9c0566e98145ca497a377b.jpg"
+    }
+  ],
+  "featuredImage": "images/7aff516e45ac9ce3c6efa1e1.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Zesty Low-Carb Chicken Nuggets",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Zesty Low-Carb Chicken Nuggets. Each serving comes out to be 627 calories, 50.6g fats, 2.2g net carbs, and 39.7g protein.",
+    "datePublished": "2014-09-30T20:20:50+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/09/zestychickennuggets.jpg"
+    ],
+    "video": {
+      "name": "Low Carb Chicken Nuggets [with Garlic Lime Dipping Sauce]",
+      "description": "Even though the cold chills of Fall air are blanketing the cities, these chicken nuggets will bring a vibrant taste of summer back to dinner that will warm you up and give the vibe of a warm, cozy evening. If you’ve been looking for a nice, fresh, and zesty flavor on your chicken – step right up! Not only do you get a fantastic burst of flavor, but you get the crunchy and delicious texture of real chicken nuggets.\n\nMost of you already know that I love to coat my chicken with pork rinds to get that delicious and crisp layer, but this time we’ve combined it with some awesome spices, almond meal, and flaxseed meal to really get the crunch up a notch. Baking them to take the moisture out is the perfect way to do it – you get a deliciously zesty and crisp outer layer and perfectly tender chicken on the inside.\n\nYou can feel free to use pretty much any almond flour or almond meal you have. I hope you enjoy this one as much as I did.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\nThe Nuggets\n24 ounces chicken thighs, cut\n1 large egg\n1.5 ounces pork rinds\n¼ cup almond meal\n¼ cup flaxseed meal\nZest 1 lime\n¼ teaspoon salt\n¼ teaspoon pepper\n¼ teaspoon chili powder\n¼ teaspoon paprika\n1/8 teaspoon onion powder\n1/8 teaspoon garlic powder\n1/8 teaspoon cayenne pepper\n\nThe Sauce\n½ cup mayonnaise\n½ medium hass avocado\n½ teaspoon red chili flakes\n1 tablespoon lime juice\n¼ teaspoon garlic powder\n1/8 teaspoon cumin\n\nNutrition Summary:\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2023-07-19T15:00:21+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT3M2S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 47573
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 408
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 25
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UoOdzf7RN_c/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/UoOdzf7RN_c?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=UoOdzf7RN_c",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "24 ounce boneless, skinless chicken thighs (cut into bite-sized pieces)",
+      "1 1/2 ounce pork rinds",
+      "1/4 cup almond flour",
+      "1/4 cup flaxseed meal",
+      "2 teaspoon lime zest",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1/4 teaspoon chili powder",
+      "1/4 teaspoon paprika",
+      "1/8 teaspoon onion powder",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon cayenne pepper",
+      "1 large egg",
+      "1/2 cup mayonnaise",
+      "1/2 medium avocado",
+      "1/2 teaspoon crushed red pepper flakes",
+      "1 tablespoon lime juice",
+      "1/4 teaspoon garlic powder",
+      "1/8 teaspoon cumin"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F. Pat thighs dry with a paper towel. Cut into bite-sized chunks and set aside.",
+        "name": "Preheat oven to 400F. Pat thighs dry with a paper towel. Cut into bite-sized chunks and set aside.",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6729.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, combine pork rinds, almond flour, flaxseed meal, lime zest, and spices. Pulse until the mixture resembles fine crumbs.",
+        "name": "In a food processor, combine pork rinds, almond flour, flaxseed meal, lime zest, and spices. Pulse until the mixture resembles fine crumbs.",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6745.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the processed crumbs to a bowl and crack the egg into a second bowl. Whisk thoroughly — add a bit of water if needed.",
+        "name": "Add the processed crumbs to a bowl and crack the egg into a second bowl. Whisk thoroughly — add a bit of water if needed.",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6760.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dip the chicken in the egg mixture and then the crumb mixture, making sure to coat each side well. Place on a lightly greased, foil-lined cookie sheet.",
+        "name": "Dip the chicken in the egg mixture and then the crumb mixture, making sure to coat each side well. Place on a lightly greased, foil-lined cookie sheet.",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6764.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 15–18 minutes or until nuggets are golden-brown on top and the meat is cooked through.",
+        "name": "Bake for 15–18 minutes or until nuggets are golden-brown on top and the meat is cooked through.",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6771.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the nuggets are cooling, combine all the ingredients for the sauce and mix together well.",
+        "name": "While the nuggets are cooling, combine all the ingredients for the sauce and mix together well.",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/09/img_6778.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the nuggets with sauce on the side and dip to your heart's content. Enjoy!",
+        "name": "Serve the nuggets with sauce on the side and dip to your heart's content. Enjoy!",
+        "url": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#wprm-recipe-51407-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, dairy-free, family-friendly, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, poultry, quick, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "627 kcal",
+      "fatContent": "50.6 g",
+      "proteinContent": "39.7 g",
+      "carbohydrateContent": "2.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-zesty-chicken-nuggets/"
+  },
+  "sourceIndex": {
+    "id": 24696,
+    "rid": 51407,
+    "t": "Low Carb Zesty Chicken Nuggets",
+    "u": "/low-carb-zesty-chicken-nuggets/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/09/zestychickennuggets.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 2.2,
+    "cal": 627,
+    "pr": 39.7,
+    "fa": 50.6,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "family-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "poultry",
+      "quick",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 19,
+    "fk": [
+      "dairy-free",
+      "oven-baked",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-09-30",
+    "cm": 17,
+    "ex": "Even though the cold chills of Fall air are blanketing the cities, these chicken nuggets will bring a vibrant taste of summer back to dinner that will warm you up and give the vibe of a warm, cozy",
+    "pv": 201
+  },
+  "sourceHtml": "pages/low-carb-zesty-chicken-nuggets.html",
+  "scrapedAt": "2026-11-07T08:27:44.999Z"
+}

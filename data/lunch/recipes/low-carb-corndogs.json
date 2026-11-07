@@ -1,0 +1,358 @@
+{
+  "id": "ruled-7349",
+  "slug": "low-carb-corndogs",
+  "title": "Low Carb Corndogs",
+  "url": "https://www.ruled.me/low-carb-corndogs/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Low Carb Corndogs. Each serving comes out to be 1086 calories, 104.9g fats, 3.5g net carbs, and 29.6g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "totalMinutes": 45,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1086 kcal",
+    "fatContent": "104.9 g",
+    "proteinContent": "29.6 g",
+    "carbohydrateContent": "3.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 1086,
+    "netCarbsGrams": 3.5,
+    "proteinGrams": 29.6,
+    "fatGrams": 104.9
+  },
+  "ingredients": [
+    "1 cup almond flour",
+    "1 teaspoon all-purpose seasoning (like mrs. dash)",
+    "1/2 teaspoon turmeric powder",
+    "1/2 teaspoon kosher salt",
+    "1/4 teaspoon cayenne pepper",
+    "2 large egg",
+    "1 teaspoon baking powder",
+    "2 tablespoon heavy whipping cream",
+    "1 1/2 cup lard (or other high smoke point oil)",
+    "12 ounce chicken sausage"
+  ],
+  "instructions": [
+    {
+      "text": "In a mixing bowl add the almond flour and spices.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-02.jpg"
+    },
+    {
+      "text": "Mix all the dry ingredients well so they are completely distributed. Add your eggs to the mixture and scramble them slightly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-05.jpg"
+    },
+    {
+      "text": "Add baking powder then some heavy cream to the batter. (If needed to thin it out a bit.) Mix everything well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "In a saucepan, heat oil to 400F. If you’re not sure whether the oil is ready, you can stick a wooden spoon in and it will start to bubble aggressively.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-01.jpg"
+    },
+    {
+      "text": "Get your sausages ready. For this recipe I am using 2 hotdogs and 2 chicken sausages. Dip your hotdog and sausages in the batter before you fry them. Make sure they’re fully coated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-07.jpg"
+    },
+    {
+      "text": "Drop your hotdog or sausage into the oil 1 at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-10.jpg"
+    },
+    {
+      "text": "Let it cook for 2 minutes on one side, then flip it and cook for about 1-2 minutes on the other side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-6",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-11.jpg"
+    },
+    {
+      "text": "Remove your hotdogs or sausages from the pan and let it dry on some paper towels. Dish out with some sauces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-7",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "deep-fried",
+    "family-friendly",
+    "game-day",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "party-food",
+    "poultry",
+    "sugar-free"
+  ],
+  "filters": [
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/1d52b6e4599740896e343545.avif",
+      "archived": true,
+      "originalPath": "images/1d52b6e4599740896e343545.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-featured.jpg",
+      "path": "images/101651fc4b19bce3ed5aad1e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-02.jpg",
+      "path": "../../nenaudojama/lunch/images/fca853f4ac05d7d0b66d75e1.avif",
+      "archived": true,
+      "originalPath": "images/fca853f4ac05d7d0b66d75e1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-05.jpg",
+      "path": "../../nenaudojama/lunch/images/61b46cd4b636ab5647d18263.jpg",
+      "archived": true,
+      "originalPath": "images/61b46cd4b636ab5647d18263.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-01.jpg",
+      "path": "../../nenaudojama/lunch/images/a5d5472dc5694c2017e9c437.jpg",
+      "archived": true,
+      "originalPath": "images/a5d5472dc5694c2017e9c437.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-07.jpg",
+      "path": "../../nenaudojama/lunch/images/c7b76128afaea4c1e768fcea.jpg",
+      "archived": true,
+      "originalPath": "images/c7b76128afaea4c1e768fcea.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-10.jpg",
+      "path": "../../nenaudojama/lunch/images/1407f9b0ad721a4d4e7534dc.jpg",
+      "archived": true,
+      "originalPath": "images/1407f9b0ad721a4d4e7534dc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-11.jpg",
+      "path": "../../nenaudojama/lunch/images/bf5d5b695fdf7f26b10a5555.jpg",
+      "archived": true,
+      "originalPath": "images/bf5d5b695fdf7f26b10a5555.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-08.jpg",
+      "path": "../../nenaudojama/lunch/images/44372a38b7667d10d74f2497.avif",
+      "archived": true,
+      "originalPath": "images/44372a38b7667d10d74f2497.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/95712a255a27de34183adbc2.jpg",
+      "archived": true,
+      "originalPath": "images/95712a255a27de34183adbc2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/96f8c0db15e1e7705f5ed033.jpg",
+      "archived": true,
+      "originalPath": "images/96f8c0db15e1e7705f5ed033.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/31453b518c99f4e17d56dc1f.jpg",
+      "archived": true,
+      "originalPath": "images/31453b518c99f4e17d56dc1f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/7ba04e5bc95cb6afe4a7206b.jpg",
+      "archived": true,
+      "originalPath": "images/7ba04e5bc95cb6afe4a7206b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-07-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/87dbb6107d332275f104c46a.jpg",
+      "archived": true,
+      "originalPath": "images/87dbb6107d332275f104c46a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-10-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/77d3e0cb5435d60264b48580.jpg",
+      "archived": true,
+      "originalPath": "images/77d3e0cb5435d60264b48580.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-11-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/5bd3a835f24eac9e36a4413b.avif",
+      "archived": true,
+      "originalPath": "images/5bd3a835f24eac9e36a4413b.avif"
+    }
+  ],
+  "featuredImage": "images/101651fc4b19bce3ed5aad1e.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Corndogs",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 4 servings of Low Carb Corndogs. Each serving comes out to be 1086 calories, 104.9g fats, 3.5g net carbs, and 29.6g protein.",
+    "datePublished": "2014-01-27T16:49:13+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeIngredient": [
+      "1 cup almond flour",
+      "1 teaspoon all-purpose seasoning (like mrs. dash)",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon kosher salt",
+      "1/4 teaspoon cayenne pepper",
+      "2 large egg",
+      "1 teaspoon baking powder",
+      "2 tablespoon heavy whipping cream",
+      "1 1/2 cup lard (or other high smoke point oil)",
+      "12 ounce chicken sausage"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl add the almond flour and spices.",
+        "name": "In a mixing bowl add the almond flour and spices.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix all the dry ingredients well so they are completely distributed. Add your eggs to the mixture and scramble them slightly.",
+        "name": "Mix all the dry ingredients well so they are completely distributed. Add your eggs to the mixture and scramble them slightly.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add baking powder then some heavy cream to the batter. (If needed to thin it out a bit.) Mix everything well.",
+        "name": "Add baking powder then some heavy cream to the batter. (If needed to thin it out a bit.) Mix everything well.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, heat oil to 400F. If you’re not sure whether the oil is ready, you can stick a wooden spoon in and it will start to bubble aggressively.",
+        "name": "In a saucepan, heat oil to 400F. If you’re not sure whether the oil is ready, you can stick a wooden spoon in and it will start to bubble aggressively.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Get your sausages ready. For this recipe I am using 2 hotdogs and 2 chicken sausages. Dip your hotdog and sausages in the batter before you fry them. Make sure they’re fully coated.",
+        "name": "Get your sausages ready. For this recipe I am using 2 hotdogs and 2 chicken sausages. Dip your hotdog and sausages in the batter before you fry them. Make sure they’re fully coated.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drop your hotdog or sausage into the oil 1 at a time.",
+        "name": "Drop your hotdog or sausage into the oil 1 at a time.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-10.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let it cook for 2 minutes on one side, then flip it and cook for about 1-2 minutes on the other side.",
+        "name": "Let it cook for 2 minutes on one side, then flip it and cook for about 1-2 minutes on the other side.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-6",
+        "image": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-11.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove your hotdogs or sausages from the pan and let it dry on some paper towels. Dish out with some sauces.",
+        "name": "Remove your hotdogs or sausages from the pan and let it dry on some paper towels. Dish out with some sauces.",
+        "url": "https://www.ruled.me/low-carb-corndogs/#wprm-recipe-50793-step-0-7"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "deep-fried, family-friendly, game-day, gluten-free, high-fat, high-protein, keto, low-carb, party-food, poultry, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1086 kcal",
+      "fatContent": "104.9 g",
+      "proteinContent": "29.6 g",
+      "carbohydrateContent": "3.5 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-corndogs/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-corndogs/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-corndogs/"
+  },
+  "sourceIndex": {
+    "id": 7349,
+    "rid": 50793,
+    "t": "Low Carb Corndogs",
+    "u": "/low-carb-corndogs/",
+    "img": "https://www.ruled.me/wp-content/uploads/2014/01/low-carb-corndogs-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.5,
+    "cal": 1086,
+    "pr": 29.6,
+    "fa": 104.9,
+    "tm": 45,
+    "sv": 4,
+    "kw": [
+      "deep-fried",
+      "family-friendly",
+      "game-day",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "party-food",
+      "poultry",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2014-01-27",
+    "cm": 3,
+    "ex": "Since I made the lemon glazed fritters the other day, I thought that using a batter to fry things would be pretty awesome. I haven't had a corn dog in a while and it just popped into my head. But, I",
+    "pv": 253
+  },
+  "sourceHtml": "pages/low-carb-corndogs.html",
+  "scrapedAt": "2026-11-07T08:18:21.430Z"
+}

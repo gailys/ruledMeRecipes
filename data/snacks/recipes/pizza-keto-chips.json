@@ -1,0 +1,332 @@
+{
+  "id": "ruled-981",
+  "slug": "pizza-keto-chips",
+  "title": "Keto Pizza Chips",
+  "url": "https://www.ruled.me/pizza-keto-chips/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 21 servings of Keto Pizza Chips. Each serving comes out to be 62 calories, 5.3g fats, 0.3g net carbs, and 3.1g protein.",
+  "servings": 21,
+  "yield": [
+    "21",
+    "21 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "62 kcal",
+    "fatContent": "5.3 g",
+    "proteinContent": "3.1 g",
+    "carbohydrateContent": "0.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 62,
+    "netCarbsGrams": 0.3,
+    "proteinGrams": 3.1,
+    "fatGrams": 5.3
+  },
+  "ingredients": [
+    "6 ounce pepperoni (sliced)",
+    "5 1/4 ounce mozzarella cheese (shredded)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat oven to 400F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/cookiesheet.jpg"
+    },
+    {
+      "text": "On a non-stick baking sheet, arrange the pepperoni in overlapping batches of four.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/placingpepperonis.jpg"
+    },
+    {
+      "text": "Bake for about 5 minutes or until semi-crispy and the fat is oozing out of them. If they move out of place, just arrange them back together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/pepperonibaked.jpg"
+    },
+    {
+      "text": "Sprinkle cheese on top. Bake for another 3 minutes or until the cheese is melted and a little crisp.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/addedcheese.jpg"
+    },
+    {
+      "text": "Place the chips onto paper towels to soak up any excess grease. Let sit for 3–4 minutes to cool off and crisp up even more.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/drainonpapertowels.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1356.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "batch-cooking",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "party-food",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "make-ahead",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1357-768x512.jpg",
+      "path": "../../nenaudojama/snacks/images/1ff6bb516b767c81bd8d58ea.avif",
+      "archived": true,
+      "originalPath": "images/1ff6bb516b767c81bd8d58ea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1357.jpg",
+      "path": "../../nenaudojama/snacks/images/f359436cc341f0504b430363.jpg",
+      "archived": true,
+      "originalPath": "images/f359436cc341f0504b430363.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cookiesheet.jpg",
+      "path": "../../nenaudojama/snacks/images/3e4f86b36ad7947fe1351e89.avif",
+      "archived": true,
+      "originalPath": "images/3e4f86b36ad7947fe1351e89.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/placingpepperonis.jpg",
+      "path": "../../nenaudojama/snacks/images/f698ba26ffee92272a123a83.jpg",
+      "archived": true,
+      "originalPath": "images/f698ba26ffee92272a123a83.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/pepperonibaked.jpg",
+      "path": "../../nenaudojama/snacks/images/e5b6d775fe3463a1fcf6fd63.avif",
+      "archived": true,
+      "originalPath": "images/e5b6d775fe3463a1fcf6fd63.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/addedcheese.jpg",
+      "path": "../../nenaudojama/snacks/images/ef17812c062f9a34ff514bc8.avif",
+      "archived": true,
+      "originalPath": "images/ef17812c062f9a34ff514bc8.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/drainonpapertowels.jpg",
+      "path": "../../nenaudojama/snacks/images/903d36eefc119b358d1b2050.avif",
+      "archived": true,
+      "originalPath": "images/903d36eefc119b358d1b2050.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1356.jpg",
+      "path": "../../nenaudojama/snacks/images/cddefc0657c8a4848f53c364.avif",
+      "archived": true,
+      "originalPath": "images/cddefc0657c8a4848f53c364.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1358.jpg",
+      "path": "../../nenaudojama/snacks/images/0456b62faee23b00e7ec8c5f.jpg",
+      "archived": true,
+      "originalPath": "images/0456b62faee23b00e7ec8c5f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/cookiesheet-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/9e39c8687498df4d88cd83fb.jpg",
+      "archived": true,
+      "originalPath": "images/9e39c8687498df4d88cd83fb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/placingpepperonis-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/9a611eca883e3e0e141b4162.jpg",
+      "archived": true,
+      "originalPath": "images/9a611eca883e3e0e141b4162.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/pepperonibaked-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/586f1d35851204dae5b6f373.jpg",
+      "archived": true,
+      "originalPath": "images/586f1d35851204dae5b6f373.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/addedcheese-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/d0c47c9d5edd52873d884cac.avif",
+      "archived": true,
+      "originalPath": "images/d0c47c9d5edd52873d884cac.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/drainonpapertowels-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/204643e8c900ea7e6b945d8a.jpg",
+      "archived": true,
+      "originalPath": "images/204643e8c900ea7e6b945d8a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1356-241x350.jpg",
+      "path": "../../nenaudojama/snacks/images/10b0a4f87755a85830bf80d2.jpg",
+      "archived": true,
+      "originalPath": "images/10b0a4f87755a85830bf80d2.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/f359436cc341f0504b430363.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Pizza Chips",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 21 servings of Keto Pizza Chips. Each serving comes out to be 62 calories, 5.3g fats, 0.3g net carbs, and 3.1g protein.",
+    "datePublished": "2013-10-24T08:08:06+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1357.jpg"
+    ],
+    "recipeYield": [
+      "21",
+      "21 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "6 ounce pepperoni (sliced)",
+      "5 1/4 ounce mozzarella cheese (shredded)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 400F.",
+        "name": "Preheat oven to 400F.",
+        "url": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/cookiesheet.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On a non-stick baking sheet, arrange the pepperoni in overlapping batches of four.",
+        "name": "On a non-stick baking sheet, arrange the pepperoni in overlapping batches of four.",
+        "url": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/placingpepperonis.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for about 5 minutes or until semi-crispy and the fat is oozing out of them. If they move out of place, just arrange them back together.",
+        "name": "Bake for about 5 minutes or until semi-crispy and the fat is oozing out of them. If they move out of place, just arrange them back together.",
+        "url": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/pepperonibaked.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle cheese on top. Bake for another 3 minutes or until the cheese is melted and a little crisp.",
+        "name": "Sprinkle cheese on top. Bake for another 3 minutes or until the cheese is melted and a little crisp.",
+        "url": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/addedcheese.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chips onto paper towels to soak up any excess grease. Let sit for 3–4 minutes to cool off and crisp up even more.",
+        "name": "Place the chips onto paper towels to soak up any excess grease. Let sit for 3–4 minutes to cool off and crisp up even more.",
+        "url": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/drainonpapertowels.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/pizza-keto-chips/#wprm-recipe-50339-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1356.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, batch-cooking, beginner-friendly, egg-free, gluten-free, keto, low-carb, make-ahead, nut-free, oven-baked, party-food, pork, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "62 kcal",
+      "fatContent": "5.3 g",
+      "proteinContent": "3.1 g",
+      "carbohydrateContent": "0.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pizza-keto-chips/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pizza-keto-chips/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pizza-keto-chips/"
+  },
+  "sourceIndex": {
+    "id": 981,
+    "rid": 50339,
+    "t": "Pizza Keto Chips",
+    "u": "/pizza-keto-chips/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/10/IMG_1357-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 0.3,
+    "cal": 62,
+    "pr": 3.1,
+    "fa": 5.3,
+    "tm": 15,
+    "sv": 21,
+    "kw": [
+      "15-minute",
+      "batch-cooking",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "party-food",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 2,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "make-ahead",
+      "pork"
+    ],
+    "d": "2013-10-24",
+    "cm": 5,
+    "ex": "There's nothing better than a tasty, quick, and easy to make snack. These pizza chips are fantastic for batch cooking and throwing in your fridge for a rainy day. They're a bit messy to make, but",
+    "pv": 213
+  },
+  "sourceHtml": "pages/pizza-keto-chips.html",
+  "scrapedAt": "2026-11-07T08:31:52.507Z"
+}

@@ -1,0 +1,248 @@
+{
+  "id": "ruled-3629",
+  "slug": "catalina-style-dressing",
+  "title": "Catalina-Style Dressing",
+  "url": "https://www.ruled.me/catalina-style-dressing/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Catalina-Style Dressing. Each serving comes out to be 43 calories, 4.5g fats, 0.3g net carbs, and 0g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "fatContent": "4.5 g",
+    "carbohydrateContent": "0.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 43,
+    "netCarbsGrams": 0.3,
+    "proteinGrams": 0,
+    "fatGrams": 4.5
+  },
+  "ingredients": [
+    "1/2 cup olive oil",
+    "1/4 cup low-carb ketchup (like Heinz)",
+    "1/4 cup apple cider vinegar",
+    "1/4 cup onion (diced)",
+    "1/2 teaspoon worcestershire sauce",
+    "1/2 teaspoon smoked paprika",
+    "1/8 teaspoon liquid stevia",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Gather all ingredients, then put them into an emulsion blender container or large jar.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-0",
+      "imageSource": null
+    },
+    {
+      "text": "Start with emulsion blender touching the bottom of the container. Blend for about 30 seconds until mixture begins to emulsify.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Once mixture has begun to emulsify, you can move the blender up and down until all ingredients are thoroughly blended.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-2",
+      "imageSource": null
+    },
+    {
+      "text": "Pour into glass jar and refrigerate to let the flavors meld. If you used the homemade ketchup recipe, the dressing will last for several months. Otherwise, it will last for 2-3 weeks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Keto-Catalina-Style-Dressing-768x512.png",
+      "path": "../../nenaudojama/condiments/images/bc9bc7ce4a497a9b1efad538.webp",
+      "archived": true,
+      "originalPath": "images/bc9bc7ce4a497a9b1efad538.webp"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Keto-Catalina-Style-Dressing.png",
+      "path": "../../nenaudojama/condiments/images/620840796b1ce2fb11fcfe68.png",
+      "archived": true,
+      "originalPath": "images/620840796b1ce2fb11fcfe68.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaab1-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/fe9ae274a799f981e188037f.jpg",
+      "archived": true,
+      "originalPath": "images/fe9ae274a799f981e188037f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaab2-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/0891807c28510b9c66fecd54.jpg",
+      "archived": true,
+      "originalPath": "images/0891807c28510b9c66fecd54.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/aaab3-660x330.jpg",
+      "path": "../../nenaudojama/condiments/images/bf1a3b1412e6c890a6697fe3.jpg",
+      "archived": true,
+      "originalPath": "images/bf1a3b1412e6c890a6697fe3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/a-a-a22-351x330.jpg",
+      "path": "../../nenaudojama/condiments/images/0a742e35ee8c0b5ff9e9d8fc.jpg",
+      "archived": true,
+      "originalPath": "images/0a742e35ee8c0b5ff9e9d8fc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/Keto-Catalina-Style-Dressing-300x300.png",
+      "path": "../../nenaudojama/condiments/images/aa50cb6922f303e120617506.webp",
+      "archived": true,
+      "originalPath": "images/aa50cb6922f303e120617506.webp"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/620840796b1ce2fb11fcfe68.png",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Catalina-Style Dressing",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 24 servings of Catalina-Style Dressing. Each serving comes out to be 43 calories, 4.5g fats, 0.3g net carbs, and 0g protein.",
+    "datePublished": "2013-12-07T06:23:15+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/Keto-Catalina-Style-Dressing.png"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1/2 cup olive oil",
+      "1/4 cup low-carb ketchup (like Heinz)",
+      "1/4 cup apple cider vinegar",
+      "1/4 cup onion (diced)",
+      "1/2 teaspoon worcestershire sauce",
+      "1/2 teaspoon smoked paprika",
+      "1/8 teaspoon liquid stevia",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Gather all ingredients, then put them into an emulsion blender container or large jar.",
+        "name": "Gather all ingredients, then put them into an emulsion blender container or large jar.",
+        "url": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-0"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start with emulsion blender touching the bottom of the container. Blend for about 30 seconds until mixture begins to emulsify.",
+        "name": "Start with emulsion blender touching the bottom of the container. Blend for about 30 seconds until mixture begins to emulsify.",
+        "url": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once mixture has begun to emulsify, you can move the blender up and down until all ingredients are thoroughly blended.",
+        "name": "Once mixture has begun to emulsify, you can move the blender up and down until all ingredients are thoroughly blended.",
+        "url": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-2"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into glass jar and refrigerate to let the flavors meld. If you used the homemade ketchup recipe, the dressing will last for several months. Otherwise, it will last for 2-3 weeks.",
+        "name": "Pour into glass jar and refrigerate to let the flavors meld. If you used the homemade ketchup recipe, the dressing will last for several months. Otherwise, it will last for 2-3 weeks.",
+        "url": "https://www.ruled.me/catalina-style-dressing/#wprm-recipe-50517-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "43 kcal",
+      "fatContent": "4.5 g",
+      "carbohydrateContent": "0.3 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/catalina-style-dressing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/catalina-style-dressing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/catalina-style-dressing/"
+  },
+  "sourceIndex": {
+    "id": 3629,
+    "rid": 50517,
+    "t": "Catalina Style Dressing",
+    "u": "/catalina-style-dressing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/Keto-Catalina-Style-Dressing-768x512.png",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.3,
+    "cal": 43,
+    "pr": 0,
+    "fa": 4.5,
+    "tm": 5,
+    "sv": 24,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy"
+    ],
+    "ni": 8,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "no-cook"
+    ],
+    "d": "2013-12-07",
+    "cm": 6,
+    "ex": "I love being able to whip up a keto salad dressing from scratch with my emulsion blender! Even if I don't have my homemade ketchup on hand for this recipe, it only takes a few minutes more to make it",
+    "pv": 283
+  },
+  "sourceHtml": "pages/catalina-style-dressing.html",
+  "scrapedAt": "2026-11-07T08:33:44.374Z"
+}

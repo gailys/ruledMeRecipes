@@ -1,0 +1,326 @@
+{
+  "id": "ruled-25511",
+  "slug": "keto-tortilla-chips",
+  "title": "Keto Tortilla Chips",
+  "url": "https://www.ruled.me/keto-tortilla-chips/",
+  "source": "Ruled.me",
+  "category": "snacks",
+  "language": "en",
+  "description": "This makes a total of 36 Keto Tortilla Chips. Each chip is approximately 40.34 Calories, 3.03g Fats, 0.37g Net Carbs, and 0.83g Protein.",
+  "servings": 36,
+  "yield": [
+    "36"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "40.34 kcal",
+    "fatContent": "3.03 g",
+    "proteinContent": "0.83 g",
+    "carbohydrateContent": "0.37 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 40.34,
+    "netCarbsGrams": 0.37,
+    "proteinGrams": 0.83,
+    "fatGrams": 3.03
+  },
+  "ingredients": [
+    "6 flax seed tortillas (Recipe Here)",
+    "Oil for deep frying ((~3 tbsp. absorbed oil))",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    {
+      "text": "Make the flaxseed tortilla's using this recipe.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_5870.jpg"
+    },
+    {
+      "text": "Cut the tortillas into 6 slices. Pre-heat deep fryer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_5872.jpg"
+    },
+    {
+      "text": "Once ready, lay out 4-6 pieces or tortilla at a time.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_5875.jpg"
+    },
+    {
+      "text": "Fry for about 1-2 minutes, then flip. Fry for another 1-2 minutes on the other side.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_5880.jpg"
+    },
+    {
+      "text": "Remove from the fryer and place on paper towels to cool. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/img_5889.jpg"
+    },
+    {
+      "text": "Serve with toppings of choice!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips1.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "deep-fried",
+    "egg-free",
+    "game-day",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "party-food",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips2.jpg",
+      "path": "../../nenaudojama/snacks/images/75acd4fb2c5b5d6edcebad48.avif",
+      "archived": true,
+      "originalPath": "images/75acd4fb2c5b5d6edcebad48.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5870.jpg",
+      "path": "../../nenaudojama/snacks/images/cb33ea607c27a2e8f247ddd7.jpg",
+      "archived": true,
+      "originalPath": "images/cb33ea607c27a2e8f247ddd7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5872.jpg",
+      "path": "../../nenaudojama/snacks/images/d8e82bc03aaedcd7f92f637d.avif",
+      "archived": true,
+      "originalPath": "images/d8e82bc03aaedcd7f92f637d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5875.jpg",
+      "path": "../../nenaudojama/snacks/images/30ca50ae47c061652e2fee4e.avif",
+      "archived": true,
+      "originalPath": "images/30ca50ae47c061652e2fee4e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5880.jpg",
+      "path": "../../nenaudojama/snacks/images/737b6fd1a46ed2e8c1da2f32.avif",
+      "archived": true,
+      "originalPath": "images/737b6fd1a46ed2e8c1da2f32.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5889.jpg",
+      "path": "../../nenaudojama/snacks/images/a1197737ee9834beb46572a0.avif",
+      "archived": true,
+      "originalPath": "images/a1197737ee9834beb46572a0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips1.jpg",
+      "path": "../../nenaudojama/snacks/images/17dfbe58d3f9dc0da96a45e4.avif",
+      "archived": true,
+      "originalPath": "images/17dfbe58d3f9dc0da96a45e4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachipssecond.jpg",
+      "path": "../../nenaudojama/snacks/images/a0bedd0a15c612e2ca16cc38.avif",
+      "archived": true,
+      "originalPath": "images/a0bedd0a15c612e2ca16cc38.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5870-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/cd68257abaf0d0980da64832.avif",
+      "archived": true,
+      "originalPath": "images/cd68257abaf0d0980da64832.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5872-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/20cf074a7e69a2abf8385b3e.avif",
+      "archived": true,
+      "originalPath": "images/20cf074a7e69a2abf8385b3e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5875-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/1621dbc6313d9ec4e095f6a8.jpg",
+      "archived": true,
+      "originalPath": "images/1621dbc6313d9ec4e095f6a8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5880-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/a248031a89523cd5331bf32c.jpg",
+      "archived": true,
+      "originalPath": "images/a248031a89523cd5331bf32c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/img_5889-525x350.jpg",
+      "path": "../../nenaudojama/snacks/images/b677705bdb85fe034872922d.avif",
+      "archived": true,
+      "originalPath": "images/b677705bdb85fe034872922d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips1-241x350.jpg",
+      "path": "../../nenaudojama/snacks/images/4644f58336f5f68515a55e70.avif",
+      "archived": true,
+      "originalPath": "images/4644f58336f5f68515a55e70.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/snacks/images/75acd4fb2c5b5d6edcebad48.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Tortilla Chips",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 36 Keto Tortilla Chips. Each chip is approximately 40.34 Calories, 3.03g Fats, 0.37g Net Carbs, and 0.83g Protein.",
+    "datePublished": "2015-02-19T16:23:33+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips2.jpg"
+    ],
+    "recipeYield": [
+      "36"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "6 flax seed tortillas (Recipe Here)",
+      "Oil for deep frying ((~3 tbsp. absorbed oil))",
+      "Salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Make the flaxseed tortilla's using this recipe.",
+        "name": "Make the flaxseed tortilla's using this recipe.",
+        "url": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_5870.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the tortillas into 6 slices. Pre-heat deep fryer.",
+        "name": "Cut the tortillas into 6 slices. Pre-heat deep fryer.",
+        "url": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_5872.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once ready, lay out 4-6 pieces or tortilla at a time.",
+        "name": "Once ready, lay out 4-6 pieces or tortilla at a time.",
+        "url": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_5875.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry for about 1-2 minutes, then flip. Fry for another 1-2 minutes on the other side.",
+        "name": "Fry for about 1-2 minutes, then flip. Fry for another 1-2 minutes on the other side.",
+        "url": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_5880.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the fryer and place on paper towels to cool. Season with salt and pepper to taste.",
+        "name": "Remove from the fryer and place on paper towels to cool. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/img_5889.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with toppings of choice!",
+        "name": "Serve with toppings of choice!",
+        "url": "https://www.ruled.me/keto-tortilla-chips/#wprm-recipe-51591-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips1.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Snacks"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, deep-fried, egg-free, game-day, gluten-free, keto, low-carb, nut-free, party-food, quick, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "40.34 kcal",
+      "fatContent": "3.03 g",
+      "proteinContent": "0.83 g",
+      "carbohydrateContent": "0.37 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-tortilla-chips/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-tortilla-chips/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-tortilla-chips/"
+  },
+  "sourceIndex": {
+    "id": 25511,
+    "rid": 51591,
+    "t": "Keto Tortilla Chips",
+    "u": "/keto-tortilla-chips/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/02/ketotortillachips2.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "snacks",
+    "nc": 0.37,
+    "cal": 40.34,
+    "pr": 0.83,
+    "fa": 3.03,
+    "tm": 30,
+    "sv": 36,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "deep-fried",
+      "egg-free",
+      "game-day",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "party-food",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 3,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients"
+    ],
+    "d": "2015-02-19",
+    "cm": 11,
+    "ex": "Imagine if you went to Taco Bell right now and ordered a chalupa, then came home and deep fried it. Now, imagine if that same chalupa was low-carb and keto friendly. This is what the keto tortilla",
+    "pv": 190
+  },
+  "sourceHtml": "pages/keto-tortilla-chips.html",
+  "scrapedAt": "2026-11-07T08:31:24.117Z"
+}

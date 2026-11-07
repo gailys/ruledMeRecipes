@@ -1,0 +1,267 @@
+{
+  "id": "ruled-1667",
+  "slug": "keto-recipe-chocolate-peanut-butter-ice-cream",
+  "title": "Chocolate Peanut Butter Ice Cream",
+  "url": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Chocolate Peanut Butter Ice Cream. Each serving comes out to be 310 calories, 18.4g fats, 6.9g net carbs, and 29.4g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT60M",
+  "cookTime": "PT0M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "310 kcal",
+    "fatContent": "18.4 g",
+    "proteinContent": "29.4 g",
+    "carbohydrateContent": "6.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 310,
+    "netCarbsGrams": 6.9,
+    "proteinGrams": 29.4,
+    "fatGrams": 18.4
+  },
+  "ingredients": [
+    "1 cup cottage cheese",
+    "6 drop liquid stevia (like sweetleaf)",
+    "2 tablespoon heavy whipping cream",
+    "2 tablespoon peanut butter",
+    "33 gram low-carb protein powder (like isopure)"
+  ],
+  "instructions": [
+    {
+      "text": "Get all the ingredients together for this simple and easy to make keto ice cream!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-01.jpg"
+    },
+    {
+      "text": "Put the cottage cheese, stevia, heavy cream, protein powder, and peanut butter into a cup (or food processor).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-04.jpg"
+    },
+    {
+      "text": "Blend everything up until the curds of the cottage cheese are smooth. This should aerate the ice cream a little bit and turn it a lighter color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-05.jpg"
+    },
+    {
+      "text": "Separate the ice cream batter into servings, then put it in the freezer for 40 minutes to set.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-06.jpg"
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-bake",
+    "no-cook",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/11a83bc578c92c8fe78d79a5.jpg",
+      "archived": true,
+      "originalPath": "images/11a83bc578c92c8fe78d79a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-featured.jpg",
+      "path": "images/5a81b33c42f8d34545276322.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-01.jpg",
+      "path": "../../nenaudojama/dessert/images/afef971637229ea5764a7a84.jpg",
+      "archived": true,
+      "originalPath": "images/afef971637229ea5764a7a84.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-04.jpg",
+      "path": "../../nenaudojama/dessert/images/bbfa2181447abb2ecba0151a.jpg",
+      "archived": true,
+      "originalPath": "images/bbfa2181447abb2ecba0151a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-05.jpg",
+      "path": "../../nenaudojama/dessert/images/1f676dedea21b86757eb8bf9.jpg",
+      "archived": true,
+      "originalPath": "images/1f676dedea21b86757eb8bf9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-06.jpg",
+      "path": "../../nenaudojama/dessert/images/b3d44aa7c9989e6630ca737d.jpg",
+      "archived": true,
+      "originalPath": "images/b3d44aa7c9989e6630ca737d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/fd75c0c6894ffcba9c269fa1.jpg",
+      "archived": true,
+      "originalPath": "images/fd75c0c6894ffcba9c269fa1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-01-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3ae3ec8a7719fa8999b84645.jpg",
+      "archived": true,
+      "originalPath": "images/3ae3ec8a7719fa8999b84645.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-04-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/cd2ae7d3f3f8371b077afc52.jpg",
+      "archived": true,
+      "originalPath": "images/cd2ae7d3f3f8371b077afc52.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-05-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/ffb62b19e45956ad82ceab6a.jpg",
+      "archived": true,
+      "originalPath": "images/ffb62b19e45956ad82ceab6a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-06-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/6ffb8efdf82ed9080c86d358.jpg",
+      "archived": true,
+      "originalPath": "images/6ffb8efdf82ed9080c86d358.jpg"
+    }
+  ],
+  "featuredImage": "images/5a81b33c42f8d34545276322.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chocolate Peanut Butter Ice Cream",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Chocolate Peanut Butter Ice Cream. Each serving comes out to be 310 calories, 18.4g fats, 6.9g net carbs, and 29.4g protein.",
+    "datePublished": "2013-11-11T03:46:18+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT60M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "1 cup cottage cheese",
+      "6 drop liquid stevia (like sweetleaf)",
+      "2 tablespoon heavy whipping cream",
+      "2 tablespoon peanut butter",
+      "33 gram low-carb protein powder (like isopure)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Get all the ingredients together for this simple and easy to make keto ice cream!",
+        "name": "Get all the ingredients together for this simple and easy to make keto ice cream!",
+        "url": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the cottage cheese, stevia, heavy cream, protein powder, and peanut butter into a cup (or food processor).",
+        "name": "Put the cottage cheese, stevia, heavy cream, protein powder, and peanut butter into a cup (or food processor).",
+        "url": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend everything up until the curds of the cottage cheese are smooth. This should aerate the ice cream a little bit and turn it a lighter color.",
+        "name": "Blend everything up until the curds of the cottage cheese are smooth. This should aerate the ice cream a little bit and turn it a lighter color.",
+        "url": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Separate the ice cream batter into servings, then put it in the freezer for 40 minutes to set.",
+        "name": "Separate the ice cream batter into servings, then put it in the freezer for 40 minutes to set.",
+        "url": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#wprm-recipe-50413-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-06.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "egg-free, gluten-free, high-protein, keto, low-carb, no-bake, no-cook, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "310 kcal",
+      "fatContent": "18.4 g",
+      "proteinContent": "29.4 g",
+      "carbohydrateContent": "6.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-recipe-chocolate-peanut-butter-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 1667,
+    "rid": 50413,
+    "t": "Keto Recipe: Chocolate Peanut Butter Ice Cream",
+    "u": "/keto-recipe-chocolate-peanut-butter-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/11/keto-chocolate-peanut-butter-ice-cream-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 6.9,
+    "cal": 310,
+    "pr": 29.4,
+    "fa": 18.4,
+    "tm": 60,
+    "sv": 2,
+    "kw": [
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-bake",
+      "no-cook",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2013-11-10",
+    "cm": 8,
+    "ex": "Call it a fat bomb if you will, but I'll call it my temptation atomic bomb. Chocolatey, peanut-buttery, rich, and purely delicious. This is the keto ice cream that I always make when I am having a",
+    "pv": 141
+  },
+  "sourceHtml": "pages/keto-recipe-chocolate-peanut-butter-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.733Z"
+}

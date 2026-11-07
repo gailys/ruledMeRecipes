@@ -1,0 +1,345 @@
+{
+  "id": "ruled-41358",
+  "slug": "keto-cloud-bread-blt",
+  "title": "Keto Cloud Bread BLT",
+  "url": "https://www.ruled.me/keto-cloud-bread-blt/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Cloud Bread BLT. Each serving comes out to be 556 calories, 49.9g fats, 4g net carbs, and 20.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "totalMinutes": 50,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "556 kcal",
+    "fatContent": "49.9 g",
+    "proteinContent": "20.1 g",
+    "carbohydrateContent": "4 g"
+  },
+  "nutritionPerServing": {
+    "calories": 556,
+    "netCarbsGrams": 4,
+    "proteinGrams": 20.1,
+    "fatGrams": 49.9
+  },
+  "ingredients": [
+    "3 large egg",
+    "4 1/4 ounce cream cheese (softened)",
+    "salt (to taste)",
+    "1/2 tablespoon psyllium husk powder",
+    "1/2 teaspoon baking powder",
+    "1/4 teaspoon cream of tartar",
+    "8 tablespoon mayonnaise",
+    "5 ounce cooked bacon",
+    "2 ounce romaine lettuce",
+    "1 large fresh tomatoes (thinly sliced)"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 300F. Separate the eggs into whites and yolks.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-01.jpg"
+    },
+    {
+      "text": "Add salt and cream of tartar to the egg whites. Whip until very stiff with a hand mixer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-02.jpg"
+    },
+    {
+      "text": "Mix the cream cheese, egg yolks, and psyllium husk powder together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-03.jpg"
+    },
+    {
+      "text": "Gently fold the egg whites into the egg yolks. Don’t over mix or the whites will lose their whip.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-04.jpg"
+    },
+    {
+      "text": "Add some parchment paper to a baking sheet. Shape the batter into 8 rounds then bake for 25 minutes, or until golden.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-05.jpg"
+    },
+    {
+      "text": "Turn the cloud bread pieces over so their tops face down. Spread 1 tablespoon across each.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-06.jpg"
+    }
+  ],
+  "keywords": [
+    "eggs",
+    "freezer-friendly",
+    "gluten-free",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "oven-baked",
+    "packed-lunch",
+    "pork",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "oven-baked",
+    "high-protein",
+    "pork",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/98d412b1448cd76e7a06c988.jpg",
+      "archived": true,
+      "originalPath": "images/98d412b1448cd76e7a06c988.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-featured.jpg",
+      "path": "images/62fa9cce06bb327ea8bc4cea.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-01.jpg",
+      "path": "../../nenaudojama/lunch/images/6551c0d9138f8a13a03dc8cb.avif",
+      "archived": true,
+      "originalPath": "images/6551c0d9138f8a13a03dc8cb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-02.jpg",
+      "path": "../../nenaudojama/lunch/images/83070e9620ab973977c1e129.jpg",
+      "archived": true,
+      "originalPath": "images/83070e9620ab973977c1e129.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-03.jpg",
+      "path": "../../nenaudojama/lunch/images/fcbde756e6ff509a07accca7.jpg",
+      "archived": true,
+      "originalPath": "images/fcbde756e6ff509a07accca7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-04.jpg",
+      "path": "../../nenaudojama/lunch/images/cd32e84bba676b6be369656f.jpg",
+      "archived": true,
+      "originalPath": "images/cd32e84bba676b6be369656f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-05.jpg",
+      "path": "../../nenaudojama/lunch/images/4bfe923c064baef24edbb07f.jpg",
+      "archived": true,
+      "originalPath": "images/4bfe923c064baef24edbb07f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-06.jpg",
+      "path": "../../nenaudojama/lunch/images/ba28cffebe9bc9c07f9c8eeb.jpg",
+      "archived": true,
+      "originalPath": "images/ba28cffebe9bc9c07f9c8eeb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-second.jpg",
+      "path": "../../nenaudojama/lunch/images/b851b39e2bedc5123fa7ad2c.jpg",
+      "archived": true,
+      "originalPath": "images/b851b39e2bedc5123fa7ad2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/680853c30f28128598e8485d.jpg",
+      "archived": true,
+      "originalPath": "images/680853c30f28128598e8485d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/c0b231e4ebea346ac71b2a33.avif",
+      "archived": true,
+      "originalPath": "images/c0b231e4ebea346ac71b2a33.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/18a4d53bddbd9043353d58be.jpg",
+      "archived": true,
+      "originalPath": "images/18a4d53bddbd9043353d58be.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/dc5d4b7508bb6251715300fe.jpg",
+      "archived": true,
+      "originalPath": "images/dc5d4b7508bb6251715300fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/616ff58766359e764a9d8125.jpg",
+      "archived": true,
+      "originalPath": "images/616ff58766359e764a9d8125.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-04-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/2edbe3f12481c93cec5427b2.avif",
+      "archived": true,
+      "originalPath": "images/2edbe3f12481c93cec5427b2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e746732f20faf8d2c2f98cc3.avif",
+      "archived": true,
+      "originalPath": "images/e746732f20faf8d2c2f98cc3.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-06-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/030527d3e7fd5d1c3ce9e4d5.jpg",
+      "archived": true,
+      "originalPath": "images/030527d3e7fd5d1c3ce9e4d5.jpg"
+    }
+  ],
+  "featuredImage": "images/62fa9cce06bb327ea8bc4cea.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Cloud Bread BLT",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Keto Cloud Bread BLT. Each serving comes out to be 556 calories, 49.9g fats, 4g net carbs, and 20.1g protein.",
+    "datePublished": "2019-10-01T09:00:04+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeIngredient": [
+      "3 large egg",
+      "4 1/4 ounce cream cheese (softened)",
+      "salt (to taste)",
+      "1/2 tablespoon psyllium husk powder",
+      "1/2 teaspoon baking powder",
+      "1/4 teaspoon cream of tartar",
+      "8 tablespoon mayonnaise",
+      "5 ounce cooked bacon",
+      "2 ounce romaine lettuce",
+      "1 large fresh tomatoes (thinly sliced)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 300F. Separate the eggs into whites and yolks.",
+        "name": "Preheat your oven to 300F. Separate the eggs into whites and yolks.",
+        "url": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add salt and cream of tartar to the egg whites. Whip until very stiff with a hand mixer.",
+        "name": "Add salt and cream of tartar to the egg whites. Whip until very stiff with a hand mixer.",
+        "url": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the cream cheese, egg yolks, and psyllium husk powder together.",
+        "name": "Mix the cream cheese, egg yolks, and psyllium husk powder together.",
+        "url": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the egg whites into the egg yolks. Don’t over mix or the whites will lose their whip.",
+        "name": "Gently fold the egg whites into the egg yolks. Don’t over mix or the whites will lose their whip.",
+        "url": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add some parchment paper to a baking sheet. Shape the batter into 8 rounds then bake for 25 minutes, or until golden.",
+        "name": "Add some parchment paper to a baking sheet. Shape the batter into 8 rounds then bake for 25 minutes, or until golden.",
+        "url": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the cloud bread pieces over so their tops face down. Spread 1 tablespoon across each.",
+        "name": "Turn the cloud bread pieces over so their tops face down. Spread 1 tablespoon across each.",
+        "url": "https://www.ruled.me/keto-cloud-bread-blt/#wprm-recipe-53155-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-06.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Bread",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "eggs, freezer-friendly, gluten-free, high-fat, keto, low-carb, nut-free, oven-baked, packed-lunch, pork, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "556 kcal",
+      "fatContent": "49.9 g",
+      "proteinContent": "20.1 g",
+      "carbohydrateContent": "4 g"
+    },
+    "@id": "https://www.ruled.me/keto-cloud-bread-blt/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-cloud-bread-blt/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-cloud-bread-blt/"
+  },
+  "sourceIndex": {
+    "id": 41358,
+    "rid": 53155,
+    "t": "Keto Cloud Bread BLT",
+    "u": "/keto-cloud-bread-blt/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/09/keto-blt-cloud-bread-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 4,
+    "cal": 556,
+    "pr": 20.1,
+    "fa": 49.9,
+    "tm": 50,
+    "sv": 4,
+    "kw": [
+      "eggs",
+      "freezer-friendly",
+      "gluten-free",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "oven-baked",
+      "packed-lunch",
+      "pork",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "oven-baked",
+      "high-protein",
+      "pork",
+      "eggs"
+    ],
+    "d": "2019-10-01",
+    "cm": 0,
+    "ex": "Cloud bread is a longstanding keto staple. It can be a touch tricky, but it makes a great bread substitute for sandwiches. We’ll show you how to not only make it, but also how to turn it into a great",
+    "pv": 323
+  },
+  "sourceHtml": "pages/keto-cloud-bread-blt.html",
+  "scrapedAt": "2026-11-07T08:16:14.467Z"
+}

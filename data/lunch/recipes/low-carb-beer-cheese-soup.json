@@ -1,0 +1,280 @@
+{
+  "id": "ruled-40360",
+  "slug": "low-carb-beer-cheese-soup",
+  "title": "Low Carb Beer Cheese Soup",
+  "url": "https://www.ruled.me/low-carb-beer-cheese-soup/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Low Carb Beer Cheese Soup. Each serving comes out to be 413 calories, 33.6g fats, 5.2g net carbs, and 17.9g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "totalMinutes": 40,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "413 kcal",
+    "fatContent": "33.6 g",
+    "proteinContent": "17.9 g",
+    "carbohydrateContent": "5.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 413,
+    "netCarbsGrams": 5.2,
+    "proteinGrams": 17.9,
+    "fatGrams": 33.6
+  },
+  "ingredients": [
+    "3 cup chicken broth",
+    "12 ounce low-carb beer",
+    "1/2 cup heavy whipping cream",
+    "2 teaspoon xanthan gum",
+    "6 slice cooked bacon (crumbled)",
+    "12 ounce cheddar cheese (shredded)",
+    "1 tablespoon butter",
+    "1/2 cup onion (diced)",
+    "2 teaspoon fresh garlic (minced)",
+    "1/2 small red bell pepper (diced)",
+    "1 tablespoon dijon mustard",
+    "1 teaspoon celery salt",
+    "1 teaspoon black pepper",
+    "1/2 teaspoon paprika",
+    "1/4 teaspoon cayenne pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a stock pot over medium heat. Add the butter, then once it’s hot add the bell pepper and onion. Sauté until the onion and pepper have softened. Add the garlic and cook for a few more minutes until the garlic is fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-02.jpg"
+    },
+    {
+      "text": "Pour in the chicken stock, beer, and heavy cream. Sprinkle in the celery salt, black pepper, paprika, and cayenne pepper. Stir occasionally while the soup heats up to a simmer.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-03.jpg"
+    },
+    {
+      "text": "Once the soup is simmering, add the xanthan gum. Prevent clumping by adding some of the hot soup to a small bowl, then whisk the xanthan gum in and add the slurry to the soup. Continue to stir and simmer the soup so that it thickens.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-05.jpg"
+    },
+    {
+      "text": "Slowly add the cheese, handfuls at a time. Let the cheese dissolve before adding more. Serve with crumbled bacon on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "stovetop",
+    "sugar-free",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "stovetop"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/b167712fded0f408f206c84c.jpg",
+      "archived": true,
+      "originalPath": "images/b167712fded0f408f206c84c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-featured.jpg",
+      "path": "images/c67d22811bbaaa57f8e6d079.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-02.jpg",
+      "path": "../../nenaudojama/lunch/images/ed555045cbd678dd62544429.avif",
+      "archived": true,
+      "originalPath": "images/ed555045cbd678dd62544429.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-03.jpg",
+      "path": "../../nenaudojama/lunch/images/81d4b9d318560a1b152e13e0.jpg",
+      "archived": true,
+      "originalPath": "images/81d4b9d318560a1b152e13e0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-05.jpg",
+      "path": "../../nenaudojama/lunch/images/cb9343e01edf8318b5d63b4d.avif",
+      "archived": true,
+      "originalPath": "images/cb9343e01edf8318b5d63b4d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-second.jpg",
+      "path": "../../nenaudojama/lunch/images/aa533230fb508fea5c453030.avif",
+      "archived": true,
+      "originalPath": "images/aa533230fb508fea5c453030.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/8a7a079693db9dfdef37a9ec.avif",
+      "archived": true,
+      "originalPath": "images/8a7a079693db9dfdef37a9ec.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-02-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/c9bd72129d5f55e1abe7d9a3.jpg",
+      "archived": true,
+      "originalPath": "images/c9bd72129d5f55e1abe7d9a3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/665f15d8b1f4a179e2aa2569.avif",
+      "archived": true,
+      "originalPath": "images/665f15d8b1f4a179e2aa2569.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-05-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/e4cb91dfbf86bb07f52a65a9.avif",
+      "archived": true,
+      "originalPath": "images/e4cb91dfbf86bb07f52a65a9.avif"
+    }
+  ],
+  "featuredImage": "images/c67d22811bbaaa57f8e6d079.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Low Carb Beer Cheese Soup",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Low Carb Beer Cheese Soup. Each serving comes out to be 413 calories, 33.6g fats, 5.2g net carbs, and 17.9g protein.",
+    "datePublished": "2019-06-18T08:00:11+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeIngredient": [
+      "3 cup chicken broth",
+      "12 ounce low-carb beer",
+      "1/2 cup heavy whipping cream",
+      "2 teaspoon xanthan gum",
+      "6 slice cooked bacon (crumbled)",
+      "12 ounce cheddar cheese (shredded)",
+      "1 tablespoon butter",
+      "1/2 cup onion (diced)",
+      "2 teaspoon fresh garlic (minced)",
+      "1/2 small red bell pepper (diced)",
+      "1 tablespoon dijon mustard",
+      "1 teaspoon celery salt",
+      "1 teaspoon black pepper",
+      "1/2 teaspoon paprika",
+      "1/4 teaspoon cayenne pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a stock pot over medium heat. Add the butter, then once it’s hot add the bell pepper and onion. Sauté until the onion and pepper have softened. Add the garlic and cook for a few more minutes until the garlic is fragrant.",
+        "name": "Preheat a stock pot over medium heat. Add the butter, then once it’s hot add the bell pepper and onion. Sauté until the onion and pepper have softened. Add the garlic and cook for a few more minutes until the garlic is fragrant.",
+        "url": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the chicken stock, beer, and heavy cream. Sprinkle in the celery salt, black pepper, paprika, and cayenne pepper. Stir occasionally while the soup heats up to a simmer.",
+        "name": "Pour in the chicken stock, beer, and heavy cream. Sprinkle in the celery salt, black pepper, paprika, and cayenne pepper. Stir occasionally while the soup heats up to a simmer.",
+        "url": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the soup is simmering, add the xanthan gum. Prevent clumping by adding some of the hot soup to a small bowl, then whisk the xanthan gum in and add the slurry to the soup. Continue to stir and simmer the soup so that it thickens.",
+        "name": "Once the soup is simmering, add the xanthan gum. Prevent clumping by adding some of the hot soup to a small bowl, then whisk the xanthan gum in and add the slurry to the soup. Continue to stir and simmer the soup so that it thickens.",
+        "url": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly add the cheese, handfuls at a time. Let the cheese dissolve before adding more. Serve with crumbled bacon on top.",
+        "name": "Slowly add the cheese, handfuls at a time. Let the cheese dissolve before adding more. Serve with crumbled bacon on top.",
+        "url": "https://www.ruled.me/low-carb-beer-cheese-soup/#wprm-recipe-53040-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Soup"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, fall, high-fat, keto, low-carb, nut-free, stovetop, sugar-free, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "413 kcal",
+      "fatContent": "33.6 g",
+      "proteinContent": "17.9 g",
+      "carbohydrateContent": "5.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/low-carb-beer-cheese-soup/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/low-carb-beer-cheese-soup/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/low-carb-beer-cheese-soup/"
+  },
+  "sourceIndex": {
+    "id": 40360,
+    "rid": 53040,
+    "t": "Low Carb Beer Cheese Soup",
+    "u": "/low-carb-beer-cheese-soup/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/05/low-carb-beer-cheese-soup-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 5.2,
+    "cal": 413,
+    "pr": 17.9,
+    "fa": 33.6,
+    "tm": 40,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "stovetop",
+      "sugar-free",
+      "winter"
+    ],
+    "ni": 15,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "stovetop"
+    ],
+    "d": "2019-06-18",
+    "cm": 3,
+    "ex": "This beer cheese soup has all the elements of a great meal: heavy cream, crumbly bacon, melted cheese, and low-carb beer. Make sure you check out our article on keto friendly beers. We use a bit of",
+    "pv": 455
+  },
+  "sourceHtml": "pages/low-carb-beer-cheese-soup.html",
+  "scrapedAt": "2026-11-07T08:16:21.505Z"
+}

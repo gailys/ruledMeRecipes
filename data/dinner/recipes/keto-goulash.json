@@ -1,0 +1,325 @@
+{
+  "id": "ruled-48953",
+  "slug": "keto-goulash",
+  "title": "Keto Goulash",
+  "url": "https://www.ruled.me/keto-goulash/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 8 servings of Keto Goulash. Each serving comes out to be 486 calories, 35.2g fats, 9.3g net carbs, and 31.6g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT480M",
+  "totalTime": "PT495M",
+  "totalMinutes": 495,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "486 kcal",
+    "fatContent": "35.2 g",
+    "proteinContent": "31.6 g",
+    "carbohydrateContent": "9.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 486,
+    "netCarbsGrams": 9.3,
+    "proteinGrams": 31.6,
+    "fatGrams": 35.2
+  },
+  "ingredients": [
+    "1 medium yellow onion",
+    "1 medium red bell pepper",
+    "4 ounce celeriac",
+    "4 ounce butter",
+    "2 teaspoon fresh garlic (minced)",
+    "1 tablespoon tomato paste",
+    "10 ounce crushed tomatoes",
+    "3/4 cup beef broth",
+    "1 tablespoon paprika",
+    "1 tablespoon italian seasoning",
+    "1 teaspoon onion powder",
+    "32 ounce beef chuck roast (cut into 1/2\" pieces)",
+    "salt and pepper (to taste)",
+    "32 ounce green cabbage (shredded)",
+    "4 tablespoon butter",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all of the ingredients. Chop the onion and red bell pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-1.jpg"
+    },
+    {
+      "text": "Add all of the ingredients for the goulash to a crock pot.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-3.jpg"
+    },
+    {
+      "text": "Add in the seasonings. Cook for 8 hours on low.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-4.jpg"
+    },
+    {
+      "text": "In a frying pan, add the butter and green cabbage until cabbage is tender and golden brown in color. Season with salt and pepper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-5.jpg"
+    },
+    {
+      "text": "Serve the cooked goulash with the green cabbage. Enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "batch-cooking",
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "nut-free",
+    "red-meat",
+    "simple-and-easy",
+    "slow-cooker",
+    "sugar-free",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/5ecbc3e3b1e107bac5eb15ff.avif",
+      "archived": true,
+      "originalPath": "images/5ecbc3e3b1e107bac5eb15ff.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-Featured.jpg",
+      "path": "images/bbc569073657412c9ae62104.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-1.jpg",
+      "path": "../../nenaudojama/dinner/images/195d5b1765edffd71fc500cd.jpg",
+      "archived": true,
+      "originalPath": "images/195d5b1765edffd71fc500cd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-3.jpg",
+      "path": "../../nenaudojama/dinner/images/8ca32f3d741c69376d24d1b5.jpg",
+      "archived": true,
+      "originalPath": "images/8ca32f3d741c69376d24d1b5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-4.jpg",
+      "path": "../../nenaudojama/dinner/images/1c48664c6fc41bf572d0c5de.jpg",
+      "archived": true,
+      "originalPath": "images/1c48664c6fc41bf572d0c5de.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-5.jpg",
+      "path": "../../nenaudojama/dinner/images/25148f9c310ae055e6def64d.avif",
+      "archived": true,
+      "originalPath": "images/25148f9c310ae055e6def64d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/517aebcd13e0dcedf59b671b.jpg",
+      "archived": true,
+      "originalPath": "images/517aebcd13e0dcedf59b671b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/06/Keto-Goulash-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/74e1aa88b16e42c360181edd.avif",
+      "archived": true,
+      "originalPath": "images/74e1aa88b16e42c360181edd.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/d14befdf5ccb2176e80d5506.jpg",
+      "archived": true,
+      "originalPath": "images/d14befdf5ccb2176e80d5506.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/ab4fdb41685c73063a4fdcd4.jpg",
+      "archived": true,
+      "originalPath": "images/ab4fdb41685c73063a4fdcd4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/74f058e87351039bc713b4f0.jpg",
+      "archived": true,
+      "originalPath": "images/74f058e87351039bc713b4f0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/dfe52ccb74ef6494b74a3098.jpg",
+      "archived": true,
+      "originalPath": "images/dfe52ccb74ef6494b74a3098.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4876f8cb6fff7c942deeeba2.jpg",
+      "archived": true,
+      "originalPath": "images/4876f8cb6fff7c942deeeba2.jpg"
+    }
+  ],
+  "featuredImage": "images/bbc569073657412c9ae62104.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Goulash",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 8 servings of Keto Goulash. Each serving comes out to be 486 calories, 35.2g fats, 9.3g net carbs, and 31.6g protein.",
+    "datePublished": "2023-06-08T09:00:06+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-Featured.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT480M",
+    "totalTime": "PT495M",
+    "recipeIngredient": [
+      "1 medium yellow onion",
+      "1 medium red bell pepper",
+      "4 ounce celeriac",
+      "4 ounce butter",
+      "2 teaspoon fresh garlic (minced)",
+      "1 tablespoon tomato paste",
+      "10 ounce crushed tomatoes",
+      "3/4 cup beef broth",
+      "1 tablespoon paprika",
+      "1 tablespoon italian seasoning",
+      "1 teaspoon onion powder",
+      "32 ounce beef chuck roast (cut into 1/2\" pieces)",
+      "salt and pepper (to taste)",
+      "32 ounce green cabbage (shredded)",
+      "4 tablespoon butter",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all of the ingredients. Chop the onion and red bell pepper.",
+        "name": "Measure out and prepare all of the ingredients. Chop the onion and red bell pepper.",
+        "url": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add all of the ingredients for the goulash to a crock pot.",
+        "name": "Add all of the ingredients for the goulash to a crock pot.",
+        "url": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in the seasonings. Cook for 8 hours on low.",
+        "name": "Add in the seasonings. Cook for 8 hours on low.",
+        "url": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, add the butter and green cabbage until cabbage is tender and golden brown in color. Season with salt and pepper.",
+        "name": "In a frying pan, add the butter and green cabbage until cabbage is tender and golden brown in color. Season with salt and pepper.",
+        "url": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the cooked goulash with the green cabbage. Enjoy!",
+        "name": "Serve the cooked goulash with the green cabbage. Enjoy!",
+        "url": "https://www.ruled.me/keto-goulash/#wprm-recipe-54637-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Hungarian"
+    ],
+    "keywords": "batch-cooking, comfort-food, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, nut-free, red meat, simple &amp; easy, slow cooker, sugar-free, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "486 kcal",
+      "fatContent": "35.2 g",
+      "proteinContent": "31.6 g",
+      "carbohydrateContent": "9.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-goulash/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-goulash/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-goulash/"
+  },
+  "sourceIndex": {
+    "id": 48953,
+    "rid": 54637,
+    "t": "Keto Goulash",
+    "u": "/keto-goulash/",
+    "img": "https://www.ruled.me/wp-content/uploads/2023/04/Keto-Goulash-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 9.3,
+    "cal": 486,
+    "pr": 31.6,
+    "fa": 35.2,
+    "tm": 495,
+    "sv": 8,
+    "kw": [
+      "batch-cooking",
+      "comfort-food",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "nut-free",
+      "red-meat",
+      "simple-and-easy",
+      "slow-cooker",
+      "sugar-free",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 16,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2023-06-08",
+    "cm": 0,
+    "ex": "Thick, flavorsome and hearty—it’s impossible not to love goulash soup. Succulent pieces of chuck roast slow-cooked in a rich paprika and tomato sauce make this Hungarian classic the ultimate winter",
+    "pv": 182
+  },
+  "sourceHtml": "pages/keto-goulash.html",
+  "scrapedAt": "2026-11-07T08:27:43.689Z"
+}

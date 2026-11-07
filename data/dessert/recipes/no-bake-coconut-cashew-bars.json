@@ -1,0 +1,338 @@
+{
+  "id": "ruled-27725",
+  "slug": "no-bake-coconut-cashew-bars",
+  "title": "No-Bake Coconut Cashew Bars",
+  "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 8 servings of No-Bake Coconut Cashew Bars. Each serving comes out to be 199 calories, 18.5g fats, 4.1g net carbs, and 4.5g protein.",
+  "servings": 8,
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT120M",
+  "totalTime": "PT130M",
+  "totalMinutes": 130,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "199 kcal",
+    "fatContent": "18.5 g",
+    "proteinContent": "4.5 g",
+    "carbohydrateContent": "4.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 199,
+    "netCarbsGrams": 4.1,
+    "proteinGrams": 4.5,
+    "fatGrams": 18.5
+  },
+  "ingredients": [
+    "1/4 cup butter (melted)",
+    "1 cup almond flour",
+    "1 teaspoon ground cinnamon",
+    "salt (to taste)",
+    "1/4 cup low-carb maple syrup",
+    "1/4 cup unsweetened shredded coconut",
+    "1/2 cup cashews (raw or roasted)"
+  ],
+  "instructions": [
+    {
+      "text": "Combine the melted butter and almond flour in a large bowl and mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/01/01Combine-almond-and-butter.jpg"
+    },
+    {
+      "text": "Add the cinnamon, salt, and sugar-free maple syrup. Mix well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/01/02Add-in-maple-and-cinnamon.jpg"
+    },
+    {
+      "text": "Next, add the shredded coconut and mix again.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/01/03Add-shredded-coconut.jpg"
+    },
+    {
+      "text": "Roughly chop the cashews and add them to the dough. Mix very well to combine everything evenly.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/01/04Add-cashews.jpg"
+    },
+    {
+      "text": "Line a baking dish with parchment paper and spread the dough out in an even layer. Add some extra shredded coconut and cinnamon on top for a prettier presentation.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/01/05Spread-evenly.jpg"
+    },
+    {
+      "text": "Place in the refrigerator and chill for at least 2 hours, but preferably overnight. Once chilled, slice into bars.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2016/01/06Chill-and-slice.jpg"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-bake",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/Coconut-cashews-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/faa178508ae9b29db9fc0d32.jpg",
+      "archived": true,
+      "originalPath": "images/faa178508ae9b29db9fc0d32.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/Coconut-cashews.jpg",
+      "path": "images/4895078d3f3203cf60944695.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/01Combine-almond-and-butter.jpg",
+      "path": "../../nenaudojama/dessert/images/41fe45d9fab39e4d3c5baf3a.avif",
+      "archived": true,
+      "originalPath": "images/41fe45d9fab39e4d3c5baf3a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/02Add-in-maple-and-cinnamon.jpg",
+      "path": "../../nenaudojama/dessert/images/44265ba79d277ef41b82c2da.jpg",
+      "archived": true,
+      "originalPath": "images/44265ba79d277ef41b82c2da.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/03Add-shredded-coconut.jpg",
+      "path": "../../nenaudojama/dessert/images/21c35499b9bfbdca22359746.jpg",
+      "archived": true,
+      "originalPath": "images/21c35499b9bfbdca22359746.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/04Add-cashews.jpg",
+      "path": "../../nenaudojama/dessert/images/63f9c8126a8fb5c76110277e.jpg",
+      "archived": true,
+      "originalPath": "images/63f9c8126a8fb5c76110277e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/05Spread-evenly.jpg",
+      "path": "../../nenaudojama/dessert/images/cc5ef968c0668e4e0952b7a4.jpg",
+      "archived": true,
+      "originalPath": "images/cc5ef968c0668e4e0952b7a4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/06Chill-and-slice.jpg",
+      "path": "../../nenaudojama/dessert/images/18e1eb7e53309e5a2f4b9074.avif",
+      "archived": true,
+      "originalPath": "images/18e1eb7e53309e5a2f4b9074.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/Coconut-cashews-overhead-second.jpg",
+      "path": "../../nenaudojama/dessert/images/9c31d330676e3248ae78ed7a.avif",
+      "archived": true,
+      "originalPath": "images/9c31d330676e3248ae78ed7a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/Coconut-cashews-for-pinterest.jpg",
+      "path": "../../nenaudojama/dessert/images/5ae2df119d0b6fb3468f3d10.jpg",
+      "archived": true,
+      "originalPath": "images/5ae2df119d0b6fb3468f3d10.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/01Combine-almond-and-butter-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3378a59bc596ecf77364c23a.jpg",
+      "archived": true,
+      "originalPath": "images/3378a59bc596ecf77364c23a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/02Add-in-maple-and-cinnamon-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/e8f894df55313753fdd73627.jpg",
+      "archived": true,
+      "originalPath": "images/e8f894df55313753fdd73627.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/03Add-shredded-coconut-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/4079203cbce6295f4d3cf674.avif",
+      "archived": true,
+      "originalPath": "images/4079203cbce6295f4d3cf674.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/04Add-cashews-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/9b8861082bc51a3dfaeab4e5.avif",
+      "archived": true,
+      "originalPath": "images/9b8861082bc51a3dfaeab4e5.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/05Spread-evenly-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/bf92358a75ebee873a8c6adb.jpg",
+      "archived": true,
+      "originalPath": "images/bf92358a75ebee873a8c6adb.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2016/01/06Chill-and-slice-525x350.jpg",
+      "path": "../../nenaudojama/dessert/images/3ab1f209ec567560fd45be94.avif",
+      "archived": true,
+      "originalPath": "images/3ab1f209ec567560fd45be94.avif"
+    }
+  ],
+  "featuredImage": "images/4895078d3f3203cf60944695.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "No-Bake Coconut Cashew Bars",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 8 servings of No-Bake Coconut Cashew Bars. Each serving comes out to be 199 calories, 18.5g fats, 4.1g net carbs, and 4.5g protein.",
+    "datePublished": "2016-01-25T15:32:25+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2016/01/Coconut-cashews.jpg"
+    ],
+    "recipeYield": [
+      "8",
+      "8 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT120M",
+    "totalTime": "PT130M",
+    "recipeIngredient": [
+      "1/4 cup butter (melted)",
+      "1 cup almond flour",
+      "1 teaspoon ground cinnamon",
+      "salt (to taste)",
+      "1/4 cup low-carb maple syrup",
+      "1/4 cup unsweetened shredded coconut",
+      "1/2 cup cashews (raw or roasted)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the melted butter and almond flour in a large bowl and mix well.",
+        "name": "Combine the melted butter and almond flour in a large bowl and mix well.",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/01/01Combine-almond-and-butter.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cinnamon, salt, and sugar-free maple syrup. Mix well.",
+        "name": "Add the cinnamon, salt, and sugar-free maple syrup. Mix well.",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/01/02Add-in-maple-and-cinnamon.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Next, add the shredded coconut and mix again.",
+        "name": "Next, add the shredded coconut and mix again.",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/01/03Add-shredded-coconut.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roughly chop the cashews and add them to the dough. Mix very well to combine everything evenly.",
+        "name": "Roughly chop the cashews and add them to the dough. Mix very well to combine everything evenly.",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/01/04Add-cashews.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a baking dish with parchment paper and spread the dough out in an even layer. Add some extra shredded coconut and cinnamon on top for a prettier presentation.",
+        "name": "Line a baking dish with parchment paper and spread the dough out in an even layer. Add some extra shredded coconut and cinnamon on top for a prettier presentation.",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/01/05Spread-evenly.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in the refrigerator and chill for at least 2 hours, but preferably overnight. Once chilled, slice into bars.",
+        "name": "Place in the refrigerator and chill for at least 2 hours, but preferably overnight. Once chilled, slice into bars.",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2016/01/06Chill-and-slice.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve and enjoy!",
+        "url": "https://www.ruled.me/no-bake-coconut-cashew-bars/#wprm-recipe-51887-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Dessert"
+    ],
+    "keywords": "beginner-friendly, egg-free, gluten-free, keto, low-carb, make-ahead, no-bake, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "199 kcal",
+      "fatContent": "18.5 g",
+      "proteinContent": "4.5 g",
+      "carbohydrateContent": "4.1 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/no-bake-coconut-cashew-bars/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/no-bake-coconut-cashew-bars/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/no-bake-coconut-cashew-bars/"
+  },
+  "sourceIndex": {
+    "id": 27725,
+    "rid": 51887,
+    "t": "No Bake Coconut Cashew Bars",
+    "u": "/no-bake-coconut-cashew-bars/",
+    "img": "https://www.ruled.me/wp-content/uploads/2016/01/Coconut-cashews-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 4.1,
+    "cal": 199,
+    "pr": 4.5,
+    "fa": 18.5,
+    "tm": 130,
+    "sv": 8,
+    "kw": [
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-bake",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "make-ahead"
+    ],
+    "d": "2016-01-25",
+    "cm": 23,
+    "ex": "In a world where protein bars and low carb bars seem to be at the start of each checkout lane, there's a lot of confusion as to what's ketogenic and what's not. Truth be told, there's very few bars",
+    "pv": 182
+  },
+  "sourceHtml": "pages/no-bake-coconut-cashew-bars.html",
+  "scrapedAt": "2026-11-07T08:30:47.385Z"
+}

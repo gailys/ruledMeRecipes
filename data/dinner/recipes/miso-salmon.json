@@ -1,0 +1,344 @@
+{
+  "id": "ruled-34793",
+  "slug": "miso-salmon",
+  "title": "Miso Salmon",
+  "url": "https://www.ruled.me/miso-salmon/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Miso Salmon. Each serving comes out to be 349 calories, 17.8g fats, 3.3g net carbs, and 32.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT60M",
+  "cookTime": "PT30M",
+  "totalTime": "PT90M",
+  "totalMinutes": 90,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "349 kcal",
+    "fatContent": "17.8 g",
+    "proteinContent": "32.9 g",
+    "carbohydrateContent": "3.3 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 349,
+    "netCarbsGrams": 3.3,
+    "proteinGrams": 32.9,
+    "fatGrams": 17.8
+  },
+  "ingredients": [
+    "20 ounce salmon fillets with skin",
+    "kosher salt (to taste)",
+    "3 tablespoon sake",
+    "2 tablespoon white wine",
+    "3 tablespoon miso"
+  ],
+  "instructions": [
+    {
+      "text": "Cut the salmon up into fillets. I had two large pieces so I just cut these in half.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-03.jpg"
+    },
+    {
+      "text": "Sprinkle the kosher salt over the fillets and allow to sit for 30 minutes. This will draw out some of the moisture.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-04.jpg"
+    },
+    {
+      "text": "Wet a paper towel with some sake and carefully dab the salt off of the fish. The amount of sake should be 1 Tbs of sake for every 4 servings.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-05.jpg"
+    },
+    {
+      "text": "Mix the remaining sake, the white wine, and the miso into a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-01.jpg"
+    },
+    {
+      "text": "Pour about 1/3 of the marinade into the bottom of an airtight container. Place the fillets inside of the container, then pour the rest of the marinade over the top of them. Cover with airtight lid, then keep refrigerated for 1-2 days.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-06.jpg"
+    },
+    {
+      "text": "When it’s time to cook, preheat the oven to 400F. Remove the marinade from the fish by scraping it off with your fingers. If there is too much left on the marinade can easily burn, but you don’t want it too clean or the fish wont have enough color.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-07.jpg"
+    },
+    {
+      "text": "Use a piece of parchment paper on a baking sheet, or alternatively a well greased one. Parchment paper will not let the salmon stick, so try and use that if you can. Bake the salmon for 25 minutes.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "dairy-free",
+    "egg-free",
+    "fish",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "make-ahead",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/7f7ff036bd949ee4379bcd6b.jpg",
+      "archived": true,
+      "originalPath": "images/7f7ff036bd949ee4379bcd6b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-featured.jpg",
+      "path": "images/a3e63ebeace7af1eb1846ed0.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-03.jpg",
+      "path": "../../nenaudojama/dinner/images/28f97765eb68531af93c9da6.avif",
+      "archived": true,
+      "originalPath": "images/28f97765eb68531af93c9da6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-04.jpg",
+      "path": "../../nenaudojama/dinner/images/47ad3c7f805992231784996c.jpg",
+      "archived": true,
+      "originalPath": "images/47ad3c7f805992231784996c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-05.jpg",
+      "path": "../../nenaudojama/dinner/images/41b6e7b90c78fd7b09fe30f5.jpg",
+      "archived": true,
+      "originalPath": "images/41b6e7b90c78fd7b09fe30f5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-01.jpg",
+      "path": "../../nenaudojama/dinner/images/393913a116827d6e5aa18d9a.jpg",
+      "archived": true,
+      "originalPath": "images/393913a116827d6e5aa18d9a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-06.jpg",
+      "path": "../../nenaudojama/dinner/images/8c51a7a9775cf9438ed24b99.jpg",
+      "archived": true,
+      "originalPath": "images/8c51a7a9775cf9438ed24b99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-07.jpg",
+      "path": "../../nenaudojama/dinner/images/2d07059999c1cfdfd75510a9.avif",
+      "archived": true,
+      "originalPath": "images/2d07059999c1cfdfd75510a9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-second.jpg",
+      "path": "../../nenaudojama/dinner/images/142bc151042e45b01cc8fe54.avif",
+      "archived": true,
+      "originalPath": "images/142bc151042e45b01cc8fe54.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/f11b60770859323878434be6.jpg",
+      "archived": true,
+      "originalPath": "images/f11b60770859323878434be6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1e6e382459b03d7a04df97c4.avif",
+      "archived": true,
+      "originalPath": "images/1e6e382459b03d7a04df97c4.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/403d80716202c54beaef99e7.jpg",
+      "archived": true,
+      "originalPath": "images/403d80716202c54beaef99e7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-05-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d614764c2584cc69542480c3.jpg",
+      "archived": true,
+      "originalPath": "images/d614764c2584cc69542480c3.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b63414d7565c9569ef293676.jpg",
+      "archived": true,
+      "originalPath": "images/b63414d7565c9569ef293676.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/bb990786a70fc67c149d222e.jpg",
+      "archived": true,
+      "originalPath": "images/bb990786a70fc67c149d222e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-07-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/0fc69575090c95061b9a8a4b.jpg",
+      "archived": true,
+      "originalPath": "images/0fc69575090c95061b9a8a4b.jpg"
+    }
+  ],
+  "featuredImage": "images/a3e63ebeace7af1eb1846ed0.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Miso Salmon",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Miso Salmon. Each serving comes out to be 349 calories, 17.8g fats, 3.3g net carbs, and 32.9g protein.",
+    "datePublished": "2018-01-09T12:00:41+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT60M",
+    "cookTime": "PT30M",
+    "totalTime": "PT90M",
+    "recipeIngredient": [
+      "20 ounce salmon fillets with skin",
+      "kosher salt (to taste)",
+      "3 tablespoon sake",
+      "2 tablespoon white wine",
+      "3 tablespoon miso"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the salmon up into fillets. I had two large pieces so I just cut these in half.",
+        "name": "Cut the salmon up into fillets. I had two large pieces so I just cut these in half.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the kosher salt over the fillets and allow to sit for 30 minutes. This will draw out some of the moisture.",
+        "name": "Sprinkle the kosher salt over the fillets and allow to sit for 30 minutes. This will draw out some of the moisture.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wet a paper towel with some sake and carefully dab the salt off of the fish. The amount of sake should be 1 Tbs of sake for every 4 servings.",
+        "name": "Wet a paper towel with some sake and carefully dab the salt off of the fish. The amount of sake should be 1 Tbs of sake for every 4 servings.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the remaining sake, the white wine, and the miso into a bowl.",
+        "name": "Mix the remaining sake, the white wine, and the miso into a bowl.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour about 1/3 of the marinade into the bottom of an airtight container. Place the fillets inside of the container, then pour the rest of the marinade over the top of them. Cover with airtight lid, then keep refrigerated for 1-2 days.",
+        "name": "Pour about 1/3 of the marinade into the bottom of an airtight container. Place the fillets inside of the container, then pour the rest of the marinade over the top of them. Cover with airtight lid, then keep refrigerated for 1-2 days.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When it’s time to cook, preheat the oven to 400F. Remove the marinade from the fish by scraping it off with your fingers. If there is too much left on the marinade can easily burn, but you don’t want it too clean or the fish wont have enough color.",
+        "name": "When it’s time to cook, preheat the oven to 400F. Remove the marinade from the fish by scraping it off with your fingers. If there is too much left on the marinade can easily burn, but you don’t want it too clean or the fish wont have enough color.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-07.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use a piece of parchment paper on a baking sheet, or alternatively a well greased one. Parchment paper will not let the salmon stick, so try and use that if you can. Bake the salmon for 25 minutes.",
+        "name": "Use a piece of parchment paper on a baking sheet, or alternatively a well greased one. Parchment paper will not let the salmon stick, so try and use that if you can. Bake the salmon for 25 minutes.",
+        "url": "https://www.ruled.me/miso-salmon/#wprm-recipe-52417-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Japanese"
+    ],
+    "keywords": "dairy-free, egg-free, fish, high-protein, keto, low-carb, make-ahead, nut-free, oven-baked, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "349 kcal",
+      "fatContent": "17.8 g",
+      "proteinContent": "32.9 g",
+      "carbohydrateContent": "3.3 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/miso-salmon/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/miso-salmon/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/miso-salmon/"
+  },
+  "sourceIndex": {
+    "id": 34793,
+    "rid": 52417,
+    "t": "Miso Salmon",
+    "u": "/miso-salmon/",
+    "img": "https://www.ruled.me/wp-content/uploads/2017/11/miso-salmon-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 3.3,
+    "cal": 349,
+    "pr": 32.9,
+    "fa": 17.8,
+    "tm": 90,
+    "sv": 4,
+    "kw": [
+      "dairy-free",
+      "egg-free",
+      "fish",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "sugar-free"
+    ],
+    "ni": 5,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "make-ahead",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2018-01-09",
+    "cm": 2,
+    "ex": "This miso salmon is a light and flavorful way to add more seafood and healthy fats into your diet! The salmon fillets are marinated in sake, white wine, and miso for two days before cooking. This",
+    "pv": 52
+  },
+  "sourceHtml": "pages/miso-salmon.html",
+  "scrapedAt": "2026-11-07T08:27:44.626Z"
+}

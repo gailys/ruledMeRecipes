@@ -1,0 +1,307 @@
+{
+  "id": "ruled-37780",
+  "slug": "creamy-mushroom-keto-casserole",
+  "title": "Creamy Chicken and Mushroom Casserole",
+  "url": "https://www.ruled.me/creamy-mushroom-keto-casserole/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Creamy Chicken and Mushroom Casserole. Each serving comes out to be 454 calories, 34.1g fats, 6.6g net carbs, and 31.1g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT50M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "fatContent": "34.1 g",
+    "proteinContent": "31.1 g",
+    "carbohydrateContent": "6.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 454,
+    "netCarbsGrams": 6.6,
+    "proteinGrams": 31.1,
+    "fatGrams": 34.1
+  },
+  "ingredients": [
+    "20 ounce boneless, skinless chicken thighs",
+    "salt and pepper (to taste)",
+    "4 ounce cremini mushrooms (chopped)",
+    "1 medium cauliflower (cored and chopped)",
+    "8 ounce cream cheese",
+    "2 tablespoon sour cream",
+    "2 medium green onion (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat oven to 350 degrees Fahrenheit. Place the chicken thighs into a casserole dish and season with salt and pepper. Then, layer the mushrooms and cauliflower on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-02.jpg"
+    },
+    {
+      "text": "In a separate bowl mix together the cream cheese, sour cream, and green onions. Season with salt and pepper if desired.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-06.jpg"
+    },
+    {
+      "text": "Spread the cream cheese mixture onto the cauliflower.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-08.jpg"
+    },
+    {
+      "text": "Mix the top of the casserole together until the cream cheese mixture coats all of the vegetables.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-09.jpg"
+    },
+    {
+      "text": "Bake at 350F or until the top is browned and chicken is cooked through.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "family-friendly",
+    "freezer-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "oven-baked",
+    "poultry",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "meal-prep",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/748281c586cc4eebe9304f68.jpg",
+      "archived": true,
+      "originalPath": "images/748281c586cc4eebe9304f68.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-featured.jpg",
+      "path": "images/b167a52032f5756abf10d92c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-02.jpg",
+      "path": "../../nenaudojama/dinner/images/2af3f95992ea11564733aa23.jpg",
+      "archived": true,
+      "originalPath": "images/2af3f95992ea11564733aa23.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-06.jpg",
+      "path": "../../nenaudojama/dinner/images/148564fb4118adaa238fa48b.avif",
+      "archived": true,
+      "originalPath": "images/148564fb4118adaa238fa48b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-08.jpg",
+      "path": "../../nenaudojama/dinner/images/fea0330ecdef93326ce051c5.jpg",
+      "archived": true,
+      "originalPath": "images/fea0330ecdef93326ce051c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-09.jpg",
+      "path": "../../nenaudojama/dinner/images/4e69198b85dc5b1e5669bb3a.jpg",
+      "archived": true,
+      "originalPath": "images/4e69198b85dc5b1e5669bb3a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-second.jpg",
+      "path": "../../nenaudojama/dinner/images/df8ce4194938f1e9f5522e6c.avif",
+      "archived": true,
+      "originalPath": "images/df8ce4194938f1e9f5522e6c.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/4d31c65e66981870159fe543.jpg",
+      "archived": true,
+      "originalPath": "images/4d31c65e66981870159fe543.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/5493ce53ac906256f7af3a3e.avif",
+      "archived": true,
+      "originalPath": "images/5493ce53ac906256f7af3a3e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-06-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/abdbd5deb764d5b0e043c2ac.jpg",
+      "archived": true,
+      "originalPath": "images/abdbd5deb764d5b0e043c2ac.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-08-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/c5040ece7a96be15edfbc54d.jpg",
+      "archived": true,
+      "originalPath": "images/c5040ece7a96be15edfbc54d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-09-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/d20f9cff0592e645cf18e027.jpg",
+      "archived": true,
+      "originalPath": "images/d20f9cff0592e645cf18e027.jpg"
+    }
+  ],
+  "featuredImage": "images/b167a52032f5756abf10d92c.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Creamy Chicken and Mushroom Casserole",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Creamy Chicken and Mushroom Casserole. Each serving comes out to be 454 calories, 34.1g fats, 6.6g net carbs, and 31.1g protein.",
+    "datePublished": "2018-08-07T11:00:49+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "20 ounce boneless, skinless chicken thighs",
+      "salt and pepper (to taste)",
+      "4 ounce cremini mushrooms (chopped)",
+      "1 medium cauliflower (cored and chopped)",
+      "8 ounce cream cheese",
+      "2 tablespoon sour cream",
+      "2 medium green onion (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat oven to 350 degrees Fahrenheit. Place the chicken thighs into a casserole dish and season with salt and pepper. Then, layer the mushrooms and cauliflower on top.",
+        "name": "Pre-heat oven to 350 degrees Fahrenheit. Place the chicken thighs into a casserole dish and season with salt and pepper. Then, layer the mushrooms and cauliflower on top.",
+        "url": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl mix together the cream cheese, sour cream, and green onions. Season with salt and pepper if desired.",
+        "name": "In a separate bowl mix together the cream cheese, sour cream, and green onions. Season with salt and pepper if desired.",
+        "url": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the cream cheese mixture onto the cauliflower.",
+        "name": "Spread the cream cheese mixture onto the cauliflower.",
+        "url": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the top of the casserole together until the cream cheese mixture coats all of the vegetables.",
+        "name": "Mix the top of the casserole together until the cream cheese mixture coats all of the vegetables.",
+        "url": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-09.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 350F or until the top is browned and chicken is cooked through.",
+        "name": "Bake at 350F or until the top is browned and chicken is cooked through.",
+        "url": "https://www.ruled.me/creamy-mushroom-keto-casserole/#wprm-recipe-52663-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "comfort-food, egg-free, family-friendly, freezer-friendly, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, nut-free, oven-baked, poultry, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "454 kcal",
+      "fatContent": "34.1 g",
+      "proteinContent": "31.1 g",
+      "carbohydrateContent": "6.6 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/creamy-mushroom-keto-casserole/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/creamy-mushroom-keto-casserole/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/creamy-mushroom-keto-casserole/"
+  },
+  "sourceIndex": {
+    "id": 37780,
+    "rid": 52663,
+    "t": "Creamy Mushroom Keto Casserole",
+    "u": "/creamy-mushroom-keto-casserole/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/08/creamy-mushroom-casserole-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.6,
+    "cal": 454,
+    "pr": 31.1,
+    "fa": 34.1,
+    "tm": 60,
+    "sv": 4,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "family-friendly",
+      "freezer-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "oven-baked",
+      "poultry",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 7,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "meal-prep",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2018-08-07",
+    "cm": 7,
+    "ex": "Finding a delicious and freezable meal can be hard sometimes, but this mushroom casserole is great to take to work for the week. It’s creamy and delectable. It can also be frozen to keep those days",
+    "pv": 224
+  },
+  "sourceHtml": "pages/creamy-mushroom-keto-casserole.html",
+  "scrapedAt": "2026-11-07T08:27:44.549Z"
+}

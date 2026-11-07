@@ -1,0 +1,277 @@
+{
+  "id": "ruled-43858",
+  "slug": "keto-chicken-cabbage-plate",
+  "title": "Keto Chicken Cabbage Plate",
+  "url": "https://www.ruled.me/keto-chicken-cabbage-plate/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Chicken Cabbage Plate. Each serving comes out to be 827 calories, 59.8g fats, 5.9g net carbs, and 64.5g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "827 kcal",
+    "fatContent": "59.8 g",
+    "proteinContent": "64.5 g",
+    "carbohydrateContent": "5.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 827,
+    "netCarbsGrams": 5.9,
+    "proteinGrams": 64.5,
+    "fatGrams": 59.8
+  },
+  "ingredients": [
+    "16 ounce rotisserie chicken",
+    "7 ounce green cabbage",
+    "1/2 medium red onion",
+    "1/2 cup mayonnaise",
+    "2 teaspoon lemon juice",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Carve the rotisserie chicken, and put on a plate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate2.jpg"
+    },
+    {
+      "text": "Slice the cabbage and red onion into thin strips and place in a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-1",
+      "imageSource": null
+    },
+    {
+      "text": "Add the mayonnaise and lemon juice, then mix together well with the cabbage and onion. Season with salt and pepper to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate3.jpg"
+    },
+    {
+      "text": "Place the cabbage mix on the plate with the chicken and enjoy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "poultry",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "few-ingredients",
+    "no-cook",
+    "high-protein",
+    "poultry"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/f10ec5134334cfc07758b1b6.avif",
+      "archived": true,
+      "originalPath": "images/f10ec5134334cfc07758b1b6.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Featured.jpg",
+      "path": "images/a199ad042edffc31e6fadcdc.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate2.jpg",
+      "path": "../../nenaudojama/dinner/images/77cccccd6bd8a7170db18e63.jpg",
+      "archived": true,
+      "originalPath": "images/77cccccd6bd8a7170db18e63.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate3.jpg",
+      "path": "../../nenaudojama/dinner/images/807525ac392cc256f2131929.avif",
+      "archived": true,
+      "originalPath": "images/807525ac392cc256f2131929.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/d4c9cffd7465b0c50a6fef36.avif",
+      "archived": true,
+      "originalPath": "images/d4c9cffd7465b0c50a6fef36.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate1.jpg",
+      "path": "../../nenaudojama/dinner/images/9dad0e2b496062ef69320f5d.jpg",
+      "archived": true,
+      "originalPath": "images/9dad0e2b496062ef69320f5d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/9ee4d86fdeb33d09daf48d58.jpg",
+      "archived": true,
+      "originalPath": "images/9ee4d86fdeb33d09daf48d58.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/149aaf6a41745fe9d86c4096.avif",
+      "archived": true,
+      "originalPath": "images/149aaf6a41745fe9d86c4096.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/4d251da2db6a35001bedeeee.jpg",
+      "archived": true,
+      "originalPath": "images/4d251da2db6a35001bedeeee.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3e83902aa8ba6a567c73e5a1.avif",
+      "archived": true,
+      "originalPath": "images/3e83902aa8ba6a567c73e5a1.avif"
+    }
+  ],
+  "featuredImage": "images/a199ad042edffc31e6fadcdc.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Chicken Cabbage Plate",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 2 servings of Keto Chicken Cabbage Plate. Each serving comes out to be 827 calories, 59.8g fats, 5.9g net carbs, and 64.5g protein.",
+    "datePublished": "2020-09-15T09:00:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Featured.jpg"
+    ],
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "16 ounce rotisserie chicken",
+      "7 ounce green cabbage",
+      "1/2 medium red onion",
+      "1/2 cup mayonnaise",
+      "2 teaspoon lemon juice",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Carve the rotisserie chicken, and put on a plate.",
+        "name": "Carve the rotisserie chicken, and put on a plate.",
+        "url": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the cabbage and red onion into thin strips and place in a bowl.",
+        "name": "Slice the cabbage and red onion into thin strips and place in a bowl.",
+        "url": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-1"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mayonnaise and lemon juice, then mix together well with the cabbage and onion. Season with salt and pepper to taste.",
+        "name": "Add the mayonnaise and lemon juice, then mix together well with the cabbage and onion. Season with salt and pepper to taste.",
+        "url": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the cabbage mix on the plate with the chicken and enjoy.",
+        "name": "Place the cabbage mix on the plate with the chicken and enjoy.",
+        "url": "https://www.ruled.me/keto-chicken-cabbage-plate/#wprm-recipe-53489-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, poultry, quick, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "827 kcal",
+      "fatContent": "59.8 g",
+      "proteinContent": "64.5 g",
+      "carbohydrateContent": "5.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-chicken-cabbage-plate/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-chicken-cabbage-plate/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-chicken-cabbage-plate/"
+  },
+  "sourceIndex": {
+    "id": 43858,
+    "rid": 53489,
+    "t": "Keto Chicken Cabbage Plate",
+    "u": "/keto-chicken-cabbage-plate/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/09/Chicken-and-Cabbage-Plate-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 5.9,
+    "cal": 827,
+    "pr": 64.5,
+    "fa": 59.8,
+    "tm": 10,
+    "sv": 2,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "poultry",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 6,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "few-ingredients",
+      "no-cook",
+      "high-protein",
+      "poultry"
+    ],
+    "d": "2020-09-15",
+    "cm": 0,
+    "ex": "This keto dinner recipe is anything but complicated. All you need is a simple 6 ingredients and no cooking, thanks to the rotisserie chicken we used in this recipe. Simply stir up the cabbage mix and",
+    "pv": 42
+  },
+  "sourceHtml": "pages/keto-chicken-cabbage-plate.html",
+  "scrapedAt": "2026-11-07T08:27:44.289Z"
+}

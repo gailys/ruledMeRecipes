@@ -1,0 +1,223 @@
+{
+  "id": "ruled-3572",
+  "slug": "keto-approved-ranch-dressing",
+  "title": "Keto-Approved Ranch Dressing",
+  "url": "https://www.ruled.me/keto-approved-ranch-dressing/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 24 servings of Keto-Approved Ranch Dressing. Each serving comes out to be 81 calories, 8.7g fats, 0.5g net carbs, and 0.3g protein.",
+  "servings": 24,
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "fatContent": "8.7 g",
+    "proteinContent": "0.3 g",
+    "carbohydrateContent": "0.5 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 81,
+    "netCarbsGrams": 0.5,
+    "proteinGrams": 0.3,
+    "fatGrams": 8.7
+  },
+  "ingredients": [
+    "1 cup mayonnaise",
+    "1/2 cup sour cream",
+    "1/4 cup heavy whipping cream",
+    "2 tablespoon dried parsley",
+    "1/2 teaspoon dried dill",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon onion powder",
+    "1/4 teaspoon basil",
+    "1/4 teaspoon black pepper"
+  ],
+  "instructions": [
+    {
+      "text": "Put all ingredients in the emulsion blender container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-approved-ranch-dressing/#wprm-recipe-50505-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-06.jpg"
+    },
+    {
+      "text": "Blend for 30-60 seconds, until completely emulsified. Pour into a glass jar with a lid and refrigerate. It's best to let flavors meld for several hours, but you can serve it immediately and it will still taste great! If you used the homemade mayo recipe, this will last for a few months. That is, if it doesn't get eaten first!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-approved-ranch-dressing/#wprm-recipe-50505-step-0-1",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/0a6af16a19714f27fe4cf8fe.jpg",
+      "archived": true,
+      "originalPath": "images/0a6af16a19714f27fe4cf8fe.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-featured.jpg",
+      "path": "../../nenaudojama/condiments/images/63e8c4a74a382c070a787cbb.avif",
+      "archived": true,
+      "originalPath": "images/63e8c4a74a382c070a787cbb.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-06.jpg",
+      "path": "../../nenaudojama/condiments/images/ec45bcaa2f637ef96952aba1.jpg",
+      "archived": true,
+      "originalPath": "images/ec45bcaa2f637ef96952aba1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-03.jpg",
+      "path": "../../nenaudojama/condiments/images/4c5da74f94156edc89212417.jpg",
+      "archived": true,
+      "originalPath": "images/4c5da74f94156edc89212417.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-pin.jpg",
+      "path": "../../nenaudojama/condiments/images/1f9a23e71fa49d3bfb9a3f9a.avif",
+      "archived": true,
+      "originalPath": "images/1f9a23e71fa49d3bfb9a3f9a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-06-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d90b914263a888eabfc02519.avif",
+      "archived": true,
+      "originalPath": "images/d90b914263a888eabfc02519.avif"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/63e8c4a74a382c070a787cbb.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto-Approved Ranch Dressing",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 24 servings of Keto-Approved Ranch Dressing. Each serving comes out to be 81 calories, 8.7g fats, 0.5g net carbs, and 0.3g protein.",
+    "datePublished": "2013-12-07T00:57:59+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-featured.jpg"
+    ],
+    "recipeYield": [
+      "24",
+      "24 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 cup mayonnaise",
+      "1/2 cup sour cream",
+      "1/4 cup heavy whipping cream",
+      "2 tablespoon dried parsley",
+      "1/2 teaspoon dried dill",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/4 teaspoon basil",
+      "1/4 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Put all ingredients in the emulsion blender container.",
+        "name": "Put all ingredients in the emulsion blender container.",
+        "url": "https://www.ruled.me/keto-approved-ranch-dressing/#wprm-recipe-50505-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend for 30-60 seconds, until completely emulsified. Pour into a glass jar with a lid and refrigerate. It's best to let flavors meld for several hours, but you can serve it immediately and it will still taste great! If you used the homemade mayo recipe, this will last for a few months. That is, if it doesn't get eaten first!",
+        "name": "Blend for 30-60 seconds, until completely emulsified. Pour into a glass jar with a lid and refrigerate. It's best to let flavors meld for several hours, but you can serve it immediately and it will still taste great! If you used the homemade mayo recipe, this will last for a few months. That is, if it doesn't get eaten first!",
+        "url": "https://www.ruled.me/keto-approved-ranch-dressing/#wprm-recipe-50505-step-0-1"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "81 kcal",
+      "fatContent": "8.7 g",
+      "proteinContent": "0.3 g",
+      "carbohydrateContent": "0.5 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-approved-ranch-dressing/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-approved-ranch-dressing/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-approved-ranch-dressing/"
+  },
+  "sourceIndex": {
+    "id": 3572,
+    "rid": 50505,
+    "t": "Keto-Approved Ranch Dressing",
+    "u": "/keto-approved-ranch-dressing/",
+    "img": "https://www.ruled.me/wp-content/uploads/2013/12/keto-ranch-dressing-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.5,
+    "cal": 81,
+    "pr": 0.3,
+    "fa": 8.7,
+    "tm": 5,
+    "sv": 24,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 9,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "no-cook"
+    ],
+    "d": "2013-12-06",
+    "cm": 19,
+    "ex": "Ranch dressing. It's a staple found in almost any home. Not only is it a favorite for salads, it can't be beat as a veggie dip or for serving alongside hot wings. And what better ranch dressing than",
+    "pv": 658
+  },
+  "sourceHtml": "pages/keto-approved-ranch-dressing.html",
+  "scrapedAt": "2026-11-07T08:33:45.515Z"
+}

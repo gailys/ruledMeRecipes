@@ -1,0 +1,329 @@
+{
+  "id": "ruled-47192",
+  "slug": "keto-egg-cobb-salad",
+  "title": "Keto Egg Cobb Salad",
+  "url": "https://www.ruled.me/keto-egg-cobb-salad/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Keto Egg Cobb Salad. Each serving comes out to be 455 calories, 37.5g fats, 2.9g net carbs, and 23.8g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "totalMinutes": 15,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "455 kcal",
+    "fatContent": "37.5 g",
+    "proteinContent": "23.8 g",
+    "carbohydrateContent": "2.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 455,
+    "netCarbsGrams": 2.9,
+    "proteinGrams": 23.8,
+    "fatGrams": 37.5
+  },
+  "ingredients": [
+    "3 tablespoon mayonnaise",
+    "3 tablespoon full-fat plain greek yogurt",
+    "2 tablespoon red wine vinegar",
+    "salt and pepper (to taste)",
+    "8 large hard-boiled egg (chopped)",
+    "8 slice cooked bacon (crumbled)",
+    "1/2 medium avocado (sliced)",
+    "1/2 cup blue cheese",
+    "1/2 cup cherry tomatoes",
+    "2 tablespoon fresh chives (chopped)"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all the ingredients.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-1.jpg"
+    },
+    {
+      "text": "In a bowl, mix together the mayonnaise, greek yogurt, and red wine vinegar. Season with salt and pepper. Stir to combine well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-2.jpg"
+    },
+    {
+      "text": "In a bowl, mix together the chopped hard-boiled eggs, crumbled bacon, sliced avocados, cherry tomatoes, and blue cheese.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-3.jpg"
+    },
+    {
+      "text": "Stir in the dressing into the salad bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-4.jpg"
+    },
+    {
+      "text": "Plate, season with the chopped chives and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "eggs",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "no-cook",
+    "high-protein",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/72a0b22815aafbb9f64aa1a7.jpg",
+      "archived": true,
+      "originalPath": "images/72a0b22815aafbb9f64aa1a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Featured.jpg",
+      "path": "images/45cd1ad0f83b4eb323397be8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-1.jpg",
+      "path": "../../nenaudojama/lunch/images/7032ffdf9b47893e429a9f47.jpg",
+      "archived": true,
+      "originalPath": "images/7032ffdf9b47893e429a9f47.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-2.jpg",
+      "path": "../../nenaudojama/lunch/images/634b1cd5552cf5563db08744.jpg",
+      "archived": true,
+      "originalPath": "images/634b1cd5552cf5563db08744.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-3.jpg",
+      "path": "../../nenaudojama/lunch/images/4e07b3f82a6bfe3577911ed1.jpg",
+      "archived": true,
+      "originalPath": "images/4e07b3f82a6bfe3577911ed1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-4.jpg",
+      "path": "../../nenaudojama/lunch/images/5dd0a6585a0cc7701580c49f.jpg",
+      "archived": true,
+      "originalPath": "images/5dd0a6585a0cc7701580c49f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Second.jpg",
+      "path": "../../nenaudojama/lunch/images/d780103d092a473eec938573.jpg",
+      "archived": true,
+      "originalPath": "images/d780103d092a473eec938573.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Long.jpg",
+      "path": "../../nenaudojama/lunch/images/61a0fb05e01e953ed12f868d.jpg",
+      "archived": true,
+      "originalPath": "images/61a0fb05e01e953ed12f868d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Featured-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/0313937c980428891d67407c.jpg",
+      "archived": true,
+      "originalPath": "images/0313937c980428891d67407c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-1-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/26e3b5d17278c0bdb8be9881.jpg",
+      "archived": true,
+      "originalPath": "images/26e3b5d17278c0bdb8be9881.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-2-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ea8306756b30817d01478509.jpg",
+      "archived": true,
+      "originalPath": "images/ea8306756b30817d01478509.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-3-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/8a5990c7cab4ddca73f42a9e.jpg",
+      "archived": true,
+      "originalPath": "images/8a5990c7cab4ddca73f42a9e.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-4-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/9f3079a630706da0d9cfbec1.jpg",
+      "archived": true,
+      "originalPath": "images/9f3079a630706da0d9cfbec1.jpg"
+    }
+  ],
+  "featuredImage": "images/45cd1ad0f83b4eb323397be8.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Egg Cobb Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Keto Egg Cobb Salad. Each serving comes out to be 455 calories, 37.5g fats, 2.9g net carbs, and 23.8g protein.",
+    "datePublished": "2022-06-02T09:00:08+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeIngredient": [
+      "3 tablespoon mayonnaise",
+      "3 tablespoon full-fat plain greek yogurt",
+      "2 tablespoon red wine vinegar",
+      "salt and pepper (to taste)",
+      "8 large hard-boiled egg (chopped)",
+      "8 slice cooked bacon (crumbled)",
+      "1/2 medium avocado (sliced)",
+      "1/2 cup blue cheese",
+      "1/2 cup cherry tomatoes",
+      "2 tablespoon fresh chives (chopped)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all the ingredients.",
+        "name": "Measure out and prepare all the ingredients.",
+        "url": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix together the mayonnaise, greek yogurt, and red wine vinegar. Season with salt and pepper. Stir to combine well.",
+        "name": "In a bowl, mix together the mayonnaise, greek yogurt, and red wine vinegar. Season with salt and pepper. Stir to combine well.",
+        "url": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix together the chopped hard-boiled eggs, crumbled bacon, sliced avocados, cherry tomatoes, and blue cheese.",
+        "name": "In a bowl, mix together the chopped hard-boiled eggs, crumbled bacon, sliced avocados, cherry tomatoes, and blue cheese.",
+        "url": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the dressing into the salad bowl.",
+        "name": "Stir in the dressing into the salad bowl.",
+        "url": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate, season with the chopped chives and enjoy!",
+        "name": "Plate, season with the chopped chives and enjoy!",
+        "url": "https://www.ruled.me/keto-egg-cobb-salad/#wprm-recipe-54203-step-0-4"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4"
+        },
+        "reviewBody": "simple but sooooo tasty",
+        "author": {
+          "@type": "Person",
+          "name": "Eddie"
+        },
+        "datePublished": "2024-05-24"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, eggs, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, nut-free, quick, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "455 kcal",
+      "fatContent": "37.5 g",
+      "proteinContent": "23.8 g",
+      "carbohydrateContent": "2.9 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-egg-cobb-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-egg-cobb-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-egg-cobb-salad/"
+  },
+  "sourceIndex": {
+    "id": 47192,
+    "rid": 54203,
+    "t": "Keto Egg Cobb Salad",
+    "u": "/keto-egg-cobb-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Cobb-Egg-Salad-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 2.9,
+    "cal": 455,
+    "pr": 23.8,
+    "fa": 37.5,
+    "tm": 15,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "eggs",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 10,
+    "fk": [
+      "nut-free",
+      "no-cook",
+      "high-protein",
+      "eggs"
+    ],
+    "d": "2022-06-02",
+    "cm": 1,
+    "ex": "Cobb salads are super simple to put together and provide you with a good selection of tasty ingredients that will leave you feeling energized and full. While lots of cobb salad recipes will call for",
+    "pv": 581
+  },
+  "sourceHtml": "pages/keto-egg-cobb-salad.html",
+  "scrapedAt": "2026-11-07T08:15:30.697Z"
+}

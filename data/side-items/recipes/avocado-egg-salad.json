@@ -1,0 +1,332 @@
+{
+  "id": "ruled-38675",
+  "slug": "avocado-egg-salad",
+  "title": "Avocado Egg Salad",
+  "url": "https://www.ruled.me/avocado-egg-salad/",
+  "source": "Ruled.me",
+  "category": "side-items",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Avocado Egg Salad. Each serving comes out to be 310 calories, 27.6g fats, 1.9g net carbs, and 11g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT25M",
+  "totalTime": "PT30M",
+  "totalMinutes": 30,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "310 kcal",
+    "fatContent": "27.6 g",
+    "proteinContent": "11 g",
+    "carbohydrateContent": "1.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 310,
+    "netCarbsGrams": 1.9,
+    "proteinGrams": 11,
+    "fatGrams": 27.6
+  },
+  "ingredients": [
+    "4 slice bacon",
+    "4 large egg",
+    "4 tablespoon mayonnaise",
+    "1 teaspoon lemon juice",
+    "1/4 cup green onion (sliced)",
+    "1/2 teaspoon garlic powder",
+    "salt and pepper (to taste)",
+    "1 medium avocado",
+    "1 teaspoon hot sauce"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat a frying pan. Cook bacon to desired crispness, then set aside to cool on paper towels. When cooled, chop the bacon into small pieces.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/bacon-and-egg-benedict-salad-01.jpg"
+    },
+    {
+      "text": "Hard-boil the eggs to your own preference. Let them cool, then peel the eggs and place them in a bowl.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-01.jpg"
+    },
+    {
+      "text": "Add in mayonnaise, lemon juice, garlic, salt, pepper, and green onions.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-03.jpg"
+    },
+    {
+      "text": "Mash using a fork or potato masher until desired consistency.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-04.jpg"
+    },
+    {
+      "text": "Spoon the avocado from the halves into the egg salad. Mash the avocado into the egg salad.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-05.jpg"
+    },
+    {
+      "text": "Stir in the hot sauce and chopped bacon.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "eggs",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "stovetop",
+    "sugar-free"
+  ],
+  "filters": [
+    "dairy-free",
+    "nut-free",
+    "stovetop",
+    "meal-prep",
+    "eggs"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-youtube-768x512.jpg",
+      "path": "../../nenaudojama/side-items/images/91c1f7e7141a8de2329b3210.jpg",
+      "archived": true,
+      "originalPath": "images/91c1f7e7141a8de2329b3210.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-youtube.jpg",
+      "path": "../../nenaudojama/side-items/images/1235b5b19bf2fc129a2bf468.avif",
+      "archived": true,
+      "originalPath": "images/1235b5b19bf2fc129a2bf468.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/bacon-and-egg-benedict-salad-01.jpg",
+      "path": "../../nenaudojama/side-items/images/2f6b4ddfe54901f2fedebe05.jpg",
+      "archived": true,
+      "originalPath": "images/2f6b4ddfe54901f2fedebe05.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-01.jpg",
+      "path": "../../nenaudojama/side-items/images/5c181bcac3b6f9da7e5f24df.jpg",
+      "archived": true,
+      "originalPath": "images/5c181bcac3b6f9da7e5f24df.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-03.jpg",
+      "path": "../../nenaudojama/side-items/images/513b6bd7135e934c11cfed13.avif",
+      "archived": true,
+      "originalPath": "images/513b6bd7135e934c11cfed13.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-04.jpg",
+      "path": "../../nenaudojama/side-items/images/3f6916737bd1ec7026898931.avif",
+      "archived": true,
+      "originalPath": "images/3f6916737bd1ec7026898931.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-05.jpg",
+      "path": "../../nenaudojama/side-items/images/383072ad93303347d8d8b273.jpg",
+      "archived": true,
+      "originalPath": "images/383072ad93303347d8d8b273.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-second.jpg",
+      "path": "../../nenaudojama/side-items/images/7a42f248c51de0baf66103ed.jpg",
+      "archived": true,
+      "originalPath": "images/7a42f248c51de0baf66103ed.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-pin-1.jpg",
+      "path": "../../nenaudojama/side-items/images/e10a2cbc2a5089e8c8644c24.jpg",
+      "archived": true,
+      "originalPath": "images/e10a2cbc2a5089e8c8644c24.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/bacon-and-egg-benedict-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/d7096f43e1bcc792042d0d2a.avif",
+      "archived": true,
+      "originalPath": "images/d7096f43e1bcc792042d0d2a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-01-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/6c0377df790a0066f44bacc2.jpg",
+      "archived": true,
+      "originalPath": "images/6c0377df790a0066f44bacc2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-03-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/26752d81fb302b81200e0951.jpg",
+      "archived": true,
+      "originalPath": "images/26752d81fb302b81200e0951.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-04-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/24cdf075fcba950c5b82e590.jpg",
+      "archived": true,
+      "originalPath": "images/24cdf075fcba950c5b82e590.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-05-525x350.jpg",
+      "path": "../../nenaudojama/side-items/images/5ccb407949e8560477061f1d.jpg",
+      "archived": true,
+      "originalPath": "images/5ccb407949e8560477061f1d.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/side-items/images/1235b5b19bf2fc129a2bf468.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Avocado Egg Salad",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Avocado Egg Salad. Each serving comes out to be 310 calories, 27.6g fats, 1.9g net carbs, and 11g protein.",
+    "datePublished": "2018-12-20T17:45:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-youtube.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT25M",
+    "totalTime": "PT30M",
+    "recipeIngredient": [
+      "4 slice bacon",
+      "4 large egg",
+      "4 tablespoon mayonnaise",
+      "1 teaspoon lemon juice",
+      "1/4 cup green onion (sliced)",
+      "1/2 teaspoon garlic powder",
+      "salt and pepper (to taste)",
+      "1 medium avocado",
+      "1 teaspoon hot sauce"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a frying pan. Cook bacon to desired crispness, then set aside to cool on paper towels. When cooled, chop the bacon into small pieces.",
+        "name": "Preheat a frying pan. Cook bacon to desired crispness, then set aside to cool on paper towels. When cooled, chop the bacon into small pieces.",
+        "url": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/bacon-and-egg-benedict-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Hard-boil the eggs to your own preference. Let them cool, then peel the eggs and place them in a bowl.",
+        "name": "Hard-boil the eggs to your own preference. Let them cool, then peel the eggs and place them in a bowl.",
+        "url": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add in mayonnaise, lemon juice, garlic, salt, pepper, and green onions.",
+        "name": "Add in mayonnaise, lemon juice, garlic, salt, pepper, and green onions.",
+        "url": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mash using a fork or potato masher until desired consistency.",
+        "name": "Mash using a fork or potato masher until desired consistency.",
+        "url": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the avocado from the halves into the egg salad. Mash the avocado into the egg salad.",
+        "name": "Spoon the avocado from the halves into the egg salad. Mash the avocado into the egg salad.",
+        "url": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-05.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the hot sauce and chopped bacon.",
+        "name": "Stir in the hot sauce and chopped bacon.",
+        "url": "https://www.ruled.me/avocado-egg-salad/#wprm-recipe-52822-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "30-minute, beginner-friendly, dairy-free, eggs, gluten-free, keto, low-carb, meal-prep, nut-free, packed-lunch, quick, simple-and-easy, stovetop, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "310 kcal",
+      "fatContent": "27.6 g",
+      "proteinContent": "11 g",
+      "carbohydrateContent": "1.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/avocado-egg-salad/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/avocado-egg-salad/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/avocado-egg-salad/"
+  },
+  "sourceIndex": {
+    "id": 38675,
+    "rid": 52822,
+    "t": "Avocado Egg Salad",
+    "u": "/avocado-egg-salad/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/12/avocado-egg-salad-youtube-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "side-items",
+    "nc": 1.9,
+    "cal": 310,
+    "pr": 11,
+    "fa": 27.6,
+    "tm": 30,
+    "sv": 4,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "eggs",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "stovetop",
+      "sugar-free"
+    ],
+    "ni": 9,
+    "fk": [
+      "dairy-free",
+      "nut-free",
+      "stovetop",
+      "meal-prep",
+      "eggs"
+    ],
+    "d": "2018-12-20",
+    "cm": 4,
+    "ex": "Half of my family is from the South, so I grew up with egg salad at every family function. Egg salad is great for work lunches, picnics, or even paired with fat head bagels for brunch. I love to put",
+    "pv": 175
+  },
+  "sourceHtml": "pages/avocado-egg-salad.html",
+  "scrapedAt": "2026-11-07T08:32:18.337Z"
+}

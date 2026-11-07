@@ -1,0 +1,238 @@
+{
+  "id": "ruled-58553",
+  "slug": "chicken-cobb-keto-salad-in-a-jar",
+  "title": "Chicken Cobb Keto Salad in a Jar",
+  "url": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 1 serving of Chicken Cobb Keto Salad in a Jar. The serving comes out to be 630 calories, 44.3g fats, 6.6g net carbs, and 44.7g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "630 kcal",
+    "fatContent": "44.3 g",
+    "proteinContent": "44.7 g",
+    "carbohydrateContent": "6.6 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 630,
+    "netCarbsGrams": 6.6,
+    "proteinGrams": 44.7,
+    "fatGrams": 44.3
+  },
+  "ingredients": [
+    "4 ounce cooked chicken (shredded)",
+    "2 tablespoon cheddar cheese (shredded)",
+    "2 slice cooked bacon (crumbled)",
+    "1 large hard-boiled egg (chopped)",
+    "2 medium green onion (chopped)",
+    "1 small fresh tomatoes (chopped)",
+    "1/4 large avocado (chopped)",
+    "1/4 cup cauliflower rice"
+  ],
+  "instructions": [
+    {
+      "text": "Layer all of the salad ingredients into a quart sized mason jar in the order listed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/#wprm-recipe-58550-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-01.jpg"
+    },
+    {
+      "text": "Tightly secure the lid and store in a fridge until ready to eat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/#wprm-recipe-58550-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-02.jpg"
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "meal-prep",
+    "no-cook",
+    "nut-free",
+    "packed-lunch",
+    "quick",
+    "simple-and-easy",
+    "sugar-free"
+  ],
+  "filters": [
+    "nut-free",
+    "no-cook",
+    "meal-prep",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/21126e4a68283295e89b673e.avif",
+      "archived": true,
+      "originalPath": "images/21126e4a68283295e89b673e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f.jpg",
+      "path": "images/e948345484f8cc088b9933f9.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-01.jpg",
+      "path": "../../nenaudojama/lunch/images/60c6df1d4650153105fa1d52.jpg",
+      "archived": true,
+      "originalPath": "images/60c6df1d4650153105fa1d52.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-02.jpg",
+      "path": "../../nenaudojama/lunch/images/47e6731adddaec8c27dc4d2c.jpg",
+      "archived": true,
+      "originalPath": "images/47e6731adddaec8c27dc4d2c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f-300x300.jpg",
+      "path": "../../nenaudojama/lunch/images/5435b825f316497d2eac8066.avif",
+      "archived": true,
+      "originalPath": "images/5435b825f316497d2eac8066.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ec19a3765717fb86549ffc2f.jpg",
+      "archived": true,
+      "originalPath": "images/ec19a3765717fb86549ffc2f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-02-241x350.jpg",
+      "path": "../../nenaudojama/lunch/images/f90ea43d6372e0c98a15f2b8.jpg",
+      "archived": true,
+      "originalPath": "images/f90ea43d6372e0c98a15f2b8.jpg"
+    }
+  ],
+  "featuredImage": "images/e948345484f8cc088b9933f9.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Chicken Cobb Keto Salad in a Jar",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of Chicken Cobb Keto Salad in a Jar. The serving comes out to be 630 calories, 44.3g fats, 6.6g net carbs, and 44.7g protein.",
+    "datePublished": "2026-09-17T09:00:00+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f-500x500.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f-500x375.jpg",
+      "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f-480x270.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "4 ounce cooked chicken (shredded)",
+      "2 tablespoon cheddar cheese (shredded)",
+      "2 slice cooked bacon (crumbled)",
+      "1 large hard-boiled egg (chopped)",
+      "2 medium green onion (chopped)",
+      "1 small fresh tomatoes (chopped)",
+      "1/4 large avocado (chopped)",
+      "1/4 cup cauliflower rice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Layer all of the salad ingredients into a quart sized mason jar in the order listed.",
+        "name": "Layer all of the salad ingredients into a quart sized mason jar in the order listed.",
+        "url": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/#wprm-recipe-58550-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tightly secure the lid and store in a fridge until ready to eat.",
+        "name": "Tightly secure the lid and store in a fridge until ready to eat.",
+        "url": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/#wprm-recipe-58550-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2026/09/chicken-cobb-keto-salad-in-a-jar-step-02.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Lunch",
+      "Salad"
+    ],
+    "recipeCuisine": [
+      "American"
+    ],
+    "keywords": "15-minute, beginner-friendly, gluten-free, high-fat, high-protein, keto, low-carb, meal-prep, no-cook, nut-free, packed-lunch, quick, simple &amp; easy, simple-and-easy, sugar-free",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "630 kcal",
+      "fatContent": "44.3 g",
+      "proteinContent": "44.7 g",
+      "carbohydrateContent": "6.6 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/chicken-cobb-keto-salad-in-a-jar/"
+  },
+  "sourceIndex": {
+    "id": 58553,
+    "rid": 58550,
+    "t": "Chicken Cobb Keto Salad in a Jar",
+    "u": "/chicken-cobb-keto-salad-in-a-jar/",
+    "img": "https://www.ruled.me/wp-content/uploads/2026/03/225f75a687210d55ac4cf76b7cf7b02f-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 6.6,
+    "cal": 630,
+    "pr": 44.7,
+    "fa": 44.3,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "meal-prep",
+      "no-cook",
+      "nut-free",
+      "packed-lunch",
+      "quick",
+      "simple-and-easy",
+      "sugar-free"
+    ],
+    "ni": 8,
+    "fk": [
+      "nut-free",
+      "no-cook",
+      "meal-prep",
+      "high-protein"
+    ],
+    "d": "2026-09-17",
+    "cm": 0,
+    "ex": "This Chicken Cobb Keto Salad in a Jar is the ultimate solution for anyone looking to enjoy a fresh, protein-packed lunch that fits perfectly into a low-carb lifestyle. Imagine digging your fork into",
+    "pv": 37
+  },
+  "sourceHtml": "pages/chicken-cobb-keto-salad-in-a-jar.html",
+  "scrapedAt": "2026-11-07T08:14:37.789Z"
+}

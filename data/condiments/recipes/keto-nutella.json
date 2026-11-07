@@ -1,0 +1,395 @@
+{
+  "id": "ruled-43193",
+  "slug": "keto-nutella",
+  "title": "Keto Nutella: Sugar-Free Hazelnut Spread",
+  "url": "https://www.ruled.me/keto-nutella/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 32 servings of Keto Nutella: Sugar-Free Hazelnut Spread. Each serving comes out to be 60 calories, 5.7g fats, 0.8g net carbs, and 1.3g protein.",
+  "servings": 32,
+  "yield": [
+    "32",
+    "32 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60 kcal",
+    "fatContent": "5.7 g",
+    "proteinContent": "1.3 g",
+    "carbohydrateContent": "0.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 60,
+    "netCarbsGrams": 0.8,
+    "proteinGrams": 1.3,
+    "fatGrams": 5.7
+  },
+  "ingredients": [
+    "2 cup hazelnuts (raw)",
+    "1/2 cup powdered stevia/erythritol blend",
+    "1/4 cup cocoa powder",
+    "2 tablespoon avocado oil",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "Pre-heat oven to 400F. Line a baking sheet with parchment paper.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-2.jpg"
+    },
+    {
+      "text": "Spread hazelnuts on baking sheet. Roast in the oven for 8-10 minutes, or until browned and fragrant.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-4.jpg"
+    },
+    {
+      "text": "Once slightly cooled, place hazelnuts in a re-sealable container with the lid on and shake vigorously.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-6.jpg"
+    },
+    {
+      "text": "Repeat the process until all or most of the skins have been removed from the hazelnuts. You can alternatively rub the skins off yourself.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-7.jpg"
+    },
+    {
+      "text": "Place the hazelnuts into a food processor or blender. Process for 2-3 minutes until the nuts start to form a nut butter, scraping the sides as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-8.jpg"
+    },
+    {
+      "text": "Add powdered erythritol/stevia blend, cocoa powder, avocado oil, and vanilla extract. Continue to process for 1-2 minutes or until the consistency resembles a smooth spread. The spread should be smooth and glossy.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-9.jpg"
+    },
+    {
+      "text": "Taste and adjust sweetener. You can add liquid stevia 2-3 drops at a time until you find a sweetness level you prefer. Store in an airtight container (for up to a month) and enjoy!",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "oven-baked",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "egg-free",
+    "few-ingredients",
+    "oven-baked",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Featured-768x512.jpg",
+      "path": "../../nenaudojama/condiments/images/6b68347360e56ab45bc59f48.jpg",
+      "archived": true,
+      "originalPath": "images/6b68347360e56ab45bc59f48.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Featured.jpg",
+      "path": "../../nenaudojama/condiments/images/f4312af8cc4b81467710d67d.avif",
+      "archived": true,
+      "originalPath": "images/f4312af8cc4b81467710d67d.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-2.jpg",
+      "path": "../../nenaudojama/condiments/images/92f68b4383cd24932e5de9ef.avif",
+      "archived": true,
+      "originalPath": "images/92f68b4383cd24932e5de9ef.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-4.jpg",
+      "path": "../../nenaudojama/condiments/images/c4a0d70a28e290cdd43b9cbd.jpg",
+      "archived": true,
+      "originalPath": "images/c4a0d70a28e290cdd43b9cbd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-6.jpg",
+      "path": "../../nenaudojama/condiments/images/ec111a74ad309464a838df81.avif",
+      "archived": true,
+      "originalPath": "images/ec111a74ad309464a838df81.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-7.jpg",
+      "path": "../../nenaudojama/condiments/images/1fe1c544a59ebc5990cb94d1.avif",
+      "archived": true,
+      "originalPath": "images/1fe1c544a59ebc5990cb94d1.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-8.jpg",
+      "path": "../../nenaudojama/condiments/images/0852513270b130707e0790a5.jpg",
+      "archived": true,
+      "originalPath": "images/0852513270b130707e0790a5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-9.jpg",
+      "path": "../../nenaudojama/condiments/images/d2985cda1f3069600a25d1da.avif",
+      "archived": true,
+      "originalPath": "images/d2985cda1f3069600a25d1da.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Second.jpg",
+      "path": "../../nenaudojama/condiments/images/781b666a8def027ad0dc89e2.avif",
+      "archived": true,
+      "originalPath": "images/781b666a8def027ad0dc89e2.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Pin.jpg",
+      "path": "../../nenaudojama/condiments/images/08cd2c077133e9a885954a14.avif",
+      "archived": true,
+      "originalPath": "images/08cd2c077133e9a885954a14.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Featured-300x300.jpg",
+      "path": "../../nenaudojama/condiments/images/22bf0177afae397e04770c6f.jpg",
+      "archived": true,
+      "originalPath": "images/22bf0177afae397e04770c6f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-2-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/37c2b33cc33c1baf4c51a2bf.jpg",
+      "archived": true,
+      "originalPath": "images/37c2b33cc33c1baf4c51a2bf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-4-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/0fbd3af4ca73796d54bf7d63.jpg",
+      "archived": true,
+      "originalPath": "images/0fbd3af4ca73796d54bf7d63.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-6-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/59e38d1c07b821d5d6cbb311.avif",
+      "archived": true,
+      "originalPath": "images/59e38d1c07b821d5d6cbb311.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-7-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/c75d2e04a7a50c6dc4e1c82b.jpg",
+      "archived": true,
+      "originalPath": "images/c75d2e04a7a50c6dc4e1c82b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-8-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/493443fc991212cfedb5a565.avif",
+      "archived": true,
+      "originalPath": "images/493443fc991212cfedb5a565.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-9-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/5d0f700642572ca29204134a.jpg",
+      "archived": true,
+      "originalPath": "images/5d0f700642572ca29204134a.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/f4312af8cc4b81467710d67d.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Nutella: Sugar-Free Hazelnut Spread",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 32 servings of Keto Nutella: Sugar-Free Hazelnut Spread. Each serving comes out to be 60 calories, 5.7g fats, 0.8g net carbs, and 1.3g protein.",
+    "datePublished": "2020-06-02T09:38:47+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Featured.jpg"
+    ],
+    "video": {
+      "name": "Keto Nutella Recipe [Sugar-free Hazelnut Spread]",
+      "description": "Nutella is the perfect example of something that should be keto-friendly but is far from it. The label displays a simple chocolate hazelnut spread, but the ingredients list reveals a different story: Nutella’s primary ingredient is sugar.\n\nAlthough there are some sugar-free Nutella-like products, they rarely match what I can make at home. In fact, my homemade keto Nutella is so good that I had to share the recipe with everyone.\n\nWith just five ingredients — most of which are commonplace in the keto kitchen — you can create your own keto-friendly chocolate hazelnut spread.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n2 cups hazelnuts, raw\n1/2 cup erythritol/stevia mix, powdered\n1/4 cup cocoa powder\n2 tablespoon avocado oil\n1 teaspoon vanilla extract\n\nNutrition Summary:\nThis makes a total of 32 tablespoons of Keto Nutella. Each tablespoon comes out to be 62 calories, 5.8g fats, 0.8g net carbs, and 1.3g protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2020-12-17T15:00:07+00:00",
+      "creator": {
+        "@type": "Organization",
+        "name": "RuledMe",
+        "url": "https://www.youtube.com/channel/UC9DRGV7k0jh5PgRBcM5SVfA"
+      },
+      "duration": "PT2M17S",
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 14061
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "LikeAction"
+          },
+          "userInteractionCount": 530
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "CommentAction"
+          },
+          "userInteractionCount": 35
+        }
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Mj9tCsjfN2g/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Mj9tCsjfN2g?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=Mj9tCsjfN2g",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "32",
+      "32 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "2 cup hazelnuts (raw)",
+      "1/2 cup powdered stevia/erythritol blend",
+      "1/4 cup cocoa powder",
+      "2 tablespoon avocado oil",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pre-heat oven to 400F. Line a baking sheet with parchment paper.",
+        "name": "Pre-heat oven to 400F. Line a baking sheet with parchment paper.",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread hazelnuts on baking sheet. Roast in the oven for 8-10 minutes, or until browned and fragrant.",
+        "name": "Spread hazelnuts on baking sheet. Roast in the oven for 8-10 minutes, or until browned and fragrant.",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once slightly cooled, place hazelnuts in a re-sealable container with the lid on and shake vigorously.",
+        "name": "Once slightly cooled, place hazelnuts in a re-sealable container with the lid on and shake vigorously.",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat the process until all or most of the skins have been removed from the hazelnuts. You can alternatively rub the skins off yourself.",
+        "name": "Repeat the process until all or most of the skins have been removed from the hazelnuts. You can alternatively rub the skins off yourself.",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-7.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the hazelnuts into a food processor or blender. Process for 2-3 minutes until the nuts start to form a nut butter, scraping the sides as needed.",
+        "name": "Place the hazelnuts into a food processor or blender. Process for 2-3 minutes until the nuts start to form a nut butter, scraping the sides as needed.",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-8.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add powdered erythritol/stevia blend, cocoa powder, avocado oil, and vanilla extract. Continue to process for 1-2 minutes or until the consistency resembles a smooth spread. The spread should be smooth and glossy.",
+        "name": "Add powdered erythritol/stevia blend, cocoa powder, avocado oil, and vanilla extract. Continue to process for 1-2 minutes or until the consistency resembles a smooth spread. The spread should be smooth and glossy.",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2020/06/Sugar-free-nutella-spread-9.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust sweetener. You can add liquid stevia 2-3 drops at a time until you find a sweetness level you prefer. Store in an airtight container (for up to a month) and enjoy!",
+        "name": "Taste and adjust sweetener. You can add liquid stevia 2-3 drops at a time until you find a sweetness level you prefer. Store in an airtight container (for up to a month) and enjoy!",
+        "url": "https://www.ruled.me/keto-nutella/#wprm-recipe-53365-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments",
+      "Dessert",
+      "Snacks"
+    ],
+    "keywords": "30-minute, dairy-free, egg-free, gluten-free, keto, low-carb, make-ahead, oven-baked, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "60 kcal",
+      "fatContent": "5.7 g",
+      "proteinContent": "1.3 g",
+      "carbohydrateContent": "0.8 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/keto-nutella/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-nutella/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-nutella/"
+  },
+  "sourceIndex": {
+    "id": 43193,
+    "rid": 53365,
+    "t": "Keto Nutella: Sugar-free Hazelnut Spread",
+    "u": "/keto-nutella/",
+    "img": "https://www.ruled.me/wp-content/uploads/2020/06/Keto-Nutella-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 0.8,
+    "cal": 60,
+    "pr": 1.3,
+    "fa": 5.7,
+    "tm": 20,
+    "sv": 32,
+    "kw": [
+      "30-minute",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "oven-baked",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 5,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free",
+      "few-ingredients",
+      "oven-baked",
+      "make-ahead"
+    ],
+    "d": "2020-06-02",
+    "cm": 6,
+    "ex": "Nutella is the perfect example of something that should be keto-friendly but is far from it. The label displays a simple chocolate hazelnut spread, but the ingredients list reveals a different story",
+    "pv": 434
+  },
+  "sourceHtml": "pages/keto-nutella.html",
+  "scrapedAt": "2026-11-07T08:33:29.847Z"
+}

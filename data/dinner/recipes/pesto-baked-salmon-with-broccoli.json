@@ -1,0 +1,348 @@
+{
+  "id": "ruled-45623",
+  "slug": "pesto-baked-salmon-with-broccoli",
+  "title": "Pesto Baked Salmon with Broccoli",
+  "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Pesto Baked Salmon with Broccoli. Each serving comes out to be 553 calories, 38.5g fats, 6.2g net carbs, and 41.4g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "totalMinutes": 35,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "553 kcal",
+    "fatContent": "38.5 g",
+    "proteinContent": "41.4 g",
+    "carbohydrateContent": "6.2 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 553,
+    "netCarbsGrams": 6.2,
+    "proteinGrams": 41.4,
+    "fatGrams": 38.5
+  },
+  "ingredients": [
+    "1 tablespoon pesto",
+    "2 tablespoon mayonnaise",
+    "2 tablespoon full-fat plain greek yogurt",
+    "24 ounce salmon",
+    "salt and pepper (to taste)",
+    "3 tablespoon olive oil",
+    "16 ounce broccoli",
+    "salt and pepper (to taste)",
+    "1 medium lemon"
+  ],
+  "instructions": [
+    {
+      "text": "Measure out and prepare all ingredients. Preheat oven to 425F.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-1.jpg"
+    },
+    {
+      "text": "Rinse and chop broccoli.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-2.jpg"
+    },
+    {
+      "text": "In a bowl, combine pesto, mayonnaise, and greek yogurt. Stir until combined well.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-3.jpg"
+    },
+    {
+      "text": "Roast broccoli on baking sheet for 10 minutes. Take out of oven.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-4.jpg"
+    },
+    {
+      "text": "Move broccoli around on baking sheet and add salmon filets with the pesto sauce on top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-5.jpg"
+    },
+    {
+      "text": "Roast in the oven for 15 minutes together.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-6.jpg"
+    },
+    {
+      "text": "Plate the salmon and broccoli. Squeeze lemon juice oveer salmon and broccoli",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-6",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "fish",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "sheet-pan",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "oven-baked",
+    "high-protein",
+    "seafood"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/8c752898b6066e1923825aba.avif",
+      "archived": true,
+      "originalPath": "images/8c752898b6066e1923825aba.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Featured.jpg",
+      "path": "images/818da00a2a8ef10c008b4fa1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-1.jpg",
+      "path": "../../nenaudojama/dinner/images/863ebac3cc207d6daa0846d0.jpg",
+      "archived": true,
+      "originalPath": "images/863ebac3cc207d6daa0846d0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-2.jpg",
+      "path": "../../nenaudojama/dinner/images/1e92013ea794be671eb53d51.jpg",
+      "archived": true,
+      "originalPath": "images/1e92013ea794be671eb53d51.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-3.jpg",
+      "path": "../../nenaudojama/dinner/images/7f61b86b57737f51422f2eb4.jpg",
+      "archived": true,
+      "originalPath": "images/7f61b86b57737f51422f2eb4.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-4.jpg",
+      "path": "../../nenaudojama/dinner/images/7324be3ff163c3f6b95b4c44.jpg",
+      "archived": true,
+      "originalPath": "images/7324be3ff163c3f6b95b4c44.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-5.jpg",
+      "path": "../../nenaudojama/dinner/images/ec3fc688b592ed7df05f2b22.jpg",
+      "archived": true,
+      "originalPath": "images/ec3fc688b592ed7df05f2b22.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-6.jpg",
+      "path": "../../nenaudojama/dinner/images/214ced4367f4c7bd5ac7bc33.jpg",
+      "archived": true,
+      "originalPath": "images/214ced4367f4c7bd5ac7bc33.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Second.jpg",
+      "path": "../../nenaudojama/dinner/images/d141fd9ba52617f0cb633c5b.avif",
+      "archived": true,
+      "originalPath": "images/d141fd9ba52617f0cb633c5b.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Long.jpg",
+      "path": "../../nenaudojama/dinner/images/679a5e4024f033fa6af27d30.jpg",
+      "archived": true,
+      "originalPath": "images/679a5e4024f033fa6af27d30.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/da1563e8b6bb34cbd37c5dfd.jpg",
+      "archived": true,
+      "originalPath": "images/da1563e8b6bb34cbd37c5dfd.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-1-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b9ec3bf3a54e7355ad2cfa0c.jpg",
+      "archived": true,
+      "originalPath": "images/b9ec3bf3a54e7355ad2cfa0c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-2-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/46d8b017fce20f3262fd2ce9.jpg",
+      "archived": true,
+      "originalPath": "images/46d8b017fce20f3262fd2ce9.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-3-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/322e2b6354a4b0979461076c.jpg",
+      "archived": true,
+      "originalPath": "images/322e2b6354a4b0979461076c.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-4-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/423f4da2794e8b316543a0e2.jpg",
+      "archived": true,
+      "originalPath": "images/423f4da2794e8b316543a0e2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-5-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/3e58abc3da38a0012a9af3ce.jpg",
+      "archived": true,
+      "originalPath": "images/3e58abc3da38a0012a9af3ce.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-6-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/9a1e99c0107495802161cb3d.jpg",
+      "archived": true,
+      "originalPath": "images/9a1e99c0107495802161cb3d.jpg"
+    }
+  ],
+  "featuredImage": "images/818da00a2a8ef10c008b4fa1.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Pesto Baked Salmon with Broccoli",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/de607863a028f0a3b5cd5d66ebaf0206"
+    },
+    "description": "This makes a total of 4 servings of Pesto Baked Salmon with Broccoli. Each serving comes out to be 553 calories, 38.5g fats, 6.2g net carbs, and 41.4g protein.",
+    "datePublished": "2021-07-29T09:00:39+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+      "1 tablespoon pesto",
+      "2 tablespoon mayonnaise",
+      "2 tablespoon full-fat plain greek yogurt",
+      "24 ounce salmon",
+      "salt and pepper (to taste)",
+      "3 tablespoon olive oil",
+      "16 ounce broccoli",
+      "salt and pepper (to taste)",
+      "1 medium lemon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure out and prepare all ingredients. Preheat oven to 425F.",
+        "name": "Measure out and prepare all ingredients. Preheat oven to 425F.",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-1.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse and chop broccoli.",
+        "name": "Rinse and chop broccoli.",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-2.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine pesto, mayonnaise, and greek yogurt. Stir until combined well.",
+        "name": "In a bowl, combine pesto, mayonnaise, and greek yogurt. Stir until combined well.",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-3.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast broccoli on baking sheet for 10 minutes. Take out of oven.",
+        "name": "Roast broccoli on baking sheet for 10 minutes. Take out of oven.",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-4.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Move broccoli around on baking sheet and add salmon filets with the pesto sauce on top.",
+        "name": "Move broccoli around on baking sheet and add salmon filets with the pesto sauce on top.",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-5.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast in the oven for 15 minutes together.",
+        "name": "Roast in the oven for 15 minutes together.",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-6.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the salmon and broccoli. Squeeze lemon juice oveer salmon and broccoli",
+        "name": "Plate the salmon and broccoli. Squeeze lemon juice oveer salmon and broccoli",
+        "url": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#wprm-recipe-53865-step-0-6"
+      }
+    ],
+    "recipeCategory": [
+      "Dinner",
+      "Lunch"
+    ],
+    "keywords": "fish, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, sheet-pan, simple &amp; easy, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "553 kcal",
+      "fatContent": "38.5 g",
+      "proteinContent": "41.4 g",
+      "carbohydrateContent": "6.2 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/pesto-baked-salmon-with-broccoli/"
+  },
+  "sourceIndex": {
+    "id": 45623,
+    "rid": 53865,
+    "t": "Pesto Baked Salmon with Broccoli",
+    "u": "/pesto-baked-salmon-with-broccoli/",
+    "img": "https://www.ruled.me/wp-content/uploads/2021/05/Baked-Salmon-with-Pesto-and-Broccoli-Featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 6.2,
+    "cal": 553,
+    "pr": 41.4,
+    "fa": 38.5,
+    "tm": 35,
+    "sv": 4,
+    "kw": [
+      "fish",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "sheet-pan",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 9,
+    "fk": [
+      "oven-baked",
+      "high-protein",
+      "seafood"
+    ],
+    "d": "2021-07-29",
+    "cm": 0,
+    "ex": "Salmon is fantastic on the grill, but after making this recipe I think I have a new way to cook up some salmon fillets! This salmon is baked to perfection with a pesto rub smothered on top, leaving",
+    "pv": 107
+  },
+  "sourceHtml": "pages/pesto-baked-salmon-with-broccoli.html",
+  "scrapedAt": "2026-11-07T08:27:44.099Z"
+}

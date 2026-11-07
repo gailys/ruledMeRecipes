@@ -1,0 +1,314 @@
+{
+  "id": "ruled-37578",
+  "slug": "keto-raspberry-ice-cream",
+  "title": "Raspberry Ice Cream",
+  "url": "https://www.ruled.me/keto-raspberry-ice-cream/",
+  "source": "Ruled.me",
+  "category": "dessert",
+  "language": "en",
+  "description": "This makes a total of 16 servings of Raspberry Ice Cream. Each serving comes out to be 73 calories, 5.5g fats, 2.8g net carbs, and 1.2g protein.",
+  "servings": 16,
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "prepTime": "PT285M",
+  "cookTime": "PT0M",
+  "totalTime": "PT285M",
+  "totalMinutes": 285,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "fatContent": "5.5 g",
+    "proteinContent": "1.2 g",
+    "carbohydrateContent": "2.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 73,
+    "netCarbsGrams": 2.8,
+    "proteinGrams": 1.2,
+    "fatGrams": 5.5
+  },
+  "ingredients": [
+    "680 gram raspberries (frozen)",
+    "150 gram allulose",
+    "50 gram full-fat plain greek yogurt",
+    "225 gram heavy whipping cream"
+  ],
+  "instructions": [
+    {
+      "text": "Place frozen raspberries in a bowl. Leave to thaw at room temperature about 30 minutes to an hour.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-01.jpg"
+    },
+    {
+      "text": "Meanwhile, in a separate bowl, mix to combine the fromage blanc and heavy whipping cream. Refrigerate.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-03.jpg"
+    },
+    {
+      "text": "When the raspberries have thawed and softened, place in a blender and puree. Pass through a fine meshed strainer and discard seeds.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-06.jpg"
+    },
+    {
+      "text": "Stir in Allulose and mix until dissolved.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-08.jpg"
+    },
+    {
+      "text": "Pour raspberry mixture into cream mixture. Mix until thoroughly blended. Refrigerate for at least 4 hours.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-14.jpg"
+    },
+    {
+      "text": "Using an ice cream maker, churn per manufacturer's instructions. Scoop and serve! Note: if you don't have an ice cream maker, you can still enjoy this delightful treat by freezing in a covered bowl or portioning in an ice cube tray. For ice cube tray, freeze, then remove individual servings to a ziplock bag for a quick bite-sized treat.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-5",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "egg-free",
+    "freezer-friendly",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "no-cook",
+    "nut-free",
+    "simple-and-easy",
+    "sugar-free",
+    "summer",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook",
+    "make-ahead"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-featured-768x512.jpg",
+      "path": "../../nenaudojama/dessert/images/4ff9dc461a0fdaa88bb82cbc.jpg",
+      "archived": true,
+      "originalPath": "images/4ff9dc461a0fdaa88bb82cbc.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-featured.jpg",
+      "path": "images/5df187c55bd08687be5108d2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-01.jpg",
+      "path": "../../nenaudojama/dessert/images/a94600ce4f37e73c5d46ac6a.avif",
+      "archived": true,
+      "originalPath": "images/a94600ce4f37e73c5d46ac6a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-03.jpg",
+      "path": "../../nenaudojama/dessert/images/dc3118fc7ed68bd2d295124a.avif",
+      "archived": true,
+      "originalPath": "images/dc3118fc7ed68bd2d295124a.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-06.jpg",
+      "path": "../../nenaudojama/dessert/images/c6e4257f055729cc3c0c116b.jpg",
+      "archived": true,
+      "originalPath": "images/c6e4257f055729cc3c0c116b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-08.jpg",
+      "path": "../../nenaudojama/dessert/images/a97f363555be22fa0e1dc0f7.jpg",
+      "archived": true,
+      "originalPath": "images/a97f363555be22fa0e1dc0f7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-14.jpg",
+      "path": "../../nenaudojama/dessert/images/3f3ef53e0ebacc996e962375.avif",
+      "archived": true,
+      "originalPath": "images/3f3ef53e0ebacc996e962375.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-second.jpg",
+      "path": "../../nenaudojama/dessert/images/ff2a815d31f69709f41ff065.avif",
+      "archived": true,
+      "originalPath": "images/ff2a815d31f69709f41ff065.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-pin.jpg",
+      "path": "../../nenaudojama/dessert/images/f5f46f2f01cdab49eb60d958.jpg",
+      "archived": true,
+      "originalPath": "images/f5f46f2f01cdab49eb60d958.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-01-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/10f3f5b3024b4cfb6985cae6.jpg",
+      "archived": true,
+      "originalPath": "images/10f3f5b3024b4cfb6985cae6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-03-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/cb9b54858cfaa532f7284030.jpg",
+      "archived": true,
+      "originalPath": "images/cb9b54858cfaa532f7284030.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-06-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/198d5dca841bd82e4cfe0433.avif",
+      "archived": true,
+      "originalPath": "images/198d5dca841bd82e4cfe0433.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-08-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/07cacb886e125d79d5e4916a.jpg",
+      "archived": true,
+      "originalPath": "images/07cacb886e125d79d5e4916a.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-14-467x350.jpg",
+      "path": "../../nenaudojama/dessert/images/a5945585a0f6250905ca222f.jpg",
+      "archived": true,
+      "originalPath": "images/a5945585a0f6250905ca222f.jpg"
+    }
+  ],
+  "featuredImage": "images/5df187c55bd08687be5108d2.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Raspberry Ice Cream",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 16 servings of Raspberry Ice Cream. Each serving comes out to be 73 calories, 5.5g fats, 2.8g net carbs, and 1.2g protein.",
+    "datePublished": "2018-07-10T11:00:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-featured.jpg"
+    ],
+    "recipeYield": [
+      "16",
+      "16 servings"
+    ],
+    "prepTime": "PT285M",
+    "totalTime": "PT285M",
+    "recipeIngredient": [
+      "680 gram raspberries (frozen)",
+      "150 gram allulose",
+      "50 gram full-fat plain greek yogurt",
+      "225 gram heavy whipping cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place frozen raspberries in a bowl. Leave to thaw at room temperature about 30 minutes to an hour.",
+        "name": "Place frozen raspberries in a bowl. Leave to thaw at room temperature about 30 minutes to an hour.",
+        "url": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, in a separate bowl, mix to combine the fromage blanc and heavy whipping cream. Refrigerate.",
+        "name": "Meanwhile, in a separate bowl, mix to combine the fromage blanc and heavy whipping cream. Refrigerate.",
+        "url": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When the raspberries have thawed and softened, place in a blender and puree. Pass through a fine meshed strainer and discard seeds.",
+        "name": "When the raspberries have thawed and softened, place in a blender and puree. Pass through a fine meshed strainer and discard seeds.",
+        "url": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-06.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in Allulose and mix until dissolved.",
+        "name": "Stir in Allulose and mix until dissolved.",
+        "url": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-08.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour raspberry mixture into cream mixture. Mix until thoroughly blended. Refrigerate for at least 4 hours.",
+        "name": "Pour raspberry mixture into cream mixture. Mix until thoroughly blended. Refrigerate for at least 4 hours.",
+        "url": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-14.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using an ice cream maker, churn per manufacturer's instructions. Scoop and serve! Note: if you don't have an ice cream maker, you can still enjoy this delightful treat by freezing in a covered bowl or portioning in an ice cube tray. For ice cube tray, freeze, then remove individual servings to a ziplock bag for a quick bite-sized treat.",
+        "name": "Using an ice cream maker, churn per manufacturer's instructions. Scoop and serve! Note: if you don't have an ice cream maker, you can still enjoy this delightful treat by freezing in a covered bowl or portioning in an ice cube tray. For ice cube tray, freeze, then remove individual servings to a ziplock bag for a quick bite-sized treat.",
+        "url": "https://www.ruled.me/keto-raspberry-ice-cream/#wprm-recipe-52639-step-0-5"
+      }
+    ],
+    "recipeCategory": [
+      "Dessert"
+    ],
+    "keywords": "egg-free, freezer-friendly, gluten-free, keto, low-carb, make-ahead, no-cook, nut-free, simple-and-easy, sugar-free, summer, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "73 kcal",
+      "fatContent": "5.5 g",
+      "proteinContent": "1.2 g",
+      "carbohydrateContent": "2.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/keto-raspberry-ice-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-raspberry-ice-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-raspberry-ice-cream/"
+  },
+  "sourceIndex": {
+    "id": 37578,
+    "rid": 52639,
+    "t": "Keto Raspberry Ice Cream",
+    "u": "/keto-raspberry-ice-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2018/07/raspberry-ice-cream-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dessert",
+    "nc": 2.8,
+    "cal": 73,
+    "pr": 1.2,
+    "fa": 5.5,
+    "tm": 285,
+    "sv": 16,
+    "kw": [
+      "egg-free",
+      "freezer-friendly",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "no-cook",
+      "nut-free",
+      "simple-and-easy",
+      "sugar-free",
+      "summer",
+      "vegetarian"
+    ],
+    "ni": 4,
+    "fk": [
+      "vegetarian",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook",
+      "make-ahead"
+    ],
+    "d": "2018-07-10",
+    "cm": 5,
+    "ex": "Who doesn’t love ice cream? True, there are a number of keto friendly frozen treats that are now available at the grocery store, but this recipe is too simple and too delicious to pass up. In lieu of",
+    "pv": 240
+  },
+  "sourceHtml": "pages/keto-raspberry-ice-cream.html",
+  "scrapedAt": "2026-11-07T08:30:47.163Z"
+}

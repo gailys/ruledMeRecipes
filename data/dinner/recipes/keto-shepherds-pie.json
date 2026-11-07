@@ -1,0 +1,329 @@
+{
+  "id": "ruled-41947",
+  "slug": "keto-shepherds-pie",
+  "title": "Keto Shepherd’s Pie",
+  "url": "https://www.ruled.me/keto-shepherds-pie/",
+  "source": "Ruled.me",
+  "category": "dinner",
+  "language": "en",
+  "description": "This makes a total of 6 servings of Keto Shepherd’s Pie. Each serving comes out to be 536 calories, 44.3g fats, 8.3g net carbs, and 22.8g protein.",
+  "servings": 6,
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT60M",
+  "totalMinutes": 60,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "536 kcal",
+    "fatContent": "44.3 g",
+    "proteinContent": "22.8 g",
+    "carbohydrateContent": "8.3 g"
+  },
+  "nutritionPerServing": {
+    "calories": 536,
+    "netCarbsGrams": 8.3,
+    "proteinGrams": 22.8,
+    "fatGrams": 44.3
+  },
+  "ingredients": [
+    "2 tablespoon butter",
+    "16 ounce ground lamb",
+    "1/2 medium yellow onion (chopped)",
+    "3 teaspoon fresh garlic (minced)",
+    "1/2 cup celery (chopped)",
+    "salt and pepper (to taste)",
+    "2 tablespoon tomato paste",
+    "1 tablespoon worcestershire sauce",
+    "1/2 cup chicken broth",
+    "1/4 cup dry red wine",
+    "1/2 teaspoon xanthan gum",
+    "24 ounce cauliflower rice (cooked and drained)",
+    "1 cup heavy cream",
+    "1 cup cheddar cheese (shredded)",
+    "1/4 cup parmesan cheese (grated)",
+    "1 teaspoon dried thyme"
+  ],
+  "instructions": [
+    {
+      "text": "Preheat your oven to 350 degrees Fahrenheit. Heat up the butter in a large skillet, or until the butter stops foaming and sizzling.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-01.jpg"
+    },
+    {
+      "text": "Add the ground lamb, onion, garlic, celery. Season with salt and pepper. Cook until the meat has browned, and the vegetables have softened, then add the tomato paste, Worcestershire, red wine, and chicken stock. Sprinkle the xanthan gum across the top then stir in.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-02.jpg"
+    },
+    {
+      "text": "Add the cooked riced cauliflower, heavy whipping cream, cheddar cheese, Parmesan, thyme, salt, and pepper to a food processor. Blend until the cauliflower whips into a smooth puree.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-03.jpg"
+    },
+    {
+      "text": "Add the meat mixture to a casserole dish, then spread the pureed cauliflower across the top.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-04.jpg"
+    },
+    {
+      "text": "Bake the shepherd’s pie for 45 minutes, or until browned across the top. Allow to cool for 10 minutes before cutting and serving.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-4",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "comfort-food",
+    "egg-free",
+    "fall",
+    "family-friendly",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "make-ahead",
+    "nut-free",
+    "oven-baked",
+    "red-meat",
+    "stovetop",
+    "weeknight-dinner",
+    "winter"
+  ],
+  "filters": [
+    "nut-free",
+    "egg-free",
+    "oven-baked",
+    "stovetop",
+    "make-ahead",
+    "high-protein",
+    "red-meat"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-featured-768x512.jpg",
+      "path": "../../nenaudojama/dinner/images/f0a6140ae6930548532e0453.jpg",
+      "archived": true,
+      "originalPath": "images/f0a6140ae6930548532e0453.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-featured.jpg",
+      "path": "images/1add52dd5cf68bb226909783.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-01.jpg",
+      "path": "../../nenaudojama/dinner/images/842288923d0b2d2a7b864bbf.jpg",
+      "archived": true,
+      "originalPath": "images/842288923d0b2d2a7b864bbf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-02.jpg",
+      "path": "../../nenaudojama/dinner/images/a0de421eb34bb7dc961a6369.jpg",
+      "archived": true,
+      "originalPath": "images/a0de421eb34bb7dc961a6369.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-03.jpg",
+      "path": "../../nenaudojama/dinner/images/525a2ec30cc26bfaf7eb9ed6.jpg",
+      "archived": true,
+      "originalPath": "images/525a2ec30cc26bfaf7eb9ed6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-04.jpg",
+      "path": "../../nenaudojama/dinner/images/4bbcdd4f0e07828c1b77522b.jpg",
+      "archived": true,
+      "originalPath": "images/4bbcdd4f0e07828c1b77522b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-second.png",
+      "path": "../../nenaudojama/dinner/images/0e15d023eada147435376ada.png",
+      "archived": true,
+      "originalPath": "images/0e15d023eada147435376ada.png"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-pin.jpg",
+      "path": "../../nenaudojama/dinner/images/62fd1a7794111a5f88c7d4e2.jpg",
+      "archived": true,
+      "originalPath": "images/62fd1a7794111a5f88c7d4e2.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-featured-300x300.jpg",
+      "path": "../../nenaudojama/dinner/images/ed850a7fdfaa56d2d0ad9e70.jpg",
+      "archived": true,
+      "originalPath": "images/ed850a7fdfaa56d2d0ad9e70.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-01-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/1fdf38c684a3eb509386d5f1.jpg",
+      "archived": true,
+      "originalPath": "images/1fdf38c684a3eb509386d5f1.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-02-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/e46800d4143d11f62cb74121.jpg",
+      "archived": true,
+      "originalPath": "images/e46800d4143d11f62cb74121.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-03-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/b5cbd53fb16ddaa92fa60149.jpg",
+      "archived": true,
+      "originalPath": "images/b5cbd53fb16ddaa92fa60149.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-04-525x350.jpg",
+      "path": "../../nenaudojama/dinner/images/65856c9f335f028f0638c153.jpg",
+      "archived": true,
+      "originalPath": "images/65856c9f335f028f0638c153.jpg"
+    }
+  ],
+  "featuredImage": "images/1add52dd5cf68bb226909783.avif",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Shepherd’s Pie",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 6 servings of Keto Shepherd’s Pie. Each serving comes out to be 536 calories, 44.3g fats, 8.3g net carbs, and 22.8g protein.",
+    "datePublished": "2019-11-19T17:40:24+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-featured.jpg"
+    ],
+    "recipeYield": [
+      "6",
+      "6 servings"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "recipeIngredient": [
+      "2 tablespoon butter",
+      "16 ounce ground lamb",
+      "1/2 medium yellow onion (chopped)",
+      "3 teaspoon fresh garlic (minced)",
+      "1/2 cup celery (chopped)",
+      "salt and pepper (to taste)",
+      "2 tablespoon tomato paste",
+      "1 tablespoon worcestershire sauce",
+      "1/2 cup chicken broth",
+      "1/4 cup dry red wine",
+      "1/2 teaspoon xanthan gum",
+      "24 ounce cauliflower rice (cooked and drained)",
+      "1 cup heavy cream",
+      "1 cup cheddar cheese (shredded)",
+      "1/4 cup parmesan cheese (grated)",
+      "1 teaspoon dried thyme"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350 degrees Fahrenheit. Heat up the butter in a large skillet, or until the butter stops foaming and sizzling.",
+        "name": "Preheat your oven to 350 degrees Fahrenheit. Heat up the butter in a large skillet, or until the butter stops foaming and sizzling.",
+        "url": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the ground lamb, onion, garlic, celery. Season with salt and pepper. Cook until the meat has browned, and the vegetables have softened, then add the tomato paste, Worcestershire, red wine, and chicken stock. Sprinkle the xanthan gum across the top then stir in.",
+        "name": "Add the ground lamb, onion, garlic, celery. Season with salt and pepper. Cook until the meat has browned, and the vegetables have softened, then add the tomato paste, Worcestershire, red wine, and chicken stock. Sprinkle the xanthan gum across the top then stir in.",
+        "url": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-02.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked riced cauliflower, heavy whipping cream, cheddar cheese, Parmesan, thyme, salt, and pepper to a food processor. Blend until the cauliflower whips into a smooth puree.",
+        "name": "Add the cooked riced cauliflower, heavy whipping cream, cheddar cheese, Parmesan, thyme, salt, and pepper to a food processor. Blend until the cauliflower whips into a smooth puree.",
+        "url": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the meat mixture to a casserole dish, then spread the pureed cauliflower across the top.",
+        "name": "Add the meat mixture to a casserole dish, then spread the pureed cauliflower across the top.",
+        "url": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-04.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the shepherd’s pie for 45 minutes, or until browned across the top. Allow to cool for 10 minutes before cutting and serving.",
+        "name": "Bake the shepherd’s pie for 45 minutes, or until browned across the top. Allow to cool for 10 minutes before cutting and serving.",
+        "url": "https://www.ruled.me/keto-shepherds-pie/#wprm-recipe-53219-step-0-4"
+      }
+    ],
+    "recipeCategory": [
+      "Casserole",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "British"
+    ],
+    "keywords": "comfort-food, egg-free, fall, family-friendly, high-fat, keto, low-carb, make-ahead, nut-free, oven-baked, red meat, stovetop, weeknight-dinner, winter",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": "1",
+      "calories": "536 kcal",
+      "fatContent": "44.3 g",
+      "proteinContent": "22.8 g",
+      "carbohydrateContent": "8.3 g"
+    },
+    "@id": "https://www.ruled.me/keto-shepherds-pie/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/keto-shepherds-pie/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/keto-shepherds-pie/"
+  },
+  "sourceIndex": {
+    "id": 41947,
+    "rid": 53219,
+    "t": "Keto Shepherd’s Pie",
+    "u": "/keto-shepherds-pie/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/11/keto-low-carb-shepherds-pie-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "dinner",
+    "nc": 8.3,
+    "cal": 536,
+    "pr": 22.8,
+    "fa": 44.3,
+    "tm": 60,
+    "sv": 6,
+    "kw": [
+      "comfort-food",
+      "egg-free",
+      "fall",
+      "family-friendly",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "make-ahead",
+      "nut-free",
+      "oven-baked",
+      "red-meat",
+      "stovetop",
+      "weeknight-dinner",
+      "winter"
+    ],
+    "ni": 16,
+    "fk": [
+      "nut-free",
+      "egg-free",
+      "oven-baked",
+      "stovetop",
+      "make-ahead",
+      "high-protein",
+      "red-meat"
+    ],
+    "d": "2019-11-19",
+    "cm": 6,
+    "ex": "This keto shepherd's pie casserole is a recipe you’ll make again and again. It’s filling comfort food at it’s finest, and a great dish to prepare when you’re trying to make sure you have leftover",
+    "pv": 428
+  },
+  "sourceHtml": "pages/keto-shepherds-pie.html",
+  "scrapedAt": "2026-11-07T08:27:44.369Z"
+}

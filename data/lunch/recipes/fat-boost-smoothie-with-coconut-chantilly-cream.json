@@ -1,0 +1,250 @@
+{
+  "id": "ruled-38938",
+  "slug": "fat-boost-smoothie-with-coconut-chantilly-cream",
+  "title": "Fat Boost Smoothie with Coconut Chantilly Cream",
+  "url": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/",
+  "source": "Ruled.me",
+  "category": "lunch",
+  "language": "en",
+  "description": "This makes a total of 4 servings of Fat Boost Smoothie with Coconut Chantilly Cream. Each serving comes out to be 274 calories, 28.1g fats, 3.8g net carbs, and 2.9g protein.",
+  "servings": 4,
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "totalMinutes": 10,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "fatContent": "28.1 g",
+    "proteinContent": "2.9 g",
+    "carbohydrateContent": "3.8 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 274,
+    "netCarbsGrams": 3.8,
+    "proteinGrams": 2.9,
+    "fatGrams": 28.1
+  },
+  "ingredients": [
+    "1 medium avocado (halved)",
+    "14 ounce canned coconut milk",
+    "2 1/2 tablespoon allulose",
+    "2 ounce water",
+    "8 ounce ice cubes",
+    "1 teaspoon vanilla extract"
+  ],
+  "instructions": [
+    {
+      "text": "If the can of coconut milk has separated, whisk together until fully incorporated.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#wprm-recipe-52882-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-01.jpg"
+    },
+    {
+      "text": "In a blender, add the avocado halves, coconut milk, allulose, water, ice cubes, and vanilla. Blend until smooth and thick.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#wprm-recipe-52882-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-03.jpg"
+    },
+    {
+      "text": "To serve, pour the avocado mixture into a glass. You can top with whipped coconut cream if you’d like.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#wprm-recipe-52882-step-0-2",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "dairy-free",
+    "egg-free",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "nut-free",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "few-ingredients",
+    "no-cook"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-featured-768x512.jpg",
+      "path": "../../nenaudojama/lunch/images/b5283345b81340d79bf6badf.jpg",
+      "archived": true,
+      "originalPath": "images/b5283345b81340d79bf6badf.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-featured.jpg",
+      "path": "images/47d4d800b0eea106f9820313.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-01.jpg",
+      "path": "../../nenaudojama/lunch/images/73ecc912048de121980fbfde.jpg",
+      "archived": true,
+      "originalPath": "images/73ecc912048de121980fbfde.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-03.jpg",
+      "path": "../../nenaudojama/lunch/images/679a256a19d38fd36238800d.jpg",
+      "archived": true,
+      "originalPath": "images/679a256a19d38fd36238800d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-second.jpg",
+      "path": "../../nenaudojama/lunch/images/74a68ce2c7663c47d0011928.jpg",
+      "archived": true,
+      "originalPath": "images/74a68ce2c7663c47d0011928.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-pin.jpg",
+      "path": "../../nenaudojama/lunch/images/a553e697899645cecabdc16b.jpg",
+      "archived": true,
+      "originalPath": "images/a553e697899645cecabdc16b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-01-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/6aafd1f9136df8e9fadc8b12.avif",
+      "archived": true,
+      "originalPath": "images/6aafd1f9136df8e9fadc8b12.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-03-525x350.jpg",
+      "path": "../../nenaudojama/lunch/images/ce3c3d8dbafbdfca20c3e227.avif",
+      "archived": true,
+      "originalPath": "images/ce3c3d8dbafbdfca20c3e227.avif"
+    }
+  ],
+  "featuredImage": "images/47d4d800b0eea106f9820313.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Fat Boost Smoothie with Coconut Chantilly Cream",
+    "author": {
+      "@id": "https://www.ruled.me/#/schema/person/02882ba1510e0ca48cab8dd2173f1c06"
+    },
+    "description": "This makes a total of 4 servings of Fat Boost Smoothie with Coconut Chantilly Cream. Each serving comes out to be 274 calories, 28.1g fats, 3.8g net carbs, and 2.9g protein.",
+    "datePublished": "2019-02-26T12:00:31+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-featured.jpg"
+    ],
+    "recipeYield": [
+      "4",
+      "4 servings"
+    ],
+    "prepTime": "PT10M",
+    "totalTime": "PT10M",
+    "recipeIngredient": [
+      "1 medium avocado (halved)",
+      "14 ounce canned coconut milk",
+      "2 1/2 tablespoon allulose",
+      "2 ounce water",
+      "8 ounce ice cubes",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "If the can of coconut milk has separated, whisk together until fully incorporated.",
+        "name": "If the can of coconut milk has separated, whisk together until fully incorporated.",
+        "url": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#wprm-recipe-52882-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-01.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender, add the avocado halves, coconut milk, allulose, water, ice cubes, and vanilla. Blend until smooth and thick.",
+        "name": "In a blender, add the avocado halves, coconut milk, allulose, water, ice cubes, and vanilla. Blend until smooth and thick.",
+        "url": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#wprm-recipe-52882-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-03.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To serve, pour the avocado mixture into a glass.  You can top with whipped coconut cream if you’d like.",
+        "name": "To serve, pour the avocado mixture into a glass.  You can top with whipped coconut cream if you’d like.",
+        "url": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#wprm-recipe-52882-step-0-2"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "keywords": "15-minute, beginner-friendly, dairy-free, egg-free, gluten-free, keto, low-carb, no-cook, nut-free, quick, simple &amp; easy, simple-and-easy, sugar-free, vegan, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "274 kcal",
+      "fatContent": "28.1 g",
+      "proteinContent": "2.9 g",
+      "carbohydrateContent": "3.8 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/fat-boost-smoothie-with-coconut-chantilly-cream/"
+  },
+  "sourceIndex": {
+    "id": 38938,
+    "rid": 52882,
+    "t": "Fat Boost Smoothie with Coconut Chantilly Cream",
+    "u": "/fat-boost-smoothie-with-coconut-chantilly-cream/",
+    "img": "https://www.ruled.me/wp-content/uploads/2019/02/avacado-coconut-fat-boost-smoothie-featured-768x512.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "lunch",
+    "nc": 3.8,
+    "cal": 274,
+    "pr": 2.9,
+    "fa": 28.1,
+    "tm": 10,
+    "sv": 4,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "dairy-free",
+      "egg-free",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "nut-free",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegan",
+      "vegetarian"
+    ],
+    "ni": 6,
+    "fk": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "nut-free",
+      "egg-free",
+      "few-ingredients",
+      "no-cook"
+    ],
+    "d": "2019-02-26",
+    "cm": 1,
+    "ex": "Most days, I need a fat boost. First things that come to mind? Avocado and coconut. Avocado is perhaps one of the healthiest low carb foods you can have. Super low in carbs, high in healthy fats, and",
+    "pv": 98
+  },
+  "sourceHtml": "pages/fat-boost-smoothie-with-coconut-chantilly-cream.html",
+  "scrapedAt": "2026-11-07T08:16:39.383Z"
+}

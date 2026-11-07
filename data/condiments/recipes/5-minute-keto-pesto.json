@@ -1,0 +1,269 @@
+{
+  "id": "ruled-26287",
+  "slug": "5-minute-keto-pesto",
+  "title": "5-Minute Keto Pesto",
+  "url": "https://www.ruled.me/5-minute-keto-pesto/",
+  "source": "Ruled.me",
+  "category": "condiments",
+  "language": "en",
+  "description": "This makes a total of 1 serving of 5-Minute Keto Pesto. The serving comes out to be 1924 calories, 196.9g fats, 10.1g net carbs, and 36.8g protein.",
+  "servings": 1,
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "totalMinutes": 5,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1924 kcal",
+    "fatContent": "196.9 g",
+    "proteinContent": "36.8 g",
+    "carbohydrateContent": "10.1 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 1924,
+    "netCarbsGrams": 10.1,
+    "proteinGrams": 36.8,
+    "fatGrams": 196.9
+  },
+  "ingredients": [
+    "1 1/2 cup fresh basil",
+    "1/3 cup toasted pine nuts",
+    "3/4 cup parmesan cheese (grated)",
+    "1 teaspoon fresh garlic (minced)",
+    "2 teaspoon tomato paste",
+    "2/3 cup olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "instructions": [
+    {
+      "text": "Place the fresh basil in a container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8574.jpg"
+    },
+    {
+      "text": "Add the toasted pine nuts (if using raw pine nuts, toast in a pan over low heat).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8576.jpg"
+    },
+    {
+      "text": "Add the parmesan, garlic, and tomato paste. Use an immersion blender to blend everything together while slowly adding in the oil. Season to taste.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_8579.jpg"
+    },
+    {
+      "text": "Pour the pesto into a jar and use as needed.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-3",
+      "imageSource": null
+    }
+  ],
+  "keywords": [
+    "15-minute",
+    "beginner-friendly",
+    "egg-free",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "filters": [
+    "vegetarian",
+    "egg-free",
+    "no-cook",
+    "high-protein"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/5minuteketopesto.jpg",
+      "path": "../../nenaudojama/condiments/images/e2a9e2c55c55ec0aa1edd861.jpg",
+      "archived": true,
+      "originalPath": "images/e2a9e2c55c55ec0aa1edd861.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8574.jpg",
+      "path": "../../nenaudojama/condiments/images/f114b125c870a8869f7971c5.jpg",
+      "archived": true,
+      "originalPath": "images/f114b125c870a8869f7971c5.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8576.jpg",
+      "path": "../../nenaudojama/condiments/images/df8a43329661e2d345eb2760.jpg",
+      "archived": true,
+      "originalPath": "images/df8a43329661e2d345eb2760.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8579.jpg",
+      "path": "../../nenaudojama/condiments/images/caf768f603c48feee4bf1afa.avif",
+      "archived": true,
+      "originalPath": "images/caf768f603c48feee4bf1afa.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/5minuteketopestosecond.jpg",
+      "path": "../../nenaudojama/condiments/images/9332928584f0c7be32589425.avif",
+      "archived": true,
+      "originalPath": "images/9332928584f0c7be32589425.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/5minuteketopestolong.jpg",
+      "path": "../../nenaudojama/condiments/images/9882072e81586f846282cc50.avif",
+      "archived": true,
+      "originalPath": "images/9882072e81586f846282cc50.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8574-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/34e432001a3a882cacc67c0e.avif",
+      "archived": true,
+      "originalPath": "images/34e432001a3a882cacc67c0e.avif"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8576-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/8f647a80cab62fb2bcc89d26.jpg",
+      "archived": true,
+      "originalPath": "images/8f647a80cab62fb2bcc89d26.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_8579-525x350.jpg",
+      "path": "../../nenaudojama/condiments/images/d9915312c51e0ffc71ed5ad2.jpg",
+      "archived": true,
+      "originalPath": "images/d9915312c51e0ffc71ed5ad2.jpg"
+    }
+  ],
+  "featuredImage": "../../nenaudojama/condiments/images/e2a9e2c55c55ec0aa1edd861.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "5-Minute Keto Pesto",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 1 serving of 5-Minute Keto Pesto. The serving comes out to be 1924 calories, 196.9g fats, 10.1g net carbs, and 36.8g protein.",
+    "datePublished": "2015-07-09T15:43:45+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/5minuteketopesto.jpg"
+    ],
+    "recipeYield": [
+      "1",
+      "1 servings"
+    ],
+    "prepTime": "PT5M",
+    "totalTime": "PT5M",
+    "recipeIngredient": [
+      "1 1/2 cup fresh basil",
+      "1/3 cup toasted pine nuts",
+      "3/4 cup parmesan cheese (grated)",
+      "1 teaspoon fresh garlic (minced)",
+      "2 teaspoon tomato paste",
+      "2/3 cup olive oil",
+      "salt and pepper (to taste)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the fresh basil in a container.",
+        "name": "Place the fresh basil in a container.",
+        "url": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8574.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the toasted pine nuts (if using raw pine nuts, toast in a pan over low heat).",
+        "name": "Add the toasted pine nuts (if using raw pine nuts, toast in a pan over low heat).",
+        "url": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8576.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the parmesan, garlic, and tomato paste. Use an immersion blender to blend everything together while slowly adding in the oil. Season to taste.",
+        "name": "Add the parmesan, garlic, and tomato paste. Use an immersion blender to blend everything together while slowly adding in the oil. Season to taste.",
+        "url": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_8579.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the pesto into a jar and use as needed.",
+        "name": "Pour the pesto into a jar and use as needed.",
+        "url": "https://www.ruled.me/5-minute-keto-pesto/#wprm-recipe-51753-step-0-3"
+      }
+    ],
+    "recipeCategory": [
+      "Condiments"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "15-minute, beginner-friendly, egg-free, gluten-free, high-fat, high-protein, keto, low-carb, no-cook, quick, simple &amp; easy, simple-and-easy, sugar-free, vegetarian",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1924 kcal",
+      "fatContent": "196.9 g",
+      "proteinContent": "36.8 g",
+      "carbohydrateContent": "10.1 g",
+      "servingSize": "1 serving"
+    },
+    "cookTime": "PT0M",
+    "@id": "https://www.ruled.me/5-minute-keto-pesto/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/5-minute-keto-pesto/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/5-minute-keto-pesto/"
+  },
+  "sourceIndex": {
+    "id": 26287,
+    "rid": 51753,
+    "t": "5 Minute Keto Pesto",
+    "u": "/5-minute-keto-pesto/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/5minuteketopesto.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "condiments",
+    "nc": 10.1,
+    "cal": 1924,
+    "pr": 36.8,
+    "fa": 196.9,
+    "tm": 5,
+    "sv": 1,
+    "kw": [
+      "15-minute",
+      "beginner-friendly",
+      "egg-free",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "no-cook",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "ni": 7,
+    "fk": [
+      "vegetarian",
+      "egg-free",
+      "no-cook",
+      "high-protein"
+    ],
+    "d": "2015-07-09",
+    "cm": 7,
+    "ex": "Typically pesto is a very simple recipe of basil, pine nuts, Parmesan cheese, garlic, and olive oil. Over the years people have added more and more ingredients to this classic recipe in order to",
+    "pv": 77
+  },
+  "sourceHtml": "pages/5-minute-keto-pesto.html",
+  "scrapedAt": "2026-11-07T08:33:30.394Z"
+}

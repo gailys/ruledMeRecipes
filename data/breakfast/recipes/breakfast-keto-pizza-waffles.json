@@ -1,0 +1,340 @@
+{
+  "id": "ruled-26619",
+  "slug": "breakfast-keto-pizza-waffles",
+  "title": "Keto Breakfast Pizza Waffles",
+  "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/",
+  "source": "Ruled.me",
+  "category": "breakfast",
+  "language": "en",
+  "description": "This makes a total of 2 servings of Keto Breakfast Pizza Waffles. Each serving comes out to be 605 calories, 46g fats, 7.9g net carbs, and 32.9g protein.",
+  "servings": 2,
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "totalMinutes": 20,
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "605 kcal",
+    "fatContent": "46 g",
+    "proteinContent": "32.9 g",
+    "carbohydrateContent": "7.9 g",
+    "servingSize": "1 serving"
+  },
+  "nutritionPerServing": {
+    "calories": 605,
+    "netCarbsGrams": 7.9,
+    "proteinGrams": 32.9,
+    "fatGrams": 46
+  },
+  "ingredients": [
+    "3 tablespoon almond flour",
+    "1 tablespoon psyllium husk powder",
+    "4 tablespoon parmesan cheese (grated)",
+    "4 large egg",
+    "1 tablespoon olive oil",
+    "1 teaspoon baking powder",
+    "1 teaspoon italian seasoning",
+    "salt and pepper (to taste)",
+    "1/2 cup low-carb tomato sauce (such as Rao's)",
+    "3 ounce cheddar cheese",
+    "1 ounce pepperoni (optional)"
+  ],
+  "instructions": [
+    {
+      "text": "Add all ingredients except the tomato sauce, cheddar, and pepperoni to a container.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-0",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7084.jpg"
+    },
+    {
+      "text": "Use an immersion blender to blend everything together for about 30–45 seconds, or until the mixture thickens.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-1",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7093.jpg"
+    },
+    {
+      "text": "Heat up the waffle iron and pour in enough batter for one waffle (depending on how many you'll be making).",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-2",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7100.jpg"
+    },
+    {
+      "text": "Let cook until there is almost no steam coming out of the waffle iron. Once done, remove and repeat with any remaining batter.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-3",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7107.jpg"
+    },
+    {
+      "text": "Add tomato sauce, cheese, and pepperoni (if using) on top of each waffle. Broil for 3–5 minutes in the oven.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-4",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/img_7112.jpg"
+    },
+    {
+      "text": "Once the cheese has melted and is beginning to crisp up, remove from the oven and serve.",
+      "group": "",
+      "sourceUrl": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-5",
+      "imageSource": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizzalong.jpg"
+    }
+  ],
+  "keywords": [
+    "30-minute",
+    "beginner-friendly",
+    "gluten-free",
+    "high-fat",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "oven-baked",
+    "pork",
+    "quick",
+    "simple-and-easy",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "filters": [
+    "oven-baked",
+    "high-protein",
+    "pork"
+  ],
+  "images": [
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizza.jpg",
+      "path": "images/24bb4009d25c8cfe12fc58a7.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7084.jpg",
+      "path": "../../nenaudojama/breakfast/images/16545ff11926b01ab70780d8.jpg",
+      "archived": true,
+      "originalPath": "images/16545ff11926b01ab70780d8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7093.jpg",
+      "path": "../../nenaudojama/breakfast/images/1bad88ab11f44db2a988a694.jpg",
+      "archived": true,
+      "originalPath": "images/1bad88ab11f44db2a988a694.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7100.jpg",
+      "path": "../../nenaudojama/breakfast/images/4f6e4749f1bd23e995d38396.jpg",
+      "archived": true,
+      "originalPath": "images/4f6e4749f1bd23e995d38396.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7107.jpg",
+      "path": "../../nenaudojama/breakfast/images/3e53cb25d547e2286db8cdf0.jpg",
+      "archived": true,
+      "originalPath": "images/3e53cb25d547e2286db8cdf0.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7112.jpg",
+      "path": "../../nenaudojama/breakfast/images/62cf51b7deca937a04ad2670.jpg",
+      "archived": true,
+      "originalPath": "images/62cf51b7deca937a04ad2670.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizzalong.jpg",
+      "path": "../../nenaudojama/breakfast/images/bb6e5aac8d99e9d79d8e3eb8.jpg",
+      "archived": true,
+      "originalPath": "images/bb6e5aac8d99e9d79d8e3eb8.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizzasecond.jpg",
+      "path": "../../nenaudojama/breakfast/images/03b53346be8be046c505bc22.jpg",
+      "archived": true,
+      "originalPath": "images/03b53346be8be046c505bc22.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7084-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/9eae4be19391da70cca919e6.jpg",
+      "archived": true,
+      "originalPath": "images/9eae4be19391da70cca919e6.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7093-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4187437bd5411fd5ce59e72b.jpg",
+      "archived": true,
+      "originalPath": "images/4187437bd5411fd5ce59e72b.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7100-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b36684310e81c70f18242e99.jpg",
+      "archived": true,
+      "originalPath": "images/b36684310e81c70f18242e99.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7107-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/30f2c6679e2b53aabdea590f.jpg",
+      "archived": true,
+      "originalPath": "images/30f2c6679e2b53aabdea590f.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/img_7112-525x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/4a6ef622fcc7cc5fabaa296d.jpg",
+      "archived": true,
+      "originalPath": "images/4a6ef622fcc7cc5fabaa296d.jpg"
+    },
+    {
+      "sourceUrl": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizzalong-241x350.jpg",
+      "path": "../../nenaudojama/breakfast/images/b7c7a557a5aa5ed414807e3d.jpg",
+      "archived": true,
+      "originalPath": "images/b7c7a557a5aa5ed414807e3d.jpg"
+    }
+  ],
+  "featuredImage": "images/24bb4009d25c8cfe12fc58a7.jpg",
+  "rawRecipe": {
+    "@type": "Recipe",
+    "name": "Keto Breakfast Pizza Waffles",
+    "author": {
+      "@type": "Person",
+      "name": "Craig Clarke",
+      "url": "https://www.ruled.me/about-us/#craig-clarke"
+    },
+    "description": "This makes a total of 2 servings of Keto Breakfast Pizza Waffles. Each serving comes out to be 605 calories, 46g fats, 7.9g net carbs, and 32.9g protein.",
+    "datePublished": "2015-07-30T16:01:48+00:00",
+    "image": [
+      "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizza.jpg"
+    ],
+    "video": {
+      "name": "Breakfast Keto Pizza Waffles Recipe",
+      "description": "Pizza, for breakfast!? Yes, it’s true! Sometimes on keto, I get cravings at weird times. Breakfast food for dinner, and dinner for breakfast. In this case, I was really craving a pizza in the morning. So, I thought it’d be a really nifty idea to use a waffle base as a pizza. It worked great – and it even makes it easy to pull apart each quarter and eat it like a slice of pizza.\n\nYou can top the pizza waffle with anything you’d like to – scrambled eggs and bacon with some ranch as the sauce. Or, go another route and do a bit of chicken, homemade BBQ sauce, and cheese. The possibilities are endless – but the base of the pizza (the waffle) will stay the same. It will hold up well and provide the perfect vehicle to put delicious toppings into your mouth.\n\nRead the full recipe with full nutrition breakdown and step-by-step pictures over at:\n\n------------------------------------------------------------------------\n\nIngredients:\n4 large eggs\n4 tablespoons grated Parmesan cheese\n3 tablespoons almond flour\n1 tablespoon Psyllium husk powder\n1 tablespoon bacon grease\n1 teaspoon baking powder\n1 teaspoon Italian seasoning\nSalt and pepper to taste\n½ cup Tomato Sauce (we use Rao’s)\n3 ounces cheddar cheese\n14 slices pepperoni (optional)\n\nNutrition Summary: This makes a total of 2 Breakfast Keto Pizza Waffles. Each pizza waffle comes out to be 604 Calories, 48.14g Fats, 7.59g Net Carbs, and 30.65g Protein.\n\n------------------------------------------------------------------------\n\nSee more keto recipes, knowledge and tips on the website to keep your weight loss going strong.\n\nEverything you need to know about the keto diet:\n\nGetting started? Everything you need is here:\n\nWe also make things easy with this 14 day diet plan:\n\n------------------------------------------------------------------------\n\nFollow Ruled.Me for more tasty food:",
+      "uploadDate": "2021-02-08T15:00:13+00:00",
+      "duration": "PT2M18S",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dOG0urn6PwM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dOG0urn6PwM?feature=oembed",
+      "contentUrl": "https://www.youtube.com/watch?v=dOG0urn6PwM",
+      "@type": "VideoObject"
+    },
+    "recipeYield": [
+      "2",
+      "2 servings"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeIngredient": [
+      "3 tablespoon almond flour",
+      "1 tablespoon psyllium husk powder",
+      "4 tablespoon parmesan cheese (grated)",
+      "4 large egg",
+      "1 tablespoon olive oil",
+      "1 teaspoon baking powder",
+      "1 teaspoon italian seasoning",
+      "salt and pepper (to taste)",
+      "1/2 cup low-carb tomato sauce (such as Rao's)",
+      "3 ounce cheddar cheese",
+      "1 ounce pepperoni (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add all ingredients except the tomato sauce, cheddar, and pepperoni to a container.",
+        "name": "Add all ingredients except the tomato sauce, cheddar, and pepperoni to a container.",
+        "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-0",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7084.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion blender to blend everything together for about 30–45 seconds, or until the mixture thickens.",
+        "name": "Use an immersion blender to blend everything together for about 30–45 seconds, or until the mixture thickens.",
+        "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-1",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7093.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat up the waffle iron and pour in enough batter for one waffle (depending on how many you'll be making).",
+        "name": "Heat up the waffle iron and pour in enough batter for one waffle (depending on how many you'll be making).",
+        "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-2",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7100.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cook until there is almost no steam coming out of the waffle iron. Once done, remove and repeat with any remaining batter.",
+        "name": "Let cook until there is almost no steam coming out of the waffle iron. Once done, remove and repeat with any remaining batter.",
+        "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-3",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7107.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add tomato sauce, cheese, and pepperoni (if using) on top of each waffle. Broil for 3–5 minutes in the oven.",
+        "name": "Add tomato sauce, cheese, and pepperoni (if using) on top of each waffle. Broil for 3–5 minutes in the oven.",
+        "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-4",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/img_7112.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the cheese has melted and is beginning to crisp up, remove from the oven and serve.",
+        "name": "Once the cheese has melted and is beginning to crisp up, remove from the oven and serve.",
+        "url": "https://www.ruled.me/breakfast-keto-pizza-waffles/#wprm-recipe-51781-step-0-5",
+        "image": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizzalong.jpg"
+      }
+    ],
+    "recipeCategory": [
+      "Breakfast"
+    ],
+    "recipeCuisine": [
+      "Italian"
+    ],
+    "keywords": "30-minute, beginner-friendly, gluten-free, high-fat, high-protein, keto, low-carb, oven-baked, pork, quick, simple-and-easy, sugar-free, weeknight-dinner",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "605 kcal",
+      "fatContent": "46 g",
+      "proteinContent": "32.9 g",
+      "carbohydrateContent": "7.9 g",
+      "servingSize": "1 serving"
+    },
+    "@id": "https://www.ruled.me/breakfast-keto-pizza-waffles/#recipe",
+    "isPartOf": {
+      "@id": "https://www.ruled.me/breakfast-keto-pizza-waffles/#article"
+    },
+    "mainEntityOfPage": "https://www.ruled.me/breakfast-keto-pizza-waffles/"
+  },
+  "sourceIndex": {
+    "id": 26619,
+    "rid": 51781,
+    "t": "Breakfast Keto Pizza Waffles",
+    "u": "/breakfast-keto-pizza-waffles/",
+    "img": "https://www.ruled.me/wp-content/uploads/2015/07/breakfastwafflepizza.jpg",
+    "w": 768,
+    "h": 512,
+    "c": "breakfast",
+    "nc": 7.9,
+    "cal": 605,
+    "pr": 32.9,
+    "fa": 46,
+    "tm": 20,
+    "sv": 2,
+    "kw": [
+      "30-minute",
+      "beginner-friendly",
+      "gluten-free",
+      "high-fat",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "oven-baked",
+      "pork",
+      "quick",
+      "simple-and-easy",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "ni": 11,
+    "fk": [
+      "oven-baked",
+      "high-protein",
+      "pork"
+    ],
+    "d": "2015-07-30",
+    "cm": 7,
+    "ex": "Pizza, for breakfast!? Yes, it's true! Sometimes on keto, I get cravings at weird times. Breakfast food for dinner, and dinner for breakfast. In this case, I was really craving a pizza in the",
+    "pv": 214
+  },
+  "sourceHtml": "pages/breakfast-keto-pizza-waffles.html",
+  "scrapedAt": "2026-11-07T08:11:12.864Z"
+}
