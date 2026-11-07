@@ -13,12 +13,13 @@
   font-synthesis: none;
 }
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; scrollbar-gutter:stable; }
+@supports not (scrollbar-gutter:stable) {html {overflow-y:scroll}}
 body { margin: 0; min-height: 100vh; background: var(--paper); }
 button, input, textarea { font: inherit; }
 button, a { -webkit-tap-highlight-color: transparent; }
 button { cursor: pointer; }
-.topbar { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; min-height: 68px; padding: 10px max(20px, calc((100vw - 1120px) / 2)); background: rgba(247,245,238,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(14px); }
+.topbar { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; height:68px;min-height:68px;flex-shrink:0; padding: 10px max(20px, calc((100vw - 1120px) / 2)); background: rgba(247,245,238,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(14px); }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); font-weight: 800; text-decoration: none; }
 .brand-mark { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 11px; background: var(--green); color: var(--lime); font-family: Georgia, serif; font-size: 21px; }
 .brand-mark img,.install-icon img,.auth-logo img {display:block;width:100%;height:100%;object-fit:contain;border-radius:inherit}
@@ -142,7 +143,7 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .settings-button { display: grid; place-items: center; flex: 0 0 40px; width: 40px; height: 40px; margin-left: 2px; padding: 0; border: 1px solid var(--line); border-radius: 50%; background: var(--card); color: var(--green); font-size: 21px; line-height: 1; transition: transform .16s ease, background .16s ease; }
 .settings-button:hover { background: #edf0e5; transform: rotate(18deg); }
 .settings-button:focus-visible { outline: 3px solid rgba(217,243,106,.75); outline-offset: 2px; }
-.current-user { display: inline-flex; align-items: center; max-width: 130px; padding: 8px 10px; border-radius: 999px; background: var(--green); color: white; font-size: 12px; font-weight: 850; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.current-user { display: inline-flex; align-items: center; justify-content:center; flex:0 0 36px; width:36px; height:36px; padding:0; border-radius:50%; background: var(--green); color: white; font-size: 14px; font-weight: 850; overflow: hidden; white-space: nowrap; }
 .current-user[hidden] { display: none; }
 .shopping-note { max-width: 650px; color: var(--muted); line-height: 1.55; }
 .manual-cart-form { display: grid; grid-template-columns: minmax(0, 1fr) minmax(130px, .35fr) auto; gap: 8px; max-width: 760px; margin-top: 18px; }
@@ -251,9 +252,9 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
   nav a { padding-inline: 7px; font-size: 12px; }
   nav .count { min-width: 18px; height: 18px; padding-inline: 4px; font-size: 10px; }
   .settings-button { flex-basis: 36px; width: 36px; height: 36px; margin-left: 0; font-size: 19px; }
-  .topbar { flex-wrap: wrap; row-gap: 5px; }
-  .topbar nav { width: 100%; justify-content: flex-end; }
-  .current-user { order: -1; max-width: calc(100vw - 90px); }
+  .topbar { height:60px;min-height:60px;flex-wrap:nowrap;gap:8px;padding-block:10px }
+  .topbar .brand {flex:none}
+  .topbar nav {width:auto;flex:1;min-width:0;justify-content:flex-end;flex-wrap:nowrap}
   .input-row { flex-direction: column; }
   .primary { width: 100%; }
   .recipe-image-button { height: 116px; }
@@ -292,4 +293,12 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
   .dictionary-row { grid-template-columns: 1fr auto; }
   .dictionary-row input { grid-column: 1; }
   .dictionary-reset { grid-column: 2; grid-row: 2; }
+}
+
+@media(max-width:380px) {
+ .topbar {padding-inline:8px;gap:4px}
+ .topbar nav {gap:2px}
+ .topbar nav a {padding-inline:5px;font-size:11px;white-space:nowrap}
+ .topbar .brand-mark {width:32px;height:32px}
+ .topbar .current-user,.topbar .settings-button {flex-basis:32px;width:32px;height:32px}
 }

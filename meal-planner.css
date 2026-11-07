@@ -217,9 +217,6 @@
  .swipe-nutrition {gap:9px}.chosen-menu {padding:19px}
 }
 @media(max-width:700px) {
- .is-planning .topbar {min-height:56px;flex-wrap:nowrap;gap:9px}
- .is-planning .topbar nav {width:auto;flex:1;justify-content:flex-end}
- .is-planning #current-user {display:none}
  .planner-layout {grid-template-columns:1fr;gap:27px}.chosen-menu {max-width:592px;width:100%;margin:0 auto}
  .planner-heading {align-items:flex-start;gap:15px;margin-bottom:23px}.planner-heading h1 {max-width:370px;font-size:clamp(33px,7vw,46px)}
  .planner-heading p:not(.eyebrow) {font-size:12px}.planner-heading .eyebrow {font-size:9px;letter-spacing:.1em}
@@ -231,7 +228,6 @@
  .menu-days {grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px}
 }
 @media(max-width:380px) {
- .is-planning .brand {display:none}.is-planning .topbar {padding-inline:10px}.is-planning nav a {padding-inline:6px;font-size:11px}
  .planner-heading {flex-wrap:wrap}.planner-days {display:flex;align-items:center;padding:8px 12px}.planner-heading h1 {font-size:34px}.swipe-nutrition small {display:none}.swipe-copy h2 {font-size:26px}.planner-detail-dialog {padding:22px}
 }
 @media(prefers-reduced-motion:reduce) {

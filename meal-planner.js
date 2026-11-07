@@ -1,10 +1,10 @@
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=65';
-import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=65';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=71';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=71';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
 const BLOCKED_KEY = 'keto-blocked-recipes-v1';
-const CART_DIRTY_KEY = 'keto-menu-cart-dirty-v1';
+const CART_DIRTY_KEY = 'keto-menu-cart-dirty-v2';
 const html = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[char]);
 const number = value => Number.isFinite(value) ? new Intl.NumberFormat('lt-LT', {maximumFractionDigits:1}).format(value) : '–';
 const durationColor = minutes => !Number.isFinite(minutes) || minutes <= 0 ? '' : minutes <= 15 ? 'duration-green' : minutes <= 30 ? 'duration-yellow' : minutes <= 60 ? 'duration-orange' : 'duration-red';
@@ -116,7 +116,10 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     const before=preferences();
     const people=peopleCount(peopleInput.value),increase=portionIncrease(increaseInput.value);
     savePreferences({...before,people,increase,portionsVersion:1});
-    if(before.people!==people || before.increase!==increase){setCartDirty(true);onPortionsChange();}
+    if(before.people!==people || before.increase!==increase){
+      if(plan && [plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && isComplete(menu)))setCartDirty(true);
+      onPortionsChange();
+    }
     syncSettings();render();
   });
   for(const control of [reminderEnabled,reminderDays])control.addEventListener('change',()=>{
@@ -207,7 +210,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     const portionSettings=preferences();
     if(portionSettings.portionsVersion!==1) {
       savePreferences({...portionSettings,portionsVersion:1});
-      if([plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && Object.values(menu.selected).some(ids=>ids.length)))setCartDirty(true);
+      
       onPortionsChange();
     }
     let missingIds=false;
@@ -314,7 +317,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     root.innerHTML=`<header class="planner-heading daily-heading"><div><p class="eyebrow"><time datetime="${date}">${html(formatDate(date))}</time></p><h1>${waiting ? 'Meniu paruoštas' : 'Šiandienos meniu'}<span>.</span></h1>${waiting ? `<p class="menu-start-note">Gamyba prasidės <time datetime="${menu.startDate}">${html(formatDate(menu.startDate))}</time>.</p>` : ''}</div></header>
       ${!waiting ? `<section class="daily-recipes" aria-label="Šiandienos patiekalai">${dailyRecipeCards(menu,day,date)}</section>` : ''}
       ${future.length ? `<section class="remaining-menu" aria-labelledby="remaining-menu-title"><h2 id="remaining-menu-title">${waiting ? 'Suplanuotas meniu' : 'Artimiausių dienų meniu'}</h2><div class="remaining-days">${future.map(item=>`<section class="remaining-day"><h3><time datetime="${item.date}">${html(formatDate(item.date))}</time></h3><div class="remaining-day-recipes">${dailyRecipeCards(item.menu,item.day,item.date)}</div></section>`).join('')}</div></section>` : ''}
-      <div class="cart-rebuild"><button class="primary dark" data-planner="rebuild-cart">↻ Atnaujinti pirkinių krepšelį</button><p>Išvalo visą krepšelį ir sudeda šiandienos bei būsimų dienų meniu ingredientus.</p></div>
+      ${cartNeedsUpdate() ? '<div class="cart-rebuild"><button class="primary dark" data-planner="rebuild-cart">↻ Atnaujinti pirkinių krepšelį</button><p>Išvalo visą krepšelį ir sudeda šiandienos bei būsimų dienų meniu ingredientus.</p></div>' : ''}
       <footer class="extend-menu"><button class="primary dark" data-planner="start-next">${plan.activeMenu && !isComplete(plan) ? 'Tęsti tolimesnio meniu rinkimą' : 'Sudaryti tolimesnį meniu'} <span aria-hidden="true">→</span></button></footer>
       ${cartError ? `<p class="status error" role="alert">${html(cartError)} <button class="text-button" data-planner="retry-cart">Bandyti dar kartą</button></p>` : ''}
       ${persistenceError ? '<p class="status error" role="alert">Meniu pakeitimai dar neišsaugoti šiame įrenginyje.</p>' : ''}<dialog class="planner-detail-dialog" aria-labelledby="planner-detail-title"></dialog>`;
@@ -419,7 +422,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
         target.history=[];target.cartExported=null;replacement=null;busy=false;
         setCartDirty(true);save();exportMenuIngredients(target);render();showToast('Receptas meniu pakeistas.');
       }else {change.skipped.push(id);change.currentId=null;busy=false;render();}
-    }else {plan=decide(plan,suggestionCatalog(),kind);busy=false;if(kind==='like' && isComplete(plan))setCartDirty(true);save();render();}
+    }else {plan=decide(plan,suggestionCatalog(),kind);busy=false;save();render();}
     root.querySelector('.swipe-card')?.focus({preventScroll:true});
   }
   function showDetails(id) {
@@ -467,7 +470,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     if (days < plan.days && MEALS.some(meal=>plan.selected[meal.id].length > days)) {
       if (!await confirmChange('Sutrumpinti meniu? Bus palikti tik pirmųjų pasirinktų dienų receptai.') || owner!==profileKey()) {syncSettings(); return;}
     }
-    if(days!==plan.days)setCartDirty(true);
+    if(days!==plan.days && isComplete(plan) && MEALS.some(meal=>plan.selected[meal.id].length>days))setCartDirty(true);
     generation++; busy=false; drag=null; replacement=null;plan=resizePlan(plan,days,catalog); save(); syncSettings(); render();
     showToast(`Meniu laikotarpis: ${days} ${days===1 ? 'diena' : 'dienos'}`);
   });
@@ -480,7 +483,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     generation++;busy=false;drag=null;replacement=null;cartError='';
     if(reminder.open)reminder.close();root.querySelector('dialog')?.close();
     plan=restorePlan({configured:false},catalog);save();
-    setCartDirty(true);
+    setCartDirty(false);
     savePreferences({...preferences(),reminded:{}});
     document.querySelector('#settings-dialog').close();
     if(location.hash!=='#discover')location.hash='#discover';

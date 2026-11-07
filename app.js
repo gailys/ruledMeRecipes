@@ -1,7 +1,7 @@
-import { createSyncEngine, hasSession, loginWithPassword, validateRecipeUrls } from './sync.js?v=65';
-import { createMealPlanner } from './meal-planner.js?v=65';
-import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=65';
-import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=65';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=71';
+import { createMealPlanner } from './meal-planner.js?v=71';
+import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=71';
+import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=71';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -427,6 +427,12 @@ async function loadLibraryCatalog() {
     const data=await response.json();
     if(!Array.isArray(data.recipes))throw new Error('catalog');
     libraryCatalog=data.recipes.map(libraryRecipe);
+    if(pendingSharedUrl) {
+      const shared=libraryCatalog.find(recipe=>recipe.url.replace(/\/$/,'').toLowerCase()===pendingSharedUrl.replace(/\/$/,'').toLowerCase());
+      clearSharedRecipeQuery();
+      if(shared){recipeReturnRoute='#recipes';location.hash=`#recipe/${shared.id}`;}
+      else showToast('Šio recepto kataloge nėra.');
+    }
     if(location.hash.startsWith('#recipe/'))renderDetail(location.hash.slice(8));
     else if(!$('#recipes-view').hidden)renderRecipes();
   } catch {
@@ -658,12 +664,7 @@ function parseNumber(raw = '') {
 }
 
 function formatNumber(value) {
-  if (value == null) return '';
-  const common = [[.125,'⅛'],[.25,'¼'],[.333,'⅓'],[.375,'⅜'],[.5,'½'],[.625,'⅝'],[.667,'⅔'],[.75,'¾'],[.875,'⅞']];
-  const whole = Math.floor(value + 1e-7); const decimal = value - whole;
-  const match = common.find(([number]) => Math.abs(number - decimal) < .025);
-  if (match) return `${whole || ''}${whole ? ' ' : ''}${match[1]}`;
-  return Number(value.toFixed(2)).toLocaleString('lt-LT');
+  return value==null ? '' : Number(value.toFixed(2)).toLocaleString('lt-LT');
 }
 
 function roundedMetric(value) {
@@ -671,13 +672,22 @@ function roundedMetric(value) {
   return Math.round(value).toLocaleString('lt-LT');
 }
 
+// USDA: cooked diced chicken 140 g/cup; other densities use CUP_GRAMS.
+// https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/8586/csfii85_4days_codebook.pdf
+function cupWeight(item) {
+  const key=item.key || ingredientKey(item.name);
+  if(CUP_LIQUIDS.has(key) || /(?:oil|milk|broth|stock|juice|vinegar)$/.test(key))return null;
+  if(CUP_GRAMS[key])return CUP_GRAMS[key];
+  if(/chicken/.test(key) && !/bouillon|broth|stock|whole/.test(key))return 140;
+  return null;
+}
 function metricAmount(item) {
   if (item.quantity == null) return [item.quantityRaw, ''].filter(Boolean).join(' ');
-  const unit = item.unit.toLowerCase().replace(/\.$/, '');
+  const unit = unitKey(item.unit || '');
   const quantity = item.quantity;
   if (/^(ounce|ounces|oz)$/.test(unit)) return `${roundedMetric(quantity * 28.3495)} g`;
   if (/^(pound|pounds|lb|lbs)$/.test(unit)) return `${roundedMetric(quantity * 453.592)} g`;
-  if (/^(gram|grams|g)$/.test(unit)) return `${roundedMetric(quantity)} g`;
+  if (/^(gram|grams|g)$/.test(unit)) return `${item.approximate ? '≈ ' : ''}${roundedMetric(quantity)} g`;
   if (/^(milliliter|milliliters|ml)$/.test(unit)) return `${roundedMetric(quantity)} ml`;
   if (/^(liter|liters|l)$/.test(unit)) return `${roundedMetric(quantity * 1000)} ml`;
   if (/^(fluid ounce|fluid ounces|fl oz)$/.test(unit)) return `${roundedMetric(quantity * 29.5735)} ml`;
@@ -685,11 +695,11 @@ function metricAmount(item) {
     const key = item.key || ingredientKey(item.name);
     if (CUP_GRAMS[key]) return `≈ ${roundedMetric(quantity * CUP_GRAMS[key])} g`;
     if (CUP_LIQUIDS.has(key) || /(?:oil|milk|broth|juice|vinegar|sauce)$/.test(key)) return `${roundedMetric(quantity * 240)} ml`;
-    return `${formatNumber(quantity)} ${Math.abs(quantity - 1) < .001 ? 'puodelis' : 'puodelio'}`;
+    return `${roundedMetric(quantity*240)} ml`;
   }
   if (/^(tablespoon|tablespoons|tbsp)$/.test(unit)) return `${roundedMetric(quantity * 15)} ml`;
   if (/^(teaspoon|teaspoons|tsp)$/.test(unit)) return `${roundedMetric(quantity * 5)} ml`;
-  const unitLt = { large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skiltelė', cloves: 'skiltelės', slice: 'riekelė', slices: 'riekelės' }[unit] || item.unit;
+  const unitLt = { large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skiltelė', cloves: 'skiltelės', slice: 'riek.', slices: 'riek.', whole:'vnt.', piece:'vnt.', pieces:'vnt.', can:'skard.', cans:'skard.', package:'pak.', packages:'pak.' }[unit] || item.unit;
   return `${formatNumber(quantity)}${unitLt ? ` ${unitLt}` : ''}`;
 }
 
@@ -730,6 +740,14 @@ function consolidateCart(items) {
   const result = []; let changed = false;
   for (const item of items) {
     const current = { ...item, key: item.key || ingredientKey(item.name) };
+    const volumeFactor={cup:1,tablespoon:1/16,teaspoon:1/48}[unitKey(current.unit)];
+    const density=volumeFactor ? cupWeight(current) : null;
+    if(volumeFactor && current.quantity!=null) {
+      current.quantity*=density ? volumeFactor*density : volumeFactor*240;
+      current.unit=density ? 'gram' : 'milliliter';
+      if(density)current.approximate=true;
+      changed=true;
+    }
     const measure = measurement(current.unit);
     const existing = current.quantity == null ? null : result.find(entry => entry.key === current.key && ingredientForm(entry.name) === ingredientForm(current.name) && entry.quantity != null && measurement(entry.unit).family === measure.family);
     if (!existing) { result.push(current); continue; }
@@ -742,6 +760,7 @@ function consolidateCart(items) {
     const target = measurement(targetKey);
     existing.quantity = (existing.quantity * existingMeasure.factor + current.quantity * measure.factor) / target.factor;
     existing.sources=mergeCartSources(existing.sources,current.sources);
+    existing.approximate=Boolean(existing.approximate || current.approximate);
     if(current.manual)existing.manual=true;
     existing.done = Boolean(existing.done && current.done);
     existing.unit = targetKey; existing.quantityRaw = ''; changed = true;
@@ -910,7 +929,7 @@ function updateCounts() {
   $('#recipe-count').textContent = libraryCatalog ? `${allLibraryRecipes().length} receptų` : '';
   const user = users.find(item => item.id === currentUserId);
   $('#current-user').hidden = !user;
-  $('#current-user').textContent = user ? `● ${user.name}` : '';
+  $('#current-user').textContent = user ? [...user.name.trim()][0]?.toLocaleUpperCase('lt') || '?' : '';
   $('#current-user').setAttribute('aria-label',user ? `Keisti vartotoją. Dabartinis profilis: ${user.name}` : 'Keisti vartotoją');
 }
 
@@ -1053,20 +1072,8 @@ function renderRecipes() {
 }
 
 function recipeAmount(item, servings, originalServings) {
-  const unit = unitKey(item.unit);
-  if(item.quantity==null && Number.isFinite(item.quantityMin))return `${formatNumber(item.quantityMin*servings/originalServings)}–${formatNumber(item.quantityMax*servings/originalServings)} ${item.unit}`.trim();
-  if (item.quantity == null) return [item.quantityRaw, item.unit].filter(Boolean).join(' ');
-  const quantity = item.quantity * servings / originalServings;
-  if (unit === 'ounce') return `${roundedMetric(quantity * 28.3495)} g`;
-  if (unit === 'pound') return `${roundedMetric(quantity * 453.592)} g`;
-  if (unit === 'fluid ounce') return `${roundedMetric(quantity * 29.5735)} ml`;
-  if (unit === 'gram') return `${roundedMetric(quantity)} g`;
-  if (unit === 'milliliter') return `${roundedMetric(quantity)} ml`;
-  if (unit === 'cup') return `${formatNumber(quantity)} puod.`;
-  if (unit === 'tablespoon') return `${formatNumber(quantity)} valg. š.`;
-  if (unit === 'teaspoon') return `${formatNumber(quantity)} arb. š.`;
-  const unitLt = { liter: 'l', liters: 'l', large: 'didelis', medium: 'vidutinis', small: 'mažas', clove: 'skilt.', cloves: 'skilt.', slice: 'riek.', slices: 'riek.' }[unit] || item.unit;
-  return `${formatNumber(quantity)}${unitLt ? ` ${unitLt}` : ''}`;
+  const factor=servings/originalServings;
+  return metricAmount({...item,quantity:item.quantity==null ? null : item.quantity*factor,quantityMin:Number.isFinite(item.quantityMin) ? item.quantityMin*factor : undefined,quantityMax:Number.isFinite(item.quantityMax) ? item.quantityMax*factor : undefined});
 }
 
 function renderDetail(id, servingsOverride) {
@@ -1271,24 +1278,12 @@ function route(options = {}) {
   if(!preserveScroll)$('#library-owned').open=false;
   document.body.classList.toggle('is-planning',hash === '#discover');
   const detailMatch = hash.match(/^#recipe\/(.+)$/);
-  const dialog = $('#add-dialog');
-  if (hash !== '#add' && dialog.open) dialog.close();
   $$('.view').forEach(view => view.hidden = true);
   $$('[data-nav]').forEach(link => link.classList.toggle('active', link.getAttribute('href') === hash));
   mealPlanner.setActive(hash === '#discover',{preserveSelection:Boolean(detailMatch)});
   if (hash === '#discover') { $('#discover-view').hidden = false; }
   else if (detailMatch) { $('#detail-view').hidden = false; renderDetail(detailMatch[1]); }
   else if (hash === '#shopping') { $('#shopping-view').hidden = false; renderShopping(); }
-  else if (hash === '#add') {
-    $('#recipes-view').hidden = false;
-    renderRecipes();
-    if (!dialog.open) {
-      $('#recipe-url').value = pendingSharedUrl || '';
-      $('#import-status').textContent = pendingSharedUrl ? 'Gautas bendrinamas receptas. Paspauskite „Išsaugoti“, kad pridėtumėte.' : '';
-      dialog.showModal();
-    }
-    requestAnimationFrame(() => $('#recipe-url').focus());
-  }
   else { $('#recipes-view').hidden = false; renderRecipes(); }
   if (preserveScroll) requestAnimationFrame(() => scrollTo({ top: previousScroll, behavior: 'instant' }));
   else scrollTo({ top: 0, behavior: 'instant' });
@@ -1306,7 +1301,7 @@ function clearSharedRecipeQuery() {
 }
 
 async function shareRecipe(recipe) {
-  const deepLink = `${APP_URL}?recipe=${encodeURIComponent(recipe.url)}#add`;
+  const deepLink = `${APP_URL}?recipe=${encodeURIComponent(recipe.url)}#recipes`;
   const data = { title: recipe.title, text: `Keto receptas: ${recipe.title}`, url: deepLink };
   try {
     if (navigator.share) await navigator.share(data);
@@ -1346,57 +1341,6 @@ function startPantryHold(button, event) {
   pantryHold = state;
 }
 
-$('#import-form').addEventListener('submit', async event => {
-  event.preventDefault(); const button = $('button[type="submit"]', event.currentTarget); const status = $('#import-status');
-  const urls = [...new Set(($('#recipe-url').value.match(/https?:\/\/[^\s,]+/gi) || []).map(url => url.replace(/[)\].,;]+$/, '')))];
-  if (!urls.length) { status.className = 'status error'; status.textContent = 'Įklijuokite bent vieną pilną Ruled.me nuorodą.'; return; }
-  if (urls.length > 30) { status.className = 'status error'; status.textContent = 'Vienu kartu galima importuoti iki 30 receptų.'; return; }
-  button.disabled = true; button.textContent = 'Tikrinama…'; status.className = 'status';
-  let imported = 0; let skipped = 0; const failed = [];
-  batchImportInProgress = true;
-  try {
-    status.textContent = `Tikrinamos ${urls.length} nuorodos…`;
-    const checked = await validateRecipeUrls(urls);
-    const valid = checked.filter(item => item.valid).map(item => item.url);
-    checked.filter(item => !item.valid).forEach(item => failed.push(`${item.url} — ${item.status === 404 ? '404' : 'nuoroda nepasiekiama'}`));
-    const existingRefs = new Set((userRecipeRefs[currentUserId] || []).map(url => url.replace(/\/$/, '').toLowerCase()));
-    const newUrls = valid.filter(url => {
-      const key = url.replace(/\/$/, '').toLowerCase();
-      if (existingRefs.has(key)) return false;
-      existingRefs.add(key); return true;
-    });
-    const localUrls = new Set(recipes.map(recipe => recipe.url.replace(/\/$/, '').toLowerCase()));
-    const processUrls = valid.filter(url => !localUrls.has(url.replace(/\/$/, '').toLowerCase()));
-    skipped = valid.length - processUrls.length;
-    userRecipeRefs[currentUserId] = [...(userRecipeRefs[currentUserId] || []), ...newUrls];
-    localStorage.setItem(STORAGE.userRecipeRefs, JSON.stringify(userRecipeRefs));
-    status.textContent = `Sinchronizuojamos ${newUrls.length} nuorodos…`;
-    await syncEngine.syncNow();
-    button.textContent = 'Importuojama…';
-    for (let index = 0; index < processUrls.length; index += 1) {
-      const url = processUrls[index];
-      status.textContent = `Apdorojama ${index + 1} iš ${processUrls.length}: ${new URL(url).pathname.split('/').filter(Boolean).pop() || url}`;
-      try { const recipe = await fetchRecipe(url); recipes.unshift(recipe); imported += 1; save(); renderRecipes(); }
-      catch (error) { failed.push(`${url} — ${error.message || 'apdorojimo klaida'}`); }
-    }
-  } catch (error) {
-    failed.push(`Nuorodų patikra — ${error.message || 'klaida'}`);
-  }
-  batchImportInProgress = false;
-  syncEngine?.changed();
-  if (failed.length) {
-    status.className = 'status error';
-    status.textContent = `Importuota: ${imported}, praleista: ${skipped}, nepavyko: ${failed.length}. ${failed.map(item => item.split(' — ')[0]).join(', ')}`;
-  } else {
-    $('#recipe-url').value = '';
-    status.textContent = '';
-    clearSharedRecipeQuery();
-    location.hash = '#recipes';
-    showToast(`Importuota: ${imported}${skipped ? ` · jau buvo: ${skipped}` : ''}`);
-  }
-  button.disabled = false; button.textContent = 'Išsaugoti';
-});
-
 $('#manual-cart-form').addEventListener('submit', event => {
   event.preventDefault();
   const nameInput = $('#manual-product-name'); const amountInput = $('#manual-product-amount');
@@ -1425,8 +1369,6 @@ $('#product-suggestions').addEventListener('pointerdown', event => {
   event.preventDefault(); $('#manual-product-name').value = option.dataset.productSuggestion; $('#product-suggestions').hidden = true; $('#manual-product-amount').focus();
 });
 
-$('.dialog-close').addEventListener('click', () => { clearSharedRecipeQuery(); location.hash = '#recipes'; });
-$('#add-dialog').addEventListener('close', () => { if (location.hash === '#add') { clearSharedRecipeQuery(); location.hash = '#recipes'; } });
 $('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
 $('.pantry-close').addEventListener('click', () => $('#pantry-dialog').close());
 $('#manage-dictionary').addEventListener('click', () => { mealPlanner.syncSettings(); $('#settings-dialog').showModal(); });
@@ -1573,7 +1515,7 @@ if ('serviceWorker' in navigator) {
     if (reloadingForUpdate) return; reloadingForUpdate = true; location.reload();
   });
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=65', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=71', { updateViaCache: 'none' });
     registration.update();
   });
 }
@@ -1588,7 +1530,7 @@ syncEngine = createSyncEngine({
   },
 });
 migrateLegacyIngredientNames();
-if (pendingSharedUrl && location.hash !== '#add') location.hash = '#add';
+if(location.hash==='#add')history.replaceState(null,'',location.pathname+location.search+'#recipes');
 route();
 hydrateMissingImages();
 if (hasSession()) syncEngine.start(); else requireLogin();
