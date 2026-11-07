@@ -1,0 +1,19 @@
+{
+  "recipes": 1331,
+  "normalized": 1330,
+  "unknownServings": [
+    {
+      "id": "ruled-4717",
+      "title": "How To: Low Carb Candied Bacon",
+      "url": "https://www.ruled.me/low-carb-candied-bacon/"
+    }
+  ],
+  "preparedComponentRecipes": [
+    {
+      "id": "ruled-24447",
+      "title": "Cinnamon Roll Pudding Pops",
+      "definition": "One popsicle uses approximately 1/4 cup of the prepared Cinnamon Roll Oatmeal recipe."
+    }
+  ],
+  "ingredientsWithoutNumericQuantity": 806
+}

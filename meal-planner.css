@@ -1,4 +1,8 @@
 /* Recipe discovery follows the app's existing cream, forest and lime palette. */
+.portion-settings label:not(:first-child) {margin-top:18px}
+.portion-settings input {max-width:180px;padding:11px 12px}
+.portion-settings #plan-portions-summary {padding:10px;border-radius:9px;background:#edf2e3;color:var(--green)}
+.portion-note {font-size:12px;line-height:1.6;color:var(--muted)}
 .settings-option.clear-plan-option {color:#9a4435;border-color:#e4c9be;background:#fff8f3}
 .clear-plan-option .settings-option-icon {background:#f4e3da;color:#9a4435}
 .planner-onboarding-dialog #first-plan-start-offset {font:inherit;background:var(--paper);color:var(--green)}
@@ -232,4 +236,47 @@
 }
 @media(prefers-reduced-motion:reduce) {
  .swipe-card,.swipe-action>span,.meal-progress-track>span {transition:none}.planner-spinner {animation:none}
+}
+
+/* Recipe selection fits the viewport; completed menus retain normal scrolling. */
+body.is-swiping {height:100dvh;min-height:0;overflow:hidden;overscroll-behavior:none;display:flex;flex-direction:column}
+.is-swiping .topbar {flex:none}
+.is-swiping main {flex:1;min-height:0;padding:12px 0 max(8px,env(safe-area-inset-bottom,0px));overflow:hidden}
+.is-swiping.has-cart-update main {padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))}
+.is-swiping #discover-view {height:100%;min-height:0;display:flex;flex-direction:column}
+.is-swiping .discovery-heading {flex:none;margin:0 auto 12px}
+.is-swiping .discovery-heading h1 {max-width:none;font-size:clamp(25px,4vw,36px);line-height:1.1}
+.is-swiping .back-to-today {flex:none;margin-bottom:8px;padding:4px 0}
+.is-swiping .discovery {flex:1;min-height:0;display:flex;flex-direction:column;padding-bottom:0}
+.is-swiping .swipe-card {flex:1;min-height:0;display:flex;flex-direction:column;touch-action:none}
+.is-swiping .swipe-photo {flex:1;min-height:0;height:auto}
+.is-swiping .swipe-copy {flex:none;padding:12px 18px 10px}
+.is-swiping .swipe-copy h2 {display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;font-size:clamp(21px,3vw,29px);line-height:1.1;margin:8px 0 10px}
+.is-swiping .swipe-nutrition {padding-bottom:9px;gap:6px 10px}
+.is-swiping .planner-recipe-link {padding-top:9px}
+.is-swiping .swipe-actions {position:static;flex:none;align-self:center;margin:9px auto 4px;padding:0;border:0;background:none;box-shadow:none;backdrop-filter:none}
+.is-swiping .swipe-action>span {width:48px;height:48px;font-size:31px}
+.is-swiping .swipe-action small {margin-top:2px}
+.is-swiping .swipe-hint {flex:none}
+.is-swiping .swipe-block {flex:none;margin:5px auto 0;padding:6px 12px}
+.is-swiping .planner-end {flex:1;min-height:0;padding:16px}
+@media(max-width:700px) {
+ .is-swiping main {width:calc(100% - 24px);padding-top:10px}
+ .is-swiping .discovery-heading {margin-bottom:10px}
+ .is-swiping .swipe-hint {position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ .is-swiping .swipe-duration {padding:5px 8px;font-size:12px}
+ .is-swiping .swipe-recipe-meta {gap:5px}
+}
+@media(max-height:650px) {
+ .is-swiping main {padding-top:6px}
+ .is-swiping .discovery-heading {margin-bottom:6px}
+ .is-swiping .discovery-heading h1 {font-size:24px}
+ .is-swiping .swipe-copy {padding:8px 12px}
+ .is-swiping .swipe-copy h2 {font-size:20px;margin:5px 0 6px}
+ .is-swiping .swipe-nutrition {padding-bottom:5px;font-size:10px;gap:4px 8px}
+ .is-swiping .swipe-nutrition strong {font-size:12px}
+ .is-swiping .planner-recipe-link {padding-top:6px}
+ .is-swiping .swipe-actions {margin-top:6px}
+ .is-swiping .swipe-action>span {width:40px;height:40px;font-size:28px}
+ .is-swiping .swipe-block {margin-top:3px;padding:4px 10px}
 }

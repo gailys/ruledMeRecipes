@@ -17,8 +17,11 @@ if (exists) {
 await fs.mkdir(output,{recursive:true});
 await fs.writeFile(path.join(output,'.recipe-build'),'Mano keto static output\n');
 const catalog = JSON.parse(await fs.readFile(path.join(project,'data/planner/recipes.json'),'utf8'));
-const assets = new Set(['index.html','app.js','sync.js','styles.css','meal-planner.js','meal-planner.css','planner-state.mjs','sw.js','manifest.webmanifest','ingredient-dictionary.json','icons/icon-192.png','icons/icon-512.png','data/planner/recipes.json',...catalog.recipes.map(recipe=>recipe.image.replace(/^\.\//,''))]);
+const library = JSON.parse(await fs.readFile(path.join(project,'data/library/recipes.json'),'utf8'));
+const assets = new Set(['index.html','app.js','sync.js','styles.css','meal-planner.js','meal-planner.css','planner-state.mjs','recipe-portions.mjs','sw.js','manifest.webmanifest','ingredient-dictionary.json','icons/icon-192.png','icons/icon-512.png','data/planner/recipes.json',...catalog.recipes.map(recipe=>recipe.image.replace(/^\.\//,''))]);
 let bytes=0;
+assets.add('data/library/recipes.json');
+for(const recipe of library.recipes)assets.add(recipe.image.replace(/^\.\//,''));
 for (const asset of assets) {
   const source = path.resolve(project,asset), target = path.resolve(output,asset);
   if (!source.startsWith(project+path.sep) || !target.startsWith(output+path.sep)) throw new Error(`Invalid asset: ${asset}`);

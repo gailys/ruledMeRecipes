@@ -65,6 +65,25 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .card-pin { position: absolute; left: 9px; top: 9px; z-index: 2; display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 10px; background: rgba(255,255,255,.93); color: #819087; font-size: 16px; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
 .card-pin.active { background: var(--lime); color: var(--green); }
 .recipe-card.pinned { border-color: #c9dc73; }
+.library-products {margin:16px 0 20px;padding:16px 18px;border:1px solid var(--line);border-radius:16px;background:var(--card)}
+.library-products summary {cursor:pointer;color:var(--green);font-weight:750}
+.library-products p,.library-products>small {font-size:12px;line-height:1.6;color:var(--muted)}
+.library-availability {display:flex;align-items:center;gap:10px;margin:16px 0;font-size:13px}
+.library-products input[type="checkbox"] {width:18px;height:18px;flex:none;padding:0;accent-color:var(--green)}
+.library-product-options {display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.library-product-options label {display:flex;align-items:center;gap:7px;max-width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:10px;font-size:12px;overflow-wrap:anywhere;cursor:pointer}
+.library-product-options label:has(input:checked) {background:#e8eedb;border-color:#b9c99a}
+#library-product-options {max-height:270px;overflow:auto;overscroll-behavior:contain}
+#library-selected-products:empty {display:none}
+#library-tabs {margin-bottom:10px}
+#category-filters {margin-top:0}
+#library-more {display:block;margin:22px auto}
+#library-more[hidden] {display:none}
+.recipe-card.is-missing {background:#eeeee9;border-color:#d3d5ce;box-shadow:none}
+.recipe-card.is-missing .recipe-image {filter:grayscale(1);opacity:.45}
+.recipe-card.is-missing .recipe-title-button,.recipe-card.is-missing .recipe-meta,.recipe-card.is-missing .recipe-link-row {opacity:.65}
+.recipe-card .missing-products {margin-top:10px;padding:9px 10px;border-radius:8px;background:#e0e3da;color:#34423c;font-size:12px;line-height:1.5}
+.recipe-card.is-missing .card-cart {background:#dce1d4}
 .recipe-body { display: flex; flex: 1; flex-direction: column; padding: 13px 15px 12px; }
 .recipe-meta { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
 .recipe-card h3 { display: -webkit-box; margin: 9px 0 5px; overflow: hidden; font-family: Georgia, serif; font-size: 21px; line-height: 1.08; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }

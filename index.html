@@ -8,8 +8,8 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=54" />
-    <link rel="stylesheet" href="./meal-planner.css?v=54" />
+    <link rel="stylesheet" href="./styles.css?v=57" />
+    <link rel="stylesheet" href="./meal-planner.css?v=57" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -34,11 +34,23 @@
       <section id="discover-view" class="view" hidden aria-label="Meniu kūrėjas"></section>
       <section id="recipes-view" class="view">
         <div class="library-heading">
-          <div><p class="eyebrow">Jūsų kolekcija</p><h1>Mano receptai</h1></div>
+          <div><h1>Visi receptai</h1></div>
           <span id="recipe-count" class="muted"></span>
         </div>
-        <div id="category-filters" class="filters" aria-label="Filtruoti receptus"></div>
+        <div id="library-tabs" class="filters" aria-label="Receptų sąrašas"></div>
+        <div id="category-filters" class="filters" aria-label="Receptų kategorijos"></div>
+        <details class="library-products">
+          <summary>Produktai, kuriuos turiu namuose <span id="library-product-count"></span></summary>
+          <p>Pažymėkite turimus produktus, įskaitant aliejų ir prieskonius. Kiekių ir produktų galiojimo šis filtras netikrina.</p>
+          <label class="library-availability"><input id="library-availability" type="checkbox"> Rodyti, ką galiu pagaminti iš turimų produktų</label>
+          <input id="library-product-search" type="search" placeholder="Ieškoti produkto…" aria-label="Ieškoti turimų produktų">
+          <div id="library-selected-products" class="library-product-options"></div>
+          <div id="library-product-options" class="library-product-options"></div>
+          <small id="library-product-note"></small>
+        </details>
+        <p id="library-results" class="muted" role="status" aria-live="polite"></p>
         <div id="recipe-grid" class="recipe-grid"></div>
+        <button id="library-more" class="text-button" type="button" hidden>Rodyti daugiau receptų</button>
       </section>
 
       <section id="detail-view" class="view" hidden></section>
@@ -100,6 +112,14 @@
       <div class="settings-content">
         <h2>Nustatymai</h2>
         <p>Pasirinkite, ką norite pakeisti.</p>
+        <div class="planner-setting portion-settings">
+          <label for="plan-people"><strong>Kiek žmonių valgys?</strong><span>Vienam žmogui skiriama viena kiekvieno patiekalo bazinė porcija.</span></label>
+          <input id="plan-people" type="number" min="1" max="99" step="1" value="1" required>
+          <label for="plan-portion-increase"><strong>Porcijos padidinimas (%)</strong><span>Pvz., 20 reiškia 20 % didesnę porciją kiekvienam žmogui ir visiems patiekalams.</span></label>
+          <input id="plan-portion-increase" type="number" min="0" max="500" step="1" value="0" required>
+          <small id="plan-portions-summary" aria-live="polite"></small>
+          <small>Produktai be skaitinio kiekio neperskaičiuojami. Gaminimo instrukcijos ir laikas lieka iš originalaus recepto.</small>
+        </div>
         <div class="planner-setting">
           <label for="plan-days"><strong>Kelioms dienoms renkame meniu?</strong><span>Kiekvienai dienai: pusryčiai, pietūs, vakarienė ir desertas.</span></label>
           <select id="plan-days" name="plan-days">
@@ -188,6 +208,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=54"></script>
+    <script type="module" src="./app.js?v=57"></script>
   </body>
 </html>

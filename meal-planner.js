@@ -1,4 +1,5 @@
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=54';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=57';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=57';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
@@ -13,7 +14,7 @@ const todayKey = (date = new Date()) => {
   return `${value('year')}-${value('month')}-${value('day')}`;
 };
 
-export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, isFavorite, toggleFavorite }) {
+export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite }) {
   let catalog, loading, error = '', profile, plan, active = false, busy = false, generation = 0, drag = null;
   let persistenceError = false;
   let cartError='';
@@ -87,17 +88,36 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   const reminder=document.querySelector('#menu-reminder-dialog');
   const reminderEnabled=document.querySelector('#menu-reminder-enabled');
   const reminderDays=document.querySelector('#menu-reminder-days');
+  const peopleInput=document.querySelector('#plan-people');
+  const increaseInput=document.querySelector('#plan-portion-increase');
   let reminderOwner;
   function preferences() {
     let all={};try{all=JSON.parse(localStorage.getItem(PREFERENCES_KEY) || '{}') || {};}catch{}
     const value=all[profileKey()] || {};
-    return {reminderEnabled:value.reminderEnabled!==false,reminderDays:dayCount(value.reminderDays ?? 2),reminded:value.reminded && typeof value.reminded==='object' ? value.reminded : {}};
+    return {people:peopleCount(value.people),increase:portionIncrease(value.increase),portionsVersion:value.portionsVersion || 0,reminderEnabled:value.reminderEnabled!==false,reminderDays:dayCount(value.reminderDays ?? 2),reminded:value.reminded && typeof value.reminded==='object' ? value.reminded : {}};
   }
   function savePreferences(value) {
     let all={};try{all=JSON.parse(localStorage.getItem(PREFERENCES_KEY) || '{}') || {};}catch{}
     all[profileKey()]=value;
-    try{localStorage.setItem(PREFERENCES_KEY,JSON.stringify(all));}catch{showToast('Nepavyko išsaugoti priminimo nustatymų.');}
+    try{localStorage.setItem(PREFERENCES_KEY,JSON.stringify(all));}catch{showToast('Nepavyko išsaugoti programėlės nustatymų.');}
   }
+  function portionLabel() {
+    const settings=preferences();return `${settings.people} asm.${settings.increase ? ` · +${settings.increase} %` : ''}`;
+  }
+  function menuCartSignature(menu) {
+    const settings=preferences();return `portions-v1:${settings.people}:${settings.increase}|${MEALS.flatMap(meal=>menu.selected[meal.id]).join('|')}`;
+  }
+  function portionNutrition(recipe,key) {
+    const value=recipe.nutrition?.[key];return Number.isFinite(value) ? value*(1+preferences().increase/100) : null;
+  }
+  for(const control of [peopleInput,increaseInput])control.addEventListener('change',()=>{
+    if(!peopleInput.checkValidity() || !increaseInput.checkValidity()){control.reportValidity();return;}
+    const before=preferences();
+    const people=peopleCount(peopleInput.value),increase=portionIncrease(increaseInput.value);
+    savePreferences({...before,people,increase,portionsVersion:1});
+    if(before.people!==people || before.increase!==increase){setCartDirty(true);onPortionsChange();}
+    syncSettings();render();
+  });
   for(const control of [reminderEnabled,reminderDays])control.addEventListener('change',()=>{
     savePreferences({...preferences(),reminderEnabled:reminderEnabled.checked,reminderDays:dayCount(reminderDays.value),reminded:{}});
     syncSettings();
@@ -183,6 +203,12 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     if(onboarding.open)onboarding.close();
     root.querySelector('dialog')?.close();
     plan = restorePlan(read()[profile],catalog);
+    const portionSettings=preferences();
+    if(portionSettings.portionsVersion!==1) {
+      savePreferences({...portionSettings,portionsVersion:1});
+      if([plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && Object.values(menu.selected).some(ids=>ids.length)))setCartDirty(true);
+      onPortionsChange();
+    }
     let missingIds=false;
     for(const menu of [plan,plan.activeMenu,...plan.scheduledMenus])if(menu && !menu.id){menu.id=crypto.randomUUID();missingIds=true;}
     if(missingIds)save();
@@ -206,15 +232,18 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     const value = catalog && profile === profileKey() && plan ? plan.days : dayCount(read()[profileKey()]?.days ?? 1);
     settingsSelect.value = String(value);
     const settings=preferences();
+    peopleInput.value=String(settings.people);increaseInput.value=String(settings.increase);
+    document.querySelector('#plan-portions-summary').textContent=`Kiekvienam patiekalui: ${settings.people} asm. × ${number(1+settings.increase/100)} = ${number(portionMultiplier(settings.people,settings.increase))} bazinės porcijos.`;
     reminderEnabled.checked=settings.reminderEnabled;reminderDays.value=String(settings.reminderDays);reminderDays.disabled=!settings.reminderEnabled;
   }
   function exportMenuIngredients(menu=plan) {
     if(document.querySelector('#login-dialog[open], #users-dialog[open]'))return;
-    const signature=MEALS.flatMap(meal=>menu.selected[meal.id]).join('|');
+    const signature=menuCartSignature(menu);
     if(menu.cartExported===signature)return;
     if(!menu.id){menu.id=crypto.randomUUID();save();}
     try {
-      onMenuComplete(MEALS.flatMap(meal=>menu.selected[meal.id].map(id=>catalog.get(id))),{menuId:menu.id,profileId:profile});
+      const settings=preferences();
+      onMenuComplete(MEALS.flatMap(meal=>menu.selected[meal.id].map(id=>catalog.get(id))),{menuId:menu.id,profileId:profile,people:settings.people,increase:settings.increase});
       menu.cartExported=signature;cartError='';cartErrorMenuId=null;save();
     }catch{cartErrorMenuId=menu.id;cartError='Nepavyko pridėti meniu ingredientų į pirkinių krepšelį. Pabandykite dar kartą.';}
   }
@@ -242,7 +271,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   function dailyRecipeCards(menu,day,date) {
     return MEALS.map(meal=>{
       const recipe=catalog.get(menu.selected[meal.id][day]);
-      return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong><span>${recipe.totalMinutes ? `${number(recipe.totalMinutes)} min · ` : ''}${number(recipe.servings)} porc.</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
+      return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong><span>${recipe.totalMinutes ? `${number(recipe.totalMinutes)} min · ` : ''}${html(portionLabel())}</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
     }).join('');
   }
   function rebuildShoppingCart() {
@@ -259,12 +288,13 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
       cursor=new Date(Date.parse(start)+menu.days*86400000).toISOString().slice(0,10);
     }
     try {
-      onRebuildCart(batches,{profileId:profile});
-      for(const menu of menus)menu.cartExported=MEALS.flatMap(meal=>menu.selected[meal.id]).join('|');
+      const settings=preferences();onRebuildCart(batches,{profileId:profile,people:settings.people,increase:settings.increase});
+      for(const menu of menus)menu.cartExported=menuCartSignature(menu);
       cartError='';cartErrorMenuId=null;setCartDirty(false);save();render();
     }catch{showToast('Nepavyko atnaujinti krepšelio. Pabandykite dar kartą.');}
   }
   function renderToday(day,date,menu=plan) {
+    document.body.classList.remove('is-swiping');
     exportMenuIngredients(menu);
     const formatDate=value=>new Intl.DateTimeFormat('lt-LT',{timeZone:'Europe/Vilnius',dateStyle:'full'}).format(new Date(`${value}T12:00:00Z`));
     const waiting=date<menu.startDate;
@@ -291,12 +321,14 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   function render() {
     if (!active) return;
     if (!catalog) {
+      document.body.classList.remove('is-swiping');
       root.innerHTML = `<div class="planner-loading" role="status"><p class="eyebrow">Meniu kūrėjas</p><h1>${error ? 'Pabandykime dar kartą' : 'Ruošiame receptus…'}</h1><p>${error || 'Jūsų būsimi pusryčiai, pietūs, vakarienės ir desertai jau pakeliui.'}</p>${error ? '<button class="primary dark" data-planner="retry">Bandyti dar kartą</button>' : '<span class="planner-spinner" aria-hidden="true"></span>'}</div>`;
       if (!error) void loadCatalog();
       return;
     }
     loadProfile();
     if (busy || drag || root.querySelector('dialog[open]')) return;
+    document.body.classList.remove('is-swiping');
     if(replacement){renderDiscovery(true);return;}
     syncSettings();
     if (!plan.configured) {
@@ -334,6 +366,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     renderDiscovery();
   }
   function renderDiscovery(changing=false) {
+    document.body.classList.add('is-swiping');
     let recipe;
     if(changing) {
       const target=findMenu(replacement?.menuId);
@@ -350,12 +383,12 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     const canUndo=changing ? replacement.skipped.length>0 : plan.history.length>0;
     const hasSkipped=changing ? replacement.skipped.length>0 : plan.skipped.length>0;
     root.innerHTML = `
-      <header class="planner-heading discovery-heading"><div><p class="eyebrow">Mažiau galvojimo. Daugiau skonio.</p><h1>${changing ? 'Pasirink kitą receptą' : 'Susirink savo meniu'}<span>.</span></h1><p>${changing ? 'Siūlomi tik tos pačios kategorijos patiekalai.' : 'Kas patinka – į dešinę. Kas ne – į kairę.'}</p></div></header>
+      <header class="planner-heading discovery-heading"><h1>Pasirinkite savo meniu</h1></header>
       ${changing ? '<button class="text-button back-to-today" data-planner="cancel-replace">← Grįžti į meniu</button>' : plan.activeMenu ? '<button class="text-button back-to-today" data-planner="back-today">← Grįžti į šiandienos meniu</button>' : ''}<section class="discovery" aria-label="Receptų pasirinkimas">
         ${recipe ? `
         <article class="swipe-card" tabindex="0" aria-label="${html(recipe.title)}. Rodyklė į kairę – praleisti, į dešinę – pasirinkti." aria-describedby="swipe-hint">
           <div class="swipe-photo"><img src="${html(recipe.image)}" alt="${html(recipe.title)}" draggable="false" fetchpriority="high"><span class="swipe-category">${meal.icon} ${meal.label}</span><span class="swipe-stamp is-like" aria-hidden="true">PATINKA</span><span class="swipe-stamp is-skip" aria-hidden="true">KITĄ KARTĄ</span></div>
-          <div class="swipe-copy"><div class="swipe-recipe-meta"><span class="swipe-duration ${durationColor(recipe.totalMinutes)}"><span aria-hidden="true">◷</span><span>Gaminimo laikas: <strong>${Number.isFinite(recipe.totalMinutes) && recipe.totalMinutes > 0 ? `${number(recipe.totalMinutes)} min` : 'nenurodytas'}</strong></span></span><span>${number(recipe.servings)} porc.</span></div><h2>${html(recipe.title)}</h2><div class="swipe-nutrition"><span><strong>${number(recipe.nutrition?.calories)}</strong> kcal</span><span><strong>${number(recipe.nutrition?.netCarbsGrams)} g</strong> neto angl.</span><span><strong>${number(recipe.nutrition?.proteinGrams)} g</strong> baltymų</span><small>Porcijoje</small></div><button class="planner-recipe-link" data-planner="details" data-id="${html(recipe.id)}">Ingredientai ir gaminimas <span aria-hidden="true">↗</span></button></div>
+          <div class="swipe-copy"><div class="swipe-recipe-meta"><span class="swipe-duration ${durationColor(recipe.totalMinutes)}"><span aria-hidden="true">◷</span><span>Gaminimo laikas: <strong>${Number.isFinite(recipe.totalMinutes) && recipe.totalMinutes > 0 ? `${number(recipe.totalMinutes)} min` : 'nenurodytas'}</strong></span></span><span>${html(portionLabel())}</span></div><h2>${html(recipe.title)}</h2><div class="swipe-nutrition"><span><strong>${number(portionNutrition(recipe,'calories'))}</strong> kcal</span><span><strong>${number(portionNutrition(recipe,'netCarbsGrams'))} g</strong> neto angl.</span><span><strong>${number(portionNutrition(recipe,'proteinGrams'))} g</strong> baltymų</span><small>1 asmeniui${preferences().increase ? ` (+${preferences().increase} %)` : ''}</small></div><button class="planner-recipe-link" data-planner="details" data-id="${html(recipe.id)}">Ingredientai ir gaminimas <span aria-hidden="true">↗</span></button></div>
         </article><div class="swipe-actions"><button class="swipe-action swipe-no" data-planner="skip" aria-label="Praleisti receptą"><span aria-hidden="true">×</span><small>Praleisti</small></button><button class="swipe-undo" data-planner="undo" ${canUndo ? '' : 'disabled'} aria-label="Atšaukti paskutinį pasirinkimą"><span aria-hidden="true">↶</span><small>Atšaukti</small></button><button class="swipe-action swipe-yes" data-planner="like" aria-label="Pasirinkti receptą"><span aria-hidden="true">♡</span><small>Patinka</small></button></div><p class="swipe-hint" id="swipe-hint">Brauk kortelę arba rinkis mygtukais. Kompiuteryje – ← ir →.</p><button class="swipe-block" data-planner="block" data-id="${html(recipe.id)}">Daugiau nesiūlyti</button>` : `<div class="planner-end"><span class="planner-end-symbol" aria-hidden="true">↻</span><h2>Šį ratą peržiūrėjai.</h2><p>${hasSkipped ? 'Peržiūrėk praleistus receptus dar kartą. Užblokuoti receptai nebus rodomi.' : 'Tinkamų receptų šiuo metu neliko.'}</p>${hasSkipped ? '<button class="primary dark" data-planner="revisit">Vėl rodyti praleistus</button>' : ''}</div>`}
         ${!recipe && canUndo ? '<button class="text-button planner-end-undo" data-planner="undo">↶ Atšaukti paskutinį pasirinkimą</button>' : ''}
         ${persistenceError ? '<p class="status error" role="alert">Meniu pakeitimai dar neišsaugoti šiame įrenginyje.</p>' : ''}
@@ -390,7 +423,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   function showDetails(id) {
     const recipe = catalog?.get(id); if (!recipe) return;
     const dialog = root.querySelector('dialog');
-    dialog.innerHTML = `<button class="planner-detail-close" data-planner="close-details" aria-label="Uždaryti receptą">×</button><p class="eyebrow">${MEALS.find(item=>item.id===recipe.category).label} · ${number(recipe.servings)} porc.</p><h2 id="planner-detail-title">${html(recipe.title)}</h2><button class="planner-favorite ${isFavorite(recipe) ? 'is-favorite' : ''}" data-planner="favorite" data-id="${html(recipe.id)}" aria-pressed="${isFavorite(recipe)}">${isFavorite(recipe) ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button><img class="planner-detail-image" src="${html(recipe.image)}" alt=""><p class="planner-detail-note">Originalus receptas anglų kalba. Kiekiai nurodyti ${number(recipe.servings)} porc.</p><h3>Ingredientai</h3><ul>${recipe.ingredients.map(item=>`<li>${html(item)}</li>`).join('')}</ul><h3>Gaminimas</h3><ol>${recipe.instructions.map(step=>`<li>${html(step)}</li>`).join('')}</ol><a href="${html(recipe.url)}" target="_blank" rel="noopener">Recepto šaltinis: Ruled.me ↗</a>`;
+    dialog.innerHTML = `<button class="planner-detail-close" data-planner="close-details" aria-label="Uždaryti receptą">×</button><p class="eyebrow">${MEALS.find(item=>item.id===recipe.category).label} · ${html(portionLabel())}</p><h2 id="planner-detail-title">${html(recipe.title)}</h2><button class="planner-favorite ${isFavorite(recipe) ? 'is-favorite' : ''}" data-planner="favorite" data-id="${html(recipe.id)}" aria-pressed="${isFavorite(recipe)}">${isFavorite(recipe) ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button><img class="planner-detail-image" src="${html(recipe.image)}" alt=""><p class="planner-detail-note">Originalus receptas anglų kalba. Ingredientai perskaičiuoti: ${html(portionLabel())}</p><h3>Ingredientai</h3><ul>${formatIngredients(recipe,preferences().people,preferences().increase).map(item=>`<li>${html(item)}</li>`).join('')}</ul><h3>Gaminimas</h3><p class="planner-detail-note">Instrukcija palikta originalo. Naudok perskaičiuotus ingredientų kiekius; gaminimo laikas neperskaičiuojamas.</p><ol>${recipe.instructions.map(step=>`<li>${html(step)}</li>`).join('')}</ol><a href="${html(recipe.url)}" target="_blank" rel="noopener">Recepto šaltinis: Ruled.me ↗</a>`;
     dialog.showModal();
   }
   root.addEventListener('click',async event=>{
@@ -503,12 +536,14 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   document.querySelector('#settings-dialog').addEventListener('close',()=>{syncSettings();render();});
   syncFloatingCart();
   return {
+    portions:()=>{const settings=preferences();return {people:settings.people,increase:settings.increase};},
+    portionLabel,
     render,
     syncSettings,
     setActive(value) {
       if(value && !active && plan?.activeMenu)plan={...plan,buildingNext:false};
       active=value;
-      if (!active) {generation++;busy=false;drag=null;replacement=null;root.querySelector('dialog')?.close();if(confirmation.open)confirmation.close('cancel');}
+      if (!active) {document.body.classList.remove('is-swiping');generation++;busy=false;drag=null;replacement=null;root.querySelector('dialog')?.close();if(confirmation.open)confirmation.close('cancel');}
       else render();
       scheduleDayChange();
       syncFloatingCart();
