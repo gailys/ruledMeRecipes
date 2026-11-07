@@ -21,6 +21,7 @@ button { cursor: pointer; }
 .topbar { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; min-height: 68px; padding: 10px max(20px, calc((100vw - 1120px) / 2)); background: rgba(247,245,238,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(14px); }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); font-weight: 800; text-decoration: none; }
 .brand-mark { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 11px; background: var(--green); color: var(--lime); font-family: Georgia, serif; font-size: 21px; }
+.brand-mark img,.install-icon img,.auth-logo img {display:block;width:100%;height:100%;object-fit:contain;border-radius:inherit}
 nav { display: flex; align-items: center; gap: 8px; }
 nav a { padding: 10px 12px; border-radius: 999px; color: var(--muted); font-size: 14px; font-weight: 700; text-decoration: none; }
 nav a.active { color: var(--green); background: #e8ebdf; }
@@ -83,6 +84,15 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .recipe-card.is-missing .recipe-image {filter:grayscale(1);opacity:.45}
 .recipe-card.is-missing .recipe-title-button,.recipe-card.is-missing .recipe-meta,.recipe-card.is-missing .recipe-link-row {opacity:.65}
 .recipe-card .missing-products {margin-top:10px;padding:9px 10px;border-radius:8px;background:#e0e3da;color:#34423c;font-size:12px;line-height:1.5}
+.missing-products ul {margin:5px 0 0;padding:0;list-style:none}
+.missing-products li {margin-top:3px}
+.missing-products label {display:flex;align-items:center;gap:8px;padding:5px 0;cursor:pointer}
+.missing-products input[type="checkbox"] {width:18px;height:18px;flex:none;margin:0;accent-color:var(--green)}
+.library-owned-toolbar {display:flex;align-items:flex-start;gap:12px;margin:0 0 18px}
+.library-owned-toolbar .library-owned {flex:1;min-width:0;margin:0}
+.library-owned-toolbar>button {flex:none;padding:16px 0;font-size:12px}
+.library-owned-toolbar>button:disabled {opacity:.4;cursor:default}
+.library-owned #library-owned-empty {margin-bottom:0}
 .recipe-card.is-missing .card-cart {background:#dce1d4}
 .recipe-body { display: flex; flex: 1; flex-direction: column; padding: 13px 15px 12px; }
 .recipe-meta { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
@@ -156,6 +166,17 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .shopping-item.done .shop-name { text-decoration: line-through; }
 .shop-qty { font-weight: 850; }
 .shop-name { font-size: 17px; }
+.shop-name {min-width:0}
+.shop-source-note {display:block;margin-top:6px;color:var(--muted);font-size:11px;line-height:1.4}
+.shop-sources {margin-top:7px;font-size:12px;line-height:1.4}
+.shop-sources summary {cursor:pointer;color:var(--green);font-weight:650}
+.shop-sources ul {list-style:none;padding:0;margin:7px 0 0;display:grid;gap:8px}
+.shop-sources a {color:var(--green);text-underline-offset:3px;overflow-wrap:anywhere}
+.shop-sources li>span {display:block;color:var(--muted);font-size:10px;margin-top:2px}
+.shopping-rebuild {margin:12px 0 20px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;font-size:12px;color:var(--muted)}
+.shopping-rebuild summary {cursor:pointer;color:var(--green);font-weight:700}
+.shopping-rebuild p {line-height:1.5}
+.shopping-rebuild button {font-size:12px;max-width:100%}
 .shopping-item.no-quantity { grid-template-columns: auto 1fr auto auto; }
 .shop-name small { display: block; color: var(--muted); font-size: 12px; margin-top: 3px; }
 .remove { border: 0; background: transparent; color: #9c4e3a; font-size: 20px; }

@@ -21,6 +21,8 @@ const library = JSON.parse(await fs.readFile(path.join(project,'data/library/rec
 const assets = new Set(['index.html','app.js','sync.js','styles.css','meal-planner.js','meal-planner.css','planner-state.mjs','recipe-portions.mjs','sw.js','manifest.webmanifest','ingredient-dictionary.json','icons/icon-192.png','icons/icon-512.png','data/planner/recipes.json',...catalog.recipes.map(recipe=>recipe.image.replace(/^\.\//,''))]);
 let bytes=0;
 assets.add('data/library/recipes.json');
+assets.add('product-translations.mjs');
+for(const icon of ['cupcake.svg','cupcake-192.png','cupcake-512.png','apple-touch-icon-cupcake.png'])assets.add('icons/'+icon);
 for(const recipe of library.recipes)assets.add(recipe.image.replace(/^\.\//,''));
 for (const asset of assets) {
   const source = path.resolve(project,asset), target = path.resolve(output,asset);

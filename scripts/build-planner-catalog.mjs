@@ -19,3 +19,4 @@ for (const recipe of normalizedRecipes) {
   library.push({...recipe,image});
 }
 await fs.writeFile(new URL('library/recipes.json',root),JSON.stringify({schemaVersion:1,recipes:library})+'\n');
+await import('./build-ingredient-dictionary.mjs');

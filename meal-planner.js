@@ -1,5 +1,5 @@
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=57';
-import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=57';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=65';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=65';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
@@ -14,7 +14,8 @@ const todayKey = (date = new Date()) => {
   return `${value('year')}-${value('month')}-${value('day')}`;
 };
 
-export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite }) {
+export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite, onOpenRecipe }) {
+  let returningFromDetails=false;
   let catalog, loading, error = '', profile, plan, active = false, busy = false, generation = 0, drag = null;
   let persistenceError = false;
   let cartError='';
@@ -278,6 +279,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     if(profile!==profileKey())return;
     const today=todayKey();
     const menus=plan.activeMenu ? [plan.activeMenu,...plan.scheduledMenus,...(isComplete(plan) ? [plan] : [])] : (isComplete(plan) ? [plan] : []);
+    if(!menus.length){showToast('Pirmiausia sudarykite meniu. Dabartinis krepšelis paliktas.');return;}
     const batches=[];let cursor=null;
     for(const menu of menus) {
       const start=menu.startDate || (menu.requestedStartDate>cursor && menu.requestedStartDate>today ? menu.requestedStartDate : cursor || today);
@@ -421,10 +423,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     root.querySelector('.swipe-card')?.focus({preventScroll:true});
   }
   function showDetails(id) {
-    const recipe = catalog?.get(id); if (!recipe) return;
-    const dialog = root.querySelector('dialog');
-    dialog.innerHTML = `<button class="planner-detail-close" data-planner="close-details" aria-label="Uždaryti receptą">×</button><p class="eyebrow">${MEALS.find(item=>item.id===recipe.category).label} · ${html(portionLabel())}</p><h2 id="planner-detail-title">${html(recipe.title)}</h2><button class="planner-favorite ${isFavorite(recipe) ? 'is-favorite' : ''}" data-planner="favorite" data-id="${html(recipe.id)}" aria-pressed="${isFavorite(recipe)}">${isFavorite(recipe) ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button><img class="planner-detail-image" src="${html(recipe.image)}" alt=""><p class="planner-detail-note">Originalus receptas anglų kalba. Ingredientai perskaičiuoti: ${html(portionLabel())}</p><h3>Ingredientai</h3><ul>${formatIngredients(recipe,preferences().people,preferences().increase).map(item=>`<li>${html(item)}</li>`).join('')}</ul><h3>Gaminimas</h3><p class="planner-detail-note">Instrukcija palikta originalo. Naudok perskaičiuotus ingredientų kiekius; gaminimo laikas neperskaičiuojamas.</p><ol>${recipe.instructions.map(step=>`<li>${html(step)}</li>`).join('')}</ol><a href="${html(recipe.url)}" target="_blank" rel="noopener">Recepto šaltinis: Ruled.me ↗</a>`;
-    dialog.showModal();
+    if(catalog?.has(id))onOpenRecipe(id);
   }
   root.addEventListener('click',async event=>{
     const button = event.target.closest('[data-planner]'); if (!button || busy) return;
@@ -538,12 +537,19 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   return {
     portions:()=>{const settings=preferences();return {people:settings.people,increase:settings.increase};},
     portionLabel,
+    rebuildCart:async()=>{
+      const owner=profileKey();await loadCatalog();
+      if(owner!==profileKey())return;
+      if(!catalog){showToast('Nepavyko įkelti meniu. Bandykite dar kartą.');return;}
+      loadProfile();rebuildShoppingCart();
+    },
     render,
     syncSettings,
-    setActive(value) {
-      if(value && !active && plan?.activeMenu)plan={...plan,buildingNext:false};
+    setActive(value,{preserveSelection=false}={}) {
+      if(value && !active && !returningFromDetails && plan?.activeMenu)plan={...plan,buildingNext:false};
+      returningFromDetails=!value && preserveSelection;
       active=value;
-      if (!active) {document.body.classList.remove('is-swiping');generation++;busy=false;drag=null;replacement=null;root.querySelector('dialog')?.close();if(confirmation.open)confirmation.close('cancel');}
+      if (!active) {document.body.classList.remove('is-swiping');generation++;busy=false;drag=null;if(!preserveSelection)replacement=null;root.querySelector('dialog')?.close();if(confirmation.open)confirmation.close('cancel');}
       else render();
       scheduleDayChange();
       syncFloatingCart();

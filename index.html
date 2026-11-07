@@ -6,16 +6,17 @@
     <meta name="theme-color" content="#173f35" />
     <meta name="description" content="Išsisaugokite Ruled.me receptus, pakeiskite porcijas ir kurkite lietuvišką pirkinių sąrašą." />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="icon" href="./icons/icon-192.png" />
-    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=57" />
-    <link rel="stylesheet" href="./meal-planner.css?v=57" />
+    <link rel="icon" type="image/svg+xml" href="./icons/cupcake.svg" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./icons/cupcake-192.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon-cupcake.png" />
+    <link rel="stylesheet" href="./styles.css?v=65" />
+    <link rel="stylesheet" href="./meal-planner.css?v=65" />
     <title>Mano keto receptai</title>
   </head>
   <body>
     <header class="topbar">
       <a class="brand" href="#discover" aria-label="Mano keto receptai">
-        <span class="brand-mark">K</span>
+        <span class="brand-mark"><img src="./icons/cupcake.svg" alt="" /></span>
         <span>Mano keto</span>
       </a>
       <nav aria-label="Pagrindinis meniu">
@@ -44,9 +45,16 @@
           <p>Pažymėkite turimus produktus, įskaitant aliejų ir prieskonius. Kiekių ir produktų galiojimo šis filtras netikrina.</p>
           <label class="library-availability"><input id="library-availability" type="checkbox"> Rodyti, ką galiu pagaminti iš turimų produktų</label>
           <input id="library-product-search" type="search" placeholder="Ieškoti produkto…" aria-label="Ieškoti turimų produktų">
-          <div id="library-selected-products" class="library-product-options"></div>
           <div id="library-product-options" class="library-product-options"></div>
           <small id="library-product-note"></small>
+          <div class="library-owned-toolbar">
+          <details id="library-owned" class="library-products library-owned">
+            <summary>Pažymėti produktai <span id="library-owned-count"></span></summary>
+            <div id="library-selected-products" class="library-product-options"></div>
+            <p id="library-owned-empty">Kol kas nepažymėjote nė vieno produkto.</p>
+          </details>
+          <button id="library-clear-products" class="text-button" type="button">Išvalyti visus</button>
+          </div>
         </details>
         <p id="library-results" class="muted" role="status" aria-live="polite"></p>
         <div id="recipe-grid" class="recipe-grid"></div>
@@ -61,6 +69,8 @@
           <div class="shopping-actions"><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
+        <p class="shopping-note">Vienetais perkami produktai suapvalinami į didesnę pusę. Prie produkto rasite jį naudojančius receptus.</p>
+        <details class="shopping-rebuild"><summary>Atnaujinti krepšelį pagal meniu</summary><p>Išvalo visą dabartinį krepšelį, įskaitant ranka pridėtus produktus, ir sudeda šiandienos bei būsimų suplanuotų dienų ingredientus su receptų nuorodomis.</p><button class="primary dark" id="shopping-rebuild-menu" type="button">Perkurti pagal suplanuotą meniu</button></details>
         <form id="manual-cart-form" class="manual-cart-form">
           <div class="product-search">
             <input id="manual-product-name" type="text" required maxlength="100" placeholder="Pridėti produktą, pvz. mineralinis vanduo" aria-label="Produkto pavadinimas" autocomplete="off" aria-autocomplete="list" aria-controls="product-suggestions" />
@@ -75,7 +85,7 @@
     </main>
 
     <aside id="install-banner" class="install-banner" hidden aria-label="Įdiegti programėlę">
-      <span class="install-icon">K</span>
+      <span class="install-icon"><img src="./icons/cupcake.svg" alt="" /></span>
       <span class="install-copy"><strong>Įdiekite programėlę</strong><small>Greita prieiga ir receptai neprisijungus</small></span>
       <button id="install-app" class="primary">Įdiegti</button>
       <button id="dismiss-install" class="install-dismiss" aria-label="Uždaryti">×</button>
@@ -175,7 +185,7 @@
 
     <dialog id="login-dialog" class="add-dialog auth-dialog">
       <form id="login-form" class="auth-content">
-        <span class="auth-logo">K</span>
+        <span class="auth-logo"><img src="./icons/cupcake.svg" alt="" /></span>
         <h2>Prisijunkite</h2>
         <p>Įveskite bendrą „Mano keto“ slaptažodį.</p>
         <input id="app-password" type="password" required autocomplete="current-password" placeholder="Slaptažodis" aria-label="Programėlės slaptažodis" />
@@ -208,6 +218,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=57"></script>
+    <script type="module" src="./app.js?v=65"></script>
   </body>
 </html>
