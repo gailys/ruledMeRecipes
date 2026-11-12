@@ -1,5 +1,6 @@
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=71';
-import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=71';
+import { isVeryLowCarb } from './keto-classification.mjs?v=74';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=74';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=74';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
@@ -57,7 +58,13 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   }
   function suggestionCatalog() {
     const blocked=blockedRecipes();
-    return new Map([...catalog].filter(([id])=>!blocked.has(id)));
+    return new Map([...catalog].filter(([id,recipe])=>!blocked.has(id) && matchesRecipeFilters(recipe)));
+  }
+  function matchesRecipeFilters(recipe) {
+    const settings=preferences();
+    if(settings.maxMinutes && (!Number.isFinite(recipe.totalMinutes) || recipe.totalMinutes<=0 || recipe.totalMinutes>settings.maxMinutes))return false;
+    if(settings.veryLowCarbOnly && (recipe.veryLowCarb!==true || !isVeryLowCarb(recipe.nutrition,settings.increase)))return false;
+    return true;
   }
   function findMenu(id) {
     return [plan,plan?.activeMenu,...(plan?.scheduledMenus || [])].find(menu=>menu?.id===id);
@@ -66,7 +73,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     const menu=findMenu(replacement?.menuId);
     if(!menu)return [];
     const excluded=new Set([...Object.values(menu.selected).flat(),...replacement.skipped,...blockedRecipes()]);
-    return [...catalog.values()].filter(recipe=>recipe.category===replacement.category && !excluded.has(recipe.id));
+    return [...catalog.values()].filter(recipe=>recipe.category===replacement.category && !excluded.has(recipe.id) && matchesRecipeFilters(recipe));
   }
   function beginReplacement(button) {
     const menu=findMenu(button.dataset.menuId),category=button.dataset.category,day=Number(button.dataset.day);
@@ -91,12 +98,21 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   const reminderDays=document.querySelector('#menu-reminder-days');
   const peopleInput=document.querySelector('#plan-people');
   const increaseInput=document.querySelector('#plan-portion-increase');
+  const maxMinutesInput=document.querySelector('#plan-max-minutes');
+  const veryLowCarbInput=document.querySelector('#plan-very-low-carb');
   let reminderOwner;
   function preferences() {
     let all={};try{all=JSON.parse(localStorage.getItem(PREFERENCES_KEY) || '{}') || {};}catch{}
     const value=all[profileKey()] || {};
-    return {people:peopleCount(value.people),increase:portionIncrease(value.increase),portionsVersion:value.portionsVersion || 0,reminderEnabled:value.reminderEnabled!==false,reminderDays:dayCount(value.reminderDays ?? 2),reminded:value.reminded && typeof value.reminded==='object' ? value.reminded : {}};
+    return {people:peopleCount(value.people),increase:portionIncrease(value.increase),maxMinutes:[15,20,30,45,60,90].includes(Number(value.maxMinutes)) ? Number(value.maxMinutes) : 0,veryLowCarbOnly:typeof value.veryLowCarbOnly==='boolean' ? value.veryLowCarbOnly : Number(value.maxCarbs)>0,portionsVersion:value.portionsVersion || 0,reminderEnabled:value.reminderEnabled!==false,reminderDays:dayCount(value.reminderDays ?? 2),reminded:value.reminded && typeof value.reminded==='object' ? value.reminded : {}};
   }
+  for(const control of [maxMinutesInput,veryLowCarbInput])control.addEventListener('change',()=>{
+    savePreferences({...preferences(),maxMinutes:Number(maxMinutesInput.value),veryLowCarbOnly:veryLowCarbInput.checked});
+    generation++;busy=false;drag=null;
+    if(plan){plan={...plan,currentId:null};save();}
+    if(replacement)replacement.currentId=null;
+    render();
+  });
   function savePreferences(value) {
     let all={};try{all=JSON.parse(localStorage.getItem(PREFERENCES_KEY) || '{}') || {};}catch{}
     all[profileKey()]=value;
@@ -237,6 +253,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     settingsSelect.value = String(value);
     const settings=preferences();
     peopleInput.value=String(settings.people);increaseInput.value=String(settings.increase);
+    maxMinutesInput.value=String(settings.maxMinutes);veryLowCarbInput.checked=settings.veryLowCarbOnly;
     document.querySelector('#plan-portions-summary').textContent=`Kiekvienam patiekalui: ${settings.people} asm. × ${number(1+settings.increase/100)} = ${number(portionMultiplier(settings.people,settings.increase))} bazinės porcijos.`;
     reminderEnabled.checked=settings.reminderEnabled;reminderDays.value=String(settings.reminderDays);reminderDays.disabled=!settings.reminderEnabled;
   }
@@ -395,7 +412,8 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
           <div class="swipe-photo"><img src="${html(recipe.image)}" alt="${html(recipe.title)}" draggable="false" fetchpriority="high"><span class="swipe-category">${meal.icon} ${meal.label}</span><span class="swipe-stamp is-like" aria-hidden="true">PATINKA</span><span class="swipe-stamp is-skip" aria-hidden="true">KITĄ KARTĄ</span></div>
           <div class="swipe-copy"><div class="swipe-recipe-meta"><span class="swipe-duration ${durationColor(recipe.totalMinutes)}"><span aria-hidden="true">◷</span><span>Gaminimo laikas: <strong>${Number.isFinite(recipe.totalMinutes) && recipe.totalMinutes > 0 ? `${number(recipe.totalMinutes)} min` : 'nenurodytas'}</strong></span></span><span>${html(portionLabel())}</span></div><h2>${html(recipe.title)}</h2><div class="swipe-nutrition"><span><strong>${number(portionNutrition(recipe,'calories'))}</strong> kcal</span><span><strong>${number(portionNutrition(recipe,'netCarbsGrams'))} g</strong> neto angl.</span><span><strong>${number(portionNutrition(recipe,'proteinGrams'))} g</strong> baltymų</span><small>1 asmeniui${preferences().increase ? ` (+${preferences().increase} %)` : ''}</small></div><button class="planner-recipe-link" data-planner="details" data-id="${html(recipe.id)}">Ingredientai ir gaminimas <span aria-hidden="true">↗</span></button></div>
         </article><div class="swipe-actions"><button class="swipe-action swipe-no" data-planner="skip" aria-label="Praleisti receptą"><span aria-hidden="true">×</span><small>Praleisti</small></button><button class="swipe-undo" data-planner="undo" ${canUndo ? '' : 'disabled'} aria-label="Atšaukti paskutinį pasirinkimą"><span aria-hidden="true">↶</span><small>Atšaukti</small></button><button class="swipe-action swipe-yes" data-planner="like" aria-label="Pasirinkti receptą"><span aria-hidden="true">♡</span><small>Patinka</small></button></div><p class="swipe-hint" id="swipe-hint">Brauk kortelę arba rinkis mygtukais. Kompiuteryje – ← ir →.</p><button class="swipe-block" data-planner="block" data-id="${html(recipe.id)}">Daugiau nesiūlyti</button>` : `<div class="planner-end"><span class="planner-end-symbol" aria-hidden="true">↻</span><h2>Šį ratą peržiūrėjai.</h2><p>${hasSkipped ? 'Peržiūrėk praleistus receptus dar kartą. Užblokuoti receptai nebus rodomi.' : 'Tinkamų receptų šiuo metu neliko.'}</p>${hasSkipped ? '<button class="primary dark" data-planner="revisit">Vėl rodyti praleistus</button>' : ''}</div>`}
-        ${!recipe && canUndo ? '<button class="text-button planner-end-undo" data-planner="undo">↶ Atšaukti paskutinį pasirinkimą</button>' : ''}
+        ${!recipe && (preferences().maxMinutes || preferences().veryLowCarbOnly) ? '<p class="swipe-hint">Pagal pasirinktus filtrus šiuo metu tinkamų receptų nėra. Padidinkite laiko ribą arba išjunkite angliavandenių filtrą nustatymuose.</p><button class="text-button" data-planner="settings">Keisti receptų filtrus</button>' : ''}
+      ${!recipe && canUndo ? '<button class="text-button planner-end-undo" data-planner="undo">↶ Atšaukti paskutinį pasirinkimą</button>' : ''}
         ${persistenceError ? '<p class="status error" role="alert">Meniu pakeitimai dar neišsaugoti šiame įrenginyje.</p>' : ''}
       </section>
       <dialog class="planner-detail-dialog" aria-labelledby="planner-detail-title"></dialog>`;

@@ -1,7 +1,7 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=71';
-import { createMealPlanner } from './meal-planner.js?v=71';
-import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=71';
-import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=71';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=74';
+import { createMealPlanner } from './meal-planner.js?v=74';
+import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=74';
+import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=74';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -395,6 +395,7 @@ let libraryProductIndex=[];
 let productSuggestionIndex;
 const productCollator=new Intl.Collator('lt');
 let recipeReturnRoute='#recipes';
+let recipeLanguage='en';
 const libraryCategories={breakfast:'Pusryčiai',lunch:'Pietūs',dinner:'Vakarienė',dessert:'Desertai',snacks:'Užkandžiai','side-items':'Garnyrai',condiments:'Padažai ir pagardai'};
 
 function libraryRecipe(source) {
@@ -403,7 +404,12 @@ function libraryRecipe(source) {
   return {...source,servings:source.servings || 1,category:libraryCategories[source.category] || source.category,ingredients,products,pinned:false};
 }
 function getRecipe(id) {
-  const saved=recipes.find(item=>item.id===id);if(saved)return saved;
+  const saved=recipes.find(item=>item.id===id);
+  if(saved){
+    const source=libraryCatalog?.find(item=>item.url.replace(/\/$/,'').toLowerCase()===saved.url.replace(/\/$/,'').toLowerCase());
+    if(source)Object.defineProperty(saved,'translations',{value:source.translations,writable:true,configurable:true,enumerable:false});
+    return saved;
+  }
   const source=libraryCatalog?.find(item=>item.id===id);
   if(source)source.pinned=Boolean(findSavedRecipe(source)?.pinned);
   return source;
@@ -1078,6 +1084,9 @@ function recipeAmount(item, servings, originalServings) {
 
 function renderDetail(id, servingsOverride) {
   const recipe = getRecipe(id); if (!recipe) {if(!libraryCatalog){$('#detail-view').innerHTML='<div class="empty">Kraunamas receptas…</div>';void loadLibraryCatalog();return;}location.hash='#recipes';return;}
+  const localized=recipeLanguage==='lt' ? recipe.translations?.lt : null;
+  const title=localized?.title || recipe.title;
+  const steps=localized?.instructions || recipe.instructions;
   activeRecipeId = id;
   const servings = servingsOverride || recipe.currentServings || mealPlanner.portions().people;
   recipe.currentServings = servings; save();
@@ -1092,13 +1101,15 @@ function renderDetail(id, servingsOverride) {
       </label>`).join('')}</div>`).join('');
   $('#detail-view').innerHTML = `
     <button class="back" data-back>${recipeReturnRoute==='#discover' ? '← Grįžti į meniu' : recipeReturnRoute==='#shopping' ? '← Grįžti į pirkinius' : '← Visi receptai'}</button>
+    <div class="recipe-languages" role="group" aria-label="Pavadinimo ir gaminimo kalba"><button type="button" data-recipe-language="en" aria-pressed="${recipeLanguage==='en'}">English · originalas</button><button type="button" data-recipe-language="lt" aria-pressed="${recipeLanguage==='lt'}">Lietuviškai</button></div>
+    ${recipeLanguage==='lt' && !localized ? '<p class="portion-note" role="status">Šio recepto lietuviškas vertimas dar ruošiamas. Kol kas rodomas originalas.</p>' : ''}
     <header class="detail-header">
-      <div><p class="eyebrow">Receptas</p><h1>${escapeHtml(recipe.title)}</h1><div class="detail-actions"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a><button class="detail-action" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button><button class="detail-action" data-share-recipe="${recipe.id}">Bendrinti</button><button class="detail-action" data-toggle-favorite="${recipe.id}" aria-pressed="${Boolean(recipe.pinned)}">${recipe.pinned ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button></div></div>
-      <div class="portion-box"><label>Žmonių skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau žmonių">−</button><strong>${servings}</strong><button data-step="1" aria-label="Daugiau žmonių">+</button></div><p class="portion-note">Porcijos padidinimas: +${mealPlanner.portions().increase} % kiekvienam žmogui.</p></div>
+      <div><p class="eyebrow">Receptas</p><h1 lang="${localized ? 'lt' : 'en'}">${escapeHtml(title)}</h1><div class="detail-actions"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a><button class="detail-action" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button><button class="detail-action" data-share-recipe="${recipe.id}">Bendrinti</button><button class="detail-action" data-toggle-favorite="${recipe.id}" aria-pressed="${Boolean(recipe.pinned)}">${recipe.pinned ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button></div></div>
+      <div class="portion-box"><label for="recipe-servings">Porcijų skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau porcijų" ${servings<=1 ? 'disabled' : ''}>−</button><input id="recipe-servings" data-recipe-servings type="number" min="1" max="99" step="1" value="${servings}" inputmode="numeric" aria-label="Porcijų skaičius"><button data-step="1" aria-label="Daugiau porcijų" ${servings>=99 ? 'disabled' : ''}>+</button></div><p class="portion-note" aria-live="polite">Ingredientų kiekiai: ${servings} porc. Porcijos padidinimas: +${mealPlanner.portions().increase} %.</p></div>
     </header>
     <div class="detail-columns">
       <section><div class="ingredient-title"><h2>Ingredientai</h2><button class="text-button" data-toggle>Atžymėti visus</button></div>${ingredientsHtml}<button class="primary dark" data-add-cart>Pridėti pažymėtus į pirkinius</button></section>
-      <section><p class="eyebrow">Gaminimas</p><h2>Instrukcija</h2><p class="portion-note">Gaminimo aprašymas yra iš originalaus recepto. Naudokite viršuje perskaičiuotus ingredientų kiekius.</p><div class="instructions">${recipe.instructions.length ? recipe.instructions.map(step => `<div class="instruction">${escapeHtml(step)}</div>`).join('') : '<p class="muted">Instrukciją rasite originaliame recepte.</p>'}</div></section>
+      <section><p class="eyebrow">Gaminimas</p><h2>Instrukcija</h2><p class="portion-note">Naudokite ingredientų sąraše pagal ${servings} ${servings===1 ? 'asmenį' : 'asmenis'} perskaičiuotus kiekius. Instrukcijoje paminėti kiekiai yra iš originalaus recepto.</p><div class="instructions" lang="${localized ? 'lt' : 'en'}">${steps.length ? steps.map(step => `<div class="instruction">${escapeHtml(step)}</div>`).join('') : '<p class="muted">Instrukciją rasite originaliame recepte.</p>'}</div></section>
     </div>`;
 }
 
@@ -1433,6 +1444,11 @@ window.addEventListener('appinstalled', () => {
 
 document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
+  if(target.matches('[data-recipe-language]')) {
+    recipeLanguage=target.dataset.recipeLanguage==='lt' ? 'lt' : 'en';
+    if(!libraryCatalog){void loadLibraryCatalog();return;}
+    renderDetail(activeRecipeId,getRecipe(activeRecipeId)?.currentServings);
+  }
   if(target.matches('#library-clear-products')) {
     pantry=[];libraryAvailability=false;libraryLimit=48;
     $('#library-owned').open=false;
@@ -1478,6 +1494,11 @@ document.addEventListener('click', event => {
 });
 
 document.addEventListener('change', event => {
+  if(event.target.matches('[data-recipe-servings]')) {
+    const input=event.target;
+    if(!input.reportValidity())return;
+    renderDetail(activeRecipeId,peopleCount(input.value));
+  }
   if(event.target.matches('#library-availability')) {libraryAvailability=event.target.checked;libraryLimit=48;renderRecipes();}
   if(event.target.matches('[data-library-product]')) {
     const input=event.target;
@@ -1515,7 +1536,7 @@ if ('serviceWorker' in navigator) {
     if (reloadingForUpdate) return; reloadingForUpdate = true; location.reload();
   });
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=71', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=74', { updateViaCache: 'none' });
     registration.update();
   });
 }

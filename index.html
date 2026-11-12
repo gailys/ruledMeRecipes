@@ -9,8 +9,8 @@
     <link rel="icon" type="image/svg+xml" href="./icons/cupcake.svg" />
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/cupcake-192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon-cupcake.png" />
-    <link rel="stylesheet" href="./styles.css?v=71" />
-    <link rel="stylesheet" href="./meal-planner.css?v=71" />
+    <link rel="stylesheet" href="./styles.css?v=74" />
+    <link rel="stylesheet" href="./meal-planner.css?v=74" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -125,6 +125,13 @@
           <small>Pasirinkimai išsaugomi šiame įrenginyje pagal vartotojo profilį.</small>
         </div>
         <button id="restart-plan" class="settings-option" type="button"><span class="settings-option-icon" aria-hidden="true">↻</span><span><strong>Rinktis naują meniu</strong><small>Pradėti receptų atranką iš naujo</small></span><span class="settings-option-arrow" aria-hidden="true">›</span></button>
+        <div class="planner-setting">
+          <label for="plan-max-minutes"><strong>Greiti receptai</strong><span>Didžiausias bendras gaminimo laikas braukimo pasiūlymuose.</span></label>
+          <select id="plan-max-minutes"><option value="0">Laiko neriboti</option><option value="15">Iki 15 min.</option><option value="20">Iki 20 min.</option><option value="30">Iki 30 min.</option><option value="45">Iki 45 min.</option><option value="60">Iki 60 min.</option><option value="90">Iki 90 min.</option></select>
+          <label class="reminder-toggle" for="plan-very-low-carb"><strong>Tik labai mažai angliavandenių turintys receptai</strong><input id="plan-very-low-carb" type="checkbox" role="switch"></label>
+          <small>Atrenkami pažymėti receptai, turintys iki 5 g neto angliavandenių vienoje porcijoje. Tikrinama ir padidinta porcija. Keturi tokie patiekalai sudaro iki 20 g neto angliavandenių per dieną; kitas maistas ir gėrimai į šią sumą neįtraukti.</small>
+          <small>Abu filtrai taikomi kartu ir keičiant receptą meniu. Jei reikalingų duomenų nėra, receptas su įjungtu filtru nesiūlomas. Jau pasirinkti patiekalai lieka meniu. Ši atranka negarantuoja ketozės.</small>
+        </div>
         <div class="planner-setting menu-reminder-setting">
           <label class="reminder-toggle" for="menu-reminder-enabled"><strong>Priminti apie naują meniu</strong><input id="menu-reminder-enabled" type="checkbox" checked role="switch"></label>
           <label for="menu-reminder-days">Parodyti priminimą, kai meniu lieka</label>
@@ -205,6 +212,6 @@
     </dialog>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=71"></script>
+    <script type="module" src="./app.js?v=74"></script>
   </body>
 </html>

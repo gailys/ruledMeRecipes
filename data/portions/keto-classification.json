@@ -1,0 +1,13 @@
+{
+  "field": "veryLowCarb",
+  "maxNetCarbsGramsPerServing": 5,
+  "plannedMealsPerDay": 4,
+  "netCarbsBudgetGramsPerDay": 20,
+  "rule": "App-specific conservative screening rule; not a diagnosis or a guarantee of ketosis. Missing or invalid net carbs or unknown serving yields are false. Runtime also checks the increased portion.",
+  "sources": [
+    "https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-restricted-carbohydrate-diet.pdf",
+    "https://pubmed.ncbi.nlm.nih.gov/38934469/"
+  ],
+  "trueCount": 769,
+  "falseCount": 562
+}

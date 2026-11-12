@@ -22,6 +22,7 @@ const assets = new Set(['index.html','app.js','sync.js','styles.css','meal-plann
 let bytes=0;
 assets.add('data/library/recipes.json');
 assets.add('product-translations.mjs');
+assets.add('keto-classification.mjs');
 for(const icon of ['cupcake.svg','cupcake-192.png','cupcake-512.png','apple-touch-icon-cupcake.png'])assets.add('icons/'+icon);
 for(const recipe of library.recipes)assets.add(recipe.image.replace(/^\.\//,''));
 for (const asset of assets) {
