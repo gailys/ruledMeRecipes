@@ -358,3 +358,6 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
  .shopping-item .shop-actions .ignore-product {grid-column:2;grid-row:2}
  .shopping-item .shop-actions .remove {grid-column:3;grid-row:2}
 }
+
+.recipe-detail-photo {display:block;width:100%;height:auto;max-height:480px;object-fit:contain;margin:24px auto 0;border-radius:18px;background:#eeeee5}
+@media(max-width:520px){.recipe-detail-photo {max-height:320px;margin-top:18px;border-radius:12px}}

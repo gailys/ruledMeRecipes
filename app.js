@@ -1,7 +1,7 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=86';
-import { createMealPlanner } from './meal-planner.js?v=86';
-import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=86';
-import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=86';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=88';
+import { createMealPlanner } from './meal-planner.js?v=88';
+import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=88';
+import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=88';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -1166,6 +1166,7 @@ function renderDetail(id, servingsOverride) {
   if(!recipe.translations?.lt && !libraryCatalog){$('#detail-view').innerHTML='<div class="empty">Kraunamas lietuviškas receptas…</div>';void loadLibraryCatalog();return;}
   const localized=recipe.translations?.lt;
   const title=localized?.title || 'Išsaugotas receptas';
+  const image=libraryCatalog?.find(item=>item.url.replace(/\/$/,'').toLowerCase()===recipe.url.replace(/\/$/,'').toLowerCase())?.image || recipe.image;
   const steps=localized?.instructions || [];
   activeRecipeId = id;
   const servings = servingsOverride || recipe.currentServings || mealPlanner.portions().people;
@@ -1186,6 +1187,7 @@ function renderDetail(id, servingsOverride) {
       <div><p class="eyebrow">Receptas</p><h1 lang="lt">${escapeHtml(title)}</h1><div class="detail-actions"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a><button class="detail-action" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button><button class="detail-action" data-share-recipe="${recipe.id}">Bendrinti</button><button class="detail-action" data-toggle-favorite="${recipe.id}" aria-pressed="${Boolean(recipe.pinned)}">${recipe.pinned ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button></div></div>
       <div class="portion-box"><label for="recipe-servings">Porcijų skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau porcijų" ${servings<=1 ? 'disabled' : ''}>−</button><input id="recipe-servings" data-recipe-servings type="number" min="1" max="99" step="1" value="${servings}" inputmode="numeric" aria-label="Porcijų skaičius"><button data-step="1" aria-label="Daugiau porcijų" ${servings>=99 ? 'disabled' : ''}>+</button></div><p class="portion-note" aria-live="polite">Ingredientų kiekiai: ${servings} porc. Porcijos padidinimas: +${mealPlanner.portions().increase} %.</p></div>
     </header>
+    ${image ? `<img class="recipe-detail-photo" src="${escapeHtml(image)}" alt="${escapeHtml(title)}" decoding="async" fetchpriority="high">` : ''}
     <div class="detail-columns">
       <section><div class="ingredient-title"><h2>Ingredientai</h2><button class="text-button" data-toggle>Atžymėti visus</button></div>${ingredientsHtml}<button class="primary dark" data-add-cart>Pridėti pažymėtus į pirkinius</button></section>
       <section><p class="eyebrow">Gaminimas</p><h2>Instrukcija</h2><p class="portion-note">Naudokite ingredientų sąraše pagal ${servings} ${servings===1 ? 'asmenį' : 'asmenis'} perskaičiuotus kiekius. Instrukcijoje paminėti kiekiai yra iš originalaus recepto.</p><div class="instructions" lang="lt">${steps.length ? steps.map(step => `<div class="instruction">${escapeHtml(step)}</div>`).join('') : '<p class="muted">Instrukciją rasite originaliame recepte.</p>'}</div></section>
@@ -1659,7 +1661,7 @@ if ('serviceWorker' in navigator) {
     if (reloadingForUpdate) return; reloadingForUpdate = true; location.reload();
   });
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=86', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=88', { updateViaCache: 'none' });
     registration.update();
   });
 }

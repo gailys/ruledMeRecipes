@@ -276,3 +276,7 @@ body.is-swiping {height:100dvh;min-height:0;overflow:hidden;overscroll-behavior:
  .is-swiping .swipe-action>span {width:40px;height:40px;font-size:28px}
  .is-swiping .swipe-block {margin-top:3px;padding:4px 10px}
 }
+
+.day-calorie-summary {grid-column:1 / -1;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px 16px;padding:12px 15px;margin-top:5px;border:1px solid #d4ddc6;border-radius:12px;background:#edf1e4;color:var(--green);font-size:12px}
+.day-calorie-summary strong {font-size:19px;white-space:nowrap}
+.day-calorie-summary small {flex-basis:100%;font-size:11px;line-height:1.4;color:var(--muted)}

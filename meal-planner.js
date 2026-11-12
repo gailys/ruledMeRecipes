@@ -1,6 +1,6 @@
-import { isVeryLowCarb } from './keto-classification.mjs?v=86';
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=86';
-import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=86';
+import { isVeryLowCarb } from './keto-classification.mjs?v=88';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=88';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=88';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
@@ -291,10 +291,15 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     document.querySelector('#settings-dialog').close();render();
   }
   function dailyRecipeCards(menu,day,date) {
-    return MEALS.map(meal=>{
+    const cards=MEALS.map(meal=>{
       const recipe=catalog.get(menu.selected[meal.id][day]);
       return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong>${isRecipeBlocked?.(recipe) ? '<small class="blocked-menu-note">Užblokuotas produktas – pakeiskite receptą</small>' : ''}<span>${recipe.totalMinutes ? `${number(recipe.totalMinutes)} min · ` : ''}${html(portionLabel())}</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
     }).join('');
+    const calories=MEALS.map(meal=>portionNutrition(catalog.get(menu.selected[meal.id][day]) || {},'calories'));
+    const known=calories.filter(value=>Number.isFinite(value) && value>=0);
+    const total=new Intl.NumberFormat('lt-LT',{maximumFractionDigits:0}).format(known.reduce((sum,value)=>sum+value,0));
+    const increase=preferences().increase;
+    return `${cards}<div class="day-calorie-summary"><span>${known.length===MEALS.length ? 'Dienos kalorijos vienam žmogui' : 'Žinomų patiekalų kalorijos vienam žmogui'}</span><strong>${known.length ? `${total} kcal` : 'Duomenų nėra'}</strong><small>1 porcija kiekvieno patiekalo${increase ? ` · porcijos padidintos ${number(increase)} %` : ''}${known.length<MEALS.length ? ` · ${MEALS.length-known.length} patiekalų kalorijų duomenų trūksta` : ''}</small></div>`;
   }
   function rebuildShoppingCart() {
     if(profile!==profileKey())return;
