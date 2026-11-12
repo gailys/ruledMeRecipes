@@ -1,7 +1,7 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=84';
-import { createMealPlanner } from './meal-planner.js?v=84';
-import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=84';
-import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=84';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=86';
+import { createMealPlanner } from './meal-planner.js?v=86';
+import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=86';
+import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=86';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -380,6 +380,14 @@ let pantry = load(STORAGE.pantry, []);
 let customTranslations = load(STORAGE.dictionary, {});
 const BLOCKED_PRODUCTS_KEY='keto-blocked-products-v1';
 let blockedProductStore=load(BLOCKED_PRODUCTS_KEY,{});
+const IGNORED_PRODUCTS_KEY='keto-ignored-products-v1';
+let ignoredProductStore=load(IGNORED_PRODUCTS_KEY,{});
+function ignoredProducts(){return ignoredProductStore[currentUserId || 'local'] || [];}
+function isIgnoredProduct(name){const key=shoppingProductKey(name);return ignoredProducts().some(item=>shoppingProductKey(item.name)===key);}
+function saveIgnoredProducts(items){const next={...ignoredProductStore,[currentUserId || 'local']:items};localStorage.setItem(IGNORED_PRODUCTS_KEY,JSON.stringify(next));ignoredProductStore=next;}
+function renderIgnoredProducts(){
+  $('#ignored-products-list').innerHTML=ignoredProducts().length ? ignoredProducts().map(item=>`<div class="blocked-product-row"><span>${escapeHtml(translateIngredient(item.name))}</span><button class="text-button" type="button" data-unignore-product="${escapeHtml(item.key)}">Vėl įtraukti</button></div>`).join('') : '<p class="muted">Ignoruojamų produktų nėra.</p>';
+}
 let productBlockHold=null;
 let blockedMealChoices=[];
 let blockedReplacementOwner=null;
@@ -408,6 +416,7 @@ function recipeHasBlockedProduct(recipe) {
   return (recipe.ingredientsPerServing || recipe.ingredients || []).some(item=>isBlockedProduct(typeof item==='string' ? parseIngredient(item).name : item.name));
 }
 function renderBlockedProducts() {
+  renderIgnoredProducts();
   const items=blockedProducts();
   $('#blocked-products-list').innerHTML=items.length ? items.map(item=>`<div class="blocked-product-row"><span>${escapeHtml(translateIngredient(item.name))}</span><button class="text-button" type="button" data-unblock-product="${escapeHtml(item.key)}">Atblokuoti</button></div>`).join('') : '<p class="muted">Užblokuotų produktų nėra.</p>';
 }
@@ -425,9 +434,9 @@ function startProductBlock(button,event) {
   const owner=currentUserId,item=cart.find(entry=>entry.id===button.dataset.blockProduct);
   if(!item)return;
   const state={button,owner,item,pointerId:event.pointerId,x:event.clientX,y:event.clientY,started:Date.now()};
-  productBlockHold=state;button.classList.add('holding');button.textContent='3';
+  productBlockHold=state;button.classList.add('holding');button.textContent='1';
   if(event.pointerId!==undefined)button.setPointerCapture?.(event.pointerId);
-  state.interval=setInterval(()=>{button.textContent=String(Math.max(1,Math.ceil((3000-(Date.now()-state.started))/1000)));},100);
+  state.interval=setInterval(()=>{button.textContent=String(Math.max(1,Math.ceil((1000-(Date.now()-state.started))/1000)));},100);
   state.timeout=setTimeout(()=>{
     cancelProductBlock();if(owner!==currentUserId)return;
     try {
@@ -438,7 +447,7 @@ function startProductBlock(button,event) {
       renderShopping();showToast('Produktas užblokuotas. Receptų su juo nebesiūlysime.');
       void offerBlockedMealChanges(owner,key,item.name).catch(()=>showToast('Produktas užblokuotas. Patiekalą galite pakeisti meniu skiltyje.'));
     }catch{showToast('Nepavyko išsaugoti blokavimo. Bandykite dar kartą.');}
-  },3000);
+  },1000);
 }
 let translationIndex, customTranslationIndex;
 const translationCache=new Map();
@@ -587,7 +596,7 @@ function rebuildMenuCart(batches,{profileId,people=1,increase=0}) {
 function cartForMenuRecipes(menuRecipes,initial=[],people=1,increase=0) {
   const next=initial.map(item=>({...item}));
   for(const recipe of menuRecipes)for(const item of scaleRecipeIngredients(recipe,people,increase)) {
-    if(isInPantry(item.name) || isBlockedProduct(item.name))continue;
+    if(isInPantry(item.name) || isBlockedProduct(item.name) || isIgnoredProduct(item.name))continue;
     const productKey=ingredientKey(item.name);
     if(item.quantity==null && !item.quantityRaw) {
       const same=next.find(entry=>entry.key===productKey && ingredientForm(entry.name)===ingredientForm(item.name) && entry.quantity==null && unitKey(entry.unit)===unitKey(item.unit));
@@ -709,7 +718,7 @@ function migrateLegacyIngredientNames() {
   });
   const consolidated = consolidateCart(cart);
   if (consolidated.changed) { cart = consolidated.items; changed = true; }
-  const neededCart = cart.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name));
+  const neededCart = cart.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name) && !isIgnoredProduct(item.name));
   if (neededCart.length !== cart.length) { cart = neededCart; changed = true; }
   if (changed) save();
 }
@@ -1187,7 +1196,7 @@ function addSelectedToCart() {
   const recipe = getRecipe(activeRecipeId); if (!recipe) return;
   const servings = recipeTargetServings(recipe);
   const selected = $$('[data-ingredient]:checked', $('#detail-view')).map(input => recipe.ingredients.find(item => item.id === input.dataset.ingredient)).filter(Boolean);
-  const needed = selected.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name));
+  const needed = selected.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name) && !isIgnoredProduct(item.name));
   needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
     const existing = cart.find(entry => entry.key === key && unitKey(entry.unit) === unitKey(item.unit));
@@ -1201,7 +1210,7 @@ function addSelectedToCart() {
 
 function addRecipeToCart(recipe, items = recipe.ingredients) {
   const servings = recipeTargetServings(recipe);
-  const needed = items.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name));
+  const needed = items.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name) && !isIgnoredProduct(item.name));
   needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
     const existing = cart.find(entry => entry.key === key && unitKey(entry.unit) === unitKey(item.unit));
@@ -1255,8 +1264,8 @@ function shoppingItemHtml(item) {
       <input type="checkbox" data-cart-check="${item.id}" ${item.done ? 'checked' : ''} aria-label="Pažymėti nupirktu" />
       ${hideQuantity ? '' : `<span class="shop-qty" title="Vienetais perkami kiekiai suapvalinti į didesnę pusę">${escapeHtml(item.groupAmount ?? shoppingAmount(item))}</span>`}
       <div class="shop-name"><span>${escapeHtml(item.groupName || translateIngredient(item.name))}</span>${item.variants?.length>1 ? `<span class="shop-variants">${item.variants.map(escapeHtml).join(' · ')}</span>` : ''}${shoppingSourcesHtml(item)}</div>
-      <div class="shop-actions"><button class="have-at-home" data-pantry-from="${item.id}" title="Palaikykite 3 sekundes, kad pridėtumėte prie turimų namuose">Visada turiu</button>
-      <button class="block-product" data-block-product="${item.id}" type="button" title="Palaikykite 3 sekundes, kad užblokuotumėte produktą" aria-label="Užblokuoti produktą: ${escapeHtml(translateIngredient(item.name))}. Palaikykite 3 sekundes" ${isBlockedProduct(item.name) ? 'disabled' : ''}>B</button><button class="remove" data-cart-remove="${item.id}" title="Palaikykite 3 sekundes, kad pašalintumėte" aria-label="Pašalinti produktą. Palaikykite 3 sekundes">×</button></div>
+      <div class="shop-actions"><button class="have-at-home" data-pantry-from="${item.id}" title="Palaikykite 1 sekundę, kad pridėtumėte prie turimų namuose">Visada turiu</button>
+      <button class="block-product" data-block-product="${item.id}" type="button" title="Palaikykite 1 sekundę, kad užblokuotumėte produktą" aria-label="Užblokuoti produktą: ${escapeHtml(translateIngredient(item.name))}. Palaikykite 1 sekundę" ${isBlockedProduct(item.name) ? 'disabled' : ''}>B</button><button class="block-product ignore-product" data-ignore-product="${item.id}" type="button" title="Palaikykite 1 sekundę: nebeįtraukti į pirkinius, bet palikti receptus" aria-label="Ignoruoti produktą. Palaikykite 1 sekundę">I</button><button class="remove" data-cart-remove="${item.id}" title="Palaikykite 1 sekundę, kad pašalintumėte" aria-label="Pašalinti produktą. Palaikykite 1 sekundę">×</button></div>
     </div>`;
 }
 
@@ -1426,28 +1435,32 @@ function cancelPantryHold() {
 function startPantryHold(button,event) {
   if(pantryHold || button.disabled)return;
   cancelProductBlock();
-  const remove=button.hasAttribute('data-cart-remove'),label=remove ? '×' : 'Visada turiu';
+  const remove=button.hasAttribute('data-cart-remove'),ignore=button.hasAttribute('data-ignore-product'),label=remove ? '×' : ignore ? 'I' : 'Visada turiu';
   const state={button,label,remove,owner:currentUserId,pointerId:event.pointerId,startX:event.clientX,startY:event.clientY,started:Date.now()};
-  pantryHold=state;button.classList.add('holding');button.textContent=remove ? '3' : 'Laikykite 3 s';
+  pantryHold=state;button.classList.add('holding');button.textContent=remove || ignore ? '1' : 'Laikykite 1 s';
   if(event.pointerId!==undefined)button.setPointerCapture?.(event.pointerId);
   state.interval=setInterval(()=>{
-    const remaining=Math.max(1,Math.ceil((3000-(Date.now()-state.started))/1000));
-    button.textContent=remove ? String(remaining) : 'Laikykite '+remaining+' s';
+    const remaining=Math.max(1,Math.ceil((1000-(Date.now()-state.started))/1000));
+    button.textContent=remove || ignore ? String(remaining) : 'Laikykite '+remaining+' s';
   },100);
   state.timeout=setTimeout(()=>{
-    const item=cart.find(entry=>entry.id===(remove ? button.dataset.cartRemove : button.dataset.pantryFrom));
+    const item=cart.find(entry=>entry.id===(remove ? button.dataset.cartRemove : ignore ? button.dataset.ignoreProduct : button.dataset.pantryFrom));
     cancelPantryHold();if(state.owner!==currentUserId || !item)return;
     const members=cartGroupItems(item.id),ids=new Set(members.map(entry=>entry.id));
-    if(!remove)for(const entry of members)addToPantry(entry.name,translateIngredient(entry.name));
+    if(ignore){
+      try{if(!isIgnoredProduct(item.name))saveIgnoredProducts([...ignoredProducts(),{key:item.key || ingredientKey(item.name),name:item.name}]);}
+      catch{showToast('Nepavyko išsaugoti ignoravimo.');return;}
+    }else if(!remove)for(const entry of members)addToPantry(entry.name,translateIngredient(entry.name));
     cart=cart.filter(entry=>!ids.has(entry.id));save();syncEngine?.syncNow();renderShopping();
-    showToast(remove ? 'Produktas pašalintas iš krepšelio' : 'Pridėta prie turimų namuose');
-  },3000);
+    showToast(ignore ? 'Produktas ignoruojamas. Receptai su juo liks siūlomi.' : remove ? 'Produktas pašalintas iš krepšelio' : 'Pridėta prie turimų namuose');
+  },1000);
 }
 
 $('#manual-cart-form').addEventListener('submit', event => {
   event.preventDefault();
   const nameInput = $('#manual-product-name'); const amountInput = $('#manual-product-amount');
   const name = nameInput.value.trim(); if (!name) return;
+  if(isIgnoredProduct(name)){showToast('Šis produktas ignoruojamas. Tai galite pakeisti nustatymuose.');return;}
   const item = manualCartItem(name, amountInput.value);
   if (cart.some(existing => existing.key === item.key && existing.quantity == null && item.quantity == null)) { showToast('Šis produktas jau yra sąraše'); return; }
   cart.push(item); cart = consolidateCart(cart).items; save(); syncEngine?.syncNow(); renderShopping();
@@ -1543,6 +1556,9 @@ document.addEventListener('click', event => {
     void mealPlanner.replacePlanned(slot);
   }
   if(target.matches('[data-block-product]'))event.preventDefault();
+  if(target.matches('[data-unignore-product]')) {
+    try{saveIgnoredProducts(ignoredProducts().filter(item=>item.key!==target.dataset.unignoreProduct));renderIgnoredProducts();showToast('Produktas vėl bus pridedamas į pirkinius');}catch{showToast('Nepavyko išsaugoti pakeitimo.');}
+  }
   if(target.matches('[data-unblock-product]')) {
     try{saveBlockedProducts(blockedProducts().filter(item=>item.key!==target.dataset.unblockProduct));renderBlockedProducts();mealPlanner.render();if(!$('#recipes-view').hidden)renderRecipes();showToast('Produktas atblokuotas');}
     catch{showToast('Nepavyko išsaugoti pakeitimo.');}
@@ -1588,7 +1604,7 @@ document.addEventListener('click', event => {
   if (target.matches('[data-step]')) { const recipe = getRecipe(activeRecipeId); const next = Math.min(99,Math.max(1, (recipe.currentServings || mealPlanner.portions().people) + Number(target.dataset.step))); renderDetail(recipe.id, next); }
   if (target.matches('[data-toggle]')) { const boxes = $$('[data-ingredient]'); const anyChecked = boxes.some(box => box.checked); boxes.forEach(box => box.checked = !anyChecked); target.textContent = anyChecked ? 'Pažymėti visus' : 'Atžymėti visus'; }
   if (target.matches('[data-add-cart]')) addSelectedToCart();
-  if(target.matches('[data-cart-remove],[data-pantry-from]'))event.preventDefault();
+  if(target.matches('[data-cart-remove],[data-pantry-from],[data-ignore-product]'))event.preventDefault();
   if (target.matches('#clear-cart') && cart.length && confirm('Išvalyti visą pirkinių sąrašą?')) { cart = []; save(); syncEngine?.syncNow(); renderShopping(); }
 });
 
@@ -1618,8 +1634,8 @@ document.addEventListener('change', event => {
 document.addEventListener('pointerdown', event => {
   const blockButton=event.target.closest('[data-block-product]');
   if(blockButton && event.button===0){event.preventDefault();cancelPantryHold();startProductBlock(blockButton,event);return;}
-  const button = event.target.closest('[data-pantry-from]');
-  if (!button) return;
+  const button = event.target.closest('[data-pantry-from],[data-cart-remove],[data-ignore-product]');
+  if (!button || event.button!==0) return;
   event.preventDefault(); startPantryHold(button, event);
 });
 document.addEventListener('pointermove', event => {
@@ -1628,7 +1644,7 @@ document.addEventListener('pointermove', event => {
 });
 document.addEventListener('pointerup', event => { if (productBlockHold?.pointerId===event.pointerId)cancelProductBlock();if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
 document.addEventListener('pointercancel', event => {if(productBlockHold?.pointerId===event.pointerId)cancelProductBlock(); if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
-document.addEventListener('contextmenu', event => { if (event.target.closest('[data-pantry-from],[data-cart-remove],[data-block-product]')) event.preventDefault(); });
+document.addEventListener('contextmenu', event => { if (event.target.closest('[data-pantry-from],[data-cart-remove],[data-ignore-product],[data-block-product]')) event.preventDefault(); });
 document.addEventListener('pointermove',event=>{const state=productBlockHold;if(state?.pointerId===event.pointerId && Math.hypot(event.clientX-state.x,event.clientY-state.y)>25)cancelProductBlock();});
 document.addEventListener('keydown',event=>{const button=event.target.closest('[data-block-product]');if(button && [' ','Enter'].includes(event.key)){event.preventDefault();if(!event.repeat)startProductBlock(button,event);}});
 document.addEventListener('keyup',event=>{if([' ','Enter'].includes(event.key) && productBlockHold?.pointerId===undefined)cancelProductBlock();});
@@ -1643,7 +1659,7 @@ if ('serviceWorker' in navigator) {
     if (reloadingForUpdate) return; reloadingForUpdate = true; location.reload();
   });
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=84', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=86', { updateViaCache: 'none' });
     registration.update();
   });
 }
@@ -1663,7 +1679,7 @@ route();
 hydrateMissingImages();
 if (hasSession()) syncEngine.start(); else requireLogin();
 
-document.addEventListener('keydown',event=>{const button=event.target.closest('[data-pantry-from],[data-cart-remove]');if(button && [' ','Enter'].includes(event.key)){event.preventDefault();if(!event.repeat)startPantryHold(button,event);}});
+document.addEventListener('keydown',event=>{const button=event.target.closest('[data-pantry-from],[data-cart-remove],[data-ignore-product]');if(button && [' ','Enter'].includes(event.key)){event.preventDefault();if(!event.repeat)startPantryHold(button,event);}});
 document.addEventListener('keyup',event=>{if([' ','Enter'].includes(event.key) && pantryHold?.pointerId===undefined)cancelPantryHold();});
 document.addEventListener('focusout',event=>{if(event.target===pantryHold?.button)cancelPantryHold();});
 window.addEventListener('blur',cancelPantryHold);

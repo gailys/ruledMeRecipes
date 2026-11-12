@@ -9,8 +9,8 @@
     <link rel="icon" type="image/svg+xml" href="./icons/cupcake.svg" />
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/cupcake-192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon-cupcake.png" />
-    <link rel="stylesheet" href="./styles.css?v=84" />
-    <link rel="stylesheet" href="./meal-planner.css?v=84" />
+    <link rel="stylesheet" href="./styles.css?v=86" />
+    <link rel="stylesheet" href="./meal-planner.css?v=86" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -154,6 +154,11 @@
           <p>Receptai su šiais produktais nesiūlomi braukiant ir nerodomi kataloge. Sąrašas išsaugomas šiame įrenginyje pagal profilį. Jau sudarytą meniu galite pakeisti atskirai.</p>
           <div id="blocked-products-list"></div>
         </details>
+        <details class="planner-setting">
+          <summary>Ignoruojami produktai</summary>
+          <p>Šie produktai nepridedami į pirkinių krepšelį. Receptai su jais lieka siūlomi. Pasirinkimai išsaugomi šiame įrenginyje pagal profilį.</p>
+          <div id="ignored-products-list"></div>
+        </details>
       </div>
     </dialog>
 
@@ -224,6 +229,6 @@
       <button type="button" class="text-button" id="blocked-meals-later">Pakeisiu vėliau</button>
     </dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=84"></script>
+    <script type="module" src="./app.js?v=86"></script>
   </body>
 </html>

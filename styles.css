@@ -199,7 +199,7 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .shop-name small { display: block; color: var(--muted); font-size: 12px; margin-top: 3px; }
 .remove { border: 0; background: transparent; color: #9c4e3a; font-size: 20px; }
 .have-at-home { padding: 7px 9px; border: 1px solid var(--line); border-radius: 9px; background-color: transparent; background-image: linear-gradient(90deg, #d9f36a, #d9f36a); background-position: left center; background-repeat: no-repeat; background-size: 0 100%; color: var(--muted); font-size: 11px; font-weight: 800; white-space: nowrap; touch-action: manipulation; user-select: none; }
-.have-at-home.holding { color: var(--green); animation: pantry-hold-progress 2s linear forwards; }
+.have-at-home.holding { color: var(--green); animation: pantry-hold-progress 1s linear forwards; }
 @keyframes pantry-hold-progress { from { background-size: 0 100%; } to { background-size: 100% 100%; } }
 .pantry-content { padding: 25px; }
 .pantry-content h2 { margin-bottom: 7px; }
@@ -334,7 +334,7 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
 .shop-actions .block-product,.shop-actions .remove {width:32px;padding:0}
 .shop-actions .remove {font-size:18px;font-weight:500}
 .shop-actions .block-product {color:#98665f;background-image:linear-gradient(90deg,#f2ddd8,#f2ddd8);background-position:left center;background-repeat:no-repeat;background-size:0 100%}
-.shop-actions .block-product.holding {animation:pantry-hold-progress 3s linear forwards;color:#8e4038}
+.shop-actions .block-product.holding {animation:pantry-hold-progress 1s linear forwards;color:#8e4038}
 .shop-actions .block-product:disabled {background-image:none;background-color:#f3ece7;color:#98665f}
 .shop-actions .have-at-home:hover,.shop-actions .block-product:hover,.shop-actions .remove:hover {border-color:#bdc6ba;background-color:#eef0e8}
 @media(max-width:520px) {
@@ -345,8 +345,16 @@ input:focus, textarea:focus { border-color: var(--green); box-shadow: 0 0 0 3px 
  .shopping-item .shop-actions .remove {grid-column:2;grid-row:2;justify-self:stretch}
 }
 
-.shop-actions .have-at-home.holding {animation:pantry-hold-progress 3s linear forwards}
+.shop-actions .have-at-home.holding {animation:pantry-hold-progress 1s linear forwards}
 .shop-actions .remove {background-image:linear-gradient(90deg,#f2ddd8,#f2ddd8);background-position:left center;background-repeat:no-repeat;background-size:0 100%;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
-.shop-actions .remove.holding {animation:pantry-hold-progress 3s linear forwards;color:#8e4038;font-size:12px;font-weight:800}
+.shop-actions .remove.holding {animation:pantry-hold-progress 1s linear forwards;color:#8e4038;font-size:12px;font-weight:800}
 
 .shop-variants {display:block;margin-top:5px;color:var(--muted);font-size:11px;line-height:1.4}
+
+.shop-actions .ignore-product {color:var(--muted);background-image:linear-gradient(90deg,#e2e8da,#e2e8da)}
+.shop-actions .ignore-product.holding {color:var(--green)}
+@media(max-width:520px){
+ .shop-actions {grid-template-columns:repeat(3,32px)}
+ .shopping-item .shop-actions .ignore-product {grid-column:2;grid-row:2}
+ .shopping-item .shop-actions .remove {grid-column:3;grid-row:2}
+}
