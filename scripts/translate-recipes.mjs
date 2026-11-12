@@ -6,7 +6,7 @@ const directory=new URL('data/translations/',root);
 await fs.mkdir(directory,{recursive:true});
 const journal=new URL('lt-records.jsonl',directory);
 const output=new URL('recipes.lt.json',directory);
-const recipes=JSON.parse(await fs.readFile(new URL('data/portions/recipes.json',root),'utf8')).recipes;
+const recipes=JSON.parse(await fs.readFile(new URL('data/portions/recipes.json',root),'utf8')).recipes.map(recipe=>({...recipe,title:recipe.translations?.en?.title || recipe.title,instructions:recipe.translations?.en?.instructions || recipe.instructions}));
 const records=new Map();
 try {for(const line of (await fs.readFile(journal,'utf8')).split('\n').filter(Boolean)){const row=JSON.parse(line);records.set(row.id,row);}}catch(error){if(error.code!=='ENOENT')throw error;}
 const hash=recipe=>crypto.createHash('sha256').update(JSON.stringify([recipe.title,recipe.instructions])).digest('hex');

@@ -9,8 +9,8 @@
     <link rel="icon" type="image/svg+xml" href="./icons/cupcake.svg" />
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/cupcake-192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon-cupcake.png" />
-    <link rel="stylesheet" href="./styles.css?v=74" />
-    <link rel="stylesheet" href="./meal-planner.css?v=74" />
+    <link rel="stylesheet" href="./styles.css?v=84" />
+    <link rel="stylesheet" href="./meal-planner.css?v=84" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -149,6 +149,11 @@
           <span><strong>Keisti vartotoją</strong><small>Pasirinkti arba sukurti kitą profilį</small></span>
           <span class="settings-option-arrow" aria-hidden="true">›</span>
         </button>
+        <details class="planner-setting">
+          <summary>Užblokuoti produktai</summary>
+          <p>Receptai su šiais produktais nesiūlomi braukiant ir nerodomi kataloge. Sąrašas išsaugomas šiame įrenginyje pagal profilį. Jau sudarytą meniu galite pakeisti atskirai.</p>
+          <div id="blocked-products-list"></div>
+        </details>
       </div>
     </dialog>
 
@@ -211,7 +216,14 @@
       </div>
     </dialog>
 
+    <dialog id="blocked-meals-dialog" class="planner-detail-dialog" aria-labelledby="blocked-meals-title">
+      <button type="button" class="planner-detail-close" id="blocked-meals-close" aria-label="Uždaryti">×</button>
+      <h2 id="blocked-meals-title">Pakeiskime patiekalą</h2>
+      <p id="blocked-meals-message"></p>
+      <div id="blocked-meals-list"></div>
+      <button type="button" class="text-button" id="blocked-meals-later">Pakeisiu vėliau</button>
+    </dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=74"></script>
+    <script type="module" src="./app.js?v=84"></script>
   </body>
 </html>

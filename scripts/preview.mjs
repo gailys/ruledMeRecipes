@@ -12,7 +12,7 @@ const server=http.createServer(async(request,response)=>{
     const url=new URL(request.url,'http://127.0.0.1');
     let pathname=decodeURIComponent(url.pathname);
     if(pathname==='/__planner-preview') {
-      const page=(await fs.readFile(path.join(root,'index.html'),'utf8')).replace(/\.\/app\.js\?v=\d+/,'./__qa/app.js?v=74');
+      const page=(await fs.readFile(path.join(root,'index.html'),'utf8')).replace(/\.\/app\.js\?v=\d+/,'./__qa/app.js?v=84');
       response.writeHead(200,{'content-type':mime['.html'],'cache-control':'no-store'});response.end(page);return;
     }
     if(pathname==='/__qa/sync.js') {

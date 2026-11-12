@@ -1,6 +1,6 @@
-import { isVeryLowCarb } from './keto-classification.mjs?v=74';
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=74';
-import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=74';
+import { isVeryLowCarb } from './keto-classification.mjs?v=84';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=84';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=84';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
@@ -15,7 +15,7 @@ const todayKey = (date = new Date()) => {
   return `${value('year')}-${value('month')}-${value('day')}`;
 };
 
-export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite, onOpenRecipe }) {
+export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite, onOpenRecipe, isRecipeBlocked, onRecipeReplaced }) {
   let returningFromDetails=false;
   let catalog, loading, error = '', profile, plan, active = false, busy = false, generation = 0, drag = null;
   let persistenceError = false;
@@ -61,6 +61,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     return new Map([...catalog].filter(([id,recipe])=>!blocked.has(id) && matchesRecipeFilters(recipe)));
   }
   function matchesRecipeFilters(recipe) {
+    if(isRecipeBlocked?.(recipe))return false;
     const settings=preferences();
     if(settings.maxMinutes && (!Number.isFinite(recipe.totalMinutes) || recipe.totalMinutes<=0 || recipe.totalMinutes>settings.maxMinutes))return false;
     if(settings.veryLowCarbOnly && (recipe.veryLowCarb!==true || !isVeryLowCarb(recipe.nutrition,settings.increase)))return false;
@@ -292,7 +293,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   function dailyRecipeCards(menu,day,date) {
     return MEALS.map(meal=>{
       const recipe=catalog.get(menu.selected[meal.id][day]);
-      return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong><span>${recipe.totalMinutes ? `${number(recipe.totalMinutes)} min · ` : ''}${html(portionLabel())}</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
+      return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong>${isRecipeBlocked?.(recipe) ? '<small class="blocked-menu-note">Užblokuotas produktas – pakeiskite receptą</small>' : ''}<span>${recipe.totalMinutes ? `${number(recipe.totalMinutes)} min · ` : ''}${html(portionLabel())}</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
     }).join('');
   }
   function rebuildShoppingCart() {
@@ -438,7 +439,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
       if(kind==='like') {
         target.selected={...target.selected,[change.category]:target.selected[change.category].map((recipeId,index)=>index===change.day ? id : recipeId)};
         target.history=[];target.cartExported=null;replacement=null;busy=false;
-        setCartDirty(true);save();exportMenuIngredients(target);render();showToast('Receptas meniu pakeistas.');
+        setCartDirty(true);save();exportMenuIngredients(target);render();showToast('Receptas meniu pakeistas.');onRecipeReplaced?.({menuId:change.menuId,category:change.category,day:change.day});
       }else {change.skipped.push(id);change.currentId=null;busy=false;render();}
     }else {plan=decide(plan,suggestionCatalog(),kind);busy=false;save();render();}
     root.querySelector('.swipe-card')?.focus({preventScroll:true});
@@ -558,6 +559,31 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   return {
     portions:()=>{const settings=preferences();return {people:settings.people,increase:settings.increase};},
     portionLabel,
+    affectedMeals:async(predicate)=>{
+      const owner=profileKey();await loadCatalog();
+      if(owner!==profileKey() || !catalog)return [];
+      loadProfile();const today=todayKey(),slots=[];
+      const menus=[plan.activeMenu,...plan.scheduledMenus,plan].filter(Boolean);let cursor=null;
+      for(const menu of menus) {
+        if(!isComplete(menu))continue;
+        const start=menu.startDate || (menu.requestedStartDate>cursor && menu.requestedStartDate>today ? menu.requestedStartDate : cursor || today);
+        for(let day=0;day<menu.days;day++) {
+          const date=new Date(Date.parse(start)+day*86400000).toISOString().slice(0,10);
+          if(date<today)continue;
+          for(const meal of MEALS) {
+            const recipe=catalog.get(menu.selected[meal.id]?.[day]);
+            if(recipe && predicate(recipe))slots.push({menuId:menu.id,category:meal.id,categoryLabel:meal.label,day,date,id:recipe.id,title:recipe.title});
+          }
+        }
+        cursor=new Date(Date.parse(start)+menu.days*86400000).toISOString().slice(0,10);
+      }
+      return slots;
+    },
+    replacePlanned:async(slot)=>{
+      const owner=profileKey();await loadCatalog();if(owner!==profileKey() || !catalog)return;
+      loadProfile();if(slot.date<todayKey())return;
+      beginReplacement({dataset:{menuId:slot.menuId,category:slot.category,day:String(slot.day),date:slot.date,id:slot.id}});
+    },
     rebuildCart:async()=>{
       const owner=profileKey();await loadCatalog();
       if(owner!==profileKey())return;

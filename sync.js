@@ -51,36 +51,44 @@ export async function validateRecipeUrls(urls) {
 }
 
 export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatus, onFirstSync }) {
-  let baseline = { users: [], recipes: [], cart: [], pins: [], pantry: [], translations: [] };
-  let queue = JSON.parse(localStorage.getItem(QUEUE_KEY) || '[]');
-  let revisions = JSON.parse(localStorage.getItem(REVISIONS_KEY) || '{}');
-  let timer; let syncing = false; let started = false; let flushAfterCurrent = false;
-  const persist = () => { localStorage.setItem(QUEUE_KEY, JSON.stringify(queue)); localStorage.setItem(REVISIONS_KEY, JSON.stringify(revisions)); };
+  let baseline = clone(getStore());
+  let queue,revisions;
+  try{queue=JSON.parse(localStorage.getItem(QUEUE_KEY) || '[]');}catch{queue=[];}
+  try{revisions=JSON.parse(localStorage.getItem(REVISIONS_KEY) || '{}');}catch{revisions={};}
+  if(!Array.isArray(queue))queue=[];
+  if(!revisions || typeof revisions!=='object' || Array.isArray(revisions))revisions={};
+  let timer; let syncing = false; let started = false; let flushAfterCurrent = false;let retryDelay=3000;
+  const persist = () => {try{ localStorage.setItem(QUEUE_KEY, JSON.stringify(queue)); localStorage.setItem(REVISIONS_KEY, JSON.stringify(revisions)); }catch{onStatus('offline');}};
   const changed = () => {
-    if (!started) return;
     const current = clone(getStore()); queue = mergeQueue(queue, diff(baseline, current, revisions)); baseline = current; persist();
     clearTimeout(timer); timer = setTimeout(flush, 200);
   };
   const flush = async (allowHidden = false) => {
+    if(!started)return;
     const credentials = auth();
     if (!credentials?.token || (!allowHidden && document.visibilityState === 'hidden')) return;
     if (syncing) { flushAfterCurrent ||= allowHidden || queue.length > 0; return; }
-    syncing = true; onStatus('saving'); const sent = [...queue];
+    syncing = true; onStatus('saving'); const sent = [...queue];let succeeded=false;
     try {
       const response = await fetch(`${API}/sync`, { method: 'POST', keepalive: allowHidden, headers: { 'content-type': 'application/json', authorization: `Bearer ${credentials.token}` }, body: JSON.stringify({ operations: sent }) });
       if (response.status === 401) { logoutSession(); onAuthRequired(); throw new Error('session'); }
       if (!response.ok) throw new Error('sync');
-      const result = await response.json(); const acknowledged = new Set(result.acknowledged || []); queue = queue.filter(op => !acknowledged.has(op.id));
+      const result = await response.json();
+      if(!Array.isArray(result.records) || !Array.isArray(result.acknowledged))throw new Error('invalid-sync-response');
+      const acknowledged = new Set(result.acknowledged); queue = queue.filter(op => !acknowledged.has(op.id));
       const remote = storeFromRecords(result.records || []); revisions = remote.revisions; queue = queue.map(op => ({ ...op, baseRevision: revisions[`${op.entityType}:${op.entityId}`] || 0 }));
       const merged = applyQueue(remote.store, queue); const storeChanged = JSON.stringify(merged) !== JSON.stringify(baseline);
-      baseline = clone(merged); persist(); if (storeChanged) await applyStore(merged); onStatus('synced'); onFirstSync(result.conflicts || []);
+      const previousBaseline=baseline;baseline = clone(merged);persist();
+      try{if(storeChanged)await applyStore(merged);}catch(error){baseline=previousBaseline;throw error;}
+      succeeded=true;retryDelay=3000;onStatus('synced'); onFirstSync(result.conflicts || []);
     } catch (error) { if (error.message !== 'session') onStatus('offline'); }
     finally {
       syncing = false;
       if (queue.length && (document.visibilityState !== 'hidden' || flushAfterCurrent)) {
         const continueHidden = flushAfterCurrent; flushAfterCurrent = false;
-        clearTimeout(timer); timer = setTimeout(() => flush(continueHidden), 100);
+        clearTimeout(timer); timer = setTimeout(() => flush(continueHidden), succeeded ? 200 : retryDelay);
       }
+      if(!succeeded)retryDelay=Math.min(60000,retryDelay*2);
     }
   };
   const start = async () => {
@@ -88,7 +96,9 @@ export function createSyncEngine({ getStore, applyStore, onAuthRequired, onStatu
     // Real offline edits are already persisted in the operation queue.
     baseline = clone(getStore()); started = true; await flush();
   };
-  window.addEventListener('online', () => flush()); window.addEventListener('focus', () => flush()); setInterval(flush, 3000);
+  window.addEventListener('online', () => flush()); window.addEventListener('focus', () => flush());
+  let nextPoll=0;
+  setInterval(()=>{if(Date.now()>=nextPoll){nextPoll=Date.now()+retryDelay;void flush();}},3000);
   document.addEventListener('visibilitychange', () => flush(document.visibilityState === 'hidden'));
   window.addEventListener('pagehide', () => flush(true));
   const syncNow = async () => { changed(); clearTimeout(timer); await flush(); };

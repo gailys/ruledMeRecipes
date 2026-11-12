@@ -1,7 +1,7 @@
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=74';
-import { createMealPlanner } from './meal-planner.js?v=74';
-import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=74';
-import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=74';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=84';
+import { createMealPlanner } from './meal-planner.js?v=84';
+import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=84';
+import { PRODUCT_TRANSLATIONS } from './product-translations.mjs?v=84';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -378,6 +378,68 @@ let recipes = load(STORAGE.recipes, []);
 let cart = load(STORAGE.cart, []);
 let pantry = load(STORAGE.pantry, []);
 let customTranslations = load(STORAGE.dictionary, {});
+const BLOCKED_PRODUCTS_KEY='keto-blocked-products-v1';
+let blockedProductStore=load(BLOCKED_PRODUCTS_KEY,{});
+let productBlockHold=null;
+let blockedMealChoices=[];
+let blockedReplacementOwner=null;
+async function offerBlockedMealChanges(owner,key,name) {
+  const slots=await mealPlanner.affectedMeals(recipe=>(recipe.ingredientsPerServing || []).some(item=>shoppingProductKey(item.name)===shoppingProductKey(name)));
+  if(owner!==currentUserId)return;
+  blockedMealChoices=slots;
+  blockedReplacementOwner=owner;
+  if($('#blocked-meals-dialog').open)$('#blocked-meals-dialog').close();
+  location.hash='#discover';
+  if(slots.length)await mealPlanner.replacePlanned(slots[0]);
+  else showToast('Produktas pašalintas. Suplanuotame meniu patiekalų su juo nėra.');
+}
+function continueBlockedReplacements(slot) {
+  if(blockedReplacementOwner!==currentUserId){blockedMealChoices=[];return;}
+  const current=blockedMealChoices[0];
+  if(!current || current.menuId!==slot.menuId || current.category!==slot.category || current.day!==slot.day)return;
+  blockedMealChoices.shift();
+  if(blockedMealChoices.length)void mealPlanner.replacePlanned(blockedMealChoices[0]);
+}
+function isBlockedProduct(name) {const key=shoppingProductKey(name);return blockedProducts().some(item=>shoppingProductKey(item.name || item.key)===key);}
+function blockedProducts() {return blockedProductStore[currentUserId || 'local'] || [];}
+function recipeHasBlockedProduct(recipe) {
+  const keys=new Set(blockedProducts().map(item=>item.key));
+  if(!keys.size)return false;
+  return (recipe.ingredientsPerServing || recipe.ingredients || []).some(item=>isBlockedProduct(typeof item==='string' ? parseIngredient(item).name : item.name));
+}
+function renderBlockedProducts() {
+  const items=blockedProducts();
+  $('#blocked-products-list').innerHTML=items.length ? items.map(item=>`<div class="blocked-product-row"><span>${escapeHtml(translateIngredient(item.name))}</span><button class="text-button" type="button" data-unblock-product="${escapeHtml(item.key)}">Atblokuoti</button></div>`).join('') : '<p class="muted">Užblokuotų produktų nėra.</p>';
+}
+function saveBlockedProducts(items) {
+  const next={...blockedProductStore,[currentUserId || 'local']:items};
+  localStorage.setItem(BLOCKED_PRODUCTS_KEY,JSON.stringify(next));blockedProductStore=next;
+}
+function cancelProductBlock() {
+  if(!productBlockHold)return;
+  clearTimeout(productBlockHold.timeout);clearInterval(productBlockHold.interval);
+  productBlockHold.button.textContent='B';productBlockHold.button.classList.remove('holding');productBlockHold=null;
+}
+function startProductBlock(button,event) {
+  if(productBlockHold || button.disabled)return;
+  const owner=currentUserId,item=cart.find(entry=>entry.id===button.dataset.blockProduct);
+  if(!item)return;
+  const state={button,owner,item,pointerId:event.pointerId,x:event.clientX,y:event.clientY,started:Date.now()};
+  productBlockHold=state;button.classList.add('holding');button.textContent='3';
+  if(event.pointerId!==undefined)button.setPointerCapture?.(event.pointerId);
+  state.interval=setInterval(()=>{button.textContent=String(Math.max(1,Math.ceil((3000-(Date.now()-state.started))/1000)));},100);
+  state.timeout=setTimeout(()=>{
+    cancelProductBlock();if(owner!==currentUserId)return;
+    try {
+      const key=item.key || ingredientKey(item.name);
+      if(!blockedProducts().some(product=>product.key===key))saveBlockedProducts([...blockedProducts(),{key,name:item.name}]);
+      cart=cart.filter(product=>shoppingProductKey(product.name)!==shoppingProductKey(item.name));
+      save();syncEngine?.syncNow();
+      renderShopping();showToast('Produktas užblokuotas. Receptų su juo nebesiūlysime.');
+      void offerBlockedMealChanges(owner,key,item.name).catch(()=>showToast('Produktas užblokuotas. Patiekalą galite pakeisti meniu skiltyje.'));
+    }catch{showToast('Nepavyko išsaugoti blokavimo. Bandykite dar kartą.');}
+  },3000);
+}
 let translationIndex, customTranslationIndex;
 const translationCache=new Map();
 let users = load(STORAGE.users, []);
@@ -395,7 +457,7 @@ let libraryProductIndex=[];
 let productSuggestionIndex;
 const productCollator=new Intl.Collator('lt');
 let recipeReturnRoute='#recipes';
-let recipeLanguage='en';
+
 const libraryCategories={breakfast:'Pusryčiai',lunch:'Pietūs',dinner:'Vakarienė',dessert:'Desertai',snacks:'Užkandžiai','side-items':'Garnyrai',condiments:'Padažai ir pagardai'};
 
 function libraryRecipe(source) {
@@ -411,18 +473,18 @@ function getRecipe(id) {
     return saved;
   }
   const source=libraryCatalog?.find(item=>item.id===id);
-  if(source)source.pinned=Boolean(findSavedRecipe(source)?.pinned);
+  if(source)source.pinned=isRecipeFavorite(source);
   return source;
 }
 function allLibraryRecipes() {
   const saved=new Map(recipes.map(recipe=>[recipe.url.replace(/\/$/,'').toLowerCase(),recipe]));
   const result=libraryCatalog.map(source=>{
     const recipe=saved.get(source.url.replace(/\/$/,'').toLowerCase());
-    return {...source,pinned:Boolean(recipe?.pinned)};
+    return {...source,pinned:isRecipeFavorite(source)};
   });
   const urls=new Set(result.map(recipe=>recipe.url.replace(/\/$/,'').toLowerCase()));
   for(const recipe of recipes)if(!urls.has(recipe.url.replace(/\/$/,'').toLowerCase()))result.push({...recipe,products:[...new Map(recipe.ingredients.map(item=>[ingredientKey(item.name),{key:ingredientKey(item.name),label:translateIngredient(canonicalIngredientName(item.name))}])).values()]});
-  return result;
+  return result.filter(recipe=>!recipeHasBlockedProduct(recipe));
 }
 async function loadLibraryCatalog() {
   if(libraryLoading)return;
@@ -441,6 +503,7 @@ async function loadLibraryCatalog() {
     }
     if(location.hash.startsWith('#recipe/'))renderDetail(location.hash.slice(8));
     else if(!$('#recipes-view').hidden)renderRecipes();
+    else if(location.hash==='#shopping')renderShopping();
   } catch {
     $('#recipe-grid').innerHTML='<div class="empty">Nepavyko įkelti receptų. <button class="text-button" data-library-retry>Bandyti dar kartą</button></div>';
     if(location.hash.startsWith('#recipe/'))$('#detail-view').innerHTML='<div class="empty">Nepavyko įkelti recepto. <button class="text-button" data-library-retry>Bandyti dar kartą</button></div>';
@@ -488,7 +551,7 @@ if (currentUserId && !userRecipeRefs[currentUserId] && recipes.length) userRecip
 
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
-const mealPlanner = createMealPlanner({ root: $('#discover-view'), settingsSelect: $('#plan-days'), getProfileId: () => currentUserId, showToast, onMenuComplete: addMenuIngredientsToCart, onRebuildCart: rebuildMenuCart, formatIngredients: plannedIngredientLabels, onPortionsChange: applyPortionSettings, isFavorite: source => Boolean(findSavedRecipe(source)?.pinned), toggleFavorite: toggleCatalogFavorite, onOpenRecipe: id=>{recipeReturnRoute='#discover';location.hash=`#recipe/${id}`;} });
+const mealPlanner = createMealPlanner({ root: $('#discover-view'), settingsSelect: $('#plan-days'), getProfileId: () => currentUserId, showToast, onMenuComplete: addMenuIngredientsToCart, onRecipeReplaced: continueBlockedReplacements, onRebuildCart: rebuildMenuCart, formatIngredients: plannedIngredientLabels, onPortionsChange: applyPortionSettings, isFavorite: isRecipeFavorite, toggleFavorite: toggleCatalogFavorite, isRecipeBlocked: recipeHasBlockedProduct, onOpenRecipe: id=>{recipeReturnRoute='#discover';location.hash=`#recipe/${id}`;} });
 
 function applyPortionSettings() {
   recipes.forEach(recipe=>{delete recipe.currentServings;});save();
@@ -524,7 +587,7 @@ function rebuildMenuCart(batches,{profileId,people=1,increase=0}) {
 function cartForMenuRecipes(menuRecipes,initial=[],people=1,increase=0) {
   const next=initial.map(item=>({...item}));
   for(const recipe of menuRecipes)for(const item of scaleRecipeIngredients(recipe,people,increase)) {
-    if(isInPantry(item.name))continue;
+    if(isInPantry(item.name) || isBlockedProduct(item.name))continue;
     const productKey=ingredientKey(item.name);
     if(item.quantity==null && !item.quantityRaw) {
       const same=next.find(entry=>entry.key===productKey && ingredientForm(entry.name)===ingredientForm(item.name) && entry.quantity==null && unitKey(entry.unit)===unitKey(item.unit));
@@ -540,11 +603,15 @@ function findSavedRecipe(source) {
   return recipes.find(recipe=>recipe.url.replace(/\/$/,'').toLowerCase()===key);
 }
 
+function isRecipeFavorite(source) {
+  const saved=findSavedRecipe(source);
+  return saved ? Boolean(saved.pinned) : (userPins[currentUserId] || []).includes(source.url.replace(/\/$/,'').toLowerCase());
+}
 function toggleCatalogFavorite(source) {
   let recipe=findSavedRecipe(source);
   if(!recipe) {
     const categories={breakfast:'Pusryčiai',lunch:'Pietūs',dinner:'Vakarienė',dessert:'Desertai'};
-    recipe={id:crypto.randomUUID(),title:source.title,url:source.url,servings:source.servings || 1,category:categories[source.category] || source.category || 'Kita',image:source.image,originalServings:source.originalServings,ingredients:scaleRecipeIngredients(source,1,0).map(item=>({...item,id:crypto.randomUUID(),group:'',translated:translateIngredient(item.name)})),instructions:source.instructions.map(step=>typeof step==='string' ? step : step.text),pinned:false,savedAt:new Date().toISOString()};
+    recipe={id:crypto.randomUUID(),title:source.title,url:source.url,servings:source.servings || 1,category:categories[source.category] || source.category || 'Kita',image:source.image,originalServings:source.originalServings,ingredients:scaleRecipeIngredients(source,1,0).map(item=>({...item,id:crypto.randomUUID(),group:'',translated:translateIngredient(item.name)})),instructions:source.instructions.map(step=>typeof step==='string' ? step : step.text),pinned:isRecipeFavorite(source),savedAt:new Date().toISOString()};
     recipes.unshift(recipe);
   }
   recipe.pinned=!recipe.pinned;
@@ -596,7 +663,9 @@ function persistActiveUserState() {
   if (!currentUserId) return;
   userRecipes[currentUserId] = recipes;
   userCarts[currentUserId] = cart;
-  userPins[currentUserId] = recipes.filter(recipe => recipe.pinned).map(recipe => recipe.url.replace(/\/$/, '').toLowerCase());
+  const pins=new Set(userPins[currentUserId] || []);
+  for(const recipe of recipes){const url=recipe.url.replace(/\/$/,'').toLowerCase();if(recipe.pinned)pins.add(url);else pins.delete(url);}
+  userPins[currentUserId]=[...pins];
   userPantries[currentUserId] = pantry;
   localStorage.setItem(STORAGE.userRecipes, JSON.stringify(userRecipes));
   localStorage.setItem(STORAGE.userCarts, JSON.stringify(userCarts));
@@ -640,7 +709,7 @@ function migrateLegacyIngredientNames() {
   });
   const consolidated = consolidateCart(cart);
   if (consolidated.changed) { cart = consolidated.items; changed = true; }
-  const neededCart = cart.filter(item => !isInPantry(item.name));
+  const neededCart = cart.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name));
   if (neededCart.length !== cart.length) { cart = neededCart; changed = true; }
   if (changed) save();
 }
@@ -930,7 +999,7 @@ async function hydrateMissingImages() {
 }
 
 function updateCounts() {
-  $('#cart-count').textContent = cart.length;
+  $('#cart-count').textContent = new Set(cart.map(item=>shoppingProductKey(item.name))).size;
   $('#pantry-count').textContent = pantry.length;
   $('#recipe-count').textContent = libraryCatalog ? `${allLibraryRecipes().length} receptų` : '';
   const user = users.find(item => item.id === currentUserId);
@@ -952,7 +1021,9 @@ function syncStore() {
 }
 
 async function applySyncedStore(store) {
-  applyingRemoteStore = true; let cartConsolidated = false;
+  applyingRemoteStore = true;
+  try {
+  let cartConsolidated = false;
   users = store.users || [];
   if (currentUserId && !users.some(item => item.id === currentUserId)) { currentUserId = ''; localStorage.removeItem(STORAGE.currentUser); }
   userCarts = {};
@@ -996,14 +1067,13 @@ async function applySyncedStore(store) {
   if (currentUserId) loadActiveUserState(currentUserId);
   else cart = [];
   localStorage.setItem(STORAGE.dictionary, JSON.stringify(customTranslations)); save(); applyingRemoteStore = false;
-  for (const reference of batchImportInProgress ? [] : (recipeRefs[currentUserId] || [])) {
-    if (recipes.some(recipe => recipe.url.replace(/\/$/, '').toLowerCase() === reference.url.replace(/\/$/, '').toLowerCase())) continue;
-    try {
-      const recipe = await fetchRecipe(reference.url); applyingRemoteStore = true; recipes.push(recipe); userRecipes[currentUserId] = recipes; save(); applyingRemoteStore = false; renderRecipes();
-    } catch { showToast('Vieno recepto nepavyko parsiųsti į šį telefoną'); }
-  }
+  // The app already contains the recipe text. Do not hold sync open for external imports.
+  if(!libraryCatalog)void loadLibraryCatalog();
   if (cartConsolidated) syncEngine?.changed();
   route({ preserveScroll: true }); updateCounts();
+  } finally {
+    applyingRemoteStore=false;
+  }
 }
 
 function renderUsers() {
@@ -1084,15 +1154,16 @@ function recipeAmount(item, servings, originalServings) {
 
 function renderDetail(id, servingsOverride) {
   const recipe = getRecipe(id); if (!recipe) {if(!libraryCatalog){$('#detail-view').innerHTML='<div class="empty">Kraunamas receptas…</div>';void loadLibraryCatalog();return;}location.hash='#recipes';return;}
-  const localized=recipeLanguage==='lt' ? recipe.translations?.lt : null;
-  const title=localized?.title || recipe.title;
-  const steps=localized?.instructions || recipe.instructions;
+  if(!recipe.translations?.lt && !libraryCatalog){$('#detail-view').innerHTML='<div class="empty">Kraunamas lietuviškas receptas…</div>';void loadLibraryCatalog();return;}
+  const localized=recipe.translations?.lt;
+  const title=localized?.title || 'Išsaugotas receptas';
+  const steps=localized?.instructions || [];
   activeRecipeId = id;
   const servings = servingsOverride || recipe.currentServings || mealPlanner.portions().people;
   recipe.currentServings = servings; save();
   const groups = [...new Set(recipe.ingredients.map(item => item.group).filter(Boolean))];
   const ingredientsHtml = (groups.length ? groups : ['']).map(group => `
-    ${group ? `<h3>${escapeHtml(group)}</h3>` : ''}
+    ${group ? `<h3>${escapeHtml(({filling:'Įdaras',dough:'Tešla',topping:'Priedai',sauce:'Padažas',crust:'Pagrindas',frosting:'Kremas',salad:'Salotos',dressing:'Padažas'})[group.toLowerCase()] || 'Ingredientai')}</h3>` : ''}
     <div class="ingredients">${recipe.ingredients.filter(i => groups.length ? i.group === group : true).map(item => `
       <label class="ingredient">
         <input type="checkbox" data-ingredient="${item.id}" checked />
@@ -1101,15 +1172,14 @@ function renderDetail(id, servingsOverride) {
       </label>`).join('')}</div>`).join('');
   $('#detail-view').innerHTML = `
     <button class="back" data-back>${recipeReturnRoute==='#discover' ? '← Grįžti į meniu' : recipeReturnRoute==='#shopping' ? '← Grįžti į pirkinius' : '← Visi receptai'}</button>
-    <div class="recipe-languages" role="group" aria-label="Pavadinimo ir gaminimo kalba"><button type="button" data-recipe-language="en" aria-pressed="${recipeLanguage==='en'}">English · originalas</button><button type="button" data-recipe-language="lt" aria-pressed="${recipeLanguage==='lt'}">Lietuviškai</button></div>
-    ${recipeLanguage==='lt' && !localized ? '<p class="portion-note" role="status">Šio recepto lietuviškas vertimas dar ruošiamas. Kol kas rodomas originalas.</p>' : ''}
+    ${recipeHasBlockedProduct(recipe) ? '<p class="status error">Šiame recepte yra užblokuotų produktų. Jo nebesiūlysime; meniu patiekalą galite pakeisti.</p>' : ''}
     <header class="detail-header">
-      <div><p class="eyebrow">Receptas</p><h1 lang="${localized ? 'lt' : 'en'}">${escapeHtml(title)}</h1><div class="detail-actions"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a><button class="detail-action" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button><button class="detail-action" data-share-recipe="${recipe.id}">Bendrinti</button><button class="detail-action" data-toggle-favorite="${recipe.id}" aria-pressed="${Boolean(recipe.pinned)}">${recipe.pinned ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button></div></div>
+      <div><p class="eyebrow">Receptas</p><h1 lang="lt">${escapeHtml(title)}</h1><div class="detail-actions"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener">Atidaryti originalą ↗</a><button class="detail-action" data-copy-url="${escapeHtml(recipe.url)}">Kopijuoti nuorodą</button><button class="detail-action" data-share-recipe="${recipe.id}">Bendrinti</button><button class="detail-action" data-toggle-favorite="${recipe.id}" aria-pressed="${Boolean(recipe.pinned)}">${recipe.pinned ? '♥ Mėgstamas receptas' : '♡ Pridėti prie mėgstamų'}</button></div></div>
       <div class="portion-box"><label for="recipe-servings">Porcijų skaičius</label><div class="stepper"><button data-step="-1" aria-label="Mažiau porcijų" ${servings<=1 ? 'disabled' : ''}>−</button><input id="recipe-servings" data-recipe-servings type="number" min="1" max="99" step="1" value="${servings}" inputmode="numeric" aria-label="Porcijų skaičius"><button data-step="1" aria-label="Daugiau porcijų" ${servings>=99 ? 'disabled' : ''}>+</button></div><p class="portion-note" aria-live="polite">Ingredientų kiekiai: ${servings} porc. Porcijos padidinimas: +${mealPlanner.portions().increase} %.</p></div>
     </header>
     <div class="detail-columns">
       <section><div class="ingredient-title"><h2>Ingredientai</h2><button class="text-button" data-toggle>Atžymėti visus</button></div>${ingredientsHtml}<button class="primary dark" data-add-cart>Pridėti pažymėtus į pirkinius</button></section>
-      <section><p class="eyebrow">Gaminimas</p><h2>Instrukcija</h2><p class="portion-note">Naudokite ingredientų sąraše pagal ${servings} ${servings===1 ? 'asmenį' : 'asmenis'} perskaičiuotus kiekius. Instrukcijoje paminėti kiekiai yra iš originalaus recepto.</p><div class="instructions" lang="${localized ? 'lt' : 'en'}">${steps.length ? steps.map(step => `<div class="instruction">${escapeHtml(step)}</div>`).join('') : '<p class="muted">Instrukciją rasite originaliame recepte.</p>'}</div></section>
+      <section><p class="eyebrow">Gaminimas</p><h2>Instrukcija</h2><p class="portion-note">Naudokite ingredientų sąraše pagal ${servings} ${servings===1 ? 'asmenį' : 'asmenis'} perskaičiuotus kiekius. Instrukcijoje paminėti kiekiai yra iš originalaus recepto.</p><div class="instructions" lang="lt">${steps.length ? steps.map(step => `<div class="instruction">${escapeHtml(step)}</div>`).join('') : '<p class="muted">Instrukciją rasite originaliame recepte.</p>'}</div></section>
     </div>`;
 }
 
@@ -1117,7 +1187,7 @@ function addSelectedToCart() {
   const recipe = getRecipe(activeRecipeId); if (!recipe) return;
   const servings = recipeTargetServings(recipe);
   const selected = $$('[data-ingredient]:checked', $('#detail-view')).map(input => recipe.ingredients.find(item => item.id === input.dataset.ingredient)).filter(Boolean);
-  const needed = selected.filter(item => !isInPantry(item.name));
+  const needed = selected.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name));
   needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
     const existing = cart.find(entry => entry.key === key && unitKey(entry.unit) === unitKey(item.unit));
@@ -1131,7 +1201,7 @@ function addSelectedToCart() {
 
 function addRecipeToCart(recipe, items = recipe.ingredients) {
   const servings = recipeTargetServings(recipe);
-  const needed = items.filter(item => !isInPantry(item.name));
+  const needed = items.filter(item => !isInPantry(item.name) && !isBlockedProduct(item.name));
   needed.forEach(item => {
     const key = ingredientKey(item.name); const scaled = item.quantity == null ? null : item.quantity * servings / recipe.servings;
     const existing = cart.find(entry => entry.key === key && unitKey(entry.unit) === unitKey(item.unit));
@@ -1177,16 +1247,16 @@ function shoppingAmount(item) {
 function shoppingSourcesHtml(item) {
   const sources=mergeCartSources(item.sources);
   if(!sources.length)return `<span class="shop-source-note">${item.manual ? 'Pridėta ranka' : 'Pridėta anksčiau – recepto nuoroda neišsaugota'}</span>`;
-  return `<details class="shop-sources"><summary>Receptai (${sources.length})</summary><ul>${sources.map(source=>`<li><a href="#recipe/${encodeURIComponent(source.id)}" data-cart-source="${escapeHtml(source.id)}" data-source-url="${escapeHtml(source.url || '')}">${escapeHtml(source.title)}</a><span>${source.origin==='menu' ? 'Iš suplanuoto meniu' : 'Pridėta iš recepto'}</span></li>`).join('')}${item.manual ? '<li class="shop-source-note">Taip pat pridėta ranka</li>' : ''}</ul></details>`;
+  return `<details class="shop-sources"><summary>Receptai (${sources.length})</summary><ul>${sources.map(source=>`<li><a href="#recipe/${encodeURIComponent(source.id)}" data-cart-source="${escapeHtml(source.id)}" data-source-url="${escapeHtml(source.url || '')}">${escapeHtml(libraryCatalog?.find(recipe=>recipe.url.replace(/\/$/,'').toLowerCase()===(source.url || '').replace(/\/$/,'').toLowerCase())?.title || 'Receptas')}</a><span>${source.origin==='menu' ? 'Iš suplanuoto meniu' : 'Pridėta iš recepto'}</span></li>`).join('')}${item.manual ? '<li class="shop-source-note">Taip pat pridėta ranka</li>' : ''}</ul></details>`;
 }
 function shoppingItemHtml(item) {
   const hideQuantity = hideShoppingQuantity(item);
   return `<div class="shopping-item ${item.done ? 'done' : ''} ${hideQuantity ? 'no-quantity' : ''}">
       <input type="checkbox" data-cart-check="${item.id}" ${item.done ? 'checked' : ''} aria-label="Pažymėti nupirktu" />
-      ${hideQuantity ? '' : `<span class="shop-qty" title="Vienetais perkami kiekiai suapvalinti į didesnę pusę">${escapeHtml(shoppingAmount(item))}</span>`}
-      <div class="shop-name"><span>${escapeHtml(translateIngredient(item.name))}</span>${shoppingSourcesHtml(item)}</div>
-      <button class="have-at-home" data-pantry-from="${item.id}">Visada turiu</button>
-      <button class="remove" data-cart-remove="${item.id}" aria-label="Pašalinti">×</button>
+      ${hideQuantity ? '' : `<span class="shop-qty" title="Vienetais perkami kiekiai suapvalinti į didesnę pusę">${escapeHtml(item.groupAmount ?? shoppingAmount(item))}</span>`}
+      <div class="shop-name"><span>${escapeHtml(item.groupName || translateIngredient(item.name))}</span>${item.variants?.length>1 ? `<span class="shop-variants">${item.variants.map(escapeHtml).join(' · ')}</span>` : ''}${shoppingSourcesHtml(item)}</div>
+      <div class="shop-actions"><button class="have-at-home" data-pantry-from="${item.id}" title="Palaikykite 3 sekundes, kad pridėtumėte prie turimų namuose">Visada turiu</button>
+      <button class="block-product" data-block-product="${item.id}" type="button" title="Palaikykite 3 sekundes, kad užblokuotumėte produktą" aria-label="Užblokuoti produktą: ${escapeHtml(translateIngredient(item.name))}. Palaikykite 3 sekundes" ${isBlockedProduct(item.name) ? 'disabled' : ''}>B</button><button class="remove" data-cart-remove="${item.id}" title="Palaikykite 3 sekundes, kad pašalintumėte" aria-label="Pašalinti produktą. Palaikykite 3 sekundes">×</button></div>
     </div>`;
 }
 
@@ -1237,11 +1307,36 @@ function renderProductSuggestions() {
   panel.hidden = !matches.length;
 }
 
+function shoppingProductKey(name) {
+  const key=ingredientKey(name);
+  if(/\bcauliflower\b/.test(key) || /ziedin.*kopust/.test(searchableText(name)))return 'group:cauliflower';
+  return searchableText(translateIngredient(name));
+}
+function cartGroupItems(id) {
+  const item=cart.find(entry=>entry.id===id);if(!item)return [];
+  const key=shoppingProductKey(item.name);
+  return cart.filter(entry=>shoppingProductKey(entry.name)===key);
+}
+function groupedShoppingItems() {
+  const groups=new Map();
+  for(const item of cart){const key=shoppingProductKey(item.name);if(!groups.has(key))groups.set(key,[]);groups.get(key).push(item);}
+  return [...groups].map(([key,items])=>{
+    const buckets=new Map(),other=[];
+    for(const item of items) {
+      if(!Number.isFinite(item.quantity)){const amount=shoppingAmount(item);if(amount)other.push(amount);continue;}
+      const measure=measurement(item.unit);
+      const bucket=buckets.get(measure.family) || {...item,quantity:0,unit:measure.family==='weight' ? 'gram' : measure.family==='volume' ? 'milliliter' : item.unit};
+      bucket.quantity+=item.quantity*measure.factor;bucket.approximate ||= item.approximate;
+      buckets.set(measure.family,bucket);
+    }
+    return {...items[0],groupName:key==='group:cauliflower' ? 'Žiedinis kopūstas' : translateIngredient(items[0].name),groupAmount:[...[...buckets.values()].map(shoppingAmount),...[...new Set(other)]].filter(Boolean).join(' + '),variants:[...new Set(items.map(item=>translateIngredient(item.name)))],sources:items.reduce((all,item)=>mergeCartSources(all,item.sources),[]),done:items.every(item=>item.done),manual:items.some(item=>item.manual)};
+  });
+}
 function renderShopping() {
   const list = $('#shopping-list');
   if (!cart.length) list.innerHTML = '<div class="empty"><strong>Pirkinių sąrašas tuščias.</strong><br>Atidarykite receptą ir pridėkite reikalingus ingredientus.</div>';
   else {
-    const groups = cart.reduce((result, item) => { (result[shoppingCategory(item)] ||= []).push(item); return result; }, {});
+    const groups = groupedShoppingItems().reduce((result, item) => { (result[shoppingCategory(item)] ||= []).push(item); return result; }, {});
     list.innerHTML = SHOPPING_CATEGORIES.filter(category => groups[category]?.length).map(category => `<section class="shopping-group"><h2 class="shopping-group-title">${category}<span>${groups[category].length}</span></h2><div class="shopping-group-items">${groups[category].map(shoppingItemHtml).join('')}</div></section>`).join('');
   }
   updateCounts();
@@ -1266,7 +1361,7 @@ function renderDictionary() {
   $('#dictionary-summary').textContent = `${dictionaryData.recipesAudited} patikrintų receptų · ${dictionaryData.entries.length} ingredientų${query ? ` · rasta ${entries.length}` : ''}`;
   $('#dictionary-list').innerHTML = entries.length ? entries.map(entry => `
     <label class="dictionary-row">
-      <span><strong>${escapeHtml(entry.english)}</strong><small>${entry.count} receptuose${entry.variants?.length ? ` · ${escapeHtml(entry.variants.slice(0, 2).join(' / '))}` : ''}</small></span>
+      <span><strong>${escapeHtml(dictionaryValue(entry) || translateIngredient(entry.english))}</strong><small>${entry.count} receptuose</small></span>
       <input data-dictionary-input="${escapeHtml(entry.key)}" value="${escapeHtml(dictionaryValue(entry))}" placeholder="Įrašykite lietuvišką vertimą" />
       <button type="button" class="dictionary-reset" data-dictionary-reset="${escapeHtml(entry.key)}" aria-label="Atstatyti vertimą">↺</button>
     </label>`).join('') : '<div class="empty">Nieko nerasta.</div>';
@@ -1294,7 +1389,7 @@ function route(options = {}) {
   mealPlanner.setActive(hash === '#discover',{preserveSelection:Boolean(detailMatch)});
   if (hash === '#discover') { $('#discover-view').hidden = false; }
   else if (detailMatch) { $('#detail-view').hidden = false; renderDetail(detailMatch[1]); }
-  else if (hash === '#shopping') { $('#shopping-view').hidden = false; renderShopping(); }
+  else if (hash === '#shopping') { $('#shopping-view').hidden = false; renderShopping();if(!libraryCatalog)void loadLibraryCatalog(); }
   else { $('#recipes-view').hidden = false; renderRecipes(); }
   if (preserveScroll) requestAnimationFrame(() => scrollTo({ top: previousScroll, behavior: 'instant' }));
   else scrollTo({ top: 0, behavior: 'instant' });
@@ -1313,7 +1408,8 @@ function clearSharedRecipeQuery() {
 
 async function shareRecipe(recipe) {
   const deepLink = `${APP_URL}?recipe=${encodeURIComponent(recipe.url)}#recipes`;
-  const data = { title: recipe.title, text: `Keto receptas: ${recipe.title}`, url: deepLink };
+  const title=recipe.translations?.lt?.title || libraryCatalog?.find(item=>item.url===recipe.url)?.title || 'Keto receptas';
+  const data = { title, text: `Keto receptas: ${title}`, url: deepLink };
   try {
     if (navigator.share) await navigator.share(data);
     else { await navigator.clipboard.writeText(deepLink); showToast('Bendrinimo nuoroda nukopijuota'); }
@@ -1323,33 +1419,29 @@ async function shareRecipe(recipe) {
 }
 
 function cancelPantryHold() {
-  if (!pantryHold) return;
-  clearTimeout(pantryHold.timeout); clearInterval(pantryHold.interval);
-  if (pantryHold.button.isConnected) {
-    pantryHold.button.classList.remove('holding');
-    pantryHold.button.textContent = 'Visada turiu';
-  }
-  pantryHold = null;
+  if(!pantryHold)return;
+  clearTimeout(pantryHold.timeout);clearInterval(pantryHold.interval);
+  pantryHold.button.classList.remove('holding');pantryHold.button.textContent=pantryHold.label;pantryHold=null;
 }
-
-function startPantryHold(button, event) {
-  cancelPantryHold();
-  const startedAt = Date.now();
-  button.classList.add('holding'); button.textContent = 'Laikykite 2 s';
-  button.setPointerCapture?.(event.pointerId);
-  const state = { button, pointerId: event.pointerId, startX: event.clientX, startY: event.clientY };
-  state.interval = setInterval(() => {
-    const remaining = Math.max(1, Math.ceil((2000 - (Date.now() - startedAt)) / 1000));
-    if (button.isConnected) button.textContent = `Laikykite ${remaining} s`;
-  }, 150);
-  state.timeout = setTimeout(() => {
-    const item = cart.find(entry => entry.id === button.dataset.pantryFrom);
-    clearInterval(state.interval); pantryHold = null;
-    if (item && addToPantry(item.name, translateIngredient(item.name))) {
-      renderShopping(); showToast('Pridėta prie turimų namuose');
-    }
-  }, 2000);
-  pantryHold = state;
+function startPantryHold(button,event) {
+  if(pantryHold || button.disabled)return;
+  cancelProductBlock();
+  const remove=button.hasAttribute('data-cart-remove'),label=remove ? '×' : 'Visada turiu';
+  const state={button,label,remove,owner:currentUserId,pointerId:event.pointerId,startX:event.clientX,startY:event.clientY,started:Date.now()};
+  pantryHold=state;button.classList.add('holding');button.textContent=remove ? '3' : 'Laikykite 3 s';
+  if(event.pointerId!==undefined)button.setPointerCapture?.(event.pointerId);
+  state.interval=setInterval(()=>{
+    const remaining=Math.max(1,Math.ceil((3000-(Date.now()-state.started))/1000));
+    button.textContent=remove ? String(remaining) : 'Laikykite '+remaining+' s';
+  },100);
+  state.timeout=setTimeout(()=>{
+    const item=cart.find(entry=>entry.id===(remove ? button.dataset.cartRemove : button.dataset.pantryFrom));
+    cancelPantryHold();if(state.owner!==currentUserId || !item)return;
+    const members=cartGroupItems(item.id),ids=new Set(members.map(entry=>entry.id));
+    if(!remove)for(const entry of members)addToPantry(entry.name,translateIngredient(entry.name));
+    cart=cart.filter(entry=>!ids.has(entry.id));save();syncEngine?.syncNow();renderShopping();
+    showToast(remove ? 'Produktas pašalintas iš krepšelio' : 'Pridėta prie turimų namuose');
+  },3000);
 }
 
 $('#manual-cart-form').addEventListener('submit', event => {
@@ -1382,7 +1474,7 @@ $('#product-suggestions').addEventListener('pointerdown', event => {
 
 $('#manage-pantry').addEventListener('click', () => { renderPantry(); $('#pantry-dialog').showModal(); });
 $('.pantry-close').addEventListener('click', () => $('#pantry-dialog').close());
-$('#manage-dictionary').addEventListener('click', () => { mealPlanner.syncSettings(); $('#settings-dialog').showModal(); });
+$('#manage-dictionary').addEventListener('click', () => { mealPlanner.syncSettings(); renderBlockedProducts(); $('#settings-dialog').showModal(); });
 $('.settings-close').addEventListener('click', () => $('#settings-dialog').close());
 $('#open-dictionary').addEventListener('click', async () => {
   $('#settings-dialog').close();
@@ -1444,11 +1536,18 @@ window.addEventListener('appinstalled', () => {
 
 document.addEventListener('click', event => {
   const target = event.target.closest('button'); if (!target) return;
-  if(target.matches('[data-recipe-language]')) {
-    recipeLanguage=target.dataset.recipeLanguage==='lt' ? 'lt' : 'en';
-    if(!libraryCatalog){void loadLibraryCatalog();return;}
-    renderDetail(activeRecipeId,getRecipe(activeRecipeId)?.currentServings);
+  if(target.matches('#blocked-meals-close,#blocked-meals-later'))$('#blocked-meals-dialog').close();
+  if(target.matches('[data-replace-blocked-meal]')) {
+    const slot=blockedMealChoices[Number(target.dataset.replaceBlockedMeal)];if(!slot)return;
+    $('#blocked-meals-dialog').close();location.hash='#discover';
+    void mealPlanner.replacePlanned(slot);
   }
+  if(target.matches('[data-block-product]'))event.preventDefault();
+  if(target.matches('[data-unblock-product]')) {
+    try{saveBlockedProducts(blockedProducts().filter(item=>item.key!==target.dataset.unblockProduct));renderBlockedProducts();mealPlanner.render();if(!$('#recipes-view').hidden)renderRecipes();showToast('Produktas atblokuotas');}
+    catch{showToast('Nepavyko išsaugoti pakeitimo.');}
+  }
+
   if(target.matches('#library-clear-products')) {
     pantry=[];libraryAvailability=false;libraryLimit=48;
     $('#library-owned').open=false;
@@ -1489,7 +1588,7 @@ document.addEventListener('click', event => {
   if (target.matches('[data-step]')) { const recipe = getRecipe(activeRecipeId); const next = Math.min(99,Math.max(1, (recipe.currentServings || mealPlanner.portions().people) + Number(target.dataset.step))); renderDetail(recipe.id, next); }
   if (target.matches('[data-toggle]')) { const boxes = $$('[data-ingredient]'); const anyChecked = boxes.some(box => box.checked); boxes.forEach(box => box.checked = !anyChecked); target.textContent = anyChecked ? 'Pažymėti visus' : 'Atžymėti visus'; }
   if (target.matches('[data-add-cart]')) addSelectedToCart();
-  if (target.matches('[data-cart-remove]')) { cart = cart.filter(item => item.id !== target.dataset.cartRemove); save(); syncEngine?.syncNow(); renderShopping(); }
+  if(target.matches('[data-cart-remove],[data-pantry-from]'))event.preventDefault();
   if (target.matches('#clear-cart') && cart.length && confirm('Išvalyti visą pirkinių sąrašą?')) { cart = []; save(); syncEngine?.syncNow(); renderShopping(); }
 });
 
@@ -1508,7 +1607,7 @@ document.addEventListener('change', event => {
     } else pantry=pantry.filter(item=>item.key!==input.dataset.libraryProduct);
     save();syncEngine?.syncNow();libraryLimit=48;renderRecipes();
   }
-  if (event.target.matches('[data-cart-check]')) { const item = cart.find(i => i.id === event.target.dataset.cartCheck); if (item) item.done = event.target.checked; save(); syncEngine?.syncNow(); renderShopping(); }
+  if (event.target.matches('[data-cart-check]')) { const item = cart.find(i => i.id === event.target.dataset.cartCheck); if(item)for(const member of cartGroupItems(item.id))member.done=event.target.checked; save(); syncEngine?.syncNow(); renderShopping(); }
   if (event.target.matches('[data-dictionary-input]')) {
     const key = event.target.dataset.dictionaryInput; const value = event.target.value.trim();
     if (value) customTranslations[key] = value; else delete customTranslations[key];
@@ -1517,6 +1616,8 @@ document.addEventListener('change', event => {
 });
 
 document.addEventListener('pointerdown', event => {
+  const blockButton=event.target.closest('[data-block-product]');
+  if(blockButton && event.button===0){event.preventDefault();cancelPantryHold();startProductBlock(blockButton,event);return;}
   const button = event.target.closest('[data-pantry-from]');
   if (!button) return;
   event.preventDefault(); startPantryHold(button, event);
@@ -1525,9 +1626,15 @@ document.addEventListener('pointermove', event => {
   if (!pantryHold || event.pointerId !== pantryHold.pointerId) return;
   if (Math.hypot(event.clientX - pantryHold.startX, event.clientY - pantryHold.startY) > 35) cancelPantryHold();
 });
-document.addEventListener('pointerup', event => { if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
-document.addEventListener('pointercancel', event => { if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
-document.addEventListener('contextmenu', event => { if (event.target.closest('[data-pantry-from]')) event.preventDefault(); });
+document.addEventListener('pointerup', event => { if (productBlockHold?.pointerId===event.pointerId)cancelProductBlock();if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
+document.addEventListener('pointercancel', event => {if(productBlockHold?.pointerId===event.pointerId)cancelProductBlock(); if (pantryHold?.pointerId === event.pointerId) cancelPantryHold(); });
+document.addEventListener('contextmenu', event => { if (event.target.closest('[data-pantry-from],[data-cart-remove],[data-block-product]')) event.preventDefault(); });
+document.addEventListener('pointermove',event=>{const state=productBlockHold;if(state?.pointerId===event.pointerId && Math.hypot(event.clientX-state.x,event.clientY-state.y)>25)cancelProductBlock();});
+document.addEventListener('keydown',event=>{const button=event.target.closest('[data-block-product]');if(button && [' ','Enter'].includes(event.key)){event.preventDefault();if(!event.repeat)startProductBlock(button,event);}});
+document.addEventListener('keyup',event=>{if([' ','Enter'].includes(event.key) && productBlockHold?.pointerId===undefined)cancelProductBlock();});
+document.addEventListener('focusout',event=>{if(event.target===productBlockHold?.button)cancelProductBlock();});
+window.addEventListener('blur',cancelProductBlock);
+document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelProductBlock();});
 
 window.addEventListener('hashchange', route);
 if ('serviceWorker' in navigator) {
@@ -1536,7 +1643,7 @@ if ('serviceWorker' in navigator) {
     if (reloadingForUpdate) return; reloadingForUpdate = true; location.reload();
   });
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=74', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=84', { updateViaCache: 'none' });
     registration.update();
   });
 }
@@ -1555,3 +1662,9 @@ if(location.hash==='#add')history.replaceState(null,'',location.pathname+locatio
 route();
 hydrateMissingImages();
 if (hasSession()) syncEngine.start(); else requireLogin();
+
+document.addEventListener('keydown',event=>{const button=event.target.closest('[data-pantry-from],[data-cart-remove]');if(button && [' ','Enter'].includes(event.key)){event.preventDefault();if(!event.repeat)startPantryHold(button,event);}});
+document.addEventListener('keyup',event=>{if([' ','Enter'].includes(event.key) && pantryHold?.pointerId===undefined)cancelPantryHold();});
+document.addEventListener('focusout',event=>{if(event.target===pantryHold?.button)cancelPantryHold();});
+window.addEventListener('blur',cancelPantryHold);
+document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelPantryHold();});
