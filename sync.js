@@ -1,4 +1,5 @@
-const API = 'https://mano-keto-sync.gailius-besusparis.chatgpt.site/api';
+const LOCAL_PREVIEW=['127.0.0.1','localhost','[::1]'].includes(location.hostname) && location.port==='4173';
+const API = LOCAL_PREVIEW ? `${location.origin}/api` : 'https://mano-keto-sync.gailius-besusparis.chatgpt.site/api';
 const AUTH_KEY = 'keto-auth-v1';
 const QUEUE_KEY = 'keto-sync-operations-v1';
 const REVISIONS_KEY = 'keto-sync-revisions-v1';

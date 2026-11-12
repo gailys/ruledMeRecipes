@@ -280,3 +280,38 @@ body.is-swiping {height:100dvh;min-height:0;overflow:hidden;overscroll-behavior:
 .day-calorie-summary {grid-column:1 / -1;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px 16px;padding:12px 15px;margin-top:5px;border:1px solid #d4ddc6;border-radius:12px;background:#edf1e4;color:var(--green);font-size:12px}
 .day-calorie-summary strong {font-size:19px;white-space:nowrap}
 .day-calorie-summary small {flex-basis:100%;font-size:11px;line-height:1.4;color:var(--muted)}
+
+.household-settings fieldset {min-width:0;margin:14px 0;padding:12px;border:1px solid var(--line);border-radius:12px}
+.household-settings legend {padding:0 6px;font-weight:750;color:var(--green)}
+.household-settings p {font-size:12px;line-height:1.5;color:var(--muted)}
+.household-settings input {padding:10px;margin-bottom:8px}
+.household-meals {display:flex;flex-wrap:wrap;gap:6px 12px;margin:10px 0}
+.household-settings .household-meals label {display:flex;align-items:center;gap:6px;margin:0;font-size:12px}
+.household-meals input[type=checkbox] {width:18px;height:18px;margin:0;accent-color:var(--green)}
+.household-day-summary {grid-column:1/-1;display:grid;gap:7px}
+.person-recipe-portion {display:flex;flex-direction:column;gap:4px;border-top:1px solid var(--line);padding:9px 0;font-size:12px}
+
+.settings-dialog.is-household-setup .settings-content > :not(h2):not(#household-form) {display:none}
+.settings-dialog.is-household-setup .household-settings {margin-top:18px;border-top:0}
+
+.day-carb-summary {padding:8px 12px;border-radius:9px;background:#edf1e4;color:var(--green);font-size:14px;line-height:1.4}
+
+.household-day-summary {display:flex;flex-wrap:wrap;gap:5px 14px;margin-top:5px}
+.day-carb-summary {padding:3px 0;background:none;border-radius:0;font-size:10px;line-height:1.3;color:var(--muted)}
+
+.extend-menu {align-items:center;flex-wrap:wrap;gap:12px}
+.menu-clear-button {flex:none;background-image:linear-gradient(90deg,#f2ddd8,#f2ddd8);background-position:left;background-repeat:no-repeat;background-size:0 100%;color:#98665f;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+.menu-clear-button.holding {animation:pantry-hold-progress 1s linear forwards}
+.is-swiping .menu-clear-button {align-self:center;margin:5px 0 0;padding:5px 10px;min-height:28px;font-size:10px}
+
+#household-identity {border:0;padding:0;margin:0;min-width:0}
+.settings-dialog.is-household-setup #household-identity,.settings-dialog.is-household-setup #household-form > small {display:none}
+.settings-dialog.is-household-setup .household-recipe-filters {margin-top:0;border-top:0;padding-top:0}
+
+#recipe-setup-form .eyebrow {margin:0 0 12px}
+#recipe-setup-title {margin:0 0 22px}
+#recipe-setup-form .recipe-setup-options {margin:0 0 22px;padding:0;border:0}
+#recipe-setup-form select {margin:0 0 24px;min-height:46px}
+#recipe-setup-form .reminder-toggle {gap:18px;margin-bottom:10px}
+#recipe-setup-form .reminder-toggle strong {line-height:1.5}
+#recipe-setup-form > .primary {width:100%;margin:0;white-space:normal}

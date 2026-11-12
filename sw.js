@@ -1,6 +1,6 @@
-const CACHE = 'mano-keto-v88';
-const PORTION_ASSET='./recipe-portions.mjs?v=88';
-const ASSETS = ['./', './index.html', './styles.css?v=88', './meal-planner.css?v=88', './app.js?v=88', './sync.js?v=88', './meal-planner.js?v=88', './planner-state.mjs?v=88', './data/planner/recipes.json', './data/library/recipes.json', './ingredient-dictionary.json', './product-translations.mjs?v=88', './keto-classification.mjs?v=88', './manifest.webmanifest', './icons/cupcake.svg', './icons/cupcake-192.png', './icons/cupcake-512.png', './icons/apple-touch-icon-cupcake.png', './icons/icon-192.png', './icons/icon-512.png'];
+const CACHE = 'mano-keto-v122';
+const PORTION_ASSET='./recipe-portions.mjs?v=122';
+const ASSETS = ['./', './index.html', './styles.css?v=122', './meal-planner.css?v=122', './app.js?v=122', './sync.js?v=122', './meal-planner.js?v=122', './planner-state.mjs?v=122', './data/planner/recipes.json', './data/library/recipes.json', './ingredient-dictionary.json', './product-translations.mjs?v=122', './household-portions.mjs?v=122', './keto-classification.mjs?v=122', './manifest.webmanifest', './icons/cupcake.svg', './icons/cupcake-192.png', './icons/cupcake-512.png', './icons/apple-touch-icon-cupcake.png', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', event => event.waitUntil(caches.open(CACHE).then(cache => cache.addAll([...ASSETS,PORTION_ASSET])).then(() => self.skipWaiting())));
 self.addEventListener('activate', event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch', event => {

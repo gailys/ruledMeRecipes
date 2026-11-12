@@ -9,8 +9,8 @@
     <link rel="icon" type="image/svg+xml" href="./icons/cupcake.svg" />
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/cupcake-192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon-cupcake.png" />
-    <link rel="stylesheet" href="./styles.css?v=88" />
-    <link rel="stylesheet" href="./meal-planner.css?v=88" />
+    <link rel="stylesheet" href="./styles.css?v=122" />
+    <link rel="stylesheet" href="./meal-planner.css?v=122" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -19,7 +19,7 @@
         <span class="brand-mark"><img src="./icons/cupcake.svg" alt="" /></span>
         <span>Mano keto</span>
       </a>
-      <nav aria-label="Pagrindinis meniu">
+      <nav aria-label="Pagrindinis meniu" hidden>
         <a href="#discover" data-nav="discover">Meniu</a>
         <a href="#recipes" data-nav="recipes">Receptai</a>
         <a href="#shopping" data-nav="shopping">Pirkiniai <span id="cart-count" class="count">0</span></a>
@@ -32,7 +32,7 @@
 
     <main>
       <section id="discover-view" class="view" hidden aria-label="Meniu kūrėjas"></section>
-      <section id="recipes-view" class="view">
+      <section id="recipes-view" class="view" hidden>
         <div class="library-heading">
           <div><h1>Visi receptai</h1></div>
           <span id="recipe-count" class="muted"></span>
@@ -65,7 +65,7 @@
       <section id="shopping-view" class="view" hidden>
         <div class="shopping-head">
           <div><p class="eyebrow">Pirkinių krepšelis</p><h1>Ko reikės</h1></div>
-          <div class="shopping-actions"><button id="manage-pantry" class="pantry-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button">Išvalyti sąrašą</button></div>
+          <div class="shopping-actions"><button id="manage-pantry" class="pantry-button ui-button">Turimi namuose <span id="pantry-count">0</span></button><button id="clear-cart" class="text-button ui-button">Išvalyti sąrašą</button></div>
         </div>
         <p class="shopping-note">Panašūs produktai sujungiami. Prieš apsipirkdami galite pataisyti pavadinimą ar kiekį.</p>
         <p class="shopping-note">Vienetais perkami produktai suapvalinami į didesnę pusę. Prie produkto rasite jį naudojančius receptus.</p>
@@ -109,7 +109,36 @@
       <div class="settings-content">
         <h2>Nustatymai</h2>
         <p>Pasirinkite, ką norite pakeisti.</p>
-        <div class="planner-setting portion-settings">
+        <button id="open-dictionary" class="settings-option" type="button">
+          <span class="settings-option-icon" aria-hidden="true">Aa</span>
+          <span><strong>Ingredientų vertimai</strong><small>Peržiūrėti ir taisyti produktų pavadinimus</small></span>
+          <span class="settings-option-arrow" aria-hidden="true">›</span>
+        </button>
+      </div>
+    </dialog>
+
+    <dialog id="profile-settings-dialog" class="add-dialog settings-dialog"><button type="button" class="dialog-close profile-settings-close" aria-label="Uždaryti">×</button><div class="settings-content"><h2>Profilio nustatymai</h2>
+        <form id="household-form" class="planner-setting household-settings">
+          <fieldset id="household-identity">
+          <label for="profile-name">Šeimos vardas<input id="profile-name" type="text" required maxlength="40"></label>
+          <h3>Šeimos nariai</h3>
+          <p>Kiekvienam įrašykite savo pasirinktą dienos kalorijų tikslą ir pažymėkite, kuriuos valgymus valgo. Vienam žmogui skiriama individuali porcija.</p>
+          <div id="household-members"></div>
+          <button type="button" class="text-button" id="household-add">＋ Pridėti asmenį</button>
+          </fieldset>
+        <div class="planner-setting household-recipe-filters">
+          <h3>Receptų atranka</h3>
+          <label for="plan-max-minutes"><strong>Greiti receptai</strong><span>Didžiausias bendras gaminimo laikas braukimo pasiūlymuose.</span></label>
+          <select id="plan-max-minutes"><option value="0">Laiko neriboti</option><option value="15">Iki 15 min.</option><option value="20">Iki 20 min.</option><option value="30">Iki 30 min.</option><option value="45">Iki 45 min.</option><option value="60">Iki 60 min.</option><option value="90">Iki 90 min.</option></select>
+          <label class="reminder-toggle" for="plan-very-low-carb"><strong>Tik labai mažai angliavandenių turintys receptai</strong><input id="plan-very-low-carb" type="checkbox" role="switch"></label>
+          <small>Atrenkami pažymėti receptai, turintys iki 5 g neto angliavandenių bazinėje porcijoje. Ingredientų kiekius didinant pagal kalorijų tikslą, didėja ir angliavandeniai. Faktinis jų kiekis bei ribos viršijimas rodomi dienos suvestinėje.</small>
+          <small>Abu filtrai taikomi kartu ir keičiant receptą meniu. Jei reikalingų duomenų nėra, receptas su įjungtu filtru nesiūlomas. Jau pasirinkti patiekalai lieka meniu. Ši atranka negarantuoja ketozės.</small>
+        </div>
+          <p class="status" id="household-status" role="status"></p>
+          <button class="primary dark" type="submit">Išsaugoti šeimą</button>
+          <small>Pradinės 2000 kcal reikšmės yra redaguojamas pavyzdys, ne individuali rekomendacija. Ingredientų kiekiai apskaičiuojami pagal kiekvieno asmens kalorijų tikslą ir valgomus patiekalus.</small>
+        </form>
+        <div class="planner-setting portion-settings" hidden>
           <label for="plan-people"><strong>Kiek žmonių valgys?</strong><span>Vienam žmogui skiriama viena kiekvieno patiekalo bazinė porcija.</span></label>
           <input id="plan-people" type="number" min="1" max="99" step="1" value="1" required>
           <label for="plan-portion-increase"><strong>Porcijos padidinimas (%)</strong><span>Pvz., 20 reiškia 20 % didesnę porciją kiekvienam žmogui ir visiems patiekalams.</span></label>
@@ -118,32 +147,21 @@
           <small>Produktai be skaitinio kiekio neperskaičiuojami. Gaminimo instrukcijos ir laikas lieka iš originalaus recepto.</small>
         </div>
         <div class="planner-setting">
-          <label for="plan-days"><strong>Kelioms dienoms renkame meniu?</strong><span>Kiekvienai dienai: pusryčiai, pietūs, vakarienė ir desertas.</span></label>
+          <label for="plan-days"><strong>Kelioms dienoms renkame meniu?</strong><span>Siūlomi tik šeimos narių pasirinkti valgymai.</span></label>
           <select id="plan-days" name="plan-days">
             <option value="1">1 dienai</option><option value="2">2 dienoms</option><option value="3">3 dienoms</option><option value="4">4 dienoms</option><option value="5">5 dienoms</option><option value="6">6 dienoms</option><option value="7">7 dienoms</option>
           </select>
           <small>Pasirinkimai išsaugomi šiame įrenginyje pagal vartotojo profilį.</small>
+          <label for="plan-start-offset"><strong>Po kiek dienų pradėti naują meniu?</strong><span>0 – šiandien, 1 – rytoj, 2 – poryt. Taikoma iš naujo renkamam meniu.</span></label>
+          <input id="plan-start-offset" type="number" min="0" max="365" step="1" value="1" required>
         </div>
         <button id="restart-plan" class="settings-option" type="button"><span class="settings-option-icon" aria-hidden="true">↻</span><span><strong>Rinktis naują meniu</strong><small>Pradėti receptų atranką iš naujo</small></span><span class="settings-option-arrow" aria-hidden="true">›</span></button>
-        <div class="planner-setting">
-          <label for="plan-max-minutes"><strong>Greiti receptai</strong><span>Didžiausias bendras gaminimo laikas braukimo pasiūlymuose.</span></label>
-          <select id="plan-max-minutes"><option value="0">Laiko neriboti</option><option value="15">Iki 15 min.</option><option value="20">Iki 20 min.</option><option value="30">Iki 30 min.</option><option value="45">Iki 45 min.</option><option value="60">Iki 60 min.</option><option value="90">Iki 90 min.</option></select>
-          <label class="reminder-toggle" for="plan-very-low-carb"><strong>Tik labai mažai angliavandenių turintys receptai</strong><input id="plan-very-low-carb" type="checkbox" role="switch"></label>
-          <small>Atrenkami pažymėti receptai, turintys iki 5 g neto angliavandenių vienoje porcijoje. Tikrinama ir padidinta porcija. Keturi tokie patiekalai sudaro iki 20 g neto angliavandenių per dieną; kitas maistas ir gėrimai į šią sumą neįtraukti.</small>
-          <small>Abu filtrai taikomi kartu ir keičiant receptą meniu. Jei reikalingų duomenų nėra, receptas su įjungtu filtru nesiūlomas. Jau pasirinkti patiekalai lieka meniu. Ši atranka negarantuoja ketozės.</small>
-        </div>
         <div class="planner-setting menu-reminder-setting">
           <label class="reminder-toggle" for="menu-reminder-enabled"><strong>Priminti apie naują meniu</strong><input id="menu-reminder-enabled" type="checkbox" checked role="switch"></label>
           <label for="menu-reminder-days">Parodyti priminimą, kai meniu lieka</label>
           <select id="menu-reminder-days"><option value="1">1 diena</option><option value="2" selected>2 dienos</option><option value="3">3 dienos</option><option value="4">4 dienos</option><option value="5">5 dienos</option><option value="6">6 dienos</option><option value="7">7 dienos</option></select>
           <small>Priminimas rodomas programėlėje ne dažniau kaip kartą per dieną. Jį galima išjungti.</small>
         </div>
-        <button id="clear-plan" class="settings-option clear-plan-option" type="button"><span class="settings-option-icon" aria-hidden="true">×</span><span><strong>Ištrinti visus pasirinktus receptus</strong><small>Išvalyti meniu ir iš naujo pasirinkti laikotarpį bei gamybos pradžią</small></span><span class="settings-option-arrow" aria-hidden="true">›</span></button>
-        <button id="open-dictionary" class="settings-option" type="button">
-          <span class="settings-option-icon" aria-hidden="true">Aa</span>
-          <span><strong>Ingredientų vertimai</strong><small>Peržiūrėti ir taisyti produktų pavadinimus</small></span>
-          <span class="settings-option-arrow" aria-hidden="true">›</span>
-        </button>
         <button id="change-user" class="settings-option" type="button">
           <span class="settings-option-icon user-icon" aria-hidden="true">☺</span>
           <span><strong>Keisti vartotoją</strong><small>Pasirinkti arba sukurti kitą profilį</small></span>
@@ -159,14 +177,26 @@
           <p>Šie produktai nepridedami į pirkinių krepšelį. Receptai su jais lieka siūlomi. Pasirinkimai išsaugomi šiame įrenginyje pagal profilį.</p>
           <div id="ignored-products-list"></div>
         </details>
-      </div>
-    </dialog>
+      </div></dialog>
 
+    <dialog id="recipe-setup-dialog" class="add-dialog settings-dialog" aria-labelledby="recipe-setup-title">
+      <form id="recipe-setup-form" class="settings-content">
+        <p class="eyebrow">3 žingsnis iš 3</p><h2 id="recipe-setup-title">Receptų atranka</h2>
+        <div class="planner-setting recipe-setup-options">
+        <label for="setup-max-minutes"><strong>Didžiausias gaminimo laikas</strong></label>
+        <select id="setup-max-minutes"><option value="0">Laiko neriboti</option><option value="15">Iki 15 min.</option><option value="20">Iki 20 min.</option><option value="30">Iki 30 min.</option><option value="45">Iki 45 min.</option><option value="60">Iki 60 min.</option><option value="90">Iki 90 min.</option></select>
+        <label class="reminder-toggle" for="setup-very-low-carb"><strong>Tik labai mažai angliavandenių turintys receptai</strong><input id="setup-very-low-carb" type="checkbox" role="switch" aria-describedby="setup-carb-help"></label>
+        <small id="setup-carb-help">Iki 5 g neto angliavandenių bazinėje porcijoje. Didinant porcijas, jų kiekis didėja. Šis filtras negarantuoja ketozės.</small>
+        </div>
+        <button type="submit" class="primary dark">Išsaugoti ir rinktis patiekalus</button>
+      </form>
+    </dialog>
     <dialog id="planner-onboarding-dialog" class="add-dialog planner-onboarding-dialog" aria-labelledby="planner-onboarding-title">
       <form id="planner-onboarding-form">
-        <p class="eyebrow">Pradėkime nuo tavęs</p><h2 id="planner-onboarding-title">Kelioms dienoms renkame meniu?</h2>
+        <p class="eyebrow">2 žingsnis iš 3</p><h2 id="planner-onboarding-title">Kelioms dienoms renkame meniu?</h2>
         <p>Pasirink laikotarpį ir kada pradėsi gaminti. Vėliau laikotarpį galėsi pakeisti nustatymuose.</p>
         <label for="first-plan-days">Meniu laikotarpis</label>
+
         <select id="first-plan-days"><option value="1">1 dienai</option><option value="2">2 dienoms</option><option value="3">3 dienoms</option><option value="4">4 dienoms</option><option value="5">5 dienoms</option><option value="6">6 dienoms</option><option value="7">7 dienoms</option></select>
         <label for="first-plan-start-offset">Po kiek dienų prasidės gamyba?</label>
         <input id="first-plan-start-offset" type="number" min="0" max="365" step="1" value="1" required aria-describedby="first-plan-start-date">
@@ -192,7 +222,10 @@
         <span class="auth-logo"><img src="./icons/cupcake.svg" alt="" /></span>
         <h2>Prisijunkite</h2>
         <p>Įveskite bendrą „Mano keto“ slaptažodį.</p>
-        <input id="app-password" type="password" required autocomplete="current-password" placeholder="Slaptažodis" aria-label="Programėlės slaptažodis" />
+        <div class="password-field">
+          <input id="app-password" type="password" required autocomplete="current-password" placeholder="Slaptažodis" aria-label="Programėlės slaptažodis" />
+          <button id="toggle-password" class="password-eye" type="button" aria-label="Rodyti slaptažodį" title="Rodyti slaptažodį" aria-controls="app-password" aria-pressed="false"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/><path class="password-eye-slash" d="m3 3 18 18"/></svg></button>
+        </div>
         <button class="primary" type="submit">Prisijungti</button>
         <p id="login-status" class="status" role="status"></p>
       </form>
@@ -203,11 +236,23 @@
         <h2>Kas naudojasi?</h2>
         <p>Pasirinkite savo profilį arba sukurkite naują.</p>
         <div id="users-list" class="users-list"></div>
-        <form id="user-form" class="pantry-form">
-          <input id="user-name" type="text" required maxlength="40" placeholder="Naujo vartotojo vardas" aria-label="Naujo vartotojo vardas" />
-          <button class="primary" type="submit">Sukurti</button>
-        </form>
+        <button id="users-create" class="primary dark" type="button">Sukurti</button>
         <button id="users-cancel" class="text-button" type="button">Atšaukti</button>
+      </div>
+    </dialog>
+
+    <dialog id="create-household-dialog" class="add-dialog settings-dialog" aria-labelledby="create-household-title">
+      <div class="settings-content">
+        <h2 id="create-household-title">Sukurti šeimos profilį</h2>
+        <form id="user-form" class="household-settings">
+          <label for="user-name">Šeimos vardas<input id="user-name" type="text" required maxlength="40" placeholder="Pvz., mūsų šeima"></label>
+          <label for="new-household-count">Kiek asmenų šeimoje?<input id="new-household-count" type="number" min="1" max="20" step="1" value="1" required></label>
+          <p>Nurodykite kiekvieno nario vardą, dienos kalorijų tikslą ir valgymus. Pagal juos bus skaičiuojamos individualios porcijos. 2000 kcal – tik redaguojamas pavyzdys.</p>
+          <div id="new-household-members"></div>
+          <p id="new-household-status" class="status" role="status"></p>
+          <button class="primary dark" type="submit">Sukurti ir tęsti</button>
+          <button id="create-household-cancel" class="text-button" type="button">Atšaukti</button>
+        </form>
       </div>
     </dialog>
 
@@ -229,6 +274,6 @@
       <button type="button" class="text-button" id="blocked-meals-later">Pakeisiu vėliau</button>
     </dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=88"></script>
+    <script type="module" src="./app.js?v=122"></script>
   </body>
 </html>

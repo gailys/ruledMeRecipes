@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import vm from 'node:vm';
+import {PRODUCT_TRANSLATIONS,INGREDIENT_DETAILS_LT} from '../product-translations.mjs';
+const source=await fs.readFile(new URL('../app.js',import.meta.url),'utf8');
+const context={PRODUCT_TRANSLATIONS,INGREDIENT_DETAILS_LT};
+const functions=source.slice(source.indexOf('function translateIngredient('),source.indexOf('function inferCategory('));
+const keyFunction=source.slice(source.indexOf('function ingredientKey('),source.indexOf('function pantryKeyFromInput('));
+vm.runInNewContext(source.slice(source.indexOf('const translations ='),source.indexOf('// Approximate grams'))+'\nconst customTranslations={};const translationCache=new Map();let translationIndex,customTranslationIndex;\n'+functions+'\n'+keyFunction+'\nglobalThis.translate=translateIngredient;',context);
+const recipes=JSON.parse(await fs.readFile(new URL('../data/portions/recipes.json',import.meta.url),'utf8')).recipes;
+const report=recipes.map(recipe=>({id:recipe.id,url:recipe.url,ingredients:recipe.ingredientsPerServing.map(item=>({original:item.name,lithuanian:context.translate(item.name)}))}));
+await fs.writeFile(new URL('../data/translations/ingredient-audit.json',import.meta.url),JSON.stringify({recipes:recipes.length,detailPhrases:Object.keys(INGREDIENT_DETAILS_LT).length,translationMethod:'machine-assisted-with-culinary-corrections',items:report},null,2)+'\n');
+console.log('Ingredient description archive generated for '+report.length+' recipes.');

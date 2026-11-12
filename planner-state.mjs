@@ -29,7 +29,8 @@ export function restorePlan(value = {}, catalog) {
   const previousMenu = value.activeMenu && typeof value.activeMenu === 'object' ? restorePlan({...value.activeMenu,activeMenu:null,scheduledMenus:[]},catalog) : null;
   const activeMenu = previousMenu && isComplete(previousMenu) && previousMenu.startDate ? previousMenu : null;
   const scheduledMenus = activeMenu && Array.isArray(value.scheduledMenus) ? value.scheduledMenus.filter(menu=>menu && typeof menu==='object').map(menu=>restorePlan({...menu,activeMenu:null,scheduledMenus:[]},catalog)).filter(menu=>isComplete(menu) && menu.startDate) : [];
-  const plan = { id: typeof value.id === 'string' ? value.id : null, days, configured, startDate, requestedStartDate, startOffset, selected, skipped, currentId: value.currentId || null, history: [], activeMenu, scheduledMenus, buildingNext: Boolean(activeMenu && value.buildingNext), cartExported: typeof value.cartExported === 'string' ? value.cartExported : null };
+  const activeMeals=Array.isArray(value.activeMeals) && value.activeMeals.length ? MEALS.map(meal=>meal.id).filter(id=>value.activeMeals.includes(id)) : MEALS.map(meal=>meal.id);
+  const plan = { activeMeals, id: typeof value.id === 'string' ? value.id : null, days, configured, startDate, requestedStartDate, startOffset, selected, skipped, currentId: value.currentId || null, history: [], activeMenu, scheduledMenus, buildingNext: Boolean(activeMenu && value.buildingNext), cartExported: typeof value.cartExported === 'string' ? value.cartExported : null };
   if (!eligibleRecipes(plan, catalog).some(recipe => recipe.id === plan.currentId)) plan.currentId = null;
   plan.history = (Array.isArray(value.history) ? value.history : []).filter(action =>
     action && catalog.has(action.id) && (action.kind === 'like' ? selected[catalog.get(action.id).category]?.includes(action.id) : action.kind === 'skip' && skipped.includes(action.id)),
@@ -40,7 +41,7 @@ export function restorePlan(value = {}, catalog) {
 export function eligibleRecipes(plan, catalog) {
   const excluded = new Set([...Object.values(plan.selected).flat(), ...plan.skipped]);
   return [...catalog.values()].filter(recipe =>
-    Object.hasOwn(plan.selected, recipe.category) && plan.selected[recipe.category].length < plan.days && !excluded.has(recipe.id),
+    (plan.activeMeals || MEALS.map(meal=>meal.id)).includes(recipe.category) && Object.hasOwn(plan.selected, recipe.category) && plan.selected[recipe.category].length < plan.days && !excluded.has(recipe.id),
   );
 }
 
@@ -77,5 +78,5 @@ export function resizePlan(plan, days, catalog) {
 }
 
 export function isComplete(plan) {
-  return MEALS.every(({ id }) => plan.selected[id].length === plan.days);
+  return (plan.activeMeals || MEALS.map(meal=>meal.id)).every(id => plan.selected[id].length === plan.days);
 }

@@ -3280,18 +3280,6 @@
       ]
     },
     {
-      "key": "ham",
-      "english": "ham",
-      "defaultLt": "kumpis",
-      "count": 9,
-      "variants": [
-        "ham (chopped)",
-        "ham (diced)",
-        "ham",
-        "ham (deli slices)"
-      ]
-    },
-    {
       "key": "allspice",
       "english": "allspice",
       "defaultLt": "kvapieji pipirai",
@@ -4568,6 +4556,18 @@
       ]
     },
     {
+      "key": "ham",
+      "english": "ham",
+      "defaultLt": "paruoštas valgyti kumpis",
+      "count": 9,
+      "variants": [
+        "ham (chopped)",
+        "ham (diced)",
+        "ham",
+        "ham (deli slices)"
+      ]
+    },
+    {
       "key": "prepared horseradish",
       "english": "prepared horseradish",
       "defaultLt": "paruošti krienai",
@@ -4751,32 +4751,12 @@
       ]
     },
     {
-      "key": "deli sliced turkey",
-      "english": "deli sliced turkey",
-      "defaultLt": "pjaustyta kalakutiena",
-      "count": 3,
-      "variants": [
-        "deli sliced turkey"
-      ]
-    },
-    {
       "key": "deli-sliced salami",
       "english": "deli-sliced salami",
       "defaultLt": "pjaustytas saliamis",
       "count": 2,
       "variants": [
         "deli-sliced salami"
-      ]
-    },
-    {
-      "key": "deli-sliced black forest ham",
-      "english": "deli-sliced black forest ham",
-      "defaultLt": "pjaustytas Švarcvaldo kumpis",
-      "count": 12,
-      "variants": [
-        "deli-sliced black forest ham",
-        "deli-sliced black forest ham (diced)",
-        "deli-sliced black forest ham (chopped)"
       ]
     },
     {
@@ -4818,12 +4798,32 @@
       ]
     },
     {
+      "key": "deli sliced turkey",
+      "english": "deli sliced turkey",
+      "defaultLt": "plonai pjaustyta kepta kalakutiena sumuštiniams",
+      "count": 3,
+      "variants": [
+        "deli sliced turkey"
+      ]
+    },
+    {
       "key": "shaved parmesan",
       "english": "shaved parmesan",
       "defaultLt": "plonai pjaustytas parmezanas",
       "count": 1,
       "variants": [
         "shaved Parmesan"
+      ]
+    },
+    {
+      "key": "deli-sliced black forest ham",
+      "english": "deli-sliced black forest ham",
+      "defaultLt": "plonai pjaustytas rūkytas Švarcvaldo kumpis",
+      "count": 12,
+      "variants": [
+        "deli-sliced black forest ham",
+        "deli-sliced black forest ham (diced)",
+        "deli-sliced black forest ham (chopped)"
       ]
     },
     {

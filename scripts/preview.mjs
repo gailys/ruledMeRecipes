@@ -11,8 +11,22 @@ const server=http.createServer(async(request,response)=>{
   try {
     const url=new URL(request.url,'http://127.0.0.1');
     let pathname=decodeURIComponent(url.pathname);
+    if(['/api/login','/api/sync','/api/validate'].includes(pathname)) {
+      // Same-origin local gateway: keep browser storage on 127.0.0.1 and avoid CORS.
+      // The upstream host and endpoints are fixed; authentication is still checked there.
+      if(!['POST','OPTIONS'].includes(request.method)){response.writeHead(405);response.end();return;}
+      if(request.method==='OPTIONS'){response.writeHead(204,{'allow':'POST, OPTIONS'});response.end();return;}
+      const chunks=[];let bytes=0;
+      for await(const chunk of request){bytes+=chunk.length;if(bytes>5*1024*1024){response.writeHead(413);response.end();return;}chunks.push(chunk);}
+      try {
+        const upstream=await fetch(`https://mano-keto-sync.gailius-besusparis.chatgpt.site${pathname}`,{method:'POST',headers:{'content-type':'application/json',...(request.headers.authorization ? {authorization:request.headers.authorization} : {})},body:Buffer.concat(chunks),signal:AbortSignal.timeout(30000),redirect:'error'});
+        response.writeHead(upstream.status,{'content-type':'application/json; charset=utf-8','cache-control':'no-store'});
+        response.end(Buffer.from(await upstream.arrayBuffer()));
+      }catch{response.writeHead(502,{'content-type':'application/json; charset=utf-8','cache-control':'no-store'});response.end(JSON.stringify({error:'Nepavyko pasiekti sinchronizacijos serverio. Pabandykite dar kartą.'}));}
+      return;
+    }
     if(pathname==='/__planner-preview') {
-      const page=(await fs.readFile(path.join(root,'index.html'),'utf8')).replace(/\.\/app\.js\?v=\d+/,'./__qa/app.js?v=88');
+      const page=(await fs.readFile(path.join(root,'index.html'),'utf8')).replace(/\.\/app\.js\?v=\d+/,'./__qa/app.js?v=122');
       response.writeHead(200,{'content-type':mime['.html'],'cache-control':'no-store'});response.end(page);return;
     }
     if(pathname==='/__qa/sync.js') {

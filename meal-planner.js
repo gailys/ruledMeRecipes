@@ -1,6 +1,7 @@
-import { isVeryLowCarb } from './keto-classification.mjs?v=88';
-import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=88';
-import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=88';
+import { normalizeMembers, householdMeals, balanceDay, mealTargets, servingShares } from './household-portions.mjs?v=122';
+import { isVeryLowCarb } from './keto-classification.mjs?v=122';
+import { MEALS, dayCount, restorePlan, chooseNext, decide, undo, resizePlan, isComplete } from './planner-state.mjs?v=122';
+import { peopleCount, portionIncrease, portionMultiplier } from './recipe-portions.mjs?v=122';
 
 const KEY = 'keto-meal-plans-v1';
 const PREFERENCES_KEY = 'keto-menu-preferences-v1';
@@ -15,13 +16,14 @@ const todayKey = (date = new Date()) => {
   return `${value('year')}-${value('month')}-${value('day')}`;
 };
 
-export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite, onOpenRecipe, isRecipeBlocked, onRecipeReplaced }) {
+export function createMealPlanner({ root, settingsSelect, getProfileId, showToast, onMenuComplete, onRebuildCart, formatIngredients, onPortionsChange, isFavorite, toggleFavorite, onOpenRecipe, isRecipeBlocked, onRecipeReplaced, getProfileName, getHouseholdMembers, onHouseholdChange, onProfileNameChange }) {
   let returningFromDetails=false;
   let catalog, loading, error = '', profile, plan, active = false, busy = false, generation = 0, drag = null;
   let persistenceError = false;
   let cartError='';
   let cartErrorMenuId=null;
   let replacement=null;
+  let householdAppliedSignature='';
   let cartDirtyMemory={};
   const floatingCart=document.createElement('div');
   floatingCart.className='floating-cart-update';floatingCart.hidden=true;
@@ -61,10 +63,12 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     return new Map([...catalog].filter(([id,recipe])=>!blocked.has(id) && matchesRecipeFilters(recipe)));
   }
   function matchesRecipeFilters(recipe) {
+    if(!householdMeals(preferences().members).includes(recipe.category))return false;
+    if(!Number.isFinite(recipe.nutrition?.calories) || recipe.nutrition.calories<=0)return false;
     if(isRecipeBlocked?.(recipe))return false;
     const settings=preferences();
     if(settings.maxMinutes && (!Number.isFinite(recipe.totalMinutes) || recipe.totalMinutes<=0 || recipe.totalMinutes>settings.maxMinutes))return false;
-    if(settings.veryLowCarbOnly && (recipe.veryLowCarb!==true || !isVeryLowCarb(recipe.nutrition,settings.increase)))return false;
+    if(settings.veryLowCarbOnly && (recipe.veryLowCarb!==true || !isVeryLowCarb(recipe.nutrition,0)))return false;
     return true;
   }
   function findMenu(id) {
@@ -101,11 +105,64 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   const increaseInput=document.querySelector('#plan-portion-increase');
   const maxMinutesInput=document.querySelector('#plan-max-minutes');
   const veryLowCarbInput=document.querySelector('#plan-very-low-carb');
+  const planStartInput=document.querySelector('#plan-start-offset');
+  planStartInput.addEventListener('change',()=>{if(!planStartInput.reportValidity())return;savePreferences({...preferences(),menuStartOffset:Number(planStartInput.value)});});
   let reminderOwner;
+  let householdEditorSignature='',householdEditorOwner;
+  const householdForm=document.querySelector('#household-form');
+  const settingsDialog=document.querySelector('#profile-settings-dialog');
+  const recipeSetupDialog=document.querySelector('#recipe-setup-dialog');
+  let recipeSetupOwner;
+  function offerHouseholdSetup(){
+    if(!getProfileId() || document.querySelector('dialog[open]'))return;
+    recipeSetupOwner=profileKey();
+    const settings=preferences();
+    document.querySelector('#setup-max-minutes').value=String(settings.maxMinutes);
+    document.querySelector('#setup-very-low-carb').checked=settings.veryLowCarbOnly;
+    recipeSetupDialog.showModal();
+  }
+  recipeSetupDialog.addEventListener('cancel',event=>event.preventDefault());
+  document.querySelector('#recipe-setup-form').addEventListener('submit',event=>{
+    event.preventDefault();
+    if(recipeSetupOwner!==profileKey()){recipeSetupDialog.close();return;}
+    savePreferences({...preferences(),householdConfigured:true,maxMinutes:Number(document.querySelector('#setup-max-minutes').value),veryLowCarbOnly:document.querySelector('#setup-very-low-carb').checked});
+    recipeSetupDialog.close();render();
+  });
+  function readHouseholdEditor(){return [...householdForm.querySelectorAll('[data-household-member]')].map(row=>({id:row.dataset.householdMember,name:row.querySelector('[data-member-name]').value.trim(),calories:Number(row.querySelector('[data-member-calories]').value),meals:[...row.querySelectorAll('[data-member-meal]:checked')].map(input=>input.value)}));}
+  function drawHouseholdEditor(members){
+    document.querySelector('#household-members').innerHTML=members.map(member=>`<fieldset data-household-member="${html(member.id)}"><legend>${html(member.name)}</legend><label>Vardas<input data-member-name type="text" required maxlength="60" value="${html(member.name)}"></label><label>Dienos tikslas (kcal)<span class="calorie-control"><input data-member-calories type="number" min="100" max="10000" step="1" required value="${member.calories}"><span class="calorie-arrows"><button type="button" data-calorie-step="100" aria-label="Padidinti 100 kcal">▲</button><button type="button" data-calorie-step="-100" aria-label="Sumažinti 100 kcal">▼</button></span></span></label><div class="household-meals">${MEALS.map(meal=>`<label><input type="checkbox" data-member-meal value="${meal.id}" ${member.meals.includes(meal.id) ? 'checked' : ''}>${meal.label}</label>`).join('')}</div><button type="button" class="text-button" data-remove-member="${html(member.id)}" ${members.length===1 ? 'disabled' : ''}>Pašalinti asmenį</button></fieldset>`).join('');
+    document.querySelector('#household-add').disabled=members.length>=20;
+  }
+  function syncHouseholdEditor(){
+    const members=preferences().members,signature=JSON.stringify(members);
+    if(householdEditorOwner!==profileKey() || householdEditorSignature!==signature){householdEditorOwner=profileKey();householdEditorSignature=signature;drawHouseholdEditor(members);document.querySelector('#profile-name').value=getProfileName?.() || '';document.querySelector('#household-status').textContent='';}
+  }
+  document.querySelector('#household-add').addEventListener('click',()=>{const members=readHouseholdEditor();if(members.length<20)drawHouseholdEditor([...members,{id:crypto.randomUUID(),name:`Asmuo ${members.length+1}`,calories:2000,meals:MEALS.map(meal=>meal.id)}]);});
+  householdForm.addEventListener('click',event=>{const button=event.target.closest('[data-remove-member]');if(button){const members=readHouseholdEditor();if(members.length>1)drawHouseholdEditor(members.filter(member=>member.id!==button.dataset.removeMember));}});
+  householdForm.addEventListener('submit',async event=>{
+    event.preventDefault();
+    if(settingsDialog.classList.contains('is-household-setup')){
+      savePreferences({...preferences(),householdConfigured:true,maxMinutes:Number(maxMinutesInput.value),veryLowCarbOnly:veryLowCarbInput.checked});
+      settingsDialog.close();return;
+    }
+    if(!householdForm.reportValidity())return;
+    const members=readHouseholdEditor();
+    const name=document.querySelector('#profile-name').value.trim();
+    if(!name){document.querySelector('#household-status').textContent='Įveskite šeimos vardą.';return;}
+    if(members.some(member=>!member.name || !member.meals.length)){document.querySelector('#household-status').textContent='Kiekvienam asmeniui nurodykite vardą ir bent vieną valgymą.';return;}
+    const owner=profileKey();await loadCatalog();if(owner!==profileKey() || !catalog)return;
+    if(onProfileNameChange?.(name)===false)return;
+    loadProfile();const finishingSetup=settingsDialog.classList.contains('is-household-setup');
+    savePreferences({...preferences(),members:normalizeMembers(members),people:members.length,increase:0,householdVersion:1,householdConfigured:true});
+    if(!isComplete(plan))plan={...plan,activeMeals:householdMeals(members),currentId:null};
+    if([plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && isComplete(menu)))setCartDirty(true);
+    save();onPortionsChange();syncSettings();render();document.querySelector('#household-status').textContent='Šeimos nustatymai išsaugoti. Porcijos perskaičiuotos.';
+    if(finishingSetup)settingsDialog.close();
+  });
   function preferences() {
     let all={};try{all=JSON.parse(localStorage.getItem(PREFERENCES_KEY) || '{}') || {};}catch{}
     const value=all[profileKey()] || {};
-    return {people:peopleCount(value.people),increase:portionIncrease(value.increase),maxMinutes:[15,20,30,45,60,90].includes(Number(value.maxMinutes)) ? Number(value.maxMinutes) : 0,veryLowCarbOnly:typeof value.veryLowCarbOnly==='boolean' ? value.veryLowCarbOnly : Number(value.maxCarbs)>0,portionsVersion:value.portionsVersion || 0,reminderEnabled:value.reminderEnabled!==false,reminderDays:dayCount(value.reminderDays ?? 2),reminded:value.reminded && typeof value.reminded==='object' ? value.reminded : {}};
+    return {people:peopleCount(value.people),increase:portionIncrease(value.increase),maxMinutes:[15,20,30,45,60,90].includes(Number(value.maxMinutes)) ? Number(value.maxMinutes) : 0,veryLowCarbOnly:typeof value.veryLowCarbOnly==='boolean' ? value.veryLowCarbOnly : Number(value.maxCarbs)>0,members:normalizeMembers(getHouseholdMembers?.() || value.members,value.people,getProfileName?.() || 'Asmuo'),householdVersion:value.householdVersion || 0,householdConfigured:value.householdConfigured!==false,menuDays:dayCount(value.menuDays ?? read()[profileKey()]?.days ?? 1),menuStartOffset:Math.min(365,Math.max(0,Math.floor(Number(value.menuStartOffset ?? read()[profileKey()]?.startOffset ?? 1)||0))),portionAlgorithm:value.portionAlgorithm || 1,portionsVersion:value.portionsVersion || 0,reminderEnabled:value.reminderEnabled!==false,reminderDays:dayCount(value.reminderDays ?? 2),reminded:value.reminded && typeof value.reminded==='object' ? value.reminded : {}};
   }
   for(const control of [maxMinutesInput,veryLowCarbInput])control.addEventListener('change',()=>{
     savePreferences({...preferences(),maxMinutes:Number(maxMinutesInput.value),veryLowCarbOnly:veryLowCarbInput.checked});
@@ -114,19 +171,25 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     if(replacement)replacement.currentId=null;
     render();
   });
+  function restoreHouseholdPlan(value,catalog) {return restorePlan({...value,activeMeals:value?.activeMeals || householdMeals(preferences().members)},catalog);}
+  function familyMeals(){return MEALS.filter(meal=>householdMeals(preferences().members).includes(meal.id));}
+  function dayBalance(menu,day){return balanceDay(Object.fromEntries(MEALS.map(meal=>[meal.id,catalog.get(menu.selected[meal.id]?.[day])])),preferences().members,{veryLowCarbOnly:preferences().veryLowCarbOnly});}
+  function menuBatches(menu,from=0){return Array.from({length:Math.max(0,menu.days-from)},(_,offset)=>{const day=from+offset,balance=dayBalance(menu,day);return familyMeals().flatMap(meal=>{const recipe=catalog.get(menu.selected[meal.id]?.[day]);return recipe && balance.totals[meal.id]>0 ? [{...recipe,householdFactor:balance.totals[meal.id]}] : [];});}).flat();}
   function savePreferences(value) {
     let all={};try{all=JSON.parse(localStorage.getItem(PREFERENCES_KEY) || '{}') || {};}catch{}
     all[profileKey()]=value;
-    try{localStorage.setItem(PREFERENCES_KEY,JSON.stringify(all));}catch{showToast('Nepavyko išsaugoti programėlės nustatymų.');}
+    try{localStorage.setItem(PREFERENCES_KEY,JSON.stringify(all));if(value.members && JSON.stringify(value.members)!==JSON.stringify(getHouseholdMembers?.()))onHouseholdChange?.(value.members);}catch{showToast('Nepavyko išsaugoti programėlės nustatymų.');}
   }
-  function portionLabel() {
-    const settings=preferences();return `${settings.people} asm.${settings.increase ? ` · +${settings.increase} %` : ''}`;
+  function portionLabel(recipe) {
+    const settings=preferences(),category=recipe?.mealCategory || recipe?.category;
+    const count=MEALS.some(meal=>meal.id===category) ? settings.members.filter(member=>member.meals.includes(category)).length : settings.members.length;
+    return `${count} asm. · individualios porcijos`;
   }
   function menuCartSignature(menu) {
-    const settings=preferences();return `portions-v1:${settings.people}:${settings.increase}|${MEALS.flatMap(meal=>menu.selected[meal.id]).join('|')}`;
+    const settings=preferences();return `household-v2:${JSON.stringify(settings.members)}:${settings.veryLowCarbOnly}|${MEALS.flatMap(meal=>menu.selected[meal.id]).join('|')}`;
   }
   function portionNutrition(recipe,key) {
-    const value=recipe.nutrition?.[key];return Number.isFinite(value) ? value*(1+preferences().increase/100) : null;
+    const value=recipe.nutrition?.[key];return Number.isFinite(value) ? value : null;
   }
   for(const control of [peopleInput,increaseInput])control.addEventListener('change',()=>{
     if(!peopleInput.checkValidity() || !increaseInput.checkValidity()){control.reportValidity();return;}
@@ -184,7 +247,8 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     const offset=Number(startOffsetInput.value);
     plan=resizePlan(plan,dayCount(document.querySelector('#first-plan-days').value),catalog);
     plan={...plan,startOffset:offset,requestedStartDate:new Date(Date.parse(todayKey())+offset*86400000).toISOString().slice(0,10),startDate:null};
-    save(); onboarding.close(); syncSettings(); render();
+    savePreferences({...preferences(),householdConfigured:false,menuDays:plan.days,menuStartOffset:offset});
+    save(); onboarding.close(); syncSettings();render();
   });
   for(const id of ['login-dialog','users-dialog']) document.querySelector(`#${id}`).addEventListener('close',async()=>{
     if(!getProfileId())return;
@@ -211,6 +275,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   const read = () => { try { const value = JSON.parse(localStorage.getItem(KEY) || '{}'); return value && typeof value === 'object' && !Array.isArray(value) ? value : {}; } catch { return {}; } };
   const profileKey = () => getProfileId() || 'local';
   function save() {
+    if(!getProfileId() || profile!==profileKey())return;
     if(!plan.id)plan={...plan,id:crypto.randomUUID()};
     try { const plans = read(); plans[profile] = plan; localStorage.setItem(KEY,JSON.stringify(plans)); persistenceError = false; }
     catch { persistenceError = true; showToast('Nepavyko išsaugoti meniu šiame įrenginyje. Patikrinkite naršyklės saugyklą.'); }
@@ -223,13 +288,17 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     cartError='';if(reminder.open)reminder.close();
     if(onboarding.open)onboarding.close();
     root.querySelector('dialog')?.close();
-    plan = restorePlan(read()[profile],catalog);
+    plan = restoreHouseholdPlan(read()[profile],catalog);
     const portionSettings=preferences();
+    if(!isComplete(plan))plan={...plan,activeMeals:householdMeals(portionSettings.members)};
+    if(portionSettings.householdVersion!==1){savePreferences({...portionSettings,members:portionSettings.members,people:portionSettings.members.length,increase:0,householdVersion:1});if([plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && isComplete(menu)))setCartDirty(true);}
+    householdAppliedSignature=JSON.stringify(preferences().members);
     if(portionSettings.portionsVersion!==1) {
       savePreferences({...portionSettings,portionsVersion:1});
       
       onPortionsChange();
     }
+    if(preferences().portionAlgorithm!==2){savePreferences({...preferences(),portionAlgorithm:2});if([plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && isComplete(menu)))setCartDirty(true);}
     let missingIds=false;
     for(const menu of [plan,plan.activeMenu,...plan.scheduledMenus])if(menu && !menu.id){menu.id=crypto.randomUUID();missingIds=true;}
     if(missingIds)save();
@@ -250,10 +319,12 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     return loading;
   }
   function syncSettings() {
+    syncHouseholdEditor();
     const value = catalog && profile === profileKey() && plan ? plan.days : dayCount(read()[profileKey()]?.days ?? 1);
     settingsSelect.value = String(value);
     const settings=preferences();
     peopleInput.value=String(settings.people);increaseInput.value=String(settings.increase);
+    planStartInput.value=String(settings.menuStartOffset);
     maxMinutesInput.value=String(settings.maxMinutes);veryLowCarbInput.checked=settings.veryLowCarbOnly;
     document.querySelector('#plan-portions-summary').textContent=`Kiekvienam patiekalui: ${settings.people} asm. × ${number(1+settings.increase/100)} = ${number(portionMultiplier(settings.people,settings.increase))} bazinės porcijos.`;
     reminderEnabled.checked=settings.reminderEnabled;reminderDays.value=String(settings.reminderDays);reminderDays.disabled=!settings.reminderEnabled;
@@ -265,7 +336,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     if(!menu.id){menu.id=crypto.randomUUID();save();}
     try {
       const settings=preferences();
-      onMenuComplete(MEALS.flatMap(meal=>menu.selected[meal.id].map(id=>catalog.get(id))),{menuId:menu.id,profileId:profile,people:settings.people,increase:settings.increase});
+      onMenuComplete(menuBatches(menu),{menuId:menu.id,profileId:profile,people:settings.members.length,increase:0});
       menu.cartExported=signature;cartError='';cartErrorMenuId=null;save();
     }catch{cartErrorMenuId=menu.id;cartError='Nepavyko pridėti meniu ingredientų į pirkinių krepšelį. Pabandykite dar kartą.';}
   }
@@ -278,29 +349,32 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
         const last=plan.scheduledMenus.at(-1) || plan.activeMenu;
         const nextDate=new Date(Date.parse(last.startDate)+last.days*86400000).toISOString().slice(0,10);
         const completed={...plan,activeMenu:null,scheduledMenus:[],buildingNext:false,startDate:plan.requestedStartDate>nextDate ? plan.requestedStartDate : nextDate};
-        plan={...restorePlan({days:plan.days,configured:true},catalog),activeMenu:plan.activeMenu,scheduledMenus:[...plan.scheduledMenus,completed],buildingNext:true};
+        plan={...restoreHouseholdPlan({days:plan.days,configured:true},catalog),activeMenu:plan.activeMenu,scheduledMenus:[...plan.scheduledMenus,completed],buildingNext:true};
       }else plan={...plan,buildingNext:true};
     }else if(isComplete(plan) && plan.startDate) {
       const current={...plan,activeMenu:null,scheduledMenus:[],buildingNext:false};
-      plan={...restorePlan({days:plan.days,configured:true},catalog),activeMenu:current,buildingNext:true};
+      plan={...restoreHouseholdPlan({days:plan.days,configured:true},catalog),activeMenu:current,buildingNext:true};
     }else {
       if(!await confirmChange('Rinktis naują meniu? Dabartiniai nebaigti pasirinkimai bus išvalyti.') || owner!==profileKey())return;
-      plan=restorePlan({days:plan.days,configured:true},catalog);
+      plan=restoreHouseholdPlan({days:plan.days,configured:true},catalog);
     }
     generation++;busy=false;drag=null;save();
-    document.querySelector('#settings-dialog').close();render();
+    document.querySelector('#profile-settings-dialog').close();render();
   }
   function dailyRecipeCards(menu,day,date) {
-    const cards=MEALS.map(meal=>{
+    const balance=dayBalance(menu,day);
+    const cards=familyMeals().map(meal=>{
       const recipe=catalog.get(menu.selected[meal.id][day]);
-      return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong>${isRecipeBlocked?.(recipe) ? '<small class="blocked-menu-note">Užblokuotas produktas – pakeiskite receptą</small>' : ''}<span>${recipe.totalMinutes ? `${number(recipe.totalMinutes)} min · ` : ''}${html(portionLabel())}</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
+      if(!recipe)return `<p class="status">${meal.label}: šiam meniu patiekalas dar nepasirinktas. Įtraukite jį rinkdami kitą meniu.</p>`;
+      const servings=servingShares(balance.people.map(person=>{const slot=person.meals.find(slot=>slot.category===meal.id);return {name:person.name,factor:slot?.factor || 0,calories:slot?.base ? slot.base*slot.factor : null};}));
+      const portions=servings.filter(person=>person.factor>0).map(person=>`${person.name} ${person.percent}%`).join(' / ');
+      const baseCarbs=recipe.nutrition?.netCarbsGrams;
+      const totalCarbs=Number.isFinite(baseCarbs) ? baseCarbs*balance.totals[meal.id] : null;
+      return `<div class="daily-recipe-row"><button class="daily-recipe" data-planner="details" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-day="${day}"><img src="${html(recipe.image)}" alt="" loading="lazy"><span class="daily-recipe-copy"><small>${meal.label}</small><strong>${html(recipe.title)}</strong>${isRecipeBlocked?.(recipe) ? '<small class="blocked-menu-note">Užblokuotas produktas – pakeiskite receptą</small>' : ''}<span>${recipe.totalMinutes ? number(recipe.totalMinutes)+' min' : 'Laikas nenurodytas'} / ${totalCarbs==null ? 'carbs nenurodyti' : number(totalCarbs)+' g carbs'}</span><span>${html(portions)}</span></span><span class="daily-recipe-arrow" aria-hidden="true">›</span></button><button class="daily-replace" data-planner="replace" data-id="${html(recipe.id)}" data-menu-id="${html(menu.id)}" data-category="${meal.id}" data-day="${day}" data-date="${date}" aria-label="Pakeisti receptą: ${html(recipe.title)}"><span aria-hidden="true">↻</span><span>Pakeisti</span></button></div>`;
     }).join('');
-    const calories=MEALS.map(meal=>portionNutrition(catalog.get(menu.selected[meal.id][day]) || {},'calories'));
-    const known=calories.filter(value=>Number.isFinite(value) && value>=0);
-    const total=new Intl.NumberFormat('lt-LT',{maximumFractionDigits:0}).format(known.reduce((sum,value)=>sum+value,0));
-    const increase=preferences().increase;
-    return `${cards}<div class="day-calorie-summary"><span>${known.length===MEALS.length ? 'Dienos kalorijos vienam žmogui' : 'Žinomų patiekalų kalorijos vienam žmogui'}</span><strong>${known.length ? `${total} kcal` : 'Duomenų nėra'}</strong><small>1 porcija kiekvieno patiekalo${increase ? ` · porcijos padidintos ${number(increase)} %` : ''}${known.length<MEALS.length ? ` · ${MEALS.length-known.length} patiekalų kalorijų duomenų trūksta` : ''}</small></div>`;
+    return cards+'<div class="household-day-summary" aria-label="Dienos neto angliavandeniai">'+balance.people.map(person=>`<div class="day-carb-summary">${html(person.name)} – ${person.netCarbs==null ? 'duomenų trūksta' : number(person.netCarbs)+' g'}</div>`).join('')+'</div>';
   }
+
   function rebuildShoppingCart() {
     if(profile!==profileKey())return;
     const today=todayKey();
@@ -311,12 +385,12 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
       const start=menu.startDate || (menu.requestedStartDate>cursor && menu.requestedStartDate>today ? menu.requestedStartDate : cursor || today);
       const first=Math.max(0,Math.floor((Date.parse(today)-Date.parse(start))/86400000));
       const recipes=[];
-      for(let day=first;day<menu.days;day++)for(const meal of MEALS)recipes.push(catalog.get(menu.selected[meal.id][day]));
+      recipes.push(...menuBatches(menu,first));
       batches.push({menuId:menu.id,recipeIds:MEALS.flatMap(meal=>menu.selected[meal.id]),recipes});
       cursor=new Date(Date.parse(start)+menu.days*86400000).toISOString().slice(0,10);
     }
     try {
-      const settings=preferences();onRebuildCart(batches,{profileId:profile,people:settings.people,increase:settings.increase});
+      const settings=preferences();onRebuildCart(batches,{profileId:profile,people:settings.members.length,increase:0});
       for(const menu of menus)menu.cartExported=menuCartSignature(menu);
       cartError='';cartErrorMenuId=null;setCartDirty(false);save();render();
     }catch{showToast('Nepavyko atnaujinti krepšelio. Pabandykite dar kartą.');}
@@ -340,14 +414,14 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     root.innerHTML=`<header class="planner-heading daily-heading"><div><p class="eyebrow"><time datetime="${date}">${html(formatDate(date))}</time></p><h1>${waiting ? 'Meniu paruoštas' : 'Šiandienos meniu'}<span>.</span></h1>${waiting ? `<p class="menu-start-note">Gamyba prasidės <time datetime="${menu.startDate}">${html(formatDate(menu.startDate))}</time>.</p>` : ''}</div></header>
       ${!waiting ? `<section class="daily-recipes" aria-label="Šiandienos patiekalai">${dailyRecipeCards(menu,day,date)}</section>` : ''}
       ${future.length ? `<section class="remaining-menu" aria-labelledby="remaining-menu-title"><h2 id="remaining-menu-title">${waiting ? 'Suplanuotas meniu' : 'Artimiausių dienų meniu'}</h2><div class="remaining-days">${future.map(item=>`<section class="remaining-day"><h3><time datetime="${item.date}">${html(formatDate(item.date))}</time></h3><div class="remaining-day-recipes">${dailyRecipeCards(item.menu,item.day,item.date)}</div></section>`).join('')}</div></section>` : ''}
-      ${cartNeedsUpdate() ? '<div class="cart-rebuild"><button class="primary dark" data-planner="rebuild-cart">↻ Atnaujinti pirkinių krepšelį</button><p>Išvalo visą krepšelį ir sudeda šiandienos bei būsimų dienų meniu ingredientus.</p></div>' : ''}
-      <footer class="extend-menu"><button class="primary dark" data-planner="start-next">${plan.activeMenu && !isComplete(plan) ? 'Tęsti tolimesnio meniu rinkimą' : 'Sudaryti tolimesnį meniu'} <span aria-hidden="true">→</span></button></footer>
+      <footer class="extend-menu">${menuClearButton()}<button class="primary dark" data-planner="start-next">${plan.activeMenu && !isComplete(plan) ? 'Tęsti tolimesnio meniu rinkimą' : 'Sudaryti tolimesnį meniu'} <span aria-hidden="true">→</span></button></footer>
       ${cartError ? `<p class="status error" role="alert">${html(cartError)} <button class="text-button" data-planner="retry-cart">Bandyti dar kartą</button></p>` : ''}
       ${persistenceError ? '<p class="status error" role="alert">Meniu pakeitimai dar neišsaugoti šiame įrenginyje.</p>' : ''}<dialog class="planner-detail-dialog" aria-labelledby="planner-detail-title"></dialog>`;
     offerReminder(menu,day);
   }
   function render() {
     if (!active) return;
+    if(!getProfileId()){active=false;document.body.classList.remove('is-swiping');return;}
     if (!catalog) {
       document.body.classList.remove('is-swiping');
       root.innerHTML = `<div class="planner-loading" role="status"><p class="eyebrow">Meniu kūrėjas</p><h1>${error ? 'Pabandykime dar kartą' : 'Ruošiame receptus…'}</h1><p>${error || 'Jūsų būsimi pusryčiai, pietūs, vakarienės ir desertai jau pakeliui.'}</p>${error ? '<button class="primary dark" data-planner="retry">Bandyti dar kartą</button>' : '<span class="planner-spinner" aria-hidden="true"></span>'}</div>`;
@@ -356,6 +430,13 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     }
     loadProfile();
     if (busy || drag || root.querySelector('dialog[open]')) return;
+    const householdSignature=JSON.stringify(preferences().members);
+    if(householdSignature!==householdAppliedSignature){
+      householdAppliedSignature=householdSignature;
+      if(!isComplete(plan))plan={...plan,activeMeals:householdMeals(preferences().members),currentId:null};
+      if([plan,plan.activeMenu,...plan.scheduledMenus].some(menu=>menu && isComplete(menu)))setCartDirty(true);
+      save();
+    }
     document.body.classList.remove('is-swiping');
     if(replacement){renderDiscovery(true);return;}
     syncSettings();
@@ -364,6 +445,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
       offerOnboarding();
       return;
     }
+    if(!preferences().householdConfigured){root.innerHTML='<div class="planner-loading"><h1>Receptų nustatymai</h1><p>Pasirinkite gaminimo trukmę ir angliavandenių filtrą.</p><button type="button" class="primary dark" data-planner="household-setup">Pasirinkti receptų nustatymus</button></div>';offerHouseholdSetup();return;}
     const today = todayKey();
     while(plan.activeMenu) {
       const current=plan.activeMenu;
@@ -388,7 +470,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
       if (!plan.startDate) { plan={...plan,startDate:plan.requestedStartDate>today ? plan.requestedStartDate : today}; save(); }
       const day = Math.floor((Date.parse(today)-Date.parse(plan.startDate))/86400000);
       if (day < plan.days) { exportMenuIngredients();renderToday(day,today); return; }
-      plan=restorePlan({days:plan.days,configured:true},catalog); save();
+      plan=restoreHouseholdPlan({days:plan.days,configured:true},catalog); save();
     }
     if (plan.startDate) {plan={...plan,startDate:null};save();}
     renderDiscovery();
@@ -416,16 +498,18 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
         ${recipe ? `
         <article class="swipe-card" tabindex="0" aria-label="${html(recipe.title)}. Rodyklė į kairę – praleisti, į dešinę – pasirinkti." aria-describedby="swipe-hint">
           <div class="swipe-photo"><img src="${html(recipe.image)}" alt="${html(recipe.title)}" draggable="false" fetchpriority="high"><span class="swipe-category">${meal.icon} ${meal.label}</span><span class="swipe-stamp is-like" aria-hidden="true">PATINKA</span><span class="swipe-stamp is-skip" aria-hidden="true">KITĄ KARTĄ</span></div>
-          <div class="swipe-copy"><div class="swipe-recipe-meta"><span class="swipe-duration ${durationColor(recipe.totalMinutes)}"><span aria-hidden="true">◷</span><span>Gaminimo laikas: <strong>${Number.isFinite(recipe.totalMinutes) && recipe.totalMinutes > 0 ? `${number(recipe.totalMinutes)} min` : 'nenurodytas'}</strong></span></span><span>${html(portionLabel())}</span></div><h2>${html(recipe.title)}</h2><div class="swipe-nutrition"><span><strong>${number(portionNutrition(recipe,'calories'))}</strong> kcal</span><span><strong>${number(portionNutrition(recipe,'netCarbsGrams'))} g</strong> neto angl.</span><span><strong>${number(portionNutrition(recipe,'proteinGrams'))} g</strong> baltymų</span><small>1 asmeniui${preferences().increase ? ` (+${preferences().increase} %)` : ''}</small></div><button class="planner-recipe-link" data-planner="details" data-id="${html(recipe.id)}">Ingredientai ir gaminimas <span aria-hidden="true">↗</span></button></div>
+          <div class="swipe-copy"><div class="swipe-recipe-meta"><span class="swipe-duration ${durationColor(recipe.totalMinutes)}"><span aria-hidden="true">◷</span><span>Gaminimo laikas: <strong>${Number.isFinite(recipe.totalMinutes) && recipe.totalMinutes > 0 ? `${number(recipe.totalMinutes)} min` : 'nenurodytas'}</strong></span></span><span>${html(portionLabel(recipe))}</span></div><h2>${html(recipe.title)}</h2><div class="swipe-nutrition"><span><strong>${number(portionNutrition(recipe,'calories'))}</strong> kcal</span><span><strong>${number(portionNutrition(recipe,'netCarbsGrams'))} g</strong> neto angl.</span><span><strong>${number(portionNutrition(recipe,'proteinGrams'))} g</strong> baltymų</span><small>Bazinės porcijos maistinė vertė</small></div><button class="planner-recipe-link" data-planner="details" data-id="${html(recipe.id)}">Ingredientai ir gaminimas <span aria-hidden="true">↗</span></button></div>
         </article><div class="swipe-actions"><button class="swipe-action swipe-no" data-planner="skip" aria-label="Praleisti receptą"><span aria-hidden="true">×</span><small>Praleisti</small></button><button class="swipe-undo" data-planner="undo" ${canUndo ? '' : 'disabled'} aria-label="Atšaukti paskutinį pasirinkimą"><span aria-hidden="true">↶</span><small>Atšaukti</small></button><button class="swipe-action swipe-yes" data-planner="like" aria-label="Pasirinkti receptą"><span aria-hidden="true">♡</span><small>Patinka</small></button></div><p class="swipe-hint" id="swipe-hint">Brauk kortelę arba rinkis mygtukais. Kompiuteryje – ← ir →.</p><button class="swipe-block" data-planner="block" data-id="${html(recipe.id)}">Daugiau nesiūlyti</button>` : `<div class="planner-end"><span class="planner-end-symbol" aria-hidden="true">↻</span><h2>Šį ratą peržiūrėjai.</h2><p>${hasSkipped ? 'Peržiūrėk praleistus receptus dar kartą. Užblokuoti receptai nebus rodomi.' : 'Tinkamų receptų šiuo metu neliko.'}</p>${hasSkipped ? '<button class="primary dark" data-planner="revisit">Vėl rodyti praleistus</button>' : ''}</div>`}
         ${!recipe && (preferences().maxMinutes || preferences().veryLowCarbOnly) ? '<p class="swipe-hint">Pagal pasirinktus filtrus šiuo metu tinkamų receptų nėra. Padidinkite laiko ribą arba išjunkite angliavandenių filtrą nustatymuose.</p><button class="text-button" data-planner="settings">Keisti receptų filtrus</button>' : ''}
-      ${!recipe && canUndo ? '<button class="text-button planner-end-undo" data-planner="undo">↶ Atšaukti paskutinį pasirinkimą</button>' : ''}
+      ${menuClearButton()}
+        ${!recipe && canUndo ? '<button class="text-button planner-end-undo" data-planner="undo">↶ Atšaukti paskutinį pasirinkimą</button>' : ''}
         ${persistenceError ? '<p class="status error" role="alert">Meniu pakeitimai dar neišsaugoti šiame įrenginyje.</p>' : ''}
       </section>
       <dialog class="planner-detail-dialog" aria-labelledby="planner-detail-title"></dialog>`;
     root.querySelector('.swipe-photo img')?.addEventListener('error',event=>{event.target.hidden=true;});
   }
   async function swipe(kind) {
+    if(!getProfileId())return;
     if(busy)return;
     const change=replacement;
     const id=change ? change.currentId : plan?.currentId;
@@ -449,16 +533,17 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     }else {plan=decide(plan,suggestionCatalog(),kind);busy=false;save();render();}
     root.querySelector('.swipe-card')?.focus({preventScroll:true});
   }
-  function showDetails(id) {
-    if(catalog?.has(id))onOpenRecipe(id);
+  function showDetails(id,context) {
+    if(catalog?.has(id))onOpenRecipe(id,context);
   }
   root.addEventListener('click',async event=>{
     const button = event.target.closest('[data-planner]'); if (!button || busy) return;
     const action = button.dataset.planner;
     if (action==='retry') { error=''; render(); return; }
-    if (action==='settings') { syncSettings(); document.querySelector('#settings-dialog').showModal(); return; }
+    if(action==='household-setup'){offerHouseholdSetup();return;}
+    if (action==='settings') { syncSettings(); document.querySelector('#profile-settings-dialog').showModal(); return; }
     if (action==='close-details') { root.querySelector('dialog').close(); return; }
-    if (action==='details') { showDetails(button.dataset.id); return; }
+    if (action==='details') { showDetails(button.dataset.id,button.dataset); return; }
     if(action==='replace'){beginReplacement(button);return;}
     if(action==='cancel-replace'){generation++;replacement=null;render();return;}
     if(action==='block'){blockRecipe(button.dataset.id);return;}
@@ -494,25 +579,43 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     if (days < plan.days && MEALS.some(meal=>plan.selected[meal.id].length > days)) {
       if (!await confirmChange('Sutrumpinti meniu? Bus palikti tik pirmųjų pasirinktų dienų receptai.') || owner!==profileKey()) {syncSettings(); return;}
     }
+    savePreferences({...preferences(),menuDays:days});
     if(days!==plan.days && isComplete(plan) && MEALS.some(meal=>plan.selected[meal.id].length>days))setCartDirty(true);
     generation++; busy=false; drag=null; replacement=null;plan=resizePlan(plan,days,catalog); save(); syncSettings(); render();
     showToast(`Meniu laikotarpis: ${days} ${days===1 ? 'diena' : 'dienos'}`);
   });
   document.querySelector('#restart-plan').addEventListener('click',()=>void startNextMenu());
-  document.querySelector('#clear-plan').addEventListener('click',async()=>{
+  async function clearEntireMenu(){
     const owner=profileKey();await loadCatalog();
     if(!catalog || owner!==profileKey())return;
     loadProfile();
-    if(!await confirmChange('Bus ištrinti dabartinis ir visi būsimi meniu bei nebaigti pasirinkimai. Mėgstami receptai ir pirkinių krepšelis liks. Tada iš naujo pasirinksi laikotarpį ir gamybos pradžią.','Taip, ištrinti','Ištrinti visus pasirinkimus?') || owner!==profileKey())return;
     generation++;busy=false;drag=null;replacement=null;cartError='';
     if(reminder.open)reminder.close();root.querySelector('dialog')?.close();
-    plan=restorePlan({configured:false},catalog);save();
+    const settings=preferences(),offset=settings.menuStartOffset;
+    plan=restoreHouseholdPlan({configured:true,days:settings.menuDays,startOffset:offset,requestedStartDate:new Date(Date.parse(todayKey())+offset*86400000).toISOString().slice(0,10)},catalog);save();
     setCartDirty(false);
-    savePreferences({...preferences(),reminded:{}});
-    document.querySelector('#settings-dialog').close();
+    savePreferences({...settings,reminded:{}});
+    document.querySelector('#profile-settings-dialog').close();
     if(location.hash!=='#discover')location.hash='#discover';
-    offerOnboarding();render();
-  });
+    render();
+  }
+
+  let menuClearHold=null;
+  function cancelMenuClear(){if(!menuClearHold)return;clearTimeout(menuClearHold.timer);menuClearHold.button.textContent='Ištrinti visą meniu';menuClearHold.button.classList.remove('holding');menuClearHold=null;}
+  function startMenuClear(button,event){
+    if(menuClearHold)return;const owner=profileKey();
+    menuClearHold={button,pointerId:event.pointerId,x:event.clientX,y:event.clientY};button.textContent='Laikykite 1 s';button.classList.add('holding');
+    if(event.pointerId!==undefined)button.setPointerCapture?.(event.pointerId);
+    menuClearHold.timer=setTimeout(()=>{cancelMenuClear();if(owner===profileKey())void clearEntireMenu();},1000);
+  }
+  root.addEventListener('pointerdown',event=>{const button=event.target.closest('[data-menu-clear]');if(button && event.button===0){event.preventDefault();startMenuClear(button,event);}});
+  root.addEventListener('pointerup',cancelMenuClear);root.addEventListener('pointercancel',cancelMenuClear);root.addEventListener('lostpointercapture',cancelMenuClear);
+  root.addEventListener('pointermove',event=>{if(menuClearHold && Math.hypot(event.clientX-menuClearHold.x,event.clientY-menuClearHold.y)>25)cancelMenuClear();});
+  root.addEventListener('keydown',event=>{const button=event.target.closest('[data-menu-clear]');if(button && [' ','Enter'].includes(event.key)){event.preventDefault();if(!event.repeat)startMenuClear(button,event);}});
+  root.addEventListener('keyup',event=>{if([' ','Enter'].includes(event.key))cancelMenuClear();});
+  root.addEventListener('focusout',event=>{if(event.target===menuClearHold?.button)cancelMenuClear();});window.addEventListener('blur',cancelMenuClear);
+  document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelMenuClear();});
+  function menuClearButton(){return [plan,plan?.activeMenu,...(plan?.scheduledMenus || [])].some(menu=>menu && Object.values(menu.selected).some(ids=>ids.length)) ? '<button class="ui-button menu-clear-button" type="button" data-menu-clear title="Palaikykite 1 sekundę. Ištrinamas visas dabartinis ir būsimas meniu; krepšelis išlieka.">Ištrinti visą meniu</button>' : '';}
   // Refresh the daily view at midnight and when returning to an open app.
   let midnightTimer;
   function scheduleDayChange() {
@@ -559,11 +662,22 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
   root.addEventListener('pointercancel',event=>finishDrag(event,true));
   root.addEventListener('lostpointercapture',event=>finishDrag(event,true));
   root.addEventListener('close',()=>render(),true);
-  document.querySelector('#settings-dialog').addEventListener('close',()=>{syncSettings();render();});
+  settingsDialog.addEventListener('close',()=>{const setup=settingsDialog.classList.contains('is-household-setup');settingsDialog.classList.remove('is-household-setup');document.querySelector('#household-identity').disabled=false;settingsDialog.querySelector('h2').textContent='Profilio nustatymai';householdForm.querySelector('[type="submit"]').textContent='Išsaugoti šeimą';syncSettings();if(setup && !preferences().householdConfigured){location.hash='#recipes';return;}render();});
   syncFloatingCart();
   return {
-    portions:()=>{const settings=preferences();return {people:settings.people,increase:settings.increase};},
+    portions:()=>{const settings=preferences();return {people:settings.members.length,increase:0};},
     portionLabel,
+    members:()=>preferences().members,
+    configureHousehold:(count,name,members)=>{savePreferences({...preferences(),members:normalizeMembers(members,count,name),people:count,increase:0,householdVersion:1,householdConfigured:false});householdEditorSignature='';syncSettings();},
+    portionDetails:(recipe,context)=>{
+      if(!MEALS.some(meal=>meal.id===recipe.category)){const members=preferences().members;return {planned:false,factor:members.length,people:members.map(member=>({name:member.name,factor:1,calories:recipe.nutrition?.calories ?? null}))};}
+      let balance,planned=false;
+      const menu=context?.menuId && plan ? findMenu(context.menuId) : null;
+      const day=menu ? (context.day!=null ? Number(context.day) : menu.selected[recipe.category]?.indexOf(recipe.id)) : -1;
+      if(menu && Number.isInteger(day) && day>=0 && menu.selected[recipe.category]?.[day]===recipe.id){balance=dayBalance(menu,day);planned=true;}
+      else balance=balanceDay({[recipe.category]:recipe},preferences().members,{veryLowCarbOnly:preferences().veryLowCarbOnly});
+      return {planned,factor:balance.totals[recipe.category] || 0,people:balance.people.map(person=>{const slot=person.meals.find(meal=>meal.category===recipe.category);return {name:person.name,factor:slot?.factor || 0,calories:slot?.base ? slot.base*slot.factor : null};})};
+    },
     affectedMeals:async(predicate)=>{
       const owner=profileKey();await loadCatalog();
       if(owner!==profileKey() || !catalog)return [];
@@ -575,7 +689,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
         for(let day=0;day<menu.days;day++) {
           const date=new Date(Date.parse(start)+day*86400000).toISOString().slice(0,10);
           if(date<today)continue;
-          for(const meal of MEALS) {
+          for(const meal of familyMeals()) {
             const recipe=catalog.get(menu.selected[meal.id]?.[day]);
             if(recipe && predicate(recipe))slots.push({menuId:menu.id,category:meal.id,categoryLabel:meal.label,day,date,id:recipe.id,title:recipe.title});
           }
@@ -600,7 +714,7 @@ export function createMealPlanner({ root, settingsSelect, getProfileId, showToas
     setActive(value,{preserveSelection=false}={}) {
       if(value && !active && !returningFromDetails && plan?.activeMenu)plan={...plan,buildingNext:false};
       returningFromDetails=!value && preserveSelection;
-      active=value;
+      active=Boolean(value && getProfileId());
       if (!active) {document.body.classList.remove('is-swiping');generation++;busy=false;drag=null;if(!preserveSelection)replacement=null;root.querySelector('dialog')?.close();if(confirmation.open)confirmation.close('cancel');}
       else render();
       scheduleDayChange();
