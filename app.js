@@ -1,8 +1,9 @@
-import { scaleByFactor, normalizeMembers, servingShares } from './household-portions.mjs?v=122';
-import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=122';
-import { createMealPlanner } from './meal-planner.js?v=122';
-import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=122';
-import { PRODUCT_TRANSLATIONS, INGREDIENT_DETAILS_LT } from './product-translations.mjs?v=122';
+import {recipeFlagButtons, initializeRecipeFlags, reviewedRecipeKeys} from './recipe-flags.mjs?v=126';
+import { scaleByFactor, normalizeMembers, servingShares } from './household-portions.mjs?v=126';
+import { createSyncEngine, hasSession, loginWithPassword } from './sync.js?v=126';
+import { createMealPlanner } from './meal-planner.js?v=126';
+import { scaleRecipeIngredients, portionMultiplier } from './recipe-portions.mjs?v=126';
+import { PRODUCT_TRANSLATIONS, INGREDIENT_DETAILS_LT } from './product-translations.mjs?v=126';
 
 const STORAGE = { recipes: 'keto-recipes-v1', cart: 'keto-cart-v1', pantry: 'keto-pantry-v1', dictionary: 'keto-translation-dictionary-v1', users: 'keto-users-v1', currentUser: 'keto-current-user-v1', userRecipes: 'keto-user-recipes-v1', userRecipeRefs: 'keto-user-recipe-refs-v1', userCarts: 'keto-user-carts-v1', userPins: 'keto-user-pins-v1', userPantries: 'keto-user-pantries-v1' };
 const APP_URL = 'https://gailys.github.io/ruledMeRecipes/';
@@ -464,7 +465,7 @@ let userPantries = load(STORAGE.userPantries, {});
 let dictionaryData = { recipesAudited: 0, entries: [] };
 let activeRecipeId = null;
 let activeFilter = 'Visi';
-let libraryCatalog, libraryLoading, libraryCategory='Visos kategorijos', libraryAvailability=false, libraryLimit=48;
+let libraryCatalog, libraryLoading, libraryCategory='Visos kategorijos', libraryAvailability=false, libraryUnreviewed=false, libraryLimit=48;
 let libraryProductIndex=[];
 let productSuggestionIndex;
 const productCollator=new Intl.Collator('lt');
@@ -1201,8 +1202,10 @@ function renderRecipes() {
   const categories=['Visos kategorijos',...new Set(all.map(recipe=>recipe.category))];
   $('#category-filters').innerHTML=categories.map(value=>`<button class="filter-chip ${libraryCategory===value ? 'active' : ''}" data-library-category="${escapeHtml(value)}" aria-pressed="${libraryCategory===value}">${escapeHtml(value)}</button>`).join('');
   $('#library-availability').checked=libraryAvailability;
+  $('#library-unreviewed').checked=libraryUnreviewed;
+  const reviewed=libraryUnreviewed ? reviewedRecipeKeys() : null;
   renderLibraryProducts();
-  let matching=all.filter(recipe=>(activeFilter!=='Mėgstami' || recipe.pinned) && (libraryCategory==='Visos kategorijos' || recipe.category===libraryCategory));
+  let matching=all.filter(recipe=>(!reviewed || !reviewed.has((recipe.url||recipe.id).replace(/\/$/,''))) && (activeFilter!=='Mėgstami' || recipe.pinned) && (libraryCategory==='Visos kategorijos' || recipe.category===libraryCategory));
   let fallback=false;
   if(libraryAvailability) {
     const owned=new Set(pantry.map(item=>item.key));
@@ -1270,6 +1273,7 @@ function renderDetail(id, servingsOverride) {
       <section><div class="ingredient-title"><h2>Ingredientai</h2><button class="text-button" data-toggle>Atžymėti visus</button></div>${ingredientsHtml}<button class="primary dark" data-add-cart>Pridėti pažymėtus į pirkinius</button></section>
       <section><p class="eyebrow">Gaminimas</p><h2>Instrukcija</h2><p class="portion-note">Naudokite ingredientų sąraše visiems šį patiekalą valgantiems šeimos nariams perskaičiuotus kiekius. Instrukcijoje paminėti kiekiai yra iš originalaus recepto.</p><div class="instructions" lang="lt">${steps.length ? steps.map(step => `<div class="instruction">${escapeHtml(step)}</div>`).join('') : '<p class="muted">Instrukciją rasite originaliame recepte.</p>'}</div></section>
     </div>
+    ${recipeFlagButtons(recipe)}
     <footer class="recipe-original-footer"><a class="detail-action" href="${escapeHtml(recipe.url)}" target="_blank" rel="noopener noreferrer">Originalus receptas ↗</a></footer>`;
 }
 
@@ -1733,6 +1737,7 @@ document.addEventListener('change', event => {
     if(!input.reportValidity())return;
     renderDetail(activeRecipeId,peopleCount(input.value));
   }
+  if(event.target.matches('#library-unreviewed')) {libraryUnreviewed=event.target.checked;libraryLimit=48;renderRecipes();}
   if(event.target.matches('#library-availability')) {libraryAvailability=event.target.checked;libraryLimit=48;renderRecipes();}
   if(event.target.matches('[data-library-product]')) {
     const input=event.target;
@@ -1778,7 +1783,7 @@ if ('serviceWorker' in navigator) {
     if (reloadingForUpdate) return; reloadingForUpdate = true; location.reload();
   });
   window.addEventListener('load', async () => {
-    const registration = await navigator.serviceWorker.register('./sw.js?v=122', { updateViaCache: 'none' });
+    const registration = await navigator.serviceWorker.register('./sw.js?v=126', { updateViaCache: 'none' });
     registration.update();
   });
 }
@@ -1820,3 +1825,7 @@ document.addEventListener('keydown', event => {
     adjustCalories(event.target, event.key === 'ArrowUp' ? 100 : -100);
   }
 });
+
+initializeRecipeFlags(showToast);
+
+document.addEventListener('recipe-flags-changed',()=>{if(location.hash==='#recipes' && libraryUnreviewed)renderRecipes();});

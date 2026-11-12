@@ -9,8 +9,8 @@
     <link rel="icon" type="image/svg+xml" href="./icons/cupcake.svg" />
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/cupcake-192.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon-cupcake.png" />
-    <link rel="stylesheet" href="./styles.css?v=122" />
-    <link rel="stylesheet" href="./meal-planner.css?v=122" />
+    <link rel="stylesheet" href="./styles.css?v=126" />
+    <link rel="stylesheet" href="./meal-planner.css?v=126" />
     <title>Mano keto receptai</title>
   </head>
   <body>
@@ -38,6 +38,7 @@
           <span id="recipe-count" class="muted"></span>
         </div>
         <div id="library-tabs" class="filters" aria-label="Receptų sąrašas"></div>
+        <label class="library-availability library-review-filter"><input id="library-unreviewed" type="checkbox"> Tik neperžiūrėti receptai</label>
         <div id="category-filters" class="filters" aria-label="Receptų kategorijos"></div>
         <details class="library-products">
           <summary>Produktai, kuriuos turiu namuose <span id="library-product-count"></span></summary>
@@ -109,6 +110,8 @@
       <div class="settings-content">
         <h2>Nustatymai</h2>
         <p>Pasirinkite, ką norite pakeisti.</p>
+        <button id="export-recipe-flags" class="ui-button" type="button">Eksportuoti garnyrų ir pagardų žymas (JSON)</button>
+        <p>Pažymėti receptai, kuriems trūksta garnyro arba pagardo. Žymos saugomos šiame įrenginyje ir bendros visiems profiliams.</p>
         <button id="open-dictionary" class="settings-option" type="button">
           <span class="settings-option-icon" aria-hidden="true">Aa</span>
           <span><strong>Ingredientų vertimai</strong><small>Peržiūrėti ir taisyti produktų pavadinimus</small></span>
@@ -274,6 +277,6 @@
       <button type="button" class="text-button" id="blocked-meals-later">Pakeisiu vėliau</button>
     </dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=122"></script>
+    <script type="module" src="./app.js?v=126"></script>
   </body>
 </html>

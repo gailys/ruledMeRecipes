@@ -407,3 +407,13 @@ button.text-button {padding:7px 10px}
 .users-content #users-cancel[hidden] {display:none}
 
 .recipe-original-footer {margin-top:28px;padding:20px 0;border-top:1px solid var(--line)}
+
+.recipe-flags {display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.recipe-flags .recipe-flag {min-height:28px;padding:4px 8px;font-size:11px;line-height:1.4;user-select:none;-webkit-user-select:none;touch-action:pan-y;background-image:linear-gradient(90deg,#dce7d5,#dce7d5);background-size:0 100%;background-repeat:no-repeat}
+.recipe-flag[aria-pressed="true"] {color:var(--green);border-color:var(--green)}
+.recipe-flag.holding {animation:recipe-flag-hold 1s linear forwards}
+@keyframes recipe-flag-hold {to {background-size:100% 100%}}
+.daily-recipe-row > .recipe-flags {grid-column:1/-1;margin:0 0 4px}
+.swipe-copy .recipe-flags {margin:4px 0}
+
+.library-review-filter {margin:12px 0 16px;font-size:14px}

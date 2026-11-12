@@ -26,7 +26,7 @@ const server=http.createServer(async(request,response)=>{
       return;
     }
     if(pathname==='/__planner-preview') {
-      const page=(await fs.readFile(path.join(root,'index.html'),'utf8')).replace(/\.\/app\.js\?v=\d+/,'./__qa/app.js?v=122');
+      const page=(await fs.readFile(path.join(root,'index.html'),'utf8')).replace(/\.\/app\.js\?v=\d+/,'./__qa/app.js?v=126');
       response.writeHead(200,{'content-type':mime['.html'],'cache-control':'no-store'});response.end(page);return;
     }
     if(pathname==='/__qa/sync.js') {
