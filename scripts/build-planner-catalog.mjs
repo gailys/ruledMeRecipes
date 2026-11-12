@@ -13,7 +13,13 @@ for (const recipe of normalizedRecipes) {
   let image=recipe.image;
   if(image.includes('nenaudojama/')) {
     const destination=`data/library/images/${recipe.id}${path.extname(image)}`;
-    await fs.copyFile(new URL('../'+image.replace(/^\.\//,''),root),new URL('../'+destination,root));
+    // These covers are committed assets. The ignored archive is not available in CI.
+    try {
+      await fs.access(new URL('../'+destination,root));
+    } catch(error) {
+      if(error.code!=='ENOENT')throw error;
+      throw new Error(`Missing committed recipe cover: ${destination}. Add it to the repository; builds do not use the ignored nenaudojama archive.`,{cause:error});
+    }
     image='./'+destination;
   }
   library.push({...recipe,image});
